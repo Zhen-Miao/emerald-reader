@@ -1,0 +1,2040 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Emerald City Reader — Learn English with Seattle News</title>
+<style>
+/* ============ Design tokens (light) ============ */
+:root{
+  --page:#f9f9f7; --surface:#fcfcfb; --surface-2:#f2f1ed;
+  --ink:#0b0b0b; --ink-2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --baseline:#c3c2b7; --hairline:rgba(11,11,11,.10);
+  --accent:#0c7a55; --accent-ink:#ffffff; --accent-soft:rgba(12,122,85,.10);
+  --series-1:#2a78d6; --series-2:#eb6834;
+  --good:#006300; --danger:#d03b3b;
+  --chip:#eef3ef; --shadow:0 1px 3px rgba(11,11,11,.07),0 4px 16px rgba(11,11,11,.05);
+  --radius:12px;
+}
+[data-theme="dark"]{
+  --page:#0d0d0d; --surface:#1a1a19; --surface-2:#242422;
+  --ink:#ffffff; --ink-2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --baseline:#383835; --hairline:rgba(255,255,255,.10);
+  --accent:#2bbd8c; --accent-ink:#08130f; --accent-soft:rgba(43,189,140,.14);
+  --series-1:#3987e5; --series-2:#d95926;
+  --good:#0ca30c; --danger:#e66767;
+  --chip:#22302a; --shadow:0 1px 3px rgba(0,0,0,.4),0 4px 16px rgba(0,0,0,.3);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; background:var(--page); color:var(--ink);
+  font-family:system-ui,-apple-system,"Segoe UI",sans-serif;
+  font-size:16px; line-height:1.55;
+  transition:background .25s,color .25s;
+}
+button{font-family:inherit}
+a{color:var(--accent)}
+
+/* ============ Header ============ */
+header{
+  position:sticky; top:0; z-index:50;
+  background:var(--surface); border-bottom:1px solid var(--hairline);
+  padding:10px 20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap;
+}
+.logo{display:flex; align-items:center; gap:10px; margin-right:6px}
+.logo .mark{width:34px;height:34px;border-radius:10px;background:var(--accent);color:var(--accent-ink);
+  display:flex;align-items:center;justify-content:center;font-size:19px}
+.logo h1{font-size:17px;margin:0;line-height:1.15}
+.logo .sub{font-size:11.5px;color:var(--muted);font-weight:400}
+nav{display:flex;gap:4px;background:var(--surface-2);padding:4px;border-radius:12px}
+nav button{
+  border:0;background:transparent;color:var(--ink-2);padding:7px 16px;border-radius:9px;
+  font-size:14px;font-weight:600;cursor:pointer;transition:all .15s;
+}
+nav button.active{background:var(--surface);color:var(--ink);box-shadow:var(--shadow)}
+nav button .cnt{font-size:11px;color:var(--muted);font-weight:600;margin-left:4px}
+.hdr-right{margin-left:auto;display:flex;gap:8px;align-items:center}
+.iconbtn{
+  border:1px solid var(--hairline);background:var(--surface);color:var(--ink-2);
+  width:36px;height:36px;border-radius:10px;cursor:pointer;font-size:16px;
+  display:flex;align-items:center;justify-content:center;transition:all .15s;
+}
+.iconbtn:hover{border-color:var(--accent);color:var(--accent)}
+.btn{
+  border:0;background:var(--accent);color:var(--accent-ink);padding:9px 16px;border-radius:10px;
+  font-size:14px;font-weight:650;cursor:pointer;display:inline-flex;align-items:center;gap:7px;
+  transition:filter .15s;
+}
+.btn:hover{filter:brightness(1.08)}
+.btn.secondary{background:var(--surface-2);color:var(--ink-2);border:1px solid var(--hairline)}
+.btn:disabled{opacity:.55;cursor:default}
+
+/* ============ Layout ============ */
+main{max-width:1200px;margin:0 auto;padding:20px}
+.tabpane{display:none}
+.tabpane.active{display:block}
+.banner{
+  background:var(--accent-soft);border:1px solid var(--hairline);border-radius:var(--radius);
+  padding:10px 16px;font-size:13.5px;color:var(--ink-2);margin-bottom:16px;display:none;
+}
+.banner.show{display:block}
+
+/* ============ News tab ============ */
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px;align-items:center}
+.chipbtn{
+  border:1px solid var(--hairline);background:var(--surface);color:var(--ink-2);
+  padding:6px 13px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer;transition:all .15s;
+}
+.chipbtn.active{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.filters .spacer{flex:1}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.card{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);
+  padding:16px 18px;cursor:pointer;transition:transform .12s,box-shadow .12s;position:relative;
+  display:flex;flex-direction:column;gap:8px;
+}
+.card:hover{transform:translateY(-2px);box-shadow:var(--shadow)}
+.card .thumb{width:calc(100% + 36px);margin:-16px -18px 6px;height:150px;object-fit:cover;border-radius:12px 12px 0 0;display:block}
+.card .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted);flex-wrap:wrap}
+.srcbadge{
+  font-size:11px;font-weight:700;letter-spacing:.02em;padding:3px 9px;border-radius:6px;
+  background:var(--chip);color:var(--accent);
+}
+.catbadge{font-size:11.5px;color:var(--muted)}
+.card h3{margin:0;font-size:16.5px;line-height:1.35}
+.card .excerpt{font-size:13.5px;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin:0}
+.card .foot{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);margin-top:auto}
+.readmark{
+  margin-left:auto;font-size:12px;font-weight:700;color:var(--good);
+  display:flex;align-items:center;gap:5px;
+}
+.card.isread{opacity:.72}
+.card.isread h3{color:var(--ink-2)}
+.newdot{width:8px;height:8px;border-radius:50%;background:var(--series-1);display:inline-block}
+.empty{color:var(--muted);text-align:center;padding:60px 20px;font-size:15px}
+
+/* ============ Reader ============ */
+.reader{display:none;grid-template-columns:minmax(0,1fr) 340px;gap:22px;align-items:start}
+.reader.open{display:grid}
+@media(max-width:900px){.reader.open{grid-template-columns:1fr}}
+.article-pane{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);padding:28px 32px}
+.article-pane .top{display:flex;gap:10px;align-items:center;margin-bottom:14px;flex-wrap:wrap}
+.backbtn{border:0;background:var(--surface-2);color:var(--ink-2);padding:7px 14px;border-radius:9px;font-size:13.5px;font-weight:600;cursor:pointer}
+.article-pane h2{font-size:25px;line-height:1.25;margin:6px 0 6px}
+.article-pane figure{margin:16px 0}
+.article-pane figure img{width:100%;max-height:420px;object-fit:cover;border-radius:10px;display:block}
+.article-pane figcaption{font-size:12px;color:var(--muted);margin-top:6px}
+#levelsel{
+  height:36px;border:1px solid var(--hairline);background:var(--surface);color:var(--ink-2);
+  border-radius:10px;font-size:13px;font-weight:600;padding:0 8px;cursor:pointer;font-family:inherit;
+}
+.abody{font-size:16.5px;line-height:1.75;color:var(--ink)}
+.abody p{margin:0 0 16px}
+.hl{
+  border-bottom:1px dotted var(--baseline);cursor:pointer;border-radius:2px;
+  transition:background .15s,border-color .15s;
+}
+.hl:hover{border-bottom:1px solid var(--accent);background:var(--accent-soft)}
+.hl.flash{background:var(--accent-soft);border-bottom:1px solid var(--accent)}
+body.nohl .hl{border-bottom:none;cursor:inherit;background:transparent}
+.abar{display:flex;gap:8px;margin:18px 0 6px;flex-wrap:wrap;align-items:center}
+.readfull{font-size:14px;font-weight:650}
+.sidebar{position:sticky;top:76px;display:flex;flex-direction:column;gap:12px;max-height:calc(100vh - 96px);overflow:auto}
+.sidebox{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);padding:16px 18px}
+.sidebox h4{margin:0 0 4px;font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
+.sidebox .hint{font-size:12px;color:var(--muted);margin:0 0 10px}
+.wordcard{border-top:1px solid var(--grid);padding:11px 0}
+.wordcard:first-of-type{border-top:0}
+.wordcard .whead{display:flex;align-items:center;gap:8px}
+.wordcard .term{font-weight:700;font-size:15px;cursor:pointer}
+.wordcard .term:hover{color:var(--accent)}
+.wordcard .pos{font-size:11.5px;color:var(--muted);font-style:italic}
+.tag-phrase{font-size:10px;font-weight:700;background:var(--chip);color:var(--accent);padding:2px 7px;border-radius:5px;letter-spacing:.03em}
+.wordcard .def{font-size:13.5px;color:var(--ink-2);margin:4px 0 2px}
+.wordcard .ex{font-size:12.5px;color:var(--muted);font-style:italic;margin:2px 0 0}
+.wordcard .actions{margin-left:auto;display:flex;gap:6px}
+.minibtn{
+  border:1px solid var(--hairline);background:transparent;color:var(--ink-2);
+  padding:3px 10px;border-radius:7px;font-size:12px;font-weight:650;cursor:pointer;white-space:nowrap;
+}
+.minibtn:hover{border-color:var(--accent);color:var(--accent)}
+.minibtn.saved{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.minibtn.speak{padding:3px 8px}
+
+/* lookup popover */
+#lookuppop{
+  position:absolute;z-index:100;background:var(--surface);border:1px solid var(--hairline);
+  border-radius:12px;box-shadow:var(--shadow);padding:14px 16px;max-width:320px;display:none;font-size:13.5px;
+}
+#lookuppop .term{font-weight:700;font-size:15px}
+#lookuppop .def{color:var(--ink-2);margin:6px 0}
+#lookuppop textarea{width:100%;border:1px solid var(--grid);border-radius:8px;background:var(--page);color:var(--ink);padding:7px;font:inherit;font-size:13px}
+
+/* ============ Words tab ============ */
+.words-head{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.searchbox{
+  flex:1;min-width:200px;border:1px solid var(--hairline);background:var(--surface);color:var(--ink);
+  padding:9px 14px;border-radius:10px;font-size:14px;
+}
+.wtable{display:flex;flex-direction:column;gap:10px}
+.wrow{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);
+  padding:14px 18px;display:flex;gap:14px;align-items:flex-start;
+}
+.wrow .winfo{flex:1;min-width:0}
+.wrow .wterm{font-weight:700;font-size:16px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.wrow .wdef{font-size:13.5px;color:var(--ink-2);margin-top:3px}
+.wrow .wsrc{font-size:12px;color:var(--muted);margin-top:5px}
+.wrow .wside{display:flex;flex-direction:column;align-items:flex-end;gap:8px;flex-shrink:0}
+.progress-pips{display:flex;gap:4px}
+.pip{width:9px;height:9px;border-radius:50%;background:var(--grid)}
+.pip.on{background:var(--accent)}
+.rem-badge{font-size:11.5px;font-weight:700;color:var(--good)}
+.learn-badge{font-size:11.5px;font-weight:600;color:var(--muted)}
+
+/* flashcards */
+#flashwrap{display:none;max-width:520px;margin:0 auto}
+#flashwrap.open{display:block}
+.flash-progress{font-size:13px;color:var(--muted);text-align:center;margin-bottom:12px}
+.flashcard{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:18px;box-shadow:var(--shadow);
+  min-height:280px;padding:34px;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  text-align:center;gap:12px;
+}
+.flashcard .fterm{font-size:30px;font-weight:750}
+.flashcard .fpos{color:var(--muted);font-style:italic;font-size:14px}
+.flashcard .fdef{font-size:17px;color:var(--ink-2)}
+.flashcard .fex{font-size:14px;color:var(--muted);font-style:italic}
+.flash-actions{display:flex;gap:10px;justify-content:center;margin-top:16px;flex-wrap:wrap}
+.btn.good{background:var(--good);color:#fff}
+.btn.miss{background:var(--danger);color:#fff}
+
+/* ============ Progress tab (dataviz) ============ */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin-bottom:20px}
+.tile{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);padding:18px 20px}
+.tile .tlabel{font-size:13px;color:var(--ink-2);margin-bottom:6px}
+.tile .tvalue{font-size:34px;font-weight:650;line-height:1.1}
+.tile .tdelta{font-size:12.5px;color:var(--muted);margin-top:6px}
+.tile .tdelta .up{color:var(--good);font-weight:650}
+.chartbox{background:var(--surface);border:1px solid var(--hairline);border-radius:var(--radius);padding:20px 22px;margin-bottom:16px}
+.chartbox h4{margin:0 0 2px;font-size:15px}
+.chartbox .csub{font-size:12.5px;color:var(--muted);margin:0 0 16px}
+.chart{position:relative;height:180px}
+.chart .gridline{position:absolute;left:38px;right:0;border-top:1px solid var(--grid);height:0}
+.chart .gridline .glabel{position:absolute;left:-38px;top:-8px;font-size:11px;color:var(--muted);width:32px;text-align:right;font-variant-numeric:tabular-nums}
+.chart .baseline{position:absolute;left:38px;right:0;bottom:22px;border-top:1px solid var(--baseline)}
+.chart .bars{position:absolute;left:38px;right:0;top:0;bottom:22px;display:flex;align-items:flex-end;gap:6px;padding:0 4px}
+.chart .barcol{flex:1;display:flex;align-items:flex-end;justify-content:center;height:100%;cursor:pointer}
+.chart .bar{width:100%;max-width:24px;border-radius:4px 4px 0 0;min-height:0;transition:height .3s}
+.chart .xlab{position:absolute;left:38px;right:0;bottom:0;display:flex;gap:6px;padding:0 4px}
+.chart .xlab span{flex:1;text-align:center;font-size:10.5px;color:var(--muted)}
+#charttip{
+  position:fixed;z-index:200;background:var(--ink);color:var(--page);padding:6px 11px;border-radius:8px;
+  font-size:12.5px;pointer-events:none;display:none;white-space:nowrap;
+}
+details.tdata{margin-top:10px;font-size:13px;color:var(--ink-2)}
+details.tdata summary{cursor:pointer;color:var(--muted);font-size:12.5px}
+details.tdata table{border-collapse:collapse;margin-top:8px}
+details.tdata td,details.tdata th{border:1px solid var(--grid);padding:4px 10px;font-variant-numeric:tabular-nums}
+
+/* ============ Modal ============ */
+.modal-veil{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:150;display:none;align-items:center;justify-content:center;padding:20px}
+.modal-veil.open{display:flex}
+.modal{background:var(--surface);border-radius:16px;max-width:480px;width:100%;padding:26px 28px;box-shadow:var(--shadow);max-height:85vh;overflow:auto}
+.modal h3{margin:0 0 12px;font-size:18px}
+.srcstatus{display:flex;justify-content:space-between;font-size:13.5px;padding:7px 0;border-bottom:1px solid var(--grid)}
+.srcstatus .ok{color:var(--good);font-weight:650}
+.srcstatus .fail{color:var(--danger)}
+.srcstatus .pend{color:var(--muted)}
+
+.toast{
+  position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);z-index:300;
+  background:var(--ink);color:var(--page);padding:11px 20px;border-radius:12px;font-size:14px;font-weight:600;
+  transition:transform .3s;box-shadow:var(--shadow);
+}
+.toast.show{transform:translateX(-50%) translateY(0)}
+footer{max-width:1200px;margin:10px auto 30px;padding:0 20px;font-size:12px;color:var(--muted)}
+@media(max-width:640px){
+  header{padding:8px 12px;gap:8px}
+  .logo .sub{display:none}
+  nav button{padding:6px 10px;font-size:13px}
+  main{padding:12px}
+  .article-pane{padding:18px 16px}
+  .article-pane h2{font-size:21px}
+  .abody{font-size:16px}
+  .tiles{grid-template-columns:1fr 1fr}
+  .sidebar{position:static;max-height:none}
+  .flashcard{padding:22px;min-height:220px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">
+    <div class="mark">🌲</div>
+    <div><h1>Emerald City Reader</h1><div class="sub">Learn English with Seattle news</div></div>
+  </div>
+  <nav>
+    <button data-tab="news" class="active">News</button>
+    <button data-tab="words">Words &amp; Phrases <span class="cnt" id="wordcount"></span></button>
+    <button data-tab="progress">Progress</button>
+  </nav>
+  <div class="hdr-right">
+    <select id="levelsel" title="Your English level — controls which words get annotated">
+      <option value="b1">Level: B1–B2</option>
+      <option value="b2">Level: B2–C1</option>
+      <option value="c1">Level: C1+</option>
+    </select>
+    <button class="btn" id="refreshbtn" title="Fetch the latest articles from Seattle news sources">⟳ Refresh news</button>
+    <button class="iconbtn" id="themebtn" title="Toggle light / dark">◐</button>
+    <button class="iconbtn" id="exportbtn" title="Export your data (backup)">⬇</button>
+    <button class="iconbtn" id="importbtn" title="Import a backup">⬆</button>
+    <input type="file" id="importfile" accept=".json" style="display:none">
+  </div>
+</header>
+
+<main>
+  <div class="banner" id="storagebanner">⚠️ This browser is blocking saved data, so your progress lives only in this window. Use the ⬇ export button to back up, and ⬆ to restore.</div>
+
+  <!-- NEWS -->
+  <section class="tabpane active" id="pane-news">
+    <div id="newslist">
+      <div class="filters" id="catfilters"></div>
+      <div class="filters">
+        <button class="chipbtn active" data-read="all">All</button>
+        <button class="chipbtn" data-read="unread">Unread</button>
+        <button class="chipbtn" data-read="read">Read ✓</button>
+        <button class="chipbtn" id="longfilter" title="Feature-length articles (700+ words)">📚 Long reads</button>
+        <button class="chipbtn" id="shortfilter" title="Hide items under ~120 words (about 10 lines) — audio-only posts, headline stubs">Hide short</button>
+        <span class="spacer"></span>
+        <span style="font-size:12.5px;color:var(--muted)" id="feedstamp"></span>
+      </div>
+      <div class="cards" id="cards"></div>
+      <div class="empty" id="noarticles" style="display:none">No articles match these filters.</div>
+    </div>
+    <div class="reader" id="reader">
+      <div class="article-pane">
+        <div class="top">
+          <button class="backbtn" id="backbtn">← All articles</button>
+          <span class="srcbadge" id="r-src"></span>
+          <span class="catbadge" id="r-meta"></span>
+        </div>
+        <h2 id="r-title"></h2>
+        <div class="abar">
+          <a class="readfull" id="r-link" target="_blank" rel="noopener">Read the full story ↗</a>
+          <span class="spacer" style="flex:1"></span>
+          <button class="minibtn speak" id="r-marks" title="Show or hide the dotted word marks">◌ Marks</button>
+          <button class="minibtn speak" id="r-speak" title="Listen (text-to-speech)">🔊 Listen</button>
+          <button class="btn" id="r-markread">✓ Mark as read</button>
+        </div>
+        <figure id="r-fig" style="display:none"><img id="r-img" alt=""><figcaption id="r-figcap"></figcaption></figure>
+        <div class="abody" id="r-body"></div>
+        <p style="font-size:12px;color:var(--muted);margin-top:20px" id="r-excerptnote"></p>
+      </div>
+      <aside class="sidebar">
+        <div class="sidebox">
+          <h4>Key words &amp; phrases</h4>
+          <p class="hint">Click a term to highlight it in the text · <b>+ Save</b> adds it to your list. Double-click any word in the article to look it up.</p>
+          <div id="annolist"></div>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- WORDS -->
+  <section class="tabpane" id="pane-words">
+    <div id="wordshome">
+      <div class="words-head">
+        <input class="searchbox" id="wsearch" placeholder="Search your words &amp; phrases…">
+        <button class="chipbtn active" data-wfilter="all">All</button>
+        <button class="chipbtn" data-wfilter="words">Words</button>
+        <button class="chipbtn" data-wfilter="phrases">Phrases</button>
+        <button class="chipbtn" data-wfilter="learning">Still learning</button>
+        <button class="chipbtn" data-wfilter="remembered">Remembered ✓</button>
+        <button class="btn" id="reviewbtn">🃏 Review flashcards</button>
+      </div>
+      <div class="wtable" id="wtable"></div>
+      <div class="empty" id="nowords" style="display:none">
+        Nothing saved yet. Open an article in the <b>News</b> tab and click <b>+ Save</b> on words in the sidebar.
+      </div>
+    </div>
+    <div id="flashwrap">
+      <div class="flash-progress" id="flashprog"></div>
+      <div class="flashcard" id="flashcard"></div>
+      <div class="flash-actions" id="flashactions"></div>
+      <p style="text-align:center;margin-top:14px"><button class="backbtn" id="flashquit">End review</button></p>
+    </div>
+  </section>
+
+  <!-- PROGRESS -->
+  <section class="tabpane" id="pane-progress">
+    <div class="tiles" id="tiles"></div>
+    <div class="chartbox">
+      <h4>Articles read</h4>
+      <p class="csub">Last 14 days</p>
+      <div class="chart" id="chart-articles"></div>
+      <details class="tdata"><summary>View as table</summary><div id="table-articles"></div></details>
+    </div>
+    <div class="chartbox">
+      <h4>Words &amp; phrases saved</h4>
+      <p class="csub">Last 14 days</p>
+      <div class="chart" id="chart-words"></div>
+      <details class="tdata"><summary>View as table</summary><div id="table-words"></div></details>
+    </div>
+    <div class="chartbox" id="milestonebox" style="display:none">
+      <h4>Reading log</h4>
+      <p class="csub">Articles you've finished, newest first</p>
+      <div id="readlog" style="font-size:13.5px;color:var(--ink-2)"></div>
+    </div>
+  </section>
+</main>
+
+<div id="lookuppop"></div>
+<div id="charttip"></div>
+<div class="modal-veil" id="refreshmodal">
+  <div class="modal">
+    <h3>Fetching fresh Seattle news…</h3>
+    <p style="font-size:13px;color:var(--muted);margin-top:-6px">Pulling public RSS feeds. Sources sometimes fail — that's normal; whatever succeeds is added below.</p>
+    <div id="srcstatuses"></div>
+    <p style="text-align:right;margin:16px 0 0"><button class="btn" id="refreshclose" disabled>Close</button></p>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<footer>
+  Articles show headline + opening excerpt (or full text where the source's public feed provides it) with a link to the original — content belongs to the publishers.
+  Your reading progress and word list are saved in this browser only; use ⬇ to back up. Built for Darren · Seattle, WA.
+</footer>
+
+<script>
+/* ================================================================
+   DATA — news sources, starter articles (hand-annotated), idiom
+   dictionary, common-words fallback
+   ================================================================ */
+
+const SOURCES = [
+  {key:'kuow',     name:'KUOW',                cat:'local',   home:'https://www.kuow.org',
+   feeds:['https://www.kuow.org/feeds/all','https://www.kuow.org/index.rss','https://www.kuow.org/rss.xml','https://www.kuow.org/feed']},
+  {key:'geekwire', name:'GeekWire',            cat:'tech',    home:'https://www.geekwire.com',
+   feeds:['https://www.geekwire.com/feed/']},
+  {key:'urbanist', name:'The Urbanist',        cat:'transit', home:'https://www.theurbanist.org',
+   feeds:['https://www.theurbanist.org/feed/']},
+  {key:'stb',      name:'Seattle Transit Blog',cat:'transit', home:'https://seattletransitblog.com',
+   feeds:['https://seattletransitblog.com/feed/']},
+  {key:'emerald',  name:'South Seattle Emerald',cat:'community', home:'https://southseattleemerald.org',
+   feeds:['https://southseattleemerald.org/feed/','https://southseattleemerald.org/rss/','https://southseattleemerald.com/feed/']},
+  {key:'chs',      name:'Capitol Hill Seattle',cat:'local',   home:'https://www.capitolhillseattle.com',
+   feeds:['https://www.capitolhillseattle.com/feed/']},
+  {key:'cascade',  name:'Cascade PBS',         cat:'arts',    home:'https://www.cascadepbs.org',
+   feeds:['https://www.cascadepbs.org/articles.xml','https://www.cascadepbs.org/rss.xml','https://crosscut.com/feed']},
+  {key:'stranger', name:'The Stranger',        cat:'arts',    home:'https://www.thestranger.com',
+   feeds:['https://www.thestranger.com/seattle/Rss.xml','https://www.thestranger.com/rss.xml','https://www.thestranger.com/feeds/rss']},
+  {key:'eater',    name:'Eater Seattle',       cat:'food',    home:'https://seattle.eater.com',
+   feeds:['https://seattle.eater.com/rss/index.xml']},
+  {key:'grist',    name:'Grist',               cat:'climate', home:'https://grist.org',
+   feeds:['https://grist.org/feed/'], nwOnly:true},
+  {key:'invw',     name:'InvestigateWest',     cat:'local',   home:'https://www.investigatewest.org',
+   feeds:['https://www.investigatewest.org/rss/','https://www.investigatewest.org/feed/']},
+  {key:'propublica', name:'ProPublica',        cat:'local',   home:'https://www.propublica.org',
+   feeds:['https://feeds.propublica.org/propublica/main','https://www.propublica.org/feeds/propublica/main'], nwOnly:true},
+  {key:'npr',      name:'NPR',                 cat:'national', home:'https://www.npr.org',
+   feeds:['https://feeds.npr.org/1001/rss.xml']},
+  {key:'bbc',      name:'BBC News',            cat:'national', home:'https://www.bbc.com/news',
+   feeds:['https://feeds.bbci.co.uk/news/rss.xml']},
+  {key:'guardian', name:'The Guardian US',     cat:'national', home:'https://www.theguardian.com/us',
+   feeds:['https://www.theguardian.com/us/rss']},
+  {key:'conversation', name:'The Conversation', cat:'national', home:'https://theconversation.com/us',
+   feeds:['https://theconversation.com/us/articles.atom']},
+];
+const NW_RE=/washington|seattle|tacoma|spokane|bellevue|everett|olympia|vancouver|oregon|portland|northwest|puget|cascade|columbia river|idaho|boise/i;
+
+const CATS = [
+  {key:'all',       label:'All topics'},
+  {key:'local',     label:'Local news'},
+  {key:'tech',      label:'Tech & business'},
+  {key:'transit',   label:'Transit & urbanism'},
+  {key:'climate',   label:'Climate & environment'},
+  {key:'arts',      label:'Arts & events'},
+  {key:'food',      label:'Food'},
+  {key:'community', label:'Community'},
+  {key:'national',  label:'U.S. & world'},
+];
+
+/* ---------- Starter articles (fetched 2026-08-15, hand-annotated) ---------- */
+const STARTER_ARTICLES = [
+{
+id:'s-kuow-recall', srcKey:'kuow', cat:'local',
+title:"Recall petition filed against Seattle Mayor Katie Wilson faces 'uphill' battle",
+author:'Scott Greenstone', date:'2026-08-12',
+url:'https://www.kuow.org/governing/2026-08-12/recall-petition-filed-against-seattle-mayor-katie-wilson-faces-uphill-battle',
+paras:[
+"Mayor Katie Wilson will be served with charges after two Seattle residents filed a recall petition alleging she's \"derelict in her duties for public safety of the city of Seattle.\"",
+"Melinda Jacobson and Dale Osterud filed the petition with King County Elections on Tuesday, citing Wilson's public safety approach to areas such as Aurora Avenue and Little Saigon, her move to turn off CCTV cameras in the Stadium District after the World Cup, and asking the police chief to resign two weeks ago.",
+"\"I don't have anything against her personally. She is just in way above her head,\" Jacobson told KUOW. She's married to Osterud and said she voted for Wilson's opponent Bruce Harrell last year. \"If we have to have another almost three and a half years of this, this city's going to be downhill like you wouldn't believe.\"",
+"The petition lands amidst a lot of public pressure on Mayor Wilson. During the first eight months of her administration, moves to remove the police chief and install but not turn on surveillance cameras have angered city councilmembers, Black faith and community leaders, and even some of her core supporters.",
+"This recall might not be a big threat. If a Superior Court judge decides the petition can go forward, recall supporters will have roughly six months to gather nearly 70,000 signatures to get it on the ballot."
+],
+annos:[
+{t:'recall', m:['recall petition','recall'], pos:'noun (politics)', d:'A vote to remove an elected official from office before their term is finished.', ex:'Voters started a recall against the governor.'},
+{t:'petition', m:['petition'], pos:'noun', d:'A formal written request, usually signed by many people, asking an authority to do something.', ex:'She signed a petition to save the local library.'},
+{t:'derelict in one’s duties', m:['derelict in her duties'], ph:1, pos:'formal phrase', d:'Failing to do the job you are responsible for; neglecting your duty.', ex:'The report accused the inspector of being derelict in his duties.'},
+{t:'in over one’s head', m:['way above her head'], ph:1, pos:'idiom', d:'In a situation that is too difficult for you to handle. (Here the speaker says "in way above her head.")', ex:'He took the manager job but was quickly in over his head.'},
+{t:'go downhill', m:['going to be downhill'], ph:1, pos:'idiom', d:'To become worse and worse over time.', ex:'After the factory closed, the neighborhood went downhill.'},
+{t:'amidst', m:['amidst'], pos:'preposition (formal)', d:'In the middle of; surrounded by (a situation).', ex:'The company grew even amidst the economic crisis.'},
+{t:'uphill battle', m:['uphill'], ph:1, pos:'idiom', d:'Something that is very difficult to achieve and requires a long struggle.', ex:'Winning back customers will be an uphill battle.'},
+{t:'gather signatures', m:['gather nearly 70,000 signatures'], ph:1, pos:'collocation', d:'To collect signed names from people who support a petition.', ex:'Volunteers gathered signatures outside the grocery store.'}
+]},
+
+{
+id:'s-kuow-ice', srcKey:'kuow', cat:'local',
+title:'Is ICE about to take control of the privately run detention center in Tacoma?',
+author:'Gustavo Sagrero Álvarez', date:'2026-08-13',
+url:'https://www.kuow.org/immigration/2026-08-13/is-ice-about-to-take-control-of-the-privately-run-detention-center-in-tacoma',
+paras:[
+"The private owners of the immigrant detention center in Tacoma said they'll soon be in talks with U.S. Immigration and Customs Enforcement officials to sell some of their detention facilities across the country to the feds.",
+"It remains unclear whether those negotiations include the Northwest ICE Processing Center, which has been run by GEO Group since 2005. The company's recent 10-year contract to manage the center expired in 2025. GEO Group's founder told investors they aim to wrap up pricing negotiations of any sales as soon as late September.",
+"\"There's a mutual interest by us and ICE that this process hopefully be completed by the end of this quarter,\" said George Zoley, chairman, CEO, and founder of GEO Group, during an investor call.",
+"Back in July ICE issued a \"Request for Information\" looking to purchase turn-key detention facilities in several states, including in Washington near Seattle. The three other sites where ICE is looking to buy a facility line up with the centers GEO Group owns and operates near those locations.",
+"ICE bought a facility similar to the Tacoma ICE center in California owned by Core Civic for nearly $500 million earlier this month."
+],
+annos:[
+{t:'detention center', m:['detention center'], ph:1, pos:'noun', d:'A place where people are held by authorities, for example while waiting for an immigration or legal decision.', ex:'He was held at a detention center for two months.'},
+{t:'the feds', m:['the feds'], ph:1, pos:'noun (informal)', d:'The federal (national) government or its agents.', ex:'The company is being investigated by the feds.'},
+{t:'be in talks with', m:['in talks with'], ph:1, pos:'phrase', d:'To be having formal discussions with someone, usually about a deal.', ex:'The startup is in talks with several investors.'},
+{t:'wrap up', m:['wrap up'], ph:1, pos:'phrasal verb', d:'To finish or complete something.', ex:'We hope to wrap up the project by Friday.'},
+{t:'expire', m:['expired'], pos:'verb', d:'To reach the end of a period of validity (a contract, license, or ticket).', ex:'My driver’s license expires next month.'},
+{t:'turn-key', m:['turn-key'], pos:'adjective', d:'Ready to use immediately, with nothing extra needed.', ex:'They bought a turn-key restaurant and opened a week later.'},
+{t:'line up with', m:['line up with'], ph:1, pos:'phrasal verb', d:'To match or correspond with something.', ex:'His story doesn’t line up with the evidence.'},
+{t:'quarter', m:['end of this quarter'], pos:'noun (business)', d:'One of the four three-month periods of a business year.', ex:'Sales grew 8% in the second quarter.'}
+]},
+
+{
+id:'s-kuow-book', srcKey:'kuow', cat:'arts',
+title:"KUOW Book Club's August pick explores what it means to be 'Raised by Ferns'",
+author:'Katie Campbell', date:'2026-08-01',
+url:'https://www.kuow.org/2026-08-01/kuow-book-club-seattle-public-library-live-series-maya-jewell-zeller-raised-by-ferns',
+paras:[
+"The KUOW Book Club is continuing a summer of live author talks in partnership with the Seattle Public Library with Maya Jewell Zeller.",
+"We'll be reading her memoir, \"Raised by Ferns.\"",
+"Zeller will join us for a live interview at the Seattle Central Library on Aug. 20.",
+"Born in a Pacific Northwest gas station to itinerant, countercultural parents, Zeller grew up in a world shaped by poverty, wildness, and fierce self-reliance. In her memoir, she reflects on her journey from what she calls \"a feral girl\" searching for both freedom and safety to a middle-class adult reckoning with identity, belonging, and uneasy privilege.",
+"This isn't about pulling oneself up by the bootstraps, Zeller promises, but rather a story about what it means to live between worlds."
+],
+annos:[
+{t:'memoir', m:['memoir'], pos:'noun', d:'A book in which the author writes about their own life and memories.', ex:'She published a memoir about growing up in Alaska.'},
+{t:'itinerant', m:['itinerant'], pos:'adjective', d:'Traveling from place to place, never staying long anywhere.', ex:'He spent years as an itinerant musician.'},
+{t:'countercultural', m:['countercultural'], pos:'adjective', d:'Rejecting the values and habits of mainstream society.', ex:'The neighborhood had a countercultural spirit in the 1970s.'},
+{t:'self-reliance', m:['self-reliance'], pos:'noun', d:'The ability to depend on yourself rather than on other people.', ex:'Living alone taught her self-reliance.'},
+{t:'feral', m:['feral'], pos:'adjective', d:'Wild; living or behaving like a wild animal.', ex:'Feral cats live in the empty lot behind the store.'},
+{t:'reckon with', m:['reckoning with'], ph:1, pos:'phrasal verb', d:'To face and deal with something difficult that cannot be ignored.', ex:'The country is still reckoning with its past.'},
+{t:'pull oneself up by the bootstraps', m:['bootstraps'], ph:1, pos:'idiom', d:'To succeed only through your own hard work, without help. Often used critically in American debates about poverty.', ex:'The myth says anyone can pull themselves up by their bootstraps.'},
+{t:'privilege', m:['privilege'], pos:'noun', d:'A special advantage that some people have and others do not.', ex:'He admits his education was a privilege.'}
+]},
+
+{
+id:'s-gw-nominal', srcKey:'geekwire', cat:'tech',
+img:'https://cdn.geekwire.com/wp-content/uploads/2026/07/NOMINAL-CEO-CAMERON-MCCORD-Headshot.jpg',
+imgCap:'Nominal CEO Cameron McCord. (GeekWire)',
+title:"Seattle lands another $1B startup: Here's the latest arrival in the industrial AI boom",
+author:'John Cook', date:'2026-07-29',
+url:'https://www.geekwire.com/2026/seattle-lands-another-1b-startup-heres-the-latest-arrival-in-the-industrial-ai-boom/',
+paras:[
+"Seattle's emergence as a hub for companies building the next generation of industrial technology is drawing another high-profile startup.",
+"Los Angeles-based Nominal, whose software helps engineers build, test and validate complex hardware systems, is establishing a permanent Seattle office as it ramps up hiring and looks for a larger home in the region.",
+"The nearly 4-year-old company currently employs 11 people at a downtown Seattle co-working space, and expects to more than double that number by the end of the year.",
+"The company is also relocating Head of Product Stephen Slattery, the former director of technical operations at defense tech giant Anduril Industries, from Los Angeles to Seattle to oversee the new office. Employing about 200 employees globally, Nominal also operates offices in Austin, New York, Washington, D.C., and London.",
+"Seattle's concentration of tech and aerospace talent, along with proximity to key partners and customers, attracted the fast-growing company."
+],
+annos:[
+{t:'hub', m:['hub'], pos:'noun', d:'A center of activity where a lot of something happens.', ex:'Seattle is a hub for cloud computing.'},
+{t:'high-profile', m:['high-profile'], pos:'adjective', d:'Attracting a lot of public attention.', ex:'She left for a high-profile job at Amazon.'},
+{t:'ramp up', m:['ramps up'], ph:1, pos:'phrasal verb', d:'To increase something quickly (production, hiring, effort).', ex:'The factory ramped up production before the holidays.'},
+{t:'validate', m:['validate'], pos:'verb', d:'To check and confirm that something works correctly or is true.', ex:'Engineers validate the design before manufacturing.'},
+{t:'co-working space', m:['co-working space'], ph:1, pos:'noun', d:'A shared office where people from different companies rent desks.', ex:'The startup began in a co-working space downtown.'},
+{t:'relocate', m:['relocating'], pos:'verb', d:'To move to a new place, especially for work.', ex:'The company relocated its office to Bellevue.'},
+{t:'oversee', m:['oversee'], pos:'verb', d:'To watch over and direct work; to supervise.', ex:'She oversees a team of forty engineers.'},
+{t:'proximity', m:['proximity'], pos:'noun (formal)', d:'Nearness in distance.', ex:'The apartment’s proximity to light rail raised its price.'}
+]},
+
+{
+id:'s-gw-auger', srcKey:'geekwire', cat:'tech',
+title:"This former Amazon exec is moving his startup's HQ to Texas, and he has a few notes for Seattle",
+author:'Todd Bishop', date:'2026-08-12',
+url:'https://www.geekwire.com/2026/this-former-amazon-exec-is-moving-his-startups-hq-to-texas-and-he-has-a-few-notes-for-seattle/',
+paras:[
+"One of the Seattle region's most notable tech startups is moving its headquarters to Texas.",
+"Supply chain technology startup Auger will maintain a major engineering office in Bellevue, Wash., where it got started. But the company's co-founder and CEO, Dave Clark, the former Amazon operations chief, is officially back in Dallas, and he took the company's HQ with him.",
+"Founded in 2024, Auger has raised $150 million, including a $50 million Series B round led by Eclipse in July. Its software connects the systems that companies use to run their supply chains, integrating AI to help automate them. Its customers include Meta, Fanatics and Kimberly-Clark.",
+"Clark, in an interview with GeekWire, said the move is about talent and family, not taxes. For one thing, Texas happens to better suit him and Auger co-founder Leigh Anne Clark, his wife. They're running toward something rather than away, he said. They both grew up in the Southeast, and they had always intended to return to Texas at some point.",
+"\"I'd rather have a really hot month of August than a really gray month of February,\" he said."
+],
+annos:[
+{t:'headquarters (HQ)', m:['headquarters','HQ'], pos:'noun', d:'The main office of a company or organization. Often shortened to HQ.', ex:'The company moved its headquarters to Denver.'},
+{t:'supply chain', m:['Supply chain','supply chains'], ph:1, pos:'noun', d:'The whole system that moves a product from raw materials to the customer.', ex:'The pandemic disrupted global supply chains.'},
+{t:'raise (money)', m:['has raised $150 million'], pos:'verb (finance)', d:'To collect investment money for a company.', ex:'The startup raised $20 million from investors.'},
+{t:'Series B round', m:['Series B round'], ph:1, pos:'noun (startup jargon)', d:'A company’s second major stage of investment funding (after Series A).', ex:'They closed a $40 million Series B round in May.'},
+{t:'integrate', m:['integrating'], pos:'verb', d:'To combine things so they work together as one system.', ex:'The app integrates maps and payments.'},
+{t:'suit', m:['better suit him'], pos:'verb', d:'To be right or convenient for someone.', ex:'City life doesn’t suit everyone.'},
+{t:'run toward, not away', m:['running toward something rather than away'], ph:1, pos:'expression', d:'To make a change because you want the new thing, not because you are escaping the old one.', ex:'Leaving wasn’t an escape — she was running toward a new career.'},
+{t:'gray (weather)', m:['really gray month'], pos:'adjective', d:'Cloudy and dull, with no sunshine — the classic description of Seattle winter weather.', ex:'February in Seattle is famously gray.'}
+]},
+
+{
+id:'s-gw-awards', srcKey:'geekwire', cat:'tech',
+title:'2026 GeekWire Awards revealed: Big winners — and big love for Seattle — at annual tech celebration',
+author:'Kurt Schlosser', date:'2026-05-08',
+url:'https://www.geekwire.com/2026/2026-geekwire-awards-revealed-big-winners-and-big-love-for-seattle-at-annual-tech-celebration/',
+paras:[
+"The love for Seattle runs deep.",
+"During a night of celebration for innovators, entrepreneurs, educators and even soccer stars who power and support the region's tech community, the overriding message at the 2026 GeekWire Awards on Thursday was that this is the place to build and grow.",
+"\"Seattle is a really, really cool tech community,\" said Brett Goodwin of Next Tech Titan winner Carbon Robotics.",
+"\"The talent is incredible and very, very, very generous,\" said CEO of the Year Luis Poggi of HouseWhisper AI.",
+"More than 300 members of the Pacific Northwest tech scene packed the Showbox SoDo to honor the year's top startups, founders, leaders and deal makers across a dozen awards categories."
+],
+annos:[
+{t:'run deep', m:['runs deep'], ph:1, pos:'idiom', d:'To be strong and firmly established (a feeling, loyalty, or tradition).', ex:'Rivalry between the two schools runs deep.'},
+{t:'entrepreneur', m:['entrepreneurs'], pos:'noun', d:'A person who starts and runs their own business, taking on the risks.', ex:'The city attracts young entrepreneurs.'},
+{t:'overriding', m:['overriding'], pos:'adjective', d:'More important than everything else.', ex:'Safety was the overriding concern.'},
+{t:'titan', m:['Titan'], pos:'noun', d:'A very large, powerful, and important person or company.', ex:'Amazon is a titan of online retail.'},
+{t:'tech scene', m:['tech scene'], ph:1, pos:'noun (informal)', d:'The community of technology companies and people in a place.', ex:'She’s well known in the Seattle tech scene.'},
+{t:'pack', m:['packed'], pos:'verb', d:'To fill a place completely with people.', ex:'Fans packed the stadium for the final game.'},
+{t:'honor', m:['honor'], pos:'verb', d:'To publicly show respect or give an award to someone.', ex:'The ceremony honored local teachers.'},
+{t:'deal maker', m:['deal makers'], ph:1, pos:'noun', d:'A person skilled at arranging business agreements.', ex:'He’s known as the top deal maker in local real estate.'}
+]},
+
+{
+id:'s-urb-crosslake', srcKey:'urbanist', cat:'transit',
+img:'https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/size/w1200/2026/03/IMG_5040_ksaxso-1-.jpg',
+imgCap:'Judkins Park Station, gateway to the Rainier Valley once the 2 Line opens. (The Urbanist)',
+title:'Crosslake Light Rail Set to Transform Puget Sound Region',
+author:'Doug Trumm & Ryan Packer', date:'2026-03-27',
+url:'https://www.theurbanist.org/crosslake-light-rail-set-to-transform-puget-sound-region/',
+paras:[
+"The day is fast upon the Seattle metro area to take arguably its biggest leap forward in transit connectivity ever. By 10am on Saturday, March 28, 2 Line light rail trains will finally cross Lake Washington on the I-90 floating bridge, connecting Bellevue and Redmond to Downtown Seattle and continuing north to Lynnwood.",
+"Now that it is fully built out, the full 2 Line is expected to carry 50,000 daily riders by 2030, according to Sound Transit modeling. Underneath that jump in ridership is a better commute for thousands and thousands of riders across a variety of trips.",
+"The 2 Line's crosslake connection will make the International District and Downtown Bellevue just 20 minutes apart. Downtown Redmond and Downtown Seattle will be about 40 minutes apart, shaving at least 10 minutes off the bus trip — more when traffic congestion is bad.",
+"Saturday's opening will also add two new stations to Sound Transit's light rail network – Mercer Island and Seattle's Judkins Park — and it will also solidify increased train frequencies for all stations from Chinatown-International District (CID) north. That's because the 2 Line will share tracks with the 1 Line from the CID to Lynnwood.",
+"At peak times both lines will operate at eight-minute headways, or a combined frequency of one train every four minutes for the overlapping segments, along the highest ridership stations in the system including Capitol Hill and Westlake."
+],
+annos:[
+{t:'leap forward', m:['leap forward'], ph:1, pos:'idiom', d:'A big, sudden improvement.', ex:'The new bridge was a huge leap forward for the region.'},
+{t:'connectivity', m:['connectivity'], pos:'noun', d:'How well places (or systems) are connected to each other.', ex:'Better bus routes improved connectivity between neighborhoods.'},
+{t:'ridership', m:['ridership'], pos:'noun (transit)', d:'The number of people who use a public transport service. A word you’ll see constantly in Seattle transit news.', ex:'Light rail ridership hit a record this summer.'},
+{t:'commute', m:['commute'], pos:'noun / verb', d:'The regular trip between home and work — or to make that trip.', ex:'My commute takes 35 minutes by bus.'},
+{t:'shave off', m:['shaving at least 10 minutes off'], ph:1, pos:'phrasal verb', d:'To reduce something by a small amount (time, cost).', ex:'The express train shaves 15 minutes off the trip.'},
+{t:'congestion', m:['congestion'], pos:'noun', d:'The state of being too full — usually heavy, slow traffic.', ex:'I-5 congestion is worst on Friday afternoons.'},
+{t:'solidify', m:['solidify'], pos:'verb', d:'To make something definite, stable, or permanent.', ex:'The win solidified her place on the team.'},
+{t:'headway', m:['headways'], pos:'noun (transit)', d:'The time between one train (or bus) and the next on the same route.', ex:'At rush hour, trains run at six-minute headways.'}
+]},
+
+{
+id:'s-urb-issaquah', srcKey:'urbanist', cat:'transit',
+title:'Issaquah Kicks Off Light Rail Station Planning',
+author:'Ryan Packer', date:'2025-04-09',
+url:'https://www.theurbanist.org/issaquah-light-rail-station-planning/',
+paras:[
+"A newly adopted vision statement and guiding principles set the stage for future negotiations between Issaquah and Sound Transit over what the city's light rail station will look like and whether it will be surrounded by a parking crater or a vibrant, walkable neighborhood.",
+"The idea of taking a light rail train to Issaquah seems like a far-off dream at this point, with service not set to start until sometime between 2041 and 2044. Nonetheless, the City of Issaquah is getting an early start on planning for its only light rail station, which is set to be the final stop on a future line that will add four stations and connect to three existing stations in Bellevue.",
+"The South Kirkland-Issaquah Link is expected to see relatively modest ridership compared to planned lines to Ballard, Everett, and Tacoma, but it will represent a big change for Issaquah, with the area around a future station expected to accommodate significant housing growth in coming years.",
+"While the city has seen a fair amount of population growth in recent decades, most of that has occurred on the city's periphery. Though Issaquah has been pursuing plans for infill development in Central Issaquah for years, it may take a catalyst like light rail to finally make it happen.",
+"This week, the Issaquah Council unanimously adopted an official vision for light rail in the city and principles to guide that vision. The process to hash out that guide brought to light some competing interests that will duel for control of the city's vision over the coming years."
+],
+annos:[
+{t:'far-off', m:['far-off'], pos:'adjective', d:'Distant in time or space.', ex:'Retirement still feels like a far-off dream.'},
+{t:'nonetheless', m:['Nonetheless'], pos:'adverb (formal)', d:'Despite that; however.', ex:'The plan is expensive; nonetheless, the council approved it.'},
+{t:'vibrant', m:['vibrant'], pos:'adjective', d:'Full of life, energy, and activity.', ex:'Ballard has a vibrant weekend farmers market.'},
+{t:'walkable', m:['walkable'], pos:'adjective', d:'Easy and pleasant to get around on foot — a favorite word in Seattle urbanism debates.', ex:'They wanted to live in a walkable neighborhood.'},
+{t:'infill development', m:['infill development'], ph:1, pos:'noun (urbanism)', d:'Building new housing or businesses on empty or underused land inside an existing city, instead of expanding outward.', ex:'The city encourages infill development near transit stations.'},
+{t:'catalyst', m:['catalyst'], pos:'noun', d:'Something that causes an important change or event to happen.', ex:'The new stadium was a catalyst for the neighborhood’s growth.'},
+{t:'hash out', m:['hash out'], ph:1, pos:'phrasal verb', d:'To discuss something thoroughly until you reach an agreement.', ex:'The two sides met to hash out the details.'},
+{t:'bring to light', m:['brought to light'], ph:1, pos:'idiom', d:'To reveal something that was hidden or unknown.', ex:'The audit brought several problems to light.'}
+]},
+
+{
+id:'s-stb-nightowl', srcKey:'stb', cat:'transit',
+title:'Sound Transit expands night-owl service to Lakewood, Redmond – not Everett',
+author:'Michael Smith', date:'2026-08-04',
+url:'https://seattletransitblog.com/2026/08/04/sound-transit-expands-night-owl-service-to-lakewood-redmond-not-everett/',
+paras:[
+"Sound Transit's expanded night-owl bus service is starting on August 29 with service between Redmond-Seattle and Lakewood-Seattle. In 2025, the agency originally proposed three night-owl routes that would provide service to most Link stations while trains are not running. While two of these routes will start this month, the north route to Everett has been delayed until 2027. Sound Transit declined to share the cause for the delay.",
+"Sound Transit contracts ST Express route operations to King County Metro, Pierce Transit, and Community Transit. These three agencies generally, but not always, operate the routes that serve their counties (King, Pierce, and Snohomish, respectively).",
+"The two new night routes starting on August 29, 547 and 597, will help provide 24/7 transit service between cities across Puget Sound. Sound Transit's current night-owl bus between downtown Seattle and the airport, Route 570, will end service on August 28.",
+"Route 547 is a new night-owl route between Seattle and Redmond. Running every 30 minutes between midnight and 4:30am, the route will stop near every 2 Line station in this section except for East Main.",
+"Route 597 is a significant extension of the current Route 570. The route will run every 30 minutes and primarily follow I-5 between Lakewood and Seattle, via Tacoma."
+],
+annos:[
+{t:'night owl', m:['night-owl'], ph:1, pos:'noun / adjective', d:'A person who likes staying up late — here, describing bus service that runs late at night.', ex:'I’m a night owl, so the late bus is perfect for me.'},
+{t:'decline (to do something)', m:['declined'], pos:'verb (formal)', d:'To refuse politely.', ex:'The company declined to comment on the report.'},
+{t:'contract (work) out', m:['contracts ST Express route operations'], pos:'verb (business)', d:'To pay another organization to do work for you.', ex:'The city contracts trash collection out to a private company.'},
+{t:'respectively', m:['respectively'], pos:'adverb', d:'In the same order as the things you just mentioned.', ex:'Alice and Bob scored 90 and 85, respectively.'},
+{t:'24/7', m:['24/7'], ph:1, pos:'expression', d:'All day, every day — 24 hours a day, 7 days a week.', ex:'The pharmacy on Broadway is open 24/7.'},
+{t:'via', m:['via'], pos:'preposition', d:'By way of; passing through.', ex:'The bus goes to Tacoma via the airport.'},
+{t:'extension', m:['extension'], pos:'noun', d:'A part added to make something longer or bigger.', ex:'The light rail extension added four stations.'},
+{t:'serve', m:['serve their counties'], pos:'verb (transit)', d:'(Of a bus or train) to provide service to a place.', ex:'Route 40 serves Fremont and Ballard.'}
+]},
+
+{
+id:'s-stb-rapidride', srcKey:'stb', cat:'transit',
+title:'RapidRide R Line Project Update',
+author:'Michael Smith', date:'2026-08-10',
+url:'https://seattletransitblog.com/2026/08/10/rapidride-r-line-project-update/',
+paras:[
+"King County Metro has shared an updated high-level design of the RapidRide R Line and is asking the community for feedback. The R Line will travel between Rainier Beach station and downtown Seattle on Rainier Ave when it opens in 2032. First envisioned in the 2015 Levy to Move Seattle, work on this route was paused for a few years due to budget constraints. RapidRide R will replace Route 7, the second busiest bus route in Washington (behind the E Line).",
+"The recent update outlines the expected stop locations and areas of focus for speed and reliability improvements and for transit access improvements (sidewalks, curb ramps, lighting, etc). Throughout the route, reliability improvements have been identified near many intersections.",
+"The R Line will follow a similar path to the current Route 7 on 3rd Ave through downtown. On Jackson St, the route will maintain most of the same stops, at 5th Ave, Maynard Ave, 8th Ave, and 12th Ave. The northbound stop at Jackson St & Boren Ave will be removed. The corresponding southbound stop on Rainier at King St will also be eliminated.",
+"This north section of Rainier will see further stop consolidation at Dearborn St where a new southbound stop will be added. King County Metro has identified the section of Rainier between Charles St and Jackson St as a potential speed and reliability improvement area.",
+"The current R Line plan does not include any bus lanes on Jackson St, despite the more than 600 trips across four bus routes each day."
+],
+annos:[
+{t:'feedback', m:['feedback'], pos:'noun', d:'Opinions and reactions people give about something, used to improve it.', ex:'The park design changed after community feedback.'},
+{t:'envision', m:['envisioned'], pos:'verb', d:'To imagine something as a future possibility; to plan it in your mind.', ex:'Planners envision a car-free waterfront.'},
+{t:'levy', m:['Levy'], pos:'noun (civic)', d:'An extra tax that voters approve to pay for a specific public project — a very common word in Seattle ballots.', ex:'Voters passed a levy to fund school repairs.'},
+{t:'budget constraints', m:['budget constraints'], ph:1, pos:'collocation', d:'Limits on how much money can be spent.', ex:'The project was delayed by budget constraints.'},
+{t:'reliability', m:['reliability'], pos:'noun', d:'The quality of working well and on time, every time.', ex:'Riders complain about the route’s poor reliability.'},
+{t:'outline', m:['outlines'], pos:'verb', d:'To describe the main points of something without details.', ex:'The report outlines three options.'},
+{t:'eliminate', m:['eliminated'], pos:'verb', d:'To completely remove or get rid of something.', ex:'The new schedule eliminates two stops.'},
+{t:'consolidation', m:['consolidation'], pos:'noun', d:'Combining several things into fewer, more effective ones.', ex:'Stop consolidation makes buses faster but walks longer.'}
+]},
+
+{
+id:'s-str-august', srcKey:'stranger', cat:'arts',
+title:'The Best Things To Do in Seattle This Month: August 2026',
+author:'EverOut Staff', date:'2026-08-01',
+url:'https://www.thestranger.com/everout/the-best-things-to-do-in-seattle-this-month-august-2026/',
+paras:[
+"In the words of pop diva Zara Larsson, \"Summer isn't over yet.\" There's plenty of sun-soaked fun still to be had, and the August events calendar is bringing the heat. We've compiled the biggest events in live music, performance, food, and more to give you a sense of the month ahead, so keep scrolling for deets on everything from Capitol Hill Block Party to The Strokes and from Jane Don't Does America to the Mariners' Alumni Home Run Derby.",
+"COMEDY — Comedy Bang! Bang! Ground Beefing Tour 2026: Hosted by Scott Aukerman and featuring the hilarious Paul F. Tompkins alongside a gaggle of chaotic interviewees, this long-running improvised sketch podcast is old enough to drive a car.",
+"Each episode of the show follows a simple formula: Aukerman interviews a celebrity guest before the conversation quickly derails as unexpected and outrageous interlopers join the mix. Live recordings often include unhinged sketches and the pair's high-profile pals; previous Seattle live shows have featured Lauren Lapkus and Ego Nwodim.",
+"If you're a comedy lover, Comedy Bang! Bang! probably tops your most-played podcasts list each year. Treat yourself to the fully improvised experience at the Ground Beefing Tour, which features the CB!B! All-Stars. (Moore Theatre, Belltown, Mon Aug 10)"
+],
+annos:[
+{t:'sun-soaked', m:['sun-soaked'], pos:'adjective', d:'Full of sunshine.', ex:'They spent a sun-soaked afternoon at Golden Gardens beach.'},
+{t:'bring the heat', m:['bringing the heat'], ph:1, pos:'idiom (informal)', d:'To be exciting, impressive, or intense.', ex:'The new food hall is really bringing the heat this summer.'},
+{t:'compile', m:['compiled'], pos:'verb', d:'To collect information from different places into one list or document.', ex:'She compiled a list of the best coffee shops.'},
+{t:'deets', m:['deets'], pos:'noun (slang)', d:'Details. Casual American slang.', ex:'Text me the deets about Saturday.'},
+{t:'derail', m:['derails'], pos:'verb', d:'To go off track; (of a conversation or plan) to go in an unplanned, chaotic direction.', ex:'The meeting derailed into an argument about parking.'},
+{t:'gaggle', m:['gaggle'], pos:'noun', d:'A noisy, disorganized group (originally, a group of geese).', ex:'A gaggle of tourists blocked the sidewalk.'},
+{t:'unhinged', m:['unhinged'], pos:'adjective (informal)', d:'Wild, crazy, out of control — often used admiringly in casual speech.', ex:'The improv show got completely unhinged by the end.'},
+{t:'treat yourself', m:['Treat yourself'], ph:1, pos:'phrase', d:'To do or buy something special just for your own enjoyment.', ex:'Treat yourself to a nice dinner after the long week.'}
+]},
+
+{
+id:'s-str-chbp', srcKey:'stranger', cat:'arts',
+img:'https://www.thestranger.com/wp-content/uploads/2026/08/GelliHaha_Sophie-Prettyman-Beauchamp3-copy-scaled.jpg',
+imgCap:'Gelli Haha plays Capitol Hill Block Party. (Sophie Prettyman-Beauchamp / The Stranger)',
+title:"The Stranger's Guide to the 2026 Capitol Hill Block Party",
+author:'Stranger Staff', date:'2026-08-05',
+url:'https://www.thestranger.com/music/the-strangers-guide-to-the-2026-capitol-hill-block-party/',
+paras:[
+"This weekend, August 7–9, the Capitol Hill Block Party will take over Pike Street with three days of more music than you can fit into your summer-drunk brain. Allow us to be your pocket-sized pal who'll tell you where to find the good stuff happening throughout the weekend. We've plucked out the dream of the crop, highlighting the acts you cannot miss, plus some tips on where to escape to dark, cool air-conditioning.",
+"While you're at the fest, swing by the Stranger booth to say hi and win some merch! And please, wear earplugs, reapply sunscreen, and drink plenty of water. We love you.",
+"There are two kinds of summertime people: Summer's Day people, and Summer's Night people. Day people are the happy, glowing partiers who embrace the weather and host poolside barbecues. The Block Party lineup is loaded with artists who'll deliver a quintessential soundtrack for the season: Disco Lines, Parcels, and Frost Children, to name a few.",
+"During 2022's Capitol Hill Block Party, Magdalena Bay played the relatively small Vera Stage to a crowd of about 200 people. Back then, early hype swirled around their viral single \"Killshot\" and their debut LP Mercurial World. The Miami electro-pop duo took that buzz and ran with it, putting on an exhilarating show that made every onlooker into a convert. Four years later, their crowds have multiplied substantially."
+],
+annos:[
+{t:'take over', m:['take over'], ph:1, pos:'phrasal verb', d:'To take control of a place or fill it completely.', ex:'Food trucks take over the plaza every Friday.'},
+{t:'cream of the crop', m:['dream of the crop'], ph:1, pos:'idiom', d:'The very best of a group. (The article makes a playful pun: “dream of the crop.”)', ex:'These bakeries are the cream of the crop in Seattle.'},
+{t:'swing by', m:['swing by'], ph:1, pos:'phrasal verb (informal)', d:'To visit a place quickly and casually.', ex:'Swing by my desk before you leave.'},
+{t:'merch', m:['merch'], pos:'noun (informal)', d:'Merchandise — T-shirts, stickers, and other products sold by a band or brand.', ex:'The band sold out of merch after the show.'},
+{t:'quintessential', m:['quintessential'], pos:'adjective', d:'Being the most perfect, typical example of something.', ex:'The ferry ride is the quintessential Seattle experience.'},
+{t:'hype', m:['hype'], pos:'noun (informal)', d:'Intense excitement and publicity around something new.', ex:'There’s a lot of hype about the new ramen shop.'},
+{t:'onlooker', m:['onlooker'], pos:'noun', d:'A person who watches something happening without taking part.', ex:'Onlookers gathered to watch the street performers.'},
+{t:'convert', m:['convert'], pos:'noun', d:'A person who has been persuaded to love or believe something new.', ex:'One concert made me a convert to live jazz.'}
+]},
+
+{
+id:'s-cas-art', srcKey:'cascade', cat:'arts',
+img:'https://www.cascadepbs.org/content/images/size/w1200/2026/08/Whatcom-Kelsey-Fernkopf-Middle-Fork-Chant.jpg',
+imgCap:'“Middle Fork Chant,” a temporary installation by Kelsey Fernkopf. (Steve Gilbert)',
+title:'Hitting the road (and ferries) in search of summer art encounters',
+author:'Brangien Davis', date:'2026-08-13',
+url:'https://www.cascadepbs.org/artsea/2026/08/hitting-the-road-and-ferries-in-search-of-summer-art-encounters/',
+paras:[
+"It's not summer without a road trip, and in my book the best ones include an arts destination. So before your brain shifts into back-to-school mode, consider packing snacks and heading north to one of the many excellent exhibits and shows around the upper Puget Sound. Because it's the Northwest, you can always pair an arts encounter with a nature excursion — which is pretty much chef's kiss perfection.",
+"In Bellingham, light artist Kelsey Fernkopf is showing Luminous Glow (through March 7, 2027), which features his signature 'neon landscapes' as photographed by artistic co-conspirator Steve Gilbert.",
+"Fernkopf bends glass tubing into minimalist geometric shapes in the studio, then he and Gilbert travel to undisclosed local locations and painstakingly stage and photograph the portal-like works at night — only to disassemble them as day breaks.",
+"On view at the Whatcom Museum's aptly named Lightcatcher Building, the large-scale photographs of these eerie interventions are accompanied by an expansive, site-specific neon sculpture — a shape shifter that takes different forms as you move around it."
+],
+annos:[
+{t:'road trip', m:['road trip'], ph:1, pos:'noun', d:'A long journey by car for pleasure — a classic American summer activity.', ex:'We took a road trip along the Olympic Peninsula.'},
+{t:'excursion', m:['excursion'], pos:'noun', d:'A short trip made for pleasure.', ex:'The hotel offers a whale-watching excursion.'},
+{t:'chef’s kiss', m:['chef’s kiss',"chef's kiss"], ph:1, pos:'idiom (informal)', d:'Absolutely perfect. (From the gesture chefs make when a dish is just right.)', ex:'The view from Kerry Park at sunset? Chef’s kiss.'},
+{t:'painstakingly', m:['painstakingly'], pos:'adverb', d:'With enormous care and attention to detail.', ex:'The mural was painstakingly restored.'},
+{t:'stage', m:['stage and photograph'], pos:'verb', d:'To arrange or set up something carefully so it can be seen or photographed.', ex:'They staged the photo at dawn for the best light.'},
+{t:'disassemble', m:['disassemble'], pos:'verb', d:'To take something apart, piece by piece.', ex:'We had to disassemble the bookshelf to move it.'},
+{t:'eerie', m:['eerie'], pos:'adjective', d:'Strange and slightly frightening, in a mysterious way.', ex:'The empty ferry terminal felt eerie at midnight.'},
+{t:'site-specific', m:['site-specific'], pos:'adjective (art)', d:'(Of an artwork) created for one particular place and its features.', ex:'The gallery commissioned a site-specific installation.'}
+]},
+
+{
+id:'s-cas-picnic', srcKey:'cascade', cat:'food',
+title:'When dinnertime gets dull: Have a picnic!',
+author:'Rachel Belle', date:'2026-08-12',
+url:'https://www.cascadepbs.org/the-nosh-with-rachel-belle/2026/08/when-dinnertime-gets-dull-have-a-picnic/',
+paras:[
+"I am a big fan of NOVELTY and after reading this quote in a Psychology Today article, I know why:",
+"\"A sense of novelty activates the dopamine system directly. As a result, it enhances mood, positive outlook, motivation, and goal setting. A positive sense of novelty has also been shown to increase creativity in dealing with stress, lower perceived stress and anxiety, and lessen depression.\"",
+"Novelty can be simple. Novelty can be free. And a free and simple way to break up the mediocrity of mealtime, and shake up your body's snow globe of happy hormones, is a change of scenery. For me, that often means having a picnic!",
+"For a super low-lift dinner party, plan a picnic potluck with friends or family. I tell everyone to bring a dish to share and their own reusable plate, cutlery and cup. You don't have to clean your house before they come or do the dishes after they go!"
+],
+annos:[
+{t:'novelty', m:['novelty','NOVELTY'], pos:'noun', d:'The quality of being new, unusual, or different from routine.', ex:'The novelty of the night market kept us exploring for hours.'},
+{t:'outlook', m:['outlook'], pos:'noun', d:'Your general attitude toward life and the future.', ex:'Exercise improved her whole outlook.'},
+{t:'break up', m:['break up'], ph:1, pos:'phrasal verb', d:'To interrupt something so it is less boring or continuous.', ex:'A walk at lunch breaks up the workday.'},
+{t:'mediocrity', m:['mediocrity'], pos:'noun', d:'The state of being only ordinary or not very good.', ex:'He refused to accept mediocrity in his cooking.'},
+{t:'change of scenery', m:['change of scenery'], ph:1, pos:'idiom', d:'A move to different surroundings, for variety or a fresh feeling.', ex:'After months at home, she needed a change of scenery.'},
+{t:'low-lift', m:['low-lift'], pos:'adjective (informal)', d:'Requiring very little effort. (Office and lifestyle slang.)', ex:'Tacos are a low-lift dinner for a crowd.'},
+{t:'potluck', m:['potluck'], pos:'noun', d:'A meal where every guest brings a dish to share — an American social classic you will definitely be invited to.', ex:'Our neighbors host a potluck every Labor Day.'},
+{t:'cutlery', m:['cutlery'], pos:'noun', d:'Knives, forks, and spoons.', ex:'Bring your own plate and cutlery to the picnic.'}
+]},
+
+/* ============ LONG READS ============ */
+{
+id:'l-grist-wildfire', srcKey:'grist', cat:'climate', long:1, wc:1100,
+img:'https://grist.org/wp-content/uploads/2026/08/Kaiser_Canyon_Wildfires_DNR_.jpg',
+imgCap:'The Kaiser Canyon wildfires near Spokane. (Washington Department of Natural Resources)',
+title:'Wildfire season is changing. Spokane is showing how.',
+author:'Sachi Kitajima Mulkey', date:'2026-08-05',
+url:'https://grist.org/wildfires/wildfire-season-spokane-washington-state-climate/',
+paras:[
+"Betsy Robertson was standing in the center of the Spokane Convention Center on Monday afternoon, but she wasn't there for a gala or a conference. Instead, the event space in the middle of Washington state's second-largest city had been transformed into a Red Cross emergency shelter as a trio of wildfires, just a few miles away, burned down entire neighborhoods.",
+"Nurses and volunteers were moving between the rows of cots around Robertson, making sure that the hundreds of evacuees – from the mothers with their babies to the elderly with their caretakers – had blankets and enough to eat. Just outside, the air was noxious with smoke \"thick enough to burn your eyes,\" she said.",
+"Robertson, a communications director for the Red Cross, is from Washington, and has been with the organization for 10 years. She has seen communities devastated by wildfires before. But never like this.",
+"\"The scale of homes destroyed and lives changed forever – this is a new level,\" she said. \"We are bracing ourselves for seasons like this getting worse and worse, and starting earlier and going later.\"",
+"A historically dry winter, extreme drought and heat waves set the stage for the hundreds of wildfires that have burned across the Pacific Northwest this summer. Dozens of large ones have broken out in the last week alone. Though it's still early in the fire season, Oregon recently broke its annual record for acreage burned with nearly 2 million acres scorched.",
+"Washington is also in the middle of its most destructive season on record, with more than half a million acres burned and at least 65,000 residents ordered to evacuate across the state. The three large fires that started on Saturday around Spokane had destroyed more than 700 buildings by Monday afternoon.",
+"\"I've been trying to wrap my mind around how we're going to house all these folks,\" said Kitty Klitzke, a member of the Spokane City Council representing a hard-hit area where two fires were burning on Tuesday morning. Many of the people displaced by the fires in Spokane are senior citizens and their caretakers. \"It's a miracle that, so far, we know of no fatalities and no reported missing people,\" Klitzke said.",
+"As the planet heats up, the conditions that fuel extreme wildfires are becoming more common. A warmer atmosphere can hold about 7 percent more water vapor for every 1 degree Celsius of warming, drawing more moisture from soils and vegetation and leaving forests and grasslands primed to burn. That dynamic also causes rain to fall more intensely but less frequently, leading to long periods of drought.",
+"\"This fire, and what we're expecting to come, makes no sense unless you connect the dots through a changing climate,\" said Bob Freitag, who recently served as director of the Institute of Hazards Mitigation Research and Planning at the University of Washington. \"The science is known, and this is not something that is a one-off.\"",
+"According to Paul Pastelok, a senior meteorologist at AccuWeather, a lack of snowfall across the region helped set the stage for these fires. Normally, snowpack builds up during the winter and melts gradually through the rest of the year, providing a steady source of moisture. This year, the already-small snowpack was hit with hot spring temperatures, causing this reserve to melt early and leaving the landscape parched. Spokane had half of the typical snowfall this year, Pastelok said.",
+"In the last few days, powerful winds carried hot embers from the Little Giant fire, a 70,000 acre blaze in central Washington, for more than 3 miles, sending the flames clear over the waters of Lake Chelan and into the forests on the other side. Ryan Rodruck, a communications manager at the Washington Department of Natural Resources, called the overall situation \"extremely tragic\" and said that it had been an exceptionally challenging season for the thousands of wildland firefighters deployed across the state.",
+"In Spokane, more high winds forecast for this weekend could further worsen conditions, said Benjamin Cossel, a wildfire public information officer from California working with fire-fighting crews in the city."
+],
+annos:[
+{t:'evacuee', m:['evacuees'], pos:'noun', d:'A person who has been moved away from a place of danger.', ex:'The shelter housed hundreds of evacuees from the fire zone.'},
+{t:'noxious', m:['noxious'], pos:'adjective', d:'Harmful or poisonous, especially to breathe.', ex:'Noxious fumes drifted from the factory.'},
+{t:'brace oneself for', m:['bracing ourselves for'], ph:1, pos:'phrase', d:'To prepare yourself for something bad or difficult that is coming.', ex:'Commuters braced themselves for a week of closures.'},
+{t:'set the stage for', m:['set the stage for'], ph:1, pos:'idiom', d:'To create the conditions that make something possible or likely.', ex:'The dry summer set the stage for a hard fire season.'},
+{t:'break out', m:['broken out'], ph:1, pos:'phrasal verb', d:'(Of fires, wars, or diseases) to start suddenly.', ex:'A fire broke out in the warehouse overnight.'},
+{t:'wrap one’s mind around', m:['wrap my mind around'], ph:1, pos:'idiom', d:'To manage to understand something difficult or shocking.', ex:'I can’t wrap my mind around how fast it happened.'},
+{t:'displaced', m:['displaced'], pos:'adjective', d:'Forced to leave your home (by disaster, war, or eviction).', ex:'The flood left hundreds of families displaced.'},
+{t:'connect the dots', m:['connect the dots'], ph:1, pos:'idiom', d:'To see how separate facts are linked and understand the bigger picture.', ex:'Connect the dots and the pattern becomes obvious.'},
+{t:'one-off', m:['one-off'], pos:'noun / adjective', d:'Something that happens only once and will not be repeated.', ex:'The heat wave wasn’t a one-off — it returned the next year.'},
+{t:'snowpack', m:['snowpack'], pos:'noun (PNW essential)', d:'The layer of snow that builds up in the mountains over winter — the Northwest’s natural water reserve.', ex:'A thin snowpack means drought and fire risk by August.'},
+{t:'parched', m:['parched'], pos:'adjective', d:'Extremely dry because of a lack of water.', ex:'By July the hillsides were parched and brown.'},
+{t:'ember', m:['embers'], pos:'noun', d:'A small glowing piece of burning material that can fly and start new fires.', ex:'Wind carried embers across the highway.'}
+]},
+
+{
+id:'l-invw-police', srcKey:'invw', cat:'local', long:1, wc:3800,
+img:'https://storage.ghost.io/c/51/fb/51fbb531-c573-4349-a070-603375674d25/content/images/size/w1200/2026/08/Wandering_Police_2_Final--2-.jpg',
+imgCap:'An InvestigateWest review of employment records illuminates limits to Washington’s police certification law. (Victor Bizar Gómez / InvestigateWest)',
+title:"A 2021 law expanded Washington's power to decertify police officers. Records show cops still avoid consequences",
+author:'Melanie Henshaw', date:'2026-08-11',
+url:'https://www.investigatewest.org/a-2021-law-expanded-washingtons-power-to-decertify-police-officers-records-show-cops-still-avoid-consequences/',
+paras:[
+"In 2021, Washington lawmakers expanded the state's power to strip cops of their certification. In an effort to keep officers fired for certain types of misconduct out of law enforcement, they passed a law requiring police agencies across the state to quickly report officer separations and misconduct to the state's Criminal Justice Training Commission and strengthened the agency's ability to investigate and revoke certifications.",
+"But an InvestigateWest analysis of state employment records since 2000 raises questions about the law's potency. Even since the 2021 law, Senate Bill 5051, took effect, law enforcement agencies in Washington — blaming unclear language in the law — have kept hiring cops accused of serious misconduct, who often manage to avoid a state investigation altogether.",
+"One officer who was repeatedly accused of misconduct still earned a promotion to police chief, where he allegedly defrauded taxpayers. Another was charged with driving under the influence and fled the scene of a car accident but was never formally investigated by the state commission. A third remained certified in Washington years after another state revoked his certification amid a felony conviction.",
+"\"I'm surprised and uncomfortable that law enforcement executives accused of misconduct are staying in place despite the protections we put in place,\" said Rep. Roger Goodman, D-Kirkland, who spearheaded a 2026 law mandating elected sheriffs maintain an active certification with the state.",
+"In some cases, the state commission has declined to exercise its power to conduct independent investigations. Other cases identified by InvestigateWest highlight how the law curtails the state certification agency's enforcement abilities towards local agencies that either fail to report misconduct to the state or retain officers with troubling employment histories.",
+"\"Law enforcement agencies have the primary responsibility for ensuring they hold all ranks accountable,\" said Anne Levinson, a retired Seattle judge and former auditor of the city's police accountability system who helped to write the 2021 certification law.",
+"The commission must revoke an officer's certification for certain types of \"disqualifying misconduct\": felony convictions, some misdemeanor convictions, and certain severe and illegal instances of excessive force. For uses of excessive force, an officer must also be separated from the agency where the misconduct occurred.",
+"Even in instances where an officer is convicted of a disqualifying offense, their certification can remain active until the state commission conducts its official investigation, which sometimes happens years after a conviction due to a backlog of more than 1,500 cases.",
+"Police accountability critics also point to how the commission is interpreting certain provisions in the law for disqualifying misconduct in the statute, like how an officer can lose their certification over \"unsafe use of vehicles.\" But state commission records show multiple officers arrested for driving under the influence and crashing their cars have not been investigated.",
+"Critics say that agencies that hire officers with firings in their employment history, also known as wandering officers, are exposing citizens to increased risk of officer misconduct and their jurisdictions to increased liability.",
+"\"We know that wandering officers are far more likely to be fired from their next jobs, far more likely to receive complaints for misconduct, including violent and sexual misconduct,\" said Anita Yandle, a Seattle-based attorney with New York University's Policing Project.",
+"In March 2008, less than two years into his time as a Washington State Patrol trainee cadet, Ryan Cox was suspected of stealing $100 from a fellow cadet's locker. Later, he was caught lying to his training officer about a separate incident and resigned to avoid termination, records show."
+],
+annos:[
+{t:'strip (someone) of', m:['strip cops of'], ph:1, pos:'phrasal verb', d:'To officially take away someone’s right, title, or power.', ex:'The board stripped him of his medical license.'},
+{t:'decertify', m:['decertify'], pos:'verb', d:'To officially remove someone’s professional certification so they can no longer do that job.', ex:'The state can decertify officers who commit serious crimes.'},
+{t:'misconduct', m:['misconduct'], pos:'noun', d:'Bad, improper, or illegal behavior by a professional or official.', ex:'He was fired for financial misconduct.'},
+{t:'revoke', m:['revoke'], pos:'verb', d:'To officially cancel a right, license, or decision.', ex:'Her visa was revoked after the violation.'},
+{t:'potency', m:['potency'], pos:'noun', d:'Power or effectiveness.', ex:'Critics question the potency of the new regulations.'},
+{t:'allegedly', m:['allegedly'], pos:'adverb', d:'As claimed, but not yet proven — used constantly in American crime and legal news.', ex:'He allegedly stole from the fund; the trial starts Monday.'},
+{t:'defraud', m:['defrauded'], pos:'verb', d:'To illegally take money from a person or organization by deception.', ex:'The pair defrauded investors of millions.'},
+{t:'curtail', m:['curtails'], pos:'verb (formal)', d:'To limit or reduce something.', ex:'The ruling curtails the agency’s powers.'},
+{t:'backlog', m:['backlog'], pos:'noun', d:'A large amount of work waiting to be done.', ex:'The court is working through a backlog of cases.'},
+{t:'discretion', m:['discretion'], pos:'noun', d:'The freedom to decide what should be done in a situation.', ex:'Judges have discretion over sentencing.'},
+{t:'jurisdiction', m:['jurisdictions'], pos:'noun', d:'The area or matters over which an authority has legal power.', ex:'The case falls under federal jurisdiction.'},
+{t:'liability', m:['liability'], pos:'noun', d:'Legal responsibility, especially the risk of being sued or having to pay.', ex:'Poor hiring exposes the city to liability.'}
+]},
+
+{
+id:'l-invw-mill', srcKey:'invw', cat:'local', long:1, wc:2200,
+img:'https://storage.ghost.io/c/51/fb/51fbb531-c573-4349-a070-603375674d25/content/images/2026/06/opb-222.jpg',
+imgCap:'A vigil for victims of the chemical implosion at R.A. Long Park in Longview, Wash. (OPB)',
+title:"'Something dramatically wrong': Questions but few answers after Longview mill tragedy",
+author:'Troy Brynelson, Conrad Wilson & Lauren Dake (OPB)', date:'2026-06-02',
+url:'https://www.investigatewest.org/something-dramatically-wrong-questions-but-few-answers-after-longview-mill-tragedy/',
+paras:[
+"It's been less than a week since the rupture of a massive tank spilled hundreds of thousands of gallons of caustic chemical at a Longview, Washington, paper mill. The remains of the last victims of Tuesday's workplace disaster were just removed from the mill this weekend.",
+"Yet pressure is steadily mounting for answers from the company and government officials, even as they caution an investigation will take time. Investigators from the U.S. Chemical Safety Board arrived on site Wednesday.",
+"\"We are cooperating fully with the agencies that have the responsibility to the public to do that analysis,\" said Brian Wood, director of support services for Nippon Dynawave and a city councilor in nearby Kelso. \"It would be very premature to try to estimate when that might be available. We are very much in early days.\"",
+"Family members of some of the 11 victims in this industrial pocket of Southwest Washington are calling for answers and publicly questioning the safety culture at the pulp mill, and at least two families say they have retained attorneys. Wood has defended the company's safety record during press conferences.",
+"Josh Estes, a spokesperson for the local chapter of the Association of Western Pulp and Paper Workers union, said he understands there is a need for answers and accountability. \"We are going to fight to get those answers,\" he said.",
+"OPB spoke to seven chemical safety experts and former investigators about what officials would look for to determine how the rupture happened and what could have prevented it.",
+"Those experts said Washington state's deadliest workplace incident in nearly a century likely resulted from a complex mix of factors — the tank itself, the chemical involved, potential issues with vents — combined with a terrible coincidence of timing. The implosion happened at about 7:15 a.m., during a shift change that brought more workers on site and around a break room that was located next to the massive tank of deadly chemicals.",
+"\"Sometimes we might find things that have been overlooked,\" said Johnnie Banks, who was a federal chemical investigator for more than a decade. \"It's usually not one thing overlooked, but multiple things happening in concert on a given day and a given time when things go bad.\"",
+"The pulp mill along the Columbia River in Longview has been using a chemical stew to cook wood chips for more than 70 years. The process itself is even older.",
+"Known as kraft pulping, it disintegrates the wood into a strong cellulose material that can be used to make paper or containers like milk cartons.",
+"\"You have probably cooked meat or something in a pressure cooker, right? Well, it's the same,\" said Julia Shamshina, a professor at Texas Tech with the Fiber and Biopolymer Research Institute in Lubbock. \"You put wood into the pressure cooker, you put in a bunch of chemicals in the pressure cooker, you close it, you heat it up and you cook under the pressure.\""
+],
+annos:[
+{t:'rupture', m:['rupture'], pos:'noun / verb', d:'A sudden breaking or bursting of something under pressure.', ex:'The pipeline rupture spilled oil into the river.'},
+{t:'caustic', m:['caustic'], pos:'adjective', d:'Able to burn or destroy things by chemical action.', ex:'Workers must wear gloves when handling caustic cleaners.'},
+{t:'mounting', m:['mounting'], pos:'adjective', d:'Gradually increasing (pressure, evidence, costs).', ex:'The mayor faced mounting criticism over the decision.'},
+{t:'premature', m:['premature'], pos:'adjective', d:'Happening or done too early.', ex:'It’s premature to declare the project a success.'},
+{t:'retain (an attorney)', m:['retained attorneys'], ph:1, pos:'phrase (legal)', d:'To hire a lawyer to represent you.', ex:'The family retained an attorney after the accident.'},
+{t:'accountability', m:['accountability'], pos:'noun', d:'The state of being responsible for your actions and required to explain them.', ex:'The union demanded accountability from management.'},
+{t:'implosion', m:['implosion'], pos:'noun', d:'A violent collapse inward (the opposite of an explosion).', ex:'Engineers studied the tank’s implosion.'},
+{t:'shift change', m:['shift change'], ph:1, pos:'noun (workplace)', d:'The time when one group of workers finishes and the next begins.', ex:'The accident happened during the morning shift change.'},
+{t:'overlook', m:['overlooked'], pos:'verb', d:'To fail to notice something.', ex:'The inspection overlooked a cracked valve.'},
+{t:'in concert', m:['in concert'], ph:1, pos:'phrase (formal)', d:'Together; happening or acting at the same time.', ex:'Several failures acting in concert caused the outage.'},
+{t:'disintegrate', m:['disintegrates'], pos:'verb', d:'To break apart into very small pieces.', ex:'The old paper disintegrated in my hands.'}
+]},
+
+{
+id:'l-kuow-worldcup', srcKey:'kuow', cat:'local', long:1, wc:1340,
+img:'https://npr.brightspotcdn.com/dims4/default/cbacfd5/2147483647/strip/true/crop/2500x1313+0+281/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fstore%2F05d8dfdf9c297ca0d4a9080fc2b0d6d9.jpg',
+imgCap:'The Space Needle roof painted as a soccer ball ahead of the 2026 World Cup. (KUOW)',
+title:'What Seattle soccer newbies should know heading into the World Cup',
+author:'Libby Denkmann, Sami West & Gabrielle Healy', date:'2026-06-09',
+url:'https://www.kuow.org/stories/what-seattle-soccer-newbies-should-know-heading-into-the-world-cup',
+paras:[
+"The men's FIFA World Cup kicks off Thursday (pun intended), and Seattle is hosting six of those matches.",
+"It marks the first World Cup to be hosted in the United States since 1994. (Mexico and Canada are also hosting some games.)",
+"Who's playing, who's expected to do well, and could the U.S. team make it deep into the tournament this year?",
+"To answer some of those questions, KUOW's \"Soundside\" spoke with Leander Schaerlaeckens, a longtime soccer writer and author of the 2026 book \"The Long Game: U.S. Men's Soccer and Its Savage Four-Decade Journey to the Top, or Thereabouts.\"",
+"Starting Monday, Lumen Field will host six total matches — four group-stage games (Belgium vs. Egypt on June 15, U.S. vs. Australia on June 19, Bosnia and Herzegovina vs. Qatar on June 24, and Egypt vs. IR Iran on June 26), followed by two knockout-round games on July 1 and July 6.",
+"As for which games Seattleites should consider snagging last-minute tickets for — or, at the very least, make sure to watch from home — Schaerlaeckens had a hard time narrowing that down.",
+"\"This might be because I'm a soccer sicko, but I can find something interesting in all of them,\" he said.",
+"Schaerlaeckens noted this is only the second World Cup appearance for the Bosnia and Herzegovina team — and that one might also be worth tuning into because they have an American-born player within their ranks. (That's Esmir Bajraktarević, who's from Appleton, Wisconsin.)",
+"The Bosnia and Herzegovina team is also interesting, Schaerlaeckens said, because they \"clawed their way through the European playoffs for last place.\" They beat Wales in a penalty kick shootout, and then bested Italy the same way."
+],
+annos:[
+{t:'newbie', m:['newbies'], pos:'noun (informal)', d:'A beginner; someone new to an activity.', ex:'The club welcomes newbies who’ve never played before.'},
+{t:'kick off', m:['kicks off'], ph:1, pos:'phrasal verb', d:'To begin. (In soccer it’s also literal — the opening kick — hence the article’s “pun intended.”)', ex:'The festival kicks off Friday night.'},
+{t:'group stage', m:['group-stage'], ph:1, pos:'noun (sports)', d:'The first phase of a tournament, where teams play within small groups to qualify for the next round.', ex:'They were eliminated in the group stage.'},
+{t:'knockout round', m:['knockout-round','knockout'], ph:1, pos:'noun (sports)', d:'The tournament stage where the losing team is immediately eliminated.', ex:'The city hosts two knockout round matches in July.'},
+{t:'snag', m:['snagging'], pos:'verb (informal)', d:'To succeed in getting something desirable, especially quickly.', ex:'I snagged the last two tickets.'},
+{t:'sicko', m:['sicko'], pos:'noun (slang, playful)', d:'A person obsessed with something — here used jokingly and affectionately about a super-fan.', ex:'I’m a coffee sicko; I own five brewing gadgets.'},
+{t:'narrow down', m:['narrowing that down'], ph:1, pos:'phrasal verb', d:'To reduce a list of options to fewer choices.', ex:'We narrowed the apartments down to two.'},
+{t:'tune in to', m:['tuning into'], ph:1, pos:'phrasal verb', d:'To watch or listen to a broadcast.', ex:'Millions tuned in to the final.'},
+{t:'within their ranks', m:['within their ranks'], ph:1, pos:'phrase', d:'Among the members of a group or organization.', ex:'The team has two Olympians within its ranks.'},
+{t:'claw one’s way', m:['clawed their way'], ph:1, pos:'idiom', d:'To advance with great effort and struggle.', ex:'She clawed her way to the top of the industry.'},
+{t:'best', m:['bested'], pos:'verb', d:'To defeat someone. (Yes — “best” can be a verb!)', ex:'The Sounders bested their rivals 2–1.'}
+]},
+
+{
+id:'l-pp-datacenters', srcKey:'propublica', cat:'tech', long:1, wc:850,
+title:"Washington Governor Orders Team to Study Data Centers' Impact on Energy Use, Job Creation and Tax Revenue",
+author:'Lulu Ramadan & Sydney Brownstone (Seattle Times/ProPublica)', date:'2025-02-05',
+url:'https://www.propublica.org/article/washington-data-centers-study-bob-ferguson',
+paras:[
+"Washington Gov. Bob Ferguson on Tuesday signed an executive order forming a team to evaluate the impact of data centers on energy use, state tax revenue and job creation.",
+"The order follows a Seattle Times-ProPublica investigation last year into the clean-energy and economic impacts of the state's power-guzzling data center industry, the backbone of the modern internet. Data centers — warehouse-like structures filled with computer servers — receive some of Washington's largest corporate tax breaks. They require enormous amounts of electricity, a need that is only expected to grow with increasing reliance on artificial intelligence.",
+"\"We must ensure Washington remains a leader in technology and sustainability — these experts will help us do that,\" Ferguson said in a news release. \"This group will help us balance industry growth, tax revenue needs, energy constraints and sustainability.\"",
+"Ferguson's order, one of his earliest actions since he took office this year, authorizes a workgroup of state officials and industry stakeholders to study the impact of data centers and recommend policies that balance industry growth with tax revenue needs, energy constraints and sustainability. That includes evaluating the state's robust tax incentives for the data center industry, according to the governor's office.",
+"State lawmakers encouraged the dramatic growth of the data center industry by offering lucrative tax breaks in the name of bringing jobs to rural areas. The Times and ProPublica reported last year that data centers have grown into a major consumer of electricity in some of Washington's greenest counties, threatening the region's ability to meet power demand while phasing out fossil fuels.",
+"In 2022, then-Gov. Jay Inslee blocked efforts to study data center electricity use, the news organizations reported. State lawmakers included a provision to measure how much power data centers use in a bill that expanded tax breaks for the industry. Inslee signed into law the tax break expansion but vetoed the study.",
+"Inslee's office said last year that the study would have duplicated work underway by regional power planners, who have produced wide-ranging forecasts about data centers' power use in the Pacific Northwest. Still, no agency or entity has assessed the industry's growing energy demands in Washington specifically or the impact of the state's tax break on its power grid.",
+"As of July, Washington was home to at least 87 data centers, according to the industry-tracking website Baxtel.",
+"Ferguson's workgroup will be led by the Department of Revenue, the state agency responsible for determining the eligibility of data centers for tax breaks.",
+"In addition to examining energy use, Ferguson's office said the workgroup will review data on job creation in the industry — a key measure for understanding the success of Washington's tax incentive program, which has been shielded from transparency and accountability for years."
+],
+annos:[
+{t:'executive order', m:['executive order'], ph:1, pos:'noun (government)', d:'An official instruction from a president or governor that has the force of law without a vote.', ex:'The governor signed an executive order on housing.'},
+{t:'power-guzzling', m:['power-guzzling'], pos:'adjective (informal)', d:'Consuming huge amounts of energy. (Built like “gas-guzzling” for cars.)', ex:'Power-guzzling servers strain the grid.'},
+{t:'backbone', m:['backbone'], pos:'noun (figurative)', d:'The main support or most important part of something.', ex:'Small businesses are the backbone of the neighborhood.'},
+{t:'tax break', m:['tax breaks','tax break'], ph:1, pos:'noun', d:'A special reduction in taxes given to encourage an activity.', ex:'The state offers tax breaks to film productions.'},
+{t:'stakeholder', m:['stakeholders'], pos:'noun', d:'A person or group with an interest in a project or decision.', ex:'The plan was reviewed by community stakeholders.'},
+{t:'lucrative', m:['lucrative'], pos:'adjective', d:'Producing a lot of money; very profitable.', ex:'Cloud computing is a lucrative business.'},
+{t:'in the name of', m:['in the name of'], ph:1, pos:'phrase', d:'Using something as a reason or justification (sometimes implying the reason is questionable).', ex:'Rules were relaxed in the name of growth.'},
+{t:'phase out', m:['phasing out'], ph:1, pos:'phrasal verb', d:'To gradually stop using something.', ex:'The state plans to phase out gas furnaces.'},
+{t:'veto', m:['vetoed'], pos:'verb / noun', d:'To officially reject a proposed law or part of it.', ex:'The governor vetoed the amendment.'},
+{t:'eligibility', m:['eligibility'], pos:'noun', d:'The state of meeting the conditions to receive or do something.', ex:'Income determines eligibility for the program.'},
+{t:'shielded from', m:['shielded from'], ph:1, pos:'phrase', d:'Protected or hidden from something.', ex:'The records were shielded from public view.'}
+]},
+
+{
+id:'g-conv-rituals', srcKey:'conversation', cat:'national', long:1, wc:1400,
+title:'Rituals have been crucial for humans throughout history — and we still need them',
+author:'The Conversation', date:'',
+url:'https://theconversation.com/rituals-have-been-crucial-for-humans-throughout-history-and-we-still-need-them-193951',
+paras:[
+"Each December, Christmas, Hanukkah and Kwanzaa, among others, take over our thoughts and our wallets as we participate in ceremonies our ancestors have practised for as long as we can remember. These are all examples of traditions. And in most cases, traditions are accompanied by rituals. What's the difference?",
+"In scientific terms, a \"tradition\" refers to the passing down of customs and beliefs from one generation to the next. A \"ritual\", on the other hand, is a series of actions performed according to a prescribed order, and which is often embedded in a larger symbolic system, such as religion or philosophy.",
+"For example, while celebrating birthdays is a tradition, blowing out the candles on a cake is a ritual. Similarly, while getting married is a tradition, exchanging vows is a ritual.",
+"New rituals can be created at any time. To become tradition they only need to be understood and replicated by a wider community.",
+"And it's not just in grand gestures that humans practise rituals; some are so embedded into our everyday lives we no longer recognise them. The very particular way someone makes their tea or coffee in the morning is a ritual they enact daily.",
+"Basically, rituals are everywhere. That raises the question: why do we have them at all?",
+"Ritual behaviour has very deep origins in humanity. However, tracking these origins and their development is difficult as rituals often leave little or no physical traces behind for archaeologists to find.",
+"Thus far, the best evidence for ancient rituals is the deliberate burial of loved ones. The oldest example is found at Mt Carmel in Israel, where some 130,000 years ago a Neanderthal woman was laid to rest by her community.",
+"Archaeologists also suggest the extensive use of coloured pigments (particularly bright red) to paint bodies, objects and rock walls points to the practice of \"symbolic\" behaviour, including ritual. The oldest reliable evidence for colourant use dates to between 500,000 and 310,000 years ago and comes from several archaeological sites in southern Africa."
+],
+annos:[
+{t:'pass down', m:['passing down'], ph:1, pos:'phrasal verb', d:'To give knowledge, customs, or possessions to the next generation.', ex:'The recipe was passed down from her grandmother.'},
+{t:'prescribed', m:['prescribed'], pos:'adjective', d:'Officially fixed or set; following exact rules.', ex:'The ceremony follows a prescribed order.'},
+{t:'embedded', m:['embedded'], pos:'adjective', d:'Fixed deeply and firmly inside something larger.', ex:'These habits are embedded in daily life.'},
+{t:'exchange vows', m:['exchanging vows'], ph:1, pos:'phrase', d:'To make formal promises to each other during a wedding.', ex:'They exchanged vows at a small ceremony in the park.'},
+{t:'grand gesture', m:['grand gestures'], ph:1, pos:'noun', d:'A big, dramatic action done to show your feelings.', ex:'He’s not one for grand gestures — he shows love in small ways.'},
+{t:'enact', m:['enact'], pos:'verb', d:'To perform or carry out (an action, role, or ritual).', ex:'The same routine is enacted every morning.'},
+{t:'trace', m:['traces'], pos:'noun', d:'A small mark or sign showing that something existed or happened.', ex:'The old village left few traces behind.'},
+{t:'deliberate', m:['deliberate'], pos:'adjective', d:'Done on purpose; intentional.', ex:'It was a deliberate choice, not an accident.'},
+{t:'lay to rest', m:['laid to rest'], ph:1, pos:'idiom', d:'To bury a person who has died (a gentle, respectful expression).', ex:'She was laid to rest beside her parents.'},
+{t:'pigment', m:['pigments'], pos:'noun', d:'A natural substance that gives color, used in paints and dyes.', ex:'Cave artists used red and yellow pigments.'}
+]}
+];
+
+/* ---------- Idiom & phrase dictionary (for auto-annotating fetched articles) ---------- */
+const IDIOMS = [
+{t:'ramp up', m:['ramp up','ramps up','ramping up','ramped up'], d:'To increase quickly (production, hiring, effort).'},
+{t:'roll out', m:['roll out','rolls out','rolling out','rolled out','rollout'], d:'To launch or introduce something new to the public, often in stages.'},
+{t:'wrap up', m:['wrap up','wraps up','wrapping up','wrapped up'], d:'To finish or complete something.'},
+{t:'crack down', m:['crack down','cracking down','cracked down','crackdown'], d:'To start enforcing rules strictly; a strict enforcement campaign.'},
+{t:'weigh in', m:['weigh in','weighs in','weighing in','weighed in'], d:'To give your opinion in a discussion.'},
+{t:'push back', m:['push back','pushes back','pushing back','pushed back','pushback'], d:'To resist or oppose a plan; resistance.'},
+{t:'kick off', m:['kick off','kicks off','kicking off','kicked off'], d:'To begin (an event or project).'},
+{t:'lay off', m:['lay off','laid off','laying off','layoffs','layoff'], d:'To end someone’s job because the company needs to cut costs.'},
+{t:'phase out', m:['phase out','phasing out','phased out'], d:'To gradually stop using something.'},
+{t:'rule out', m:['rule out','ruled out','ruling out','rules out'], d:'To decide something is impossible or will not happen.'},
+{t:'point out', m:['point out','points out','pointed out','pointing out'], d:'To draw attention to a fact.'},
+{t:'carry out', m:['carry out','carried out','carrying out','carries out'], d:'To perform or complete a task or plan.'},
+{t:'reach out', m:['reach out','reached out','reaching out'], d:'To contact someone, often to offer or ask for help.'},
+{t:'figure out', m:['figure out','figured out','figuring out'], d:'To understand or solve something after thinking.'},
+{t:'opt out', m:['opt out','opted out','opting out'], d:'To choose not to participate.'},
+{t:'take over', m:['take over','takes over','taking over','took over','takeover'], d:'To take control of something.'},
+{t:'shore up', m:['shore up','shoring up','shored up'], d:'To strengthen or support something that is weak.'},
+{t:'double down', m:['double down','doubling down','doubled down'], d:'To commit even more strongly to a position, especially a risky one.'},
+{t:'scale back', m:['scale back','scaling back','scaled back'], d:'To reduce the size or ambition of a plan.'},
+{t:'beef up', m:['beef up','beefing up','beefed up'], d:'To strengthen or improve something (informal).'},
+{t:'hammer out', m:['hammer out','hammered out','hammering out'], d:'To reach an agreement after long, hard discussion.'},
+{t:'iron out', m:['iron out','ironed out','ironing out'], d:'To resolve small remaining problems.'},
+{t:'spearhead', m:['spearhead','spearheaded','spearheading','spearheads'], d:'To lead a project or movement.'},
+{t:'overhaul', m:['overhaul','overhauled','overhauling'], d:'A complete redesign or repair of a system.'},
+{t:'revamp', m:['revamp','revamped','revamping'], d:'To improve the form or appearance of something.'},
+{t:'greenlight', m:['greenlight','greenlit','green-light','green light'], d:'To give official approval for a project to go ahead.'},
+{t:'break ground', m:['break ground','broke ground','breaking ground','groundbreaking'], d:'To start construction; (adj.) very new and original.'},
+{t:'in the wake of', m:['in the wake of'], d:'Happening after and because of an event.'},
+{t:'on the heels of', m:['on the heels of'], d:'Immediately following something.'},
+{t:'in the works', m:['in the works'], d:'Being planned or developed right now.'},
+{t:'down the line', m:['down the line','down the road'], d:'At some point in the future.'},
+{t:'on hold', m:['on hold'], d:'Paused; delayed until later.'},
+{t:'up in the air', m:['up in the air'], d:'Uncertain; not yet decided.'},
+{t:'on the table', m:['on the table'], d:'Available to be discussed or considered.'},
+{t:'uphill battle', m:['uphill battle','uphill climb'], d:'Something very difficult to achieve.'},
+{t:'silver lining', m:['silver lining'], d:'A good aspect of a bad situation.'},
+{t:'tipping point', m:['tipping point'], d:'The moment when small changes become big, unstoppable change.'},
+{t:'game changer', m:['game changer','game-changer'], d:'Something that completely changes a situation.'},
+{t:'milestone', m:['milestone'], d:'An important stage or event in the development of something.'},
+{t:'watershed', m:['watershed moment','watershed'], d:'A turning point; a moment of important change.'},
+{t:'backlash', m:['backlash'], d:'A strong negative public reaction.'},
+{t:'standoff', m:['standoff'], d:'A situation where neither side will give in.'},
+{t:'stalemate', m:['stalemate'], d:'A situation where no progress can be made by either side.'},
+{t:'loophole', m:['loophole'], d:'A gap in a law or rule that lets people avoid it.'},
+{t:'red tape', m:['red tape'], d:'Excessive bureaucracy; official rules that slow things down.'},
+{t:'grassroots', m:['grassroots'], d:'Coming from ordinary people in a community, not from leaders.'},
+{t:'ripple effect', m:['ripple effect'], d:'A spreading series of consequences from one event.'},
+{t:'at stake', m:['at stake'], d:'At risk; able to be won or lost.'},
+{t:'in limbo', m:['in limbo'], d:'In an uncertain state, waiting for a decision.'},
+{t:'set to', m:['is set to','are set to','set to open','set to begin','set to start'], d:'Scheduled or ready to do something.'},
+{t:'slated', m:['slated to','slated for'], d:'Officially planned or scheduled.'},
+{t:'poised to', m:['poised to'], d:'Ready and likely to do something soon.'},
+{t:'surge', m:['surge','surged','surging'], d:'A sudden large increase.'},
+{t:'plummet', m:['plummet','plummeted','plummeting'], d:'To fall quickly and by a large amount.'},
+{t:'skyrocket', m:['skyrocket','skyrocketed','skyrocketing'], d:'To rise extremely quickly.'},
+{t:'dwindle', m:['dwindle','dwindled','dwindling'], d:'To gradually become smaller or fewer.'},
+{t:'bolster', m:['bolster','bolstered','bolstering'], d:'To support or strengthen.'},
+{t:'curb', m:['curb','curbing','curbed'], d:'To limit or control something (e.g., emissions, spending).'},
+{t:'tout', m:['tout','touted','touting'], d:'To praise or advertise something enthusiastically.'},
+{t:'hinder', m:['hinder','hindered','hindering'], d:'To make progress difficult.'},
+{t:'probe', m:['probe','probing','probed'], d:'An investigation; to investigate.'},
+{t:'allege', m:['allege','alleged','allegedly','alleging'], d:'To claim something without proof yet (common in crime/legal news).'},
+{t:'whistleblower', m:['whistleblower'], d:'A person who reports wrongdoing inside their own organization.'},
+{t:'bipartisan', m:['bipartisan'], d:'Supported by both political parties.'},
+{t:'affordable housing', m:['affordable housing'], d:'Housing priced so lower-income people can pay for it — a constant Seattle topic.'},
+{t:'homelessness', m:['homelessness'], d:'The condition of having no home — a major topic in Seattle civic news.'},
+{t:'sweep', m:['encampment sweep','sweeps'], d:'(Seattle news) the forced clearing of a homeless encampment.'},
+{t:'upzone', m:['upzone','upzoning','upzoned'], d:'(Urbanism) to change rules so taller/denser buildings are allowed.'},
+{t:'right-of-way', m:['right-of-way','right of way'], d:'The legal right to pass through; land reserved for transport.'}
+];
+
+/* ---------- Fallback common-words list (used only when the online 10k list is unavailable) ---------- */
+const BASIC_WORDS_STR = "about above across after again against also always among another answer around because become before begin behind being believe below between both bring build business call came cannot care carry case catch cause certain change check child children choose city class clean clear close cold come common company consider continue could country course cover create cross cut daily dark day decide deep develop did different does done door down draw drink drive during each early earth easy eat eight either else end enough even evening ever every everyone everything example experience face fact fall family far fast father feel feet fell felt few field figure fill final find fine fire first five follow food foot force form found four free friend from front full game gave general get girl give glass goes going gone good got government great green ground group grow half hand happen happened hard has have head hear heard heart heavy held help here high hold home hope hour house how however hundred idea important inside instead interest into island just keep kept kind knew know land language large last late later learn least leave left less letter level life light like line list listen little live local long look made make man many matter may mean measure meet men might mile milk mind minute miss moment money month moon more morning most mother mountain move much music must name national near need never new next night nine north note nothing notice now number often once one only open order other our out over own page paper part pass past pay people perhaps person picture piece place plan plant play please point poor possible power present pretty problem produce program public pull put question quick quite rain reach read ready real really reason receive record red remember rest result return right river road rock room round rule run said same saw say school sea second see seem seen sentence serve set seven several shall shape share she ship short should show side simple since sing sister sit six size sleep slow small snow some someone something sometimes song soon sound south space speak special stand start state stay step still stop story street strong student study such summer sun sure table take talk teach teacher tell ten than that their them then there these they thing think third this those though thought thousand three through time today together told too took top toward town travel tree true try turn two under understand until upon use usually very voice wait walk want warm was watch water way week well went were west what when where which while white whole whose why will wind winter wish with within without woman women word work world would write year yes yet young your city county state street according says said week month year percent million billion report police school house home water group number member public part right left area based including work service services time people first last next new old two three four five six seven eight nine ten community local officials plan plans project projects building city council mayor residents";
+/* ================================================================
+   APP LOGIC
+   ================================================================ */
+
+/* ---------- storage ---------- */
+const KEY='emeraldReader.v1';
+let storageOK=true;
+function loadState(){
+  try{
+    const raw=localStorage.getItem(KEY);
+    if(raw) return JSON.parse(raw);
+  }catch(e){ storageOK=false; }
+  return null;
+}
+const DEFAULT_STATE={
+  settings:{theme:'auto'},
+  articlesMeta:{},        // id -> {read:true, readAt:iso}
+  fetchedArticles:[],     // live-fetched article objects
+  words:[],               // saved vocabulary
+  activity:{},            // 'YYYY-MM-DD' -> {read:0,saved:0,review:0}
+  defCache:{},            // word -> {d,pos}
+  wl:null,                // cached common-words list (array)
+  lastRefresh:null
+};
+let state=loadState()||JSON.parse(JSON.stringify(DEFAULT_STATE));
+// merge new fields after updates
+for(const k in DEFAULT_STATE) if(!(k in state)) state[k]=DEFAULT_STATE[k];
+if(!state.settings.level) state.settings.level='b2';
+if(state.settings.showHl===undefined) state.settings.showHl=true;
+if(state.settings.hideShort===undefined) state.settings.hideShort=true;
+
+function save(){
+  if(!storageOK){ return; }
+  try{ localStorage.setItem(KEY,JSON.stringify(state)); }
+  catch(e){ storageOK=false; document.getElementById('storagebanner').classList.add('show'); }
+}
+try{ localStorage.setItem('__t','1'); localStorage.removeItem('__t'); }
+catch(e){ storageOK=false; }
+if(!storageOK) document.getElementById('storagebanner').classList.add('show');
+
+/* ---------- utils ---------- */
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+const rxEsc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+function todayKey(d){ return (d||new Date()).toLocaleDateString('en-CA'); }
+function fmtDate(iso){
+  if(!iso) return '';
+  const d=new Date(iso+(iso.length===10?'T12:00:00':''));
+  if(isNaN(d)) return iso;
+  return d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+}
+function toast(msg){
+  const t=$('toast'); t.textContent=msg; t.classList.add('show');
+  clearTimeout(toast._h); toast._h=setTimeout(()=>t.classList.remove('show'),2600);
+}
+function bumpActivity(kind){
+  const k=todayKey();
+  if(!state.activity[k]) state.activity[k]={read:0,saved:0,review:0};
+  state.activity[k][kind]=(state.activity[k][kind]||0)+1;
+  save();
+}
+const srcOf=k=>SOURCES.find(s=>s.key===k)||{name:k,cat:'local'};
+const catLabel=k=>(CATS.find(c=>c.key===k)||{}).label||k;
+function allArticles(){ return [...STARTER_ARTICLES, ...state.fetchedArticles]; }
+function isRead(id){ return !!(state.articlesMeta[id]&&state.articlesMeta[id].read); }
+function wordSavedKey(term){ return term.trim().toLowerCase(); }
+function isWordSaved(term){ const k=wordSavedKey(term); return state.words.some(w=>wordSavedKey(w.term)===k); }
+
+/* ---------- text-to-speech ---------- */
+function speak(text){
+  if(!('speechSynthesis' in window)){ toast('Text-to-speech is not available in this browser'); return; }
+  speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang='en-US'; u.rate=0.95;
+  const v=speechSynthesis.getVoices().find(v=>v.lang&&v.lang.startsWith('en-US'));
+  if(v) u.voice=v;
+  speechSynthesis.speak(u);
+}
+if('speechSynthesis' in window) speechSynthesis.getVoices();
+
+/* ---------- theme ---------- */
+function applyTheme(){
+  const pref=state.settings.theme;
+  const dark = pref==='dark' || (pref==='auto' && matchMedia('(prefers-color-scheme: dark)').matches);
+  document.documentElement.setAttribute('data-theme',dark?'dark':'light');
+}
+$('themebtn').onclick=()=>{
+  const cur=state.settings.theme;
+  state.settings.theme = cur==='auto' ? 'dark' : cur==='dark' ? 'light' : 'auto';
+  save(); applyTheme();
+  toast('Theme: '+state.settings.theme);
+};
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change',applyTheme);
+applyTheme();
+
+/* ---------- English level ---------- */
+$('levelsel').value=state.settings.level;
+$('levelsel').onchange=()=>{
+  state.settings.level=$('levelsel').value;
+  wordSetCache={};
+  state.fetchedArticles.forEach(f=>{ f.annos=null; });
+  save();
+  toast('Annotation level updated — terms now match '+$('levelsel').selectedOptions[0].textContent.replace('Level: ',''));
+  if(openArticleId) openArticle(openArticleId);
+};
+
+/* ---------- highlight marks toggle ---------- */
+function applyHl(){ document.body.classList.toggle('nohl',!state.settings.showHl); }
+$('r-marks').onclick=()=>{
+  state.settings.showHl=!state.settings.showHl; save(); applyHl();
+  toast(state.settings.showHl?'Word marks shown':'Word marks hidden — the sidebar still lists them');
+};
+applyHl();
+
+/* ---------- tabs ---------- */
+document.querySelectorAll('nav button').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('active',x===b));
+    document.querySelectorAll('.tabpane').forEach(p=>p.classList.remove('active'));
+    $('pane-'+b.dataset.tab).classList.add('active');
+    if(b.dataset.tab==='progress') renderProgress();
+    if(b.dataset.tab==='words') renderWords();
+  };
+});
+function updateWordCount(){
+  $('wordcount').textContent=state.words.length?('('+state.words.length+')'):'';
+}
+
+/* ---------- news list ---------- */
+let curCat='all', curRead='all', curLong=false, openArticleId=null;
+function wcOf(a){ return a.wc || a.paras.join(' ').split(/\s+/).length; }
+function isLong(a){ return !!a.long || wcOf(a)>=700; }
+function minRead(a){ return Math.max(1,Math.round(wcOf(a)/220)); }
+const MIN_WORDS=120; // ≈10 lines of reader text
+$('shortfilter').onclick=()=>{
+  state.settings.hideShort=!state.settings.hideShort;
+  save(); renderNews();
+};
+$('longfilter').onclick=()=>{
+  curLong=!curLong;
+  $('longfilter').classList.toggle('active',curLong);
+  renderNews();
+};
+
+function renderCatFilters(){
+  $('catfilters').innerHTML=CATS.map(c=>
+    `<button class="chipbtn ${c.key===curCat?'active':''}" data-cat="${c.key}">${esc(c.label)}</button>`).join('');
+  $('catfilters').querySelectorAll('button').forEach(b=>{
+    b.onclick=()=>{ curCat=b.dataset.cat; renderNews(); };
+  });
+}
+document.querySelectorAll('[data-read]').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('[data-read]').forEach(x=>x.classList.toggle('active',x===b));
+    curRead=b.dataset.read; renderNews();
+  };
+});
+
+function renderNews(){
+  renderCatFilters();
+  $('shortfilter').classList.toggle('active',!!state.settings.hideShort);
+  const base=allArticles()
+    .filter(a=>curCat==='all'||a.cat===curCat)
+    .filter(a=>curRead==='all'||(curRead==='read')===isRead(a.id))
+    .filter(a=>!curLong||isLong(a));
+  const arts=base
+    .filter(a=>!state.settings.hideShort||wcOf(a)>=MIN_WORDS)
+    .sort((a,b)=>(b.date||'').localeCompare(a.date||''));
+  const shortHidden=base.length-arts.length;
+  $('cards').innerHTML=arts.map(a=>{
+    const src=srcOf(a.srcKey), read=isRead(a.id);
+    const ex=(a.paras&&a.paras[0])||'';
+    return `<div class="card ${read?'isread':''}" data-id="${esc(a.id)}">
+      ${a.img?`<img class="thumb" src="${esc(a.img)}" alt="" loading="lazy" onerror="this.remove()">`:''}
+      <div class="meta">
+        <span class="srcbadge">${esc(src.name)}</span>
+        <span class="catbadge">${esc(catLabel(a.cat))}</span>
+        <span>·</span><span>${esc(fmtDate(a.date))}</span>
+        <span>·</span><span>${minRead(a)} min read</span>
+        ${isLong(a)?'<span class="tag-phrase" title="Feature-length article">LONG READ</span>':''}
+        ${a.fetched?'<span class="newdot" title="Fetched live"></span>':''}
+      </div>
+      <h3>${esc(a.title)}</h3>
+      <p class="excerpt">${esc(ex)}</p>
+      <div class="foot">
+        <span>${esc(a.author||'')}</span>
+        ${read?'<span class="readmark">✓ Read</span>':''}
+      </div>
+    </div>`;
+  }).join('');
+  $('noarticles').style.display=arts.length?'none':'block';
+  $('cards').querySelectorAll('.card').forEach(c=>{
+    c.onclick=()=>openArticle(c.dataset.id);
+  });
+  const n=allArticles().length;
+  $('feedstamp').textContent=n+' articles'
+    +(shortHidden?(' · '+shortHidden+' short hidden'):'')
+    +' · '+(state.lastRefresh?('refreshed '+fmtDate(state.lastRefresh.slice(0,10))):'starter batch — hit ⟳ Refresh for today’s news');
+}
+
+/* ---------- reader ---------- */
+function openArticle(id){
+  const a=allArticles().find(x=>x.id===id); if(!a) return;
+  openArticleId=id;
+  $('newslist').style.display='none';
+  $('reader').classList.add('open');
+  const src=srcOf(a.srcKey);
+  $('r-src').textContent=src.name;
+  $('r-meta').textContent=[catLabel(a.cat),fmtDate(a.date),a.author,minRead(a)+' min read'].filter(Boolean).join(' · ');
+  $('r-title').textContent=a.title;
+  $('r-link').href=a.url;
+  $('r-link').textContent='Read the full story at '+src.name+' ↗';
+  $('r-excerptnote').textContent = a.gnews
+    ? 'Headline found via Google News — '+src.name+' blocks automatic excerpts, so use the link above to read the story on their site.'
+    : a.fullText
+    ? 'Full text provided by the source’s public feed. Original article: '+a.url
+    : 'This is the opening excerpt — follow the link above for the complete article at '+src.name+'.';
+  updateReadBtn(a);
+  // lead image
+  if(a.img){
+    $('r-fig').style.display='block';
+    $('r-img').onerror=()=>{ $('r-fig').style.display='none'; };
+    $('r-img').src=a.img;
+    $('r-figcap').textContent=a.imgCap||'';
+  }else $('r-fig').style.display='none';
+  // annotations
+  if(!a.annos) a.annos=autoAnnotate(a);
+  a._view=viewAnnos(a);
+  renderBody(a);
+  renderAnnos(a);
+  fillMissingDefs(a);
+  window.scrollTo({top:0});
+}
+$('backbtn').onclick=()=>{
+  openArticleId=null;
+  $('reader').classList.remove('open');
+  $('newslist').style.display='block';
+  speechSynthesis&&speechSynthesis.cancel();
+  renderNews();
+};
+function updateReadBtn(a){
+  const read=isRead(a.id);
+  const b=$('r-markread');
+  b.textContent=read?'✓ Read — undo':'✓ Mark as read';
+  b.className=read?'btn secondary':'btn';
+}
+$('r-markread').onclick=()=>{
+  const a=allArticles().find(x=>x.id===openArticleId); if(!a) return;
+  const meta=state.articlesMeta[a.id]||{};
+  if(meta.read){ meta.read=false; }
+  else{
+    meta.read=true; meta.readAt=new Date().toISOString();
+    bumpActivity('read');
+    toast('Nice — article marked as read 🎉');
+  }
+  state.articlesMeta[a.id]=meta; save();
+  updateReadBtn(a);
+};
+$('r-speak').onclick=()=>{
+  const a=allArticles().find(x=>x.id===openArticleId); if(!a) return;
+  speak(a.title+'. '+a.paras.join(' '));
+};
+
+function viewAnnos(a){
+  const list=a.annos||[];
+  if((state.settings.level||'b2')!=='c1') return list;
+  // C1+: hide single words that sit inside the ~5,000 most common
+  let easy;
+  if(state.wl&&state.wl.length>3000) easy=new Set(state.wl.slice(0,5000));
+  else easy=new Set(BASIC_WORDS_STR.split(/\s+/));
+  return list.filter(an=>{
+    if(an.ph) return true;
+    const t=an.t.toLowerCase().replace(/\s*\(.*?\)/g,'').trim();
+    if(t.includes(' ')) return true;
+    return !easy.has(t)&&!lemmas(t).some(l=>easy.has(l));
+  });
+}
+function renderBody(a){
+  const view=a._view||a.annos||[];
+  const html=a.paras.map(p=>{
+    let t=esc(p);
+    view.forEach((an,i)=>{
+      for(const m of an.m||[]){
+        const em=rxEsc(esc(m));
+        const re=new RegExp('(?<![\\w-])('+em+')(?![\\w-])','i');
+        if(re.test(t)){ t=t.replace(re,'<span class="hl" data-anno="'+i+'">$1</span>'); break; }
+      }
+    });
+    return '<p>'+t+'</p>';
+  }).join('');
+  $('r-body').innerHTML=html;
+  $('r-body').querySelectorAll('.hl').forEach(s=>{
+    s.onclick=e=>{ e.stopPropagation(); focusAnno(+s.dataset.anno); };
+  });
+}
+function focusAnno(i){
+  const el=$('annolist').querySelector('[data-ai="'+i+'"]');
+  if(el){ el.scrollIntoView({block:'center',behavior:'smooth'});
+    el.style.background='var(--accent-soft)'; setTimeout(()=>el.style.background='',900); }
+}
+function renderAnnos(a){
+  const list=a._view||a.annos||[];
+  const hidden=(a.annos||[]).length-list.length;
+  if(!list.length){
+    $('annolist').innerHTML='<p class="hint">'+(hidden>0
+      ?'All '+hidden+' detected terms are below your C1+ level — lower the level in the header to see them.'
+      :'No key terms detected in this article'+(navigator.onLine?'':' (some need an internet connection)')+'.')+'</p>';
+    return;
+  }
+  $('annolist').innerHTML=(hidden>0?'<p class="hint">'+hidden+' easier term'+(hidden===1?'':'s')+' hidden at C1+ level.</p>':'')+list.map((an,i)=>{
+    const saved=isWordSaved(an.t);
+    return `<div class="wordcard" data-ai="${i}">
+      <div class="whead">
+        <span class="term" data-i="${i}" title="Highlight in text">${esc(an.t)}</span>
+        ${an.ph?'<span class="tag-phrase">PHRASE</span>':''}
+        <span class="actions">
+          <button class="minibtn speak" data-sp="${i}" title="Listen">🔊</button>
+          <button class="minibtn ${saved?'saved':''}" data-save="${i}">${saved?'✓ Saved':'+ Save'}</button>
+        </span>
+      </div>
+      <div class="pos">${esc(an.pos||'')}</div>
+      <div class="def" data-def="${i}">${an.d?esc(an.d):'<i>Looking up definition…</i>'}</div>
+      ${an.ex?'<div class="ex">“'+esc(an.ex)+'”</div>':''}
+    </div>`;
+  }).join('');
+  $('annolist').querySelectorAll('.term').forEach(el=>{
+    el.onclick=()=>{
+      const i=+el.dataset.i;
+      const hl=$('r-body').querySelector('.hl[data-anno="'+i+'"]');
+      if(hl){ hl.scrollIntoView({block:'center',behavior:'smooth'}); hl.classList.add('flash');
+        setTimeout(()=>hl.classList.remove('flash'),1200); }
+      else toast('This term appears in the full article — open the link to see it in context');
+    };
+  });
+  $('annolist').querySelectorAll('[data-sp]').forEach(b=>{ b.onclick=()=>speak(list[+b.dataset.sp].t); });
+  $('annolist').querySelectorAll('[data-save]').forEach(b=>{
+    b.onclick=()=>{
+      const an=list[+b.dataset.save];
+      if(isWordSaved(an.t)){ toast('Already in your list'); return; }
+      saveWord({term:an.t,pos:an.pos||'',def:an.d||'',ex:an.ex||'',ph:!!an.ph,srcTitle:a.title,srcId:a.id});
+      b.classList.add('saved'); b.textContent='✓ Saved';
+    };
+  });
+}
+function saveWord(o){
+  state.words.push({
+    id:'w'+Date.now()+Math.floor(Math.random()*1e4),
+    term:o.term,pos:o.pos,def:o.def,ex:o.ex,ph:!!o.ph,
+    srcTitle:o.srcTitle||'',srcId:o.srcId||'',
+    addedAt:new Date().toISOString(),correct:0,remembered:false,lastReviewed:null
+  });
+  bumpActivity('saved'); save(); updateWordCount();
+  toast('“'+o.term+'” saved to Words & Phrases');
+}
+
+/* ---------- dictionary lookups ---------- */
+async function lookupWord(word){
+  const w=word.toLowerCase().trim();
+  if(state.defCache[w]) return state.defCache[w];
+  try{
+    const r=await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(w),{signal:timeoutSignal(9000)});
+    if(!r.ok) throw 0;
+    const j=await r.json();
+    const m=j[0]&&j[0].meanings&&j[0].meanings[0];
+    if(!m) throw 0;
+    const out={d:m.definitions[0].definition,pos:m.partOfSpeech||''};
+    state.defCache[w]=out;
+    // cap cache
+    const keys=Object.keys(state.defCache);
+    if(keys.length>600) delete state.defCache[keys[0]];
+    save();
+    return out;
+  }catch(e){ return null; }
+}
+async function fillMissingDefs(a){
+  const missing=(a._view||a.annos||[]).map((an,i)=>({an,i})).filter(x=>!x.an.d);
+  if(!missing.length) return;
+  await Promise.allSettled(missing.map(async({an,i})=>{
+    const res=await lookupWord(an.t);
+    if(openArticleId!==a.id) return;
+    const el=$('annolist')&&$('annolist').querySelector('[data-def="'+i+'"]');
+    if(res){ an.d=res.d; if(!an.pos) an.pos=res.pos; }
+    if(el){
+      el.innerHTML=an.d?esc(an.d):'<i>No dictionary entry found — open the article link for context.</i>';
+      if(an.pos){ const pe=el.parentElement.querySelector('.pos'); if(pe) pe.textContent=an.pos; }
+    }
+  }));
+  save();
+}
+
+/* ---------- double-click / selection lookup ---------- */
+const pop=$('lookuppop');
+document.addEventListener('mousedown',e=>{ if(!pop.contains(e.target)) pop.style.display='none'; });
+$('r-body').addEventListener('mouseup',async e=>{
+  const sel=window.getSelection();
+  const text=sel?sel.toString().trim():'';
+  if(!text||text.length<2||text.length>60||text.split(/\s+/).length>5) return;
+  const rect=sel.getRangeAt(0).getBoundingClientRect();
+  pop.style.display='block';
+  pop.style.left=Math.min(window.scrollX+rect.left, window.scrollX+document.documentElement.clientWidth-340)+'px';
+  pop.style.top=(window.scrollY+rect.bottom+8)+'px';
+  const isPhrase=text.split(/\s+/).length>1;
+  pop.innerHTML=`<div class="term">${esc(text)} <button class="minibtn speak" id="pop-sp">🔊</button></div>
+    <div class="def" id="pop-def"><i>Looking up…</i></div>
+    <div style="display:flex;gap:8px;margin-top:8px">
+      <button class="btn" id="pop-save" style="padding:6px 12px;font-size:13px">+ Save</button>
+    </div>`;
+  $('pop-sp').onclick=()=>speak(text);
+  let def='';
+  if(!isPhrase){
+    const res=await lookupWord(text);
+    def=res?res.d:'';
+    const de=$('pop-def');
+    if(de) de.innerHTML= def?esc(def):'<i>No dictionary entry.</i> Add your own note:<br><textarea id="pop-ta" rows="2" placeholder="What does it mean?"></textarea>';
+  }else{
+    const de=$('pop-def');
+    de.innerHTML='Phrases aren’t in the dictionary API — add your own note:<br><textarea id="pop-ta" rows="2" placeholder="What does it mean?"></textarea>';
+  }
+  $('pop-save').onclick=()=>{
+    const ta=$('pop-ta');
+    const a=allArticles().find(x=>x.id===openArticleId);
+    if(isWordSaved(text)){ toast('Already in your list'); pop.style.display='none'; return; }
+    saveWord({term:text,pos:'',def:(ta&&ta.value.trim())||def,ex:'',ph:isPhrase,srcTitle:a?a.title:'',srcId:a?a.id:''});
+    pop.style.display='none';
+  };
+});
+
+/* ---------- auto-annotation for fetched articles ---------- */
+let wordSetCache={};
+const LEVEL_N={b1:3000,b2:6500,c1:10000};
+function getWordSet(){
+  const lvl=state.settings.level||'b2';
+  if(wordSetCache[lvl]) return wordSetCache[lvl];
+  let s;
+  if(state.wl&&state.wl.length>3000) s=new Set(state.wl.slice(0,LEVEL_N[lvl]||6500));
+  else s=new Set(BASIC_WORDS_STR.split(/\s+/));
+  wordSetCache[lvl]=s;
+  return s;
+}
+async function ensureBigWordList(){
+  if(state.wl&&state.wl.length>3000) return;
+  try{
+    const r=await fetch('https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-usa-no-swears.txt',{signal:timeoutSignal(12000)});
+    if(!r.ok) throw 0;
+    const txt=await r.text();
+    state.wl=txt.split(/\s+/).slice(0,10000).filter(w=>w.length>1);
+    wordSetCache={}; save();
+  }catch(e){/* fallback list stays */}
+}
+function lemmas(w){
+  const out=[w];
+  if(w.endsWith('ies')) out.push(w.slice(0,-3)+'y');
+  if(w.endsWith('es')) out.push(w.slice(0,-2));
+  if(w.endsWith('s')) out.push(w.slice(0,-1));
+  if(w.endsWith('ed')) out.push(w.slice(0,-2),w.slice(0,-1),w.slice(0,-3));
+  if(w.endsWith('ing')) out.push(w.slice(0,-3),w.slice(0,-3)+'e',w.slice(0,-4));
+  if(w.endsWith('ly')) out.push(w.slice(0,-2));
+  if(w.endsWith('er')) out.push(w.slice(0,-2),w.slice(0,-1));
+  if(w.endsWith('est')) out.push(w.slice(0,-3));
+  return out.filter(x=>x.length>2);
+}
+function autoAnnotate(a){
+  const text=a.paras.join('\n');
+  const low=text.toLowerCase();
+  const annos=[];
+  const used=new Set();
+  // 1. idioms & phrases from the built-in dictionary
+  for(const id of IDIOMS){
+    if(annos.length>=9) break;
+    for(const m of id.m){
+      const re=new RegExp('(?<![\\w-])'+rxEsc(m.toLowerCase())+'(?![\\w-])');
+      if(re.test(low)){
+        annos.push({t:id.t,m:[m],ph:m.includes(' ')?1:0,pos:m.includes(' ')?'phrase':'',d:id.d,ex:''});
+        used.add(id.t.toLowerCase());
+        break;
+      }
+    }
+  }
+  // 2. uncommon single words
+  const known=getWordSet();
+  const counts={};
+  const tokens=text.match(/[A-Za-z][a-z’'-]{3,}/g)||[];
+  for(const tok of tokens){
+    if(/^[A-Z]/.test(tok)) continue;               // skip capitalized → likely proper nouns
+    const w=tok.toLowerCase().replace(/[’']s?$/,'');
+    if(w.length<5||used.has(w)) continue;
+    if(lemmas(w).some(l=>known.has(l))) continue;
+    counts[w]=(counts[w]||0)+1;
+  }
+  const cands=Object.keys(counts)
+    .sort((x,y)=>counts[y]-counts[x]||y.length-x.length)
+    .slice(0,Math.max(0,9-annos.length));
+  for(const w of cands){
+    const cached=state.defCache[w];
+    annos.push({t:w,m:[w],pos:cached?cached.pos:'',d:cached?cached.d:'',ex:''});
+  }
+  return annos;
+}
+
+/* ---------- RSS refresh ---------- */
+function timeoutSignal(ms){
+  if(typeof AbortSignal!=='undefined'&&AbortSignal.timeout) return AbortSignal.timeout(ms);
+  const c=new AbortController(); setTimeout(()=>c.abort(),ms); return c.signal;
+}
+/* XML relay proxies, tried in order. The last unwraps allorigins' JSON envelope. */
+const PROXIES=[
+  {b:u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u)},
+  {b:u=>'https://api.codetabs.com/v1/proxy?quest='+encodeURIComponent(u)},
+  {b:u=>'https://corsproxy.io/?url='+encodeURIComponent(u)},
+  {b:u=>'https://api.allorigins.win/get?url='+encodeURIComponent(u),
+   unwrap:t=>{ try{ return JSON.parse(t).contents||''; }catch(e){ return ''; } }},
+];
+async function fetchText(url){
+  for(const p of PROXIES){
+    try{
+      const r=await fetch(p.b(url),{signal:timeoutSignal(10000)});
+      if(!r.ok) continue;
+      let t=await r.text();
+      if(p.unwrap) t=p.unwrap(t);
+      if(t&&t.length>200&&t.indexOf('<')>-1) return t;
+    }catch(e){}
+  }
+  return null;
+}
+/* rss2json — a free API purpose-built for reading RSS in the browser (primary route) */
+async function fetchViaRss2json(feed,src){
+  try{
+    const r=await fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(feed),{signal:timeoutSignal(12000)});
+    if(!r.ok) return null;
+    const j=await r.json();
+    if(j.status!=='ok'||!Array.isArray(j.items)||!j.items.length) return null;
+    const out=[];
+    for(const it of j.items.slice(0,8)){
+      const title=(it.title||'').trim(), link=(it.link||'').trim();
+      if(!title||!link) continue;
+      const d=new Date(it.pubDate||'');
+      const date=isNaN(d)?'':d.toISOString().slice(0,10);
+      const desc=it.description||'';
+      const content=(it.content&&it.content.length>Math.max(500,desc.length))?it.content:'';
+      const paras=stripHTML(content||desc);
+      if(!paras.length) continue;
+      if(src.nwOnly&&!NW_RE.test(title+' '+paras.slice(0,2).join(' '))) continue;
+      let img=it.thumbnail||(it.enclosure&&(it.enclosure.link||it.enclosure.url))||'';
+      if(!img){
+        const d2=new DOMParser().parseFromString(content||desc,'text/html');
+        const im=d2.querySelector('img'); if(im) img=im.getAttribute('src')||'';
+      }
+      if(!/^https?:\/\//.test(img)) img='';
+      out.push({
+        id:'f-'+src.key+'-'+link.replace(/[^a-z0-9]/gi,'').slice(-40),
+        srcKey:src.key,cat:src.cat,title,author:it.author||'',
+        date:date||todayKey(),url:link,paras,img,fetched:true,fullText:!!content,annos:null
+      });
+    }
+    return out; // may be empty (e.g. all items filtered as non-regional) — that still means "reached"
+  }catch(e){ return null; }
+}
+/* Google News per-site RSS — last-resort route for bot-protected or feed-less sites */
+function gnewsUrl(src){
+  const host=new URL(src.home).hostname.replace(/^www\./,'');
+  let q='site:'+host;
+  if(src.nwOnly) q+=' (washington OR seattle OR northwest)';
+  return 'https://news.google.com/rss/search?q='+encodeURIComponent(q)+'&hl=en-US&gl=US&ceid=US:en';
+}
+function cleanGnewsTitle(t){
+  const i=t.lastIndexOf(' - ');
+  if(i>10&&t.length-i<60) return t.slice(0,i).trim(); // strip trailing " - Publication Name"
+  return t.trim();
+}
+function gnewsItemToArticle(src,title,link,pubDate,descHtml){
+  title=cleanGnewsTitle(title||''); link=(link||'').trim();
+  if(!title||!link) return null;
+  const d=new Date(pubDate||'');
+  const date=isNaN(d)?'':d.toISOString().slice(0,10);
+  let snippet='';
+  try{ snippet=new DOMParser().parseFromString(descHtml||'','text/html').body.textContent.replace(/\s+/g,' ').trim(); }catch(e){}
+  snippet=cleanGnewsTitle(snippet);
+  const paras=[snippet&&snippet.length>25&&snippet!==title?snippet:('“'+title+'” — open the full story at '+src.name+' with the link above.')];
+  return {
+    id:'f-'+src.key+'-'+link.replace(/[^a-z0-9]/gi,'').slice(-40),
+    srcKey:src.key,cat:src.cat,title,author:'',date:date||todayKey(),
+    url:link,paras,img:'',fetched:true,fullText:false,gnews:true,annos:null
+  };
+}
+async function fetchGoogleNews(src){
+  const url=gnewsUrl(src);
+  // try rss2json first (their servers fetch Google News fine), then the relay proxies
+  try{
+    const r=await fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url),{signal:timeoutSignal(12000)});
+    if(r.ok){
+      const j=await r.json();
+      if(j.status==='ok'&&Array.isArray(j.items)&&j.items.length)
+        return j.items.slice(0,6).map(it=>gnewsItemToArticle(src,it.title,it.link,it.pubDate,it.description)).filter(Boolean);
+    }
+  }catch(e){}
+  const txt=await fetchText(url);
+  if(!txt) return null;
+  const doc=new DOMParser().parseFromString(txt,'text/xml');
+  if(doc.querySelector('parsererror')) return null;
+  const out=[];
+  for(const it of [...doc.querySelectorAll('item')].slice(0,6)){
+    const q=sel=>{ const n=it.querySelector(sel); return n?n.textContent.trim():''; };
+    const a=gnewsItemToArticle(src,q('title'),q('link'),q('pubDate'),q('description'));
+    if(a) out.push(a);
+  }
+  return out.length?out:null;
+}
+/* run async tasks with limited concurrency (avoids proxy rate limits) */
+async function runLimited(tasks,limit){
+  let i=0;
+  async function worker(){ while(i<tasks.length){ const idx=i++; await tasks[idx](); } }
+  await Promise.all(Array.from({length:Math.min(limit,tasks.length)},worker));
+}
+function stripHTML(html){
+  const doc=new DOMParser().parseFromString(html,'text/html');
+  doc.querySelectorAll('script,style,iframe,figure,figcaption,img,noscript,form').forEach(n=>n.remove());
+  let paras=[...doc.querySelectorAll('p')].map(p=>p.textContent.replace(/\s+/g,' ').trim()).filter(t=>t.length>40);
+  if(!paras.length){
+    const t=doc.body?doc.body.textContent.replace(/\s+/g,' ').trim():'';
+    if(t) paras=t.split(/(?<=[.!?])\s+(?=[A-Z“"])/).reduce((acc,s)=>{ // group sentences ~3 per para
+      if(!acc.length||acc[acc.length-1].split('. ').length>=3) acc.push(s); else acc[acc.length-1]+=' '+s;
+      return acc;
+    },[]);
+  }
+  return paras.slice(0,40);
+}
+function parseFeed(xmlText,src){
+  const doc=new DOMParser().parseFromString(xmlText,'text/xml');
+  if(doc.querySelector('parsererror')) return null; // unreadable ≠ empty
+  const items=[...doc.querySelectorAll('item')];
+  const entries=items.length?items:[...doc.querySelectorAll('entry')];
+  const out=[];
+  for(const it of entries.slice(0,8)){
+    const q=sel=>{ const n=it.querySelector(sel); return n?n.textContent.trim():''; };
+    let link=q('link');
+    if(!link){ const ln=it.querySelector('link[rel="alternate"],link'); link=ln?(ln.getAttribute('href')||''):''; }
+    const title=q('title'); if(!title||!link) continue;
+    if(src.nwOnly){ const probe=title+' '+(q('description')||q('summary')||''); if(!NW_RE.test(probe)) continue; }
+    let date=q('pubDate')||q('published')||q('updated')||q('date');
+    const d=new Date(date); date=isNaN(d)?'':d.toISOString().slice(0,10);
+    let content='';
+    for(const n of it.children){
+      if((n.localName==='encoded'||n.localName==='content')&&n.textContent&&n.textContent.length>200){ content=n.textContent; break; }
+    }
+    const desc=q('description')||q('summary')||q('content');
+    // lead image: media:content / media:thumbnail → enclosure → first <img> in content
+    let img='';
+    for(const n of it.getElementsByTagName('*')){
+      const isMedia=(n.namespaceURI&&(n.namespaceURI.indexOf('mrss')>-1||n.namespaceURI.indexOf('media')>-1))||
+                    (n.nodeName&&n.nodeName.toLowerCase().indexOf('media:')===0);
+      if((n.localName==='content'||n.localName==='thumbnail')&&isMedia){
+        const u=n.getAttribute('url'); if(u){ img=u; break; }
+      }
+    }
+    if(!img){ const enc=it.querySelector('enclosure[type^="image"]'); if(enc) img=enc.getAttribute('url')||''; }
+    if(!img&&(content||desc)){
+      const d2=new DOMParser().parseFromString(content||desc,'text/html');
+      const im=d2.querySelector('img'); if(im) img=im.getAttribute('src')||'';
+    }
+    if(!/^https?:\/\//.test(img)) img='';
+    const fullText=content&&content.length>Math.max(500,(desc||'').length);
+    const paras=stripHTML(fullText?content:(desc||''));
+    if(!paras.length) continue;
+    if(src.nwOnly && !NW_RE.test(title+' '+paras.slice(0,3).join(' '))) continue;  // national feeds: NW stories only
+    out.push({
+      id:'f-'+src.key+'-'+link.replace(/[^a-z0-9]/gi,'').slice(-40),
+      srcKey:src.key,cat:src.cat,title,author:q('creator')||q('author name')||'',
+      date:date||todayKey(),url:link,paras,img,fetched:true,fullText:!!fullText,annos:null
+    });
+  }
+  return out;
+}
+$('refreshbtn').onclick=async()=>{
+  if(!navigator.onLine){ toast('You appear to be offline — showing saved articles'); return; }
+  const modal=$('refreshmodal'); modal.classList.add('open');
+  $('refreshclose').disabled=true;
+  $('srcstatuses').innerHTML=SOURCES.map(s=>
+    `<div class="srcstatus"><span>${esc(s.name)}</span><span class="pend" id="st-${s.key}">…</span></div>`).join('');
+  ensureBigWordList();
+  let totalNew=0, okCount=0;
+  await runLimited(SOURCES.map(src=>async()=>{
+    const el=$('st-'+src.key);
+    try{
+      let items=null; // null = never reached; [] = reached but nothing usable
+      for(const feed of src.feeds){
+        // route 1: rss2json (JSON, made for this)
+        const viaJson=await fetchViaRss2json(feed,src);
+        if(viaJson!==null){ items=viaJson; if(items.length) break; }
+        // route 2: raw XML through relay proxies
+        const txt=await fetchText(feed);
+        if(txt){
+          const parsed=parseFeed(txt,src);
+          if(parsed!==null&&(items===null||parsed.length)) items=parsed;
+          if(items&&items.length) break;
+        }
+      }
+      let viaGnews=false;
+      if(items===null||!items.length){
+        // route 3: Google News per-site search (works even when the site blocks relays)
+        const g=await fetchGoogleNews(src);
+        if(g&&g.length){ items=g; viaGnews=true; }
+      }
+      if(items===null){ el.textContent='couldn’t reach feed'; el.className='fail'; return; }
+      okCount++;
+      if(!items.length){ el.textContent='✓ no '+(src.nwOnly?'regional ':'')+'stories right now'; el.className='ok'; return; }
+      const existing=new Set(allArticles().map(a=>a.url));
+      const fresh=items.filter(i=>!existing.has(i.url)).slice(0,4);
+      state.fetchedArticles.push(...fresh);
+      totalNew+=fresh.length;
+      el.textContent=fresh.length?('✓ '+fresh.length+' new'+(viaGnews?' (headlines via Google News)':'')):'✓ up to date';
+      el.className='ok';
+    }catch(e){ el.textContent='failed'; el.className='fail'; }
+  }),3);
+  if(okCount===0){
+    $('srcstatuses').insertAdjacentHTML('afterend',
+      '<p style="font-size:13px;color:var(--danger);margin:10px 0 0" id="allfailnote">Every source failed, which usually means the free relay services are briefly down or blocked on this network — not a problem with your file. Try again in a few minutes, or on a different network (e.g. not a corporate VPN).</p>');
+    setTimeout(()=>{ const n=$('allfailnote'); if(n) n.remove(); },30000);
+  }
+  // prune: keep max 90 fetched; drop oldest read-articles first
+  if(state.fetchedArticles.length>90){
+    const savedSrc=new Set(state.words.map(w=>w.srcId));
+    const keepScore=a=>(isRead(a.id)?0:2)+(savedSrc.has(a.id)?4:0);
+    state.fetchedArticles.sort((a,b)=>keepScore(b)-keepScore(a)||(b.date||'').localeCompare(a.date||''));
+    state.fetchedArticles=state.fetchedArticles.slice(0,90);
+  }
+  state.lastRefresh=new Date().toISOString(); save();
+  $('refreshclose').disabled=false;
+  $('refreshclose').onclick=()=>{ modal.classList.remove('open'); renderNews(); };
+  toast(totalNew?('Added '+totalNew+' new articles'):'No new articles right now');
+};
+
+/* ---------- Words tab ---------- */
+let wFilter='all';
+document.querySelectorAll('[data-wfilter]').forEach(b=>{
+  b.onclick=()=>{
+    document.querySelectorAll('[data-wfilter]').forEach(x=>x.classList.toggle('active',x===b));
+    wFilter=b.dataset.wfilter; renderWords();
+  };
+});
+$('wsearch').oninput=()=>renderWords();
+function renderWords(){
+  updateWordCount();
+  const q=$('wsearch').value.trim().toLowerCase();
+  let list=[...state.words].sort((a,b)=>(b.addedAt||'').localeCompare(a.addedAt||''));
+  if(wFilter==='words') list=list.filter(w=>!w.ph);
+  if(wFilter==='phrases') list=list.filter(w=>w.ph);
+  if(wFilter==='learning') list=list.filter(w=>!w.remembered);
+  if(wFilter==='remembered') list=list.filter(w=>w.remembered);
+  if(q) list=list.filter(w=>(w.term+' '+w.def).toLowerCase().includes(q));
+  $('wtable').innerHTML=list.map(w=>`
+    <div class="wrow">
+      <div class="winfo">
+        <div class="wterm">${esc(w.term)} ${w.ph?'<span class="tag-phrase">PHRASE</span>':''}
+          <span class="pos" style="font-size:12px;color:var(--muted);font-style:italic">${esc(w.pos||'')}</span></div>
+        <div class="wdef">${esc(w.def||'(no definition saved)')}</div>
+        ${w.ex?'<div class="wdef" style="font-style:italic;color:var(--muted)">“'+esc(w.ex)+'”</div>':''}
+        <div class="wsrc">from “${esc(w.srcTitle||'—')}” · added ${esc(fmtDate((w.addedAt||'').slice(0,10)))}</div>
+      </div>
+      <div class="wside">
+        ${w.remembered?'<span class="rem-badge">✓ Remembered</span>':
+          `<span class="learn-badge">learning</span><span class="progress-pips">${[0,1,2].map(i=>'<span class="pip '+(i<(w.correct||0)?'on':'')+'"></span>').join('')}</span>`}
+        <span style="display:flex;gap:6px">
+          <button class="minibtn speak" data-wsp="${w.id}">🔊</button>
+          <button class="minibtn" data-wdel="${w.id}">Remove</button>
+        </span>
+      </div>
+    </div>`).join('');
+  $('nowords').style.display=(state.words.length===0)?'block':'none';
+  $('wtable').querySelectorAll('[data-wsp]').forEach(b=>{
+    b.onclick=()=>{ const w=state.words.find(x=>x.id===b.dataset.wsp); if(w) speak(w.term); };
+  });
+  $('wtable').querySelectorAll('[data-wdel]').forEach(b=>{
+    b.onclick=()=>{
+      state.words=state.words.filter(x=>x.id!==b.dataset.wdel);
+      save(); renderWords();
+    };
+  });
+}
+
+/* ---------- flashcards ---------- */
+let deck=[],deckPos=0,deckFlipped=false;
+$('reviewbtn').onclick=()=>{
+  const pool=state.words.filter(w=>!w.remembered);
+  const extra=pool.length<5?state.words.filter(w=>w.remembered):[];
+  deck=[...pool,...extra].sort((a,b)=>((a.lastReviewed||'')<(b.lastReviewed||'')?-1:1)).slice(0,15);
+  // light shuffle
+  for(let i=deck.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [deck[i],deck[j]]=[deck[j],deck[i]]; }
+  if(!deck.length){ toast('Save some words first — open an article and hit + Save'); return; }
+  deckPos=0;
+  $('wordshome').style.display='none';
+  $('flashwrap').classList.add('open');
+  showCard();
+};
+function endReview(){
+  $('flashwrap').classList.remove('open');
+  $('wordshome').style.display='block';
+  renderWords();
+}
+$('flashquit').onclick=endReview;
+function showCard(){
+  if(deckPos>=deck.length){
+    $('flashprog').textContent='Session complete!';
+    $('flashcard').innerHTML='<div class="fterm">🎉 Done!</div><div class="fdef">You reviewed '+deck.length+' cards. Come back tomorrow — spaced repetition works best daily.</div>';
+    $('flashactions').innerHTML='<button class="btn" onclick="document.getElementById(\'flashquit\').click()">Back to word list</button>';
+    return;
+  }
+  const w=deck[deckPos]; deckFlipped=false;
+  $('flashprog').textContent='Card '+(deckPos+1)+' of '+deck.length+(w.remembered?' · (review of a remembered word)':'');
+  $('flashcard').innerHTML=`<div class="fterm">${esc(w.term)}</div>
+    <div class="fpos">${esc(w.pos||'')}</div>
+    <div class="fdef" style="color:var(--muted)">Can you remember the meaning?</div>`;
+  $('flashactions').innerHTML=`<button class="btn secondary" id="fc-speak">🔊 Listen</button>
+    <button class="btn" id="fc-flip">Flip card</button>`;
+  $('fc-flip').onclick=flipCard;
+  $('fc-speak').onclick=()=>speak(w.term);
+}
+function flipCard(){
+  const w=deck[deckPos]; deckFlipped=true;
+  $('flashcard').innerHTML=`<div class="fterm" style="font-size:22px">${esc(w.term)}</div>
+    <div class="fpos">${esc(w.pos||'')}</div>
+    <div class="fdef">${esc(w.def||'(no definition saved)')}</div>
+    ${w.ex?'<div class="fex">“'+esc(w.ex)+'”</div>':''}
+    ${w.srcTitle?'<div class="fex">from: '+esc(w.srcTitle)+'</div>':''}`;
+  $('flashactions').innerHTML=`<button class="btn miss" id="fc-miss">✗ Missed it</button>
+    <button class="btn good" id="fc-got">✓ Got it</button>`;
+  $('fc-got').onclick=()=>gradeCard(true);
+  $('fc-miss').onclick=()=>gradeCard(false);
+}
+function gradeCard(got){
+  const w=deck[deckPos];
+  w.lastReviewed=new Date().toISOString();
+  if(got){
+    w.correct=(w.correct||0)+1;
+    if(!w.remembered&&w.correct>=3){ w.remembered=true; toast('“'+w.term+'” marked as remembered! 🏅'); }
+  }else{
+    w.correct=Math.max(0,(w.correct||0)-1);
+    if(w.remembered){ w.remembered=false; }
+  }
+  bumpActivity('review');
+  save();
+  deckPos++; showCard();
+}
+
+/* ---------- Progress tab ---------- */
+function computeStreak(){
+  let streak=0;
+  const d=new Date();
+  const today=todayKey(d);
+  const act=k=>state.activity[k]&&state.activity[k].read>0;
+  if(!act(today)) d.setDate(d.getDate()-1);       // today not read yet → count up to yesterday
+  while(act(todayKey(d))){ streak++; d.setDate(d.getDate()-1); }
+  return streak;
+}
+function lastNDays(n){
+  const out=[];
+  const d=new Date(); d.setDate(d.getDate()-(n-1));
+  for(let i=0;i<n;i++){
+    const k=todayKey(d);
+    out.push({key:k,label:(d.getMonth()+1)+'/'+d.getDate(),act:state.activity[k]||{read:0,saved:0,review:0}});
+    d.setDate(d.getDate()+1);
+  }
+  return out;
+}
+function weekCount(kind,offsetWeeks){
+  const now=new Date();
+  let c=0;
+  for(let i=0;i<7;i++){
+    const d=new Date(now); d.setDate(d.getDate()-i-offsetWeeks*7);
+    const a=state.activity[todayKey(d)];
+    if(a) c+=a[kind]||0;
+  }
+  return c;
+}
+function renderProgress(){
+  const totalRead=Object.values(state.articlesMeta).filter(m=>m.read).length;
+  const totalWords=state.words.length;
+  const remembered=state.words.filter(w=>w.remembered).length;
+  const streak=computeStreak();
+  const wkRead=weekCount('read',0), wkReadPrev=weekCount('read',1);
+  const wkSaved=weekCount('saved',0);
+  const tiles=[
+    {l:'Articles read',v:totalRead,d:wkRead?('<span class="up">+'+wkRead+'</span> this week'+(wkReadPrev?(' · '+wkReadPrev+' last week'):'')):'none yet this week'},
+    {l:'Words & phrases saved',v:totalWords,d:wkSaved?('<span class="up">+'+wkSaved+'</span> this week'):'save words from article sidebars'},
+    {l:'Remembered',v:remembered,d:totalWords?Math.round(remembered/totalWords*100)+'% of your list':'reviewed 3× correctly = remembered'},
+    {l:'Day streak',v:streak,d:streak?'consecutive days with reading':'read one article to start a streak'},
+  ];
+  $('tiles').innerHTML=tiles.map(t=>
+    `<div class="tile"><div class="tlabel">${t.l}</div><div class="tvalue">${t.v}</div><div class="tdelta">${t.d}</div></div>`).join('');
+  const days=lastNDays(14);
+  drawChart($('chart-articles'),days.map(d=>({label:d.label,v:d.act.read||0})),'var(--series-1)','article');
+  drawChart($('chart-words'),days.map(d=>({label:d.label,v:d.act.saved||0})),'var(--series-2)','word');
+  $('table-articles').innerHTML=chartTable(days.map(d=>[d.label,d.act.read||0]),'Articles');
+  $('table-words').innerHTML=chartTable(days.map(d=>[d.label,d.act.saved||0]),'Words saved');
+  // reading log
+  const readList=Object.entries(state.articlesMeta).filter(([,m])=>m.read)
+    .sort((a,b)=>(b[1].readAt||'').localeCompare(a[1].readAt||''))
+    .map(([id,m])=>{ const a=allArticles().find(x=>x.id===id); return a?{a,m}:null; })
+    .filter(Boolean).slice(0,30);
+  $('milestonebox').style.display=readList.length?'block':'none';
+  $('readlog').innerHTML=readList.map(({a,m})=>
+    `<div style="padding:7px 0;border-bottom:1px solid var(--grid)">
+      <span class="srcbadge" style="margin-right:8px">${esc(srcOf(a.srcKey).name)}</span>
+      ${esc(a.title)}
+      <span style="color:var(--muted)"> · ${esc(fmtDate((m.readAt||'').slice(0,10)))}</span>
+    </div>`).join('');
+}
+function chartTable(rows,name){
+  return '<table><tr><th>Date</th><th>'+name+'</th></tr>'+
+    rows.map(r=>'<tr><td>'+r[0]+'</td><td>'+r[1]+'</td></tr>').join('')+'</table>';
+}
+function drawChart(el,data,color,unit){
+  const max=Math.max(...data.map(d=>d.v),3);
+  const step=Math.ceil(max/3);
+  const ymax=step*3;
+  const H=180,BASE=22,PLOT=H-BASE-6;
+  let html='';
+  for(let g=1;g<=3;g++){
+    const y=6+PLOT-(g*step/ymax)*PLOT;
+    html+=`<div class="gridline" style="top:${y}px"><span class="glabel">${g*step}</span></div>`;
+  }
+  html+='<div class="baseline"></div><div class="bars">';
+  data.forEach((d,i)=>{
+    const h=d.v?Math.max(3,(d.v/ymax)*PLOT):0;
+    html+=`<div class="barcol" data-i="${i}"><div class="bar" style="height:${h}px;background:${color}"></div></div>`;
+  });
+  html+='</div><div class="xlab">'+data.map((d,i)=>'<span>'+(i%2===1?d.label:'')+'</span>').join('')+'</div>';
+  el.innerHTML=html;
+  const tip=$('charttip');
+  el.querySelectorAll('.barcol').forEach(c=>{
+    c.addEventListener('mousemove',e=>{
+      const d=data[+c.dataset.i];
+      tip.style.display='block';
+      tip.textContent=d.label+': '+d.v+' '+unit+(d.v===1?'':'s');
+      tip.style.left=(e.clientX+12)+'px'; tip.style.top=(e.clientY-30)+'px';
+    });
+    c.addEventListener('mouseleave',()=>tip.style.display='none');
+  });
+}
+
+/* ---------- export / import ---------- */
+$('exportbtn').onclick=()=>{
+  const blob=new Blob([JSON.stringify(state,null,1)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download='emerald-reader-backup-'+todayKey().replace(/-/g,'')+'.json';
+  a.click(); URL.revokeObjectURL(a.href);
+  toast('Backup downloaded');
+};
+$('importbtn').onclick=()=>$('importfile').click();
+$('importfile').onchange=e=>{
+  const f=e.target.files[0]; if(!f) return;
+  const rd=new FileReader();
+  rd.onload=()=>{
+    try{
+      const s=JSON.parse(rd.result);
+      if(!s.words||!s.articlesMeta) throw 0;
+      if(!confirm('Replace your current progress with this backup?')) return;
+      state=s;
+      for(const k in DEFAULT_STATE) if(!(k in state)) state[k]=DEFAULT_STATE[k];
+      save(); applyTheme(); renderNews(); renderWords(); updateWordCount();
+      toast('Backup restored ✓');
+    }catch(err){ toast('That file doesn’t look like an Emerald Reader backup'); }
+  };
+  rd.readAsText(f);
+  e.target.value='';
+};
+
+/* ---------- boot ---------- */
+updateWordCount();
+renderNews();
+ensureBigWordList();
+</script>
+</body>
+</html>
