@@ -1086,7 +1086,8 @@ const DEFAULT_STATE={
   activity:{},            // 'YYYY-MM-DD' -> {read:0,saved:0,review:0}
   defCache:{},            // word -> {d,pos}
   wl:null,                // cached common-words list (array)
-  lastRefresh:null
+  lastRefresh:null,
+  autoFeedAt:null         // builtAt of the newest daily feed.json already merged
 };
 let state=loadState()||JSON.parse(JSON.stringify(DEFAULT_STATE));
 // merge new fields after updates
@@ -1261,7 +1262,9 @@ function renderNews(){
   const n=allArticles().length;
   $('feedstamp').textContent=n+' articles'
     +(shortHidden?(' · '+shortHidden+' short hidden'):'')
-    +' · '+(state.lastRefresh?('refreshed '+fmtDate(state.lastRefresh.slice(0,10))):'starter batch — hit ⟳ Refresh for today’s news');
+    +' · '+(state.lastRefresh
+      ?((state.autoFeedAt===state.lastRefresh?'auto-updated ':'refreshed ')+fmtDate(state.lastRefresh.slice(0,10)))
+      :'starter batch — hit ⟳ Refresh for today’s news');
 }
 
 /* ---------- reader ---------- */
@@ -1736,6 +1739,42 @@ function parseFeed(xmlText,src){
   }
   return out;
 }
+/* Keep the stored article pile bounded; drop already-read items before unread ones. */
+function pruneFetched(max=200){
+  if(state.fetchedArticles.length<=max) return;
+  const savedSrc=new Set(state.words.map(w=>w.srcId));
+  const keepScore=a=>(isRead(a.id)?0:2)+(savedSrc.has(a.id)?4:0);
+  state.fetchedArticles.sort((a,b)=>keepScore(b)-keepScore(a)||(b.date||'').localeCompare(a.date||''));
+  state.fetchedArticles=state.fetchedArticles.slice(0,max);
+}
+
+/* Daily feed built by GitHub Actions at 9 AM Pacific (.github/workflows/daily-feed.yml).
+   Merged on open, so the app is current without anyone pressing Refresh. Silently
+   skipped when the file is opened locally or the device is offline. */
+async function loadDailyFeed(){
+  let data=null;
+  try{
+    const r=await fetch('feed.json?v='+Date.now(),{cache:'no-store'});
+    if(!r.ok) return;
+    data=await r.json();
+  }catch(e){ return; }
+  if(!data||!Array.isArray(data.articles)||!data.articles.length) return;
+  if(state.autoFeedAt&&data.builtAt&&data.builtAt<=state.autoFeedAt) return; // already merged
+  const have=new Set(allArticles().map(a=>a.url));
+  const fresh=data.articles.filter(a=>a&&a.url&&a.title&&Array.isArray(a.paras)&&a.paras.length&&!have.has(a.url));
+  if(fresh.length){
+    state.fetchedArticles.push(...fresh);
+    pruneFetched();
+  }
+  if(data.builtAt){
+    state.autoFeedAt=data.builtAt;
+    if(!state.lastRefresh||data.builtAt>state.lastRefresh) state.lastRefresh=data.builtAt;
+  }
+  save();
+  renderNews();
+  if(fresh.length) toast(fresh.length+' new article'+(fresh.length>1?'s':'')+' from today’s update');
+}
+
 $('refreshbtn').onclick=async()=>{
   if(!navigator.onLine){ toast('You appear to be offline — showing saved articles'); return; }
   const modal=$('refreshmodal'); modal.classList.add('open');
@@ -1782,13 +1821,7 @@ $('refreshbtn').onclick=async()=>{
       '<p style="font-size:13px;color:var(--danger);margin:10px 0 0" id="allfailnote">Every source failed, which usually means the free relay services are briefly down or blocked on this network — not a problem with your file. Try again in a few minutes, or on a different network (e.g. not a corporate VPN).</p>');
     setTimeout(()=>{ const n=$('allfailnote'); if(n) n.remove(); },30000);
   }
-  // prune: keep max 90 fetched; drop oldest read-articles first
-  if(state.fetchedArticles.length>90){
-    const savedSrc=new Set(state.words.map(w=>w.srcId));
-    const keepScore=a=>(isRead(a.id)?0:2)+(savedSrc.has(a.id)?4:0);
-    state.fetchedArticles.sort((a,b)=>keepScore(b)-keepScore(a)||(b.date||'').localeCompare(a.date||''));
-    state.fetchedArticles=state.fetchedArticles.slice(0,90);
-  }
+  pruneFetched();
   state.lastRefresh=new Date().toISOString(); save();
   $('refreshclose').disabled=false;
   $('refreshclose').onclick=()=>{ modal.classList.remove('open'); renderNews(); };
@@ -2034,6 +2067,7 @@ $('importfile').onchange=e=>{
 /* ---------- boot ---------- */
 updateWordCount();
 renderNews();
+loadDailyFeed();
 ensureBigWordList();
 </script>
 </body>

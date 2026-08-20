@@ -1,24 +1,47 @@
-# Emerald City Reader — host it free on GitHub Pages (~3 minutes)
+# Emerald City Reader
 
-This gives you a private-ish URL that works on your iPhone, iPad, and any computer.
+Learn English with Seattle news. Live at **https://zhen-miao.github.io/emerald-reader/**
 
-## Steps
+On iPhone: open that link in Safari → **Share → Add to Home Screen** for an app-like icon.
 
-1. Go to **github.com** and sign in (or create a free account).
-2. Click **+** (top right) → **New repository**.
-   - Name: `emerald-reader` (anything works)
-   - Visibility: **Public** (required for free GitHub Pages)
-   - Click **Create repository**.
-3. On the new repo page, click **uploading an existing file**, drag in the `index.html` from this folder, and click **Commit changes**.
-4. Go to the repo's **Settings** → **Pages** (left sidebar).
-5. Under **Build and deployment → Branch**, choose `main` and folder `/ (root)`, then **Save**.
-6. Wait ~1 minute, refresh the Pages settings page — your site URL appears, like:
-   `https://<your-username>.github.io/emerald-reader/`
+## Fresh articles every morning, automatically
 
-Open that URL on your iPhone in Safari, then tap **Share → Add to Home Screen** to get an app-like icon.
+A GitHub Action runs **every day at 9 AM Seattle time**, pulls all 16 news feeds, and
+commits the results to `feed.json`. The app loads that file when you open it, so the
+news is already there — no need to press **⟳ Refresh**.
 
-## Good to know
+- **The schedule:** [`.github/workflows/daily-feed.yml`](.github/workflows/daily-feed.yml).
+  GitHub's cron only speaks UTC, so it fires at 16:00 and 17:00 UTC and a guard step runs
+  whichever one is 9 AM in Seattle that day (this handles daylight saving automatically).
+- **The fetcher:** [`tools/build-feed.js`](tools/build-feed.js) — plain Node, no dependencies.
+  It reads the source list straight out of `index.html`, so adding a news source there is
+  enough; the daily build picks it up.
+- **Run it right now:** repo → **Actions** tab → *Daily feed* → **Run workflow**.
+- **Change the time:** edit the two `cron:` lines and the `-ge 9` hour check in the workflow.
 
-- **Your progress does not sync between devices.** The phone version and the desktop file each keep their own saved words and reading history in that browser. To move data: tap the **⬇ export** button on one device, then **⬆ import** the file on the other.
-- The repo is public, which means the app file itself is visible to anyone — but your reading progress and saved words are NOT in the repo; they live only in each device's browser.
-- To update the app later (when Claude gives you a new version): repo → click `index.html` → pencil icon (or re-upload) → commit. The site updates in about a minute.
+The ⟳ **Refresh** button still works and fetches live in your browser — useful for checking
+for news later in the day. Anything it finds is merged with the daily batch.
+
+### Two things worth knowing
+
+- GitHub's scheduled jobs are **best-effort**: a run can be queued 5–20 minutes late during
+  busy periods. The guard tolerates that — it builds any time from 9 AM onward if the day's
+  feed isn't built yet.
+- GitHub **pauses cron jobs in repos with 60 days of no activity**, and the bot's own daily
+  commits may not reset that timer. If the news ever goes stale, open the Actions tab and
+  press **Run workflow** to wake it back up.
+
+## Your data
+
+**Progress does not sync between devices.** Saved words and reading history live in each
+browser's local storage. To move them: tap **⬇ export** on one device, **⬆ import** on the other.
+
+The repo is public (required for free GitHub Pages), so the app file and the fetched
+headlines are visible to anyone — but your reading progress and saved words are never in
+the repo.
+
+## Updating the app
+
+Replace `index.html` and commit; the site rebuilds in about a minute. Article content
+belongs to the publishers — the app shows a headline plus an excerpt (or the full text where
+the publisher's own feed provides it) and always links back to the original.

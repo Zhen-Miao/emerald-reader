@@ -1,0 +1,68 @@
+name: Daily feed
+
+# Refreshes feed.json every morning at 9 AM Seattle time.
+# GitHub cron is UTC-only, so we fire at both 16:00 and 17:00 UTC (9 AM PDT and
+# 9 AM PST) and let the guard below run whichever one is actually 9 AM locally.
+# The guard also tolerates GitHub's usual few-minutes queue delay, and skips a
+# second run once the day's feed is already built.
+on:
+  schedule:
+    - cron: '0 16 * * *'
+    - cron: '0 17 * * *'
+  workflow_dispatch:      # "Run workflow" button — rebuild on demand
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decide whether this run should build
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "Manual run — building."
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          HOUR=$(TZ=America/Los_Angeles date +%H)
+          TODAY=$(TZ=America/Los_Angeles date +%F)
+          BUILT=$(jq -r '.builtFor // ""' feed.json 2>/dev/null || echo "")
+          echo "Seattle time: $TODAY ${HOUR}:xx | feed.json built for: ${BUILT:-never}"
+          if [ "$BUILT" = "$TODAY" ]; then
+            echo "Already built today — skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          elif [ "$HOUR" -ge 9 ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Before 9 AM locally — skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.go == 'true'
+        with:
+          node-version: '20'
+
+      - name: Fetch the feeds
+        if: steps.gate.outputs.go == 'true'
+        run: node tools/build-feed.js
+
+      - name: Commit feed.json
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          if git diff --quiet -- feed.json; then
+            echo "No change in feed.json — nothing to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Daily feed: $(TZ=America/Los_Angeles date '+%b %-d, %Y')"
+          git push
