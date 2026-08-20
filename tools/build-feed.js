@@ -92,6 +92,12 @@ function isoDate(raw){
 function todayKey(){
   return new Date().toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
 }
+/* Hour of the build in Seattle, 00-23 — the workflow uses it to tell a real 9 AM
+   build from an off-hour manual one, so a manual run never eats the day's slot. */
+function pacificHour(){
+  return new Date().toLocaleString('en-GB', { timeZone: 'America/Los_Angeles', hour: '2-digit', hour12: false })
+    .replace(/\D/g, '').padStart(2, '0').slice(0, 2);
+}
 function idFor(srcKey, link){
   return 'f-' + srcKey + '-' + link.replace(/[^a-z0-9]/gi, '').slice(-40);
 }
@@ -245,6 +251,7 @@ async function runLimited(tasks, limit){
   const payload = {
     builtAt: new Date().toISOString(),
     builtFor: todayKey(),
+    builtHour: pacificHour(),
     count: merged.length,
     sources: report.sort((a, b) => a.source.localeCompare(b.source)),
     articles: merged

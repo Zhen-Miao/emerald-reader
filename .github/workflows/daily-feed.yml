@@ -33,10 +33,13 @@ jobs:
           fi
           HOUR=$(TZ=America/Los_Angeles date +%H)
           TODAY=$(TZ=America/Los_Angeles date +%F)
-          BUILT=$(jq -r '.builtFor // ""' feed.json 2>/dev/null || echo "")
-          echo "Seattle time: $TODAY ${HOUR}:xx | feed.json built for: ${BUILT:-never}"
-          if [ "$BUILT" = "$TODAY" ]; then
-            echo "Already built today — skipping."
+          BUILT=$(jq -r '.builtFor  // ""' feed.json 2>/dev/null || echo "")
+          BUILT_HOUR=$(jq -r '.builtHour // "00"' feed.json 2>/dev/null || echo "00")
+          echo "Seattle time: $TODAY ${HOUR}:xx | feed.json built: ${BUILT:-never} ${BUILT_HOUR}:xx"
+          # An off-hours manual build must not consume the day's 9 AM slot, so the
+          # "already done" check only counts a build made at 9 AM or later.
+          if [ "$BUILT" = "$TODAY" ] && [ "$BUILT_HOUR" -ge 9 ]; then
+            echo "Today's 9 AM feed already built — skipping."
             echo "go=false" >> "$GITHUB_OUTPUT"
           elif [ "$HOUR" -ge 9 ]; then
             echo "go=true" >> "$GITHUB_OUTPUT"

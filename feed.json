@@ -1,6 +1,7 @@
 {
- "builtAt": "2026-08-20T07:08:03.830Z",
+ "builtAt": "2026-08-20T07:10:08.115Z",
  "builtFor": "2026-08-20",
+ "builtHour": "00",
  "count": 89,
  "sources": [
   {
@@ -244,6 +245,86 @@
    "annos": null
   },
   {
+   "id": "f-bbc-clesc62ey03z9d1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Prince Harry and Meghan moving back to UK later this month",
+   "author": "",
+   "date": "2026-08-20",
+   "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa9/live/d0abf130-9c1d-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescqjxn9j410voatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
+   "author": "",
+   "date": "2026-08-20",
+   "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08a/live/bc0c9a80-9c2d-11f1-a207-059c7130f984.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc2k7e7zwxvyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Travelodge boss steps down after security issues in rooms",
+   "author": "",
+   "date": "2026-08-20",
+   "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually assaulted after a man lied to get a key card to her room."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc5/live/58b84fa0-9c65-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc98vzmden5yoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+   "author": "",
+   "date": "2026-08-20",
+   "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescq6dn9gj7enoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Giant whales move into Greenland waters as ice disappears",
+   "author": "",
+   "date": "2026-08-20",
+   "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-guardian-otwhoshethoughtshewasneitherwasherfather",
    "srcKey": "guardian",
    "cat": "national",
@@ -337,83 +418,20 @@
    "annos": null
   },
   {
-   "id": "f-bbc-clesc62ey03z9d1oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Prince Harry and Meghan moving back to UK later this month",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://www.bbc.co.uk/news/articles/c62ey03z9d1o?at_medium=RSS&at_campaign=rss",
+   "id": "f-stb-ogcom20260819midweekroundupbusiestsummer",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: busiest summer",
+   "author": "Nathan Dickey",
+   "date": "2026-08-19",
+   "url": "https://seattletransitblog.com/2026/08/19/midweek-roundup-busiest-summer/",
    "paras": [
-    "The couple's children, Prince Archie, 7, and Princess Lilibet, 5, are enrolled to start at a school in September."
+    "Transportation: SDOT is proposing to scale back Pike Place’s pedestrianization pilot this winter; the Seattle Street Alliance proposes an alternative (The Urbanist). Another round of WSLE station area design surveys by SDOT is open , closing on September 8. July bike counts obliterated Seattle’s all-time monthly record (Seattle Bike Blog) With Ballard Link delayed to sometime between 2042 and 2060, some advocates are calling for ST to reopen consideration of a Ballard stop on the Sounder N Line (The Urbanist) How Recent Crossing Improvements Have Lowered Speeds around Judkins Park (WSDOT Blog) Denny Way is getting its eastbound bus lane this weekend (SDOT Blog) State ferries to recap busiest summer since 2019 and share other updates at virtual community meetings this September (WSDOT) More headlines after the break.",
+    "Land Use & Housing: While Seattle slows, the region’s fastest growth is on the fringes (The Seattle Times, $; free via SPL ). Land use advocates are calling for a rethink of MHA, but utility connection fees need to be addressed, too (The Urbanist) Seattle area doesn’t have ‘enough family-sized units to go around’ (The Seattle Times, $; free via SPL ) How North Bend’s First Attempt to Build Workforce Housing Fell Apart (The Urbanist) King County will reopen shuttered building as workers return to office (The Seattle Times, $; free via SPL ). This includes King County’s Administration Building, which has been unused since 2022 and was the center of Dow Constantine’s Civic Campus downtown redevelopment proposal."
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa9/live/d0abf130-9c1d-11f1-aed2-8d6da8d75094.jpg",
+   "img": "",
    "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescqjxn9j410voatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Harry and Meghan are experts in surprise - but is their UK return forever?",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://www.bbc.co.uk/news/articles/cqjxn9j410vo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The sudden decision to return leaves lots of questions for the Duke and Duchess of Sussex and Royal Family."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a08a/live/bc0c9a80-9c2d-11f1-a207-059c7130f984.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc2k7e7zwxvyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Travelodge boss steps down after security issues in rooms",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The BBC revealed in March how a woman staying at a Maidenhead hotel was sexually assaulted after a man lied to get a key card to her room."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e863/live/86b588f0-9c65-11f1-aed2-8d6da8d75094.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc98vzmden5yoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescq6dn9gj7enoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Giant whales move into Greenland waters as ice disappears",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1da/live/98b70b10-9bd8-11f1-bb4d-1147ef2e78e5.jpg",
-   "fetched": true,
-   "fullText": false,
+   "fullText": true,
    "annos": null
   },
   {
@@ -568,18 +586,67 @@
    "annos": null
   },
   {
-   "id": "f-stb-ogcom20260819midweekroundupbusiestsummer",
-   "srcKey": "stb",
+   "id": "f-urbanist-dtopivotawayfromtowncentergrowththisfall",
+   "srcKey": "urbanist",
    "cat": "transit",
-   "title": "Midweek Roundup: busiest summer",
-   "author": "Nathan Dickey",
+   "title": "Sammamish Poised to Pivot Away from Town Center Growth This Fall",
+   "author": "Ryan Packer",
    "date": "2026-08-19",
-   "url": "https://seattletransitblog.com/2026/08/19/midweek-roundup-busiest-summer/",
+   "url": "https://www.theurbanist.org/sammamish-poised-to-pivot-away-from-town-center-growth-this-fall/",
    "paras": [
-    "Transportation: SDOT is proposing to scale back Pike Place’s pedestrianization pilot this winter; the Seattle Street Alliance proposes an alternative (The Urbanist). Another round of WSLE station area design surveys by SDOT is open , closing on September 8. July bike counts obliterated Seattle’s all-time monthly record (Seattle Bike Blog) With Ballard Link delayed to sometime between 2042 and 2060, some advocates are calling for ST to reopen consideration of a Ballard stop on the Sounder N Line (The Urbanist) How Recent Crossing Improvements Have Lowered Speeds around Judkins Park (WSDOT Blog) Denny Way is getting its eastbound bus lane this weekend (SDOT Blog) State ferries to recap busiest summer since 2019 and share other updates at virtual community meetings this September (WSDOT) More headlines after the break.",
-    "Land Use & Housing: While Seattle slows, the region’s fastest growth is on the fringes (The Seattle Times, $; free via SPL ). Land use advocates are calling for a rethink of MHA, but utility connection fees need to be addressed, too (The Urbanist) Seattle area doesn’t have ‘enough family-sized units to go around’ (The Seattle Times, $; free via SPL ) How North Bend’s First Attempt to Build Workforce Housing Fell Apart (The Urbanist) King County will reopen shuttered building as workers return to office (The Seattle Times, $; free via SPL ). This includes King County’s Administration Building, which has been unused since 2022 and was the center of Dow Constantine’s Civic Campus downtown redevelopment proposal."
+    "Councilmembers in the sleepy Eastside bedroom city that is Sammamish face a crucial decision later this fall, in the wake of council elections that tilted the balance of power away from its previous pro-density direction. The impact of the decision will likely be felt for years to come, as city leaders decide whether to step away from a plan that was intended to finally foster the beleaguered Town Center area into something closer to a real downtown for a city of nearly 70,000.",
+    "Incorporated in 1999, Sammamish has been trying to foster some type of center city for its entire (albeit brief) existence. In 2008, after years of debate, the council approved a Town Center plan that capped development at 2,000 housing units, despite capacity for many more across 240 acres.",
+    "Very little of that plan, which envisioned separate mixed-use \"nodes\" far away from the main thoroughfare of 228th Avenue SE, came to fruition. One reason was very meager density limits, with developers like the builders of the Village at Sammamish Town Center (home to Metropolitan Market) consolidating their projects on a portion of a lot in order to be able to build up.",
+    "\"When the Town Center was originally adopted, it was envisioned in part as a place to put the growth. However, the opposite, you could argue, actually happened, and instead of growth happening in the town center, the growth continued to happen as infill in the neighborhoods in the form of single-family residential subdivisions,\" Sammamish Community Development Director David Pyle said last month.",
+    "A few months before the November election, the Sammamish Council voted 6 to 1 to advance study of a growth alternative for Town Center that would have increased the upper limit on the number of units that could be built from 2,000 – where it has stood for nearly two decades – to 4,000. The move was intended to be a step toward creating development standards that allow a mixed-use neighborhood to take shape, rather than Sammamish's current glide path toward more townhouse development in the so-called city center.",
+    "Then the voters weighed in, sweeping two pro-density councilmembers out of office and tilting the balance of power away from the bloc that had voted yes last year. In a campaign season that had focused heavily on the Town Center issue, all three councilmembers who took office in January had opposed the idea of studying 4,000 units in explicit terms, citing issues like traffic, infrastructure costs, and \"unchecked development.\"",
+    "Josh Amato, who was selected by the new growth-skeptical majority to be mayor in January, had included a banner at the top of his campaign website that read \"Josh is opposed to the 4,000 unit upzone in the Town Center.\"",
+    "Now the city has to decide how to move forward, but doing nothing and fully abandoning the Town Center plan isn't an option. Without some density increases within the city, Sammamish doesn't have enough capacity for households across lower income bands, a directive spelled out in House Bill 1220 , which the state legislature passed in 2021.",
+    "Moreover, City leaders are eyeing the new Housing Accountability Act , in which the state's Commerce Department reviews the growth plans in select cities to make sure that they're in compliance, and they don't want to end up on the watch list alongside places like Carnation and Bainbridge Island . Before moving to pass an emergency ordinance to get into compliance, Bainbridge had been flirting with triggering the Builder's Remedy, which would have superseded local zoning to allow much greater height and density when builders include a set amount of affordable housing.",
+    "In July, city staff sought direction from the Sammamish Planning Commission, with commissioners expressing a clear interest in an \"option 4\" that would take planned capacity increases in Town Center and distribute that to the city's other commercial centers, like Klahanie, Pine Lake, and Inglewood.",
+    "\"The biggest advantage of option four, is if you spread it over six or seven [...] different neighborhood centers or subareas, you distribute the traffic, which has been the major, major opposition of the community, going from 2,000 to 4,000, because the town center basically infrastructure is not there to support even the 2,000,\" commission vice chair Seyed Safavian said.",
+    "Safavian noted that Klahanie, currently home to a QFC grocery store, is well-positioned when it comes to a Sound Transit light rail station in Central Issaquah.",
+    "\"Klahanie has perfect access, and within 5, 10 minutes... access to the freeway, access to the future transit, and Klahanie has really very good roads, road capacity, intersections, roadway improvement infrastructure, and all that that really helps us a lot as far as accepting more housing units, particularly for affordable housing,\" Safavian said.",
+    "Ultimately, it will be up to the Sammamish Council to decide how to proceed, with some moves this year signaling the new majority's potential direction. A unanimous vote last month removes a policy from the city's Comprehensive Plan that would have pushed the city to pursue a designation as a regional growth center, a move that could have unlocked more infrastructure funding for the city – and likely come with requirements for more density.",
+    "Just this week, the council voted 5-2 to overhaul its affordability requirements in low-density residential areas, essentially gutting a fee in-lieu program that was intended to act as something of a check on the city's continued proliferation of large single-family homes. Previously, all new homes over 1,500 square feet were required to pay a fee that would be used to fund affordable housing, but that threshold was raised to 1,750 square feet – with the fee only applying to square footage exceeding that threshold.",
+    "But the looming Town Center vote will likely be the most pivotal of the year, determining how Sammamish grows for at least a decade.",
+    "\"Trying what we tried from before, we will end up with the same opposition that we faced from before. It's the same community, it's the same people. Let's try something different,\" planning commissioner Hisham Elkhawad said. \"You said it needs more work. I would rather do the more work and succeed at the end of it instead of trying what we tried, and we failed.\"",
+    "Correction: an earlier version of this article incorrectly stated that three councilmembers lost their reelection bid last year, but the number is two: one seat was an open race."
    ],
-   "img": "",
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20250530_123519--1-.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ketcanthriveinthewinterwithoutcartraffic",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: How Pike Place Market Can Thrive in the Winter Without Car Traffic",
+   "author": "Gordon Padelford",
+   "date": "2026-08-19",
+   "url": "https://www.theurbanist.org/op-ed-how-pike-place-market-can-thrive-in-the-winter-without-car-traffic/",
+   "paras": [
+    "Seattleites love Pike Place Market, but hate random vehicle traffic pushing through the heart of it. That has been clear over and over again in surveys and polls, so it has come as a shock that the City is proposing to allow all car traffic Monday to Thursday from October through March .",
+    "The latest survey from the Seattle Department of Transportation (SDOT), conducted this past June, heard from 5,403 people and found “98% Support: Near-universal community backing for vehicle barriers.” Importantly, the survey also heard “96% Business Agreement: High alignment among local merchants and staff” among 224 respondents.",
+    "Limiting general car traffic in the Market is as close to complete political consensus as Seattle is going to get on anything. Support spans the spectrum of Seattle politics from The Stranger and Mayor Wilson, to the Seattle Times and former Mayor Bruce Harrell.",
+    "And let’s be clear about what we’re talking about when we say “limiting general-purpose car traffic” or “pedestrianization.”",
+    "No one is seriously proposing preventing businesses from loading and unloading (regardless of whether businesses are using personal or commercial vehicles to do so), deliveries from reaching the Market, or emergency vehicles from responding when needed.",
+    "We’re talking about restricting unnecessary vehicle trips: tour buses, Ubers, lost tourists rubbernecking in rentals, and visitors who want to drive and park on the street for their personal convenience.",
+    "Limiting this unnecessary traffic makes Pike Place more functional, and makes room for what makes Pike Place special.",
+    "During the pilot, the Market has continued to function as both a loading dock and a front porch — a place where farmers can vend in the street, musicians can busk, visitors can sit and gather, and businesses can receive the deliveries they need to operate.",
+    "The good news is that, overall, the pilot has been successful :",
+    "But unfortunately there were never any agreed on success metrics for the pilot, so the debate about it seems to be endless and anecdotal. The latest news is a proposal to scale back the pilot to allow more vehicles on the street Monday through Thursday starting this fall through the early spring — why?",
+    "The issue seems to be that a subset of businesses say some of their driving customers are buying less because they find it inconvenient or expensive to park in the attached 800-stall public car parking garage ( Urban Freight Lab memo ). Exactly how many discouraged driving customers we are talking about is not clear. The Urban Freight Lab study found in a survey of 2,546 visitors to the Market that only 14.5% of customers drive (85.5% walk, bike, or take transit), but how many of those feel discouraged by having to park in the garage seems to be unknown — so we’re stuck with anecdotal concerns that seems to be driving this decision (pun intended).",
+    "The good news is that there are alternative solutions to retain these picky driving customers instead of opening Pike Place back up to general purpose traffic !",
+    "Taking this approach would make for a better shopping experience for the 85.5% of customers who don’t drive, and open up possibilities to grow the customer base even more. Last fall, we interviewed five pedestrianized markets in Cincinnati , Burlington , Boulder , Charlottesville , and London to learn how they stay active and vibrant all winter long. Here are a few possibilities inspired by those conversations:",
+    "Pedestrianization would also mean more space for vendors to safely load and unload on the street.",
+    "It would mean parents can shop with their children without worrying about random car traffic.",
+    "It would mean people with disabilities can walk or roll in the street without worrying about whether they will be seen by a backing-up tourist in a rental SUV.",
+    "It would mean that Pike Place is more than a parking lot — it’s both the loading dock and the front porch of the heart of Seattle. It’s a destination for the public to visit, shop, gather, and build community. It’s no wonder 98% of Seattleites want to keep it prioritized for people — the real question is why can’t our governance structures deliver a better Pike Place for everyone?",
+    "You can ask them by emailing your thoughts to: Pike Place Market Historical Commission MinhChau.Le@seattle.gov >, Pike Place Market Preservation and Development Authority (PDA) info@pikeplacemarket.org >, SDOT Director angela.brady@seattle.gov >, and Mayor of Seattle mayor.wilson@seattle.gov >."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/data-src-image-ef6dbcee-f2a5-4363-9af8-6e8308062d1e-1-.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -712,72 +779,6 @@
     "Around 8:00 p.m on Tuesday night, 911 received a call that someone was dead in a First Hill apartment. Officers went to the 900 block of 8th Avenue and found a man with suspected gunshot wounds. Police began lifesaving efforts until Seattle Fire Department medics arrived and pronounced the man deceased."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/08/chs-962.jpg?resize=169%2C230&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-dtopivotawayfromtowncentergrowththisfall",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Sammamish Poised to Pivot Away from Town Center Growth This Fall",
-   "author": "Ryan Packer",
-   "date": "2026-08-19",
-   "url": "https://www.theurbanist.org/sammamish-poised-to-pivot-away-from-town-center-growth-this-fall/",
-   "paras": [
-    "Councilmembers in the sleepy Eastside bedroom city that is Sammamish face a crucial decision later this fall, in the wake of council elections that tilted the balance of power away from its previous pro-density direction. The impact of the decision will likely be felt for years to come, as city leaders decide whether to step away from a plan that was intended to finally foster the beleaguered Town Center area into something closer to a real downtown for a city of nearly 70,000.",
-    "Incorporated in 1999, Sammamish has been trying to foster some type of center city for its entire (albeit brief) existence. In 2008, after years of debate, the council approved a Town Center plan that capped development at 2,000 housing units, despite capacity for many more across 240 acres.",
-    "Very little of that plan, which envisioned separate mixed-use \"nodes\" far away from the main thoroughfare of 228th Avenue SE, came to fruition. One reason was very meager density limits, with developers like the builders of the Village at Sammamish Town Center (home to Metropolitan Market) consolidating their projects on a portion of a lot in order to be able to build up.",
-    "\"When the Town Center was originally adopted, it was envisioned in part as a place to put the growth. However, the opposite, you could argue, actually happened, and instead of growth happening in the town center, the growth continued to happen as infill in the neighborhoods in the form of single-family residential subdivisions,\" Sammamish Community Development Director David Pyle said last month.",
-    "A few months before the November election, the Sammamish Council voted 6 to 1 to advance study of a growth alternative for Town Center that would have increased the upper limit on the number of units that could be built from 2,000 – where it has stood for nearly two decades – to 4,000. The move was intended to be a step toward creating development standards that allow a mixed-use neighborhood to take shape, rather than Sammamish's current glide path toward more townhouse development in the so-called city center.",
-    "Then the voters weighed in, sweeping two pro-density councilmembers out of office and tilting the balance of power away from the bloc that had voted yes last year. In a campaign season that had focused heavily on the Town Center issue, all three councilmembers who took office in January had opposed the idea of studying 4,000 units in explicit terms, citing issues like traffic, infrastructure costs, and \"unchecked development.\"",
-    "Josh Amato, who was selected by the new growth-skeptical majority to be mayor in January, had included a banner at the top of his campaign website that read \"Josh is opposed to the 4,000 unit upzone in the Town Center.\"",
-    "Now the city has to decide how to move forward, but doing nothing and fully abandoning the Town Center plan isn't an option. Without some density increases within the city, Sammamish doesn't have enough capacity for households across lower income bands, a directive spelled out in House Bill 1220 , which the state legislature passed in 2021.",
-    "Moreover, City leaders are eyeing the new Housing Accountability Act , in which the state's Commerce Department reviews the growth plans in select cities to make sure that they're in compliance, and they don't want to end up on the watch list alongside places like Carnation and Bainbridge Island . Before moving to pass an emergency ordinance to get into compliance, Bainbridge had been flirting with triggering the Builder's Remedy, which would have superseded local zoning to allow much greater height and density when builders include a set amount of affordable housing.",
-    "In July, city staff sought direction from the Sammamish Planning Commission, with commissioners expressing a clear interest in an \"option 4\" that would take planned capacity increases in Town Center and distribute that to the city's other commercial centers, like Klahanie, Pine Lake, and Inglewood.",
-    "\"The biggest advantage of option four, is if you spread it over six or seven [...] different neighborhood centers or subareas, you distribute the traffic, which has been the major, major opposition of the community, going from 2,000 to 4,000, because the town center basically infrastructure is not there to support even the 2,000,\" commission vice chair Seyed Safavian said.",
-    "Safavian noted that Klahanie, currently home to a QFC grocery store, is well-positioned when it comes to a Sound Transit light rail station in Central Issaquah.",
-    "\"Klahanie has perfect access, and within 5, 10 minutes... access to the freeway, access to the future transit, and Klahanie has really very good roads, road capacity, intersections, roadway improvement infrastructure, and all that that really helps us a lot as far as accepting more housing units, particularly for affordable housing,\" Safavian said.",
-    "Ultimately, it will be up to the Sammamish Council to decide how to proceed, with some moves this year signaling the new majority's potential direction. A unanimous vote last month removes a policy from the city's Comprehensive Plan that would have pushed the city to pursue a designation as a regional growth center, a move that could have unlocked more infrastructure funding for the city – and likely come with requirements for more density.",
-    "Just this week, the council voted 5-2 to overhaul its affordability requirements in low-density residential areas, essentially gutting a fee in-lieu program that was intended to act as something of a check on the city's continued proliferation of large single-family homes. Previously, all new homes over 1,500 square feet were required to pay a fee that would be used to fund affordable housing, but that threshold was raised to 1,750 square feet – with the fee only applying to square footage exceeding that threshold.",
-    "But the looming Town Center vote will likely be the most pivotal of the year, determining how Sammamish grows for at least a decade.",
-    "\"Trying what we tried from before, we will end up with the same opposition that we faced from before. It's the same community, it's the same people. Let's try something different,\" planning commissioner Hisham Elkhawad said. \"You said it needs more work. I would rather do the more work and succeed at the end of it instead of trying what we tried, and we failed.\"",
-    "Correction: an earlier version of this article incorrectly stated that three councilmembers lost their reelection bid last year, but the number is two: one seat was an open race."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20250530_123519--1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ketcanthriveinthewinterwithoutcartraffic",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Op-Ed: How Pike Place Market Can Thrive in the Winter Without Car Traffic",
-   "author": "Gordon Padelford",
-   "date": "2026-08-19",
-   "url": "https://www.theurbanist.org/op-ed-how-pike-place-market-can-thrive-in-the-winter-without-car-traffic/",
-   "paras": [
-    "Seattleites love Pike Place Market, but hate random vehicle traffic pushing through the heart of it. That has been clear over and over again in surveys and polls, so it has come as a shock that the City is proposing to allow all car traffic Monday to Thursday from October through March .",
-    "The latest survey from the Seattle Department of Transportation (SDOT), conducted this past June, heard from 5,403 people and found “98% Support: Near-universal community backing for vehicle barriers.” Importantly, the survey also heard “96% Business Agreement: High alignment among local merchants and staff” among 224 respondents.",
-    "Limiting general car traffic in the Market is as close to complete political consensus as Seattle is going to get on anything. Support spans the spectrum of Seattle politics from The Stranger and Mayor Wilson, to the Seattle Times and former Mayor Bruce Harrell.",
-    "And let’s be clear about what we’re talking about when we say “limiting general-purpose car traffic” or “pedestrianization.”",
-    "No one is seriously proposing preventing businesses from loading and unloading (regardless of whether businesses are using personal or commercial vehicles to do so), deliveries from reaching the Market, or emergency vehicles from responding when needed.",
-    "We’re talking about restricting unnecessary vehicle trips: tour buses, Ubers, lost tourists rubbernecking in rentals, and visitors who want to drive and park on the street for their personal convenience.",
-    "Limiting this unnecessary traffic makes Pike Place more functional, and makes room for what makes Pike Place special.",
-    "During the pilot, the Market has continued to function as both a loading dock and a front porch — a place where farmers can vend in the street, musicians can busk, visitors can sit and gather, and businesses can receive the deliveries they need to operate.",
-    "The good news is that, overall, the pilot has been successful :",
-    "But unfortunately there were never any agreed on success metrics for the pilot, so the debate about it seems to be endless and anecdotal. The latest news is a proposal to scale back the pilot to allow more vehicles on the street Monday through Thursday starting this fall through the early spring — why?",
-    "The issue seems to be that a subset of businesses say some of their driving customers are buying less because they find it inconvenient or expensive to park in the attached 800-stall public car parking garage ( Urban Freight Lab memo ). Exactly how many discouraged driving customers we are talking about is not clear. The Urban Freight Lab study found in a survey of 2,546 visitors to the Market that only 14.5% of customers drive (85.5% walk, bike, or take transit), but how many of those feel discouraged by having to park in the garage seems to be unknown — so we’re stuck with anecdotal concerns that seems to be driving this decision (pun intended).",
-    "The good news is that there are alternative solutions to retain these picky driving customers instead of opening Pike Place back up to general purpose traffic !",
-    "Taking this approach would make for a better shopping experience for the 85.5% of customers who don’t drive, and open up possibilities to grow the customer base even more. Last fall, we interviewed five pedestrianized markets in Cincinnati , Burlington , Boulder , Charlottesville , and London to learn how they stay active and vibrant all winter long. Here are a few possibilities inspired by those conversations:",
-    "Pedestrianization would also mean more space for vendors to safely load and unload on the street.",
-    "It would mean parents can shop with their children without worrying about random car traffic.",
-    "It would mean people with disabilities can walk or roll in the street without worrying about whether they will be seen by a backing-up tourist in a rental SUV.",
-    "It would mean that Pike Place is more than a parking lot — it’s both the loading dock and the front porch of the heart of Seattle. It’s a destination for the public to visit, shop, gather, and build community. It’s no wonder 98% of Seattleites want to keep it prioritized for people — the real question is why can’t our governance structures deliver a better Pike Place for everyone?",
-    "You can ask them by emailing your thoughts to: Pike Place Market Historical Commission MinhChau.Le@seattle.gov >, Pike Place Market Preservation and Development Authority (PDA) info@pikeplacemarket.org >, SDOT Director angela.brady@seattle.gov >, and Mayor of Seattle mayor.wilson@seattle.gov >."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/data-src-image-ef6dbcee-f2a5-4363-9af8-6e8308062d1e-1-.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -937,23 +938,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-5OWhjR1l5bnM1VHE4LWtrTExvbE4zNUlDUGl3oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "The Salish Sea is the place to be for orcas this summer. What's behind this trend?",
-   "author": "",
-   "date": "2026-08-19",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzE2ZXhTLUl3TG9NZnhBN1JqeFFxWGE4UWNQdElfZjdpcjlpRDNGelZsSVJZeElNLUJFWUxWY3FEVjZfZzl5S1RpNjlweDRvUU9oY2JNanRFbk91eEJldUFlOGx6YmpMd0ZuMWxqZ2VNeGtObkpNUGd3b1M4S1AtbFdQVUJCb0RTakRmQ09Vel9qWUdzazZQN1BqdHZQWFI5OWhjR1l5bnM1VHE4LWtrTExvbE4zNUlDUGl3?oc=5",
-   "paras": [
-    "The Salish Sea is the place to be for orcas this summer. What's behind this trend? KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-npr-aliforniawildfireruleszonezerovegetation",
    "srcKey": "npr",
    "cat": "national",
@@ -1018,6 +1002,22 @@
    "annos": null
   },
   {
+   "id": "f-bbc-clescevm32j9pp3oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Downpours to continue for UK with risk of flash flooding",
+   "author": "",
+   "date": "2026-08-19",
+   "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/94a7a670-9c5e-11f1-a291-b542ee92de7c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-guardian-e2026aug19metaglassesprivacysurveillance",
    "srcKey": "guardian",
    "cat": "national",
@@ -1031,22 +1031,6 @@
     "The man I’m talking to runs a business called Ghost Metas . He’s one of hundreds of vendors, easily discoverable online, who specialise in disabling the flashing LED light embedded in Meta’s smartglasses that blinks when wearers capture photos, videos and audio. After Ghost Metas disables the LED, it’s impossible for someone to know they’re being filmed."
    ],
    "img": "https://i.guim.co.uk/img/media/ad85a9abed95abdd431f53ef872369fb0344b714/0_54_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=5b8410b22af6ad43b4a51beab204d0e7",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescevm32j9pp3oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Downpours to continue for UK with risk of flash flooding",
-   "author": "",
-   "date": "2026-08-19",
-   "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e51/live/94a7a670-9c5e-11f1-a291-b542ee92de7c.jpg",
    "fetched": true,
    "fullText": false,
    "annos": null
@@ -1328,6 +1312,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-5OWhjR1l5bnM1VHE4LWtrTExvbE4zNUlDUGl3oc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "The Salish Sea is the place to be for orcas this summer. What's behind this trend?",
+   "author": "",
+   "date": "2026-08-19",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzE2ZXhTLUl3TG9NZnhBN1JqeFFxWGE4UWNQdElfZjdpcjlpRDNGelZsSVJZeElNLUJFWUxWY3FEVjZfZzl5S1RpNjlweDRvUU9oY2JNanRFbk91eEJldUFlOGx6YmpMd0ZuMWxqZ2VNeGtObkpNUGd3b1M4S1AtbFdQVUJCb0RTakRmQ09Vel9qWUdzazZQN1BqdHZQWFI5OWhjR1l5bnM1VHE4LWtrTExvbE4zNUlDUGl3?oc=5",
+   "paras": [
+    "The Salish Sea is the place to be for orcas this summer. What's behind this trend? KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-emerald-o2V3ZMM1k5N2x2ME8yY0U0UDhlTnBZZFFLVkEoc5",
    "srcKey": "emerald",
    "cat": "community",
@@ -1515,23 +1516,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-iSVJneWozX0J3cVluM3NQLVlKUm9jb3VFbnRBoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "This Seattle-area magnet school is one of the best in the nation — again",
-   "author": "",
-   "date": "2026-08-18",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGZlZ3ZVSkJ4RjA3U0FoRWJ3NXFfNXJmUVFlTDYtRjhDVjdGdDhOc2JTUnN2OEd3UFhJelRoZE1OVjd0aHM1QTRDSFBGYkFlRDBIUEFVc0tsYlEtNWhURUxqbUMyMEh6Q1JnaDdSeHBjWHhENXBOVUdrWVczTzFHODdDTTVBb2RIOGlyZFdObGtadFBobE5iSVJneWozX0J3cVluM3NQLVlKUm9jb3VFbnRB?oc=5",
-   "paras": [
-    "This Seattle-area magnet school is one of the best in the nation — again KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-FLT0tNZWVHc09DTnVRRTU0NzRMeWRZU2FhMDQoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1541,6 +1525,23 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVljNkN0ZndLM1JjY2RTemZTZk9JUzJxbjVBRDZRY0NOQjE4Uk9WcHpmWHpiSUJQTDZSdjlvRTN0TWEtOWQwSFZIM2draWViVlB3SlNxdm56UTBYb3lEWk1NMENKOXRVeTEyMGpqTTNTR3BDa0N5R3lZOFc5R1pjaE1RMnFLT0tNZWVHc09DTnVRRTU0NzRMeWRZU2FhMDQ?oc=5",
    "paras": [
     "Idaho county’s probation office compiles ‘foreign born list’ for ICE InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-iSVJneWozX0J3cVluM3NQLVlKUm9jb3VFbnRBoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "This Seattle-area magnet school is one of the best in the nation — again",
+   "author": "",
+   "date": "2026-08-18",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGZlZ3ZVSkJ4RjA3U0FoRWJ3NXFfNXJmUVFlTDYtRjhDVjdGdDhOc2JTUnN2OEd3UFhJelRoZE1OVjd0aHM1QTRDSFBGYkFlRDBIUEFVc0tsYlEtNWhURUxqbUMyMEh6Q1JnaDdSeHBjWHhENXBOVUdrWVczTzFHODdDTTVBb2RIOGlyZFdObGtadFBobE5iSVJneWozX0J3cVluM3NQLVlKUm9jb3VFbnRB?oc=5",
+   "paras": [
+    "This Seattle-area magnet school is one of the best in the nation — again KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1652,23 +1653,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-KMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21xoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Washington state lawmaker hit with $15K fine in ethics case",
-   "author": "",
-   "date": "2026-08-17",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhGTDdMa29sNnRVOEhuYlpNYTNEV2NvbTVQaXRSVEYybEZlbW5jTzVSQ1BtUDA4RW85bU43aDJpaEhyNTQyX1N1YmVxSUF1S1MzUXVrQXRWTUtyeng3ZGFib3BKaTRtRnN1cWI3YjhxNVdFSjlXc2VQUUt6bWhDU2daMDVKMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21x?oc=5",
-   "paras": [
-    "Washington state lawmaker hit with $15K fine in ethics case KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-6cFNuR0FFWkVSSWFJQmZ2cURnNHRFUGFSWThVoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1678,6 +1662,23 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SUXVYM2RBd25rcGhaeUlnSmJKb2p5RGQ4X2s3a1NaN0tyWW1wdDVYc3hFYXBWTDdnTGVsT1NMSDJQMEpXRExyMExtRTF6cFNuR0FFWkVSSWFJQmZ2cURnNHRFUGFSWThV?oc=5",
    "paras": [
     "Government InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-KMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21xoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Washington state lawmaker hit with $15K fine in ethics case",
+   "author": "",
+   "date": "2026-08-17",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhGTDdMa29sNnRVOEhuYlpNYTNEV2NvbTVQaXRSVEYybEZlbW5jTzVSQ1BtUDA4RW85bU43aDJpaEhyNTQyX1N1YmVxSUF1S1MzUXVrQXRWTUtyeng3ZGFib3BKaTRtRnN1cWI3YjhxNVdFSjlXc2VQUUt6bWhDU2daMDVKMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21x?oc=5",
+   "paras": [
+    "Washington state lawmaker hit with $15K fine in ethics case KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1816,6 +1817,23 @@
    "annos": null
   },
   {
+   "id": "f-invw-hQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVEoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Judge grants Idaho agency immunity in free speech lawsuit",
+   "author": "",
+   "date": "2026-08-14",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
+   "paras": [
+    "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-kuow-UtZMG5nM18wV1JNUTFGdVVpcGZwQXpOdGJXUQoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1842,23 +1860,6 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVm9INTJWSWRMS1NLc1Jlc0RxczZZQzV1Qkt1bEIxUC1vX0xxN1cxYXMtV2pxV21pbVQ4SjZuaDh5OWstVk56WjFDNkR1dkc3ejlEX2tvUFJJdGN6VnNDcElVOGpGaTZ4ZWt4UWh1bVlrcVJDUERMQkM5VlZ1Sk5vVG9HRW5pcFJTTGRmdWd3SHZlVjRZdjhscG9GR013RW81UHB3RA?oc=5",
    "paras": [
     "'Every day is harder.' Dad killed at Seattle Center is laid to rest KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-hQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVEoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Judge grants Idaho agency immunity in free speech lawsuit",
-   "author": "",
-   "date": "2026-08-14",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
-   "paras": [
-    "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
    ],
    "img": "",
    "fetched": true,
