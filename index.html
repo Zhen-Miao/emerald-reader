@@ -991,14 +991,14 @@ annos:[
 
 /* ---------- Idiom & phrase dictionary (for auto-annotating fetched articles) ---------- */
 const IDIOMS = [
-{t:'ramp up', m:['ramp up','ramps up','ramping up','ramped up'], d:'To increase quickly (production, hiring, effort).'},
+{t:'ramp up', m:['ramp up','ramps up','ramping up','ramped up','ramp-up'], d:'To increase quickly (production, hiring, effort).'},
 {t:'roll out', m:['roll out','rolls out','rolling out','rolled out','rollout'], d:'To launch or introduce something new to the public, often in stages.'},
-{t:'wrap up', m:['wrap up','wraps up','wrapping up','wrapped up'], d:'To finish or complete something.'},
+{t:'wrap up', m:['wrap up','wraps up','wrapping up','wrapped up','wrap-up'], d:'To finish or complete something.'},
 {t:'crack down', m:['crack down','cracking down','cracked down','crackdown'], d:'To start enforcing rules strictly; a strict enforcement campaign.'},
 {t:'weigh in', m:['weigh in','weighs in','weighing in','weighed in'], d:'To give your opinion in a discussion.'},
 {t:'push back', m:['push back','pushes back','pushing back','pushed back','pushback'], d:'To resist or oppose a plan; resistance.'},
-{t:'kick off', m:['kick off','kicks off','kicking off','kicked off'], d:'To begin (an event or project).'},
-{t:'lay off', m:['lay off','laid off','laying off','layoffs','layoff'], d:'To end someone’s job because the company needs to cut costs.'},
+{t:'kick off', m:['kick off','kicks off','kicking off','kicked off','kick-off','kickoff'], d:'To begin (an event or project).'},
+{t:'lay off', m:['lay off','laid off','laying off','layoffs','layoff','lay-offs','lay-off'], d:'To end someone’s job because the company needs to cut costs.'},
 {t:'phase out', m:['phase out','phasing out','phased out'], d:'To gradually stop using something.'},
 {t:'rule out', m:['rule out','ruled out','ruling out','rules out'], d:'To decide something is impossible or will not happen.'},
 {t:'point out', m:['point out','points out','pointed out','pointing out'], d:'To draw attention to a fact.'},
@@ -1017,7 +1017,7 @@ const IDIOMS = [
 {t:'overhaul', m:['overhaul','overhauled','overhauling'], d:'A complete redesign or repair of a system.'},
 {t:'revamp', m:['revamp','revamped','revamping'], d:'To improve the form or appearance of something.'},
 {t:'greenlight', m:['greenlight','greenlit','green-light','green light'], d:'To give official approval for a project to go ahead.'},
-{t:'break ground', m:['break ground','broke ground','breaking ground','groundbreaking'], d:'To start construction; (adj.) very new and original.'},
+{t:'break ground', m:['break ground','broke ground','breaking ground','groundbreaking','ground-breaking'], d:'To start construction; (adj.) very new and original.'},
 {t:'in the wake of', m:['in the wake of'], d:'Happening after and because of an event.'},
 {t:'on the heels of', m:['on the heels of'], d:'Immediately following something.'},
 {t:'in the works', m:['in the works'], d:'Being planned or developed right now.'},
@@ -1032,11 +1032,11 @@ const IDIOMS = [
 {t:'milestone', m:['milestone'], d:'An important stage or event in the development of something.'},
 {t:'watershed', m:['watershed moment','watershed'], d:'A turning point; a moment of important change.'},
 {t:'backlash', m:['backlash'], d:'A strong negative public reaction.'},
-{t:'standoff', m:['standoff'], d:'A situation where neither side will give in.'},
+{t:'standoff', m:['standoff','standoffs','stand-off'], d:'A situation where neither side will give in.'},
 {t:'stalemate', m:['stalemate'], d:'A situation where no progress can be made by either side.'},
 {t:'loophole', m:['loophole'], d:'A gap in a law or rule that lets people avoid it.'},
 {t:'red tape', m:['red tape'], d:'Excessive bureaucracy; official rules that slow things down.'},
-{t:'grassroots', m:['grassroots'], d:'Coming from ordinary people in a community, not from leaders.'},
+{t:'grassroots', m:['grassroots','grass-roots'], d:'Coming from ordinary people in a community, not from leaders.'},
 {t:'ripple effect', m:['ripple effect'], d:'A spreading series of consequences from one event.'},
 {t:'at stake', m:['at stake'], d:'At risk; able to be won or lost.'},
 {t:'in limbo', m:['in limbo'], d:'In an uncertain state, waiting for a decision.'},
@@ -1060,6 +1060,243 @@ const IDIOMS = [
 {t:'sweep', m:['encampment sweep','sweeps'], d:'(Seattle news) the forced clearing of a homeless encampment.'},
 {t:'upzone', m:['upzone','upzoning','upzoned'], d:'(Urbanism) to change rules so taller/denser buildings are allowed.'},
 {t:'right-of-way', m:['right-of-way','right of way'], d:'The legal right to pass through; land reserved for transport.'}
+];
+
+/* ---------- Common hyphenated words ----------
+   Matched like IDIOMS. Optional fields: pos (shown under the term), lv = the learner level the word
+   belongs to: 'b1' → shown only at Level B1–B2, 'b2' → hidden at C1+, none → shown at every level. */
+const COMPOUNDS = [
+// time & frequency
+{t:'long-term', m:['long-term','longer-term'], pos:'adjective', lv:'b1', d:'Lasting or planned for a long period of time (years rather than weeks).'},
+{t:'short-term', m:['short-term','shorter-term','near-term'], pos:'adjective', lv:'b1', d:'Lasting only a short time; for the near future.'},
+{t:'full-time', m:['full-time'], pos:'adjective / adverb', lv:'b1', d:'Working or studying the whole normal week (about 40 hours), not just part of it.'},
+{t:'part-time', m:['part-time'], pos:'adjective / adverb', lv:'b1', d:'Working or studying fewer hours than a full week.'},
+{t:'up-to-date', m:['up-to-date'], pos:'adjective', lv:'b1', d:'Modern, or including the latest information.'},
+{t:'step-by-step', m:['step-by-step'], pos:'adjective / adverb', lv:'b1', d:'One stage at a time, in order.'},
+{t:'long-standing', m:['long-standing','longstanding'], pos:'adjective', lv:'b2', d:'Having existed or continued for a long time (a long-standing problem, tradition, or dispute).'},
+{t:'long-running', m:['long-running'], pos:'adjective', lv:'b2', d:'Continuing for a long time (a long-running show, dispute, or project).'},
+{t:'long-awaited', m:['long-awaited','much-anticipated','highly anticipated'], pos:'adjective', lv:'b2', d:'Expected and wanted for a long time.'},
+{t:'longtime', m:['longtime','long-time'], pos:'adjective', lv:'b2', d:'Having been something for many years (a longtime resident, a longtime friend).'},
+{t:'year-round', m:['year-round'], pos:'adjective / adverb', lv:'b2', d:'Through the whole year, not only in one season.'},
+{t:'day-to-day', m:['day-to-day'], pos:'adjective', lv:'b2', d:'Happening every day as part of normal life; routine (day-to-day operations).'},
+{t:'real-time', m:['real-time','in real time'], pos:'adjective', lv:'b2', d:'Happening or updated immediately, as events occur (real-time data, real-time arrival information).'},
+{t:'last-minute', m:['last-minute'], pos:'adjective', lv:'b2', d:'Done or decided at the latest possible time.'},
+{t:'last-ditch', m:['last-ditch','eleventh-hour'], pos:'adjective', d:'(Of an attempt) final and desperate, made when everything else has failed. “Eleventh-hour” = at the very last moment.'},
+{t:'one-time', m:['one-time','onetime'], pos:'adjective', lv:'b2', d:'Happening only once (a one-time payment); or former (a one-time mayor).'},
+{t:'one-off', m:['one-off','one-offs'], pos:'noun / adjective', lv:'b2', d:'Something that happens or is made only once and will not be repeated.'},
+{t:'around-the-clock', m:['around-the-clock','round-the-clock','around the clock'], pos:'adjective / adverb', lv:'b2', d:'All day and all night, without stopping.'},
+{t:'state-of-the-art', m:['state-of-the-art'], pos:'adjective', lv:'b2', d:'Using the newest and most advanced technology or methods.'},
+{t:'cutting-edge', m:['cutting-edge','the cutting edge'], pos:'adjective', lv:'b2', d:'At the most advanced stage of development (cutting-edge research, technology).'},
+{t:'in-person', m:['in-person'], pos:'adjective', lv:'b2', d:'Physically present, not online or by phone (an in-person meeting).'},
+{t:'on-site', m:['on-site','onsite','off-site','offsite'], pos:'adjective / adverb', lv:'b2', d:'At the place where something happens or is built (on-site); away from it (off-site).'},
+{t:'work-from-home', m:['work-from-home'], pos:'adjective', lv:'b2', d:'Doing your job from your house instead of the office; remote work.'},
+{t:'year-over-year', m:['year-over-year','year over year'], pos:'adverb / adjective', d:'Compared with the same period one year earlier — the usual way to report changes in rents, prices, or sales.'},
+{t:'month-to-month', m:['month-to-month'], pos:'adjective', d:'(Of a lease or plan) renewed each month rather than fixed for a year.'},
+{t:'age-old', m:['age-old'], pos:'adjective', d:'Very old; having existed for a very long time (an age-old question).'},
+// size, degree & quality
+{t:'far-reaching', m:['far-reaching'], pos:'adjective', lv:'b2', d:'Having a wide and important effect on many things (far-reaching consequences).'},
+{t:'wide-ranging', m:['wide-ranging'], pos:'adjective', lv:'b2', d:'Covering many different subjects or areas (a wide-ranging interview).'},
+{t:'across-the-board', m:['across-the-board','across the board'], pos:'adjective / adverb', d:'Affecting everyone or everything equally (across-the-board cuts).'},
+{t:'all-time', m:['all-time'], pos:'adjective', lv:'b2', d:'Greater than at any time before (an all-time high, an all-time record).'},
+{t:'record-breaking', m:['record-breaking','record-setting'], pos:'adjective', lv:'b2', d:'Bigger, faster, or better than anything before it.'},
+{t:'large-scale', m:['large-scale','small-scale'], pos:'adjective', lv:'b2', d:'Involving many people or a big area (large-scale); limited in size (small-scale).'},
+{t:'full-scale', m:['full-scale','full-blown'], pos:'adjective', d:'Complete and at its greatest size or most serious stage (a full-scale investigation, a full-blown crisis).'},
+{t:'sky-high', m:['sky-high'], pos:'adjective', d:'Extremely high (sky-high rents, prices).'},
+{t:'much-needed', m:['much-needed','badly needed'], pos:'adjective', lv:'b2', d:'Needed very badly (much-needed housing, relief).'},
+{t:'high-end', m:['high-end','low-end'], pos:'adjective', lv:'b2', d:'Expensive and of high quality (high-end); cheap and basic (low-end).'},
+{t:'high-profile', m:['high-profile','higher-profile'], pos:'adjective', lv:'b2', d:'Attracting a lot of public attention (a high-profile case, candidate, or project).'},
+{t:'low-profile', m:['low-profile','a low profile'], pos:'adjective / noun', d:'Avoiding public attention. “To keep a low profile” = to stay quiet and unnoticed.'},
+{t:'high-stakes', m:['high-stakes'], pos:'adjective', d:'Involving serious risks or very important results (a high-stakes vote, negotiation).'},
+{t:'high-level', m:['high-level','lower-level'], pos:'adjective', lv:'b2', d:'Involving senior or important people (high-level talks); or giving a general overview rather than details (a high-level design).'},
+{t:'top-notch', m:['top-notch','top-tier','first-rate'], pos:'adjective', d:'Of the highest quality; excellent.'},
+{t:'world-class', m:['world-class'], pos:'adjective', lv:'b2', d:'Among the best in the world.'},
+{t:'second-rate', m:['second-rate','second-class','third-rate'], pos:'adjective', d:'Of poor or lower quality; treated as less important.'},
+{t:'big-ticket', m:['big-ticket'], pos:'adjective', d:'Expensive; costing a lot of money (big-ticket projects, items).'},
+{t:'bare-bones', m:['bare-bones','barebones','no-frills'], pos:'adjective', d:'Including only the most basic parts, with nothing extra (a bare-bones budget, a no-frills airline).'},
+{t:'-fold', m:['twofold','two-fold','threefold','three-fold','fourfold','four-fold','fivefold','five-fold','tenfold','ten-fold'], pos:'word pattern', d:'Multiplied by that number: a threefold (3-fold) increase means three times as much.'},
+{t:'worst-case', m:['worst-case','best-case'], pos:'adjective', lv:'b2', d:'The worst (or best) possible result, used in planning: “a worst-case scenario.”'},
+{t:'once-in-a-lifetime', m:['once-in-a-lifetime','once-in-a-generation','once-in-a-century'], pos:'adjective', d:'Extremely rare; happening only once in a person’s life (or in a generation / a century).'},
+// money, housing & the city
+{t:'low-income', m:['low-income','lower-income','low income'], pos:'adjective', lv:'b2', d:'Earning little money. Low-income housing is reserved for households below a set income.'},
+{t:'mixed-income', m:['mixed-income','middle-income','high-income','higher-income'], pos:'adjective', d:'Describing people or housing by earnings: middle-income, high-income. Mixed-income housing combines subsidized and market-rate homes in one building.'},
+{t:'market-rate', m:['market-rate','market rate','above-market','below-market'], pos:'adjective', d:'Priced at the normal market price, not subsidized (market-rate apartments). Above-market / below-market = dearer / cheaper than that.'},
+{t:'single-family', m:['single-family'], pos:'adjective', lv:'b2', d:'(Housing) a house built for one household, not an apartment building. “Single-family zoning” allows only such houses — a big Seattle debate.'},
+{t:'multifamily', m:['multifamily','multi-family'], pos:'adjective', lv:'b2', d:'(Housing) a building that contains several homes — apartments, condos, townhouses.'},
+{t:'mixed-use', m:['mixed-use'], pos:'adjective', lv:'b2', d:'(Planning) a building or area that combines homes with shops, offices, or other uses.'},
+{t:'high-rise', m:['high-rise','high-rises','mid-rise','low-rise'], pos:'noun / adjective', lv:'b2', d:'A tall building with many floors (high-rise); a medium-height building (mid-rise); a building with only a few floors (low-rise).'},
+{t:'rent-restricted', m:['rent-restricted','rent-stabilized','rent-controlled','income-restricted'], pos:'adjective', d:'(Housing) apartments whose rent is limited by law or by a public program, usually for lower-income tenants.'},
+{t:'land use', m:['land use','land-use'], pos:'noun', lv:'b2', d:'(Planning) how land is allowed to be used — housing, industry, shops, parks. Land-use rules are set by zoning.'},
+{t:'transit-oriented', m:['transit-oriented'], pos:'adjective', d:'(Urbanism) designed around public transit: transit-oriented development puts housing and shops close to train and bus stations.'},
+{t:'traffic calming', m:['traffic calming','traffic-calming'], pos:'noun', d:'(Urbanism) street design that slows cars down — speed bumps, narrower lanes, raised crosswalks.'},
+{t:'road diet', m:['road diet','road-diet'], pos:'noun', d:'(Urbanism) reducing the number of car lanes on a street to add bike lanes, turn lanes, or wider sidewalks.'},
+{t:'light rail', m:['light rail','light-rail'], pos:'noun', lv:'b2', d:'An electric train system running through a city, lighter and slower than a full railway — Sound Transit’s Link line.'},
+{t:'e-bike', m:['e-bike','e-bikes','e-scooter','e-scooters'], pos:'noun', lv:'b2', d:'An electric bicycle (or electric scooter) with a motor that helps you move.'},
+{t:'ride-hailing', m:['ride-hailing','ride-share','rideshare','ride-sharing','ridesharing'], pos:'noun', lv:'b2', d:'Booking a car ride through an app such as Uber or Lyft.'},
+{t:'night owl', m:['night-owl','night owl','night owls'], pos:'noun', d:'A person who stays up late at night. In Seattle transit news, “night owl” routes are buses that run late at night or all night.'},
+{t:'on-ramp', m:['on-ramp','on-ramps','off-ramp','off-ramps'], pos:'noun', d:'The short road that takes cars onto (on-ramp) or off (off-ramp) a highway. Also figurative: a way into or out of something.'},
+{t:'cost-effective', m:['cost-effective'], pos:'adjective', lv:'b2', d:'Giving good results for the money spent; good value.'},
+{t:'cost of living', m:['cost of living','cost-of-living'], pos:'noun', lv:'b2', d:'The amount of money needed for basic needs — housing, food, transport — in a particular place.'},
+{t:'nonprofit', m:['nonprofit','non-profit','nonprofits','non-profits'], pos:'noun / adjective', lv:'b2', d:'An organization that exists to serve a purpose (charity, arts, housing) rather than to make money for owners.'},
+{t:'tax-exempt', m:['tax-exempt','tax-free'], pos:'adjective', d:'Not requiring tax to be paid on it.'},
+{t:'out-of-pocket', m:['out-of-pocket','out of pocket'], pos:'adjective / adverb', d:'Paid from your own money, not covered by insurance or an employer (out-of-pocket medical costs).'},
+{t:'trade-off', m:['trade-off','trade-offs','tradeoff','tradeoffs'], pos:'noun', lv:'b2', d:'A balance between two things you cannot fully have at the same time — accepting less of one to get more of the other.'},
+{t:'buy-in', m:['buy-in'], pos:'noun', d:'Agreement and support from the people involved (“get buy-in from the council”).'},
+{t:'white-collar', m:['white-collar','blue-collar'], pos:'adjective', d:'White-collar = office or professional work; blue-collar = manual or physical work.'},
+{t:'working-class', m:['working-class','middle-class','upper-class','upper-middle-class'], pos:'adjective', lv:'b2', d:'Describing social groups by income and type of work: working-class (manual, lower-paid jobs), middle-class (professionals, moderate income), upper-class (wealthy).'},
+{t:'well-off', m:['well-off','better-off','worse-off'], pos:'adjective', lv:'b2', d:'Rich; in a good financial position. Better-off / worse-off = in a better / worse situation than others or than before.'},
+{t:'hard-hit', m:['hard-hit','hardest-hit'], pos:'adjective', lv:'b2', d:'Badly affected by something (hard-hit neighborhoods, industries).'},
+{t:'hard-pressed', m:['hard-pressed','cash-strapped'], pos:'adjective', d:'Having great difficulty, often with money (a hard-pressed family; a cash-strapped city).'},
+{t:'public-private', m:['public-private'], pos:'adjective', d:'Involving both the government and private companies (a public-private partnership).'},
+{t:'open-source', m:['open-source','open source'], pos:'adjective', lv:'b2', d:'(Software) whose code is free for anyone to use, study, and change.'},
+{t:'brick-and-mortar', m:['brick-and-mortar'], pos:'adjective', d:'(Of a business) having a physical store, as opposed to selling only online.'},
+{t:'mom-and-pop', m:['mom-and-pop'], pos:'adjective', d:'(Of a small business) owned and run by a family or an individual, not a chain.'},
+{t:'big-box', m:['big-box'], pos:'adjective', d:'(Of a store) very large, usually in a plain warehouse-style building — Costco, Target, Home Depot.'},
+{t:'best-selling', m:['best-selling','bestselling','best-seller','bestseller'], pos:'adjective / noun', lv:'b2', d:'Selling in very large numbers; a best-seller is a product (often a book) that sells extremely well.'},
+{t:'entry-level', m:['entry-level'], pos:'adjective', lv:'b2', d:'For beginners: the lowest level of a job, or the cheapest model in a product range.'},
+{t:'turnkey', m:['turnkey','turn-key'], pos:'adjective', d:'Ready to use immediately, with nothing more to do (a turnkey office, a turnkey home).'},
+{t:'co-op', m:['co-op','co-ops'], pos:'noun', lv:'b2', d:'A cooperative — a business or housing building owned by its members or customers (a food co-op).'},
+{t:'start-up', m:['start-up','start-ups'], pos:'noun', lv:'b2', d:'A new, young company, usually in technology.'},
+{t:'build-out', m:['build-out','buildout','built-out'], pos:'noun', d:'The process of constructing or expanding something until it is complete (the build-out of the light-rail network).'},
+{t:'carve-out', m:['carve-out','carve-outs','carved out'], pos:'noun', d:'An exception made in a law or rule for a particular group or case.'},
+{t:'shovel-ready', m:['shovel-ready'], pos:'adjective', d:'(Of a construction project) fully planned and ready to start building immediately.'},
+{t:'right-size', m:['right-size','right-sizing','right-sized','rightsizing'], pos:'verb', d:'To adjust something to the correct size — often a polite word for cutting staff or budgets.'},
+{t:'shut-off', m:['shut-off','shutoff','shut-offs','shutoffs'], pos:'noun', d:'The act of stopping a supply (a power shut-off, water shut-offs); also the valve or switch that does it.'},
+{t:'in lieu of', m:['in lieu of','in-lieu'], pos:'preposition', d:'Instead of (a fee in lieu of building parking).'},
+// government, law & news
+{t:'so-called', m:['so-called'], pos:'adjective', lv:'b1', d:'Called by that name — often suggesting the name is wrong or not deserved.'},
+{t:'well-known', m:['well-known'], pos:'adjective', lv:'b1', d:'Known by many people; famous.'},
+{t:'little-known', m:['little-known','lesser-known'], pos:'adjective', lv:'b2', d:'Not known by many people.'},
+{t:'nonpartisan', m:['nonpartisan','non-partisan'], pos:'adjective', d:'Not connected to or favoring any political party (a nonpartisan office, study).'},
+{t:'far-right', m:['far-right','far-left'], pos:'adjective / noun', lv:'b2', d:'The most extreme right-wing (conservative) or left-wing (progressive) political groups.'},
+{t:'left-wing', m:['left-wing','right-wing'], pos:'adjective', lv:'b2', d:'Supporting liberal or socialist ideas (left-wing) or conservative ideas (right-wing).'},
+{t:'hard-line', m:['hard-line','hardline','hardliner','hardliners'], pos:'adjective / noun', d:'Strict and refusing to compromise (hard-line policies); a hardliner is a person with such views.'},
+{t:'rank-and-file', m:['rank-and-file','rank and file'], pos:'noun / adjective', d:'The ordinary members of an organization (a union, a party, the police), not the leaders.'},
+{t:'behind-the-scenes', m:['behind-the-scenes','behind the scenes'], pos:'adjective / adverb', lv:'b2', d:'Done privately, where the public cannot see (behind-the-scenes negotiations).'},
+{t:'off the record', m:['off the record','off-the-record','on the record','on-the-record'], pos:'phrase', d:'Off the record = said privately, not to be published or quoted. On the record = said officially and can be quoted.'},
+{t:'go-ahead', m:['go-ahead','the green light'], pos:'noun', lv:'b2', d:'Permission to start something (the council gave the project the go-ahead / the green light).'},
+{t:'lead-up', m:['lead-up','run-up'], pos:'noun', d:'The period of time before an important event (in the lead-up to the election).'},
+{t:'watered-down', m:['watered-down','water down','watered down'], pos:'adjective / verb', d:'Made weaker or less strict than originally planned (a watered-down bill).'},
+{t:'cover-up', m:['cover-up','cover-ups','coverup'], pos:'noun', d:'An attempt to hide a crime, mistake, or scandal from the public.'},
+{t:'shake-up', m:['shake-up','shakeup'], pos:'noun', d:'A major reorganization of staff or leadership.'},
+{t:'break-in', m:['break-in','break-ins'], pos:'noun', lv:'b2', d:'Entering a building illegally, usually by force, to steal.'},
+{t:'hit-and-run', m:['hit-and-run'], pos:'noun / adjective', lv:'b2', d:'A road crash in which the driver leaves without stopping to help or report it.'},
+{t:'drive-by', m:['drive-by'], pos:'adjective', d:'(Of a shooting) done from a moving car.'},
+{t:'first-degree', m:['first-degree','second-degree','third-degree'], pos:'adjective', d:'(US law) how serious a crime is: first-degree murder is the most serious (planned in advance); second- and third-degree are less so. Also used for burns.'},
+{t:'law-abiding', m:['law-abiding'], pos:'adjective', d:'Obeying the law (law-abiding citizens).'},
+{t:'zero-tolerance', m:['zero-tolerance','zero tolerance'], pos:'adjective / noun', d:'A policy of punishing every violation, even small ones, with no exceptions.'},
+{t:'stop-gap', m:['stop-gap','stopgap'], pos:'noun / adjective', d:'A temporary solution used until something better is available.'},
+{t:'good-faith', m:['good-faith','in good faith','bad-faith','in bad faith'], pos:'adjective / phrase', d:'With honest intentions (a good-faith effort); bad-faith = dishonest, not sincere.'},
+{t:'tit-for-tat', m:['tit-for-tat'], pos:'adjective / noun', d:'Doing something bad to someone because they did it to you; retaliation of the same kind.'},
+{t:'back-and-forth', m:['back-and-forth','back and forth'], pos:'noun / adverb', lv:'b2', d:'A repeated exchange of messages or arguments; movement first one way, then the other.'},
+{t:'head-to-head', m:['head-to-head'], pos:'adjective / adverb', lv:'b2', d:'Competing directly against each other.'},
+{t:'one-on-one', m:['one-on-one'], pos:'adjective / adverb', lv:'b2', d:'Between just two people (a one-on-one meeting).'},
+{t:'face-to-face', m:['face-to-face','face to face'], pos:'adjective / adverb', lv:'b1', d:'In person, directly, not by phone or online.'},
+{t:'door-to-door', m:['door-to-door'], pos:'adjective / adverb', lv:'b2', d:'Going to each house in turn (door-to-door campaigning, sales).'},
+{t:'word of mouth', m:['word of mouth','word-of-mouth'], pos:'noun', lv:'b2', d:'Information passed from person to person by talking, rather than through advertising.'},
+{t:'active-duty', m:['active-duty'], pos:'adjective', d:'Currently serving full-time in the military.'},
+{t:'dual-use', m:['dual-use'], pos:'adjective', d:'Usable for two purposes — especially technology that has both civilian and military uses.'},
+{t:'out-of-state', m:['out-of-state','out-of-town','out-of-towner','out-of-towners'], pos:'adjective / noun', lv:'b2', d:'From, or located in, another state or town. An out-of-towner is a visitor from somewhere else.'},
+{t:'out-of-touch', m:['out-of-touch','out of touch'], pos:'adjective', d:'Not understanding what ordinary people think or what is really happening now.'},
+// describing people, things & situations
+{t:'well-being', m:['well-being','wellbeing'], pos:'noun', lv:'b2', d:'The state of being healthy, comfortable, and happy.'},
+{t:'self-employed', m:['self-employed','self-employment'], pos:'adjective', lv:'b2', d:'Working for yourself rather than for an employer.'},
+{t:'self-sufficient', m:['self-sufficient','self-sufficiency','self-reliant','self-reliance'], pos:'adjective', d:'Able to provide what you need by yourself, without help from others.'},
+{t:'self-described', m:['self-described','self-proclaimed','self-styled'], pos:'adjective', d:'Calling yourself something, without anyone official agreeing (a self-described expert).'},
+{t:'self-driving', m:['self-driving','driverless'], pos:'adjective', lv:'b2', d:'(Of a car) able to drive itself without a human driver.'},
+{t:'self-inflicted', m:['self-inflicted'], pos:'adjective', d:'Caused by yourself (a self-inflicted wound or problem).'},
+{t:'self-serving', m:['self-serving','self-interested'], pos:'adjective', d:'Done only for your own benefit, not for others.'},
+{t:'know-how', m:['know-how'], pos:'noun', lv:'b2', d:'Practical knowledge and skill.'},
+{t:'no-brainer', m:['no-brainer'], pos:'noun (informal)', d:'A decision so obvious that it needs no thought.'},
+{t:'win-win', m:['win-win'], pos:'adjective', lv:'b2', d:'Good for everyone involved.'},
+{t:'make-or-break', m:['make-or-break'], pos:'adjective', d:'Deciding whether something succeeds or fails completely.'},
+{t:'one-size-fits-all', m:['one-size-fits-all'], pos:'adjective', d:'Designed to suit everyone, ignoring individual differences — usually a criticism.'},
+{t:'run-of-the-mill', m:['run-of-the-mill'], pos:'adjective', d:'Ordinary; nothing special.'},
+{t:'cut-and-dried', m:['cut-and-dried','cut and dried','clear-cut'], pos:'adjective', d:'Clear, simple, and already settled; obvious (a clear-cut case).'},
+{t:'open-ended', m:['open-ended'], pos:'adjective', d:'With no fixed limit, end, or answer (an open-ended question, contract).'},
+{t:'open-minded', m:['open-minded'], pos:'adjective', lv:'b2', d:'Willing to consider new ideas and other people’s views.'},
+{t:'like-minded', m:['like-minded'], pos:'adjective', d:'Sharing similar opinions, interests, or goals.'},
+{t:'old-fashioned', m:['old-fashioned'], pos:'adjective', lv:'b1', d:'Not modern; from or typical of an earlier time.'},
+{t:'old-school', m:['old-school'], pos:'adjective (informal)', d:'Traditional, from an earlier time — often said with affection (old-school barbecue).'},
+{t:'brand-new', m:['brand-new'], pos:'adjective', lv:'b1', d:'Completely new.'},
+{t:'up-and-coming', m:['up-and-coming'], pos:'adjective', d:'Likely to become successful or popular soon.'},
+{t:'fast-track', m:['fast-track','fast-tracked','fast-tracks','fast-tracking'], pos:'verb / adjective', d:'To make a process or approval happen faster than usual.'},
+{t:'hands-on', m:['hands-on'], pos:'adjective', lv:'b2', d:'Doing things yourself in practice, not just in theory (hands-on experience, a hands-on manager).'},
+{t:'hands-off', m:['hands-off'], pos:'adjective', d:'Letting others act without interfering (a hands-off approach).'},
+{t:'head-on', m:['head-on'], pos:'adjective / adverb', d:'Directly facing each other (a head-on collision); facing a problem directly (to tackle it head-on).'},
+{t:'heads-up', m:['heads-up'], pos:'noun (informal)', d:'A warning or notice given in advance.'},
+{t:'follow-up', m:['follow-up','follow-ups','followed up','follow up'], pos:'noun / verb', lv:'b2', d:'Something done after an earlier action to continue it or check its results.'},
+{t:'built-in', m:['built-in'], pos:'adjective', lv:'b2', d:'Included as a permanent part of something.'},
+{t:'stand-alone', m:['stand-alone','standalone'], pos:'adjective', d:'Independent; working or existing on its own, not as part of something else.'},
+{t:'user-friendly', m:['user-friendly'], pos:'adjective', lv:'b2', d:'Easy to use and understand.'},
+{t:'-friendly', m:['family-friendly','kid-friendly','bike-friendly','pedestrian-friendly','dog-friendly','budget-friendly','eco-friendly','climate-friendly','business-friendly','renter-friendly'], pos:'word pattern', lv:'b2', d:'“Good for, easy for, or not harmful to”: family-friendly = suitable for families; eco-friendly = not harmful to the environment.'},
+{t:'-free', m:['car-free','gluten-free','smoke-free','fare-free','toll-free','debt-free','hassle-free','rent-free','interest-free'], pos:'word pattern', lv:'b2', d:'“Without”: car-free streets have no cars; gluten-free food contains no gluten; toll-free means no charge.'},
+{t:'-rich', m:['protein-rich','nutrient-rich','oil-rich','data-rich','cash-rich','carbon-rich'], pos:'word pattern', lv:'b2', d:'“Containing a lot of”: protein-rich food has lots of protein.'},
+{t:'-driven', m:['data-driven','market-driven','community-driven','mission-driven','profit-driven','tech-driven','community-led','data-led'], pos:'word pattern', lv:'b2', d:'“Guided or powered by”: a data-driven decision is based on data; community-led means organized by the community.'},
+{t:'middle-aged', m:['middle-aged'], pos:'adjective', lv:'b2', d:'Roughly between 45 and 65 years old.'},
+{t:'able-bodied', m:['able-bodied'], pos:'adjective', d:'Physically fit and healthy; not disabled.'},
+{t:'low-key', m:['low-key','lowkey'], pos:'adjective', d:'Quiet and modest, not attracting attention (a low-key celebration).'},
+{t:'laid-back', m:['laid-back'], pos:'adjective', lv:'b2', d:'Relaxed and calm; not worried.'},
+{t:'soft-spoken', m:['soft-spoken'], pos:'adjective', d:'Speaking in a quiet, gentle voice.'},
+{t:'well-rounded', m:['well-rounded'], pos:'adjective', d:'Having a good variety of skills, knowledge, or experience.'},
+{t:'hard-won', m:['hard-won','hard-earned','hard-fought'], pos:'adjective', d:'Achieved only after great effort or struggle.'},
+{t:'deep-seated', m:['deep-seated','deep-rooted'], pos:'adjective', d:'Firmly established and difficult to change (a deep-seated problem, belief).'},
+{t:'pent-up', m:['pent-up'], pos:'adjective', d:'Held back for a long time and not expressed (pent-up demand, pent-up anger).'},
+{t:'drawn-out', m:['drawn-out','long-drawn-out'], pos:'adjective', d:'Lasting longer than necessary or expected.'},
+{t:'far-fetched', m:['far-fetched'], pos:'adjective', d:'Very unlikely to be true; hard to believe.'},
+{t:'far-flung', m:['far-flung'], pos:'adjective', d:'Very distant, or spread over a wide area.'},
+{t:'life-threatening', m:['life-threatening'], pos:'adjective', lv:'b2', d:'Serious enough to cause death.'},
+{t:'time-consuming', m:['time-consuming'], pos:'adjective', lv:'b2', d:'Taking a lot of time.'},
+{t:'labor-intensive', m:['labor-intensive','labour-intensive'], pos:'adjective', d:'Needing a lot of workers or human effort.'},
+{t:'energy-efficient', m:['energy-efficient'], pos:'adjective', lv:'b2', d:'Using as little energy as possible to do the job.'},
+{t:'mind-boggling', m:['mind-boggling','jaw-dropping'], pos:'adjective', d:'So big, surprising, or impressive that it is hard to take in.'},
+{t:'eye-catching', m:['eye-catching'], pos:'adjective', lv:'b2', d:'Attractive and noticeable.'},
+{t:'eye-opening', m:['eye-opening','eye-opener'], pos:'adjective / noun', d:'Revealing surprising facts; making you realize something you did not know.'},
+{t:'all-out', m:['all-out'], pos:'adjective', d:'Using all possible effort or resources (an all-out effort, an all-out war).'},
+{t:'over-the-top', m:['over-the-top'], pos:'adjective', d:'Too extreme or exaggerated.'},
+{t:'under-the-radar', m:['under-the-radar','under the radar'], pos:'adjective / phrase', d:'Not noticed by most people or by the authorities.'},
+{t:'off-limits', m:['off-limits'], pos:'adjective', lv:'b2', d:'Not allowed to be entered, used, or discussed.'},
+{t:'off-duty', m:['off-duty','on-duty'], pos:'adjective', lv:'b2', d:'Not working at that time (off-duty); working (on-duty) — used for police, firefighters, nurses.'},
+{t:'dead-end', m:['dead-end'], pos:'noun / adjective', d:'A road with no way out; a situation or job with no chance of progress.'},
+{t:'second-hand', m:['second-hand','secondhand'], pos:'adjective', lv:'b2', d:'Previously owned by someone else (a second-hand car); or heard from others rather than directly.'},
+{t:'first-hand', m:['first-hand','firsthand'], pos:'adjective / adverb', lv:'b2', d:'From your own direct experience, not from reports by others.'},
+{t:'high-tech', m:['high-tech','hi-tech','low-tech'], pos:'adjective', lv:'b2', d:'Using advanced technology (high-tech); using simple, basic methods (low-tech).'},
+{t:'pop-up', m:['pop-up','pop-ups'], pos:'noun / adjective', lv:'b2', d:'A shop, restaurant, or event that opens for a short time only.'},
+{t:'drop-off', m:['drop-off','drop-offs','pick-up'], pos:'noun', lv:'b2', d:'Leaving someone or something at a place (drop-off) or collecting them (pick-up). A drop-off can also mean a sharp decrease.'},
+{t:'shout-out', m:['shout-out','shoutout','shout-outs'], pos:'noun (informal)', d:'A public mention of thanks or praise.'},
+{t:'walk-in', m:['walk-in'], pos:'adjective', d:'Without an appointment (a walk-in clinic); a walk-in closet is one you can walk into.'},
+{t:'sold-out', m:['sold-out','sell-out','sellout'], pos:'adjective / noun', lv:'b2', d:'With every ticket or item already sold.'},
+{t:'must-see', m:['must-see','must-visit','must-have','must-try','must-read'], pos:'adjective', lv:'b2', d:'Something you really should see / visit / have / try / read.'},
+{t:'go-to', m:['go-to'], pos:'adjective (informal)', d:'The one you usually choose or rely on (my go-to coffee shop).'},
+{t:'would-be', m:['would-be'], pos:'adjective', d:'Wanting or trying to be (a would-be buyer, a would-be attacker).'},
+{t:'wholehearted', m:['wholehearted','whole-hearted','wholeheartedly'], pos:'adjective', d:'Complete and enthusiastic (wholehearted support).'},
+{t:'half-hearted', m:['half-hearted','half-heartedly'], pos:'adjective', d:'Without real enthusiasm or effort.'},
+{t:'rip-off', m:['rip-off','rip-offs','ripped off'], pos:'noun (informal)', lv:'b2', d:'Something that costs far more than it is worth; being cheated.'},
+{t:'know-it-all', m:['know-it-all'], pos:'noun (informal)', d:'A person who behaves as if they know everything.'},
+{t:'lineup', m:['lineup','line-up'], pos:'noun', lv:'b2', d:'The list of performers, players, or events in a show, team, or festival.'},
+{t:'second-guess', m:['second-guess','second-guessing','second-guessed'], pos:'verb', d:'To doubt or criticize a decision after it has been made.'},
+{t:'high-octane', m:['high-octane'], pos:'adjective', d:'Powerful, fast, and exciting (a high-octane performance).'},
+{t:'rough-and-tumble', m:['rough-and-tumble'], pos:'adjective / noun', d:'Disorderly and rough but not seriously violent (the rough-and-tumble of politics).'},
+{t:'top-down', m:['top-down','bottom-up'], pos:'adjective', d:'Decided by leaders and passed down to others (top-down); starting from ordinary people or small details (bottom-up).'},
+{t:'in-house', m:['in-house'], pos:'adjective / adverb', d:'Done inside the organization by its own staff, not by outside companies.'},
+{t:'in-depth', m:['in-depth'], pos:'adjective', lv:'b2', d:'Thorough and detailed (an in-depth report).'},
+{t:'on-demand', m:['on-demand'], pos:'adjective', lv:'b2', d:'Available whenever you want it (on-demand video, on-demand transit).'},
+{t:'off-the-shelf', m:['off-the-shelf'], pos:'adjective', d:'Ready-made and available to buy, rather than specially designed.'},
+{t:'sought-after', m:['sought-after'], pos:'adjective', d:'Wanted by many people; in great demand.'},
+{t:'long shot', m:['long shot','long-shot'], pos:'noun', d:'Something with very little chance of success.'},
+{t:'short-lived', m:['short-lived'], pos:'adjective', d:'Lasting only a short time.'},
+{t:'short-sighted', m:['short-sighted','shortsighted'], pos:'adjective', d:'Not thinking about the future effects of a decision.'},
+{t:'wait-and-see', m:['wait-and-see'], pos:'adjective', d:'Waiting to see what happens before acting (a wait-and-see approach).'},
+{t:'wear and tear', m:['wear and tear','wear-and-tear'], pos:'noun', d:'Damage that happens from normal use over time.'},
+{t:'knee-jerk', m:['knee-jerk'], pos:'adjective', d:'(Of a reaction) automatic and without thinking.'},
+{t:'cookie-cutter', m:['cookie-cutter'], pos:'adjective', d:'All exactly the same; lacking originality (cookie-cutter houses).'},
+{t:'free-for-all', m:['free-for-all'], pos:'noun', d:'A chaotic situation or fight with no rules and everyone involved.'},
+{t:'hit-or-miss', m:['hit-or-miss','hit-and-miss'], pos:'adjective', d:'Sometimes good and sometimes bad; unreliable.'},
+{t:'low-hanging fruit', m:['low-hanging fruit','low-hanging'], pos:'noun (idiom)', d:'The easiest goals to achieve or problems to fix first.'},
+{t:'full-fledged', m:['full-fledged','fully-fledged','fully fledged'], pos:'adjective', d:'Complete and fully developed.'},
+{t:'flat-out', m:['flat-out'], pos:'adverb / adjective', d:'Completely and directly (a flat-out lie); or at full speed (working flat-out).'},
+{t:'long-haul', m:['long-haul'], pos:'adjective / noun', d:'Over a long distance (long-haul flights, trucking); “in it for the long haul” = committed for a long time.'},
+{t:'up-front', m:['up-front','upfront'], pos:'adjective / adverb', d:'Paid in advance (an up-front fee); or honest and direct.'},
+{t:'no-show', m:['no-show','no-shows'], pos:'noun', d:'A person who does not arrive for an appointment, flight, or event as expected.'}
 ];
 
 /* ---------- Fallback common-words list (used only when the online 10k list is unavailable) ---------- */
@@ -1423,23 +1660,53 @@ function saveWord(o){
 }
 
 /* ---------- dictionary lookups ---------- */
-async function lookupWord(word){
-  const w=word.toLowerCase().trim();
-  if(state.defCache[w]) return state.defCache[w];
+async function dictFetch(w){            // one raw dictionary-API call; null when the word is not listed
   try{
     const r=await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(w),{signal:timeoutSignal(9000)});
     if(!r.ok) throw 0;
     const j=await r.json();
     const m=j[0]&&j[0].meanings&&j[0].meanings[0];
     if(!m) throw 0;
-    const out={d:m.definitions[0].definition,pos:m.partOfSpeech||''};
-    state.defCache[w]=out;
-    // cap cache
-    const keys=Object.keys(state.defCache);
-    if(keys.length>600) delete state.defCache[keys[0]];
-    save();
-    return out;
+    return {d:m.definitions[0].definition,pos:m.partOfSpeech||''};
   }catch(e){ return null; }
+}
+function cacheDef(w,out){
+  state.defCache[w]=out;
+  const keys=Object.keys(state.defCache);
+  if(keys.length>600) delete state.defCache[keys[0]];
+  save();
+}
+async function lookupWord(word){
+  const w=word.toLowerCase().trim();
+  if(state.defCache[w]) return state.defCache[w];
+  let out=await dictFetch(w);
+  if(!out&&w.includes('-')) out=await lookupCompound(w);
+  if(out) cacheDef(w,out);
+  return out;
+}
+// Hyphenated words the dictionary does not list: try the closed-up spelling ("co-worker" → "coworker"),
+// then explain the word part by part — "post-pandemic" → post- (= after) + pandemic — “pandemic” means: …
+async function lookupCompound(w){
+  const parts=w.split('-').filter(Boolean);
+  if(parts.length<2) return null;
+  const solid=parts.join('');
+  if(solid.length>3){ const o=await dictFetch(solid); if(o) return o; }
+  const hard=hardParts(w,getWordSet());
+  const head=hard.length?hard[hard.length-1]:parts[parts.length-1];
+  // the dictionary lists base forms: "fortified" → "fortify", "largest" → "large"
+  const forms=[head];
+  if(head.endsWith('ied')||head.endsWith('ies')) forms.push(head.slice(0,-3)+'y');
+  if(head.endsWith('ed')||head.endsWith('er')) forms.push(head.slice(0,-2),head.slice(0,-1));
+  if(head.endsWith('est')) forms.push(head.slice(0,-3),head.slice(0,-2));
+  if(head.endsWith('ing')) forms.push(head.slice(0,-3),head.slice(0,-3)+'e');
+  if(head.endsWith('s')) forms.push(head.slice(0,-1));
+  for(const form of [...new Set(forms)].filter(f=>f.length>2)){
+    const base=state.defCache[form]||await dictFetch(form);
+    if(!base) continue;
+    const shown=parts.map(p=>p===head?p:(isAffix(p)?p+'- (= '+AFFIX_GLOSS[p]+')':p)).join(' + ');
+    return {d:shown+' — “'+form+'” means: '+base.d,pos:'compound word'};
+  }
+  return null;
 }
 async function fillMissingDefs(a){
   const missing=(a._view||a.annos||[]).map((an,i)=>({an,i})).filter(x=>!x.an.d);
@@ -1497,6 +1764,16 @@ $('r-body').addEventListener('mouseup',async e=>{
 /* ---------- auto-annotation for fetched articles ---------- */
 let wordSetCache={};
 const LEVEL_N={b1:3000,b2:6500,c1:10000};
+const LV_RANK={b1:0,b2:1,c1:2};
+// Prefixes we can explain; together with number words they never make a hyphenated word "hard"
+const AFFIX_GLOSS={anti:'against',auto:'self',bi:'two',co:'together, jointly',counter:'against, in response',cross:'across, between',de:'remove, undo',eco:'environmental',ex:'former',extra:'beyond',hyper:'extremely',inter:'between',intra:'within',macro:'large-scale',mega:'huge',micro:'very small',mid:'in the middle of',mini:'small',mis:'wrongly',multi:'many',neo:'new',non:'not',omni:'all',over:'too much, above',post:'after',pre:'before',pro:'in favor of',pseudo:'false',quasi:'partly, seemingly',re:'again',self:'of oneself',semi:'half, partly',sub:'under, smaller',super:'above, very',trans:'across',tri:'three',ultra:'extremely',un:'not',under:'too little, below',vice:'deputy'};
+const isAffix=p=>Object.prototype.hasOwnProperty.call(AFFIX_GLOSS,p);
+const NUM_WORDS=new Set('one two three four five six seven eight nine ten eleven twelve twenty thirty forty fifty sixty seventy eighty ninety hundred thousand million billion first second third fourth fifth sixth seventh eighth ninth tenth half quarter'.split(' '));
+// The parts of a hyphenated word that are NOT everyday words, numbers, or known prefixes:
+// "fifth-largest" → [] (just common words joined — not worth annotating); "post-pandemic" → ['pandemic'].
+function hardParts(w,known){
+  return w.split('-').filter(p=>p.length>2&&!NUM_WORDS.has(p)&&!isAffix(p)&&!lemmas(p).some(l=>known.has(l)));
+}
 function getWordSet(){
   const lvl=state.settings.level||'b2';
   if(wordSetCache[lvl]) return wordSetCache[lvl];
@@ -1518,48 +1795,56 @@ async function ensureBigWordList(){
 }
 function lemmas(w){
   const out=[w];
-  if(w.endsWith('ies')) out.push(w.slice(0,-3)+'y');
+  if(w.endsWith('ies')||w.endsWith('ied')) out.push(w.slice(0,-3)+'y');
   if(w.endsWith('es')) out.push(w.slice(0,-2));
   if(w.endsWith('s')) out.push(w.slice(0,-1));
   if(w.endsWith('ed')) out.push(w.slice(0,-2),w.slice(0,-1),w.slice(0,-3));
   if(w.endsWith('ing')) out.push(w.slice(0,-3),w.slice(0,-3)+'e',w.slice(0,-4));
   if(w.endsWith('ly')) out.push(w.slice(0,-2));
   if(w.endsWith('er')) out.push(w.slice(0,-2),w.slice(0,-1));
-  if(w.endsWith('est')) out.push(w.slice(0,-3));
+  if(w.endsWith('est')) out.push(w.slice(0,-3),w.slice(0,-2));
   return out.filter(x=>x.length>2);
 }
 function autoAnnotate(a){
   const text=a.paras.join('\n');
   const low=text.toLowerCase();
-  const annos=[];
+  const lvl=state.settings.level||'b2';
+  const known=getWordSet();
   const used=new Set();
-  // 1. idioms & phrases from the built-in dictionary
-  for(const id of IDIOMS){
-    if(annos.length>=9) break;
+  // 1. idioms, phrases and hyphenated words from the built-in dictionary
+  const gloss=[];
+  for(const id of IDIOMS.concat(COMPOUNDS)){
+    const below=id.lv&&LV_RANK[id.lv]<LV_RANK[lvl];      // below the reader's level: never annotate it
+    if(below){ id.m.forEach(v=>used.add(v.toLowerCase())); continue; }
     for(const m of id.m){
       const re=new RegExp('(?<![\\w-])'+rxEsc(m.toLowerCase())+'(?![\\w-])');
       if(re.test(low)){
-        annos.push({t:id.t,m:[m],ph:m.includes(' ')?1:0,pos:m.includes(' ')?'phrase':'',d:id.d,ex:''});
+        const ph=m.includes(' ')?1:0;
+        const t=id.t.startsWith('-')?m:id.t;               // suffix entries ("-free") show the word that matched
+        gloss.push({t,m:[m],ph,pos:id.pos||(ph?'phrase':''),d:id.d,ex:''});
         used.add(id.t.toLowerCase());
+        id.m.forEach(v=>used.add(v.toLowerCase()));
         break;
       }
     }
   }
-  // 2. uncommon single words
-  const known=getWordSet();
+  // 2. uncommon single words — a hyphenated word counts only when one of its parts is itself uncommon
   const counts={};
   const tokens=text.match(/[A-Za-z][a-z’'-]{3,}/g)||[];
   for(const tok of tokens){
     if(/^[A-Z]/.test(tok)) continue;               // skip capitalized → likely proper nouns
-    const w=tok.toLowerCase().replace(/[’']s?$/,'');
+    const w=tok.toLowerCase().replace(/[’']s?$/,'').replace(/^-+|-+$/g,'');
     if(w.length<5||used.has(w)) continue;
-    if(lemmas(w).some(l=>known.has(l))) continue;
+    if(w.includes('-')){
+      if(w.split('-').length>3) continue;          // "choose-your-own-adventure": a one-off string, not a word
+      if(!hardParts(w,known).length) continue;     // "fifth-largest", "city-owned", "35-year-old"
+    }else if(lemmas(w).some(l=>known.has(l))) continue;
     counts[w]=(counts[w]||0)+1;
   }
-  const cands=Object.keys(counts)
-    .sort((x,y)=>counts[y]-counts[x]||y.length-x.length)
-    .slice(0,Math.max(0,9-annos.length));
-  for(const w of cands){
+  const cands=Object.keys(counts).sort((x,y)=>counts[y]-counts[x]||y.length-x.length);
+  // keep room for at least two uncommon words when the glossary matches a lot
+  const annos=gloss.slice(0,9-Math.min(2,cands.length));
+  for(const w of cands.slice(0,Math.max(0,9-annos.length))){
     const cached=state.defCache[w];
     annos.push({t:w,m:[w],pos:cached?cached.pos:'',d:cached?cached.d:'',ex:''});
   }
