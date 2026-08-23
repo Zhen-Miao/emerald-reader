@@ -1,6 +1,6 @@
 {
- "builtAt": "2026-08-22T16:13:01.328Z",
- "builtFor": "2026-08-22",
+ "builtAt": "2026-08-23T16:14:23.147Z",
+ "builtFor": "2026-08-23",
  "builtHour": "09",
  "count": 80,
  "sources": [
@@ -87,6 +87,393 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260816",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Aug. 16, 2026",
+   "author": "GeekWire",
+   "date": "2026-08-23",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-08-16/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Aug. 16, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "404 Media put an Apple AirTag in a rare book and tracked it to an Amazon warehouse in Las Vegas, where a team cuts the bindings off books and scans the pages. The reporting method has roots in a Seattle non-profit group. Read More … Read More",
+    "A year after GeekWire asked where Seattle’s superstar AI startups were, two local venture capitalists offer an answer: they’re here, but they build rockets, geothermal plants and autonomous off-road vehicles rather than software. A guest opinion from Ascend’s Nate Bek and Plug and Play’s Ben Eisinger. Read More … Read More",
+    "Qualtrics laid off employees across Seattle, Provo and international offices Wednesday, three months after closing its $6.75 billion acquisition of Press Ganey Forsta. The company declined to disclose how many jobs were cut, but a WARN notice reviewed by GeekWire indicates at least 50 cuts were made at its Seattle headquarters. Read More … Read More",
+    "After the U.S. Navy abruptly canceled a key unmanned warship program, defense giant Anduril quietly vacated its shipyard site on Seattle’s Lake Washington Ship Canal—even as its broader regional footprint continues to surge toward 1,000 local engineers. Read More … Read More",
+    "Expedia Group is parting ways with at least eight vice presidents and senior vice presidents as it reorganizes its product and technology organization around AI, according to an internal memo obtained by GeekWire. The memo from the company’s product and technology chiefs also names five leaders who were promoted. Read More … Read More",
+    "GitHub was down for more than three hours Monday morning, breaking the website, code review tools, automated build systems and Copilot. It’s the latest reliability problem for a platform whose capacity planning has been outrun by AI coding tools. Read More … Read More",
+    "An AWS director who ran the launch of Oracle Database@AWS has joined Oracle. Also in this edition: Seattle Children’s names a Stanford informatics leader as CIO, Zillow fills a newly created chief legal and policy role and a former Convoy executive is Uber Freight’s new product chief. Read More … Read More",
+    "GeekWire toured Anduril’s unmarked Bellevue office, where the defense company is building augmented reality glasses, digital night vision and edge computing hardware for the U.S. military. Senior vice president Tom Keane says the regional engineering workforce could easily grow from 560 people to 1,000 in the not-too-distant future. Read More … Read More",
+    "Endurance Energy is running full-tilt in its cavernous new Seattle facility as it prepares to deploy a 100-kilowatt generator to an oceanic volcano off the coast of Oregon. The company is betting that the technology can one day electrify entire cities. We got a look inside. Read More … Read More",
+    "The King County Library System opened a $5.2 million sorting installation in Renton that handles the 25,000 items moving through its 50 libraries each day. Robotic arms destack totes every 15 seconds and route materials into 186 delivery chutes. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/bigstock-Paris-France-May-H-421918175-1-200x133.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-ymoviemontrealpedestrianstreet405rebuild",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Montreal Pedestrian Street & 405 Rebuild",
+   "author": "Mike Orr",
+   "date": "2026-08-23",
+   "url": "https://seattletransitblog.com/2026/08/22/sunday-movie-montreal-pedestrian-street-405-rebuild/",
+   "paras": [
+    "Montreal’s Wellington Street is pedestrianized in the summer. (Oh The Urbanity!)",
+    "The 405 and 167 freeway rebuild. (Build Core) Managed toll lanes, Stride upgrades.",
+    "Horse-drawn buses are the ancestor of modern buses. (J Draper)",
+    "As a reminder, STB is hosting Seattle Transit Trivia tomorrow. Round 1 starts at 10am. Full details are available here ."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-itsaystrainderailmentwasisolatedincident",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sound Transit Says Train Derailment Was Isolated Incident",
+   "author": "Doug Trumm",
+   "date": "2026-08-23",
+   "url": "https://www.theurbanist.org/sound-transit-says-train-derailment-was-isolated-incident/",
+   "paras": [
+    "After a snag-free stretch setting ridership records during the World Cup, Sound Transit has had a few big service hiccups in the past month and a half, with a derailment on August 1 topping the list.",
+    "A roof hatch issue on July 9 also caused a major service disruption that lasted 15 hours, after the malfunctioning hatch took out an overhead wire between the University of Washington and U District stations.",
+    "\"Mechanical issues disrupted trains on July 10th and again on July 20th , when brakes on a train wouldn’t release ,\" Seattle Transit Blog's Sherwin Lee recounted . \"Then the following day on July 21st, a power outage resulted in a temporary suspension of service between Beacon Hill and Tukwila International Blvd stations.\"",
+    "However, the agency has said that overall service reliability is trending up, and emphasized they have no reason to expect the derailment or roof hatch issue to repeat.",
+    "The derailment on Saturday, August 1 happened at low speed in the Chinatown-International District (CID) station just before midnight. It caused no injuries, as the train was not yet in service and empty, other than the operator.",
+    "The derailment did, however, shut down light rail service in the downtown tunnel until 2:15pm Sunday, August 2. A full restoration of service waited while Sound Transit investigated the incident. During the disruption, Sound Transit truncated service, operating a bus bridge to replace the shuttered downtown tunnel.",
+    "Public information about what caused the derailment was scant, other than a paywalled Seattle Times article from Mike Lindblom on Sunday morning.",
+    "King County Councilmember Claudia Balducci, who serves as one of 18 members of the Sound Transit Board of Directors, brought up the issue at the Rider Experience and Operations (REO) Committee on August 6.",
+    "\"On the derailment, can I just say it's been a few days: I think we should have some more information about the cause, to be honest, because a derailment is a life-threatening situation,\" Balducci said. \"So, I'm really interested to know that we know what happened so that it's not going to happen with a train with people on it. That's very concerning.\"",
+    "At Balducci's prodding, Sound Transit CEO Dow Constantine expanded on the brief summary of the derailment in his CEO report to start the meeting, which treated the incident as handled and in the rearview mirror.",
+    "\"This is a section of the track that veers off and goes into a pocket track,\" Constantine said. \"So, that is a track that is not for passengers between the north and south tracks in the International District Station. As this non-passenger train was being repositioned from the south end in order to add capacity there.\"",
+    "Sound Transit had been storing extra trains at the station to help handle traffic leaving the Ed Sheeran concert at Lumen Field.",
+    "\"[The train] was taken onto that side track, and this is where we know the two bolts sheared off bolts that were holding that curved track that goes to the pocket track. We don't know why they sheared off, however, and so Ed [Cobean], could you talk a little bit about the investigation that's being done on those two bolts, and then on the other fasteners that are similar, and there are few of them in the rest of the system.\"",
+    "Ed Cobean, Sound Transit's Deputy CEO, Chief Transit Operations, pointed to steps the agency was taking to prevent another derailment on pocket tracks.",
+    "\"There is only one other switch in our system – this is special track work – that has anything that resembles it.\" Cobean said. \"So, we've already done a full inspection on the other switch. Have put the existing switch bolts back into place. It's been repaired. We are also sending those bolts out for metallurgy testing to see if they can come back to us [with improvements]. We do know that it was the original construction, original bolts from when that was built 20 years ago, and we are going to do additional testing and inspections across the entire system for other switches, not just these two alone.\"",
+    "The Urbanist reached out to Sound Transit this week to see how the investigation was progressing into how the bolts were sheared off without the agency's track inspection team noticing, but no new details were offered.",
+    "\"We have confirmed that the shearing of the two bolts caused the track to become misaligned, resulting in the derailment,\" Sound Transit spokesperson Henry Bendon said in an email. \"The incident occurred on a section of special track work that is unique in our system to access the pocket track at International District/Chinatown Station - although it is used in many other systems. That track was inspected, repaired, and returned to service the next day, and we have no reason to believe this will happen again.\"",
+    "At the REO Committee, Balducci did bring up that rider communication could have been better during the unexpected outage, noting many had reached out to her to share their confusion when the downtown tunnel closed unexpectedly.",
+    "\"I just wanted to share that I personally got a whole bunch of feedback about wayfinding in the aftermath of a major unplanned disruption like that,\" Balducci said. \"People not knowing how to get to the shuttles, and so I would love to hear some more here today, if possible, about what happened and sort of how we can upgrade our standards for making sure we have immediate announcements of delays, how long they're going to be, if we know what the cause is, and then how to get to a shuttle easily.\"",
+    "Constantine did acknowledge some room for improvement on that front.",
+    "\"We are quite rigorous in our processing of lessons learned,\" Constantine said. \"And we are continuing to build the agency's capacity for continuous improvement, so that each time we have something that arises that's unusual, we can learn from it, and we can make the experience better for our passengers. And this is certainly one of those events where we have opportunities to learn more and improve.\"",
+    "Derailments are very rare in Sound Transit's system. Lindblom reported the incident earlier this month was only the second known derailment that disrupted passenger trips since service began in 2009.",
+    "Another incident on August 10 in Rainier Beach was initially reported on social media as a derailment, but turned out to be a track switch issue that did not result in a derailment. The issue led to a comparatively short service disruption while the switch was investigated.",
+    "Sound Transit does periodically run staff through simulations to prepare them for emergency situations, including derailments. Andrea Trepadean, Chief Safety Officer at Sound Transit, described such training exercises at a REO Committee meeting in December.",
+    "\"We do emergency preparedness drills and exercises, and part of those drills and exercises we do simulate self evacuation of passengers,\" Trepadean said at the time. \"When we have those drills and exercise and there is a self evacuation, what we're focused on is the communication and the recovery of the scene and the safety of the passengers. Referencing the event on Sunday where the Sounder passengers self evacuated, the safety of the passengers was the conductor's focus. The conductor immediately pivoted to protect those passengers by making sure we had all train traffic stopped and the tracks were protected with a track block, and we had personnel activated responding to assist with a large-scale self evacuation of passengers.\"",
+    "Sound Transit simulated a derailment as part of preparation to launch the Federal Way Link Extension in December.",
+    "\"We recently did an exercise on our Federal Way Link Extension,\" Trepadean said in December. \"It was a full-scale exercise that we performed on October 25 and this was part of that simulation. The first responders involved in that exercise knew the general theme of the exercise, which was a simulated train derailment.\"",
+    "Of course, running a simulation or two does not always mean that the agency's entire apparatus is ready to seamlessly pick up the slack when a derailment happens... say near midnight on Saturday with droves of Ed Sheeran fans emptying out of a stadium to find the light rail station is suddenly shut down.",
+    "One theory for the spate of outages is that the agency was pushing the system so hard (including temporarily suspending its monthly maintenance program to squeeze out more capacity) during a ridership-heavy month buoyed by the local World Cup matches that maintenance issues piled up. According to the agency, World Cup traffic wear and tear did not relate to any of the recent service disruptions.",
+    "A draft agency service plan does look at expanding maintenance windows across the light rail network by shortening service spans at certain times.",
+    "\"To your questions about maintenance windows, we are currently in the early stages of developing the 2027 service plan, and are seeking public feedback on the possibility of additional time for maintenance,\" Bendon said. \"This would build on the success we’ve been seeing with our monthly maintenance program, but is entirely unrelated to your question about World Cup ridership.\""
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/Derailed-Link-Train-at-CID-Station-august-1---Gene-Pencil-via-Cortana.webp",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-s20260823doomlooptotallynormalinitiative",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Totally Normal Initiative",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://southseattleemerald.org/voices/2026/08/23/doom-loop-totally-normal-initiative",
+   "paras": [
+    "DOOM LOOP is a serialized fictional cartoon from South End author and comic Brett Hamil.",
+    "Check in every Sunday for a new installment!",
+    "You can now buy the latest Doom Loop collection, It's Never This Nice , at BrettHamil.BigCartel.com .",
+    "Follow Hamil on Instagram at @bretthamilcomix .",
+    "The South Seattle Emerald is committed to holding space for a variety of viewpoints within our community, with the understanding that differing perspectives do not negate mutual respect amongst community members.",
+    "The opinions, beliefs, and viewpoints expressed by the contributors on this website do not necessarily reflect the opinions, beliefs, and viewpoints of the Emerald or official policies of the Emerald.",
+    "Brett Hamil is a writer, cartoonist, and performer living on the South End of Seattle."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2025-10-03/q5lun8pr/Doom-Loop-Hero-Image-002-by-Brett-Hamil.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rniagovernorxavierbecerrahealthinsurance",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Becerra, running for governor of California, faces a health insurance problem",
+   "author": "Christine Mai-Duc",
+   "date": "2026-08-23",
+   "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+   "paras": [
+    "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5935x4000+0+0/resize/5935x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4f%2F84%2F31385d4346b19c80d3d95f9ab088%2Fgettyimages-2291062674.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-260823nxs15941769tropicalstormmokehawaii",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+   "author": "Chandelis Duster",
+   "date": "2026-08-23",
+   "url": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+   "paras": [
+    "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2936+0+0/resize/3000x2936!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Faf%2F326eef794a21b66f7a27b5887de8%2Fap26234623249040.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-73memphistaskforceshootingvideojonahneal",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+   "author": "Juliana Kim",
+   "date": "2026-08-23",
+   "url": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+   "paras": [
+    "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2Fbf%2F9f271eb24f22992d80d3b57cf68b%2F2026-07-jonahneal-ls-018.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-cusedassassinatingrussiancommandercrimea",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
+   "author": "Pjotr Sauer",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+   "paras": [
+    "Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through",
+    "It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential district of the Russian-occupied Crimean port city.",
+    "Hidden inside a rubbish bin, a bomb containing the equivalent of about 500g of TNT detonated on 13 August as Robert Shageev, the deputy commander of a Russian Black Sea fleet submarine brigade, walked past in naval uniform. He was killed on the spot."
+   ],
+   "img": "https://i.guim.co.uk/img/media/061a2f31d3ba8a955314059e370bf330d7233aa3/0_129_1440_1152/master/1440.jpg?width=140&quality=85&auto=format&fit=max&s=97dee069194b098e5f0c06c6f5f95c33",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26aug23democratsabdulelsayedprogressives",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I hate Democrats, but I love Abdul’: voters who left over Gaza return for progressive push",
+   "author": "Minnah Arshad in Dearborn",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/us-news/2026/aug/23/democrats-abdul-el-sayed-progressives",
+   "paras": [
+    "Michigan Senate nominee and others have re-energized one-time Democratic voters who abandoned the party under Biden",
+    "Two years ago, Zainab Bibi Ahmed thought she had turned her back on the Democrats for good. Now, she is volunteering for the party’s US Senate nominee in Michigan, Abdul El-Sayed.",
+    "Ahmed was one of 100,000 people to vote uncommitted in the February 2024 Democratic Michigan primary , in a bid to send a message to then US president Joe Biden about his support for Israel, as people watched what Amnesty International later called a “live-streamed genocide” in Gaza on their screens."
+   ],
+   "img": "https://i.guim.co.uk/img/media/767ef567046396578cfca73ff1818913efca1a9e/230_0_2298_1838/master/2298.jpg?width=140&quality=85&auto=format&fit=max&s=744d995d58988c52ead909ff3093a69d",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-wcastleunitedvliverpoolpremierleaguelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Newcastle United v Liverpool: Premier League – live",
+   "author": "Michael Butler",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
+   "paras": [
+    "⚽ Premier League updates from the 4.30pm (BST) kick-off ⚽ Live scores | Get the Football Daily email | Drop us a line",
+    "Delving into the Liverpool XI , there are two eye-catching selections.",
+    "Firstly, Rio Ngumoha: the 17-year-old looks like he is lining up on the right wing, with Cody Gakpo on the left. After Mo Salah’s departure, Liverpool have struggled to replace him during the transfer window, failing in their attempts to sign PSG’s Bradley Barcola and Brighton’s Yankuba Minteh (the Reds had a £50m bid for the latter turned down on Thursday). There is a real opportunity for Ngumoha to lay down a marker here and claim that spot for his own.",
+    "It’s a transition phase. It’s a huge challenge. There will be some activities – hopefully – in the transfer market in the next week. But we are going to go for it [today], we will go all in. As soon as I saw Lewis Miley on the pitch, I was falling in love. He had a brilliant training week, we have to see if he’s ready for 90 minutes."
+   ],
+   "img": "https://i.guim.co.uk/img/media/190f83ed96bf1b58b170d1b17359c8679900b1a8/261_0_2223_1779/master/2223.jpg?width=140&quality=85&auto=format&fit=max&s=71441c86d5178acae33314a0f7e857e7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-chsundaythesecrettoahealthierhappierlife",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Is a French Sunday the secret to a healthier, happier life? | Polly Hudson",
+   "author": "Polly Hudson",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/commentisfree/2026/aug/23/is-a-french-sunday-the-secret-to-a-healthier-happier-life",
+   "paras": [
+    "The idea of being deliberately unproductive is certainly tempting. The only concern is that you might enjoy it too much ...",
+    "They know what they’re doing when it comes to kissing, toast and horns, so get ready for a French Sunday. A new theory suggests that embracing this intriguing-sounding strategy might just be the secret to life, and, more importantly, to dreading Monday less.",
+    "Apparently in France the Sabbath really is a complete day of rest; not for the French any running of errands, cleaning or batch cooking. Rather than trying to do everything, they do nothing. And the hypothesis is that the French Sunday – or le dimanche français , as nobody is calling it – is transformative, and stamps out the Sunday Scaries for good."
+   ],
+   "img": "https://i.guim.co.uk/img/media/316fbd5e017bcc733de230e29c8c301d3596bed7/279_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=5c291521e3e9898bcb4785c94521adc5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26aug23jorjasmithwhataretheoddsinterview",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘So many people say things about my appearance – it’s not normal’: Jorja Smith on burnout, body-shaming and finding freedom",
+   "author": "Emma Loffhagen",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/music/2026/aug/23/jorja-smith-what-are-the-odds-interview",
+   "paras": [
+    "Being recognised by the Brits, Grammys and Drake made the singer one of British music’s most famous names – and also left her exhausted. Now, after decompressing in her home town she returns with a record made for raving",
+    "It is a sticky, sweltering July afternoon, and I have accidentally found myself at a wake with Jorja Smith. I’m told that the pub where we have met, in the leafiest part of leafy south-west London, is usually a safe bet for an inconspicuous table. But today, sweaty black suits carrying pints drift between tables, and long queues snake round the bar.",
+    "Dressed in a simple tank top, bare-faced with her hair scraped back, Smith is waiting for me when I arrive. “I’ve been waiting for my drink for ages,” she says. “But I feel bad saying anything because, you know …”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/a9c0e18c58371a206763a3c25dc9cfcd94d82ebd/41_0_4384_3508/master/4384.jpg?width=140&quality=85&auto=format&fit=max&s=64c62c286dd044ad76c00d0e968cf392",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-onzoneworkingothercitiescautiouscleanair",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
+   "author": "Fiona Harvey Environment editor",
+   "date": "2026-08-23",
+   "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+   "paras": [
+    "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against them",
+    "Ten years ago, Alastair Harper was an advocate for young people’s health sitting in a stuffy meeting room in London planning an air pollution campaign. “My phone started buzzing,” he said. “I took the call, and then told the room I needed to leave immediately.",
+    "“I had to get to UCLH [one of London’s major hospitals]. My own child was headed there in a blue-lit ambulance because she was struggling to breathe London’s toxic air.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/12cb31040c22f3b30a55b35e53b9d34f45b5ce0b/0_0_3291_2633/master/3291.jpg?width=140&quality=85&auto=format&fit=max&s=0d0016c2fd2ebc03a3c7dccde0ac7e8b",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescdj0j8enpzyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Police aborted pursuit about 10 seconds before fatal crash, watchdog says",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/news/articles/cdj0j8enpzyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Officers had been pursing a car before it went the wrong way down a dual carriageway."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e0e/live/11b179c0-9ebc-11f1-94b5-69fe6cc868f9.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescx272np7vgyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescy9w9y0lz5goatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "CrossCountry cancels 'almost all' UK services after power cut",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/news/articles/cy9w9y0lz5go?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Customers say the disruption to virtually all UK CrossCountry services is the \"worst case scenario\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8766/live/9b0d2440-9ef2-11f1-aed4-af6fe65bfcd6.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescwy4ypzvd7poatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescg5l53d2ejmoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "ECB investigating England bowler Brydon Carse for 'nightclub incident'",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cg5l53d2ejmo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The ECB is investigating after videos circulating online appear to show England bowler Brydon Carse being led away from a nightclub in handcuffs."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bc5/live/da4425d0-9f08-11f1-8ab2-7700e58d1417.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-deosc7vgvj6e1emoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Robot boxing, football and sprinting at World Humanoid Games",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e391/live/92249ee0-9eec-11f1-b109-879e35c24276.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-upandairtagleadstosecretbookscanningsite",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Amazon drones go national, inside Anduril’s Seattle buildup, and AirTag leads to secret book-scanning site",
+   "author": "Todd Bishop",
+   "date": "2026-08-22",
+   "url": "https://www.geekwire.com/2026/amazon-drones-go-national-inside-andurils-seattle-buildup-and-airtag-leads-to-secret-book-scanning-site/",
+   "paras": [
+    "This week on the GeekWire Podcast: Amazon’s delivery drones are going national, nearly 13 years after Jeff Bezos unveiled them on 60 Minutes. We listen back and discuss what’s next.",
+    "Plus: We go inside Anduril’s unmarked Bellevue office as the defense company builds toward 1,000 Seattle-area engineers; a reporter hides an AirTag in a rare book and tracks it to a secret Amazon book-scanning facility in Las Vegas; and an Anduril-themed trivia challenge.",
+    "Audio editing and production by Curt Milton.",
+    "The AirTag and the book-scanning facility",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-ndprioritizesvisionzeroacrossdepartments",
    "srcKey": "stb",
    "cat": "transit",
@@ -105,6 +492,40 @@
     "The changes outlined in this executive order will expedite the City’s efforts to reach Vision Zero by 2030. This strong initiative has largely been missing from political leaders for the past decade. SDOT has implemented a few city-wide policies as part of the effort to achieve Vision Zero. In 2019, leading pedestrian intervals became the default option for all new or updated traffic signals. The following year, the City reduced the speed limit on almost all arterial roads to 25mph. Since 2023, No Turn on Red signs have been added to hundreds of intersections and will be applied to all new or modified intersections. This policies have seen positive results, but are not sufficient to reach zero serious injuries and fatalities by 2030. With the addition of Mayor Wilson’s policies introduced yesterday, Seattle may be able to reach its goal in the next four years."
    ],
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_4662.jpg?resize=525%2C350&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-kingcountyemergencymotionrestoreroute372",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "King County Council Sets Aside Emergency Motion to Restore Route 372",
+   "author": "Ryan Packer",
+   "date": "2026-08-22",
+   "url": "https://www.theurbanist.org/king-county-emergency-motion-restore-route-372/",
+   "paras": [
+    "The King County Council ultimately did not consider an emergency ordinance put forward this week to retain King County Metro's Route 372 between the University of Washington and Bothell, a move made in response to rider concerns around degraded transit service if the route is retired as planned next Saturday. The ordinance, put forward by Councilmember Rod Dembowski, will instead be sent to committee for additional deliberation.",
+    "Advancing legislation directing changes to a specific bus route just 11 days before Metro's major fall service change was an extraordinary step for Dembowski to take, unprecedented in recent memory. If the ordinance had been adopted as written, it likely would have forced the state's largest transit agency to upend plans that had been in place for months, diverting operators from new routes that are planned to be launched in Northeast Seattle on August 29 back to 372 service – a very long and expensive route for Metro to operate.",
+    "Dembowski was responding to calls for a rethinking of the 372's retirement that have come from a broad array of groups, including the city councils in Bothell, Kenmore, and Lake Forest Park. The 372 is a highly used route, but most of the ridership occurs south of Lake Forest Park's city boundary at NE 145th Street, with riders in Lake City able to use the new Route 72 and 77 to access more destinations than they could previously.",
+    "The new routes comes at the cost of losing a one-seat-ride directly to the heart of the UW campus from Lake Forest Park, Kenmore and Bothell. In addition, issues have been raised about the loss of bus frequencies along Bothell Way north of NE 145th Street, and the transfer environment for riders changing buses at that specific intersection.",
+    "Anyone trying to switch between the new Metro Route 72 and Sound Transit's 522 – now set to terminate at the Shoreline South light rail station rather than Roosevelt – will have to cross the wide and dangerous state highway, or add time to their trip by transferring at the light rail station itself.",
+    "\"I've done a lot of service changes, and when you eliminate a route, it's usually not very popular. People don't like to see their routes go away, and sometimes it's hard to see the replacement routes. But this one has caused quite a bit of challenges,\" Dembowski said in explaining the ordinance's impetus Tuesday. \"I thought perhaps there might be, given the great interest in the route, a pause, an administrative pause, and they might need a legislative companion to endorse that.\"",
+    "A spokesperson for King County Metro told The Urbanist that an administrative pause was not planned.",
+    "\"Metro is moving forward with the planned route changes on Aug. 29. We are focused on helping riders and communities navigate the new changes including with updated customer information, rider alerts, street teams, and customer information sessions,\" Metro's Jeff Switzer said. \"There is no lost coverage as new routes replace Route 372, and there will be more service provided where the majority of ridership on the current Route 372 occurs.\"",
+    "Switzer provided screenshots of a travel time estimate provided by Google Maps, showing that a trip from UW Bothell to Stevens Way on the UW Seattle campus would actually be quicker with the new routing of the 522, going from around an hour exactly to 56 minutes.",
+    "Ultimately, Dembowski's ordinance looked to be more of a symbolic move than a real proposal.",
+    "\"I'm not asking for a vote here today because it's not practical the way we run routes. You know, routes are picked by our drivers. You've got to have the equipment to run it. There's a lot that goes into a service change, but I did want to take a few moments to just acknowledge that this is a difficult change for the community,\" Dembowski said.",
+    "Direct interventions by county councilmembers into routing decisions at Metro used to be much more common, but in recent years the council has largely deferred to the agency's planners, making decisions based on a set of adopted service guidelines. That technocratic shift cuts both ways. Some councilmembers have appeared frustrated when Metro officials point to the fact that route restructures are council-approved as a reason why their options to mitigate negative impacts are limited.",
+    "\"Changes to the 372 and associated routes went through years of community engagement, and the project’s Mobility Board - a group of residents who live, work, or travel in the project area – twice evaluated this route change at different phases of the planning and engagement process, selecting both times to replace Route 372 by creating the new 72 and combined service provided by Sound Transit Route 522/Stride, in order to use available public transit resources to address priority needs in these communities,\" Switzer said.",
+    "Riders in Lake Forest Park and Kenmore aren't the only ones that are set to see less transit service than they currently do after this month's restructure. On the Eastside, the problem may actually be more acute, with several areas no longer included in Metro's fixed route network in the wake of the full East Link Connections project, the second phase of which goes into effect next Saturday.",
+    "Hours before Dembowski's ordinance had been queued up, the county council's transportation committee discussed the receipt of a new report outlining the gaps created by that restructure, which reoriented bus service around new light rail stations in Mercer Island, Bellevue, and Redmond. The report, requested by Claudia Balducci via the county budget and delivered in April, ultimately confirmed that riders in the Woodridge, Crossroads, and BelRed areas of Bellevue have been shortchanged by the bus routing changes.",
+    "Next week, riders around Eastgate who are able to catch buses to Downtown Bellevue or Eastgate Park and Ride will also be included in that list with the elimination of the Route 271.",
+    "\"What [East Link Connections] ultimately did [...] is dramatically improved frequencies around and to the light rail in certain corridors, increased service geography. It spread out service to new areas that hadn't received service before. But what we also did was we unintentionally created several new transit deserts, mostly in East Bellevue, which is one of the highest equity score areas in all of East King County, and that can't be what this was about,\" Balducci said this week. \"This was about the introduction of major new transit service and how we were going to make that work best for the riders in that area.\"",
+    "The common thread between Lake Forest Park and Bellevue is a transit agency dealing with resource constraints when designing route restructures. This can cause a negative feedback loop where Metro isn't able to fully provide transit access or proper frequencies, depressing ridership and leading to decisions to reallocate service elsewhere.",
+    "While the pending network changes will add frequency and create new direct connections that will help countless riders access their destinations, the gaps that are being created also deserves attention – but probably not in the form of an ordinance blowing up a network restructure a week-and-a-half before it's set to be implemented."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20260727_172659-EDIT--1-.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -155,250 +576,6 @@
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/Seattle-Skyline-view-from-Jose-Rizal-Park---Trumm-PXL_20250105.jpg",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-2theroundupcanabashmakerainierbeachsafer",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Can a Bash Make Rainier Beach Safer?",
-   "author": "",
-   "date": "2026-08-22",
-   "url": "https://southseattleemerald.org/newsletters/2026/08/22/the-roundup-can-a-bash-make-rainier-beach-safer",
-   "paras": [
-    "This week, I want to talk about a topic that's always top of mind in Seattle politics: public safety.",
-    "But I want to do it in a different way. I don't want to have the conversation from the lens of policing, city budgets, or security cameras — which have had a lot of time in the news this week. I want to do it from the perspective of a longtime grassroots nonprofit — a Rainier Beach organization that does work that sometimes doesn't even look related to public safety, yet through community activations, volunteer efforts, and events, it's on the ground every day making the neighborhood safer.",
-    "Here’s what you need to know: Rainier Beach Action Coalition, better known as RBAC, is hosting its 23rd annual Back2School Bash this Saturday at the Rainier Beach Community Center.",
-    "Here’s why it's important: On its face, this event is a place for kids in the South End (and beyond) to get free backpacks and school supplies for the upcoming school year. And at the event, kids will get necessary items to set them up for September. However, the roots of the event go deeper than easing the financial burden of families.",
-    "RBAC founder and managing strategist Gregory Davis, a man known in the neighborhood as \"the mayor of Rainier Beach,\" explained how in 2010 he reviewed a study by a group of University professors about high-crime areas in Seattle.",
-    "\"The data showed that 50% of the crimes were at 5% of the places,\" said Davis. \"The theory was, if we activate those 5%, will that decrease the incidents by 50%?\"",
-    "Davis took the data one step further. RBAC put an overlay of the data on Rainier Beach and then activated the five locations in the neighborhood that had the highest incidents of youth crime, starting with its corner greeting program, which led to a decrease in incidents at those locations.",
-    "This week, I spoke with Davis as well as RBAC Continuous Quality Improvement Specialist Safiyat Bayo, who co-produced the Back2School Bash with Davis. We discussed the event, what it means to the community, and how hosting these types of programs promotes public safety.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: This is the 23rd year of the Back2School Bash. That's a long legacy. Over the years, how have the needs of the community changed, and how has the event pivoted to meet them?",
-    "SB: I went to a lot of the South End schools. I attended Graham Hill Elementary, Aki Kurose Middle School, and Rainier Beach High School. I think things really changed when I started going to Rainier Beach. There needed to be space for youth to be present, for youth to be heard, thought of, considered. Throughout my years of high school, there has been a lot of gun violence. I've lost many classmates to gun violence. There wasn't a year where someone didn't pass away from gun violence, so in terms of how the needs of the community have changed, a lot of young lives are being lost. I feel like here at RBAC, the youth are a part of that change. Here is where youth realize they have a voice and can make change. The needs of the community have changed with a lot of deaths that have happened in recent years.",
-    "MD: I have a follow-up on that thought. I know the event is about giving kids school supplies, but hearing what you just said, what else do you hope they can take with them?",
-    "SB: A sense of community. They know they can come together and enjoy the event. They know they can get supplies for themselves, for their siblings, for other family members that they have. Knowing they can make positive memories in the Rainier Beach Community Center Plaza.",
-    "GD: When we did the public safety town hall, the young people led that event. One of the workshops was asking the folks where they had positive activities in the neighborhood, and they charted the answers on a map. We had 60 contributions, and they charted a different narrative of the neighborhood. So the Rainier Beach Community Center Plaza, as much as what has happened around it, it is still seen as a place for gathering and a place for safety.",
-    "MD: That's a good point. What role do events like the Back2School Bash play in community safety?",
-    "GD: In 2010, we looked at a study that George Mason University did on the city of Seattle. It was looking at community safety and incidents that contributed to youth crime or adult crime by street segment, and the data showed that 50% of the crimes were at 5% of the places. The theory was, if we activate those 5%, will that decrease the incidents by 50%? We saw an overlay of that concept on Rainier Beach.",
-    "We asked them to find the five locations in the neighborhood that had the highest incidents of youth crime. It was the light rail station, Rainier and Henderson, Rose Street, the Lake Washington Apartments, and Safeway. We found the time of day and the day of week that those incidents happen at the highest rate, and we sought to activate those spaces at those given times.",
-    "The incidents at those locations decreased by 40% the first year, and then held over the last 10 years, at about 30% to 40%. So the science says that when you activate a space, it contributes to the reduction of incidents that create youth crime. So that's how an event like the Back2School Bash will contribute to public safety.",
-    "Public safety has been a major talking point in Seattle forever . Or at least for my entire adult life. Councilmember Eddie Lin has proposed a solution. It comes with a $500,000 price tag.",
-    "The corner of 23rd and Jackson used to be a community hub (I know, this is the Central District, but a lot of us Black South Enders have roots here). Recently, it has only made headlines for closures, with Starbucks' exit being a major blow. For years, we've heard rumors a cafe would return. Now, it may actually be happening.",
-    "From good eats to hair care, here are seven Rainier Beach businesses you should know about.",
-    "The Emerald will be tabling, so be sure to come say hello. This is a free community celebration in Columbia Park with live entertainment, activities for kids, and community resources, including free art supplies and groceries.",
-    "The film follows a 19-year-old Anthouny Bourdain as he goes on a chaotic adventure in Provincetown, a summer that sets the course for the rest of his life.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-08-22/7xyfk238/Do-Community-Events-Keep-Us-Safe.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nionmrrogerskeepsfindinganewneighborhood",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
-   "author": "Scott Simon",
-   "date": "2026-08-22",
-   "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
-   "paras": [
-    "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
-    "(Image credit: Duane Burleson/Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3425x2284+0+0/resize/3425x2284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2Fae%2Fe3d4783f448881c90fff4f3419f1%2Fgettyimages-2290067647.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nprorg20260822nxs15941584uscanadatariffs",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "U.S.-Canada trade talks collapse just before deadline for tariffs",
-   "author": "Miguel Macias",
-   "date": "2026-08-22",
-   "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-   "paras": [
-    "The midnight deadline means the U.S. has imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada \"will match those tariffs dollar for dollar.\""
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2523x1682+0+0/resize/2523x1682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F15%2Fc487165c448d8e4448e1b79c9afc%2Fap26234112017787.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescx272np7vgyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Canadian PM calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-   "author": "",
-   "date": "2026-08-22",
-   "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa9/live/22262a40-9e43-11f1-bb45-576721ee33bb.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc39egw7nmk2oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-   "author": "",
-   "date": "2026-08-22",
-   "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc0l5d387j18oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-   "author": "",
-   "date": "2026-08-22",
-   "url": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "They will not be working royals when they come back. So what could they be doing instead?"
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deoscgljl9zp47xoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-   "author": "",
-   "date": "2026-08-22",
-   "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "An android at China's World Humanoid Robot Games ran faster than Bolt's world record, smartphone maker Honor says."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ac/live/3db82360-9e31-11f1-b109-879e35c24276.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026aug22princeharrymeghanamericandream",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Is this the end of Harry and Meghan’s American dream?",
-   "author": "Michael Savage Media editor",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
-   "paras": [
-    "The Sussexes are returning to the UK with significantly reduced media deals in an industry where fame alone can no longer guarantee success",
-    "Having settled in California in the aftermath of their dramatic decoupling from the royal family in 2020, the Duke and Duchess of Sussex announced a partnership that appeared to set a clear destination for their new lives outside the House of Windsor.",
-    "With every global media stable clamouring for their signature, the couple revealed a deal with Netflix reportedly worth $100m . The ambitions were lofty and broad, including scripted and unscripted projects, shows for all ages and documentaries."
-   ],
-   "img": "https://i.guim.co.uk/img/media/31ead7211ce19532d42e165c485eb0cb3d6691c2/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c10e61a4968a54209aed2f2682a69d9f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-attorneygeneraltoddblancheabortionrights",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Trump’s new attorney general poses a huge threat to abortion rights | Moira Donegan",
-   "author": "Moira Donegan",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/22/trump-attorney-general-todd-blanche-abortion-rights",
-   "paras": [
-    "A call revealing Todd Blanche’s plans to crack down on mifepristone lays bare the danger",
-    "The abortion pill is a miracle. Mifepristone, then called RU-486, was synthesized by a French lab in the 1980s; in combination with misoprostol, commonly used as ulcer medication, it cuts off the body’s supply of progesterone, halts the development of a pregnancy, and incites contractions, which empty the uterus. The drug allows pregnancies to be terminated with a shocking degree of reliability and ease. Gone are the concoctions of ergot and Spanish Fly dispensed by 19th century midwives, which only sometimes worked to induce a miscarriage; gone are the backroom procedures of the pre-Roe US, when drunk, lascivious, incompetent or cruel providers wielded bent coat hangers in dirty rooms. The abortion pill is safe, effective and cheaper than ever. And since Dobbs, it’s everywhere: even if you live in a state with an abortion ban, you can get the pills shipped to your house in the mail. Since Roe was overturned, there has not been a return to the terror of mass death that marked the pre-Roe era of septic abortion wards, where women routinely found themselves maimed, sickened or killed. There’s exactly one reason why: because illegal abortions were largely unsafe without the pill, and they are extremely safe with it.",
-    "So of course, the Trump administration and their allies on the American right are trying to get rid of it. And this month, they gained a powerful new ally when Todd Blanche, Donald Trump’s former personal lawyer and an anti-abortion zealot, was confirmed as attorney general."
-   ],
-   "img": "https://i.guim.co.uk/img/media/b07376195c8112a8aa1cd63eafc2bab0fe957933/245_0_3289_2632/master/3289.jpg?width=140&quality=85&auto=format&fit=max&s=a76ac86e534966355c30c2d29017ea40",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-uturepleasurewellnessfadsweightlossdrugs",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs?",
-   "author": "Words: Kitty Drake. Photographs: Christian Sinibaldi",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
-   "paras": [
-    "As fitness-conscious consumers turn away from processed foods, the industry is scrambling for new ideas, including nutrient-rich lollies and protein-packed tubs. Will they take the fun out of this summer treat?",
-    "Last month, I stood in the biggest ice-cream factory in Britain and watched a 5-metre Viennetta mint-flavoured ice-cream cake get made. The factory – which is owned by the Magnum Ice Cream Company and produces nine different brands of ice-cream – is based in an enormous building in Gloucester, where the air is thick with the scent of custard. I walked past the Twister and Solero sections on my way in, through clouds of tangy fruit, before arriving at the Viennetta assembly line, where everything smelled minty fresh. A Viennetta is built on a conveyor belt by a fully automated system, and watching it take shape was oddly hypnotic. Every few inches a nozzle attached to the belt squirted out a frilly layer of mint ice-cream, then another nozzle smoothed a flat layer of vanilla on top of that, then came a squirt of chocolate sauce, and it was back to frilly mint again. On and on it went, layer upon layer, popping out finished Viennettas at the end of the line at a rate of 200 cakes every 60 seconds.",
-    "A slop bucket full of Viennetta overrun stood at the side of the conveyor belt and I fought a strong urge to squelch my fingers into it. Later, the factory operations manager allowed me to push my whole hand into the slop bucket up to the wrist and then lick my hand at a sink, before washing it and resuming the tour."
-   ],
-   "img": "https://i.guim.co.uk/img/media/66171c120cef67f9aadf53fb089b157cc380a519/0_1781_5198_4158/master/5198.jpg?width=140&quality=85&auto=format&fit=max&s=528b96d40dd14f44e60a4ba8f7a0c231",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-g22sicilyitalybridgeplansstraitofmessina",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "A bridge too far? Why link to Sicily is still a dream despite 2,000 years of plans",
-   "author": "Lorenzo Tondo in Torre Faro, Messina",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/world/2026/aug/22/sicily-italy-bridge-plans-strait-of-messina",
-   "paras": [
-    "Roman dream of building structure over strait of Messina has been revived by officials, despite claims it is unworkable and protests from locals",
-    "For more than 2,000 years, it has been an obsessive dream: a plan to link the Mediterranean Sea’s largest island to mainland Italy. It began with the Romans, who, according to Pliny the Elder, built a bridge of boats and barrels across the strait of Messina in 251BC to transport 140 war elephants captured from the Carthaginians.",
-    "Centuries later, the fascist dictator Benito Mussolini embraced the same vision, followed by rightwing prime minister Silvio Berlusconi, who made the bridge a flagship project. Then, in 2022, after being appointed Italy’s infrastructure minister, Matteo Salvini revived the mythic ambition , claiming that the ferry crossings “cost people more in a year than it would cost to build the bridge”."
-   ],
-   "img": "https://i.guim.co.uk/img/media/700fad90cfbd38076473ed35482255ba590aa6ce/0_0_2880_2304/master/2880.jpg?width=140&quality=85&auto=format&fit=max&s=4d322a1661f7a65138b3118bdd28921c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-mlifeandstyle2026aug22blinddatepetesusan",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Blind date: ‘There was a mature, polite peck on departure at a busy Manchester Piccadilly station’",
-   "author": "Guardian Staff",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/aug/22/blind-date-pete-susan",
-   "paras": [
-    "Susan, 74, a retired careers adviser, meets Pete, 72, a retired Methodist minister",
-    "What were you hoping for? A relaxed, friendly lunch with good and fun conversation."
-   ],
-   "img": "https://i.guim.co.uk/img/media/2fc3fe7b63d23c546e933fb0140e8724a35c5364/98_0_4855_3884/master/4855.png?width=140&quality=85&auto=format&fit=max&s=ab1a6a8ec3611c018401de526326559e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-dadhdandchildbirthandseventhingsilearned",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘My ability to cope was unravelling’: how I navigated ADHD and childbirth – and seven things I learned",
-   "author": "Sarah Marsh",
-   "date": "2026-08-22",
-   "url": "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned",
-   "paras": [
-    "Neurodivergence can make an already challenging process far trickier — and in the UK support isn’t automatically available. A new book aims to help mothers prepare",
-    "It’s 7am in a postnatal ward. I’ve been brought here having given birth around four hours earlier. I’m hot and have not slept since arriving at the hospital at 9pm for an induction, only to go into labour spontaneously before it could begin. All around me is incandescent hospital light and the sound of crying newborns. This would be challenging enough for someone who isn’t neurodivergent, but coupled with my attention deficit hyperactivity disorder (ADHD) I could feel my ability to cope unravelling.",
-    "I remember looking around, crying, unable to shut off the noise in my brain. “What if I don’t ever sleep again,” the little voice asked. I shut my eyes and the noise grew. Then there was my newborn son, lying next to me in a cot, and the fact that I had absolutely no idea how to look after him. I pressed the emergency buzzer and told the midwife who arrived that I could not breathe and needed to be discharged immediately. She said they couldn’t do that because I was under the mental health team and needed to speak to them first. I cried more."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3ef912e3cddbb51aad780d021a1c0fbd34aa583a/312_0_9375_7500/master/9375.jpg?width=140&quality=85&auto=format&fit=max&s=4432e1b231d29a41004e72defba9333c",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -498,22 +675,73 @@
    "annos": null
   },
   {
+   "id": "f-npr-941765trumpimmigrationvisaban75countries",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump administration's 75-country visa ban was illegal, judge rules",
+   "author": "Michael Copley",
+   "date": "2026-08-22",
+   "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+   "paras": [
+    "The U.S. stopped issuing visas for citizens of 75 countries because it said they were likely to need public assistance. A judge ruled the policy illegally discriminated on the basis of nationality."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8023x5348+0+0/resize/8023x5348!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc6%2F5d%2Fa89f809d4a75a3f216dfcc2ecc60%2Fap26084563885466.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nionmrrogerskeepsfindinganewneighborhood",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Opinion: Mr. Rogers keeps finding a new neighborhood",
+   "author": "Scott Simon",
+   "date": "2026-08-22",
+   "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
+   "paras": [
+    "MLB catcher Jake Rogers probably didn't know if he was coming or going the last several weeks: he's been a Detroit Tiger, a Baltimore Oriole, a Boston Red Sox, and now he's a Chicago White Sox.",
+    "(Image credit: Duane Burleson/Getty Images)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3425x2284+0+0/resize/3425x2284!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2Fae%2Fe3d4783f448881c90fff4f3419f1%2Fgettyimages-2290067647.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-446flockfalloutcompetitorsseeopportunity",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "As Flock battles public scrutiny, other police surveillance companies see an opening",
+   "author": "Jaclyn Diaz",
+   "date": "2026-08-22",
+   "url": "https://www.npr.org/2026/08/22/nx-s1-5931446/flock-fallout-competitors-see-opportunity",
+   "paras": [
+    "Dozens of cities have canceled their contracts with Flock. Some are switching to other companies, but privacy experts say they're no better than Flock."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7621x5182+0+0/resize/7621x5182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F2d%2F04a3bf1644f79d3e3d92152ed94c%2Fgettyimages-2291174805.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-cludingtechrolesasrestructuringwindsdown",
    "srcKey": "geekwire",
    "cat": "tech",
-   "title": "Starbucks cuts another 224 Seattle jobs, including tech roles, as restructuring winds down",
+   "title": "Starbucks lays off 224 workers tied to Seattle HQ, including tech roles, as restructuring winds down",
    "author": "Todd Bishop",
    "date": "2026-08-21",
    "url": "https://www.geekwire.com/2026/starbucks-cuts-another-224-seattle-jobs-including-tech-roles-as-restructuring-winds-down/",
    "paras": [
-    "Starbucks is eliminating 224 more jobs at its Seattle headquarters, according to a new state filing. The coffee giant says the layoffs don’t represent a new round of cutbacks, but rather the lingering effect of restructuring work announced earlier this year.",
+    "Starbucks is laying off 224 more workers tied to its Seattle headquarters, according to a new state filing. The coffee giant says the layoffs don’t represent a new round of cutbacks, but rather the lingering effect of restructuring work announced earlier this year.",
     "About 120 of the 224 are employees who were offered roles in Starbucks’ new Nashville office and declined to relocate, according to the filing. Those roles are expected to be filled in Tennessee.",
     "The remaining 104 in the notice filed Thursday stem from the restructuring that Starbucks announced in May , and fall largely within the group that designs, sites and builds its coffeehouses.",
+    "Not all 224 are based in Seattle. The filing covers employees who work at or report to Starbucks’ headquarters at 2401 Utah Ave. S., so some are located elsewhere in the country while reporting to managers at the Seattle campus. Starbucks did not say how many are based in Washington state.",
     "The reductions are part of the “Back to Starbucks” turnaround CEO Brian Niccol launched after taking over in September 2024 — an effort that has paired store-level technology upgrades and a simplified menu with a restructuring of the company’s corporate ranks.",
-    "Starbucks has now eliminated 537 corporate jobs tied to its Seattle headquarters this year, across three state filings: 61 tech roles in May, 252 support center jobs later that month, and the 224 disclosed this week across tech and store development positions.",
+    "Starbucks has now laid off 537 corporate workers tied to its Seattle headquarters this year, across three state filings: 61 in a tech reorganization in May, 252 at the support center later that month, and the 224 disclosed this week.",
     "Starbucks is targeting $2 billion in cost reductions over two years under Niccol, and has shed more than 2,300 corporate jobs companywide since last year, according to Bloomberg .",
     "At the same time, Starbucks is building out its Nashville office, a $100 million investment expected to house 2,000 support jobs within five years. The company has said the majority of its corporate teams will remain in Seattle.",
-    "The design and development cuts come later than the rest of the May restructuring because the executive who leads the group, Stephen Piacentini, joined Starbucks from Chipotle in April , and the organizational changes in his group weren’t finalized when the May restructuring was announced."
+    "The design and development cuts come later than the rest of the May restructuring because the executive who leads the group, Stephen Piacentini, joined Starbucks from Chipotle in April , and the organizational changes in his group weren’t finalized when the May restructuring was announced.",
+    "Editor’s note: This story has been updated to clarify that the 224 workers covered by the filing report to Starbucks’ Seattle headquarters but not all are based in Seattle."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2025/02/starbucks-1260x945.jpg",
    "fetched": true,
@@ -644,68 +872,6 @@
     "“Batteries are such a huge thing,” he said, pointing to the body armor. “If you put the three of them together… you can start to get rid of stuff. You take what was historically three separate heavy things and turn it into one software-enabled platform.”"
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/anduril-glasses-1260x945.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-navyprogramandomissionfromnewwarshiplist",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Anduril exits Seattle shipyard following canceled Navy program and omission from new warship list",
-   "author": "John Cook",
-   "date": "2026-08-21",
-   "url": "https://www.geekwire.com/2026/anduril-exits-seattle-shipyard-following-canceled-navy-program-and-omission-from-new-warship-list/",
-   "paras": [
-    "Defense technology giant Anduril Industries has quietly vacated its maritime operations along Seattle’s Lake Washington Ship Canal.",
-    "The exit, confirmed by the company to GeekWire this week, comes after the U.S. Navy canceled the specific unmanned vessel acquisition program Anduril was pursuing at the historic former Foss Maritime shipyard site.",
-    "“Anduril has moved out of its shipyard space in Seattle,” a spokesperson said in a statement. “The space supported a Navy program pursuit; the Navy canceled that program, and the shipyard footprint was no longer needed. The Seattle shipyard presence was always small — a handful of employees worked from the space. Anduril’s broader Seattle footprint continues to grow across its other offices in the city.”",
-    "The disclosure provides a sudden plot twist in a maritime push that GeekWire first reported on in April , after Anduril established a presence at the Foss shipyard. At the time, the company offered a muted response when pressed for specifics about its local shipyard activities.",
-    "The plans went back to late 2025, when Anduril announced a major partnership with South Korea’s HD Hyundai Heavy Industries.",
-    "The companies set out to build a new class of dual-use Autonomous Surface Vessels designed to compete for the Navy’s Modular Attack Surface Craft (MASC) program, which sought unmanned vessels capable of carrying large payloads over long distances.",
-    "At the time, Anduril pitched the Pacific Northwest as the ideal industrial launchpad, pointing to the region’s historic shipbuilding roots.",
-    "“Anduril has invested tens of millions of dollars to revamp a previously retired shipyard in the Pacific Northwest region at the historic former Foss Shipyard in Seattle, Washington,” the company said during the partnership rollout. “This facility will serve as Anduril’s initial U.S. hub for low-rate vessel assembly, integration, and testing of ASVs for the MASC program.”",
-    "That vision, however, was quickly upended. The U.S. Navy canceled the MASC initiative in March, replacing it with a new acquisition strategy for Medium Unmanned Surface Vessels, or MUSVs.",
-    "Rather than relying on a traditional program competition, the new marketplace allows the Navy to evaluate autonomous vessels through at-sea demonstrations, with successful systems eligible for follow-on production.",
-    "When the Department of the Navy announced the seven defense vendors selected to move forward in the new program, the lineup included defense contractors like Leidos, Huntington Ingalls Industries, Saronic Technologies and Sea Machines — leaving Anduril off the roster for initial testing.",
-    "Companies that successfully deploy vessels at sea will receive $15 million, and be eligible for follow-on production. At-sea testing was set to start in June, and is expected to conclude in October.",
-    "Anduril did not respond to additional questions about the Foss facility, its maritime operations in the Seattle area or its plans for the Navy’s new MUSV program.",
-    "Despite vacating its shipyard presence, Anduril’s broader push into Western Washington remains on a steep upward trajectory. The Costa Mesa, Calif.-based company employs 560 people across its Bellevue and downtown Seattle offices — up from roughly 30 four years ago — and operates a multi-acre military testing facility in rural Carnation, Wash.",
-    "The high-flying defense giant, which closed a $5 billion funding round at a $61 billion valuation earlier this year and is reportedly targeting a $100 billion valuation in a new funding round, is rapidly building a massive engineering footprint in the greater Seattle region.",
-    "Senior Vice President Tom Keane told GeekWire the company could eventually grow its regional workforce to 1,000 people, including engineers working on augmented reality displays, edge computing hardware and other military technologies.",
-    "Anduril’s rapid expansion in the region is the subject of a separate profile story today on GeekWire."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/anduril-foss-1260x825.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-hedtechtalentrankingwithsomewarningsigns",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Seattle keeps No. 2 spot in closely watched tech talent ranking, with warning signs",
-   "author": "Todd Bishop",
-   "date": "2026-08-21",
-   "url": "https://www.geekwire.com/2026/seattle-keeps-no-2-spot-in-closely-watched-tech-talent-ranking-with-some-warning-signs/",
-   "paras": [
-    "The Seattle region outranked New York, Austin, Boston and other tech hubs, trailing only the Bay Area, in an annual tech talent scorecard from commercial real estate firm CBRE that weighs factors such as tech worker concentration, wages, education levels and real estate costs.",
-    "You may have seen headlines this week that New York overtook the Bay Area for the first time in the CBRE rankings. That was based on a subset of the data: a straight head count in each market. New York’s 394,300 tech workers topped the Bay Area’s 375,730. Seattle ranks seventh on that specific list, with 213,010 tech workers across the region.",
-    "But in the broader scorecard, Seattle held onto the No. 2 spot (which it also occupied last year), thanks to the density of its tech workforce, one of the largest concentrations of AI talent in North America, and the second-highest tech wages on the continent.",
-    "The market-by-market workforce figures in the report run through 2025, so this year’s layoffs aren’t reflected in the rankings. CBRE does flag the trend nationally: the tech industry accounted for a record 31% of all U.S. job cuts through June, up from 13% for all of last year.",
-    "Some of the Seattle region’s specific strengths:",
-    "The AI workforce is deep. Seattle is home to 41,591 workers with AI skills, third most in North America, behind the Bay Area and New York. One in five of the region’s tech workers now has AI skills — a higher share than anywhere except the Bay Area.",
-    "Tech is a bigger part of the economy here. Tech jobs make up 10.2% of all employment in the metro area, among the top five markets and nearly double the 5.5% average across the 50 markets studied in the CBRE report.",
-    "Wages are in a tier of their own. Seattle’s average wage for tech workers at tech companies was $190,050 in 2024, second to the Bay Area’s $211,048, and nearly $50,000 above third-place Boston.",
-    "The workforce grew while the Bay Area’s shrank. Seattle added 24,590 tech jobs from 2022 to 2025, a 13.1% increase and the fifth-largest gain of any market. The Bay Area lost 23,900 jobs over the same time period.",
-    "However, the report also points to warning signs:",
-    "Many offices are sitting empty. The Seattle metro area’s office vacancy rate hit 28.6% in the fourth quarter of 2025 — the highest of the 50 markets in the report. That’s despite 1.9 million square feet leased by AI companies across the region since 2023, according to CBRE.",
-    "Costs are near the top. Seattle is the third-most-expensive place to run a 500-person tech company, at $73.9 million a year in wages and office rent, behind the Bay Area at $90.6 million and slightly behind New York, which edged Seattle by about $24,000.",
-    "Young workers are going elsewhere. Seattle’s 20-something population fell between 2019 and 2024, even as its share of 30-somethings grew to the highest of any market in the report. The region is drawing mid-career but not entry-level talent, which risks creating a thinner pipeline over time.",
-    "One counterweight to the pipeline concern: the University of Washington ranks fifth among U.S. universities for its AI program, according to CBRE’s analysis of U.S. News & World Report rankings — the only school outside the Bay Area, Boston and Pittsburgh in the top five.",
-    "Access the full CBRE Scoring Tech Talent 2026 report here ."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/20200101_Space_Needle_New_Year_236.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1047,153 +1213,6 @@
    "annos": null
   },
   {
-   "id": "f-npr-rainrotmemescopyrightspydertungtungsahur",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A battle over 'Italian brainrot' could shape who owns AI art",
-   "author": "Geoff Brumfiel",
-   "date": "2026-08-21",
-   "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
-   "paras": [
-    "A legal battle over what looks like a cartoon stick could help set the rules over whether creators can claim ownership of their AI-generated characters."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F75%2F30399660481c98a69fd03025dc83%2F2026-08-ai-videogames2.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-umpsballroomconstructiontocontinuefornow",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-   "author": "Deepa Shivaram",
-   "date": "2026-08-21",
-   "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-   "paras": [
-    "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3282x2188+0+0/resize/3282x2188!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F03%2F39%2Fbaf95df7468a886395b307e66136%2Fgettyimages-2242668198.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-5940799kennedycenterpresidenttrumpfiling",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-   "author": "Anastasia Tsioulcas",
-   "date": "2026-08-21",
-   "url": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-   "paras": [
-    "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump's name up in three places at the arts complex."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5869x3912+0+0/resize/5869x3912!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa6%2Fdb%2F1ec2fda94e569180f9edb33131fa%2Fgettyimages-2283268569.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-21nxs15940610iranusthreateconomicwarfare",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-   "author": "NPR Staff",
-   "date": "2026-08-21",
-   "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-   "paras": [
-    "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F1d%2Fd4b7c00c49eb8088a4e7decd6ac0%2Fap26232551199754.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-WOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtBoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday",
-   "author": "",
-   "date": "2026-08-21",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVFLdTRtUHRjRHNaMk9aU2dyVEkzSXdEeENPVEZqZjFFZkJvaUM1NlptaExpUWtlN18yTTJwNm9PR3lYTTZESWlYZ2FNZWkteVEtTWJTY1dYbHNpaE1razRlUVhtbTQyV3FRVVNDcTQwZE9SR21WV0hQQU1KX01EWlRNMG55dG5NcUZWOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtB?oc=5",
-   "paras": [
-    "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-VeWt0LUlLNkc2VWxlV3g4d20tWG9YX2lzdU0woc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Watchdog data shows higher WA child welfare deaths than previously reported",
-   "author": "",
-   "date": "2026-08-21",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTJSYXBpMUpGYmJPbnhwM2E4S2QzcDdoNjdaLXBVV3FPV3Q2WksxczN4cEF2aUdoUGVybUNqaGdTcW8yb0NjcnIyVF9WX0dnR19Wb1N4SWR5Zkw2VXlHLXJCb2JfdjFiWE91dkJHOUc3aGltVmN3eHdmU3BtMER6Wl9ZdkRyQ3ZCODdSb3NRZS1tcVBVOWFMZ2RfSTk4dzNVeWt0LUlLNkc2VWxlV3g4d20tWG9YX2lzdU0w?oc=5",
-   "paras": [
-    "Watchdog data shows higher WA child welfare deaths than previously reported KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-gxUG1YdWhkVjM4SkxLdXlqNkg5VEhjX2NlZVQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "New book details how an Oregon family 'stole' Korean children for decades",
-   "author": "",
-   "date": "2026-08-21",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjVkU21WWUY4dkxvcEd1azVQZHF4Uk5uRW5RbkdEZnA4UFBCRV96Nms3T3pMMUJ5VTRCZHM1Ym43MVpWV0o0R1hNUE96SEhUWGNJZnRGZWdNdjM4a3dWMjZmMjI0emlQRGVYSTdHSnRUS3lHVlpveXRJeTVmeTNqTGt0NS1aX2ZzUFZ5RUZET3czNnNwQVJiX2p4TkxPWnA4ZXJfQTgxUG1YdWhkVjM4SkxLdXlqNkg5VEhjX2NlZVQ?oc=5",
-   "paras": [
-    "New book details how an Oregon family 'stole' Korean children for decades KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescg5l3z7p922oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "How this 1960s ex-council house is managing to stay cool without air con",
-   "author": "",
-   "date": "2026-08-21",
-   "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/18d84ae0-9d62-11f1-a979-27696fc3a013.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc70gy180e8loatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "More students planning to live at home for university over 'insane' living costs",
-   "author": "",
-   "date": "2026-08-21",
-   "url": "https://www.bbc.co.uk/news/articles/c70gy180e8lo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Students like Jessica say they worry about missing out on student life, but feel they have no choice but to stay at home."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/f132db30-97db-11f1-bb4c-d758974ed97b.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-conversation-wstudyshowsurbanseismologyinaction289961",
    "srcKey": "conversation",
    "cat": "national",
@@ -1455,6 +1474,57 @@
    "annos": null
   },
   {
+   "id": "f-kuow-WOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtBoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday",
+   "author": "",
+   "date": "2026-08-21",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVFLdTRtUHRjRHNaMk9aU2dyVEkzSXdEeENPVEZqZjFFZkJvaUM1NlptaExpUWtlN18yTTJwNm9PR3lYTTZESWlYZ2FNZWkteVEtTWJTY1dYbHNpaE1razRlUVhtbTQyV3FRVVNDcTQwZE9SR21WV0hQQU1KX01EWlRNMG55dG5NcUZWOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtB?oc=5",
+   "paras": [
+    "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-VeWt0LUlLNkc2VWxlV3g4d20tWG9YX2lzdU0woc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Watchdog data shows higher WA child welfare deaths than previously reported",
+   "author": "",
+   "date": "2026-08-21",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTJSYXBpMUpGYmJPbnhwM2E4S2QzcDdoNjdaLXBVV3FPV3Q2WksxczN4cEF2aUdoUGVybUNqaGdTcW8yb0NjcnIyVF9WX0dnR19Wb1N4SWR5Zkw2VXlHLXJCb2JfdjFiWE91dkJHOUc3aGltVmN3eHdmU3BtMER6Wl9ZdkRyQ3ZCODdSb3NRZS1tcVBVOWFMZ2RfSTk4dzNVeWt0LUlLNkc2VWxlV3g4d20tWG9YX2lzdU0w?oc=5",
+   "paras": [
+    "Watchdog data shows higher WA child welfare deaths than previously reported KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-gxUG1YdWhkVjM4SkxLdXlqNkg5VEhjX2NlZVQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "New book details how an Oregon family 'stole' Korean children for decades",
+   "author": "",
+   "date": "2026-08-21",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjVkU21WWUY4dkxvcEd1azVQZHF4Uk5uRW5RbkdEZnA4UFBCRV96Nms3T3pMMUJ5VTRCZHM1Ym43MVpWV0o0R1hNUE96SEhUWGNJZnRGZWdNdjM4a3dWMjZmMjI0emlQRGVYSTdHSnRUS3lHVlpveXRJeTVmeTNqTGt0NS1aX2ZzUFZ5RUZET3czNnNwQVJiX2p4TkxPWnA4ZXJfQTgxUG1YdWhkVjM4SkxLdXlqNkg5VEhjX2NlZVQ?oc=5",
+   "paras": [
+    "New book details how an Oregon family 'stole' Korean children for decades KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-60820fall2026servicechangeeastkingcounty",
    "srcKey": "stb",
    "cat": "transit",
@@ -1635,23 +1705,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-uMEdscnFIXzJyUXA4cGFvcUptVWlpSzc0YmE5oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "More than half of 224 laid off from Starbucks refused to relocate to Nashville",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPb1dYWGN4dVloMWtkQ242YU1MQ195ZFBrTXc4bmpSek9zWDZhNU5qRTFqYUg2LU03SnZpN1FZMGNCMTlYTnlucHZZUEpVcnJ1ak9lNXJLbmZ3YUxseU1Lamh5eV9ZSWpCUzdKZlNLXzhIM1Y1N0h3Y0JFRktsRG5lWUpTQXhoYWcwX1RPNWVZNkFVOFdBbzhLRlFiVEpWR3hzYTB5SXZYUnluMEdscnFIXzJyUXA4cGFvcUptVWlpSzc0YmE5?oc=5",
-   "paras": [
-    "More than half of 224 laid off from Starbucks refused to relocate to Nashville KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-U4bjNVOE9ZT0pPdk5OY0pFTnBuQTR5Z1g2Wncoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1698,72 +1751,6 @@
     "Land Use & Housing: While Seattle slows, the region’s fastest growth is on the fringes (The Seattle Times, $; free via SPL ). Land use advocates are calling for a rethink of MHA, but utility connection fees need to be addressed, too (The Urbanist) Seattle area doesn’t have ‘enough family-sized units to go around’ (The Seattle Times, $; free via SPL ) How North Bend’s First Attempt to Build Workforce Housing Fell Apart (The Urbanist) King County will reopen shuttered building as workers return to office (The Seattle Times, $; free via SPL ). This includes King County’s Administration Building, which has been unused since 2022 and was the center of Dow Constantine’s Civic Campus downtown redevelopment proposal."
    ],
    "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-dtopivotawayfromtowncentergrowththisfall",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Sammamish Poised to Pivot Away from Town Center Growth This Fall",
-   "author": "Ryan Packer",
-   "date": "2026-08-19",
-   "url": "https://www.theurbanist.org/sammamish-poised-to-pivot-away-from-town-center-growth-this-fall/",
-   "paras": [
-    "Councilmembers in the sleepy Eastside bedroom city that is Sammamish face a crucial decision later this fall, in the wake of council elections that tilted the balance of power away from its previous pro-density direction. The impact of the decision will likely be felt for years to come, as city leaders decide whether to step away from a plan that was intended to finally foster the beleaguered Town Center area into something closer to a real downtown for a city of nearly 70,000.",
-    "Incorporated in 1999, Sammamish has been trying to foster some type of center city for its entire (albeit brief) existence. In 2008, after years of debate, the council approved a Town Center plan that capped development at 2,000 housing units, despite capacity for many more across 240 acres.",
-    "Very little of that plan, which envisioned separate mixed-use \"nodes\" far away from the main thoroughfare of 228th Avenue SE, came to fruition. One reason was very meager density limits, with developers like the builders of the Village at Sammamish Town Center (home to Metropolitan Market) consolidating their projects on a portion of a lot in order to be able to build up.",
-    "\"When the Town Center was originally adopted, it was envisioned in part as a place to put the growth. However, the opposite, you could argue, actually happened, and instead of growth happening in the town center, the growth continued to happen as infill in the neighborhoods in the form of single-family residential subdivisions,\" Sammamish Community Development Director David Pyle said last month.",
-    "A few months before the November election, the Sammamish Council voted 6 to 1 to advance study of a growth alternative for Town Center that would have increased the upper limit on the number of units that could be built from 2,000 – where it has stood for nearly two decades – to 4,000. The move was intended to be a step toward creating development standards that allow a mixed-use neighborhood to take shape, rather than Sammamish's current glide path toward more townhouse development in the so-called city center.",
-    "Then the voters weighed in, sweeping two pro-density councilmembers out of office and tilting the balance of power away from the bloc that had voted yes last year. In a campaign season that had focused heavily on the Town Center issue, all three councilmembers who took office in January had opposed the idea of studying 4,000 units in explicit terms, citing issues like traffic, infrastructure costs, and \"unchecked development.\"",
-    "Josh Amato, who was selected by the new growth-skeptical majority to be mayor in January, had included a banner at the top of his campaign website that read \"Josh is opposed to the 4,000 unit upzone in the Town Center.\"",
-    "Now the city has to decide how to move forward, but doing nothing and fully abandoning the Town Center plan isn't an option. Without some density increases within the city, Sammamish doesn't have enough capacity for households across lower income bands, a directive spelled out in House Bill 1220 , which the state legislature passed in 2021.",
-    "Moreover, City leaders are eyeing the new Housing Accountability Act , in which the state's Commerce Department reviews the growth plans in select cities to make sure that they're in compliance, and they don't want to end up on the watch list alongside places like Carnation and Bainbridge Island . Before moving to pass an emergency ordinance to get into compliance, Bainbridge had been flirting with triggering the Builder's Remedy, which would have superseded local zoning to allow much greater height and density when builders include a set amount of affordable housing.",
-    "In July, city staff sought direction from the Sammamish Planning Commission, with commissioners expressing a clear interest in an \"option 4\" that would take planned capacity increases in Town Center and distribute that to the city's other commercial centers, like Klahanie, Pine Lake, and Inglewood.",
-    "\"The biggest advantage of option four, is if you spread it over six or seven [...] different neighborhood centers or subareas, you distribute the traffic, which has been the major, major opposition of the community, going from 2,000 to 4,000, because the town center basically infrastructure is not there to support even the 2,000,\" commission vice chair Seyed Safavian said.",
-    "Safavian noted that Klahanie, currently home to a QFC grocery store, is well-positioned when it comes to a Sound Transit light rail station in Central Issaquah.",
-    "\"Klahanie has perfect access, and within 5, 10 minutes... access to the freeway, access to the future transit, and Klahanie has really very good roads, road capacity, intersections, roadway improvement infrastructure, and all that that really helps us a lot as far as accepting more housing units, particularly for affordable housing,\" Safavian said.",
-    "Ultimately, it will be up to the Sammamish Council to decide how to proceed, with some moves this year signaling the new majority's potential direction. A unanimous vote last month removes a policy from the city's Comprehensive Plan that would have pushed the city to pursue a designation as a regional growth center, a move that could have unlocked more infrastructure funding for the city – and likely come with requirements for more density.",
-    "Just this week, the council voted 5-2 to overhaul its affordability requirements in low-density residential areas, essentially gutting a fee in-lieu program that was intended to act as something of a check on the city's continued proliferation of large single-family homes. Previously, all new homes over 1,500 square feet were required to pay a fee that would be used to fund affordable housing, but that threshold was raised to 1,750 square feet – with the fee only applying to square footage exceeding that threshold.",
-    "But the looming Town Center vote will likely be the most pivotal of the year, determining how Sammamish grows for at least a decade.",
-    "\"Trying what we tried from before, we will end up with the same opposition that we faced from before. It's the same community, it's the same people. Let's try something different,\" planning commissioner Hisham Elkhawad said. \"You said it needs more work. I would rather do the more work and succeed at the end of it instead of trying what we tried, and we failed.\"",
-    "Correction: an earlier version of this article incorrectly stated that three councilmembers lost their reelection bid last year, but the number is two: one seat was an open race."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20250530_123519--1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ketcanthriveinthewinterwithoutcartraffic",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Op-Ed: How Pike Place Market Can Thrive in the Winter Without Car Traffic",
-   "author": "Gordon Padelford",
-   "date": "2026-08-19",
-   "url": "https://www.theurbanist.org/op-ed-how-pike-place-market-can-thrive-in-the-winter-without-car-traffic/",
-   "paras": [
-    "Seattleites love Pike Place Market, but hate random vehicle traffic pushing through the heart of it. That has been clear over and over again in surveys and polls, so it has come as a shock that the City is proposing to allow all car traffic Monday to Thursday from October through March .",
-    "The latest survey from the Seattle Department of Transportation (SDOT), conducted this past June, heard from 5,403 people and found “98% Support: Near-universal community backing for vehicle barriers.” Importantly, the survey also heard “96% Business Agreement: High alignment among local merchants and staff” among 224 respondents.",
-    "Limiting general car traffic in the Market is as close to complete political consensus as Seattle is going to get on anything. Support spans the spectrum of Seattle politics from The Stranger and Mayor Wilson, to the Seattle Times and former Mayor Bruce Harrell.",
-    "And let’s be clear about what we’re talking about when we say “limiting general-purpose car traffic” or “pedestrianization.”",
-    "No one is seriously proposing preventing businesses from loading and unloading (regardless of whether businesses are using personal or commercial vehicles to do so), deliveries from reaching the Market, or emergency vehicles from responding when needed.",
-    "We’re talking about restricting unnecessary vehicle trips: tour buses, Ubers, lost tourists rubbernecking in rentals, and visitors who want to drive and park on the street for their personal convenience.",
-    "Limiting this unnecessary traffic makes Pike Place more functional, and makes room for what makes Pike Place special.",
-    "During the pilot, the Market has continued to function as both a loading dock and a front porch — a place where farmers can vend in the street, musicians can busk, visitors can sit and gather, and businesses can receive the deliveries they need to operate.",
-    "The good news is that, overall, the pilot has been successful :",
-    "But unfortunately there were never any agreed on success metrics for the pilot, so the debate about it seems to be endless and anecdotal. The latest news is a proposal to scale back the pilot to allow more vehicles on the street Monday through Thursday starting this fall through the early spring — why?",
-    "The issue seems to be that a subset of businesses say some of their driving customers are buying less because they find it inconvenient or expensive to park in the attached 800-stall public car parking garage ( Urban Freight Lab memo ). Exactly how many discouraged driving customers we are talking about is not clear. The Urban Freight Lab study found in a survey of 2,546 visitors to the Market that only 14.5% of customers drive (85.5% walk, bike, or take transit), but how many of those feel discouraged by having to park in the garage seems to be unknown — so we’re stuck with anecdotal concerns that seems to be driving this decision (pun intended).",
-    "The good news is that there are alternative solutions to retain these picky driving customers instead of opening Pike Place back up to general purpose traffic !",
-    "Taking this approach would make for a better shopping experience for the 85.5% of customers who don’t drive, and open up possibilities to grow the customer base even more. Last fall, we interviewed five pedestrianized markets in Cincinnati , Burlington , Boulder , Charlottesville , and London to learn how they stay active and vibrant all winter long. Here are a few possibilities inspired by those conversations:",
-    "Pedestrianization would also mean more space for vendors to safely load and unload on the street.",
-    "It would mean parents can shop with their children without worrying about random car traffic.",
-    "It would mean people with disabilities can walk or roll in the street without worrying about whether they will be seen by a backing-up tourist in a rental SUV.",
-    "It would mean that Pike Place is more than a parking lot — it’s both the loading dock and the front porch of the heart of Seattle. It’s a destination for the public to visit, shop, gather, and build community. It’s no wonder 98% of Seattleites want to keep it prioritized for people — the real question is why can’t our governance structures deliver a better Pike Place for everyone?",
-    "You can ask them by emailing your thoughts to: Pike Place Market Historical Commission MinhChau.Le@seattle.gov >, Pike Place Market Preservation and Development Authority (PDA) info@pikeplacemarket.org >, SDOT Director angela.brady@seattle.gov >, and Mayor of Seattle mayor.wilson@seattle.gov >."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/data-src-image-ef6dbcee-f2a5-4363-9af8-6e8308062d1e-1-.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1840,34 +1827,20 @@
    "annos": null
   },
   {
-   "id": "f-stb-vicechangepiercecountyandsouthkingcounty",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Fall 2026 Service Change: Pierce County and South King County",
-   "author": "Michael Smith",
+   "id": "f-kuow-KMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21xoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Washington state lawmaker hit with $15K fine in ethics case",
+   "author": "",
    "date": "2026-08-17",
-   "url": "https://seattletransitblog.com/2026/08/17/fall-2026-service-change-pierce-county-and-south-king-county/",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMXhGTDdMa29sNnRVOEhuYlpNYTNEV2NvbTVQaXRSVEYybEZlbW5jTzVSQ1BtUDA4RW85bU43aDJpaEhyNTQyX1N1YmVxSUF1S1MzUXVrQXRWTUtyeng3ZGFib3BKaTRtRnN1cWI3YjhxNVdFSjlXc2VQUUt6bWhDU2daMDVKMGZncGFFbXExenJ2ZnpFV1VCamFZLUtjV21x?oc=5",
    "paras": [
-    "Starting August 29, King County Metro, Sound Transit, and Pierce Transit will be making changes to bus routes in south King County and Pierce County. Most of these changes are in response to the Federal Link Link Extension that opened in December 2025. Service changes in east and north King County will be discussed in future articles.",
-    "Across this sub-region, the biggest change is Sound Transit’s Route 574. Route 574 will be truncated at Federal Way Downtown station (instead of SeaTac) and will now run every 15 minutes. At the southern end of the route, the stop at Lakewood Transit Center will be replaced by a stop at Lakewood station.",
-    "Routes throughout south King and Pierce Counties will be adjusted in a few weeks. See full list of changes below, or skip to Burien and SeaTac , Kent and Des Moines , Auburn and Federal Way , Pierce County , or Night-Owl changes.",
-    "Route 121 will be partially restored to provide eight peak hour trips (four AM and four PM) between Burien Transit Center and downtown Seattle. This route will take just 37 minutes compared to 53 minutes on the H Line.",
-    "Route 156 will have a slightly revised routing on its trips between Southcenter and Kent Des Moines station. The route will no longer serve the McMicken Heights loop (dashed blue line on the map). The route will also have expanded service, running from 4am to 11pm on weekdays and 4:30am to 11pm on weekends.",
-    "DART Route 631 will now have weekend service. The route will operate the same schedule on Saturday and Sunday as it does during the week.",
-    "Route 164 is a new route that will replace the southern half of the current Route 165. Route 164 will run every 15 minutes during the day, every day. Some of the route’s northbound trips will continue to Route 166. Route 166 replaces the northern segment of Route 165. Buses will run every 15 minutes during peak hours and every 30 minutes during the rest of the day. Every southbound trip will continue to Route 164.",
-    "Route 168 will have a few additional trips added to provide 15 minute frequency during peak hours.",
-    "Route 181 will have improved weekday frequency and addition trips that run until midnight.",
-    "Route 182 will have earlier and later trips each day and will now be through-routed with Route 187.",
-    "Route 183 will add service on Sunday and run earlier and later on weekdays and Saturday.",
-    "Route 187 will be adjusted to run on 320th St and Hoyt Rd in both directions. The route will through-run with Route 182.",
-    "DART Route 902 is a new route that will replace DART Route 901. Route 902 has a DART service area in Mirror Lake. Every Route 902 trip will continue to/from a Route 903 trip. DART Route 903 offers a southern route via SW Campus Dr back to Federal Way Downtown station. Route 903 will have increased frequency with trips running every 30 minutes.",
-    "King County Metro is introducing two new Metro Flex pilot areas in Federal Way and Auburn. The Federal Way area is anchored at Federal Way Downtown station while the Auburn area is set near Auburn station and transit center.",
-    "Pierce Transit’s network is relatively stable for this restructure. Route 11 is getting a new northbound trip at 2pm on weekdays and several other trip times have been adjusted to accommodate the new trip. Route 212 will have a new southbound trip on Sundays at 7:08pm. Pierce Transit is also adding a new westbound trip to Route 214 on Sundays at 8:44am. The agency is also adjusting the schedules for an assortment of routes to improve reliability and reduce transfer times. Sound Transit is removing routes 580 and 586 in Pierce County.",
-    "South King and Pierce Counties have two big changes in overnight service. The A Line will now run every 30 minutes between midnight and 4am. Sound Transit is replacing Route 570 with Route 597. Route 597 will provide night-owl service every 30 minutes between Lakewood and Seattle, via Tacoma Dome and SeaTac."
+    "Washington state lawmaker hit with $15K fine in ethics case KUOW"
    ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_7306.jpg?resize=525%2C394&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1897,6 +1870,23 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
    "paras": [
     "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-kNwMkJqZ0EyVF9IWUxSbVllb0ZReXNXOHpmQQoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "WA cops accused of misconduct evade decertification law",
+   "author": "",
+   "date": "2026-08-11",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSFNydHRPZ01vZXlDN0l3UVNEYnBCVzl6c3BXT3pLeW9ZRER5Q3czN3hrNjJQNXZ0a0FLdU9lVV8zZ0xzRWR6NTRjcHN3UEt6RElsUmp5QUNtUEd6T3BsQTFHeFBHQmxRekI4V0UyeER3Y3ZIX0k0SUFldU5JNkRhb1RQMDdaS3lwM1JobTZ6UVNpZTJRWThZU1k4TlVSa3ZKOWJqVW9COTV3d2R6dkpNTUJXSjNwbE1GUUdBQjZGekNwMkJqZ0EyVF9IWUxSbVllb0ZReXNXOHpmQQ?oc=5",
+   "paras": [
+    "WA cops accused of misconduct evade decertification law InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1950,23 +1940,6 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LMGRUN1RycG93dzM1NVMtRlV4bkdjZkFoa2lqUnZmRXNVMFg0dlpzTU96MFdqd1F4S0YtTnY3Z0E4QTZTb21IUEdnVk5HNmpSM3lhVXZDOFdNYVp3RnJmY1BYOElvbVRoeWF5a3dVV1Mxbjl0cWRGSVdzU2E?oc=5",
    "paras": [
     "Free training: Editing the investigation InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-RyQ01Wd3QtRnlEajlRNUZGZFlDMHhOZUdSX1Eoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Why an Oregon reform to help DV survivors keeps failing",
-   "author": "",
-   "date": "2026-07-27",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR3JaUjBnQVEzeWF6b0dQTUpIRS1pdTlDYVdiZVJJZWQ2QVhMYWg3Y2pfaVl0U3RJUW5scVZvenZpdzh5SEhsVTE3bHFrdHNxOW5kclhGbk9vb2FQOWNjWmp2YzU4dGY4NE1wUzVKNTdCbElwREVJWF9HRTZjVktVSl80S2ZDM2VTNlhOLVNjcGVSemxzUkNLZVEzYnRyQ01Wd3QtRnlEajlRNUZGZFlDMHhOZUdSX1E?oc=5",
-   "paras": [
-    "Why an Oregon reform to help DV survivors keeps failing InvestigateWest"
    ],
    "img": "",
    "fetched": true,
