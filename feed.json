@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-08-29T00:15:14.973Z",
- "builtFor": "2026-08-28",
- "builtHour": "17",
- "count": 86,
+ "builtAt": "2026-08-29T19:00:43.228Z",
+ "builtFor": "2026-08-29",
+ "builtHour": "12",
+ "count": 85,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 2,
-   "via": "google-news"
+   "count": 1,
+   "via": "feed"
   },
   {
    "source": "geekwire",
@@ -51,7 +51,7 @@
   },
   {
    "source": "invw",
-   "count": 6,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -76,8 +76,8 @@
   },
   {
    "source": "stranger",
-   "count": 5,
-   "via": "google-news"
+   "count": 6,
+   "via": "feed"
   },
   {
    "source": "urbanist",
@@ -87,17 +87,597 @@
  ],
  "articles": [
   {
-   "id": "f-npr-uthkoreadeportedveteransaejoonparkpardon",
+   "id": "f-geekwire-hesusingaiandwhyhesworriedaboutthefuture",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Bill Gates in his own words: How he’s using AI, and why he’s worried about the future",
+   "author": "Todd Bishop",
+   "date": "2026-08-29",
+   "url": "https://www.geekwire.com/2026/bill-gates-in-his-own-words-how-hes-using-ai-and-why-hes-worried-about-the-future/",
+   "paras": [
+    "This week on the GeekWire Podcast: Bill Gates published a new essay warning that the AI industry is crossing the safety lines it set for itself, and that nobody is preparing for what’s coming . At age 70, he also uses AI more than most people half his age, and he finds it enthralling, as you’ll hear on this week’s show, with highlights from our interview with him.",
+    "Along the way, we dig into his three proposals: new institutions for managing the transition, a category of jobs reserved for humans, and a tax on the use and purchase of AI and robots.",
+    "The change in his own tech usage: “I joke with people that I used to have Claude-like people that I would send email to, but they were so slow, and there were some topics they didn’t actually know. … It’s three a.m. I want to understand sodium batteries, and now there’s no reason to go to sleep. Here we go. Yeah, it’s crazy.”",
+    "How he uses AI specifically: “If you’re a curious person, this is a mind-blowing time. When I’m working on malaria, nutrition, my poor humans that I work with always get these long conversations from me, where I paste in — me, Claude, me, ChatGPT. Sometimes I do it if there’s three of us: Claude, ChatGPT and me, debating these things.”",
+    "On where personal agents are headed: “We will get to a point where you won’t buy things yourself. You just won’t. … You won’t go to those applications. You’ll just go to your personal agent. … From a productivity point of view, we are in heaven.”",
+    "What has surprised him: “I was shocked by ChatGPT, and I was shocked by Claude Code. Those are both things where I went, oh my God. … I did not expect that a statistical machine would essentially learn to read, and the idea that the code is better than human code. Those are two stunning thresholds.”",
+    "On writing this essay: “It’s very unnatural for me to think that innovation may be a net negative if it’s not managed properly. The more I wrote the memo, the more I was like, Jesus, we really need to get our act together here. Even though this may come across as negative, that’s the truth. If we don’t step up, the negatives will substantially outweigh the positives.”",
+    "What AI leaders say privately: “You’re in this perverse period right now where people in the AI industry who are willing to say that AI might have some negative effects are told, ‘Hey, you’re hurting our PR while we’re trying to raise trillions of dollars.’ … I know they’re all worried. Or all of them that I know, which is basically everybody but Elon.”",
+    "On losing control of AI: “The wake-up for the memo is that the bad stuff thresholds are all being crossed. Even lack of control that I thought would be many years from now, we’re seeing lack of control. … These are people who are super expert on the thing, going, well, maybe we won’t be able to control these things. What kind of risk have we chosen to run here?”",
+    "On how fast robots are coming: “What’s weird about AI is it’s better at doing jobs across the entire economy, including physical jobs when the robots come — which you can guess when that is, but my view is it’s only a couple of years.”",
+    "Is he still an optimist? “I don’t think being pessimistic is helpful. I do think, wow, this is sure an interesting time. I’m the guy who in my 30s thought people in their 50s or 60s didn’t understand anything. So it’s kind of bizarre if a guy who’s 70 comes and writes a memo that’s actually helpful. … But I am very concerned. And honestly, when you get people one-on-one, so are they.”",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen.",
+    "Edited and produced by Curt Milton. Music by Daniel L.K. Caldwell."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/20250404_Microsoft_205-1260x900.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-thecaseforproportionalrankedchoicevoting",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Washington’s Primary Election Results Underscore the Case for Proportional Ranked Choice Voting",
+   "author": "Zane Gustafson",
+   "date": "2026-08-29",
+   "url": "https://www.theurbanist.org/op-ed-washingtons-primary-election-results-underscore-the-case-for-proportional-ranked-choice-voting/",
+   "paras": [
+    "From Seattle to Spokane and everywhere in between, August’s primary results show an electorate yearning for more options, and proportional ranked choice voting is the way to make viable candidates from outside the two-party system.",
+    "Contrary to the blinkered two-party analysis in the Seattle Times , which explicitly excluded independent candidates and ignored major differences between Democrats, Washington primary voters showed they support three viable statewide political parties: Democrats (40% of the statewide Congressional primary vote), Republicans (35%), and an emerging left-wing party (20%).",
+    "For this analysis, I analyzed candidate websites for rhetoric and policy platforms to identify which candidates are running as establishment or moderate Democrats and which candidates are running on progressive or socialist platforms. The left-wing label includes members of the Democratic Socialists of America (DSA) like State Rep. Shaun Scott, progressive Democrats like Congresswoman Pramila Jayapal, Brent Hennrich, and Kevin Fagan, and independent left-wing candidates like Kshama Sawant and Melissa Chaudhry.",
+    "These primary results are evidence of what is already known in Olympia: that the governing Democratic Party in Washington State is a coalition of at least two smaller parties. Or, as Senate Majority Leader Jamie Pedersen put it on my podcast Ungerrymander America : “I’m already the leader of a multiparty coalition called the Democratic Party, that includes a broad range of people. From people who, if you could just get them to say what they think, identify as communists or socialists, to people who in a different time could easily have been Republicans, and everything in between.”",
+    "Though this emerging left-wing party is not yet formalized, candidates espousing anti-establishment, progressive, or socialist rhetoric and policies are finding support across the state. In addition to former Congressional Progressive Caucus chair Pramila Jayapal (WA-7), left-wing candidates received enough votes across Western Washington to prevent four incumbent Democratic Congresspeople from reaching 50% of the vote: Rick Larsen (WA-2), Marie Gluesenkamp Perez (WA-3), Adam Smith (WA-9), and Marilyn Strickland (WA-10).",
+    "Across the mountains in Eastern Washington's Fifth Congressional District, incumbent Republican Michael Baumgartner underperformed, receiving just 47.4% of the vote. The remaining 52.6% was split between mainstream Democrats, progressives, and independents.",
+    "Failing to win 50% of the vote means Baumgartner is vulnerable. But for challenger Carmela Conroy to win, she will need to build a cross-spectrum coalition that includes everyone from the 4.4% of voters who voted for left-wing candidates to the more than 20% of voters who voted independent. Conroy's coalition building efforts were helped by the full-throated endorsement of her by independent Nate Powell, who finished third with 16.5% of the primary vote.",
+    "Taken together, over one-quarter of primary voters voted for either a left-wing or independent alternative to the two-party system to represent them in Congress.",
+    "The same kind of multiparty dynamic is playing out in legislative races across Washington State.",
+    "First, contests in the 37th and 43rd districts show that Seattle has a two-party system of moderate/establishment Democrats being challenged by progressive Democrats and DSA-candidates. Both districts will send a DSA-member to the legislature, with the 43rd's Shaun Scott running unopposed for reelection and the 37th’s Jaelynn Scott winning an overwhelming 88% of the primary vote.",
+    "Both districts have contested races, with the establishment Democrat Sen. Jamie Pedersen favored to win reelection in the 43rd. On the other hand, left-wing challenger Kelabe Tewolde won more than 51% in the primary in the 37th. These results should not be interpreted as definitive victories for either the moderates or the progressives; the key takeaway is that there are two distinct factions competing across Seattle districts and the more left-leaning democratic socialist faction is making headway and establishing itself as a distinct political force.",
+    "This isn’t only playing out in Seattle. Left-wing candidates are making gains elsewhere too. In the redrawn 14 th district that stretches from Yakima to the Tri-Cities, incumbent Republican Rep. Deb Manjarrez received 51% of the primary vote, showing that the district will be competitive in November. In the race for second place, the labor and immigrant rights activist Ezequiel Morfin beat self-described moderate Tony G. Sandoval. To be clear, Morfin identifies as a Democrat. I categorize him as part of this emerging left-wing party because his platform centers working families and places his campaign in opposition to corporate donors and party insiders.",
+    "Meanwhile, voters in Eastern Washington are looking for independent alternatives. In addition to Nate Powell coming within 3% of second place in the Fifth Congressional District, the 6th Legislative District had independent Aaron Croft come within 259 votes of advancing to the general. Powell and Croft were two of five independent candidates in Eastern Washington endorsed by the Independent Veterans of America .",
+    "The concurrent and separate races for the two State House seats in the 6th LD show the appeal of independents. For seat #1, four Republicans combined for 57% of the vote while two Democrats received 42%. But just 50% of 6th LD voters supported Republican Jonathan Bingle for seat #2. Some 2,000 voters, 7% of the 6th LD primary electorate, voted Republican in one race then voted Independent in the other.",
+    "Take it all together and the shape of Washington’s multiparty politics comes into focus: the governing moderate to center-left Democrats fighting off a challenge from a left-wing party currently strong in Seattle and growing across the state; and a Republican Party losing relevancy in the State Legislature facing challenges from increasingly organized independent candidates.",
+    "Unfortunately, the structure of Washington’s top-two voting system is artificially keeping the two-party system in place and contributing to the widespread political cynicism that contributes to many people opting-out of voting. Voter turnout in the 2026 primary was just 37%, lower than the more than 40% turnout in midterm primaries in 2022 and 2018.",
+    "By implementing a proportional voting system, such as proportional ranked choice voting (RCV), Washington could send a multiparty delegation to Congress and have a formal multiparty politics in the State Legislature. This would help heal our political cynicism by providing voters real options beyond the two-party system.",
+    "Instead of a winner-take-all system like we have now, where the candidate with 50.1% of the vote wins and the other 49.9% of the district is left without, proportional RCV elects multiple winners in the same district. This means far more than 50% of voters will see someone they voted for win the election. For example, in a district where the top three candidates win, 75% of voters would be represented; in a four-winner district this goes up to 80%.",
+    "Individual candidates would still need to win at least 20% of the vote to be elected in a four-winner district. For a deep dive on the mechanics, see chapter 6 of my 2024 book Polemic for Democracy on the Ungerrymander America blog .",
+    "Finally, if implemented, the multiple winner function of proportional RCV makes gerrymandering functionally impossible , according to analysis by the Brennan Center for Justice.",
+    "Shifting to proportional RCV for electing members of the State House could be done through the normal legislative process, while changing the voting system for the Senate may require amending the state constitution ( Article 2, Section 6 ).",
+    "But, such a change may be unlikely to be popular among legislators bought into the existing two-party system. A final option if legislation for proportional RCV fails to gain traction in Olympia would be for Washington voters to bring an initiative to demand a better voting system that would give them more options.",
+    "The primary results show that at least 25% of voters are already putting their votes toward alternatives to the two-party status quo. And if there were a real chance to change the system? Who knows how broad the support for such an initiative might reach."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/AUG26-Kelabe-Tewolde-and-Rebecca-Saldana-2000x1334-1-.webp",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-ogcom20260829fall2026servicechangebegins",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Fall 2026 Service Change Begins",
+   "author": "Mike Orr",
+   "date": "2026-08-29",
+   "url": "https://seattletransitblog.com/2026/08/29/fall-2026-service-change-begins/",
+   "paras": [
+    "Several transit agencies have their twice-yearly service change today or this week. South King County and Pierce County have the most extensive changes to coordinate bus service with Federal Way Link. East King County implements the almost-last phase of its East Link bus restructure. North King County and Snohomish County have some route restructures too. Two ST Express night owls start from downtown Seattle: a route 597 south to Lakewood, and a route 547 east to Bellevue and Redmond. A planned route north to Everett is delayed until 2027.",
+    "Are you doing a first-day ride today? Or tomorrow or next week? Which route(s) do you want to do first? Is it because they’re so different, or a trip you make regularly?"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-29therounduphowseattleteenssendoffsummer",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: How Seattle Teens Send Off Summer",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://southseattleemerald.org/newsletters/2026/08/29/the-roundup-how-seattle-teens-send-off-summer",
+   "paras": [
+    "We've made it to the end of summer, and my favorite season, fall, is just around the corner. But before I pull out my warm sweaters, spiced lattes, and books by the fire, there's one more Seattle summer event that we have to highlight: Teen Summer Musical .",
+    "This event has been a staple for as long as I can remember. I've shared plenty of personal memories I have with the event, including the fun fact that my first date (technically a double date) was attending the teen musical at the Paramount in the early 2000s.",
+    "This new crop of teens are in for a real treat. This year, for the first time ever, the teen musical will be at McCaw Hall. This venue is home to the Seattle Opera, the Seattle Symphony, and the Pacific Northwest Ballet — all world-class organizations. These teens will grace a stage that some professional performers work their whole lives to make it to. That's pretty cool.",
+    "We've had a lot of rough news for teens this year. From shootings in our neighborhood, to the recent shootings at the Bite of Seattle. One thing we do know: There's plenty of data and research that shows teens get into less trouble when they have structured programs and a place to hang out and just be … teens .",
+    "This week, I spoke with Michelle Lang-Raymond, co-founder and executive director of Acts on Stage, the company producing the musical, as well as the show's music director. We talked about the legacy of the program, how it supports teens, and what to expect from this year's production, Peter Pan Ready to Rise .",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: Theater isn't the easiest space to operate in these days. Y'all have been at this for over 25 years. How have you been able to have this longevity?",
+    "MLR: I think we've actually been doing it for over 30 years now. The current version of the teen musical started in '95. And even three years before that it had a smaller version of what it became.",
+    "But it is kind of crazy to think this program has been around this long. The thing that's even crazier is to know that there are people who have been in Seattle, some born and raised in Seattle, who have still never heard of this program and never have seen a show, which is crazy to us. A couple years ago, somebody came up to us and very excitedly said, \"The Teen Summer Musical is the best-kept secret in Seattle,\" and we were like, \"But why is it a secret?\" Everybody should already have it on their calendar that this is how they bridge the summer back to school. This is the last thing that happens in the city of Seattle before we all go back to school.",
+    "But why do I think it has lasted so long? A couple reasons. One is Isiah Anderson Jr. Period, point blank, full stop. The only person who has been with this program for 30 years is Isiah, and it is because of him that it has the legs that it has and has had the longevity that it has had. And then he would agree that the next part of the answer is because he always assembles a team of people who are not only great artists and creatives, but they are people who understand youth work. They are people who understand what it means to put on a show, and they are people who want the community to be proud.",
+    "MD: For as long as I can remember, this program rehearsed at Langston Hughes and was a part of Black Seattle. But the numbers of Black people in the Central District have dwindled over the years. Has that impacted how y'all keep this going?",
+    "MLR: I think it's the legacy of the program. It has been around so long that it doesn't matter where people live at this point, people still find the program as a centering part of Black culture in Seattle. This is still a part of Black expression in Seattle — so no matter where people live, they still want to be tethered to that Black experience.",
+    "Now, mind you, the program is not just for Black kids. We have quite a few kids in the program, especially this year, that are not Black and not biracial either. We have all races. But we do not make any apologies for the fact that the shows are produced with Black culture as the centerpiece.",
+    "It doesn't matter where people live now and how gentrification has affected them. The Teen Summer Musical is a part of the way we do Black culture in Seattle.",
+    "MD: I've been having conversations all year about our teens and, quite frankly, violence. Can you talk about the importance of having programs like yours that give our teens not just a place to be, but a place to find themselves, which is unique to theater?",
+    "MLR: They are signing up to be part of a society of youth who are learning together. And not just learning how to sing, dance, and act, but learning how to be a community, learning how to care, learning how to communicate, learning how to hold each other responsible, and also learning how to give each other grace. That's the value of Teen Summer Musical being a program and not just a production. We have 80 kids this year. You don't need 80 youth to make a musical. But we're committed to a program that does all the things I just said. This is about cultivating and nurturing our children. We're committed to that just as much as we are committed to producing a great show.",
+    "MD: Speaking of the show, y'all always put a twist on a story we think we already know. What can you tell us about your Peter Pan?",
+    "MLR: We all know that Peter Pan is a boy who refuses to grow up, he lives in Neverland, and he flies. And we know his nemesis is Captain Hook. In our show, our Peter Pan is a young Black boy, and he doesn't want to grow up because he's seen the statistics about what happens to many Black boys when they grow up, and those statistics are often not great. Some of them don't make it out of their teens. So Isiah did an amazing job tethering the reason why Peter doesn't want to grow up in our story to something that's true to life.",
+    "We've been saying this for years: The South End has the most dangerous intersections in the city. Mayor Katie Wilson has plans to accelerate the work that could make our streets safer.",
+    "You may have missed Gennette Cordova's Q&A with director Boots Riley (that was Friday), but there's so much more to explore at the Seattle Black Nerd Fest. And to be clear, you don't have to be Black or a nerd to have a good time.",
+    "I have a framed photo of the Black Panther mural in my office. Someone vandalized the real one by Franklin High School. But we have good news: It was restored, and the Emerald was there to see it.",
+    "El Centro de la Raza had a garden named after Cesar Chavez. Not anymore. Here's why.",
+    "Rainier Beach High School is having a ribbon-cutting ceremony to celebrate the completion of phases 1–4 of the remodel. The event is today at 2 p.m. Go Vikings!",
+    "These talented teens are headed to McCaw Hall. This weekend only. Tickets in the link.",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-08-29/n6dargps/How-Seattle-Teens-Send-Off-Summer.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-lutepleasureattheserockyhorrorscreenings",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Give Yourself Over to Absolute Pleasure at These ‘Rocky Horror’ Screenings",
+   "author": "Julianne Bell",
+   "date": "2026-08-29",
+   "url": "https://www.thestranger.com/arts/give-yourself-over-to-absolute-pleasure-at-these-rocky-horror-screenings/",
+   "paras": [
+    "Tim Curry, known for his legendary performances in It , Clue , Home Alone 2, Legend , and The Rocky Horror Picture Show , died Tuesday night in his Los Angeles home. He was 80, and along with Dolly Parton, one of two gay icons to leave this world in a single day.",
+    "Like countless others, my strongest connection to Curry was through his portrayal of Dr. Frank-N-Furter—the “sweet transvestite from Transexual, Transylvania”—in Rocky Horror . As an (unknowingly) queer teen, wearing pleather and fishnets at midnight Rocky Horror screenings at the Admiral Theatre in West Seattle was a rite of passage. A few of my high school classmates were in the shadowcast, the costumed performers miming the action on screen. My mom went to screenings when she was young. Rocky Horror , and Curry, were always there.",
+    "Except—as my colleague, and fellow Rocky Horror devotee, Audrey Vann, lamented in our Complaints Issue last December —shadowcast performances seem to be nearly extinct in Seattle. Blessedly, for the sake of the youth, there are still a few. There’s no better time to do the Time Warp than where you are standing. Or, if you can wait, during the following shadowcast performances.",
+    "Riff Raff’s Street Rats is a Bremerton-based volunteer shadowcast troupe that performs at their home theater, the Tracyton Movie House, and at venues across the region, raising money for nonprofits across the Northwest. They have three shows planned in honor of Curry’s memory. See them tomorrow night (Saturday, August 29) at the Skyline Drive-In Theater in Shelton. Gates open at 7:30 p.m. Get there early for the 9 p.m. pre-show initiation ritual before the 9:30 p.m. screening. According to their website, audience “partici…… pation” is encouraged. The Street Rats next take the stage Saturday, September 19, at the Admiral Theater. Doors open at 9 p.m. and the show starts at 9:30 p.m. Their biggest Tim Curry tribute will take place at Olympia’s Capitol Theater on Saturday, October 3 , with doors at 11 p.m. and pre-show beginning at 11:30 p.m. before the film—a rare midnight screening. Prop bags will be sold separately outside the venue.",
+    "On Instagram , the Street Rats expressed their grief at Curry’s death. Says cast member Chynna: “Growing up in rural Idaho, there was very little support for the LGBTQ+ community. I had to hide who I was, who I liked, and what I wanted, until a beautiful man with a beautiful voice kicked in the door with platform heels. My world was rocked. To me, it did feel like being transported to another planet, and for once in my life, I did feel like I was coming home. Tim became a beacon of hope for me, a battle cry for everything I did that got me called ‘weird,’ and I am honored to still perform in the shadow of that greatness.”",
+    "Tacoma’s Blue Mouse Theater screens Rocky Horror every second and fourth Saturday of the month, with their in-house shadowcast, the BlueMouseketeers. On September 12, they’ll host a memorial for Curry . The cast will organize a small memorial altar outside the theater, and guests are invited to donate art, cards, or other small items in his memory. Concessions and prop bags will be available at the lobby. Doors open at 11 p.m.",
+    "“For decades, the Rocky Horror Picture Show has provided a space of community and belonging for people of all walks of life; notably, the queer and trans communities, and Curry has played a huge part in that,” the BlueMouseketeers wrote on Instagram . “In honor of Tim Curry, we ask you all to remember the movie’s message of ‘don’t dream it, be it.’ We can’t ever replace this loss, and it’s difficult to express in words the grief this community feels, but the Blue Mouseketeers are committed to carrying on Curry’s legacy and keeping this show alive for as long as we can.”",
+    "Another shadowcast, the Vicarious Theatre Company , performs at the downtown Regal Meridian 16 the first Saturday of every month. I couldn’t find any information about Curry tributes, but on the Regal website , a show is scheduled for 10 p.m. on Saturday, September 5.",
+    "Prior to Curry’s death, a few Rocky Horror events were already scheduled in Seattle for the Halloween season. Patricia Quinn, who played Magenta in the original film, will stop by the 5th Avenue Theater on Thursday, October 15 for the 7 p.m. Rocky Horror Picture Spooktacular Tour screening . The evening will feature a live shadowcast with the BlueMousketeers, plus a VIP meet-and-greet with photo ops and autographs. Obec Brewing will host an interactive singalong screening at 7 p.m. on Friday, October 30, while Unexpected Productions will put a live improv spin on the film each Saturday in October.",
+    "The post Give Yourself Over to Absolute Pleasure at These ‘Rocky Horror’ Screenings appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/rockyhorror-copy.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-hqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clEoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVBTMVgxWDR4MWQ2OGxzWHlWQlZOcGxycTNVVGNPdGVZMEluTm5FRFVrXzBWMHU4b0tTZUF4dTdtMVhNemJlelFQcmRLYkx0dkg5MGt6VlZtdkdkNVlZVlBRNTQyNGpEdlhGeDFoV1lQUTZnUE1oVVpmNUdobGpzV0J5cmVncUhqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clE?oc=5",
+   "paras": [
+    "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2byiwgv",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "What NATO allies think about Trump's treatment of Canada",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-byiwgv/",
+   "paras": [
+    "What are U.S. allies thinking about Trump's treatment of Canada and South Korea?"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/c797ce7c-97a3-4e6f-8dab-d281e7eb3f7b.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shownewshourextrasdeadlyfloods1787951729",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Devastating scale of Himalayan floods comes into focus",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/deadly-floods-1787951729/",
+   "paras": [
+    "Three days after a catastrophic wall of water, mud and rock tore through Nepal’s Himalayan valleys, the scale of the disaster is still coming into focus. At least 579 people are now confirmed dead, nearly 2,000 remain missing, and the danger is not over. Authorities are closely watching lakes formed in the wake of the glacier collapse, amid fears of further flooding. Stephanie Sy reports."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/4ae7ca6e-4733-4584-b85a-2531a3862c7e.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ewshourextrasbrooksandcapehart1787949948",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Brooks and Capehart on Trump's 'forever trade war'",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/brooks-and-capehart-1787949948/",
+   "paras": [
+    "Brooks and Capehart on Trump's 'forever trade war'"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/0565f342-ca3c-421c-9ae3-999fcfbb6206.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ryinoverlookedcornersofamerica1787958427",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Riley Downing finds poetry in overlooked corners of America",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/riley-downing-finds-poetry-in-overlooked-corners-of-america-1787958427/",
+   "paras": [
+    "Riley Downing is a founding member of The Deslondes, the New Orleans Americana band known for its earthy mix of country soul and roots music. Now on his second solo album, \"Landfill Poetry,\" Downing turns stories from his days working as a trash collector in Missouri into songs about the overlooked corners of American life. Geoff Bennett spoke with him for our arts and culture series, CANVAS."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/4ffed292-0411-4bd6-9154-b439e149571b.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shourextraspoliticsandtheparks1787951859",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "NPS strained by Trump's construction, political pressure",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/politics-and-the-parks-1787951859/",
+   "paras": [
+    "Americans continue to flock to the national parks, with more than 320 million visitors in the last year alone. But that broad appeal is facing new political pressures, from orders to revise exhibits to President Trump's construction projects. Amna Nawaz discussed the state of national parks with Tiernan Sittenfeld, the president and CEO of the National Parks Conservation Association."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/b48c6ab9-e26e-49c8-a890-73cd68b9981c.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ownewshourextrasfightingcancer1787951826",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Groundbreaking treatments offer hope in fight against cancer",
+   "author": "Cascade PBS Staff",
+   "date": "2026-08-29",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/fighting-cancer-1787951826/",
+   "paras": [
+    "Groundbreaking treatments and vaccines offer hope in fight against cancer"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/08/64ab6841-7c93-4a8c-b895-3792c015ddce.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rorg20260829nxs15948714russianstrikekyiv",
    "srcKey": "npr",
    "cat": "national",
-   "title": "Sae Joon Park, a Purple Heart veteran who self-deported, receives pardon",
-   "author": "Juliana Kim",
+   "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
+   "author": "The Associated Press",
    "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5948185/south-korea-deported-veteran-sae-joon-park-pardon",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
    "paras": [
-    "His removal order was triggered by two convictions from over 15 years ago, when he struggled with untreated PTSD. New York's governor said Park earned a \"second chance through rehabilitation.\""
+    "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
+    "(Image credit: Ukrainian Emergency Service)"
    ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/979x1601+0+0/resize/979x1601!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2Fed%2F932dba064855a1e31712e529534e%2Fsjp.jpg",
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F84%2F60b086da426693a6915e40d64336%2Fap26241383255550.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-eetheaftermathofdeadlyflashfloodsinnepal",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Photos: See the aftermath of deadly flash floods in Nepal",
+   "author": "NPR Staff",
+   "date": "2026-08-29",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
+   "paras": [
+    "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fab%2F9d58903047aaa7d9adf604fdf9fd%2F2026-08-28t000000z-1484653559-mt1nurpho000jmtolk-rtrmadp-3-nepal-flood.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nxs15941650opinionrememberingdollyparton",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Opinion: Remembering Dolly Parton",
+   "author": "Scott Simon",
+   "date": "2026-08-29",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
+   "paras": [
+    "She said she wasn't offended by dumb blonde jokes because \"I know I'm not dumb...and I also know I'm not blonde!\" We take a moment to remember the smart, funny and uniquely talented Dolly Parton.",
+    "(Image credit: Mark Humphrey/ASSOCIATED PRESS)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2990x1962+0+0/resize/2990x1962!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fb1%2F02839d2f44f8abddf9d943377d7f%2Fap8910091639.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs15927173bridgesremotecommunitiesrwanda",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The bridges of Rwanda open up new worlds",
+   "author": "Fatma Tanis",
+   "date": "2026-08-29",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
+   "paras": [
+    "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F53%2F3a12f9554231baf4c836fa2eddd2%2Frwanda-bridge-4077.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nxs15947960instagrammetasocialmediateens",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
+   "author": "Rhitu Chatterjee",
+   "date": "2026-08-29",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
+   "paras": [
+    "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6683x4455+0+0/resize/6683x4455!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F1f%2Fa0b489b9412c90609f919c7d91c2%2Fgettyimages-2168586508.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-cutscienceadvisorycommitteesconsequences",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
+   "author": "Katia Riddle",
+   "date": "2026-08-29",
+   "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
+   "paras": [
+    "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F6b%2Fabc381304da49a831c1f29b0c298%2Fll-yll4134-1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc86xwqez4npoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc5ye8p8xpg4oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Cleverly quits shadow cabinet to run for London mayor",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The capital is not set to vote on a new mayor until 2028."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc5y4xmx16k0oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Mum of Nottingham attacks victim backs calls to stop killers' early release",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://www.bbc.co.uk/news/articles/c5y4xmx16k0o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Emma Webber has joined more than 30 families in signing an open letter to the government."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0b/live/7eaa5a20-a384-11f1-aff5-c9bc64006961.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesce8xn9ge6xeoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesclylkwl5nd4oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Man dies after train hits van on level crossing",
+   "author": "",
+   "date": "2026-08-29",
+   "url": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "British Transport Police said a man who was in a van died at the scene, in Burscough."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-tenhamhotspurvnewcastlepremierleaguelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Tottenham v Newcastle: Premier League – live",
+   "author": "Barry Glendenning",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live",
+   "paras": [
+    "Anthony Elanga and Yoane Wissa got the goals as Newcastle survived a first-half onslaught before consigning Tottenham to back-to-back top flight defeats",
+    "Fun fact: Tottenham and Newcastle have met 61 times in the Premier League era without ever playing out a scoreless draw. Today could be the day for a dreary stalemate but it seems unlikely – fingers crossed for a glut of goals.",
+    "Premier League: Hull City have made it back-to-back wins upon their return to the top flight, with Liam Millar scoring the only goal of their game at Coventry City to deposit another three precious points in the bank. James Tarkowski left it until added time to cancel out Alex Scott’s opener as Bournemouth were held by Everton at the Vitality Stadium. In today’s early game, Liverpool and Nottingham Forest served up an entertaining 2-2 draw at Anfield, where the hosts had to come from behind twice to rescue a point."
+   ],
+   "img": "https://i.guim.co.uk/img/media/95bd79a6a987bd1c46d3bfc8aea930feac75ea0a/668_153_2818_2253/master/2818.jpg?width=140&quality=85&auto=format&fit=max&s=1324bdb5be15b915a01efe260e5671b7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026aug29scottbessantuseconomydonaldtrump",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+   "author": "David Smith in Washington",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+   "paras": [
+    "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt",
+    "History remembers Gen Dwight Eisenhower , the supreme commander of the allied forces in Europe during the second world war, for his role in the D-day invasion of Normandy. Whether Scott Bessent will achieve similar posterity as the face of the “economic D-day” in Iran remains to be seen.",
+    "The US treasury secretary, already trying to manage a $40tn national debt pile, this week took charge of Donald Trump ’s effort to reverse-engineer his war of choice. Whereas the US would typically take on an adversary with diplomacy, sanctions and military force, in that order, the US president started with a six-month bombing campaign and now hopes that economic isolation can finish the job."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9b895201b43db2d3264aa974f5b4d6794d283d75/0_0_2301_1842/master/2301.jpg?width=140&quality=85&auto=format&fit=max&s=f8421505a37e3af9ea7ae9d7408c95e6",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-slowfashionwhyonewomangrowingherowndress",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I wanted to find the slowest fashion imaginable’: the woman growing her own dress",
+   "author": "Nicola Davis Science correspondent",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/fashion/2026/aug/29/slow-fashion-why-one-woman-growing-her-own-dress",
+   "paras": [
+    "Looking for an alternative to fast fashion, Eve Ogden Schaub decided to create a garment from homegrown flax",
+    "From crop tops to shorts and brightly patterned dresses, many of today’s clothes are the result of fast fashion. But one woman is taking a radical approach to challenging this trend by growing her own dress.",
+    "Eve Ogden Schaub is in the midst of a project to create a linen garment made from flax she is growing at home, documenting the process in videos shared on her Instagram account ."
+   ],
+   "img": "https://i.guim.co.uk/img/media/2164a91ec44207b7b0003de520dd9a151481cc18/0_295_1290_1031/master/1290.jpg?width=140&quality=85&auto=format&fit=max&s=ef68bb706513715ded4ed3b8a40425db",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26aug29spadesbidwhistcardgameblackfamily",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Why spades has dominated Black gatherings for generations – it’s more than just a card game",
+   "author": "Adria R Walker",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family",
+   "paras": [
+    "Spades and its predecessor bid whist are ‘Black family heirlooms’ played by Obama and Thurgood Marshall alike",
+    "At family reunions and cookouts growing up, Rachel Young-Love was captivated by what she called the “special table”. It was the loudest, the most crowded. Everyone seated at it was either embroiled in smack talk, eyeing their partner to covertly check if they were on the same page or sweating to make sure they played their hands just right.",
+    "Her relatives were playing the card game spades, “one of the highlights of the event”, she said, and the stakes – bragging rights until the next gathering – were high. It wasn’t until she was an adult that Young-Love learned to play, and even still she had to bide her time before she was allowed a seat at the spades table."
+   ],
+   "img": "https://i.guim.co.uk/img/media/71c9f1c74f3322da2ddab419934f26ba6b6a778b/489_0_4404_3522/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=6e9f3723bc9340492a47face7ff6952b",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-feandstyle2026aug29blinddatemikecaterina",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’",
+   "author": "Guardian Staff",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/aug/29/blind-date-mike-caterina",
+   "paras": [
+    "Mike, 37, a scientific editor, meets Caterina, 35, a teacher",
+    "What were you hoping for? Good company, nice food and an interesting evening with someone new. I got everything I hoped for."
+   ],
+   "img": "https://i.guim.co.uk/img/media/931cbcaa040f2e1e9fb27a373827b0d325cfda90/114_91_4886_3909/master/4886.png?width=140&quality=85&auto=format&fit=max&s=baffa004e5b2ba14b9f340d3ad07ec00",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-formerguerrillascolombiafatenewpresident",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+   "author": "Daniela Díaz in Valle del Guamuez and Tiago Rogero in Rio de Janeiro",
+   "date": "2026-08-29",
+   "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+   "paras": [
+    "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over",
+    "In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.",
+    "They also stripped off their heavy tactical vests, field packs and camouflage uniforms, which were each piled into a bonfire to mark the beginning of a new life away from an armed conflict that has claimed nearly half a million lives in the last six decades."
+   ],
+   "img": "https://i.guim.co.uk/img/media/bd9dced1c20e7f4db205d0b4de787d820f1da9f8/0_0_4693_3754/master/4693.jpg?width=140&quality=85&auto=format&fit=max&s=08b22b31e3ff78c090719787ca58f4e0",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-dwhyclimatechangeisraisingtherisks290779",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "When a mountain falls: How ice and rock triggered Nepal’s catastrophic flood – and why climate change is raising the risks",
+   "author": "<name>Umesh Haritashya, Professor of Earth, Environment and Sustainability, and Director of Sustainability Programs, University of Dayton</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/umesh-haritashya-2761412\"/>",
+   "date": "2026-08-29",
+   "url": "https://theconversation.com/when-a-mountain-falls-how-ice-and-rock-triggered-nepals-catastrophic-flood-and-why-climate-change-is-raising-the-risks-290779",
+   "paras": [
+    "The catastrophic flood that killed hundreds of people in Nepal on Aug. 26, 2026, and left many more missing likely began with falling ice and rock crashing into the river below, but that wasn’t the end of the disaster. Days later, a new lake pooled behind the debris and then burst, sending more water streaming through the valley.",
+    "The destruction represents two of the ways rising temperatures, thawing permafrost and melting ice are increasing the risk of destructive floods in the Himalayas and other high mountain regions around the world.",
+    "I am a geologist and part of an ad hoc international group of 50-plus scientists who meet quickly after mountain disasters to analyze satellite images and field data to get information out to the public. This is what we’ve learned so far about the disaster and the region’s rising risks from climate change.",
+    "Evidence from satellites and seismic data we have reviewed suggest that an enormous mass of bedrock and glacier ice broke off a slope north of Langtang Lirung and slammed into the valley about 4,000 feet (1,200 meters) below – that’s a distance roughly three times the height of the Eiffel Tower. The landslide shook the earth hard enough to register as a magnitude 5.2 event on seismometers, the U.S. Geological Survey confirmed .",
+    "The result was a slurry of melting ice, rock and water that quickly flowed into the river.",
+    "We have a rough idea of how much ice fell, and it likely wouldn’t have been enough to trigger the magnitude of the flood that followed. One theory is that the rock and ice briefly dammed the valley , allowing water to back up in the river.",
+    "When that blockage broke, a wall of water rushed downstream – reaching towns, taking hundreds of lives and destroying infrastructure. Hundreds more people were stranded by the flood .",
+    "The disaster wasn’t finished when the first wall of water passed. Within a day, authorities warned that a new “ barrier lake ” estimated to hold a few million cubic meters of water had developed behind avalanche and flood debris where two rivers meet in Tibet, a region of China, before crossing into Nepal.",
+    "On Aug. 28, the barrier lake broke its bank and the river rose again. Helicopter search operations were briefly suspended while rescuers and residents on the lower banks scrambled to high ground. The immediate danger eased only when the barrier drained gradually rather than collapsing all at once.",
+    "This is the crux of why these events are so dangerous: A temporary, debris-choked dam can form in minutes, hold for hours or days, and fail with little warning. An avalanche-dammed lake often appears and disappears too quickly for conventional monitoring to catch.",
+    "We’re seeing disasters like this happen frequently.",
+    "In 2021, a similar rock and ice avalanche in India’s Uttarakhand state sent about 950 million cubic feet (27 million cubic meters) of rock and ice – roughly 80% rock, 20% ice – cascading down from Ronti Peak. It destroyed one hydropower plant, badly damaged another and killed or left missing about 200 people, many of them dam workers.",
+    "In 2025, roughly 335 million cubic feet (9.5 million cubic meters) of rock and ice fell from the Birch Glacier in the Swiss Alps, burying most of the village of Blatten; only advance monitoring and the evacuation of more than 300 residents kept the death toll to one.",
+    "The number of glacial lakes has also increased around the world, raising the risk of outburst floods. And more mountain slopes are now at risk of landslides than in the past.",
+    "In 2023, thawing permafrost led to a rock collapse into South Lhonak Lake in Sikkim, India, generating a wave that burst through the moraine holding back the glacial lake . The outburst flood sent more than 13 billion gallons (50 million cubic meters) of water rushing down the mountain, damaging several dams, more than 25,000 buildings and more than 30 bridges.",
+    "Climate change is one major contributor to rising disaster risk.",
+    "The last 10 years have been the warmest on record globally , and that has accelerated snow and glacier melt .",
+    "Populations are growing, too, and these valleys are increasingly being used to generate hydropower. As countries build more infrastructure in these places, the hazard risk rises because more people and development sit in the flood’s path.",
+    "The valley where the latest disaster occurred held multiple hydropower plants – Nepal’s electricity authority said the flood knocked about a dozen major generation and transmission facilities offline. Bridges and a major border crossing , the Gyirong Port gateway between Nepal and China, were also destroyed. It became a catastrophe because of where the water, rock and mud landed.",
+    "Together with the neighboring Hindu Kush mountains, the rugged Himalayas that stretch across Asia contain one of the world’s largest volumes of ice . They’re sometimes called the “third pole” for that reason.",
+    "As temperatures have risen, their ice loss rates roughly doubled since 2000, according to studies from the Nepal-based International Center for Integrated Mountain Development, or ICIMOD.",
+    "And it isn’t only the glaciers that are melting. High mountain slopes are also held together by permafrost – ground that stays frozen year-round – with ice filling the cracks and joints in the rock like a natural cement. As that frozen ground warms and ice inside thaws, the cement weakens, and slopes that stood for thousands of years can lose their grip.",
+    "Meltwater from snow and ice seeps into cracks in the rock. Where it refreezes, it can pry those cracks wider. Where it stays liquid, it acts as a lubricant along the surfaces where rock and ice meet.",
+    "On a steep cliff, these water-filled fractures can sometimes be the difference between a face that holds and one that gives way all at once – sending millions of tons of rock and ice into the valley below in seconds.",
+    "Not every thaw ends in disaster. But rising temperatures steadily load the dice: more slopes lose their frozen glue, more meltwater works its way into the cracks, and the odds of a catastrophic collapse rise year after year.",
+    "In the 2021 disaster in Uttarakhand, thawing likely contributed to the collapse of a large slab of rock and ice on the face of Ronti Peak.",
+    "Early indications in Nepal point to a similar story: a large mass of rock and ice detaching from a mountainside and falling, triggering the August 2026 flood. Comparing satellite images of the site from before and after , first posted by my colleague Dan Shugar , we have also noticed that a lot of snow had disappeared in the days preceding the flood. That snowmelt had to go somewhere – and it may have supplied the water that lubricated the rockfall.",
+    "From a risk standpoint, some areas of these mountains are extremely dangerous today.",
+    "To help protect people, early warning systems are crucial . When a flood starts, people living farther down the valley might have several minutes to get to safety before the water arrives – and minutes are enough to save lives.",
+    "Nepal has warning systems in place , and they have been credited with preventing casualties in the past. But the warning systems rely heavily on river-level gauges, which work far better for monsoon floods than for a wall of water moving tens of meters per second – and the flood itself likely destroyed the very gauges the warning systems depend on.",
+    "Building redundancy into the system would help, such as adding seismic sensors that detect a large mass movement the instant it happens, sirens and loudspeakers in valley-bottom settlements, radio and satellite-based cell broadcasts that don’t rely on a single tower that a flood can sweep away, and automatic alerts triggered when an avalanche and sudden water and sediment level in the river jumps.",
+    "Knowing the risks can also improve permit decisions for hydropower dams, roads and buildings in high-hazard corridors – and it can push monitoring beyond the familiar checklist of large glacial lakes to hanging glaciers, steep ice-and-rock slopes, permafrost, and the short-lived debris dams that can be just as deadly.",
+    "Regional cooperation is also important. When rivers cross borders or a transboundary glacial lake has potential to fail , the disaster doesn’t stop at the border. The water that devastated Nepal began on the Tibetan side, and the barrier lake that threatened a second surge sat right on the frontier.",
+    "Umesh Haritashya receives funding from NASA and other similar basic and applied Earth science research funding organizations."
+   ],
+   "img": "https://images.theconversation.com/files/756831/original/file-20260829-50-g9eot6.jpg?ixlib=rb-4.1.1&rect=0%2C1%2C6912%2C4608&q=45&auto=format&w=1050&h=700&fit=crop",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -262,25 +842,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-logcom20260828fridayroundtablefinaltrips",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Final Trips",
-   "author": "Michael Smith",
-   "date": "2026-08-28",
-   "url": "https://seattletransitblog.com/2026/08/28/friday-roundtable-final-trips/",
-   "paras": [
-    "Transit agencies around Puget Sound are updating their networks this weekend. This service change is more significant than most with restructures in south King County and Pierce County, east King County , and north King County and Snohomish County . In addition to the local transit agencies, Sound Transit is revising its ST Express routes to reflect the several Link extensions over the past few years. While the new routes and overall network are a better use of each agency’s limited resources, Puget Sound transit passengers will be losing several routes that have transformed the region.",
-    "There are a few organized events to bid farewell to some routes. In Issaquah, Rep. Zach Hall and Councilmember Kelly Jiang are hosting a Celebration of Life for routes 271 and 554. The ceremony will take place at Issaquah Transit Center at 6pm today.",
-    "A funeral for Route 550 will take place at Bellevue City Hall Plaza today at 6:30pm .",
-    "If prefer to ride the very last trip for your favorite route, the table below outlines the final trips for each route that will be eliminated this weekend. Unless otherwise noted, all times are for today (Friday)."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3123-2.jpg?resize=525%2C350&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-erettlinkreacheskeyfridapprovalmilestone",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -307,6 +868,25 @@
     "The Everett Link project will need to keep moving through the process for its anticipated 2037 opening for the Paine Field segment to stay in play."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20260703_090237.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-logcom20260828fridayroundtablefinaltrips",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Final Trips",
+   "author": "Michael Smith",
+   "date": "2026-08-28",
+   "url": "https://seattletransitblog.com/2026/08/28/friday-roundtable-final-trips/",
+   "paras": [
+    "Transit agencies around Puget Sound are updating their networks this weekend. This service change is more significant than most with restructures in south King County and Pierce County, east King County , and north King County and Snohomish County . In addition to the local transit agencies, Sound Transit is revising its ST Express routes to reflect the several Link extensions over the past few years. While the new routes and overall network are a better use of each agency’s limited resources, Puget Sound transit passengers will be losing several routes that have transformed the region.",
+    "There are a few organized events to bid farewell to some routes. In Issaquah, Rep. Zach Hall and Councilmember Kelly Jiang are hosting a Celebration of Life for routes 271 and 554. The ceremony will take place at Issaquah Transit Center at 6pm today.",
+    "A funeral for Route 550 will take place at Bellevue City Hall Plaza today at 6:30pm .",
+    "If prefer to ride the very last trip for your favorite route, the table below outlines the final trips for each route that will be eliminated this weekend. Unless otherwise noted, all times are for today (Friday)."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3123-2.jpg?resize=525%2C350&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -381,102 +961,6 @@
    "annos": null
   },
   {
-   "id": "f-cascade-stincitylimitsremembersdollypartonqadiuv",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Austin City Limits Remembers Dolly Parton",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/austin-city-limits/specials/austin-city-limits-remembers-dolly-parton-qadiuv/",
-   "paras": [
-    "Austin City Limits mourns the loss of Dolly Parton, the legendary singer, songwriter, musician and cultural icon. When Dolly Parton made her long-awaited ACL debut in 2000 for a Season 26 taping that aired January 18, 2001, ACL Executive Producer Terry Lickona called the occasion “a dream come true.” More than 25 years later, that dream remains one of the most treasured performances of ACL TV."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/f6349820-6796-4af0-90eb-136831871ef9.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-st282026pbsnewshourfullepisode1787889603",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "August 28, 2026 - PBS News Hour full episode",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/newshour/episode/august-28-2026-pbs-news-hour-full-episode-1787889603/",
-   "paras": [
-    "August 28, 2026 - PBS News Hour full episode"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/5ccc1c5a-9b05-4fed-acc0-cda1e5936015.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-icetrailersmultiplechoicecoming915vvuafe",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Multiple Choice Coming 9/15",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/multiple-choice/trailers/multiple-choice-coming-915-vvuafe/",
-   "paras": [
-    "MULTIPLE CHOICE follows a school district’s transformative approach to career-based learning, where both college prep and career-based learning are integrated to help students discover in-demand skills and connect to meaningful careers. At a time of tremendous change in employment, education, and technology, students explore diverse careers and master traditional and new-economy skills."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/59025d2f-01e3-4e12-aa29-2044a39aaf5f.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-httpswwwcascadepbsorgshowmultiplechoice",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Multiple Choice",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/multiple-choice/",
-   "paras": [
-    "MULTIPLE CHOICE follows a school district’s transformative approach to career-based learning, where both college prep and career-based learning are integrated to help students discover in-demand skills and connect to meaningful careers. At a time of tremendous change in employment, education, and technology, students explore diverse careers and master traditional and new-economy skills."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/1f0f797f-1adc-4708-b922-fd6e1b6e0be6.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-mericanroadtripextrasdatefarmmeccalvnzed",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "A Date Farm in Mecca",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/great-muslim-american-road-trip/extras/date-farm-mecca-lvnzed/",
-   "paras": [
-    "Some of the best dates grown in America come from Mecca, California."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/4548603f-b1b7-453d-b148-be0e73d942bb.JPG",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-ricanroadtripextrasgoodnesssincityojkehl",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Goodness in \"Sin City\"",
-   "author": "Cascade PBS Staff",
-   "date": "2026-08-28",
-   "url": "https://www.cascadepbs.org/show/great-muslim-american-road-trip/extras/goodness-sin-city-ojkehl/",
-   "paras": [
-    "While some call Las Vegas \"Sin City,\" Mona and Sebastian find a lot of goodness there too."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/08/add931b1-b7f8-4e67-bd01-815b0044face.JPG",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-eater-eeatercomdiningreport90880cafeloloreview",
    "srcKey": "eater",
    "cat": "food",
@@ -516,100 +1000,123 @@
    "annos": null
   },
   {
-   "id": "f-stranger-Tc1RNQ2RvWUtacXA5YmRMUUJnN0taN1NVNzdVoc5",
+   "id": "f-stranger-lfinancecomplaintsagainsttheseattletimes",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Right-Wing Radio Host Ari Hoffman Files Political Finance Complaints Against the Seattle Times",
+   "author": "John Stang",
+   "date": "2026-08-28",
+   "url": "https://www.thestranger.com/news/right-wing-podcaster-ari-hoffman-files-political-finance-complaints-against-the-seattle-times/",
+   "paras": [
+    "Radio host Ari Hoffman of KVI AM 570 news radio fired the first shot Aug.18 in a barrage of complaints to the state government that allege “the legacy media” is cheating on Washington’s campaign finance laws.",
+    "His target? The Seattle Times and its opposition to a failed 2024 ballot measure to repeal a new industrial carbon emissions law.",
+    "He filed his complaint against the Times and its Climate Lab with the Public Disclosure Commission, which regulates political campaign finances in Washington.",
+    "On Aug. 24, Hoffman filed a second PDC complaint regarding the Times’ project homelessness coverage, which has at least two reporters funded by donations from homeless institutions. He claims this coverage improperly boosted a Seattle housing property tax levy in 2023, which successfully replaced an expiring 2016 levy.",
+    "Hoffman declined comment. “I do not give comments to anti-American antisemitic rags like the Stranger,” he wrote in an email.",
+    "Essentially, Hoffman’s Climate Lab complaint to the PDC claims that liberal groups sent money to the Times through the Seattle Foundation—an 80-year-old philanthropic organization that provides grants and investment money to a wide range of causes and ventures, including donations it funnels to the Seattle Times ’ Climate Lab project—so the paper would write stories and editorials to sway readers to vote against a 2024 ballot measure that would repeal the state’s new Climate Commitment Act (CCA). The CCA, a quarterly state auction of carbon carbon emissions credits to polluting industries which pays for numerous global warming mitigation programs, survived by a 62-percent-to-38-percent margin.",
+    "The Seattle Foundation and some of the Climate Lab donors also make political donations.",
+    "According to Hoffman’s complaint, The Seattle Times and donor organizations should be investigated for potentially violating Washington campaign finance reporting requirements by not reporting the financial value and sponsor identification for political advertising, expenditures, contributions, and in-kind support associated with opposing 2024’s ballot measure.",
+    "The complaint claims the Climate Lab, a team of four climate reporters whose 2024 coverage specifically addressed the carbon emissions credits law only a handful of times, differs from normal newsroom operations because it is funded through donations and not from the paper’s normal revenue.",
+    "Hoffman wants the PDC to interview the Times ’s Climate Lab reporters and editorial board members. Plus, he wants the commission to examine all of the Times ’s stories and editorials, as well as all finances and emails involving the Times ’s relations with the Seattle Foundation and its climate-related donors.",
+    "The Seattle Times and the Seattle Foundation both declined comment.",
+    "Hoffman, a right-wing commentator, does not present any specific details that prove that the Times ’s climate change coverage is not factually based, accurate, nor objective.",
+    "This practice of using donations to bolster news coverage has become more common among newspapers, whose revenues have dramatically shrunk due to advertising drying up",
+    "The Spokesman-Review is one such paper. Its longtime owners—the Cowles family—recently transferred ownership to a new Spokane non-profit corporation, Comma Community Journalism Lab. Comma’s list of donors is public .",
+    "Also, the Washington State Standard is part of States Newsroom , a nationwide non-profit collection of newsrooms funded by roughly 1,200 donations of more than $1,000 for it to cover state governments. Conservative interests have accused States Newsroom of liberal biases, which the national organization denies having. The liberal Hopewell Fund largely bankrolled States Newsroom from 2017 to 2019 until the organization got on its feet. Several liberal interests are among the national group’s donors.",
+    "The Washington State Standard has the biggest statehouse news operation in Olympia, and is a neutral workhorse whose stories are reprinted by several state papers.",
+    "Another relatively new Olympia news operation funded solely by donors is The Center Square. The conservative Franklin News Foundation (formerly the Franklin Center) funds The Center Square in numerous states. Most donors to the Franklin News Foundation are anonymous. The Center Square (formerly Watchdog) concentrates on business and tax issues, although it has stretched into other matters.",
+    "Philanthropy.org, a nationwide donation-tracking Web site, says that Project 42, a leading Washington conservative funding operation, donated $3.1 million to the Franklin News Foundation from 2021 to 2024.",
+    "Redmond hedge fund manager Brian Heywood leads Let’s Go Washington, which has three initiatives on the November ballot – banning transgender girls from girls sports, revoking the millionaires’ income tax, and a parental rights measure.",
+    "Heywood also helps control the pursestrings of Project 42, whose subsidiary Future 42 is a regular advertiser on Brandi Kruse’s podcast. Kruse is also an official “ambassador” of Future 42, which translates to being a very vocal supporter.",
+    "Meanwhile, right-wing podcaster Kruse says she soon plans to file PDC complaints similar to Hoffman’s against the Times , the Tacoma News Tribune , The Stranger , her former employer KIRO Newsradio, and the independent Black outlet Converge Media.",
+    "Kruse and Hoffman are not coordinating their complaints. “Ari Hoffman did that all on his lonesome. I learned about it after the fact,” she said about his first complaint in an email to The Stranger .",
+    "Hoffman’s and Kruse’s PDC filings are apparent payback for a group called Washingtonians For Ethical Government (WFEG) filing a complaint against Let’s Go Washington in May. That complaint alleged that the conservative initiative organization Let’s Go Washington has not properly filed campaign documentation related to Kruse’s podcast, unDivided, being a major supporter of the organization’s November 2026 ballot measure to ban transgender girls from girls sports.",
+    "The WFEG complaint alleges 159 instances of Kruse boosting the measure on her podcast from September 2025 to February 2026, plus two times she led political rallies on the same topic. The complaint alleges that Kruse’s support crossed the line from commentary to at least $345,000 in free advertising. Kruse still discusses this measure on her podcast several times a week.",
+    "The PDC recently decided to launch a formal investigation into this claim—roughly 90 days after it was submitted. A couple Seattle television newsrooms noted that launch .",
+    "On her Aug. 18 podcast, Kruse pointed to the PDC not terminating the May complaint, which she contended unfairly tainted her and Let’s Go Washington with a bad image.",
+    "She believes that the PDC is deliberately not resolving the May complaint by now. “The PDC’s decision to allow (the Washingtonians For Ethical Government complaint) to linger is a political decision,” Kruse said.",
+    "As the PDC investigates the complaint against Let’s Go Washington, it will have to parse legal and semantic differences between commentary and free political advertising. A 2007 Washington Supreme Court ruling that declares radio host commentary is not political advertising will also likely be a factor in the PDC’s investigation. The commission will also likely examine financial and organizational ties between Kruse and Brian Heywood, sponsor of the anti-trans Let’s Go Washington measure and two others on November’s ballot.",
+    "Kruse is angry that her podcast is receiving bad publicity from this matter because Let’s Go Washington is accused of the actual insufficient campaign reporting – with her podcast not being required to report to the PDC. “I have a First Amendment right to support any initiative I choose,”she wrote in her email.",
+    "On her Aug. 18 podcast, Kruse said she would “assemble an army” to be paid with her own money to compile detailed information on the advertisers, stories and finances of The Seattle Times , The Stranger , The News Tribune , KIRO News Radio and Converge Media to send detailed complaints to the PDC.",
+    "Meanwhile, Kruse wrote in her email: “I selected a wide array of media outlets to make a point: it’s not about politics, it’s about equal treatment under the law. If the PDC chooses to erode my First Amendment rights, then they must also go after those who are similarly situated – including dear friends of mine. Anyone who engaged in commercial advertising while also engaging in opinion on candidates or campaigns is impacted.”",
+    "After the first five complaints are filed, Kruse plans to continue submitting similar complaints regarding other Washington news operations.",
+    "“I will spend every waking hour burying the PDC in bullshit over this,” she said on her Aug. 17 podcast.",
+    "Kruse and Hoffman ally themselves with right-wing activist Jonathan Choe. The trio routinely participate in conservative political activities. Kruse also is paid to speak at Republican functions, and she campaigned for free for GOP gubernatorial candidate David Reichert in 2024.",
+    "Months ago, Kruse and Cho attended an Antifa roundtable at the White House where Kruse told President Donald Trump that her support for his second term made her feel more attractive—a remark out of sync with accepted press professionalism.",
+    "The three are co-plaintiffs in a federal lawsuit to be declared journalists so they can get access to the Democratic side of the Capitol’s House chamber in Olympia. They already have access to the entire Senate chamber and to the GOP side of the House chamber by various means. The judge in charge of that litigation told them that their chances of prevailing in that lawsuit are slim.",
+    "While this is technically a separate issue from the PDC matter, Kruse has loosely co-mingled the two in a few podcasts.",
+    "Editor’s note: The original headline of this story read, “Right-Wing Podcaster Ari Hoffman Files Political Finance Complaints Against the Seattle Times.” While Ari Hoffman’s show is available to us all in podcast form, he is a radio host.",
+    "The post Right-Wing Radio Host Ari Hoffman Files Political Finance Complaints Against the Seattle Times appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/air-hoffman-image-credit-to-Talk-Radio-570-KVI_YouTube.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-uckeventsinseattlethisweekendaug28302026",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Best Bang for Your Buck Events in Seattle This Weekend: Aug 28–30, 2026",
+   "author": "EverOut Staff",
+   "date": "2026-08-28",
+   "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-aug-28-30-2026/",
+   "paras": [
+    "This week was a bit of a downer, so seek out some joy and community this weekend at events from the Cal Anderson “NO HATE in WA State” Carnival to Linda’s Fest and from the Seattle Black Nerd Festival to the Waterfront Block Party . For more ideas, check out our top picks of the week .",
+    "IROIRO EP Release Party Did you know that The Stranger launched a new audio and video podcast in July? Noise Complaint ’s first-ever guest was instrumental neo-krautrock band Iroiro, who performed a truly transportive live set in the office before being physically transported—and interviewed —in the building’s freight elevator. The group proves that you don’t need vocals to capture the listener’s attention, with its four members layering the sounds of guitar, bass, drums, synths, and theremin to psychedelic effect. Join Iroiro for a free and all-ages show celebrating the physical release of their new EP (it’s not on streaming platforms until September 11) with support from Tilson XOXO, whose funky fresh tunes combine hip-hop and rock music. SHANNON LUBETICH (Hometeam Gallery, Pioneer Square, free)",
+    "The post The Best Bang for Your Buck Events in Seattle This Weekend: Aug 28–30, 2026 appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/waterfrontblockparty-1.jpg?fit=1024%2C767&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-adandmorethan2000missingafternepalfloods",
    "srcKey": "stranger",
    "cat": "arts",
    "title": "Slog AM: Katie Wilson Recall Withdrawn, Fare Gates for Light Rail, 550 Dead and More Than 2,000 Missing After Nepal Floods",
+   "author": "Nathalie Graham",
+   "date": "2026-08-28",
+   "url": "https://www.thestranger.com/slog-am/slog-am-katie-wilson-recall-withdrawn-fare-gates-for-light-rail-550-dead-and-more-than-2000-missing-after-nepal-floods/",
+   "paras": [
+    "Recall recalled: The married Bruce Harrell voters who filed a petition to recall Mayor Katie Wilson for “misfeasance” have asked a King County Superior Court judge to dismiss their petition . According to KUOW, the pair had a hard time finding a lawyer to represent them and, when they did, the lawyer advised them to file dismissal paperwork. The couple may refile and resubmit the recall petition. Their first stab was light on legal arguments. If they do refile, Wilson’s lawyer said Wilson may “seek sanctions against them.”",
+    "Hell is empty and the devils are here: The Mariners gave away 20,000 special Jimothy trading cards at their “Jimothy Night” game on August 5. Hidden among the ordinary short-spined gremlins was a single special golden Jimothy card. A 13-year-old received it, which means she can now compete for ownership of the Jimothy factory. But as even the children know what it is to live in a capitalistic society, she is hawking it on eBay instead. The top bid is $15,000.",
+    "Fare gates coming to light rail stations: Sound Transit needs scratch to make good on its Sound Transit 3 promises (light rail to Ballard, anyone?). Their genius strategy? Make people pay for the train that costs money. Only about a third of light rail riders do not pay their fare these days, so the Sound Transit board has voted for a $6 million pilot program (with an $87 million installation fee) to put fare gates at 14 stations from 2029 to 2034 . They will raise the gates at all stations from Northgate to the International District/Chinatown in Seattle, and at Lynnwood City Center, SeaTac Airport, Federal Way Downtown, Bellevue Downtown, and Downtown Redmond. Sound Transit estimates the pilot will rake in $30 million a year.",
+    "Tragedy not averted: The disaster at Longview’s Nippon Dynawave Packaging mill in May that killed 11 people and seriously injured three could have been prevented . The storage tank full of deadly caustic white liquor was found unfit for continued service at an inspection 10 months before it failed and spilled its 900,000 gallons. The walls of the exterior shell had thinned below the minimum-safe thickness, reports KING 5.",
+    "Climber rescued: A man climbing a mountain in California’s Sierra Nevadas, without ropes, got stuck on a six-inch rock ledge and radioed rescuers for help , but it was so windy a helicopter could not safely swoop in to save him the easy way. It took eight to nine hours for them to rescue him, climbing alongside him to safety in the dead of night. Type-three fun for sure.",
+    "The moon: There was a partial lunar eclipse last night. Did you see it?",
+    "The weather: I know I am a full Seattle sicko because the weather is cooling off, and I am thrilled. Today will be another “lovely” sunny day, but the wet and the gray are in the forecast on Saturday, with more to come next week.",
+    "It’s Not Brain Surgery, Six Flags: In July, a woman was rushed to a hospital after riding Six Flags Magic Mountain’s X2 rollercoaster. Neurosurgeons said the inside of her skull looked like what they see in “high-speed collisions or other violent accidents that cause the brain to twist and slam inside one’s skull,” CNN reports. Days later, another X2 rider was rushed to the hospital with the same injuries, and only then did Six Flags close the ride. She is still in a coma. But that’s not all: CNN found that the coaster was linked to two deaths and dozens of reports of serious injuries and hospitalizations.",
+    "Lake Shut the Fuck Up: The escalating trade war between the US and our former strongest ally, Canada, is just as bad as you’d expectgreat . After trade talks broke down Friday, Trump levied 50 percent tariffs on some Canadian goods. When Canada responded with tariffs in kind, Trump upped the ante by renaming Lake Ontario “Lake America.” That’ll surely make everyone happy. “We have a gulf, and we have a lake, now all we need is an ocean,” Trump said, imperially.",
+    "Nepal flash flood death toll continues to rise: The flash flood on the Himalayan border between Nepal and China has killed at least 553 people in Nepal, and authorities said 1,924 more are missing. China reported five deaths and 558 missing people. Flood risk remains high. A blocked river upstream has formed a new lake that could be at risk of flooding.",
+    "Norway’s king is dead: King Harald V died at age 89 . He was three years old when the Nazis occupied Norway during World War II. His mother fled with him and his two sisters, taking them first to Sweden, and then to the US to avoid capture. If he was aiming to slip out the backdoor of life unnoticed, he couldn’t have picked a better week.",
+    "ICE arrests mother and daughter who survived car crash: Immigration and Custom Enforcement goons rounded up an Ecuadorian mother, Grace Stephanie Calero Cabanilla, 39, and her daughter, Giulianna Mía Carriel Calero, 19, at a Florida hospital where they were recovering from a car crash. “Video posted online by Gia Calero, Calero Cabanilla’s sister, and published by CNN showed the two women embracing in tears on a hospital bed as law enforcement officers attempted to separate them,” CNN reports . The US government accused the mother of overstaying her visa. A family member said the mother has a pending asylum case and an active work permit. The daughter has a valid visa. Neither have criminal records.",
+    "Stud alert: One frisky bird is responsible for keeping his species alive in the United Kingdom. A 10-year-old Montagu’s harrier nicknamed AU, the chemical symbol for gold, has sired 16 birds. “He’s at the top of his game,” Mark Thomas, a conservationist and species lead for Royal Society for the Protection of Birds said. He called AU “absolutely prolific.” The ladies love AU, AU clearly loves fucking, and the researchers love to watch. Everybody wins!",
+    "(Correction: An earlier version of this story stated the child who found the golden Jimothy card was a boy. She is a girl. Girls like baseball, too. )",
+    "(Correction: An earlier version of this story stated only one third of light rail riders pay for their fares. That is incorrect. One third of light rail riders do not pay for their fares. We regret the error.)",
+    "The post Slog AM: Katie Wilson Recall Withdrawn, Fare Gates for Light Rail, 550 Dead and More Than 2,000 Missing After Nepal Floods appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/IMG_9276-1-scaled.jpg?fit=1024%2C576&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-yS0pNU0tOaXdSVDVkNXh5Z0tpbUtlRzRkdjE0oc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Mail-in voting will continue for now. WA officials laud latest ruling",
    "author": "",
    "date": "2026-08-28",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN3JTcU5xdnRBQVc0V1FUcGhrRUhIVWJobkR3QnlfQVdKeHFaazhIZjFvNDh6a0pjd0ttTThnbUwyYkNtbzlSdlczT242NjRmMVdCOWk4dktPbFFCcmtDclVpeEcxNjR4TlhtVlJ4endfTll1UEwwVkNkZk1aU0o2ZXRYT0plMVVlckNZR3ZQSGFjcHRKQTlBUm5oemhFXzM4TFV3QTgzQXNoTnQ4aGdabTBVOWdvR3B5SFFKajY2Yzcwek01ZXcycXpQNndMQlRTc1RNQ2RvWUtacXA5YmRMUUJnN0taN1NVNzdV?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRSRGdGMkZkblNVM1VCcmo1WUZDYkFYZHNOTjlOTnNJSjVNWTNxdXVwUGM0d0oyeWFYMlJhU0VUWHFVQ2hDLXo3R1JCMk84UnFGVUNsSms2NXJiQTBZTUdyZjZQbnhVSzJDZFhENnhBQl8yaTVKd1NmcU05V1F3aVhTY0IyYnB3VVNhTlp5cXk5TnAyS0pNU0tOaXdSVDVkNXh5Z0tpbUtlRzRkdjE0?oc=5",
    "paras": [
-    "Slog AM: Katie Wilson Recall Withdrawn, Fare Gates for Light Rail, 550 Dead and More Than 2,000 Missing After Nepal Floods thestranger.com"
+    "Mail-in voting will continue for now. WA officials laud latest ruling KUOW"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-tpswwwnprorg20260828nxs15947854usiranwar",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "After 6 months of war, Iran's battered regime remains entrenched",
-   "author": "Hadeel Al-Shalchi",
-   "date": "2026-08-28",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-   "paras": [
-    "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F2e%2F6d69d181449e80011d1535daeed7%2Fgettyimages-2288787522.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-reserveinflationjacksonholeinterestrates",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Fed's Kevin Warsh warns inflation is too high, sparking bets rate hikes are coming",
-   "author": "Scott Horsley",
-   "date": "2026-08-28",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5947903/federal-reserve-inflation-jackson-hole-interest-rates",
-   "paras": [
-    "Fed Chair Kevin Warsh reiterated his commitment to fighting inflation in a major speech — raising expectations that rate hikes may be coming, though he did not clearly spell out a path going forward."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7249x4835+0+0/resize/7249x4835!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F38%2F543982a349d4bb76c5c993d3a03a%2Fgettyimages-2291773172.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-thefifthextinctionthatkilledthedinosaurs",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "New Jersey is a fossil hotspot, with answers about the day the dinosaurs died",
-   "author": "Manoush Zomorodi",
-   "date": "2026-08-28",
-   "url": "https://www.npr.org/2024/08/16/g-s1-140898/paleontologist-ken-lacovara-and-the-fifth-extinction-that-killed-the-dinosaurs",
-   "paras": [
-    "Paleontologist Ken Lacovara never expected to find critical fossil data in a New Jersey suburb—let alone info about the asteroid that killed the dinosaurs. His dig site is now a fossil park and museum."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-rnepaltibetfloodskevinwarshkennedycenter",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
-   "author": "Brittney Melton",
-   "date": "2026-08-28",
-   "url": "https://www.npr.org/2026/08/28/g-s1-140866/up-first-newsletter-nepal-tibet-floods-kevin-warsh-kennedy-center",
-   "paras": [
-    "As the death toll rises from flash floods that hit the Nepal-Tibet border, experts are warning more flooding could be on the way. And, Fed Chairman Kevin Warsh is expected to give a key address today."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-96shortsworkofficesiliconvalleybloomberg",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "So long to shorts? In Silicon Valley, tech workers are showing less leg",
-   "author": "Chloe Veltman",
-   "date": "2026-08-28",
-   "url": "https://www.npr.org/2026/08/28/nx-s1-5943596/shorts-work-office-silicon-valley-bloomberg",
-   "paras": [
-    "Men in the tech industry are covering up their legs, even as their counterparts in finance are increasingly open to showing them off."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2Fdc%2Fa42cc31544288f4bb6de6649eded%2Fgettyimages-598926860.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -623,197 +1130,7 @@
    "paras": [
     "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/983c/live/3900eaa0-a318-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc93v70w79gxoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "What we know about the 33 British nationals missing in Nepal",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6516/live/9a603130-a2bd-11f1-b109-879e35c24276.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescwyz52x45jxoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Man dies and at least six injured after sign falls at Christian festival",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescx2zlwe7qj1oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The agreement would grant the US majority control of over 65 billion barrels of proven Venezuelan oil reserves, Trump said."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0053/live/a9f70e80-a339-11f1-a0c7-f9810b5aa403.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deoscx2zdvlqw8yoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'It's destroying our town': Residents tell of concern after violent incidents near Middlesbrough",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/videos/cx2zdvlqw8yo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Residents near Middlesbrough have told the BBC of their concern after a spate of violent incidents in their area."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/6367fd80-a31b-11f1-a291-b542ee92de7c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deosc05rzd115y5oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Norway's 'grandfather': King Harald remembered as son Haakon takes the throne",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/videos/c05rzd115y5o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Norwegians paid their respects to the late King Harld after his death on Friday morning."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7a7/live/9bd82ec0-a30b-11f1-b109-879e35c24276.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ree2026aug28trumpmidtermcampaigndevotion",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Trump’s midterm campaign theme is unrequited love | Sidney Blumenthal",
-   "author": "Sidney Blumenthal",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/28/trump-midterm-campaign-devotion",
-   "paras": [
-    "The president senses a crisis in his cult of personality. He believes the path to victory is through unwavering devotion",
-    "Donald Trump has framed his theme for the midterm elections. It has come to him as naturally and inevitably as staring into the mirror, beyond any logic or argument, his definitive answer to no specific issue, providing no understanding of any particular problem, but transcending all of them. His political theme is more primal than programmatic, more instinctive than analytical, a heartfelt expression to protect his greatest romantic attachment, his obsessive fixation, his idealized object: himself.",
-    "Trump’s campaign theme is unrequited love. Unlike the pollsters, media consultants and pundits, he alone has grasped the magnitude and the source of the existential crisis threatening his politics. He has identified the problem for the Republicans as the faltering measure of complete devotion to him. His demand has nothing to do with mutual affection. It is a ploy to reassert his slipping control, a manipulative test to prove loyalty to him, or else. There can be no absolute rule without an absolute ruler; no absolute ruler without absolute submission; no absolute submission without the expression of absolute love. His sadness at its fading gives way to anger, paranoia and greater acts of retribution. He equates the fear he instills as a form of love. Trump accepts subservience, from whatever motive, as affection or its closest equivalent. He cares nothing about sincerity, so it’s all in the show. The less love displayed, the more fear required. Yet there is no rebound, but only deeper rejection."
-   ],
-   "img": "https://i.guim.co.uk/img/media/5bc44a8ac9803d7231c6c692914b7011d26f75a7/758_0_2958_2367/master/2958.jpg?width=140&quality=85&auto=format&fit=max&s=746199c88191f54d76befc3111392088",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ndwideopenmensdrawsetstageforusopendrama",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Shaky Sabalenka and wide-open men’s draw set stage for US Open drama",
-   "author": "Tumaini Carayol at Flushing Meadows",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/sport/2026/aug/28/vulnerable-sabalenka-and-wide-open-mens-draw-set-stage-for-us-open-drama",
-   "paras": [
-    "Defending champion arrives at Flushing Meadows in poor form and with a host of challengers looking to usurp her",
-    "Under any normal circumstances Aryna Sabalenka would not have lost her third-round match at the Cincinnati Open last week. For all of her unforced errors, indecisiveness and the obvious tension surrounding her tennis, the world No 1 had led the unheralded Sára Bejlek 5-1 in the first set tie-break and then 4-1 in set two. She gave herself more than enough chances to close out a comfortable win.",
-    "Instead Sabalenka returns to New York trying to find a path through her greatest crisis since she first reached No 1 in the rankings more than three years ago. That straight-sets loss in Cincinnati extended a mediocre 17-7 record dating back to the beginning of April during which she has not reached a final. She has just one more chance to turn her fortunes around as she tries to claim her first grand slam title of the year at the US Open, the tournament she has won on the last two occasions."
-   ],
-   "img": "https://i.guim.co.uk/img/media/57ccd0dca6ab623f8457dbba3e9c0343691fcf1e/53_0_2132_1705/master/2132.jpg?width=140&quality=85&auto=format&fit=max&s=dee3d27112f9dd84c8c5c9e7e9fe4813",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-entisfree2026aug28dollypartontrumpcanada",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Dolly Parton was the polar opposite of our bullying president | Robert Reich",
-   "author": "Robert Reich",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/commentisfree/2026/aug/28/dolly-parton-trump-canada",
-   "paras": [
-    "Terrified of being seen as a loser, Donald Trump is nonsensically lashing out – even against our old friend Canada",
-    "I’m still grieving Dolly Parton . I never met her and always wanted to. She was almost exactly my age and my height and had values I deeply admired. Her death leaves a hole in the firmament.",
-    "Which brings me to the person whose values are as far from Dolly Parton’s as any human could possibly be and still claim to be human. I’m referring, of course, to the current occupant of the Oval Office."
-   ],
-   "img": "https://i.guim.co.uk/img/media/bebd855eb9518eca725aa565870f76efee594e64/792_0_7830_6265/master/7830.jpg?width=140&quality=85&auto=format&fit=max&s=153629aa478acbe3cd30b9e0116591cc",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-deislandgrocerystorerestrictivecovenants",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "This US city only has one supermarket for 45,000 people. New legislation seeks to fix that",
-   "author": "Lela Nargi",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/environment/2026/aug/28/rhode-island-grocery-store-restrictive-covenants",
-   "paras": [
-    "Big grocery can use anti-competitive clauses to block other stores from entering a market. Rhode Island is the second state to ban that practice",
-    "Jeannine Johansen remembers the halcyon days of Woonsocket, Rhode Island, when so many of its steep streets were punctuated by grocery stores: Almacs, A&P, Piggly Wiggly and Star Market. In the blizzard of 1978, “everybody went to Fernandes [Produce] because Stop & Shop was too far, and all the roads were closed, so we had to walk”, said the native Woonsocketer.",
-    "These days, Woonsocket is down to one full-service supermarket: a solitary Price Rite serving 45,000 residents, 37% of them food insecure , perched at the top of a hill in a strip mall at the edge of the city. A nearby Dollar General offers frozen meat and packaged foods. Locals with cars ( 18% of Woonsocket residents have no vehicle) might travel farther afield, beyond Woonsocket’s borders, to Shaw’s or Aldi in search of deals."
-   ],
-   "img": "https://i.guim.co.uk/img/media/30a80cdfb7288cfab1f71413c226ed4c4e82bb84/647_0_6437_5153/master/6437.jpg?width=140&quality=85&auto=format&fit=max&s=ec9d14f77129b1f295ce1f4a8caf8db8",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-filterus2026aug28bestpethairremovaltools",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I tested 18 tools for removing cat hair. These are the 9 best to keep your home fur-free",
-   "author": "Nina Thomas",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/thefilter-us/2026/aug/28/best-pet-hair-removal-tools",
-   "paras": [
-    "I put a bevy of hair removal solutions to the test and found the best options for keeping your home fur-free",
-    "‘Can’t imagine a cat not having this toy’: Your indoor cat is bored. Here’s how to fix it",
-    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
-    "When I first adopted my three cats Frankie, Joy and Olive, I was prepared for playtime, cuddles and upgrading my phone storage to have room for all of the photos I’d take of them. I was not as prepared for the sheer amount of fur three cats produced simply by existing. Since my cats have both light and dark hair, it’s not easy to hide their fur.",
-    "At times, it would be easier to leave my condo coated in a layer of cat fur at all times – but with the right tools, tidying up becomes much easier. It turns out, depending on the fabric makeup of your furniture and clothing, you’ll need a variety of tools to keep your home spotless. To find the very best hair removal tools, I looked into what was on the market and tried a variety of methods to see which ones worked the most efficiently. I also consulted a cleaning expert and cat behavioralist to find out just what works most purrfectly for our homes with furry friends."
-   ],
-   "img": "https://i.guim.co.uk/img/media/57d07999be183de3ca4f125f6dd058475ebd4f91/26_0_4679_3743/master/4679.jpg?width=140&quality=85&auto=format&fit=max&s=4c3add3961050ce741767cf2aab16e15",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-essaykpopwildepmanonkpophybegirlgrouppop",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "How Katseye became the world’s biggest girl group – while falling apart",
-   "author": "Erica Russell",
-   "date": "2026-08-28",
-   "url": "https://www.theguardian.com/music/2026/aug/28/katseye-essay-kpop-wild-ep-manon-kpop-hybe-girl-group-pop",
-   "paras": [
-    "Their raucous pop music has made Katseye the biggest girl band in two decades. Can they weather toxic fandom, critical pans and a dwindling member count?",
-    "Before screenings of their new documentary, the members of Katseye appear in a video message to thank fans for their support. Their followers, Eyekons, have played a critical role in their rise to stardom, so it makes sense that Katseye: Wild Hearts , released in global theaters this month, takes a beat to shout out to them. Perhaps more than many other big music groups today, the group’s rise has depended on their relationship with their devotees who ensure that few corners of the world are safe from Katseye mania.",
-    "Katseye’s multinational members – Daniela, Lara, Manon, Megan, Sophia and Yoonchae – were selected through a combination of fan votes and judge scores on the 2023 YouTube reality competition The Debut: Dream Academy. The joint project between the American record label Geffen Records and Korean entertainment company Hybe aimed to create a global girl group, with hopefuls participating in a rigorous bootcamp to test their singing and dancing skills. The following year, Netflix’s docu-series Pop Star Academy: Katseye – which documented the group’s nascent era, behind-the-scenes drama and all – catapulted them to a new level of visibility."
-   ],
-   "img": "https://i.guim.co.uk/img/media/61a8fe6a6ecf385f8c4747368c83223126861b50/242_0_2280_1825/master/2280.jpg?width=140&quality=85&auto=format&fit=max&s=d8d7562478b1f0c186ab558d3ad667ab",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7491/live/38bbbe20-a382-11f1-a291-b542ee92de7c.jpg",
    "fetched": true,
    "fullText": false,
    "annos": null
@@ -1041,136 +1358,6 @@
    "annos": null
   },
   {
-   "id": "f-conversation-standingeconomicmarketforprisoners286531",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Immigration enforcement is supplying a long-standing economic market for prisoners",
-   "author": "<name>Ella Siegrist, PhD Candidate in Sociology, Washington University in St. Louis</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/ella-siegrist-2710350\"/>",
-   "date": "2026-08-28",
-   "url": "https://theconversation.com/immigration-enforcement-is-supplying-a-long-standing-economic-market-for-prisoners-286531",
-   "paras": [
-    "In January 2026, during Operation Country Roads , Immigration and Customs Enforcement and state and local law enforcement detained roughly 600 immigrants across West Virginia.",
-    "Many of those arrested were held in the state’s already overpopulated jail system, which until this spring was part of a national network of immigrant detention centers.",
-    "Within this market, ICE ships detainees around the country , paying hundreds of facilities a per-day rate for housing them. Many of these facilities are in rural communities where federal funding cuts have hollowed out social services, from healthcare to food stamps, leaving them desperate for economic relief.",
-    "Federal immigration detention in local facilities hearkens back to earlier eras of expanding American incarceration. As a sociologist of law and punishment , I’ve explored how rural places have long built and expanded prisons to tap into federal funds during times of economic precarity.",
-    "Rural incarceration isn’t new. More than a century before ICE was established, West Virginia was holding out-of-state federal prisoners to collect revenue – a history I reconstructed using the West Virginia Penitentiary’s administrative records.",
-    "As modern prisons proliferated across the nation, major cities exported prisoners to state prisons in less populated areas. West Virginia was one of a few states – alongside Maryland and Texas – to receive these excess urban prisoners.",
-    "Beginning in 1876 and lasting until around 1908, federal and District of Columbia prisoners sent to West Virginia drove an expansion of the state’s prison system. During this time, the state’s prison population grew more than sevenfold, booming from about 160 in 1876 to more than 1,200 in 1908. Controlling for population growth, the incarceration rate tripled .",
-    "West Virginia was paid for housing each federal prisoner, and the state’s prison administration was desperate for this revenue. Reports that I reviewed from the penitentiary’s wardens and supervisory board show that by 1908 revenue from the federal government was US$77,000 over a two-year period, or the equivalent of $2.8 million in today’s dollars.",
-    "Beginning in 1908, after federal prisons opened in Atlanta, Georgia, and Leavenworth, Kansas, most federal prisoners were sent to these new federal prisons, and cells began to empty at the West Virginia state penitentiary.",
-    "The national incarceration rate – which includes both jails, for short-term detention, and prisons, for sentences of more than a year – has more or less crept downward since 2010. But that decline is not even across place or institution; it has been concentrated in cities and liberal-leaning states that have implemented expansive criminal justice reforms and diversion courts.",
-    "Meanwhile, jail stays are booming , especially in rural and suburban places . Lengthy pretrial periods and resource shortages account for much of that growth. So does the rental of jail beds to outside entities, including state departments of correction and federal immigration authorities .",
-    "Rural communities have often vied for prisons , just as they lobbied for federal prisoners in the 1800s. These rural areas seek new prisons for the infusion of money and jobs into the local economy. According to sociologist John Eason , these facilities often function as a “state-sponsored public works program for disadvantaged rural communities,” creating “perverse economic incentives for prison proliferation.”",
-    "Today, as criminal justice reforms drive down prison admissions in some areas, immigration detention is filling prison and jail cells that would otherwise be empty. The number of people detained by ICE increased by 58% – or more than 25,000 people – between 2025 and 2026, according to the Prison Policy Initiative, which advocates to end mass incarceration. Expanded immigration detention , the group’s March 2026 report says, “accounts for virtually all of the growth in mass incarceration” since its last report.",
-    "Indiana offers an example of this shift: Its Miami Correctional Facility in rural Bunker Hill had 1,000 beds it could not properly staff with a limited budget. The state now rents those beds to ICE for $291 per detainee per day.",
-    "In the rural town of Baldwin, Michigan, in one of the state’s poorest counties, a closed prison has reopened as an ICE facility . A state legislator told The Washington Post in August 2025 that the facility was on track to become the area’s biggest employer and taxpayer.",
-    "Similarly, in August 2026 officials announced that a long-closed private prison in rural Minnesota will soon reopen as an ICE detention center . As sentencing decreased across the state, the prison in Swift County, which was once one of the area’s largest employers, closed in 2010 for lack of demand. But its reopening presents an economic opportunity: Minnesota state Sen. Torrey Westrom pointed to some 450 new jobs that the facility will bring to the area.",
-    "Following the decline of prisoner importation in the early 20th century, West Virginia ceased to receive direct federal payments for housing prisoners. But a similar practice, one fueled by immigrant detention , has returned to the Mountain State.",
-    "As immigration enforcement ramped up under the second Trump administration, West Virginia, like many states – including Ohio and Florida – opened its facilities to ICE, which paid the state $90 per day per detainee .",
-    "Beginning in early 2026, federal judges ordered the release of immigrants held in the state’s jails, finding due process violations. In late March, the regional jail system temporarily suspended accepting new immigrant detainees .",
-    "Nonetheless, West Virginia has continued to collaborate with federal immigration enforcement for financial gain. The state hosts a recently expanded Customs and Border Protection training center and will continue participating in the federal 287(g) program , through which local law enforcement agencies are paid to collaborate with the federal government on immigration enforcement.",
-    "In the past, rural states and counties have built out their carceral systems with profit from imported prisoners. Immigration detention is reviving that model. So long as states see immigration detention as a potential revenue stream, it appears that tradition will continue.",
-    "Ella Siegrist does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/756102/original/file-20260825-60-gsv7ok.jpg?ixlib=rb-4.1.1&rect=0%2C1%2C5125%2C3416&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-iotechraceheatsupseattlemakesitscasetodc",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "As U.S.-China biotech race heats up, Seattle makes its case to D.C.",
-   "author": "Sydney Jackson",
-   "date": "2026-08-27",
-   "url": "https://www.geekwire.com/2026/as-u-s-china-biotech-race-heats-up-seattle-makes-its-case-to-d-c/",
-   "paras": [
-    "Arzeda designs enzymes for products ranging from laundry detergent to stevia. But when it comes time to manufacture at commercial scale, the Seattle-based startup often has to look overseas.",
-    "That’s why, when a federal biotechnology commission visited Seattle on Tuesday, the industry came forward with a problem: They have the science, but lack the infrastructure and workforce pipeline to keep innovation on U.S. soil.",
-    "Arzeda’s designs reach an estimated 1.8 billion consumers worldwide, and the company has spent the better part of two decades building its technology. The company’s enzymes, sometimes designed in days rather than weeks thanks to AI, are largely manufactured in Western Europe and India — with one U.S. contract manufacturing partner in Wisconsin.",
-    "Finding domestic manufacturers with the expertise and capacity to make these specialized proteins has been difficult, CEO Alexandre Zanghellini said. And for a company trying to commercialize new biotechnology, he added, manufacturing delays can be “catastrophic.”",
-    "The federal group visiting Seattle — the National Security Commission on Emerging Biotechnology — was created by Congress to address these kinds of problems. Since 2022, the team of 11 bipartisan experts have examined how biotech intersects with national security, and what the U.S. needs to do to remain competitive with China.",
-    "Last year, the commission drafted a report to Congress with 49 recommendations spanning at least $15 billion in federal investment over five years, with policies to get more private capital into biotechnology, build domestic manufacturing capacity, strengthen the workforce and reduce vulnerabilities in the supply chain.",
-    "Now, with the commission sunsetting in December, its members are taking their case around the country.",
-    "In Seattle, the urgent matter is finding a way to keep biotechnology breakthroughs in the United States. Alexander Titus , a commission member who has headed AI-focused biotech initiatives in Seattle and nationwide, said Washington stands out for its early innovation and research.",
-    "“Companies like Arzeda are having pretty serious leadership roles in the AI and bio space,” he told GeekWire. “A lot of the work we have done in the commission has revolved around helping the U.S. meet the moment when it comes to this nexus.”",
-    "Institutions like the University of Washington, Fred Hutchinson Cancer Center and the Allen Institute have helped build a deep life-sciences ecosystem in Washington. UW’s Institute for Protein Design, led by 2024 Nobel Prize winner David Baker, has spun out more than 20 companies.",
-    "One is Arzeda, which has an increasingly fast agentic workflow that can fine-tune a model, suggest the next experiment, and allow researchers to test thousands of sequences in a single round. The company’s first AI-designed commercial product was a stevia ingredient launched in 2024; it’s now negotiating a $44 million contract with the federal Defense Threat Reduction Agency related to biothreat response.",
-    "While technology is moving quickly, the infrastructure needed to commercialize it is not — creating what Seattle biotech leaders called a “valley of death” between research and manufacturing.",
-    "The U.S. has federal funding for basic research, as well as a venture-capital system that can finance early-stage discoveries. But once a company needs to build or access physical infrastructure for commercial-scale manufacturing, the financing becomes much harder. Venture capital investors don’t see the returns attractive enough, Zanghellini said. Banks aren’t eager to finance them, either.",
-    "Meanwhile, China has spent two decades making biotechnology a strategic priority, and its 2026 Five-Year Plan doubles down on areas including biomedicine, biomanufacturing, pharmaceuticals and brain-computer interfaces. For U.S. companies in the race, that can create an uncomfortable incentive: If the infrastructure is cheaper and faster somewhere else, that’s where the work often goes.",
-    "Last year, Seattle-based Sana Biotechnology canceled plans for a manufacturing plant that was supposed to employ hundreds of workers in Bothell, Wash., instead opting for a contract manufacturer elsewhere to cut costs. Snehal Patel , the company’s executive vice president and chief technical officer, said on Tuesday he’s optimistic the Seattle area could compete on speed and cost with China’s fully integrated supply chain — with the right resources.",
-    "Ideally, manufacturing facilities in the U.S. would offer flexibility and knowledge in different products and processes, while ensuring trade secret protection.",
-    "The commissioners recognize this need; among their recommendations for Congress is a nationwide manufacturing network for precommercial, bioindustrial product scale-up. That could address the problem Seattle companies face: a startup shouldn’t have to choose between sending manufacturing overseas or trying to build an entire facility itself.",
-    "The commission has also recommended requiring companies to disclose points of supply-chain vulnerability in foreign countries of concern. If a geopolitical conflict disrupts the supply of medicines or other biological products, Titus said, the consequences can reach Americans far from any battlefield.",
-    "“Being able to keep and maintain our leadership in certain industries allows us to have the edge in any given situation,” he said. “We want our industries to be able to produce here…it’s truly national security in the broadest sense at this point.”",
-    "To accomplish this, companies need a stronger industrial biomanufacturing workforce.",
-    "Rebecca Bryant , Fred Hutch’s director of government relations and a former staffer for Rep. Adam Smith, said while Washington trains well for research, there’s no equivalent pipeline into entry-level biomanufacturing jobs. Titus sees the issue as part of a broader problem of “bioliteracy” — that biology should be a basic problem-solving tool in the same way that engineering, chemistry and computing are, rather than a specialized field understood by few.",
-    "In Washington, the Hutch Advance partnership with Shoreline Community College trains and places lab technicians , while Sana Biotechnology has worked on a model for moving workers into biomanufacturing. Seattle industry leaders suggested a state or federally-supported workforce consortium to bolster the effort. Meanwhile, the commission has urged Congress for more biomanufacturing training support.",
-    "According to the commission, the next three years will determine whether the U.S. remains the global leader in biotechnology or cedes the future to China. Of the commission’s 49 recommendations, Titus said, 26 have been written into law in some capacity. The next step is in the hands of Congress, federal agencies, states and the industry itself."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/2-image3.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-ogcom20260827seattletransittriviaanswers",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Seattle Transit Trivia Answers",
-   "author": "Michael Smith",
-   "date": "2026-08-27",
-   "url": "https://seattletransitblog.com/2026/08/27/seattle-transit-trivia-answers/",
-   "paras": [
-    "Thank you to everyone to joined Seattle Transit Trivia on Monday. After a competitive game, top scores are:",
-    "If you are one of top scorers, please check your email for information about the prizes. This post will share the correct answers for all 39 questions. If you missed the game on Monday but want to test your Seattle transit knowledge, check out the questions from Round 1 , Round 2 , and Round 3 .",
-    "Q1: How many transit agencies support ORCA cards?",
-    "Nine: Community Transit, Everett Transit, King County Metro, Kitsap Transit, Pierce Transit, Sound Transit, Washington State Ferries, Seattle Center Monorail, Seattle Streetcar. RandomNerd answered correctly first .",
-    "Q2: What was the first bus rapid transit line operated by an ORCA agency?",
-    "The Swift Blue Line opened in 2009. Henry Horenstein answered correctly first .",
-    "Q3: Which bus route(s) operated by an ORCA agency do not connect with any other bus routes from the same agency?",
-    "Pierce Transit Route 497 is isolated from the rest of the PT bus network. The route is a peak only service between Landland Hills and Auburn station. Henry Horenstein answered correctly first .",
-    "Q4: Which Sound Transit route has stops outside the Sound Transit taxing district?",
-    "Sound Transit Route 595 serves stops in Gig Harbor. Aaron Gu answered correctly first .",
-    "Q5: List each King County Metro route that is branded as an express service.",
-    "Metro’s once expansive network of express bus routes has dwindled down to just 5 routes: 9X, 17X, 21X, 28X, 193X. Aaron Gu answered correctly first .",
-    "Q6: One King County Metro RapidRide bus has a rear window. Which bus?",
-    "Bus 6000 has a rear window. This vehicle usually operates on the A Line or F Line. HZ answered correctly first .",
-    "Q7: Which Community Transit Express route does not stop at a Link station?",
-    "CT Express Route 907 travels between Paine Field and Stanwood. All other Express routes stop at a Link station. HZ answered correctly first .",
-    "Q8: When did the oldest transit vehicle still used on scheduled routes by an ORCA agency enter service?",
-    "The Carlisle II began passenger service on April 9, 1917. The boat is still used on the Port Orchard ferry route more than 100 years later. Senior answered correctly first .",
-    "Q9: Rank the following transit agencies from highest to lowest based on their June 2026 ferry/water taxi ridership: King County Metro, Kitsap Transit, Washington State Ferries.",
-    "WSF had 1,956,901 passengers, Kitsap Tranit had 127,204 passengers, and the Metro Water Taxi had 86,707 passengers. Aaron Gu answered correctly first .",
-    "Q10: How many ORCA card taps were recorded in 2025?",
-    "ORCA recorded 76,671,844 taps in 2025. Aaron Gu answered correctly first .",
-    "Q11: What was the first ferry route operated by the Washington State Department of Transportation (or one of its predecessors)?",
-    "Washington state began operating the Keller Ferry in 1930, 21 years before Washington State Ferries took over ferry routes in Puget Sound. Henry Horenstein answered correctly first .",
-    "Q12: In Fall 2025, how many average daily boardings did the busiest Metro bus stop have across all routes?",
-    "The Metro stop at 3rd & Pike (northbound) had an average of 2,950 boardings each day . The stop is served by routes 1, 2, 3, 4, 7, 13, 14, 36, 70, 125, C Line, D Line, and E Line. Aaron Gu answered correctly first .",
-    "Q13: Which Link station is shown in the picture below?",
-    "The vertical concrete slats are a unique feature to Symphony station. Aaron Gu answered correctly first .",
-    "Q1: Which route operated the last scheduled bus trip through the Downtown Seattle Transit Tunnel?",
-    "Route 41 ran the last scheduled trip in the DSTT just after midnight on March 23, 2019. Henry Horenstein answered correctly first .",
-    "Q2: How many boardings did Everett Transit record on its free shuttles on July 4, 2026?",
-    "The free Everett Transit shuttles carried an incredible 10,192 passengers on July 4. To put that into perspective, the rest of the Everett Transit network had about 2,500 trips on the same day. Henry Horenstein answered closest without going over.",
-    "Q3: Rank the following jurisdictions from most to least based on the number of number of bus stops used by King County Metro in Fall 2025: Bothell, Issaquah, Kent, Redmond, Renton, Shoreline",
-    "The correct order is: Kent (306 stops), Renton (295 stops), Redmond (234 stops), Shoreline (222 stops), Bothell (79 stops), Issaquah (77 stops). No one got this completely correct.",
-    "Q4: Excluding Trailhead Direct, shuttle routes, and school routes, which King County Metro bus routes with at least one stop in Seattle have zero stops within 1000ft of a Link station?",
-    "Only three routes meet this criteria: Route 22 and DART routes 773, 775. Blumdrew answered correctly first .",
-    "Q5: The first double decker bus in Puget Sound entered service on August 1, 2007. What route did it first operate?",
-    "Community Transit rolled out their first double decker bus on Route 402. Scooby Doo and the Goblin King answered correctly first .",
-    "Q6: Identify one location (Link station and direction) in Seattle where Link shuttle buses use a stop not shared by any other routes.",
-    "Southbound Link shuttles at Rainier Beach station use a dedicated stop. Scooby Doo and the Goblin King answered correctly first ."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3420.jpg?resize=525%2C394&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-streformsepatosavethegrowthmanagementact",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1252,6 +1439,61 @@
    "annos": null
   },
   {
+   "id": "f-stb-ogcom20260827seattletransittriviaanswers",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Seattle Transit Trivia Answers",
+   "author": "Michael Smith",
+   "date": "2026-08-27",
+   "url": "https://seattletransitblog.com/2026/08/27/seattle-transit-trivia-answers/",
+   "paras": [
+    "Thank you to everyone to joined Seattle Transit Trivia on Monday. After a competitive game, top scores are:",
+    "If you are one of top scorers, please check your email for information about the prizes. This post will share the correct answers for all 39 questions. If you missed the game on Monday but want to test your Seattle transit knowledge, check out the questions from Round 1 , Round 2 , and Round 3 .",
+    "Q1: How many transit agencies support ORCA cards?",
+    "Nine: Community Transit, Everett Transit, King County Metro, Kitsap Transit, Pierce Transit, Sound Transit, Washington State Ferries, Seattle Center Monorail, Seattle Streetcar. RandomNerd answered correctly first .",
+    "Q2: What was the first bus rapid transit line operated by an ORCA agency?",
+    "The Swift Blue Line opened in 2009. Henry Horenstein answered correctly first .",
+    "Q3: Which bus route(s) operated by an ORCA agency do not connect with any other bus routes from the same agency?",
+    "Pierce Transit Route 497 is isolated from the rest of the PT bus network. The route is a peak only service between Landland Hills and Auburn station. Henry Horenstein answered correctly first .",
+    "Q4: Which Sound Transit route has stops outside the Sound Transit taxing district?",
+    "Sound Transit Route 595 serves stops in Gig Harbor. Aaron Gu answered correctly first .",
+    "Q5: List each King County Metro route that is branded as an express service.",
+    "Metro’s once expansive network of express bus routes has dwindled down to just 5 routes: 9X, 17X, 21X, 28X, 193X. Aaron Gu answered correctly first .",
+    "Q6: One King County Metro RapidRide bus has a rear window. Which bus?",
+    "Bus 6000 has a rear window. This vehicle usually operates on the A Line or F Line. HZ answered correctly first .",
+    "Q7: Which Community Transit Express route does not stop at a Link station?",
+    "CT Express Route 907 travels between Paine Field and Stanwood. All other Express routes stop at a Link station. HZ answered correctly first .",
+    "Q8: When did the oldest transit vehicle still used on scheduled routes by an ORCA agency enter service?",
+    "The Carlisle II began passenger service on April 9, 1917. The boat is still used on the Port Orchard ferry route more than 100 years later. Senior answered correctly first .",
+    "Q9: Rank the following transit agencies from highest to lowest based on their June 2026 ferry/water taxi ridership: King County Metro, Kitsap Transit, Washington State Ferries.",
+    "WSF had 1,956,901 passengers, Kitsap Tranit had 127,204 passengers, and the Metro Water Taxi had 86,707 passengers. Aaron Gu answered correctly first .",
+    "Q10: How many ORCA card taps were recorded in 2025?",
+    "ORCA recorded 76,671,844 taps in 2025. Aaron Gu answered correctly first .",
+    "Q11: What was the first ferry route operated by the Washington State Department of Transportation (or one of its predecessors)?",
+    "Washington state began operating the Keller Ferry in 1930, 21 years before Washington State Ferries took over ferry routes in Puget Sound. Henry Horenstein answered correctly first .",
+    "Q12: In Fall 2025, how many average daily boardings did the busiest Metro bus stop have across all routes?",
+    "The Metro stop at 3rd & Pike (northbound) had an average of 2,950 boardings each day . The stop is served by routes 1, 2, 3, 4, 7, 13, 14, 36, 70, 125, C Line, D Line, and E Line. Aaron Gu answered correctly first .",
+    "Q13: Which Link station is shown in the picture below?",
+    "The vertical concrete slats are a unique feature to Symphony station. Aaron Gu answered correctly first .",
+    "Q1: Which route operated the last scheduled bus trip through the Downtown Seattle Transit Tunnel?",
+    "Route 41 ran the last scheduled trip in the DSTT just after midnight on March 23, 2019. Henry Horenstein answered correctly first .",
+    "Q2: How many boardings did Everett Transit record on its free shuttles on July 4, 2026?",
+    "The free Everett Transit shuttles carried an incredible 10,192 passengers on July 4. To put that into perspective, the rest of the Everett Transit network had about 2,500 trips on the same day. Henry Horenstein answered closest without going over.",
+    "Q3: Rank the following jurisdictions from most to least based on the number of number of bus stops used by King County Metro in Fall 2025: Bothell, Issaquah, Kent, Redmond, Renton, Shoreline",
+    "The correct order is: Kent (306 stops), Renton (295 stops), Redmond (234 stops), Shoreline (222 stops), Bothell (79 stops), Issaquah (77 stops). No one got this completely correct.",
+    "Q4: Excluding Trailhead Direct, shuttle routes, and school routes, which King County Metro bus routes with at least one stop in Seattle have zero stops within 1000ft of a Link station?",
+    "Only three routes meet this criteria: Route 22 and DART routes 773, 775. Blumdrew answered correctly first .",
+    "Q5: The first double decker bus in Puget Sound entered service on August 1, 2007. What route did it first operate?",
+    "Community Transit rolled out their first double decker bus on Route 402. Scooby Doo and the Goblin King answered correctly first .",
+    "Q6: Identify one location (Link station and direction) in Seattle where Link shuttle buses use a stop not shared by any other routes.",
+    "Southbound Link shuttles at Rainier Beach station use a dedicated stop. Scooby Doo and the Goblin King answered correctly first ."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3420.jpg?resize=525%2C394&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-chs-calozzischeesesteaksrollsontocapitolhill",
    "srcKey": "chs",
    "cat": "local",
@@ -1301,6 +1543,55 @@
    "annos": null
   },
   {
+   "id": "f-stranger-zandmoreseattleeventsgoingonsalethisweek",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Ticket Alert: Ms. Lauryn Hill & Wyclef Jean, Jessie Reyez, and More Seattle Events Going On Sale This Week",
+   "author": "EverOut Staff",
+   "date": "2026-08-27",
+   "url": "https://www.thestranger.com/everout/ticket-alert-ms-lauryn-hill-wyclef-jean-jessie-reyez-and-more-seattle-events-going-on-sale-this-week/",
+   "paras": [
+    "Summer isn’t quite over yet, but we’re here to help you make plans for a fun fall. Ms. Lauryn Hill & Wyclef Jean reunite for an arena show celebrating the 30th anniversary of the iconic, genre-bending Fugees album, The Score . Canadian R&B singer Jessie Reyez goes on tour this fall in support of her new release, A Little Vengeance . Plus, tickets for Emerald City Comic Con 2027 just went on sale. Read on for details on those and other newly announced events.",
+    "Bunii – Buniiversity Tour The Crocodile (Wed Oct 28)",
+    "Fox Stevenson / Mystery Skulls The Crocodile (Mon Nov 2)",
+    "Frost Children Showbox SoDo (Fri Dec 4) Moved from Neumos; More tickets going on sale",
+    "The post Ticket Alert: Ms. Lauryn Hill & Wyclef Jean, Jessie Reyez, and More Seattle Events Going On Sale This Week appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/laurynwyclef.jpeg?fit=639%2C480&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-numberofdeadandmissingrisesinnepalfloods",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Slog AM: Teachers Authorize Strike, Infinity Mirrors Artist Dies at 97, Number of Dead and Missing Rises in Nepal Floods",
+   "author": "Charles Mudede",
+   "date": "2026-08-27",
+   "url": "https://www.thestranger.com/news/slog-am-teachers-authorize-strike-infinity-mirrors-artist-dies-at-97-number-of-dead-and-missing-rises-in-nepal-floods/",
+   "paras": [
+    "This morning, I have no bad news concerning the departure of a beloved pop culture icon from this world to wherever next is or might be or might not be. Now, there’s a powerful Ghanaian novel by Ayi Kwei Armah called The Beautyful Ones Are Not Yet Born . It was published in 1968, near the end of a long and very violent process of decolonization. But I disagree with Armah on one point: The beautiful have been and are being born, but they’re clearly more fragile than the spiritually ugly. It seems even a sneeze will undo the beautiful. But the deadliest of cancers are nowhere to be found when it comes to persons with passions that are totally negative, wicked, and bankrupt.",
+    "Hold your horses. There is a significant death to report. The Japanese artist known for her immersive Infinity Mirror Rooms, Yayoi Kusama , gave up the ghost after going through all that is knowable with some certainty in this world for 97 years. One of Kusama’s infinities, All the Eternal Love I Have for the Pumpkins , made a stop at the Seattle Art Museum in 2017 , and, as a consequence, visitors flooded local social media accounts with selfies of selfies of selfies of selfies of selfies, from here to infinity.",
+    "Speaking of mirrors. This passage is from Jorge Luis Borges’ specular short story, “Tlön, Uqbar, Orbis Tertius”: “We discovered (such a discovery is inevitable in the late hours of the night) that mirrors have something monstrous about them. Then Bioy Casares recalled that one of the heresiarchs of Uqbar had declared that mirrors and copulation are abominable, because they increase the number of men.”",
+    "Hold your horses again. I just learned that one of the famous uglies of the modern world, the Butcher of Bosnia ( Ratko Mladić ), has entered the most monstrous of shades at age 84. In 2017, he was convicted by the International Criminal Tribune for the killing of 8,000 Muslim men and boys in 1995 during the Bosnian war. Back then, we called this crime a genocide. There was no two ways about it. Mladić died in prison.",
+    "First it must be said that the catastrophic flash floods in an area where China and Nepal meet, the stunning Langtang valley, were not an act of God. Keep Him out of this one. Humans have their hands all over it. Global warming caused a massive chunk of a glacier to collapse, fall an estimated 17,000 feet, and slam into the ground with a suddenness that triggered a 5.2 “ seismic event ” and left over a thousand humans with no room to escape its God-like force. So far, the number of dead (353) and missing (1,300) is rising and rising. Many of the missing were from the US (65). Many were in the area to visit spiritual sites. Many were just tourists. As we go further and further into the capitalist ecology expect catastrophes of this scale and power to accelerate.",
+    "AI is not saving or making money in a conventional manner. Reuters investigation of Meta’s new crackpipe ( AI replacing good jobs) found nothing but small productivity gains in exchange for increases in errors and on time spent solving AI fuckups. There is, of course, nothing wrong with AI (it can be a very useful mental tool), but there is something wrong with how it’s being sold. Expect a bunch of laidoff tech workers to be recalled in the near future.",
+    "I took the 8 bus on Monday. The bus lane: brand spanking new. The time: 4:35 pm. The bus: 9 minutes late! And traffic was mild. A tech worker in a bar, A Pizza Mart, near the bus stop (Westlake Ave and Denny Way) explained to me that Monday’s traffic is never that bad because the tech workers are in the office usually between Tuesday and Thursday. That’s not all. The shit will only hit the fan on Denny when kids return to school. At that time, tech parents return to South Lake Union. “Right now, I have access to the conference rooms,” they said to me. “But in two weeks, early September, that will all change. I won’t be able to book anything. That’s when we can really test the effectiveness of the mayor’s new lane for the 8.”",
+    "But will the kids return to school on time? That question is certainly in the air after Seattle teachers authorized a strike. What’s this all about? Do you really have to ask that? Are you so dwaas ? We underpay teachers, we underpay nurses, we underpay daycare workers. We underpay everyone except millionaires and billionaires. Need I say more? If the district fails to solve this dire matter with the teachers, the strike will begin on the first day of school, September 2 .",
+    "Back to the 8 bus. On the day I sampled the new lane, there was hardly any traffic. However, the bus was still late. Still the 8. Still no love for the waiting people. As I said before, the traffic really happens between Queen Anne and Capitol Hill, which, according to my reckoning, is roughly 35 percent of the 8 line. As for the rest—Capitol Hill to the much unloved Mount Baker Transit Center—the bus is practically empty. Possible fix? The bus lane plus a bus dedicated to stops between Capitol Hill and Queen Anne, particularly during rush hours.",
+    "There is another problem with the 8. It begins at the always ugly, unloved, and despised Mount Baker Transit Center (can I ask Mamdani to do something about that stop?) and ends at 23rd Avenue and Yesler Way. The 48, which goes to the University District, and the 8 depart at nearly the same time. Meaning, if you miss the one, you likely missed the other. Why can’t they be separated by even 5 minutes? Can Mamdani fix this?",
+    "Can Mamdani also fix this? The digital sign for the 7 bus on South Genesee and Rainier Ave died long ago, bro. It’s now nothing more than a tombstone to the promised land of public transportation. If Metro has given up, maybe it would be kind enough to place a gothic and weathered statue of a sleeping pubescent angel below it.",
+    "I can feel it coming in the air this morning, oh Lord. And it was also there in the past five or so mornings. The day begins with fall: clouds, cool air, some wind, the promise of rain. But the sun gets the upper hand by noon, and we are back in the “ cruel summer .” But fall is gaining strength by the day, if not the hour, and winter is just around the corner. Can I get a witness? Expect some beautiful people to be born today. And expect a high of 72.",
+    "Let’s end AM with Erik Blood , who is scheduled to do the ones and twos at this year’s Genius Awards , performing “Chase the Clouds” on KEXP:",
+    "The post Slog AM: Teachers Authorize Strike, Infinity Mirrors Artist Dies at 97, Number of Dead and Missing Rises in Nepal Floods appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/IMG_9489-scaled.jpg?fit=1024%2C576&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-kuow-dicnBCNGQwaTFleEtoZkN3blEyVWtjU21aa0koc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1318,15 +1609,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-TJvLUpfaEtVa1RjblY2TmF0S3dLdkotVHNuZQoc5",
+   "id": "f-kuow-EOFRSQUNONm1BeUVBVE1sZHVZSC0yaTNHeGw3oc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "Effort to recall Mayor Katie Wilson withdrawn by petitioners — but 'it’s not over'",
+   "title": "DOJ sues Washington over granting in-state tuition to immigrant students",
    "author": "",
    "date": "2026-08-27",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2ZoYVdOMmw0Tl8wX2w0RENQcTFpUk9QNGphcnRYNGRHMzZFMkFzX3h3bEJ2czk4dWNTY0NsTGs0YlFZazR5RGhfTmJWcVo3U1hjRURWZ2dSNndnbGhRelg4aGw4MTJRNU51TWNsSTJKVEJ1SktSRFFXRFRrTEkySTZ1VHM5bEEyZmZnZkJ1QVdEc2ZqNjMxeG9Wb0hJY0N6cGNZRDU4MEV3WXJ6cTJvLUpfaEtVa1RjblY2TmF0S3dLdkotVHNuZQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVZoNkZyMUUwMjdHOHI5VUxTTmF0NDZDdTFDdGxpUXJERFNQUzN4U29lTjRPbUF2cXA2ekprem9yZjZuNkNEWjlPc3YwQW9abVh4Vlk0Uzg0OGlVcERMZzZsVDBvY2R0cTFWN3ZRV1BjaUxfVmJUSHNxUjZFVmJBQy10bFJkRjRNcWV3SHdzbEVEOFRSQUNONm1BeUVBVE1sZHVZSC0yaTNHeGw3?oc=5",
    "paras": [
-    "Effort to recall Mayor Katie Wilson withdrawn by petitioners — but 'it’s not over' KUOW"
+    "DOJ sues Washington over granting in-state tuition to immigrant students KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1349,22 +1640,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-om20260826midweekroundupisolatedincident",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Midweek Roundup: isolated incident",
-   "author": "Nathan Dickey",
-   "date": "2026-08-26",
-   "url": "https://seattletransitblog.com/2026/08/26/midweek-roundup-isolated-incident/",
-   "paras": [
-    "Headlines from the past week. Wilson Order Tees Up Sweeping Traffic Safety Changes, Accelerating Projects (The Urbanist) No Cars in Pike Place Market > Cars in Pike Place Market (PubliCola) Wilson, Rinck Paint Bus Lane to Speed Up Route 8 (The Urbanist) Seattle’s Route 8 is notoriously slow. Will Denny Way’s new bus lane help? (KUOW) King County’s Metro Flex to launch in Auburn and Federal Way (Metro Matters) Op-Ed: Land Value Capture Could Fund Ballard Light Rail (The Urbanist) Community Transit honored with two Telly Awards (CT News) Intercity Transit has announced a new partnership with Transit , the free mobile app (Intercity Tranist News) King County Council Sets Aside Emergency Motion to Restore Route 372 (The Urbanist) Ready, set, road trip: WSDOT offers Labor Day weekend travel tools and tips (WSDOT Blog) Safer streets are coming to Maple Leaf and Northgate (SDOT Blog) Sound Transit Says Train Derailment Was Isolated Incident (The Urbanist) This is an Open Thread."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1450,6 +1725,22 @@
    "annos": null
   },
   {
+   "id": "f-stb-om20260826midweekroundupisolatedincident",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: isolated incident",
+   "author": "Nathan Dickey",
+   "date": "2026-08-26",
+   "url": "https://seattletransitblog.com/2026/08/26/midweek-roundup-isolated-incident/",
+   "paras": [
+    "Headlines from the past week. Wilson Order Tees Up Sweeping Traffic Safety Changes, Accelerating Projects (The Urbanist) No Cars in Pike Place Market > Cars in Pike Place Market (PubliCola) Wilson, Rinck Paint Bus Lane to Speed Up Route 8 (The Urbanist) Seattle’s Route 8 is notoriously slow. Will Denny Way’s new bus lane help? (KUOW) King County’s Metro Flex to launch in Auburn and Federal Way (Metro Matters) Op-Ed: Land Value Capture Could Fund Ballard Light Rail (The Urbanist) Community Transit honored with two Telly Awards (CT News) Intercity Transit has announced a new partnership with Transit , the free mobile app (Intercity Tranist News) King County Council Sets Aside Emergency Motion to Restore Route 372 (The Urbanist) Ready, set, road trip: WSDOT offers Labor Day weekend travel tools and tips (WSDOT Blog) Safer streets are coming to Maple Leaf and Northgate (SDOT Blog) Sound Transit Says Train Derailment Was Isolated Incident (The Urbanist) This is an Open Thread."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-kuow-PenBQdjhvR29rWUdpZTZCUktkM1NKSnY1SEp3oc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1476,74 +1767,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjl1TFVEbS1qUE5OZUx3RUthOThubVR3eXdwNmJSeFE3UUV4YVZMYWp3OE9GZkZhVHNyT1Q5QUhjYzkwQTVTSmpMcnp1SExUU21xYWMxTHJQMFdXMWIxMFN6RTlEWS1fcTNrWHJIT1JEMmhQcGMxdXV6YlhSMzF1dk9tS2daUTVNLWZwOWdzMFJHSjcyZ1JXUWhxY2NvalotUzlycFlnR09fYlVUTVRLa0ZDV2dlSFpUdHBPdDRrbFF5dkU?oc=5",
    "paras": [
     "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-lMUhYUFR0OTJWZndGYjNGdkpDQzI0aUlZb3RVoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Seattle Mayor Katie Wilson Signs Order on Traffic Safety",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZldRMHd5SmN2S3lVRk9mbVJEbzJYcUtWNGpYemZocGtIZk9OZXczZGxOanZQWEFQMEJHMVFONlI4d1dXMUdHWFl4QjY5dnBmUl9KSHpnZ1ZHZmdoVlVTaUxQa1FWLVhJQ0NSc19CM2RiaE5ocHBaeTllMUhYUFR0OTJWZndGYjNGdkpDQzI0aUlZb3RV?oc=5",
-   "paras": [
-    "Seattle Mayor Katie Wilson Signs Order on Traffic Safety thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-DlTN0lROE5CQnQ0MEVhaGFuTnlVc0FEMkVjcwoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Seattle Copes with Dolly Parton’s Death",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QMmtzZ0MwQkxEcGZ1bENYa2dPLWVIZ2hvNXhuMHBwXzFWQ0p4Y0VkMzVnellUYk1kVmNmWXI3SDZjLWE0ZUpWTG1qT2NZMzliUkNkcHlaZ2ZZaGJVNE0yeDlTN0lROE5CQnQ0MEVhaGFuTnlVc0FEMkVjcw?oc=5",
-   "paras": [
-    "Seattle Copes with Dolly Parton’s Death thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-tNlR1eGRsbFQwdjJFSjhXRDBqZHVZZ1NFNHBDoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Dolly Parton Died, Tim Curry Died, I’m Too Sad to Do the Real News",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmIway1iMXdZVk5RRTZRcmhfMldBdHUydWhLT1hjVGNCc0w5SGx5dE5HcDZHVFNtbktHc2xMZ1FQRzNvb0NrNHduSUxDVlhpaWZpUVpxd3FycEhodFFzVWNNN3h1VkhiWVo0a01VQmRxSEtMWi1QYTZNdDF4b0RzX1MtYThmcFZhUkJNVmxXOWktNlR1eGRsbFQwdjJFSjhXRDBqZHVZZ1NFNHBD?oc=5",
-   "paras": [
-    "Slog AM: Dolly Parton Died, Tim Curry Died, I’m Too Sad to Do the Real News thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-rRTZPbnprMjdXeU5CSHdIUHRxYWxQYVBpTExxoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The great American road trip is in peril",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcW9aRTI4bDJ4LVAzeXRlZHZnazZYM1FETjB3cVdJdHhfbkpzTUJsUHBlZENBMW5oRzVhZEZPSVV0N1NPWHFqWGJ4Vkk4RXV6NF9SS0Y4X3ZIRVlUcVRLaVh1SWZBOXpnZWJvaUl3SS1STzNrQ0RaRUdrRTZPbnprMjdXeU5CSHdIUHRxYWxQYVBpTExx?oc=5",
-   "paras": [
-    "The great American road trip is in peril grist.org"
    ],
    "img": "",
    "fetched": true,
@@ -1589,6 +1812,23 @@
    "annos": null
   },
   {
+   "id": "f-grist-rRTZPbnprMjdXeU5CSHdIUHRxYWxQYVBpTExxoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "The great American road trip is in peril",
+   "author": "",
+   "date": "2026-08-26",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcW9aRTI4bDJ4LVAzeXRlZHZnazZYM1FETjB3cVdJdHhfbkpzTUJsUHBlZENBMW5oRzVhZEZPSVV0N1NPWHFqWGJ4Vkk4RXV6NF9SS0Y4X3ZIRVlUcVRLaVh1SWZBOXpnZWJvaUl3SS1STzNrQ0RaRUdrRTZPbnprMjdXeU5CSHdIUHRxYWxQYVBpTExx?oc=5",
+   "paras": [
+    "The great American road trip is in peril grist.org"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-echangesnohomishcountyandnorthkingcounty",
    "srcKey": "stb",
    "cat": "transit",
@@ -1625,57 +1865,15 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-andvaluecapturecouldfundballardlightrail",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Op-Ed: Land Value Capture Could Fund Ballard Light Rail",
-   "author": "Aaron Schechter",
-   "date": "2026-08-25",
-   "url": "https://www.theurbanist.org/op-ed-land-value-capture-could-fund-ballard-light-rail/",
-   "paras": [
-    "Sound Transit is facing a significant budget issue, with a roughly 10-billion-dollar budget gap in its planned light rail expansions, even after cuts and delays announced in May . Ballard Link faces the largest expected budget shortfall, but one revenue tool could help get the project back on track: a value capture strategy using tax-increment financing (TIF).",
-    "Sound Transit 3 (ST3), approved by voters in 2016, is meant to deliver the West Seattle Link Extension, the Ballard Link Extension, the 4 Line light rail from Issaquah to South Kirkland, and more. The budget rebalancing in May required that Sound Transit make a lot of significant concessions, most notably terminating the Ballard line at Seattle Center, tabling three stations indefinitely, including one of the project’s highest projected ridership stations : Ballard.",
-    "Earlier this month, Sound Transit revealed that 2042 was its best case scenario opening date for Ballard Link, while the three deferred stations would slip to around 2060 without inventions to cut costs and find new revenue.",
-    "Value capture taxes function by making a very powerful inference. When rapid transit is built, land around the stations becomes more valuable , often dramatically more so. In a normal transit-building scenario, the additional tax collected from the land value increase goes to the same services that they typically would have. More money for the City and County budget, more money for the school district, and more…, all made possible by the train. Increased property value and tax revenue that transit creates is clearly a good thing for local governments, and is yet another reason that building rapid transit is an amazing decision.",
-    "A few different types of value capture taxes exist, but the main one I’m focusing on is called tax increment financing, often referred to as TIF. Tax increment financing operates by taking out a large loan, ‘freezing’ the property values at a certain number and point in time, and then allocating any additional tax gained from an increase in property value to pay back the loan that funded the project.",
-    "The Ballard Link Extension is in serious jeopardy. If the extension all the way to 15th and Market Street doesn’t happen, or is delayed until the 2060s as feared, then there will be billions of dollars in property tax income (among many other significant benefits) that will vanish into thin air. This would be a truly historic fumble. Instead, Sound Transit can work with the city of Seattle to capture future property value increase!",
-    "That increased value will literally not exist if the project doesn’t happen. The increased value will exist if the project does happen.",
-    "Please note that for this article, I am speaking exclusively about land value, not the improved value upon the land. Read my land value tax article for more about that distinction. Also note that improvement value around the rapid transit stations, unaffected by a value capture tax, typically increases substantially. This creates tax revenue for the city that usually well outpaces the value lost to the financing vehicle.",
-    "See this graph below to visualize the different aspects of a TIF district",
-    "The image above is illustrative and is meant to communicate the general idea of a TIF, and not to calculate exact numbers. The 30 year TIF term is not set in stone and is often adjusted based on the amount of money the TIF zone brings in. The $1.077 billion in 2018 and $1.926 billion in 2027 are both real data points representing the land value within 2,000 feet of 15th and Market. All other data seen are projected.",
-    "Value capture taxes are not novel in our region. We can look towards a recent example of a local improvement district (LID) funding a prominent Seattle victory: Waterfront Park. Completed in 2025, Waterfront Park is the culmination of the project started long ago with the digging of the SR 99 tunnel and the teardown of the Alaskan Way Viaduct. This has become an amazing part of our city and was recently on display during the World Cup . Without taxing the district directly benefitting the most , the Waterfront Park project may not have been possible, and the benefitting properties would not have found the same increase in value to their land.",
-    "LIDs are similar to TIFs, but directly tax property owners in the region rather than ‘capturing’ a portion of the increased tax revenue like a TIF does. Read about Seattle’s Waterfront Park LID here , and LIDs in general here .",
-    "A second example comes from our neighbors on the other side of the 2 Line: Bellevue. In an effort to fund the Grand Connection , five different local government authorities, including Sound Transit, approved the TIF plan for this project. King County Councilmember Claudia Balducci said she hopes this sets a precedent for other parts of King County to use this funding mechanism. The Grand Connection, if built, will provide a lot of value to the surrounding areas. Read all about this project in The Urbanist .",
-    "The area around 15th and Market in Ballard is already valuable land, but will become much more so if and when the light rail is completed. The area today features a huge amount of car activity and space dedicated to the personal automobile, including large parking lots at Walgreens and Safeway, a gas station, and the gigantic streets themselves. A completed light rail line would allow that area to enjoy far more economic activity.",
-    "For this data analysis and visualization, I took data from the King County Assessor, who publishes an extensive data download page with property tax information going back over 15 years. For this analysis I used the most up to date data, 2027, to compare with data from 2018. Check out this chart showing the mean increase in land value in the 2000 feet around various light rail stations and non light rail stations. Due to their differences in land use patterns I chose to exclude downtown and SoDo light rail stations from this analysis. Downtown sports high density, whereas the SoDo stations are surrounded by lots of industrial land. These areas are rather different from the nine station areas studied, which primarily have medium density and mixed land uses, making them relatively comparable.",
-    "Below is a bar graph showing the amount that land around various points has increased in value over the past nine years. Note the clear increase around the light rail stations. Correlation or causation?",
-    "Now let’s visualize some of those numbers. First, take a look at this map of the entire city, aggregated into hexagons, showing the median increase from 2018 to present in that hexagon. You can almost see the path of the light rail. The northern stations (University District, Roosevelt, and Northgate) have only been open since 2021, but the stations in South Seattle all have had time to reap the benefits of the train access and are significantly more valuable than they were in 2018.",
-    "Now take a look at the map below, showing individual parcels in the 2,000 foot radius around their respective center points.",
-    "Note that in the nine years between the 2018 and 2027 assessments, some parcels have been divided and new ones created in their place. Consequently, a direct 1 to 1 comparison is not possible in those instances. For this reason, as well as certain public property not being evaluated in the same way (such as public universities and parks), not all parcels will show in these maps. This applies, albeit less frequently, to the aggregated hexagon maps.",
-    "Additionally, you may have noticed some sections where there are groups of parcels that all uniformly increased in value, such as in the eastern portion of the Ballard circle. This is usually caused by upzoning which makes the land instantly more valuable, as more types/density can be added to those lots.",
-    "The land in a 2,000-foot radius around Ballard Station (15th and Market) is currently worth close to $2 billion ($1,926,924,400 to be exact). Seattle’s property tax rate is just shy of 1% (often denoted as $10 per $1000 in value), meaning that the land around Ballard Station brings in about $19 million.",
-    "Note that the 2,000 foot radius chosen for this study is an arbitrary size within the typical range and not the letter of the law. TIF areas have no uniform radius and are often not circles at all. If this were to be implemented, the powers that be would decide which properties are within the area most affected by the new station and include them in the TIF district.",
-    "If a TIF district were to be made for those properties within a 2,000-foot radius, and land value grows 250% in nine years, as could be reasonably expected based on value growth surrounding light rail stations since 2017 (see initial bar graph), we can translate that to 10% per year. If that 10% per year is ‘captured’ and all the growth goes to funding ST3, a TIF district would yield $114 million in its first decade, $718 million in its first 20 years and a generous $2.59 billion in a 30-year period. $2.59 billion is a significant portion of the $7 billion to $9 billion funding gap facing the Ballard Link Extension.",
-    "This $2.59 billion over 30 years at 10% value growth per year may not be realistic. There are a huge amount of variables at play here, such as the radius of the financing zone, the percentage of the value increase allocated to Sound Transit, the increase in land value and more. Also keep in mind that this was calculated for just one station, but could be applied to many more stations, such as Interbay, Smith Cove, the extremely high land value Denny Station, and even stations on the West Seattle and 4 Line stations at Eastgate and Central Issaquah.",
-    "A value capture tax could find a lot of money for transit that otherwise would not exist. Ballard Station will provide staggering positive externalities to the community, and if the agency executing the project can capture just some of them, maybe the train will actually see the light at the end of the tunnel.",
-    "Thanks for reading. You can check out my code for the project here , and please don’t hesitate to reach out with your thoughts at aaron.m.schechter@gmail.com.",
-    "This article was adapted from a version that first appeared on Aaron Schechter’s blog ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/base-omfs-project-update-header-20210304-by-sound-transit-1200-1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-hEcFE0eFJtRVFDV2dZYWRsV1ZDVW43YnpOQVEoc5",
-   "srcKey": "kuow",
+   "id": "f-invw-Wc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQoc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "Author Maya Jewell Zeller's story is not your 'poverty porn'",
+   "title": "Edmonds gives new contract to principal amid public concerns",
    "author": "",
    "date": "2026-08-25",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaTJWMl80ZEt1a0dpSmFUZC1ycEVOOXgxQWhPcU9wQktuT19MREpsdVg2c1ZiTFB4RkYtdUFGMTdSV3pSZWJ1d1hrenhaVWRxZXVGZ29QRmVpUjBFT2hFc1NiMGZtb0dxZDlnck5ZclRjSVh2MXFSUmRPTUNhZEJUNk9JenY3eTlfRnJiaXRPSndOeDhEcFE0eFJtRVFDV2dZYWRsV1ZDVW43YnpOQVE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
    "paras": [
-    "Author Maya Jewell Zeller's story is not your 'poverty porn' KUOW"
+    "Edmonds gives new contract to principal amid public concerns InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1739,23 +1937,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-Wc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Edmonds gives new contract to principal amid public concerns",
-   "author": "",
-   "date": "2026-08-25",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
-   "paras": [
-    "Edmonds gives new contract to principal amid public concerns InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-logcom20260824seattletransittriviaround3",
    "srcKey": "stb",
    "cat": "transit",
@@ -1771,40 +1952,6 @@
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/image-10.png?resize=525%2C263&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-logcom20260824seattletransittriviaround2",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Seattle Transit Trivia: Round 2",
-   "author": "Michael Smith",
-   "date": "2026-08-24",
-   "url": "https://seattletransitblog.com/2026/08/24/seattle-transit-trivia-round-2/",
-   "paras": [
-    "Welcome to Round 2 of Seattle Transit Trivia ! Answer each question below with a comment on this post. Each question is worth 2 points. Good luck!",
-    "Each question below indicates the type of answer expected. Note the following guidelines for each answer type:"
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/image-7.png?resize=525%2C325&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-zbWU1UWpVLUtWOU42bVI1MkptbWtCdlhESTl3oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle Public Schools struggles to ink new contract with teachers union as school year nears",
-   "author": "",
-   "date": "2026-08-24",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNXzAxUEtwY1BXTjM4N2EzOUJWbFpMQ3ZMODNaUzZlWF9sX09ZbVJEZXJ5cU5xNUx0UHc2WFp3X01FS1ZtQldMZm9aSGdaX1R1WXhFcmNqbzFhR2ZOMTgzQWtmNFJvYWRyRm12a0ZUQ0dBTU4xTUI1d0lxVjBkcUdWZmZqblRMNEY0SkIwQnN4T2hDOHdHOE8yV29lV0h2Q3hRQVNyUGZhamlLMUpKNHB2dXVtT2QzbWU1UWpVLUtWOU42bVI1MkptbWtCdlhESTl3?oc=5",
-   "paras": [
-    "Seattle Public Schools struggles to ink new contract with teachers union as school year nears KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1825,23 +1972,6 @@
    "annos": null
   },
   {
-   "id": "f-emerald-xbm5PbEFXRElEeDFZUk9lNDNRLWotNGxEb2o4oc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: Totally Normal Initiative",
-   "author": "",
-   "date": "2026-08-23",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3ZNdU44amtaTXN1d1pOT1hzZlN2dXduaVZuQURiTm94aFAxcThDLWxtcGxpUGVmYmVPdUtORG40clB3ZGswbjZfYmdOMzVYUkpDdWZ4VXIza1NNRzNVSENaTmd4cU53c3o1ZlZxN2RkelZ4VFpDMmlJTTE5bWZicndXUkVsbFZSQ0dpWlNR0gGbAUFVX3lxTE85MF9fc2hxb3Q0MEkzU1BPVkh1RHBWN1FBWTE2eDJQWTlFaTRCNjZaZUdib0JLaWhnSzRTbi1kU3ZnNU1rNkNPSmxYb3dJOGhJS3ZUM24yeGhCWlZBM2hlN3MyNWJqb1ZJMTY4Tk5BMUxSZ3RzRXN2bUVOcjExa0pxbm5PbEFXRElEeDFZUk9lNDNRLWotNGxEb2o4?oc=5",
-   "paras": [
-    "DOOM LOOP: Totally Normal Initiative South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-FZ2drRWZBcDFaNE5HQW82WFI1MnFvbHFHeldroc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1851,23 +1981,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR19FOVlNbEh5ZVBVNWZDM1FLNE5pWmhoY1laRElieDA4b01sWjd0TGxac2Itb2hocjlEUjV5SWg0LUhJVVFFTGhMRl81SmxHYnoyVVU1WmZORTZ5Rk5EaERFQzczUjFQb3p2TTVGdlplVUFrNzBCM080Tl9DMVFjV0s0S2dSWmt4UVVHdC1yVU5zTEdzd21vNkRrVlFlcTNFZ2drRWZBcDFaNE5HQW82WFI1MnFvbHFHeldr?oc=5",
    "paras": [
     "Firefighters sound alarm as US faces critical staffing shortage: ‘We don’t have enough people’ grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-ThJNlNKSVZzT0tRaU5Ha28wUHBZLTd0Q1l6Zwoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Who Said It?",
-   "author": "",
-   "date": "2026-08-20",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PODh5aE1YV2NlM2pDbHlEeUNjUVFXM3VZdzBWS0VlYjl6dHo1bTgxRThlT2p2TlZnZ20yWW1faThJNlNKSVZzT0tRaU5Ha28wUHBZLTd0Q1l6Zw?oc=5",
-   "paras": [
-    "Who Said It? thestranger.com"
    ],
    "img": "",
    "fetched": true,
@@ -1961,23 +2074,6 @@
    "annos": null
   },
   {
-   "id": "f-emerald-JZzhodjQ1SnM3clNWU2ZkdkUtUXhUdDAxUjZnoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: Non-Disparagement Clause",
-   "author": "",
-   "date": "2026-08-09",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXQ5VTBJTEJ2b2FINGNTa0NDU0JBbFpscHBIcXNXQVBOOXRKM09VZHhmWnZDUGdsMTZaREh5M3ZhVTNVQTNSeHRPOHEtZGpad3lyNzhka0xQcF9SUlJBbmw3eEhLRERucS1TbUlDODE4M1h5Z0xORUJEUlBsU01ZQWtCS3BSaGdSdUZIRNIBmgFBVV95cUxNR3d5RmU0eXVxMXdQMXdvQ3Z2a0EtallGS0pPNHVHMHAzTFdqMVdnLVVybTAtN0FibWpfZkZRWXFnVjI3ejh2d21sNFlQNm16M1NUUlNEc1ZKTFZoenFKUmNBcDNWWUJhdmRNWVR5MGlJZF9hb2ZRemMxOWZQNmFJZzhodjQ1SnM3clNWU2ZkdkUtUXhUdDAxUjZn?oc=5",
-   "paras": [
-    "DOOM LOOP: Non-Disparagement Clause South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-XJtcmlOcXFDTFI5RTRWV0NrVTdEUGpBWEUzbwoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -2011,23 +2107,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/San-Fermo.avif?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-XI2N1hkc0dDQzJra29yODNtV1NGTnRVOUtBQQoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Oregon woman opens up about alleged domestic violence before receiving 10-year sentence over baby's death",
-   "author": "",
-   "date": "2026-07-31",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmZJZjQ0aUhTamxVY21RYXVqckk3czh1WHZsLTRoVUNtMkFDRk9oYXdvYnNoQ0Y1NnZRVHZFTlZ5eldZMDFVajRPMGhOdlV1ZDVnWFA0UDVGUU83Q3VLaHcwTGRyMVBwN2ozMXI2N1hkc0dDQzJra29yODNtV1NGTnRVOUtBQQ?oc=5",
-   "paras": [
-    "Oregon woman opens up about alleged domestic violence before receiving 10-year sentence over baby's death InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
