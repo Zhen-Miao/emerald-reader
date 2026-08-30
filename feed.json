@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-08-29T19:00:43.228Z",
- "builtFor": "2026-08-29",
- "builtHour": "12",
- "count": 85,
+ "builtAt": "2026-08-30T18:56:10.036Z",
+ "builtFor": "2026-08-30",
+ "builtHour": "11",
+ "count": 86,
  "sources": [
   {
    "source": "bbc",
@@ -51,7 +51,7 @@
   },
   {
    "source": "invw",
-   "count": 5,
+   "count": 6,
    "via": "google-news"
   },
   {
@@ -87,6 +87,392 @@
  ],
  "articles": [
   {
+   "id": "f-stb-830sundaymovie3lessonsfromthenetherlands",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: 3 Lessons from The Netherlands",
+   "author": "Mike Orr",
+   "date": "2026-08-30",
+   "url": "https://seattletransitblog.com/2026/08/30/sunday-movie-3-lessons-from-the-netherlands/",
+   "paras": [
+    "Three urbanist lessons from The Netherlands. (Alex Davis, 4 years ago)",
+    "Musical interlude: Can’t Stay with You Baby (I’ve gotta to find a car to drive me downtown) (Jimi Tenor). Ghost Town (The Specials, 1981)."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-tabletoolympiaeducatorsneedoursupportnow",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: From the Bargaining Table to Olympia, Educators Need Our Support Now",
+   "author": "Kelabe Tewolde",
+   "date": "2026-08-30",
+   "url": "https://www.theurbanist.org/op-ed-from-the-bargaining-table-to-olympia-educators-need-our-support-now/",
+   "paras": [
+    "It’s the last few weeks of the summer. Everyone is trying to fit in one last trip out of town, hosting cookouts, spending evenings at the lake, or like many parents diving into back to school shopping. Usually educators are gearing up and preparing to welcome back students to the classroom, but this year there is a bit of a road block.",
+    "Between now and September 2nd, the first day of school, members of Seattle Education Association (SEA) are bargaining from 9am to 9pm with Seattle Public Schools (SPS) for a fair contract. That was until last night (August 29th), when SPS walked away from the bargaining table as talks broke down regarding cuts to special education.",
+    "On August 26th, SEA authorized a strike. This doesn’t necessarily mean they will strike, but SEA’s bargaining team has the greenlight. With the district walking away from the bargaining table it is increasingly likely SEA will have their third strike in 11 years. We are just a few days away from the start of the school year, and you may be asking, “What’s the hold up?”",
+    "SEA has agreed to 12 of 57 issues and struggle to find common ground on what holds the most weight in these negotiations, centering the experience of their students and members. They have found that pressurization and wages are where the district and SEA are unable to come to an agreement. You may be wondering, what this actually means. Teachers are focused on pressurization, a.k.a. increased workload. Pressurization comes in the forms of increases in caseload, class size, and other demands that take their time and focus away from students and lead to educator burnout.",
+    "When we constantly put more and more on our educators' plates, we limit the time and energy they have to actually teach our children. And when we talk about wages, we mean making sure all SPS employees can afford to live in the city where they work. In a city as expensive as Seattle, many of the lower-paid workers are finding it difficult to afford to live here in the communities they serve. Educators are not looking for a massive raise in this contract. It is simply a cost-of-living adjustment that will ease the burden of affordability.",
+    "If I were to simplify that for the everyday person not at the bargaining table: Teachers want to improve working conditions because their working conditions are their students' learning conditions.",
+    "SEA is digging into the district’s annual $1.3 billion budget and finding that part of the problem is state funding. And part of the problem is misplaced priorities.",
+    "What is SEA fighting for beyond pressurization and wages?",
+    "Special education students have a civil right to a high-quality education : That means we need to meet their individual education plan (IEP). With more students with IEPs in general education, SPS needs to ensure that the co-teaching models are effective. Teachers need an opportunity and space in their schedule to collaborate and help ALL of their students succeed. In these co-teaching models, SPS needs to have a plan to fill in for vacancies and leaves so students with IEPs have teachers with a Special Education endorsement. This is not only an issue around providing a high quality education for all our students, but it is a civil rights issue.",
+    "Reasonable class sizes: This is critical to how students succeed. Currently, SEA’s contract includes overage pay as an incentive for the district to keep class sizes a reasonable size, but we are hearing from educators that they don’t want that overage pay. On a personal note, my friend that teaches in a different district similarly had overage pay for having a large class. Mid-year, she had to advocate to split the class up because the learning environment in a class of 35 students was not conducive to student success.",
+    "Smaller class sizes give educators the ability to connect with students and help them succeed. SEA states: “We need to create a true cap, beyond which the district must add staff or reduce the class size to ensure students have the opportunity to learn.”",
+    "Beyond class sizes, SEA has a variety of other proposals that include safety, AI usage in the classroom, and substitute reimbursement.",
+    "Long term, we need solutions from the state",
+    "These issues could be solved at the state level if we had a legislature that would prioritize the learning conditions of our children.",
+    "In 2014, we had the opportunity to implement smaller class sizes through I-1351 , providing students with one-on-one attention from caring and qualified teachers and support staff. While voters backed smaller class sizes, the state legislature unfortunately left the initiative unfunded, and in 2015 the state legislature delayed its implementation. Eventually in 2017, the legislature repealed the cap on class sizes, due to a lack of funding, leading us to the mess we are in now: Large class sizes, teachers without the resources to effectively serve their students, and students failed by a system that they simply inherited.",
+    "Teachers are burnt out and it reflects in how many educators are leaving our schools. One special education teacher told me that: “Last year was the worst teacher year of my life due to an unsustainable and unsupported SpEd caseload. And every SpEd teacher in my building except one left at the end of last year. It’s leading to massive burnout and attrition.”",
+    "Without proper class sizes and support, we are failing our teachers, and in turn failing our children.",
+    "Many critics to this solution will bring up, “if smaller class sizes were unfunded in 2014, how would you fund them now, especially with an upcoming austerity budget?”",
+    "Well, simply put, we would need to reform our tax code like WEA recommended about a decade ago. I’m writing this off the heels of Washington State coming in as No. 1 — for corporate tax breaks and corporations like Microsoft paying a tax rate of 2.4%, while people that earn less than $33,500 a year have a tax rate of 13.8% . We need a legislature that is bold enough to stand up for our values and provide a quality education for all, while creating a sensible tax code that makes everyone pay their fair share .",
+    "And this November, we have a choice in legislative races all over the state. We need to elect legislators that are willing to balance the tax code. We deserve legislators who will stand with workers over corporate profits. And legislators that support our educators all year long, not just during an election year.",
+    "In the upcoming days, I ask you to support our teachers. This could be showing up for the bargaining team at rallies, spreading the word via social media, calling on the district to meet SEA’s proposals , and, if there is a strike, picketing with teachers throughout the city demanding SPS meet their proposals."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/data-src-image-c78b9b6d-8e37-43ce-ac2b-aaa234251541-1-1-.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-rgartsculture20260830pongopoetryacoldsun",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "PONGO POETRY | A Cold Sun",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://southseattleemerald.org/arts-culture/2026/08/30/pongo-poetry-a-cold-sun",
+   "paras": [
+    "Were you there when I lost one of my teeth? Were you there when I made a friend? Were you there when I finished my blueprints of the stuff I like to build?",
+    "Where were you when I got hurt? How long are you going to be gone? Will I miss anything?",
+    "I want you to know that I forgive you. For all the times you made me cry. For every time you yelled at me. For the times you scared me.",
+    "I hope you and your new kids Are happy with the life you have. I like to think you haven't forgotten about me Even though it may not be true.",
+    "I don't know if you know this, but I'm sixteen. I changed my name. It might be a different name soon.",
+    "I want you there when I graduate from high school. I want you there with me when I walk down the aisle of my wedding. You mean so much to me But I mean so little to you. And that's fine. You keep living your life and I'll live mine.",
+    "Oh! T* has just finished college. She will be able to start teaching in two years. And she is still with B*. They are now living together And will move close to Mom. And I'm pansexual — I love people based on their personality Not their gender or looks.",
+    "* Names redacted to protect youth confidentiality.",
+    "You took everything I needed and never gave it back",
+    "I needed love but you made it so I couldn't even love myself",
+    "I needed education but you wouldn't let me leave the house",
+    "I needed safety but you let my siblings go unsupervised",
+    "I needed comfort but you caused me to hide in my room",
+    "I needed a mom but you wouldn't even give that to me",
+    "you were supposed to be my sun yet I am still so Cold.",
+    "Pongo Poetry Project's mission is to engage youth in writing poetry to inspire healing and growth. For over 20 years, Pongo has mentored poetry with children at the Child Study Treatment Center (CSTC), the only state-run psychiatric hospital for youth in Washington State. Many CSTC youth are coping with severe emotional, behavioral, and mental health challenges. Approximately 40% of youth arrive at CSTC having been court ordered to get treatment; however, by the end of their stay, most youth residents become voluntary participants.",
+    "Pongo believes there is power in creative expression, and articulating one's pain to an empathetic audience. Through this special monthly column in partnership with the South Seattle Emerald, Pongo invites readers to bear witness to the pain, resilience, and creative capacity of youth whose voices and perspectives are too often relegated to the periphery. To learn more about how Pongo inspires healing and relief in youth coping with mental and emotional turmoil, register for \" What Words Can Hold ,\" its fall community poetry writing night!"
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-08-30/u8xpdn7w/Shutterstock2734676955via-Here.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-akeontarioamericadougfordtrumpsigngoogle",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Canada claps back at Trump's efforts to rename Lake Ontario as 'Lake America'",
+   "author": "Fatima Al-Kassab",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5949254/lake-ontario-america-doug-ford-trump-sign-google",
+   "paras": [
+    "Ontario Premier Doug Ford has unveiled a giant billboard reading: \"Lake Ontario — Now and Always.\" But tech giant Google has said it is renaming the lake for U.S. users, as President Trump demanded.",
+    "(Image credit: Keito Newman/The Canadian Press)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4969x3313+0+0/resize/4969x3313!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7c%2Fd3%2F34edc3ed470abb1249553419ff38%2Fap26241611483319.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ivemeettheinauguralwinneroffatmarmotweek",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Exclusive: Meet the inaugural winner of Fat Marmot Week",
+   "author": "Dhanika Pineda",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5945683/exclusive-meet-the-inaugural-winner-of-fat-marmot-week",
+   "paras": [
+    "Dawn was crowned fattest marmot by popular vote."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2F2a%2Fa2da2c2e4d31bb0c94d5c25b7d6c%2Fdawn-eric-philips-2.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-943190jimmykimmeldeepfakejonstewartabcai",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Are you sure that Kimmel clip was real? Late-night AI deepfakes are spreading online",
+   "author": "Chloe Veltman",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5943190/jimmy-kimmel-deepfake-jon-stewart-abc-ai",
+   "paras": [
+    "While social media is rife with AI celebrity deepfakes, videos featuring late night TV hosts like Jimmy Kimmel and Jon Stewart are are easier to create than other kinds of deepfakes and potentially more disruptive."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8f%2Ff9%2Ff43ba5e14ffb84ee1eea993d310c%2Fkimmel-ailabel.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-4launchnancygraceromanspacetelescopenasa",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "'A glorious dawn launch': NASA's newest space telescope has left the Earth",
+   "author": "Brendan Byrne",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5948814/launch-nancy-grace-roman-space-telescope-nasa",
+   "paras": [
+    "The tour-bus-sized telescope aims to unravel cosmic mysteries and identify more than 100,000 planets beyond our solar system."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5198x3465+0+0/resize/5198x3465!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F35%2Fac%2F2bac2c914ab5a228bb6f3dde320d%2Fnhq20260830-admin-0002-orig.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-30nxs15939521tariffrefundscanadatradewar",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "How a comic book store got swept into the tariff storm",
+   "author": "Stephan Bisaha",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5939521/tariff-refunds-canada-trade-war",
+   "paras": [
+    "Tariffs continue to rile all kinds of American businesses more than a year after Trump unveiled his first set of tariffs — including a comic book store owner in Ohio."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3002+0+0/resize/4500x3002!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F36%2F88%2F809a965e4ef2b49547ac8d1220a1%2F20260825-mcgarvey-npr-1194.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-20260830nxs15946399africadollypartonfans",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent",
+   "author": "Kate Bartlett",
+   "date": "2026-08-30",
+   "url": "https://www.npr.org/2026/08/30/nx-s1-5946399/africa-dolly-parton-fans",
+   "paras": [
+    "Dolly Parton's songs traveled far beyond Nashville. Across Africa, musicians embraced her stories of hardship, heartbreak and humble beginnings — and made them their own."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F38%2F49%2F8eafbc484b7a8dad967be0d67348%2Fgettyimages-2287054395.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026aug30angienixonfloridasenatecandidate",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Grassroots will beat big money every day’: can a DSA member flip a Republican Senate seat?",
+   "author": "David Smith in Washington",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/us-news/2026/aug/30/angie-nixon-florida-senate-candidate",
+   "paras": [
+    "Angie Nixon won one of the biggest upsets in US midterm primaries – and if elected, the Democrat would be the first African American senator in Florida history",
+    "The Democratic establishment had the money, the machinery and the candidate with national name recognition. Angie Nixon had a bookshop called Café Resistance and a grassroots campaign for the Senate. On primary election night in Florida , Nixon won in arguably the biggest upset of the primary season. But at least one person was not shocked: Angie Nixon herself. “We weren’t surprised,” the 42-year-old reflects after overcoming a vast fundraising disadvantage to defeat Alex Vindman , a combat veteran who testified against Donald Trump during his first impeachment. “We actually knew we were going to win; we just didn’t know that we were going to win by that much. We put in the work and so super excited about the outcome. It shows that good old-fashioned grassroots organising will beat big money each and every day.”",
+    "Nixon won 56.1% of the vote to Vindman’s 43.9%. The result stirred tensions within the Democratic party in a year defined by the struggle between moderates and economic populists . In Florida – a state that has trended increasingly Republican in recent years and is now Trump’s home state – Democrats have now nominated a member of the Democratic Socialists of America (DSA) who speaks openly about class war."
+   ],
+   "img": "https://i.guim.co.uk/img/media/f7381ddc4940e82882c6f5ef6ff815cb42aceae3/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e12198e5afc4be7a7352a7c3ccc095b5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ss14expertrulesforacleanhealthyhappyhome",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Make your bed – and be ruthless: 14 expert rules for a clean, healthy, happy home",
+   "author": "Sarah Phillips",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/make-your-bed-and-be-ruthless-14-expert-rules-for-a-clean-healthy-happy-home",
+   "paras": [
+    "Is your place crying out for some TLC? Housekeepers reveal how to keep it looking its best – and when it’s OK to let standards slip",
+    "Life is busy and there is only so much time to spend cleaning and tidying. What are the non-negotiables of a well-managed home? Here, housekeepers share their tips and hacks for making a chaotic house feel more orderly."
+   ],
+   "img": "https://i.guim.co.uk/img/media/65d1f32c0f078f2c07c07dbf49d0b14536172ea8/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=dc82e6df0f19cf4e818037bf0984c75e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-30datacenterpoliticsdemocratsrepublicans",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The datacenter backlash is bringing the entire political spectrum together – against Big Tech billionaires",
+   "author": "Aaron Regunberg",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/30/data-center-politics-democrats-republicans",
+   "paras": [
+    "The movement against datacenters is uniting Americans because they perfectly illustrate how a few individuals hold all the power to control decisions that impact our lives",
+    "Bryce Gustafson has been knocking on doors in Indiana for more than a decade. The lead organizer with Citizens Action Coalition (CAC), a consumer and environmental organization, he usually encounters a mix of reactions when he’s out canvassing; whatever issue he’s talking about, there’s always at least a few people on the other side. But at a recent festival in the rural town of Monrovia, Indiana, he was struck by an unusual spirit of unity.",
+    "He was there about a proposed datacenter , a 550-acre (222-hectare) Google project in this small town of 1,600 people. “I had 50 people I talked to,” Gustafson told me. “Nobody wanted that datacenter in their community. And at least a half a dozen people came up to me to say, ‘Hey, I voted for Trump. What the heck’s he doing, supporting these things?’”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/13dbd123e3b27da04d0db84e9c31f9872aa74f8c/47_576_2951_2361/master/2951.jpg?width=140&quality=85&auto=format&fit=max&s=58e4437b6582bb9808bbb43716992174",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ractive2026aug30thebestfilmsofautumn2026",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
+   "author": "Laurence Phelan, Andrew Pulver and Catherine Shoard",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+   "paras": [
+    "Old favourites Shaun the Sheep, Dune, Jane Austen and Godzilla join Charles de Gaulle, the Peasants’ Revolt and queer identity in Spain",
+    "• See all of our unmissable autumn arts recommendations here • Big tech goes to Hollywood: is Silicon Valley ready for a silver-screen reckoning?",
+    "All release dates are UK and subject to change",
+    "Willem Dafoe is typically grizzled and poetic for this study of a near-retirement postal worker who, it turns out, was a beatnik rhymester of cachet – but no lasting renown – back in the day, and who has now been rediscovered by a new generation of literary hipsters. Director Kent Jones, adapting a novella by Arthur “La Ronde” Schnitzler, was the longtime head of the New York film festival; he might be in for a spot of late fame himself. AP • 4 September"
+   ],
+   "img": "https://i.guim.co.uk/img/media/1aa6de4209d5ad3467eaf48576d8e04ee6d39743/2_0_9996_8000/master/9996.jpg?width=140&quality=85&auto=format&fit=max&s=d657d755a7908408550f9b97982ce766",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-30legofansadultsrediscoverhobbylaterlife",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘It’s therapy by stealth’: the adult fans helping Lego build its billions in sales",
+   "author": "George Francis Lee",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/aug/30/lego-fans-adults-rediscover-hobby-later-life",
+   "paras": [
+    "A growing number of people are rediscovering their love of plastic bricks in later life and boosting the Danish company’s bottom line",
+    "In a cosy cafe in Kingston upon Thames on the outskirts of London, nine people gather in the early evening to drink and talk. To the casual observer it may look like a book club, but when the friends reach into their bags it’s not paperbacks they produce – but packs of Lego.",
+    "Geoff Lay, who organised the gathering, worked in software development before recently starting Noble Brick, a Lego-focused events organisation."
+   ],
+   "img": "https://i.guim.co.uk/img/media/14278be9aae7bdc43de38316209f68168162dec2/1511_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=2c643ba3429e9a3fb19ea4c1defe6774",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ezsaysoildealwithtrumphasendlessbenefits",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump",
+   "author": "Tom Phillips Latin America correspondent",
+   "date": "2026-08-30",
+   "url": "https://www.theguardian.com/world/2026/aug/30/venezuela-delcy-rodriguez-says-oil-deal-with-trump-has-endless-benefits",
+   "paras": [
+    "Deal that will reportedly see US take control of 65bn barrels of Venezuelan oil has provoked outrage in her country",
+    "Venezuela’s interim president, Delcy Rodríguez, has defended her government’s highly controversial energy deal with Donald Trump, insisting the South American country will maintain ownership and sovereignty over its massive oil reserves.",
+    "Rodríguez, who assumed power in January after Trump ordered the abduction of the president, Nicolás Maduro, took to the airwaves on Saturday to push back against criticism of what the US president has called “the biggest oil deal in world history”."
+   ],
+   "img": "https://i.guim.co.uk/img/media/a05710204f48a2fa20464f28a36ef2667539fbe3/185_142_4154_3323/master/4154.jpg?width=140&quality=85&auto=format&fit=max&s=69b88995a4e3be4cd1a91f7702d6878a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc14dlm5e22koatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Prisoners freed early are returning to jail at rapid rate, governors tell BBC",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/news/articles/c14dlm5e22ko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "PM Andy Burnham on Sunday announced changes to the next early release scheme - scheduled to start in October - which mean PC Harper's killers will stay in jail."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2a/live/13967520-a398-11f1-b666-4bd8c8e39163.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc770jyd4l7loatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b564/live/7bd43000-a492-11f1-a291-b542ee92de7c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesce87e55vgpjoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'A giant leap forward': Nasa launches powerful new space telescope to explore mysteries of the Universe",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/206f/live/de2a7590-a48b-11f1-b109-879e35c24276.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesckg8x0ex8gnoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Sons of officer who died in A66 crash lead out Man Utd as mascots",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckg8x0ex8gno?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The sons of PC Matthew Blades led Manchester United out at Old Trafford for Sunday's Premier League game with Ipswich."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969c/live/419ac790-a48e-11f1-8395-fb1eae51ae18.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesclyk7rz1plloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Church names pastor killed by falling sign at Christian festival",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/news/articles/clyk7rz1pllo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Robert Guanco, 41, was a pastor at Jesus the Living Water Church in Eastbourne, East Sussex."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f811/live/6fa11450-a45c-11f1-b370-b9b7934350c8.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescx2zy118q7koatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "British woman killed in stabbing at German railway station",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://www.bbc.co.uk/news/articles/cx2zy118q7ko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "A 27-year-old German man was arrested immediately after the incident in Rosenheim, Bavaria."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/229c/live/8e80aca0-a45c-11f1-b370-b9b7934350c8.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-hesusingaiandwhyhesworriedaboutthefuture",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -110,6 +496,23 @@
     "Edited and produced by Curt Milton. Music by Daniel L.K. Caldwell."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/20250404_Microsoft_205-1260x900.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-ogcom20260829fall2026servicechangebegins",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Fall 2026 Service Change Begins",
+   "author": "Mike Orr",
+   "date": "2026-08-29",
+   "url": "https://seattletransitblog.com/2026/08/29/fall-2026-service-change-begins/",
+   "paras": [
+    "Several transit agencies have their twice-yearly service change today or this week. South King County and Pierce County have the most extensive changes to coordinate bus service with Federal Way Link. East King County implements the almost-last phase of its East Link bus restructure. North King County and Snohomish County have some route restructures too. Two ST Express night owls start from downtown Seattle: a route 597 south to Lakewood, and a route 547 east to Bellevue and Redmond. A planned route north to Everett is delayed until 2027.",
+    "Are you doing a first-day ride today? Or tomorrow or next week? Which route(s) do you want to do first? Is it because they’re so different, or a trip you make regularly?"
+   ],
+   "img": "",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -153,64 +556,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-ogcom20260829fall2026servicechangebegins",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Fall 2026 Service Change Begins",
-   "author": "Mike Orr",
-   "date": "2026-08-29",
-   "url": "https://seattletransitblog.com/2026/08/29/fall-2026-service-change-begins/",
-   "paras": [
-    "Several transit agencies have their twice-yearly service change today or this week. South King County and Pierce County have the most extensive changes to coordinate bus service with Federal Way Link. East King County implements the almost-last phase of its East Link bus restructure. North King County and Snohomish County have some route restructures too. Two ST Express night owls start from downtown Seattle: a route 597 south to Lakewood, and a route 547 east to Bellevue and Redmond. A planned route north to Everett is delayed until 2027.",
-    "Are you doing a first-day ride today? Or tomorrow or next week? Which route(s) do you want to do first? Is it because they’re so different, or a trip you make regularly?"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-29therounduphowseattleteenssendoffsummer",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: How Seattle Teens Send Off Summer",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://southseattleemerald.org/newsletters/2026/08/29/the-roundup-how-seattle-teens-send-off-summer",
-   "paras": [
-    "We've made it to the end of summer, and my favorite season, fall, is just around the corner. But before I pull out my warm sweaters, spiced lattes, and books by the fire, there's one more Seattle summer event that we have to highlight: Teen Summer Musical .",
-    "This event has been a staple for as long as I can remember. I've shared plenty of personal memories I have with the event, including the fun fact that my first date (technically a double date) was attending the teen musical at the Paramount in the early 2000s.",
-    "This new crop of teens are in for a real treat. This year, for the first time ever, the teen musical will be at McCaw Hall. This venue is home to the Seattle Opera, the Seattle Symphony, and the Pacific Northwest Ballet — all world-class organizations. These teens will grace a stage that some professional performers work their whole lives to make it to. That's pretty cool.",
-    "We've had a lot of rough news for teens this year. From shootings in our neighborhood, to the recent shootings at the Bite of Seattle. One thing we do know: There's plenty of data and research that shows teens get into less trouble when they have structured programs and a place to hang out and just be … teens .",
-    "This week, I spoke with Michelle Lang-Raymond, co-founder and executive director of Acts on Stage, the company producing the musical, as well as the show's music director. We talked about the legacy of the program, how it supports teens, and what to expect from this year's production, Peter Pan Ready to Rise .",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: Theater isn't the easiest space to operate in these days. Y'all have been at this for over 25 years. How have you been able to have this longevity?",
-    "MLR: I think we've actually been doing it for over 30 years now. The current version of the teen musical started in '95. And even three years before that it had a smaller version of what it became.",
-    "But it is kind of crazy to think this program has been around this long. The thing that's even crazier is to know that there are people who have been in Seattle, some born and raised in Seattle, who have still never heard of this program and never have seen a show, which is crazy to us. A couple years ago, somebody came up to us and very excitedly said, \"The Teen Summer Musical is the best-kept secret in Seattle,\" and we were like, \"But why is it a secret?\" Everybody should already have it on their calendar that this is how they bridge the summer back to school. This is the last thing that happens in the city of Seattle before we all go back to school.",
-    "But why do I think it has lasted so long? A couple reasons. One is Isiah Anderson Jr. Period, point blank, full stop. The only person who has been with this program for 30 years is Isiah, and it is because of him that it has the legs that it has and has had the longevity that it has had. And then he would agree that the next part of the answer is because he always assembles a team of people who are not only great artists and creatives, but they are people who understand youth work. They are people who understand what it means to put on a show, and they are people who want the community to be proud.",
-    "MD: For as long as I can remember, this program rehearsed at Langston Hughes and was a part of Black Seattle. But the numbers of Black people in the Central District have dwindled over the years. Has that impacted how y'all keep this going?",
-    "MLR: I think it's the legacy of the program. It has been around so long that it doesn't matter where people live at this point, people still find the program as a centering part of Black culture in Seattle. This is still a part of Black expression in Seattle — so no matter where people live, they still want to be tethered to that Black experience.",
-    "Now, mind you, the program is not just for Black kids. We have quite a few kids in the program, especially this year, that are not Black and not biracial either. We have all races. But we do not make any apologies for the fact that the shows are produced with Black culture as the centerpiece.",
-    "It doesn't matter where people live now and how gentrification has affected them. The Teen Summer Musical is a part of the way we do Black culture in Seattle.",
-    "MD: I've been having conversations all year about our teens and, quite frankly, violence. Can you talk about the importance of having programs like yours that give our teens not just a place to be, but a place to find themselves, which is unique to theater?",
-    "MLR: They are signing up to be part of a society of youth who are learning together. And not just learning how to sing, dance, and act, but learning how to be a community, learning how to care, learning how to communicate, learning how to hold each other responsible, and also learning how to give each other grace. That's the value of Teen Summer Musical being a program and not just a production. We have 80 kids this year. You don't need 80 youth to make a musical. But we're committed to a program that does all the things I just said. This is about cultivating and nurturing our children. We're committed to that just as much as we are committed to producing a great show.",
-    "MD: Speaking of the show, y'all always put a twist on a story we think we already know. What can you tell us about your Peter Pan?",
-    "MLR: We all know that Peter Pan is a boy who refuses to grow up, he lives in Neverland, and he flies. And we know his nemesis is Captain Hook. In our show, our Peter Pan is a young Black boy, and he doesn't want to grow up because he's seen the statistics about what happens to many Black boys when they grow up, and those statistics are often not great. Some of them don't make it out of their teens. So Isiah did an amazing job tethering the reason why Peter doesn't want to grow up in our story to something that's true to life.",
-    "We've been saying this for years: The South End has the most dangerous intersections in the city. Mayor Katie Wilson has plans to accelerate the work that could make our streets safer.",
-    "You may have missed Gennette Cordova's Q&A with director Boots Riley (that was Friday), but there's so much more to explore at the Seattle Black Nerd Fest. And to be clear, you don't have to be Black or a nerd to have a good time.",
-    "I have a framed photo of the Black Panther mural in my office. Someone vandalized the real one by Franklin High School. But we have good news: It was restored, and the Emerald was there to see it.",
-    "El Centro de la Raza had a garden named after Cesar Chavez. Not anymore. Here's why.",
-    "Rainier Beach High School is having a ribbon-cutting ceremony to celebrate the completion of phases 1–4 of the remodel. The event is today at 2 p.m. Go Vikings!",
-    "These talented teens are headed to McCaw Hall. This weekend only. Tickets in the link.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-08-29/n6dargps/How-Seattle-Teens-Send-Off-Summer.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stranger-lutepleasureattheserockyhorrorscreenings",
    "srcKey": "stranger",
    "cat": "arts",
@@ -233,23 +578,6 @@
    "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/08/rockyhorror-copy.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-hqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clEoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVBTMVgxWDR4MWQ2OGxzWHlWQlZOcGxycTNVVGNPdGVZMEluTm5FRFVrXzBWMHU4b0tTZUF4dTdtMVhNemJlelFQcmRLYkx0dkg5MGt6VlZtdkdkNVlZVlBRNTQyNGpEdlhGeDFoV1lQUTZnUE1oVVpmNUdobGpzV0J5cmVncUhqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clE?oc=5",
-   "paras": [
-    "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -349,288 +677,20 @@
    "annos": null
   },
   {
-   "id": "f-npr-rorg20260829nxs15948714russianstrikekyiv",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Russian strike near Kyiv kills 37, in one of the year's deadliest attacks",
-   "author": "The Associated Press",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
-   "paras": [
-    "The deadly strike comes amid 72 hours of near constant drone strikes across Ukraine, severely disrupting daily life.",
-    "(Image credit: Ukrainian Emergency Service)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2000x1500+0+0/resize/2000x1500!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F23%2F84%2F60b086da426693a6915e40d64336%2Fap26241383255550.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-eetheaftermathofdeadlyflashfloodsinnepal",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Photos: See the aftermath of deadly flash floods in Nepal",
-   "author": "NPR Staff",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
-   "paras": [
-    "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x3000+0+0/resize/4000x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0d%2Fab%2F9d58903047aaa7d9adf604fdf9fd%2F2026-08-28t000000z-1484653559-mt1nurpho000jmtolk-rtrmadp-3-nepal-flood.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nxs15941650opinionrememberingdollyparton",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Opinion: Remembering Dolly Parton",
-   "author": "Scott Simon",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5941650/opinion-remembering-dolly-parton",
-   "paras": [
-    "She said she wasn't offended by dumb blonde jokes because \"I know I'm not dumb...and I also know I'm not blonde!\" We take a moment to remember the smart, funny and uniquely talented Dolly Parton.",
-    "(Image credit: Mark Humphrey/ASSOCIATED PRESS)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2990x1962+0+0/resize/2990x1962!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2Fb1%2F02839d2f44f8abddf9d943377d7f%2Fap8910091639.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-xs15927173bridgesremotecommunitiesrwanda",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The bridges of Rwanda open up new worlds",
-   "author": "Fatma Tanis",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5927173/bridges-remote-communities-rwanda",
-   "paras": [
-    "A charity built 96 bridges to connect communities separated by rivers and gorges. A new study looks at the life-changing impact of a concrete-and-steel pedestrian crossing."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F53%2F3a12f9554231baf4c836fa2eddd2%2Frwanda-bridge-4077.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nxs15947960instagrammetasocialmediateens",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Lights out, Instagram off? The changes to Meta for teens could be a big deal",
-   "author": "Rhitu Chatterjee",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5947960/instagram-meta-social-media-teens",
-   "paras": [
-    "Researchers and advocates are applauding the changes that Meta agreed to make for minors on Instagram and Facebook. Cutting kids off at night and during the school day are two big changes."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6683x4455+0+0/resize/6683x4455!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2F1f%2Fa0b489b9412c90609f919c7d91c2%2Fgettyimages-2168586508.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-cutscienceadvisorycommitteesconsequences",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump cuts to science advisory boards have long-lasting consequences, researchers say",
-   "author": "Katia Riddle",
-   "date": "2026-08-29",
-   "url": "https://www.npr.org/2026/08/29/nx-s1-5945029/trump-cut-science-advisory-committees-consequences",
-   "paras": [
-    "The federal government recruits top experts to volunteer to advise on pressing research issues of the day. Since President Trump took office, hundreds of these experts have been dismissed."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2F6b%2Fabc381304da49a831c1f29b0c298%2Fll-yll4134-1.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc86xwqez4npoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+   "id": "f-kuow-hqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clEoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton",
    "author": "",
    "date": "2026-08-29",
-   "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVVBTMVgxWDR4MWQ2OGxzWHlWQlZOcGxycTNVVGNPdGVZMEluTm5FRFVrXzBWMHU4b0tTZUF4dTdtMVhNemJlelFQcmRLYkx0dkg5MGt6VlZtdkdkNVlZVlBRNTQyNGpEdlhGeDFoV1lQUTZnUE1oVVpmNUdobGpzV0J5cmVncUhqWV9wRXB6VXI3RXhfZk9ZRUVOLUhWYWR1clE?oc=5",
    "paras": [
-    "An investigation has begun into the storage of weapons for Ukraine's military near a residential area."
+    "'Epitome of love and light.' Fans gather in Seattle’s Capitol Hill to honor Dolly Parton KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc5ye8p8xpg4oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Cleverly quits shadow cabinet to run for London mayor",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://www.bbc.co.uk/news/articles/c5ye8p8xpg4o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The capital is not set to vote on a new mayor until 2028."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2689/live/dc707fb0-a3be-11f1-b13c-0d78069132fa.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc5y4xmx16k0oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Mum of Nottingham attacks victim backs calls to stop killers' early release",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://www.bbc.co.uk/news/articles/c5y4xmx16k0o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Emma Webber has joined more than 30 families in signing an open letter to the government."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0b/live/7eaa5a20-a384-11f1-aff5-c9bc64006961.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesce8xn9ge6xeoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Sarah Ferguson expected back in the UK 'shortly', source says",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://www.bbc.co.uk/news/articles/ce8xn9ge6xeo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The former Duchess of York is renting a six-bed house in the Home Counties, reports say."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f3/live/83ec8940-a389-11f1-9e7c-cb942f2e97d9.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesclylkwl5nd4oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Man dies after train hits van on level crossing",
-   "author": "",
-   "date": "2026-08-29",
-   "url": "https://www.bbc.co.uk/news/articles/clylkwl5nd4o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "British Transport Police said a man who was in a van died at the scene, in Burscough."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b57/live/2bd615b0-a3d8-11f1-a291-b542ee92de7c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-tenhamhotspurvnewcastlepremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Tottenham v Newcastle: Premier League – live",
-   "author": "Barry Glendenning",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/football/live/2026/aug/29/tottenham-hotspur-v-newcastle-premier-league-live",
-   "paras": [
-    "Anthony Elanga and Yoane Wissa got the goals as Newcastle survived a first-half onslaught before consigning Tottenham to back-to-back top flight defeats",
-    "Fun fact: Tottenham and Newcastle have met 61 times in the Premier League era without ever playing out a scoreless draw. Today could be the day for a dreary stalemate but it seems unlikely – fingers crossed for a glut of goals.",
-    "Premier League: Hull City have made it back-to-back wins upon their return to the top flight, with Liam Millar scoring the only goal of their game at Coventry City to deposit another three precious points in the bank. James Tarkowski left it until added time to cancel out Alex Scott’s opener as Bournemouth were held by Everton at the Vitality Stadium. In today’s early game, Liverpool and Nottingham Forest served up an entertaining 2-2 draw at Anfield, where the hosts had to come from behind twice to rescue a point."
-   ],
-   "img": "https://i.guim.co.uk/img/media/95bd79a6a987bd1c46d3bfc8aea930feac75ea0a/668_153_2818_2253/master/2818.jpg?width=140&quality=85&auto=format&fit=max&s=1324bdb5be15b915a01efe260e5671b7",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-026aug29scottbessantuseconomydonaldtrump",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
-   "author": "David Smith in Washington",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
-   "paras": [
-    "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debt",
-    "History remembers Gen Dwight Eisenhower , the supreme commander of the allied forces in Europe during the second world war, for his role in the D-day invasion of Normandy. Whether Scott Bessent will achieve similar posterity as the face of the “economic D-day” in Iran remains to be seen.",
-    "The US treasury secretary, already trying to manage a $40tn national debt pile, this week took charge of Donald Trump ’s effort to reverse-engineer his war of choice. Whereas the US would typically take on an adversary with diplomacy, sanctions and military force, in that order, the US president started with a six-month bombing campaign and now hopes that economic isolation can finish the job."
-   ],
-   "img": "https://i.guim.co.uk/img/media/9b895201b43db2d3264aa974f5b4d6794d283d75/0_0_2301_1842/master/2301.jpg?width=140&quality=85&auto=format&fit=max&s=f8421505a37e3af9ea7ae9d7408c95e6",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-slowfashionwhyonewomangrowingherowndress",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I wanted to find the slowest fashion imaginable’: the woman growing her own dress",
-   "author": "Nicola Davis Science correspondent",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/fashion/2026/aug/29/slow-fashion-why-one-woman-growing-her-own-dress",
-   "paras": [
-    "Looking for an alternative to fast fashion, Eve Ogden Schaub decided to create a garment from homegrown flax",
-    "From crop tops to shorts and brightly patterned dresses, many of today’s clothes are the result of fast fashion. But one woman is taking a radical approach to challenging this trend by growing her own dress.",
-    "Eve Ogden Schaub is in the midst of a project to create a linen garment made from flax she is growing at home, documenting the process in videos shared on her Instagram account ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/2164a91ec44207b7b0003de520dd9a151481cc18/0_295_1290_1031/master/1290.jpg?width=140&quality=85&auto=format&fit=max&s=ef68bb706513715ded4ed3b8a40425db",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-26aug29spadesbidwhistcardgameblackfamily",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Why spades has dominated Black gatherings for generations – it’s more than just a card game",
-   "author": "Adria R Walker",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/culture/2026/aug/29/spades-bid-whist-card-game-black-family",
-   "paras": [
-    "Spades and its predecessor bid whist are ‘Black family heirlooms’ played by Obama and Thurgood Marshall alike",
-    "At family reunions and cookouts growing up, Rachel Young-Love was captivated by what she called the “special table”. It was the loudest, the most crowded. Everyone seated at it was either embroiled in smack talk, eyeing their partner to covertly check if they were on the same page or sweating to make sure they played their hands just right.",
-    "Her relatives were playing the card game spades, “one of the highlights of the event”, she said, and the stakes – bragging rights until the next gathering – were high. It wasn’t until she was an adult that Young-Love learned to play, and even still she had to bide her time before she was allowed a seat at the spades table."
-   ],
-   "img": "https://i.guim.co.uk/img/media/71c9f1c74f3322da2ddab419934f26ba6b6a778b/489_0_4404_3522/master/4404.jpg?width=140&quality=85&auto=format&fit=max&s=6e9f3723bc9340492a47face7ff6952b",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-feandstyle2026aug29blinddatemikecaterina",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Blind date: ‘She’s one of the easiest people to talk to that I’ve ever met’",
-   "author": "Guardian Staff",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/aug/29/blind-date-mike-caterina",
-   "paras": [
-    "Mike, 37, a scientific editor, meets Caterina, 35, a teacher",
-    "What were you hoping for? Good company, nice food and an interesting evening with someone new. I got everything I hoped for."
-   ],
-   "img": "https://i.guim.co.uk/img/media/931cbcaa040f2e1e9fb27a373827b0d325cfda90/114_91_4886_3909/master/4886.png?width=140&quality=85&auto=format&fit=max&s=baffa004e5b2ba14b9f340d3ad07ec00",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-formerguerrillascolombiafatenewpresident",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
-   "author": "Daniela Díaz in Valle del Guamuez and Tiago Rogero in Rio de Janeiro",
-   "date": "2026-08-29",
-   "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
-   "paras": [
-    "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took over",
-    "In mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.",
-    "They also stripped off their heavy tactical vests, field packs and camouflage uniforms, which were each piled into a bonfire to mark the beginning of a new life away from an armed conflict that has claimed nearly half a million lives in the last six decades."
-   ],
-   "img": "https://i.guim.co.uk/img/media/bd9dced1c20e7f4db205d0b4de787d820f1da9f8/0_0_4693_3754/master/4693.jpg?width=140&quality=85&auto=format&fit=max&s=08b22b31e3ff78c090719787ca58f4e0",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -842,6 +902,25 @@
    "annos": null
   },
   {
+   "id": "f-stb-logcom20260828fridayroundtablefinaltrips",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Final Trips",
+   "author": "Michael Smith",
+   "date": "2026-08-28",
+   "url": "https://seattletransitblog.com/2026/08/28/friday-roundtable-final-trips/",
+   "paras": [
+    "Transit agencies around Puget Sound are updating their networks this weekend. This service change is more significant than most with restructures in south King County and Pierce County, east King County , and north King County and Snohomish County . In addition to the local transit agencies, Sound Transit is revising its ST Express routes to reflect the several Link extensions over the past few years. While the new routes and overall network are a better use of each agency’s limited resources, Puget Sound transit passengers will be losing several routes that have transformed the region.",
+    "There are a few organized events to bid farewell to some routes. In Issaquah, Rep. Zach Hall and Councilmember Kelly Jiang are hosting a Celebration of Life for routes 271 and 554. The ceremony will take place at Issaquah Transit Center at 6pm today.",
+    "A funeral for Route 550 will take place at Bellevue City Hall Plaza today at 6:30pm .",
+    "If prefer to ride the very last trip for your favorite route, the table below outlines the final trips for each route that will be eliminated this weekend. Unless otherwise noted, all times are for today (Friday)."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3123-2.jpg?resize=525%2C350&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-erettlinkreacheskeyfridapprovalmilestone",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -868,25 +947,6 @@
     "The Everett Link project will need to keep moving through the process for its anticipated 2037 opening for the Paine Field segment to stay in play."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/20260703_090237.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-logcom20260828fridayroundtablefinaltrips",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Final Trips",
-   "author": "Michael Smith",
-   "date": "2026-08-28",
-   "url": "https://seattletransitblog.com/2026/08/28/friday-roundtable-final-trips/",
-   "paras": [
-    "Transit agencies around Puget Sound are updating their networks this weekend. This service change is more significant than most with restructures in south King County and Pierce County, east King County , and north King County and Snohomish County . In addition to the local transit agencies, Sound Transit is revising its ST Express routes to reflect the several Link extensions over the past few years. While the new routes and overall network are a better use of each agency’s limited resources, Puget Sound transit passengers will be losing several routes that have transformed the region.",
-    "There are a few organized events to bid farewell to some routes. In Issaquah, Rep. Zach Hall and Councilmember Kelly Jiang are hosting a Celebration of Life for routes 271 and 554. The ceremony will take place at Issaquah Transit Center at 6pm today.",
-    "A funeral for Route 550 will take place at Bellevue City Hall Plaza today at 6:30pm .",
-    "If prefer to ride the very last trip for your favorite route, the table below outlines the final trips for each route that will be eliminated this weekend. Unless otherwise noted, all times are for today (Friday)."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3123-2.jpg?resize=525%2C350&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -956,45 +1016,6 @@
     "— Mayor Katie B. Wilson ( @mayor.seattle.gov ) August 27, 2026 at 9:12 AM"
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/08/chs-990.jpg?resize=400%2C294&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-eeatercomdiningreport90880cafeloloreview",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "Cafe Lolo Is the Neighborhood Restaurant Every Neighborhood Deserves",
-   "author": "<name>Kat Thompson</name>",
-   "date": "2026-08-28",
-   "url": "https://seattle.eater.com/dining-report/90880/cafe-lolo-review",
-   "paras": [
-    "If I were to describe the perfect neighborhood restaurant, Cafe Lolo would completely fit my definition. The food is comforting and nourishing, emphasizing local ingredients, which playfully come together in a way that feels both fresh and familiar. The space is draped in natural light that’s assisted by over a dozen lamps. The inviting dining room is covered in quirky Renaissance-inspired murals that don’t feel disruptive. There are to-go meal kits available for purchase, as well as local beers. It’s an atmosphere that invites you to unwind with a bottle of wine. Owners Leah Engel, Alex Halmi, and Brett Bankson are present, not only flitting about the room, but also cooking the dishes in the kitchen and laughing with customers. If I lived in the neighborhood, just off the main drag of Capitol Hill, it’s somewhere I’d want to return to over and over again.",
-    "Cafe Lolo has an extensive wine menu and many local beers, as well as bottles in the fridge you can pick up to-go. Although yes, the wine list — which includes just one glass from Washington, and more options from Oregon and Europe) — is worth perusing, the nonalcoholic tisanes are also made from seasonal ingredients. The strawberry rhubarb soda I had on my visit was effervescent and floral without an overpowering sweetness.",
-    "Like the rest of the menu, dessert will change pending seasons — but don’t skip it. My visit included a celebration of ripe, macerated strawberries over a semolina olive oil cake, which had a buttery crust and a tender interior crumb. There was also a scoop of rhubarb sorbet; light, sweet, and sharp."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/08/Cafe-Lolo_pasta_Kat-Thompson.jpg?quality=90&strip=all&crop=0,0,100,100",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-ttleeatercommapsbestrestaurantsseattle38",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "The 38 Best Restaurants in Seattle",
-   "author": "<name>Sophie Grossman</name>",
-   "date": "2026-08-28",
-   "url": "https://seattle.eater.com/maps/best-restaurants-seattle-38",
-   "paras": [
-    "“Where should I eat in Seattle?” Whether you’re a first-time visitor or a lifer, that question is seemingly simple but the answers are infinitely complex. Some of the main factors to consider are the type of food, price point, neighborhood, and occasion. That’s why Eater’s map of the 38 best restaurants in Seattle exists. This curated list of suggestions attempts to capture the diversity of the food scene in the Seattle metro area, from 12-seat fine dining Filipino destinations to Indian street food takeout spots, from classic French bistros to modern sushi bars, and so much more. Every place on the list has been open for at least six months, proving its merit.",
-    "Like many menus, this map updates every quarter — removal from the Eater 38 doesn’t mean a restaurant isn’t still awesome and won’t return in the future. New to the map as of August 2026: unassuming neighborhood gem Three Sacks Full; seafood-focused French bistro L’Oursin; and La Cabaña, where you can find some of the city’s best pupusas.",
-    "Discover your next favorite Seattle restaurant, create your own maps, and trade notes with fellow diners in the Eater app for iOS .",
-    "A note on pricing: $ means entrees are mostly under $10, a $$ means entrees are mostly under $20, $$$ means under $30, and $$$$ means entrees are more expensive than that, or it is primarily a tasting menu restaurant. (Prices are always subject to change.)",
-    "If your favorite isn’t on here, email seattle@eater.com . For the newest places that food obsessives are flocking to, check out the Eater Seattle Heatmap , updated monthly.",
-    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/SELECT-Eater_Seattles_Best_Restaurants_Wayland_Mill_Brooke_Fitts037.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1103,36 +1124,59 @@
    "annos": null
   },
   {
-   "id": "f-kuow-yS0pNU0tOaXdSVDVkNXh5Z0tpbUtlRzRkdjE0oc5",
+   "id": "f-eater-eeatercomdiningreport90880cafeloloreview",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "Cafe Lolo Is the Neighborhood Restaurant Every Neighborhood Deserves",
+   "author": "<name>Kat Thompson</name>",
+   "date": "2026-08-28",
+   "url": "https://seattle.eater.com/dining-report/90880/cafe-lolo-review",
+   "paras": [
+    "If I were to describe the perfect neighborhood restaurant, Cafe Lolo would completely fit my definition. The food is comforting and nourishing, emphasizing local ingredients, which playfully come together in a way that feels both fresh and familiar. The space is draped in natural light that’s assisted by over a dozen lamps. The inviting dining room is covered in quirky Renaissance-inspired murals that don’t feel disruptive. There are to-go meal kits available for purchase, as well as local beers. It’s an atmosphere that invites you to unwind with a bottle of wine. Owners Leah Engel, Alex Halmi, and Brett Bankson are present, not only flitting about the room, but also cooking the dishes in the kitchen and laughing with customers. If I lived in the neighborhood, just off the main drag of Capitol Hill, it’s somewhere I’d want to return to over and over again.",
+    "Cafe Lolo has an extensive wine menu and many local beers, as well as bottles in the fridge you can pick up to-go. Although yes, the wine list — which includes just one glass from Washington, and more options from Oregon and Europe) — is worth perusing, the nonalcoholic tisanes are also made from seasonal ingredients. The strawberry rhubarb soda I had on my visit was effervescent and floral without an overpowering sweetness.",
+    "Like the rest of the menu, dessert will change pending seasons — but don’t skip it. My visit included a celebration of ripe, macerated strawberries over a semolina olive oil cake, which had a buttery crust and a tender interior crumb. There was also a scoop of rhubarb sorbet; light, sweet, and sharp."
+   ],
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/08/Cafe-Lolo_pasta_Kat-Thompson.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-eater-ttleeatercommapsbestrestaurantsseattle38",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "The 38 Best Restaurants in Seattle",
+   "author": "<name>Sophie Grossman</name>",
+   "date": "2026-08-28",
+   "url": "https://seattle.eater.com/maps/best-restaurants-seattle-38",
+   "paras": [
+    "“Where should I eat in Seattle?” Whether you’re a first-time visitor or a lifer, that question is seemingly simple but the answers are infinitely complex. Some of the main factors to consider are the type of food, price point, neighborhood, and occasion. That’s why Eater’s map of the 38 best restaurants in Seattle exists. This curated list of suggestions attempts to capture the diversity of the food scene in the Seattle metro area, from 12-seat fine dining Filipino destinations to Indian street food takeout spots, from classic French bistros to modern sushi bars, and so much more. Every place on the list has been open for at least six months, proving its merit.",
+    "Like many menus, this map updates every quarter — removal from the Eater 38 doesn’t mean a restaurant isn’t still awesome and won’t return in the future. New to the map as of August 2026: unassuming neighborhood gem Three Sacks Full; seafood-focused French bistro L’Oursin; and La Cabaña, where you can find some of the city’s best pupusas.",
+    "Discover your next favorite Seattle restaurant, create your own maps, and trade notes with fellow diners in the Eater app for iOS .",
+    "A note on pricing: $ means entrees are mostly under $10, a $$ means entrees are mostly under $20, $$$ means under $30, and $$$$ means entrees are more expensive than that, or it is primarily a tasting menu restaurant. (Prices are always subject to change.)",
+    "If your favorite isn’t on here, email seattle@eater.com . For the newest places that food obsessives are flocking to, check out the Eater Seattle Heatmap , updated monthly.",
+    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
+   ],
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/SELECT-Eater_Seattles_Best_Restaurants_Wayland_Mill_Brooke_Fitts037.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-G5VRUtHX2xRMFRPS192dmRXMUVQd3FxSGljRwoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "Mail-in voting will continue for now. WA officials laud latest ruling",
+   "title": "Seattle leaders launch new push to end traffic deaths as fatalities rise",
    "author": "",
    "date": "2026-08-28",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUlRSRGdGMkZkblNVM1VCcmo1WUZDYkFYZHNOTjlOTnNJSjVNWTNxdXVwUGM0d0oyeWFYMlJhU0VUWHFVQ2hDLXo3R1JCMk84UnFGVUNsSms2NXJiQTBZTUdyZjZQbnhVSzJDZFhENnhBQl8yaTVKd1NmcU05V1F3aVhTY0IyYnB3VVNhTlp5cXk5TnAyS0pNU0tOaXdSVDVkNXh5Z0tpbUtlRzRkdjE0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYzFtVjBLbURLbmdMdW5xWk5CTGpudXp3TEJzWV83a1N4bkpoX09HdXhSM0szUk5YOHU3Smx0VDFfbjFqNVNvVmpWVXowVTVtcTFJTHBpR2dwNnBCM1BWTUowWXdHcG1PR0dwVFJ4UVlfclRtSndhZFJKdjYyOVpMcnNzcGxoZWpPYUhtd0VjdV9XaGhvSmV0WDMtYk9hTEs3RG5VRUtHX2xRMFRPS192dmRXMUVQd3FxSGljRw?oc=5",
    "paras": [
-    "Mail-in voting will continue for now. WA officials laud latest ruling KUOW"
+    "Seattle leaders launch new push to end traffic deaths as fatalities rise KUOW"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deoscj64kgrpgjdoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7491/live/38bbbe20-a382-11f1-a291-b542ee92de7c.jpg",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -1358,6 +1402,61 @@
    "annos": null
   },
   {
+   "id": "f-stb-ogcom20260827seattletransittriviaanswers",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Seattle Transit Trivia Answers",
+   "author": "Michael Smith",
+   "date": "2026-08-27",
+   "url": "https://seattletransitblog.com/2026/08/27/seattle-transit-trivia-answers/",
+   "paras": [
+    "Thank you to everyone to joined Seattle Transit Trivia on Monday. After a competitive game, top scores are:",
+    "If you are one of top scorers, please check your email for information about the prizes. This post will share the correct answers for all 39 questions. If you missed the game on Monday but want to test your Seattle transit knowledge, check out the questions from Round 1 , Round 2 , and Round 3 .",
+    "Q1: How many transit agencies support ORCA cards?",
+    "Nine: Community Transit, Everett Transit, King County Metro, Kitsap Transit, Pierce Transit, Sound Transit, Washington State Ferries, Seattle Center Monorail, Seattle Streetcar. RandomNerd answered correctly first .",
+    "Q2: What was the first bus rapid transit line operated by an ORCA agency?",
+    "The Swift Blue Line opened in 2009. Henry Horenstein answered correctly first .",
+    "Q3: Which bus route(s) operated by an ORCA agency do not connect with any other bus routes from the same agency?",
+    "Pierce Transit Route 497 is isolated from the rest of the PT bus network. The route is a peak only service between Landland Hills and Auburn station. Henry Horenstein answered correctly first .",
+    "Q4: Which Sound Transit route has stops outside the Sound Transit taxing district?",
+    "Sound Transit Route 595 serves stops in Gig Harbor. Aaron Gu answered correctly first .",
+    "Q5: List each King County Metro route that is branded as an express service.",
+    "Metro’s once expansive network of express bus routes has dwindled down to just 5 routes: 9X, 17X, 21X, 28X, 193X. Aaron Gu answered correctly first .",
+    "Q6: One King County Metro RapidRide bus has a rear window. Which bus?",
+    "Bus 6000 has a rear window. This vehicle usually operates on the A Line or F Line. HZ answered correctly first .",
+    "Q7: Which Community Transit Express route does not stop at a Link station?",
+    "CT Express Route 907 travels between Paine Field and Stanwood. All other Express routes stop at a Link station. HZ answered correctly first .",
+    "Q8: When did the oldest transit vehicle still used on scheduled routes by an ORCA agency enter service?",
+    "The Carlisle II began passenger service on April 9, 1917. The boat is still used on the Port Orchard ferry route more than 100 years later. Senior answered correctly first .",
+    "Q9: Rank the following transit agencies from highest to lowest based on their June 2026 ferry/water taxi ridership: King County Metro, Kitsap Transit, Washington State Ferries.",
+    "WSF had 1,956,901 passengers, Kitsap Tranit had 127,204 passengers, and the Metro Water Taxi had 86,707 passengers. Aaron Gu answered correctly first .",
+    "Q10: How many ORCA card taps were recorded in 2025?",
+    "ORCA recorded 76,671,844 taps in 2025. Aaron Gu answered correctly first .",
+    "Q11: What was the first ferry route operated by the Washington State Department of Transportation (or one of its predecessors)?",
+    "Washington state began operating the Keller Ferry in 1930, 21 years before Washington State Ferries took over ferry routes in Puget Sound. Henry Horenstein answered correctly first .",
+    "Q12: In Fall 2025, how many average daily boardings did the busiest Metro bus stop have across all routes?",
+    "The Metro stop at 3rd & Pike (northbound) had an average of 2,950 boardings each day . The stop is served by routes 1, 2, 3, 4, 7, 13, 14, 36, 70, 125, C Line, D Line, and E Line. Aaron Gu answered correctly first .",
+    "Q13: Which Link station is shown in the picture below?",
+    "The vertical concrete slats are a unique feature to Symphony station. Aaron Gu answered correctly first .",
+    "Q1: Which route operated the last scheduled bus trip through the Downtown Seattle Transit Tunnel?",
+    "Route 41 ran the last scheduled trip in the DSTT just after midnight on March 23, 2019. Henry Horenstein answered correctly first .",
+    "Q2: How many boardings did Everett Transit record on its free shuttles on July 4, 2026?",
+    "The free Everett Transit shuttles carried an incredible 10,192 passengers on July 4. To put that into perspective, the rest of the Everett Transit network had about 2,500 trips on the same day. Henry Horenstein answered closest without going over.",
+    "Q3: Rank the following jurisdictions from most to least based on the number of number of bus stops used by King County Metro in Fall 2025: Bothell, Issaquah, Kent, Redmond, Renton, Shoreline",
+    "The correct order is: Kent (306 stops), Renton (295 stops), Redmond (234 stops), Shoreline (222 stops), Bothell (79 stops), Issaquah (77 stops). No one got this completely correct.",
+    "Q4: Excluding Trailhead Direct, shuttle routes, and school routes, which King County Metro bus routes with at least one stop in Seattle have zero stops within 1000ft of a Link station?",
+    "Only three routes meet this criteria: Route 22 and DART routes 773, 775. Blumdrew answered correctly first .",
+    "Q5: The first double decker bus in Puget Sound entered service on August 1, 2007. What route did it first operate?",
+    "Community Transit rolled out their first double decker bus on Route 402. Scooby Doo and the Goblin King answered correctly first .",
+    "Q6: Identify one location (Link station and direction) in Seattle where Link shuttle buses use a stop not shared by any other routes.",
+    "Southbound Link shuttles at Rainier Beach station use a dedicated stop. Scooby Doo and the Goblin King answered correctly first ."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3420.jpg?resize=525%2C394&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-streformsepatosavethegrowthmanagementact",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1434,61 +1533,6 @@
     "\"This is the open book final, and they say you have to pass this. And here's the open book, and they're telling us this is what the final is going to be,\" Mayor Clarence Moriwaki said ahead of the final vote. \"So that's the open book. Whether we agree with how that got there, that's a whole 'nother thing, but they gave us the roadmap to make us hopefully give us a quick extension and get all work done. And I'm in equal frustration with all of my colleagues, I believe, up here. But here we are.\""
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/img_20241009_140236420_mp-edit--1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-ogcom20260827seattletransittriviaanswers",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Seattle Transit Trivia Answers",
-   "author": "Michael Smith",
-   "date": "2026-08-27",
-   "url": "https://seattletransitblog.com/2026/08/27/seattle-transit-trivia-answers/",
-   "paras": [
-    "Thank you to everyone to joined Seattle Transit Trivia on Monday. After a competitive game, top scores are:",
-    "If you are one of top scorers, please check your email for information about the prizes. This post will share the correct answers for all 39 questions. If you missed the game on Monday but want to test your Seattle transit knowledge, check out the questions from Round 1 , Round 2 , and Round 3 .",
-    "Q1: How many transit agencies support ORCA cards?",
-    "Nine: Community Transit, Everett Transit, King County Metro, Kitsap Transit, Pierce Transit, Sound Transit, Washington State Ferries, Seattle Center Monorail, Seattle Streetcar. RandomNerd answered correctly first .",
-    "Q2: What was the first bus rapid transit line operated by an ORCA agency?",
-    "The Swift Blue Line opened in 2009. Henry Horenstein answered correctly first .",
-    "Q3: Which bus route(s) operated by an ORCA agency do not connect with any other bus routes from the same agency?",
-    "Pierce Transit Route 497 is isolated from the rest of the PT bus network. The route is a peak only service between Landland Hills and Auburn station. Henry Horenstein answered correctly first .",
-    "Q4: Which Sound Transit route has stops outside the Sound Transit taxing district?",
-    "Sound Transit Route 595 serves stops in Gig Harbor. Aaron Gu answered correctly first .",
-    "Q5: List each King County Metro route that is branded as an express service.",
-    "Metro’s once expansive network of express bus routes has dwindled down to just 5 routes: 9X, 17X, 21X, 28X, 193X. Aaron Gu answered correctly first .",
-    "Q6: One King County Metro RapidRide bus has a rear window. Which bus?",
-    "Bus 6000 has a rear window. This vehicle usually operates on the A Line or F Line. HZ answered correctly first .",
-    "Q7: Which Community Transit Express route does not stop at a Link station?",
-    "CT Express Route 907 travels between Paine Field and Stanwood. All other Express routes stop at a Link station. HZ answered correctly first .",
-    "Q8: When did the oldest transit vehicle still used on scheduled routes by an ORCA agency enter service?",
-    "The Carlisle II began passenger service on April 9, 1917. The boat is still used on the Port Orchard ferry route more than 100 years later. Senior answered correctly first .",
-    "Q9: Rank the following transit agencies from highest to lowest based on their June 2026 ferry/water taxi ridership: King County Metro, Kitsap Transit, Washington State Ferries.",
-    "WSF had 1,956,901 passengers, Kitsap Tranit had 127,204 passengers, and the Metro Water Taxi had 86,707 passengers. Aaron Gu answered correctly first .",
-    "Q10: How many ORCA card taps were recorded in 2025?",
-    "ORCA recorded 76,671,844 taps in 2025. Aaron Gu answered correctly first .",
-    "Q11: What was the first ferry route operated by the Washington State Department of Transportation (or one of its predecessors)?",
-    "Washington state began operating the Keller Ferry in 1930, 21 years before Washington State Ferries took over ferry routes in Puget Sound. Henry Horenstein answered correctly first .",
-    "Q12: In Fall 2025, how many average daily boardings did the busiest Metro bus stop have across all routes?",
-    "The Metro stop at 3rd & Pike (northbound) had an average of 2,950 boardings each day . The stop is served by routes 1, 2, 3, 4, 7, 13, 14, 36, 70, 125, C Line, D Line, and E Line. Aaron Gu answered correctly first .",
-    "Q13: Which Link station is shown in the picture below?",
-    "The vertical concrete slats are a unique feature to Symphony station. Aaron Gu answered correctly first .",
-    "Q1: Which route operated the last scheduled bus trip through the Downtown Seattle Transit Tunnel?",
-    "Route 41 ran the last scheduled trip in the DSTT just after midnight on March 23, 2019. Henry Horenstein answered correctly first .",
-    "Q2: How many boardings did Everett Transit record on its free shuttles on July 4, 2026?",
-    "The free Everett Transit shuttles carried an incredible 10,192 passengers on July 4. To put that into perspective, the rest of the Everett Transit network had about 2,500 trips on the same day. Henry Horenstein answered closest without going over.",
-    "Q3: Rank the following jurisdictions from most to least based on the number of number of bus stops used by King County Metro in Fall 2025: Bothell, Issaquah, Kent, Redmond, Renton, Shoreline",
-    "The correct order is: Kent (306 stops), Renton (295 stops), Redmond (234 stops), Shoreline (222 stops), Bothell (79 stops), Issaquah (77 stops). No one got this completely correct.",
-    "Q4: Excluding Trailhead Direct, shuttle routes, and school routes, which King County Metro bus routes with at least one stop in Seattle have zero stops within 1000ft of a Link station?",
-    "Only three routes meet this criteria: Route 22 and DART routes 773, 775. Blumdrew answered correctly first .",
-    "Q5: The first double decker bus in Puget Sound entered service on August 1, 2007. What route did it first operate?",
-    "Community Transit rolled out their first double decker bus on Route 402. Scooby Doo and the Goblin King answered correctly first .",
-    "Q6: Identify one location (Link station and direction) in Seattle where Link shuttle buses use a stop not shared by any other routes.",
-    "Southbound Link shuttles at Rainier Beach station use a dedicated stop. Scooby Doo and the Goblin King answered correctly first ."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/IMG_3420.jpg?resize=525%2C394&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1592,23 +1636,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-dicnBCNGQwaTFleEtoZkN3blEyVWtjU21aa0koc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Fare gates coming to 14 Seattle area light rail stations",
-   "author": "",
-   "date": "2026-08-27",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYWo4NGQxZWRzcWh0QTNrcTRFZFVNUF83a0NsUkVtRHdEczgtUVFjN3lQaEZlNTA0SWlKcHc3eXBOWF9xX2ZBVEp3eGRPOThXWWZ3LW9jYmRTUGswd1hyeGpTMF9nVExOc0FHTnZhbm9ZZ2NjbklyTFN6dDJfaG1FX0tMQ1dicnBCNGQwaTFleEtoZkN3blEyVWtjU21aa0k?oc=5",
-   "paras": [
-    "Fare gates coming to 14 Seattle area light rail stations KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-EOFRSQUNONm1BeUVBVE1sZHVZSC0yaTNHeGw3oc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1618,6 +1645,23 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLVZoNkZyMUUwMjdHOHI5VUxTTmF0NDZDdTFDdGxpUXJERFNQUzN4U29lTjRPbUF2cXA2ekprem9yZjZuNkNEWjlPc3YwQW9abVh4Vlk0Uzg0OGlVcERMZzZsVDBvY2R0cTFWN3ZRV1BjaUxfVmJUSHNxUjZFVmJBQy10bFJkRjRNcWV3SHdzbEVEOFRSQUNONm1BeUVBVE1sZHVZSC0yaTNHeGw3?oc=5",
    "paras": [
     "DOJ sues Washington over granting in-state tuition to immigrant students KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-TJvLUpfaEtVa1RjblY2TmF0S3dLdkotVHNuZQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Effort to recall Mayor Katie Wilson withdrawn by petitioners — but 'it’s not over'",
+   "author": "",
+   "date": "2026-08-27",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2ZoYVdOMmw0Tl8wX2w0RENQcTFpUk9QNGphcnRYNGRHMzZFMkFzX3h3bEJ2czk4dWNTY0NsTGs0YlFZazR5RGhfTmJWcVo3U1hjRURWZ2dSNndnbGhRelg4aGw4MTJRNU51TWNsSTJKVEJ1SktSRFFXRFRrTEkySTZ1VHM5bEEyZmZnZkJ1QVdEc2ZqNjMxeG9Wb0hJY0N6cGNZRDU4MEV3WXJ6cTJvLUpfaEtVa1RjblY2TmF0S3dLdkotVHNuZQ?oc=5",
+   "paras": [
+    "Effort to recall Mayor Katie Wilson withdrawn by petitioners — but 'it’s not over' KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1640,6 +1684,22 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-om20260826midweekroundupisolatedincident",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: isolated incident",
+   "author": "Nathan Dickey",
+   "date": "2026-08-26",
+   "url": "https://seattletransitblog.com/2026/08/26/midweek-roundup-isolated-incident/",
+   "paras": [
+    "Headlines from the past week. Wilson Order Tees Up Sweeping Traffic Safety Changes, Accelerating Projects (The Urbanist) No Cars in Pike Place Market > Cars in Pike Place Market (PubliCola) Wilson, Rinck Paint Bus Lane to Speed Up Route 8 (The Urbanist) Seattle’s Route 8 is notoriously slow. Will Denny Way’s new bus lane help? (KUOW) King County’s Metro Flex to launch in Auburn and Federal Way (Metro Matters) Op-Ed: Land Value Capture Could Fund Ballard Light Rail (The Urbanist) Community Transit honored with two Telly Awards (CT News) Intercity Transit has announced a new partnership with Transit , the free mobile app (Intercity Tranist News) King County Council Sets Aside Emergency Motion to Restore Route 372 (The Urbanist) Ready, set, road trip: WSDOT offers Labor Day weekend travel tools and tips (WSDOT Blog) Safer streets are coming to Maple Leaf and Northgate (SDOT Blog) Sound Transit Says Train Derailment Was Isolated Incident (The Urbanist) This is an Open Thread."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
    "annos": null
   },
   {
@@ -1684,60 +1744,20 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-dtogainseatsinwashingtonstatelegislature",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Democrats Poised to Gain Seats in Washington State Legislature",
-   "author": "Doug Trumm",
+   "id": "f-kuow-9fYlVUTVRLa0ZDV2dlSFpUdHBPdDRrbFF5dkUoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family",
+   "author": "",
    "date": "2026-08-26",
-   "url": "https://www.theurbanist.org/democrats-poised-to-gain-seats-in-washington-state-legislature/",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjl1TFVEbS1qUE5OZUx3RUthOThubVR3eXdwNmJSeFE3UUV4YVZMYWp3OE9GZkZhVHNyT1Q5QUhjYzkwQTVTSmpMcnp1SExUU21xYWMxTHJQMFdXMWIxMFN6RTlEWS1fcTNrWHJIT1JEMmhQcGMxdXV6YlhSMzF1dk9tS2daUTVNLWZwOWdzMFJHSjcyZ1JXUWhxY2NvalotUzlycFlnR09fYlVUTVRLa0ZDV2dlSFpUdHBPdDRrbFF5dkU?oc=5",
    "paras": [
-    "Primary results finalized last week make clear that Washington State Democrats are on track to pick up seats in the state legislature this fall. The most dramatic flips are queued up in Clark County, where the 17th and 18th Legislative Districts are currently held by Republicans. Democrats are now heavily favored to win those House seats after a strong showing in the primary.",
-    "Democrats already flipped the 18th's state senate seat in 2024, putting Adrian Cortes into office. Democrats are now well-positioned to unseat the district's two Republican state House members, who are well below the 50% mark in the primary and extremely vulnerable.",
-    "Even the 14th LD (Yakima Valley) and 25th Legislative District (Greater Puyallup), which have both long been Republican strongholds, are looking to be in play after Republicans barely cleared the 50% bar. The 25th represents the last district in the Seattle-Tacoma metropolitan area still held by Republicans after a decade of steady losses . With 50.2% of the primary vote, incumbent Michael Keaton is holding on for dear life, and will face school board director David Berg .",
-    "In swing districts where Republicans have hoped to erase recent losses, 2026 primary voters gave them no quarter. The 42nd LD (Whatcom County) continues to trend toward Democrats. Incumbent Rep. Alicia Rule grabbed 56% of the vote in Position 1, and incumbent Rep. Joe Timmons pulled in 54% in Position 2.",
-    "The same is true in the swingy 26th Legislative District, covering Kitsap County. Democrats won the most votes in all three races, led by state senator Deborah Krishnadasan's 56% share in her reelection bid. The Position 2 seat, meanwhile, is set to be a pickup for Democrats. Republican Rep. Michelle Caldier's retirement erased incumbency advantage in the race.",
-    "Democratic candidate Renee Hernandez Greenfield (who won the endorsement of the The Urbanist Elections Committee, on which I serve) will face Republican primary winner Katy Cornell, who mustered 44.7% of the vote. Hernandez Greenfield will likely complete the sweep of 26th for Democrats.",
-    "The lack of Republican momentum in Washington State pours cold water on the theory that a conservative backlash is brewing due to the passage of progressive legislation, such as the millionaires' tax or carbon pricing in the Climate Commitment Act , moves which Republican leaders and conservative-leaning pundits have framed as oversteps. In fact, Democrats only continue to gain.",
-    "State democrats already secured a supermajority, winning more than 60% of seats in 2024 , but that majority is on course to grow. If they flip two house seats in 17th and 18th and the take last Republican holdout in the 26th, that would be a gain of five House seats. Democrats' 59-39 advantage in the house would grow to 64-34, a 30-seat edge.",
-    "If the 14th and 25th LDs come into play, the margin would be even greater. With the Trump brand so toxic in Washington state and Republicans in full-blown political collapse mode, it's certainly possible.",
-    "The 17th LD currently has a Republican trifecta. State Senator Paul Harris narrowly fended off a Democratic challenger in 2024, winning 51% of the vote. He'll survive 2026 only by the fact he's not up for reelection until 2028.",
-    "Clark County is one of the fastest-growing areas of the state, but it's also long been relatively conservative, seen as a low-tax safety value for the Portland metropolitan area and a magnet for retirees. Washington has no income tax (the millionaires' tax won't kick in until 2029 and all but the richest will be exempt) and Oregon has no sales tax; Clark County residents get the best of both worlds if they drive across the border to shop.",
-    "While the 49th LD, which spans the county seat of Vancouver, has been held by Democrats, the rest of the more sprawling Clark County exurbs have traditionally been fertile ground for Republicans. That appears on the cusp of changing.",
-    "Democrats didn't just eke out a narrow win in the primary; they dominated. Incumbent Republican Rep. Paul Stuebe managed to win just 45% of the vote. He appears set to lose to Diane Perez , who won 55%. Double digit losses for incumbents are rare, but Stuebe found a way.",
-    "Incumbent Rep. Kevin Waters did even worse, winning just 43.9% of the vote. Democratic challenger Ben Christly won 52.3% and is the clear frontrunner. It's a shocking fall for an incumbent that did not even face a challenger in 2024 and coasted to victory running unopposed.",
-    "In the 18th LD, Democratic challenger Randi Knott is leading incumbent Rep. Stephanie McClintock 52% to 48%. In the Position 2 race, union organizer Deken Letinich is leading incumbent Rep. John Ley 53% to 46%.",
-    "Even an open seat state senate seat was tough sledding for the Republican candidate, Erika Creydt, who managed to win just 44.5% of the vote against two Democrats and an independent. Incumbent Sharon Shewmake, somewhat of an urbanist celebrity who is known to hand out bicycle pins to allies around Olympia, declined to seek an additional term.",
-    "The Democrat who made it through in the 42nd is not yet official. Michael Alvarez Shepard edged out Eamonn Collins by just four votes, a margin so close it triggered a hand recount , which started Tuesday and is expected to be completed by Friday.",
-    "Flipping Republican seats isn't the only way that the state Democratic caucus will change. The 2026 primary also saw a good number of progressive candidates challenging more centrist or establishment Democrats.",
-    "Educator Kelabe Tewolde fared the best of the lefties challenging incumbents, winning 51.5% of the vote to 47.8% for 28-year incumbent Sharon Tomiko Santos. Tewolde secured a number of high-profile endorsements, including from King County Executive Girmay Zahilay, Seattle Councilmember Alexis Mercedes Rinck, The Stranger, and The Urbanist.",
-    "Redmond City Councilmember Jessica Forsythe also has a strong chance of unseating incumbent Rep. Amy Walen in the 48th LD. Forsythe narrowly edged Walen in the primary by 17 votes. It's sure to be one of the most expensive state legislature races this fall, with wealthy backers likely to flood support for Walen, who drew the ire of progressives for voting against the millionaires' tax and statewide middle housing reform. Just two years ago, big money poured in to help Walen get elected to the Senate, a bid that fell flat with voters sticking with incumbent Vandana Slatter.",
-    "Forsythe's endorsements include The Urbanist , King County Democrats, the Washington State Labor Council, WA Bikes, Sierra Club, former Governor Jay Inslee, and (perhaps not surprisingly) Senator Slatter.",
-    "Likewise, former Tacoma Council candidate Krista Perez emerged from the primary leading incumbent Rep. Melanie Morgan in the 29th LD. Endorsed by The Urbanist, Perez is 2.3 points ahead of Morgan, who has just 46% of the vote, but Perez's victory was muted by a DUI arrest this month , which could well be a drag on her chances in the general – especially in light from some cringeworthy comments from her lawyer, seeking to paint drunk driving crashes as no big deal.",
-    "In the 46th LD, long-time Rep. Gerry Pollet, who has often been a thorn in the side of urbanists on housing reforms, is fending off a progressive challenge. Pollet mustered 51.6% of the vote so he remains favored as he squares off with Will Dreher in the primary. A litigator promising reforms to AI policy, Dreher earned The Stranger's endorsement, which propelled him to victory over Urbanist-backed Ron Davis , who ran to the left of both. After getting knocked out in the primary, Davis continued to portray Dreher as a fake progressive and voiced support for Pollet, posting a screed on his website implying The Stranger's ownership group had intervened and blocked him from being endorsed, which the union representing the Stranger's staff has refuted . Even with Davis nipping at his heels, Dreher might still have a shot to close the gap.",
-    "In the 43rd LD, the bid from labor leader Hannah Sabio-Howell to unseat Senate Majority Leader Jamie Pedersen looks to be ill-fated after Pedersen won two-thirds of the primary vote. A former chair of The Urbanist Elections Committee, Sabio-Howell had a number of progressive endorsements (including from The Urbanist , State Rep. Shaun Scott, Seattle Mayor Katie Wilson, and Councilmember Rinck). However, it was not enough to erase Pedersen's incumbency advantage, especially with him fresh off of passing the millionaires' tax , which he spearheaded as lead sponsor. The Stranger endorsed Pedersen, likely sapping progressive support from Sabio-Howell.",
-    "While Sabio-Howell supporters may find her result disappointing, Washington Community Alliance executive director Kamau Chege (who is also Sabio-Howell's spouse) argued in an op-ed in The Urbanist that progressive challenges are steadily defining the party and pulling it out its centrist rut, even if some particular candidates come up short. Perhaps, Pedersen never would have become an enthusiastic backer of the millionaires tax or rent stabilization if not for the credible threat of a progressive coming for his seat.",
-    "Whatever the particular reasons for shifts in each race, the 2027 state legislature is poised to be the progressive in Washington history."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/Renee-Hernarndez-Greenfield-campaign-group-photo-with-dog.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-om20260826midweekroundupisolatedincident",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Midweek Roundup: isolated incident",
-   "author": "Nathan Dickey",
-   "date": "2026-08-26",
-   "url": "https://seattletransitblog.com/2026/08/26/midweek-roundup-isolated-incident/",
-   "paras": [
-    "Headlines from the past week. Wilson Order Tees Up Sweeping Traffic Safety Changes, Accelerating Projects (The Urbanist) No Cars in Pike Place Market > Cars in Pike Place Market (PubliCola) Wilson, Rinck Paint Bus Lane to Speed Up Route 8 (The Urbanist) Seattle’s Route 8 is notoriously slow. Will Denny Way’s new bus lane help? (KUOW) King County’s Metro Flex to launch in Auburn and Federal Way (Metro Matters) Op-Ed: Land Value Capture Could Fund Ballard Light Rail (The Urbanist) Community Transit honored with two Telly Awards (CT News) Intercity Transit has announced a new partnership with Transit , the free mobile app (Intercity Tranist News) King County Council Sets Aside Emergency Motion to Restore Route 372 (The Urbanist) Ready, set, road trip: WSDOT offers Labor Day weekend travel tools and tips (WSDOT Blog) Safer streets are coming to Maple Leaf and Northgate (SDOT Blog) Sound Transit Says Train Derailment Was Isolated Incident (The Urbanist) This is an Open Thread."
+    "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family KUOW"
    ],
    "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1750,23 +1770,6 @@
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFNjcjZBa184Qzc0MUtkdEY1SGZmb3pqSzlfN2tJSFgtdnhzZ1dHdzFUdVlzcUpac2pmNXdDLXpQVlg0Rm5pR05uSE1pdE5UUkczZnI0dUdFX0JDZC1tQ3l2bjM0bnAzVHhIU2VWc0phR1B4LVlMMWxvbWM0VDM3a2ctMVp1MnZvUkNnNU5pSXZieFAwZEN0c3dNMzRBdVFRazZPenBQdjhvR29rWUdpZTZCUktkM1NKSnY1SEp3?oc=5",
    "paras": [
     "UW struggles to see medical research through as Trump administration guts funding KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-9fYlVUTVRLa0ZDV2dlSFpUdHBPdDRrbFF5dkUoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjl1TFVEbS1qUE5OZUx3RUthOThubVR3eXdwNmJSeFE3UUV4YVZMYWp3OE9GZkZhVHNyT1Q5QUhjYzkwQTVTSmpMcnp1SExUU21xYWMxTHJQMFdXMWIxMFN6RTlEWS1fcTNrWHJIT1JEMmhQcGMxdXV6YlhSMzF1dk9tS2daUTVNLWZwOWdzMFJHSjcyZ1JXUWhxY2NvalotUzlycFlnR09fYlVUTVRLa0ZDV2dlSFpUdHBPdDRrbFF5dkU?oc=5",
-   "paras": [
-    "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1865,23 +1868,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-Wc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Edmonds gives new contract to principal amid public concerns",
-   "author": "",
-   "date": "2026-08-25",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
-   "paras": [
-    "Edmonds gives new contract to principal amid public concerns InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-faithhealingidahodeathsfollowersofchrist",
    "srcKey": "propublica",
    "cat": "local",
@@ -1937,21 +1923,20 @@
    "annos": null
   },
   {
-   "id": "f-stb-logcom20260824seattletransittriviaround3",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Seattle Transit Trivia: Round 3",
-   "author": "Michael Smith",
-   "date": "2026-08-24",
-   "url": "https://seattletransitblog.com/2026/08/24/seattle-transit-trivia-round-3/",
+   "id": "f-invw-Wc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Edmonds gives new contract to principal amid public concerns",
+   "author": "",
+   "date": "2026-08-25",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
    "paras": [
-    "Update: Thank you for playing Seattle Transit Trivia! We will share the answers and announce the winners in an article later this week.",
-    "Welcome to Round 3 of Seattle Transit Trivia ! Answer each question below with a comment on this post. There are still a few questions from Round 1 and Round 2 that have not been answered correctly. Each question below is worth 3 points. Good luck!",
-    "Each question below indicates the type of answer expected. Note the following guidelines for each answer type:"
+    "Edmonds gives new contract to principal amid public concerns InvestigateWest"
    ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/08/image-10.png?resize=525%2C263&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -2107,6 +2092,23 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/San-Fermo.avif?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-XI2N1hkc0dDQzJra29yODNtV1NGTnRVOUtBQQoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Oregon woman opens up about alleged domestic violence before receiving 10-year sentence over baby's death",
+   "author": "",
+   "date": "2026-07-31",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWmZJZjQ0aUhTamxVY21RYXVqckk3czh1WHZsLTRoVUNtMkFDRk9oYXdvYnNoQ0Y1NnZRVHZFTlZ5eldZMDFVajRPMGhOdlV1ZDVnWFA0UDVGUU83Q3VLaHcwTGRyMVBwN2ozMXI2N1hkc0dDQzJra29yODNtV1NGTnRVOUtBQQ?oc=5",
+   "paras": [
+    "Oregon woman opens up about alleged domestic violence before receiving 10-year sentence over baby's death InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
