@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-04T18:42:49.918Z",
- "builtFor": "2026-09-04",
- "builtHour": "11",
- "count": 89,
+ "builtAt": "2026-09-05T17:48:36.799Z",
+ "builtFor": "2026-09-05",
+ "builtHour": "10",
+ "count": 88,
  "sources": [
   {
    "source": "bbc",
@@ -31,7 +31,7 @@
   },
   {
    "source": "emerald",
-   "count": 3,
+   "count": 2,
    "via": "feed"
   },
   {
@@ -77,7 +77,7 @@
   {
    "source": "stranger",
    "count": 6,
-   "via": "google-news"
+   "via": "feed"
   },
   {
    "source": "urbanist",
@@ -86,6 +86,584 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-tsfvsseattlehousingandaseahawkstechtwist",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "NBA’s Ballmer crackdown echoes Microsoft antitrust, SF vs. Seattle housing, and a Seahawks tech twist",
+   "author": "Todd Bishop",
+   "date": "2026-09-05",
+   "url": "https://www.geekwire.com/2026/nbas-ballmer-crackdown-echoes-microsoft-antitrust-sf-vs-seattle-housing-and-a-seahawks-tech-twist/",
+   "paras": [
+    "This week on the GeekWire Podcast: The NBA suspends former Microsoft CEO Steve Ballmer for a year and hits the Clippers with $30 million in fines and five lost draft picks over allegedly sham endorsement deals for Kawhi Leonard, drawing comparisons to the Microsoft antitrust era.",
+    "A new Redfin report says San Francisco’s housing market is booming on AI wealth while Seattle slumps, with the Bay Area-to-Seattle migration pipeline nearly dried up.",
+    "And the Seahawks sale to the Khosla family officially closes, ending the Paul Allen era, with two familiar Seattle tech names surfacing in the new ownership group.",
+    "Plus, the return of the GeekWire Trivia Challenge.",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-llegingtheytrainedtheiraionitsjournalism",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism",
+   "author": "Todd Bishop",
+   "date": "2026-09-05",
+   "url": "https://www.geekwire.com/2026/seattle-times-sues-microsoft-and-openai-alleging-they-trained-their-ai-on-its-journalism/",
+   "paras": [
+    "Microsoft was sued Friday by the parent company of its hometown daily newspaper, The Seattle Times Co., which joined with Newsday to accuse the Redmond tech giant and OpenAI of using their journalism to train artificial intelligence models.",
+    "The lawsuit alleges that the companies scraped hundreds of thousands of Seattle Times and Newsday articles — bypassing paywalls and ignoring terms of service — to train their AI models. It seeks financial damages and the destruction of any training datasets and models built with their content.",
+    "“Like a snake eating its own tail, GenAI that is trained on painstakingly researched, expensive-to-produce content threatens to destroy the very news organizations by competing directly with them through AI-generated substitutive content,” the suit says. “If Defendants are allowed to succeed, independent journalism of the kind Plaintiffs produce will struggle to survive.”",
+    "The case is notable in part because the Seattle Times is suing two of its own funders. Microsoft Philanthropies underwrites some Seattle Times journalism projects. In 2024, Microsoft and OpenAI jointly funded a $10 million Lenfest Institute AI fellowship that included both the Seattle Times and Newsday among its inaugural participating newsrooms. The Times says it maintains editorial independence.",
+    "A Microsoft spokesperson said in a statement Friday evening, “While we’re surprised by the lawsuit, we appreciate the importance of the Seattle Times to our region and we’re always happy to sit down and explore solutions to this type of dispute.”",
+    "It’s not clear if there were negotiations or licensing talks in advance of the suit. GeekWire has contacted The Seattle Times Co. for comment.",
+    "In its own coverage of the lawsuit Friday evening , the newspaper quoted a memo from Seattle Times Co. President and CEO Alan Fisco , saying: “This was not an easy decision. However, we feel strongly that we must defend our content — which we spend millions of dollars a year to produce — from being used without our consent or compensation.”",
+    "The Seattle Times Union, which represents more than 160 newspaper employees, said Friday it supports the lawsuit but that in ongoing contract negotiations the company has refused to guarantee it won’t replace non-reporter newsroom jobs with AI.",
+    "“If the Seattle Times Co. truly cares about the threat AI poses to journalism’s business model, it should protect the workers who produce the copyrighted material at the heart of this case,” the union said in a statement.",
+    "Fisco, a longtime Seattle Times executive, took over as CEO on Jan. 1 , succeeding Frank Blethen, who led the paper for 40 years and remains chair of the board. Ryan Blethen, Frank Blethen’s son and a fifth-generation member of the family that has owned the paper since 1896, became publisher in the same transition.",
+    "The complaint Friday includes examples of ChatGPT reproducing Seattle Times and Newsday journalism nearly word for word, including an 88-word verbatim stretch from The Seattle Times’ Pulitzer-winning coverage of the Boeing 737 MAX crashes, generated when a user prompted the chatbot with just the article’s headline and web address.",
+    "The suit echoes The New York Times’ 2023 copyright case against the same defendants, which just this week drew a U.S. Justice Department brief siding with Microsoft and OpenAI, arguing that a ruling for the publishers would stifle American AI development.",
+    "The newspapers join a growing list of publishers suing OpenAI and Microsoft over AI training. In addition to the New York Times, that includes the New York Daily News, Ziff Davis and the Center for Investigative Reporting, all consolidated before U.S. District Judge Sidney H. Stein in Manhattan.",
+    "On Friday, the publishers in that case moved for summary judgment, as did OpenAI and Microsoft.",
+    "OpenAI has struck licensing deals with more than a dozen other outlets, including The Associated Press , News Corp and Axel Springer. Publicly disclosed terms of three of those deals top $300 million, according to the Seattle Times complaint.",
+    "Updated with statement from The Seattle Times Union."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/49348632791_628d4b4b21_o.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-mpletestreetsmandatestopsshortinmukilteo",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Washington's Complete Streets Mandate Stops Short in Mukilteo",
+   "author": "Ryan Packer",
+   "date": "2026-09-05",
+   "url": "https://www.theurbanist.org/washingtons-complete-streets-mandate-stops-short-in-mukilteo/",
+   "paras": [
+    "Accessing Mukilteo's state ferry terminal, and by extension Whidbey Island and places beyond, almost always means having to navigate State Route 525. Also known as the Mukilteo Speedway, SR 525 climbs up from the Mukilteo waterfront after passing over railroad tracks that hug the shoreline, providing one of the few direct north-south routes through the city. While direct, it has limited bicycle and pedestrian infrastructure – no sidewalks and just a shoulder in the uphill direction for any cyclist who doesn't feel safe mixing with traffic.",
+    "Although a relatively recent change in state law is set to provide some upgrades, those changes are set to stop well short of the promise of full multimodal access.",
+    "State highways just like SR 525 were the intended target of a 2022 change in state law commonly referred to as the \" Complete Streets Mandate .\" That adjustment, tucked into the Move Ahead Washington transportation funding package, directed the Washington State Department of Transportation (WSDOT) to start planning for \"facilities that provide street access with all users in mind, including pedestrians, bicyclists, and public transportation users\" into all projects that cost more than $500,000, a number that was revised up to $1 million three years later.",
+    "When it passed, the Complete Streets Mandate was hailed as a sea change in highway planning in Washington State. Preservation and maintenance projects were no longer allowed to treat the status quo as the baseline to be maintained, given the fact that more than 500 miles of state highways through population centers lack pedestrian facilities, and more than 1,100 miles through population centers lack adequate bike facilities, according to WSDOT's landmark 2020 Active Transportation Plan .",
+    "Already, the mandate has changed the course of some major projects, pushing critical corridors in a much more multimodal direction. Along SR 99 through Edmonds, for example, separated bike paths were incorporated into a revamp that had been in the works before the mandate was approved, queuing up safe places to bike where they previously would have been unthinkable. But not every corridor is so lucky.",
+    "That brings us back to Mukilteo, where a repaving project that ramped up into construction this summer provides a clearer view of the Compete Streets Mandate's current shortcomings. While WSDOT is set to install several new pedestrian crossings with flashing beacons, and add a stretch of new sidewalk connecting to a bus stop, the corridor will not see bike facilities added across its entire length.",
+    "Instead, WSDOT will only install a bike lane south of 84th Street SW, a facility that will terminate just north of the juncture with the \"spur\" off Paine Field Bouelvard, or SR 526. That means nearly two miles out of a 2.75-mile project will remain a gap in the bike network when the project wraps up.",
+    "WSDOT project manager Tony Barilla told The Urbanist that the department was able to make room for that stretch of bike lanes by narrowing the other travel lanes and repurposing the shoulder, but that north of 84th such a move wasn't feasible without impacting the existing traffic patterns.",
+    "\"Once you get closer to the ferry terminal, there is this dedicated ferry lane, so it needs to maintain that, and we don't have the shoulders, and it just really has to do with what the roadway preserves. It just wasn't feasible to narrow lanes there and remove and reallocate shoulders for infrastructure like this,\" Barilla said.",
+    "But the bike facilities aren't being dropped, they're instead being framed as being \"deferred\" in part in order to utilize a funding grant that had been set to expire.",
+    "\"The paving and ADA project received a $1.5 million Puget Sound Regional Council (PSRC) grant with an obligation deadline of May 2026,\" WSDOT's Complete Streets report on the project notes. \"Full implementation of complete streets on SR 525 paving and ADA project [...] has been deferred due to the impact on project schedule and the constraint of PSRC grant obligation deadlines.\"",
+    "WSDOT has also established a long-term vision for SR 525, which would involve a shared-use path that transitions to two-way bike lanes all the way to the ferry terminal. But no timeline exists to be able to implement such a change.",
+    "\"Everything we put in on this paving and ADA project is forward compatible. We're looking at this corridor holistically, but it is deferred until we have funding and time,\" Barilla said.",
+    "SR 525 is far from the only place where Complete Streets improvements are set to be deferred. Along State Route 99 in South King County, a repaving project between State Route 516 and S 272nd Street is set to add bus-only lanes and lane narrowing. But according to presentations made to the project's technical working group, WSDOT is set defer any bicycle facility component to a future date, despite the high benefits that would come from providing connectivity to Sound Transit's light rail station at Kent Des Moines Road.",
+    "WSDOT portrayed the mandate not as falling short, but providing the department with a more long-term roadmap for how to upgrade highways across the state network. But the decision whether to implement upgrades immediately along with repaving or \"defer\" them is one that will have a major impact on whether the mandate can truly succeed at scaling up access, or if it will happen more piecemeal.",
+    "\"These are big projects to include multimodal transportation along a state highway. Complete Streets is a way to let all users use our travel facility or our roadways to travel, and so as we do projects on our state highways, and as the city does things, and as developers make new facilities, we're given a guidance of what the community wants for their multimodal transportation. And over time, through state, city, developer work, we'll get there,\" WSDOT spokesperson Eric Zackula told The Urbanist . \"We're not here to just come in, do it, and leave. We're here for the long haul on this Complete Streets project, and and we'll get there. But we our work provides a vision, and that's what we're doing. And we're taking it bit by bit. And providing a vision for the city and also developers to to make it come true.\"",
+    "For bike riders just trying to get to the Mukilteo waterfront and ferry terminal, that's likely cold comfort."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/51071181738_cc5b870c62_k.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-260905theroundupshouldspdgoallinondrones",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: Should SPD Go All In on Drones?",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://southseattleemerald.org/newsletters/2026/09/05/the-roundup-should-spd-go-all-in-on-drones",
+   "paras": [
+    "This week, we're doing things a little differently. I've been asking for submissions to \"Mike's Mailbag,\" and I received an interesting inquiry that took some reporting to answer.",
+    "What do you think about drones for the police? After a Seattle family member had a gun battle erupt next to their house and it seemed the perpetrators were not going to be caught and I learned that other cities nearby such as Renton are allowing their police to use drones for 911 calls, I got to wondering why not SPD?",
+    "Admittedly, I wasn't aware of the Renton Police Department's drone program. The first thing I needed to do was reach out to them for a little background. Here's what I learned from the desk of Officer Michael Thompson, the drone project manager:",
+    "\"The Renton Police Department started their drone program in 2015 as a result of new technology becoming available. It was introduced to the department as a way to capture more data, faster for serious collisions. At the time the traditional way of capturing data was using survey equipment and would keep roads closed for hours. The introduction of drone technology allowed for more points of data to be collected in about 30min. The department had to no longer rely on a ladder truck from the fire department to capture photos of the scene from an aerial perspective. This allowed for roads to be opened faster and more information to be collected to assist in the investigation.\"",
+    "Since then, the drone program has expanded, and according to Thompson, drones \"are currently used in most divisions within the department.\" This includes patrol, where they're used the most. Pilots use drones to search for missing persons and suspects. They take photos and video of crime scenes, and SWAT uses them to sweep buildings.",
+    "Here's my simple answer for Susan: No, I don't think Seattle should adopt a drone program. Everything mentioned above sounds great, and as long as Renton continues the program as is — which, to my knowledge, is the current plan — then drones are a helpful tool. My fear is the future. Renton has already expanded the initial plan. What if it expands further? What if these drones become armed? Have you read about the way Flock cameras are being abused? Just because we can use a new tool doesn't always mean we should .",
+    "But I'm no expert — so I found someone who is. Scott Mourtgos is an assistant professor of criminology and criminal justice at the University of South Carolina. He completed the world's first study to gauge the effectiveness of drones as first responders.",
+    "Full disclosure: Mourtgos is a former cop, but he's currently an academic and isn't paid by any drone-manufacturing companies or police departments. Also, the research was done in 2025, so not all data has been compiled, and one research paper has not yet been published.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: You're credited as the first person in the world to do a randomized study on drones as first responders. What does that mean, and what did you find?",
+    "SM: As far as we know, me and my research group are the first to run a randomized control trial on the outcomes of a police department using drones in a first responder program approach. You will see a lot from vendors, companies that sell drones, about success. We did an independent study.",
+    "A randomized control trial is just running a field experiment in its simplest form, using two different police departments. In one, calls were randomized on whether they received a drone response or not. In the other, the day of the week was randomized on whether drones were available to respond to calls or not.",
+    "SM: What we found, essentially across both police police departments, is that you do see a reduction in response times overall in the areas where drones are being used. We also see evidence of a workload reduction trickle-down effect, where even the calls that don't have a drone respond but are in the drone-response area and only receive a patrol officer, you see those response times reduce as well.",
+    "MD: Can drones prevent crime or contribute to public safety?",
+    "SM: There certainly is anecdotal evidence — not only at the police departments we worked with, but at other police departments — where drones overhead help everybody be more safe. Like, if you have police officers responding to an armed individual, rather than just having officers walk in blind and potentially have some sort of armed conflict, if you have a drone overhead and know exactly where that individual is and exactly what they're doing, better decisions can be made based on that information.",
+    "But I can't speak to specific outcomes just yet. We're still working on that.",
+    "MD: Based on what you've seen, would you say these drone programs are worth the cost?",
+    "SM: I can't answer that. And frankly, regardless of how much research I ever conducted on this, I would never put myself in a position where I'm telling a police department this is worth it or not worth it. Because there are so many considerations that go into whether something is worth it or not. Let's say we get to a place where we can say the specific public safety benefit to these programs — that doesn't negate possible concerns or downsides of implementing the same programs. Some people have very strong concerns about surveillance and privacy when it comes to the use of drones. I can't say how to weigh that.",
+    "MD: Great point. Reminds me of Flock cameras. Finding suspects is great, but they've also been abused. Big questions: Are all of these drones controlled by humans? Is it legal to arm these drones?",
+    "SM: Let me preface this with: I am not an attorney. But, I am not aware of any police department that has any kind of autonomous drone program. Every drone program I am aware of, and I believe the law requires this, there has to be a human operator. Until recently, they had to be within line of sight of a human. As of recently, police departments can get line of sight waivers from the FAA, where if you meet certain requirements, you no longer actually have to have human eyes on it, as far as being able to physically see it, but you're still required to have a human pilot there. I don't think it's legal to have just autonomous drones flying around doing whatever they want.",
+    "Again, caveat, I'm not a lawyer. But my understanding is that the federal law does not allow dangerous weapons to be attached to drones. I haven't seen or heard or been aware of any police departments that have even attempted to do that, let alone done that. But there is some nuance with the way that dangerous weapons are defined in federal code. Technically you could, in theory, attach a less lethal weapon to it, say a taser or some sort of pepper spray irritant or something like that. I am not aware of that happening, and a lot of jurisdictions have passed laws that ban even less than lethal weapons from being used on drones.",
+    "MD: Has this research, or any you're aware of, looked into racial disparities in drone use or the specific communities where drones are or are not used?",
+    "SM: Not that I'm aware of. We have so little research at all on drones in policing, but I'm not aware of any that addresses those questions.",
+    "Everyone is talking about Mayor Wilson's executive order on housing. And in his op-ed, freelancer Cliff Cawthorn also has something to say about her order and affordable housing: Fund it and build it.",
+    "Mayor Katie Wilson is sending $350,000 to Community Passageways to bring back the Southeast Street Team. Here's why funding the team is important.",
+    "Eight years ago, South Ender Danielle Jackson had an idea for a skate park in Rainier Beach. Is it finally going to happen?",
+    "Some people are careless about where they leave their ride-share e-bikes and scooters in the South End. Here's who that impacts.",
+    "Recent Lakeside High School grad Kameirah Johnson won a $50,000 technology package for her high school from the Google Doodle art contest. She decided to donate all of it to Rainier Beach High School instead. Here's why.",
+    "Three queer femmes embark on a road trip through the Midwest in search of a missing friend.",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-09-05/81ekkypi/Should-SPD-Go-All-In-on-Drones.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-ZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmUoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFJqdjVCTWlPZHotYjVTdHpoaERMbmFQUTlOV0lwZjFKYmE1Y1VLSWp1a2NPMjlyemhuU0hSZVlkdU1TUXdPTDNyai1TX0xzOS1QWWxxUXU3UDF2VlFuSzlPTFp5eXRwTGh0MXk1QkZZN01jTldFdGhFYmFRS3lhX19iaEppY3VjcWdVVF9WRVl3UTFGc0tYOENmZUdoVEFpUElsT3p6dmxIZDdET3ZSNXFIOG5oMjMzMHdocEZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmU?oc=5",
+   "paras": [
+    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-0260905nxs15959159usiranwarshipstargeted",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+   "author": "The Associated Press",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+   "paras": [
+    "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fec%2F64938f1741d199aebbc31393fde3%2Fap26247569143031.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-pinionasculptureinperpetualmotionremoved",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Opinion: A sculpture in perpetual motion, removed",
+   "author": "Scott Simon",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
+   "paras": [
+    "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8555x5703+0+0/resize/8555x5703!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F2a%2F93fb40af4882aa112834d3bbe809%2Fap26245513976733.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-alarchsitedespitenofinalfederalapprovals",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
+   "author": "Rachel Treisman",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
+   "paras": [
+    "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5957875",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-64climatechangefloatingschoolsbangladesh",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Whatever happened to the floating schools of Bangladesh?",
+   "author": "Ali Asif Shawon",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
+   "paras": [
+    "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2559x1440+0+0/resize/2559x1440!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fd8%2F9755f1ae4c2a94335dca1c42c2e1%2Ffloating-schools-01.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-5959114usenvoysinmoscowinnewpushforpeace",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
+   "author": "The Associated Press",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+   "paras": [
+    "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F21%2F3362c250461e89198a44aa02ad4e%2Fap26247433529836.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-5nxs15913671aidatacentercampaignspending",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
+   "author": "Maham Javaid",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+   "paras": [
+    "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fe7%2F2abca8bf42febc8d6380d47838b3%2Fgettyimages-2286058283.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescy8znyzgkjjoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/50d301d0-a936-11f1-bb81-8fbd2d2d397c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc0qxgn7q1vdoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/940c2cb0-a936-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescje87w9j342oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescj64rrne643oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc4gkr3p0ql7oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Jaguar Land Rover confirms planned job cuts",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The firm says it needs to save about £1.7bn over the next two years."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee01/live/b5506920-8c0f-11f1-b2ab-0dd01740f9f6.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc980g0g7yyjoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Trump's response is key as Argentina's Falklands demands get louder",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?"
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0360/live/78d8bc00-a900-11f1-b109-879e35c24276.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-fritzgauffswiatekkeyscobollidaysevenlive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "US Open tennis: Fritz and Keys in action after Potapova beats Anisimova on day seven – live",
+   "author": "Niall McVeigh (now) and Katy Murrells (earlier)",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live",
+   "paras": [
+    "The latest third-round updates from Flushing Meadows",
+    "You can mail Niall and follow us on TikTok and Bluesky",
+    "Last night Serena and Venus Williams – with their combined age of 456 - blew a five-point lead in the deciding tie-break as their return to the grand slam doubles stage ended in defeat , 6-3, 6-7 (6), 7-6 (7) against Chan Hao-ching and Maya Joint. Serena must be sick of the sight of Joint – given her singles comeback was also halted by the Australian in the Wimbledon first round this summer – but having come so close to victory in both matches, she may well be encouraged enough to continue. Serena and Venus chose not to do a post-match media conference last night – so it’s not clear what their next plans are.",
+    "A big cheer on Grandstand – despite the fact Zheng is facing an American – as she holds at the start of the second set. Anisimova is still a break down, 3-2, against Potapova, while Taylor Fritz – the pick of the American men in the first week - is warming up on Arthur Ashe against Francisco Cerundolo, the 24th seed from Argentina."
+   ],
+   "img": "https://i.guim.co.uk/img/media/01f658bc5304dde7fd86230d646e00504392e48b/161_0_1443_1154/master/1443.jpg?width=140&quality=85&auto=format&fit=max&s=09e116b570b6928e8454eb00df724bce",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-news2026sep05petehegsethpentagonmilitary",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
+   "author": "Robert Tait in Washington",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
+   "paras": [
+    "The US defense secretary faces internal dissent and discord at the Pentagon, accused of focusing on culture war issues and his own political ambitions as the Iran war drags on",
+    "In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been the signal for a publicity-hungry US secretary of defense to adopt a lower profile.",
+    "But these are no ordinary times. And Pete Hegseth is no ordinary defense secretary."
+   ],
+   "img": "https://i.guim.co.uk/img/media/bb0b40fe4ad859e195c4994e7732c97a77187798/1730_767_3375_2701/master/3375.jpg?width=140&quality=85&auto=format&fit=max&s=29a2236cde5e78324b7c4a1ca7581675",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ep05hullcityvastonvillapremierleaguelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Hull City v Aston Villa: Premier League – live",
+   "author": "Billy Munday",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
+   "paras": [
+    "Updates from 5.30pm BST kick-off at MKM Stadium",
+    "Live scoreboard | Clockwatch | Mail Billy",
+    "4 min: Hull settle into some possession. The place is bouncing.",
+    "2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back beyond the near post."
+   ],
+   "img": "https://i.guim.co.uk/img/media/6a7543d2ac2e04aea06ded5a36b6f3f0803736cf/336_89_3657_2925/master/3657.jpg?width=140&quality=85&auto=format&fit=max&s=76abc1af0b688f651fa9c11d2df6a932",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-erus2026sep05campstovejetboilcompetition",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "This off-brand camp stove is better than a Jetboil for hot coffee in the great outdoors",
+   "author": "Nick Mokey",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/thefilter-us/2026/sep/05/camp-stove-jetboil-competition",
+   "paras": [
+    "When temps drop, there’s nothing better than a steaming hot beverage especially when camping and the Camp Chef Stryker outperforms JetBoil every time",
+    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
+    "I have trudged through camping without a lot of things: clean socks, dry shoes, a headlamp. But in temperatures when you can see your breath in the morning, skipping hot coffee is a hair too far. So when my Jetboil Flash stove sputtered out of gas on a car-camping trip years ago, it was worth the hour-long drive into the nearest town for more.",
+    "Or would have been, if I had found any. While every gas station and general store I stopped in carried the cheap, ubiquitous green bottles of propane, the Jetboil’s fussy isobutane canisters were nowhere to be found."
+   ],
+   "img": "https://i.guim.co.uk/img/media/2ace5364a4d41d6e0566f3a18b5acec7144e070d/92_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=38ad500b93f6e99f3ebce3831f78d3b8",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-sep05toddblanchegendertransitionsschools",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi",
+   "author": "Arwa Mahdawi",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools",
+   "paras": [
+    "Todd Blanche’s remarks are part of a totally-not-invented moral panic that stretches the limits of the imagination",
+    "Being a public school teacher in the US these days is tough. You’ve got to pay for a lot of your own supplies, deal with smartphone-addicted children, and perform gender reassignment surgeries in your lunch break.",
+    "Luckily our intrepid attorney general, Todd Blanche, is on the case. Blanche appeared on Fox News this week to decry a “pandemic” of gender transitions in schools across the US. “There’s not a parent in America, no matter where you live, that would want their school to change and call their child by a different name and not expect to be told about that. We partnered with the Department of Education recently to combat this very trend and, really, pandemic that’s happening in some school districts around the country,” Blanche said. He seemed more concerned with name changes than with surgery, but the president himself has suggested on several occasions that schools are furtively doing surgery on children. During a campaign speech in 2024, for example, Donald Trump said : “Can you imagine … your son leaves the house and you say: ‘Jimmy, I love you so much. Go have a good day in school,’ and your son comes back with a brutal operation? Can you even imagine this?”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/d54ce1b7be06e7a7c4987c3ef298b66869494ca0/540_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=71d1ffac3492d3dc0b7da242052250e7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-n2026sep05metgalajohngallianoannawintour",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?",
+   "author": "Edward Helmore in New York",
+   "date": "2026-09-05",
+   "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour",
+   "paras": [
+    "NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event",
+    "Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s city council?",
+    "The museum is the crown jewel of the wealthy neighborhood and some residents hold significant sway at the institution, financially and in terms of the art they plan to bequeath to it. So when it was announced late in July on a Friday afternoon that Galliano would be the focus of the Met Gala next year, it left many stunned."
+   ],
+   "img": "https://i.guim.co.uk/img/media/3a18a0799f359ca54073f2c41ec96eec3f5e6e33/222_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=24d897cfa91aca4378b5ed33940f6926",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ascadepbsorgshowstargazersepisode4picqbz",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Don't Miss Saturn This Week | September 28 - October 4 | Star Gazers",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/star-gazers/episode/4-picqbz/",
+   "paras": [
+    "Star Gazers STGZ632 Sept 28 to Oct 4, 2026 “Don’t Miss Saturn This Week”"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/24fdc9ab-7338-4500-8534-35ad34ea1fa5.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ascadepbsorgshowstargazersepisode35ixhpy",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Our 49th Autumnal Equinox | September 21 - September 27 | Star Gazers",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/star-gazers/episode/3-5ixhpy/",
+   "paras": [
+    "Star Gazers STGZ631 September 21-27, 2026 “Our 49th Autumnal Equinox”"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/8ff6c1ed-cfb7-4037-ae45-05ca405c5810.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ascadepbsorgshowstargazersepisode2fozq5t",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Pegasus Flies Over Saturn | September 14 - September 20 | Star Gazers",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/star-gazers/episode/2-fozq5t/",
+   "paras": [
+    "Star Gazers STGZ630 September 14-20, 2026 “Pegasus Flies Over Saturn”"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/0602b66c-7490-4a24-99f9-81ef75a37b5a.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ascadepbsorgshowstargazersepisode1v5iray",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "That's No UFO | September 7 - September 13 | Star Gazers",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/star-gazers/episode/1-v5iray/",
+   "paras": [
+    "Star Gazers STGZ629 September 7-13, 2026 “That’s No UFO - Why the Closest Isn’t Always the Brightest"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/6118db06-bc35-48bb-90f8-da4f2533cbf9.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-rgshownewshourextrasnewheights1788547697",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "91-year-old is oldest to hike entire Appalachian Trail",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/new-heights-1788547697/",
+   "paras": [
+    "91-year-old 'Grey Beard' is oldest person to hike entire Appalachian Trail"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/313a30c5-3d7d-43d0-bd46-033a5f059177.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shownewshourextrasmailinvoting1788552117",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "What to know about Trump's effort to restrict mail ballots",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-05",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/mail-in-voting-1788552117/",
+   "paras": [
+    "A federal judge indefinitely extended her order to prevent the Trump administration from implementing new restrictions on mail-in ballots. The Trump plan would require states to use scannable ballot envelopes and to provide the federal government with lists of voters eligible to receive mail ballots. Liz Landers discussed more with David Becker of the Center for Election Innovation and Research."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/6b973d4b-7cb7-4ede-8ef1-161c36368a45.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-agentsbutwontaskthemtopredicttheapplecup",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "WSU President Betsy Cantwell builds custom AI agents — but won’t ask them to predict the Apple Cup",
+   "author": "Lisa Stiffler",
+   "date": "2026-09-04",
+   "url": "https://www.geekwire.com/2026/wsu-president-betsy-cantwell-builds-custom-ai-agents-but-wont-ask-them-to-predict-the-apple-cup/",
+   "paras": [
+    "WSU President Betsy Cantwell is a full-on techie.",
+    "She spent more than two decades in national laboratories working on space exploration, energy and defense, followed by top leadership roles at state universities in Utah and Arizona driving significant growth in research funding. The longtime sci-fi fan embraces “future-casting” — a systems engineering approach to imagine and prepare for technological shifts a decade out.",
+    "But if that leads you to predict that the head of Washington State University is blanketing her campuses with artificial intelligence, you would be wrong.",
+    "The essential role of a university is to foster a sense of wonder in students, and that is something AI will never do, Cantwell said in a GeekWire interview on Friday.",
+    "That wonder, she said, “is innately human, and when we bring that into everything you do in a university, you create humans that will actually be much better at ideating, managing and creating value out of AI.”",
+    "In line with that philosophy, WSU faculty decide individually how to incorporate AI into their research and classrooms, with students actively involved in shaping its use. The technology serves as a tool to reach a goal, but is not the goal itself.",
+    "As the head of WSU — which serves 25,400 undergraduate and graduate students across its main campus in Pullman, four branch campuses, and an online program — Cantwell uses AI as an operational partner. On a $1.3 billion annual budget that also supports 39 county extension offices and research centers, she looks for practical AI applications to streamline functions and accelerate technology transfer.",
+    "Drawing on her national lab experience, Cantwell believes AI can bridge the gap between basic research and commercial production. Instead of universities simply “throwing papers over the transom,” she said AI-driven modeling helps build intermediate proofs-of-concept and testbeds that help attract private-sector investments.",
+    "This approach is at the foundation of WSU’s planned $50 million, federally funded research center using AI to support salmon recovery and sustainable aquaculture, as well as AI-enhanced micro-climate tools from the university to aid Washington’s farmers.",
+    "One area where Cantwell is personally using AI to guide high-stakes decision-making is in navigating the turbulent business of college athletics.",
+    "In 2023 — two years before Cantwell joined WSU — the University of Washington pulled out of the Pac-12, triggering an implosion of the century-old conference that left only WSU and Oregon State as members.",
+    "Cantwell believes strongly in the value of WSU’s athletics program, calling it a vital convener that brings alumni and fans together across political and social spectrums, while providing an academic doorway for student-athletes who might not otherwise pursue higher education.",
+    "To navigate the financial fallout, she built her own custom AI agent to run tabletop scenarios and model financial paths for WSU’s sports enterprise. She treats the exercise much like national security strategic planning.",
+    "The AI agent allows her to analyze variables including coaching salaries, stadium operations, student-athlete employment litigation, federal regulatory proposals, and revenues generated through Pac-12 Enterprises, the conference’s business arm. Cantwell sees the grit of WSU rebuilding after the Pac-12 split as a compelling story of innovation and entrepreneurship, one that new digital media channels can help broadcast.",
+    "Where Cantwell draws the line, however, is AI use in sports betting, which she views as a concerning manipulation of human behavior that threatens the integrity of college athletics.",
+    "GeekWire came prepared for our interview by asking different AI chatbots to predict the outcome of Sunday’s Apple Cup showdown between WSU and UW at Seattle’s Husky Stadium. Suffice to say, the AI says it doesn’t look good for the squad from the Palouse.",
+    "But before we could deliver that news, the top Cougar made it clear she wasn’t interested in hearing what Gemini, Claude or any other AI platform forecast for the game.",
+    "“The only reason why I would want to know the score in advance is if I was betting and I don’t do that,” Cantwell said. “Why do you need to know in advance?”"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/PXL_20260904_1650069211-1260x945.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-uninseattlewithfanartand35yearsofhistory",
    "srcKey": "geekwire",
@@ -120,7 +698,7 @@
    "url": "https://www.geekwire.com/2026/startup-spotlight-food-photographer-uses-25-year-archive-to-build-an-ai-tool-that-eliminates-costly-reshoots/",
    "paras": [
     "Longtime Seattle food photographer Scott Pitts spent 25 years capturing commercial imagery for major brands, and now he’s using that quarter-century archive to train Pallat . The new AI-powered production system is designed to eliminate costly reshoots while keeping real studio craft at the center of generative creative tech.",
-    "The platform combines fine-tuned open-source models with Pitts’ extensive archive, allowing art directors to modify existing campaign assets — like swapping a topping, adjusting lighting, or changing a backdrop — in minutes through software rather than starting from scratch back on set.",
+    "The platform combines fine-tuned open-weight models with Pitts’ extensive archive, allowing art directors to modify existing campaign assets — like swapping a topping, adjusting lighting, or changing a backdrop — in minutes through software rather than starting from scratch back on set.",
     "Pitts, a non-technical founder operating Pallat out of his Seattle photo studio, SP Studio , leads a nimble five-person team and believes domain experience is key to competing with generic AI platforms.",
     "“We are close to the problem, and we’re looking at it from a photographic eye,” he said. “We’re making sure those outputs look photoreal, that they’re not going to get labeled as AI slop.”",
     "To show how the tech works in practice, Pitts points to a recent shoot for a national steakhouse client. After completing a complex setup for a burger — carefully layering the bun, patty, sauce, and greens — the brand asked if they had shot a version with tomatoes. Rather than calling back the food stylist and rebuilding the set, Pitts dropped the final image into Pallat, prompting it to add two tomato slices with subtle condensation, natural translucency, and accurate drop shadows cast onto the cheese below.",
@@ -193,40 +771,6 @@
     "Hazel may walk away from AI. But Amira, describing a pain in her side to a chatbot, may not, and the odds are nobody in her house knows she’s doing it."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/phone-teens-ai-1-1260x709.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-cmannuclearinspirationtournorthwestspace",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "NASA’s chief talks up nuclear power during ‘Inspiration Tour’ of Northwest space ventures",
-   "author": "Alan Boyle",
-   "date": "2026-09-04",
-   "url": "https://www.geekwire.com/2026/nasa-jared-isaacman-nuclear-inspiration-tour-northwest-space/",
-   "paras": [
-    "REDMOND, Wash. — NASA Administrator Jared Isaacman came to Rocketdyne’s facility here today to give a pep talk to the space company’s employees — and lay out his vision for the future of America’s space effort.",
-    "Isaacman made clear that nuclear power will be a big part of that vision.",
-    "“NASA is at our best when we’re doing the near-impossible,” he said. “There is no obvious revenue model or business case for what we’re doing. We’re just out there pursuing the secrets of the universe, and nuclear or fission-powered spacecraft make sense in that it helps us extend our reach farther into the solar system.”",
-    "The pathfinder mission for NASA’s nuclear ambitions is likely to be SR-1 Freedom , a Mars probe that’s scheduled for launch in 2028. SR-1 Freedom is designed to carry a fission reactor and nuclear electric propulsion system.",
-    "Rocketdyne’s Redmond facility is working on thrusters for the system. “We built here, in Redmond, the Advanced Electric Propulsion System,” Rocketdyne CEO Kristin Houston told GeekWire before Isaacman’s talk. “It’s a 12-kilowatt Hall-thruster system, and that is going to be the propulsion element on the SR-1 Freedom. So, yeah, we’re really proud of that.”",
-    "Today’s visit was part of the Pacific Northwest leg of Isaacman’s nationwide “Inspiration Tour,” aimed at strengthening the connections between NASA and its partners. A similar tour in August brought Isaacman to Idaho National Laboratory , which will play a key role in providing the 20-kilowatt reactor for SR-1 Freedom.",
-    "In partnership with the U.S. Department of Energy, NASA is also looking into the prospects for putting a nuclear reactor on the lunar surface by 2030 as part of its Moon Base initiative. Houston said Rocketdyne is interested in playing a part in that program.",
-    "“That’s not as much out of the Redmond site, but as Rocketdyne, we’re doing a lot of investment in the power conversion and the power management and distribution design that could be used for that,” she said.",
-    "Over the course of nearly 60 years, Rocketdyne’s Redmond site has played a role in nearly every interplanetary NASA mission — and has gone through several ownership changes along the way. The company’s latest transition, including its rebranding as Rocketdyne, became official last month after AE Industrial Partners acquired a majority stake from L3Harris .",
-    "Nowadays, Rocketdyne is arguably best-known as one of the commercial partners in NASA’s Artemis moon program . “We have 21 engines on the Orion spacecraft,” Houston said. “That’s between the crew module and the service module … all built in Redmond.”",
-    "The Redmond facility oversees the refurbishment of space shuttle engines for upcoming Artemis missions and is redesigning the spacecraft’s Orion Main Engine for missions starting with Artemis 7. “Our in-space propulsion business, really based here, has the lead on the entire OME program,” Houston said. “So we’re already concurrently doing the design and test of the new engine while doing all the refurbishment.”",
-    "Isaacman said the Artemis program is one of NASA’s top priorities, in part due to geopolitical competition. The current schedule targets a crewed lunar landing in early 2028 , followed by initial work on a permanent base near the moon’s south pole later that year .",
-    "“NASA is very hot,” he said. “But NASA is hot right now because we are in a great-power competition. That’s across AI, energy and infrastructure, and everything you can imagine militarily, but certainly in the domain of space. We cannot take our foot off the gas. Really, if we miss our time by a matter of months, there are only so many good parking spots in the south pole of the moon, where we want to build our moon base. Well, the Chinese want to build their moon base there, too.”",
-    "NASA is relying on Rocketdyne and other commercial partners to set a fast pace.",
-    "“For all the great companies, the partners that are contributing to our near-impossible objectives, now is absolutely the time,” Isaacman said. “Just as so many of you were probably inspired by the space race in the 1960s and what we accomplished — all those books and movies that came from it — you’re now contributing to that.”",
-    "One of the VIPs in the audience, Redmond Mayor Angela Birney, said she was energized by Isaacman’s visit. “I am so excited that Rocketdyne is on the forefront of missions in space,” she said. “For me, as a former science teacher and someone who’s so interested in encouraging innovation and development, this just feels like a fantastic day to celebrate all of that.”",
-    "Rocketdyne wasn’t Isaacman’s only scheduled stop on this week’s tour. Earlier in the week, the administrator and other federal officials paid a visit to Lawrence Livermore National Laboratory and the Castle Air Museum in California’s Central Valley. Today’s Redmond visit fell between stops at United Precision Corp.’s headquarters in Washougal, Wash., and at Boeing’s Everett facility . Stoke Space is on the agenda for Friday.",
-    "After his talk, Isaacman told GeekWire that Washington state is home to a “lot of industry” that’s contributing to America’s space effort.",
-    "“It takes contributions from great talent all across the nation to contribute to our world-changing efforts,” he said, “but it just happens to be that a lot of it is here in Washington.”"
-   ],
-   "img": "https://www.geekwire.com/wp-content/uploads/2026/09/260903-isaacman-1260x835.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -309,141 +853,6 @@
    "annos": null
   },
   {
-   "id": "f-cascade-methinggoeswronginarideshareinwashington",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "What happens when something goes wrong in a rideshare in Washington?",
-   "author": "Jaelynn Grisso",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/09/what-happens-when-something-goes-wrong-in-a-rideshare-in-washington/",
-   "paras": [
-    "Editor’s Note: The following article contains descriptions of physical injury and sexual assault that some readers may find difficult.",
-    "In early 2023, rideshare driver Mahamadou Kabba turned on his apps and waited for a ride in south Seattle. Instead, he was caught in the crossfire of two others and shot.",
-    "His wife, Khadija Mohamed, was out of the country when she received the call. She traveled for 24 hours to get back, and when she got to his side in the hospital, he was already unresponsive.",
-    "“When I came, I found him and couldn't talk with him, he was badly [injured in the] ICU. I stayed with him for four days and then I lost him,” Mohamed said.",
-    "A few months later, in April, a woman referred to in court documents as Jane Doe ordered an Uber ride in Seattle to take her home while she was intoxicated.",
-    "But the driver instead took her to his home. She fell asleep at the driver’s house, and awoke to find him sexually assaulting her. She told him to stop “which he eventually did after repeatedly asking her to ‘just say yes,’” according to court documents.",
-    "When she tried to call another car to take her home, he pressured her to let him take her home instead. She got into his car and saw he was carrying a belt with him. As he was driving her home, he “kept reiterating words to the effect that he was ‘a good person,’” the documents say.",
-    "Concerns about safety in ridesharing have been around for as long as the companies have existed. But nearly two decades after Uber was founded, riders and drivers alike say more needs to be done.",
-    "Cascade PBS compiled nearly 250 Washington case records, including at least two dozen active lawsuits throughout the state, where Uber is a party. We found several lawsuits against Uber for safety concerns ranging from negligent driving to sexual assault. You can explore those cases here:",
-    "Jane Doe’s lawsuit is one of several filed in King County alleging sexual assault from an Uber driver.",
-    "In another case, a woman referred to in court documents as C.P. ordered an Uber ride home from a bar in north Seattle. The documents say she was noticeably intoxicated. When they arrived at her home at the end of her ride, she realized she couldn’t find her keys and her phone was dead. That’s when the driver took her to his home instead. She later awoke to find herself naked in his bed with him touching her. Two years later, he was found guilty of Assault with Sexual Motivation.",
-    "C.P. brought a lawsuit against Uber over the incident, which alleges Uber had received multiple complaints about the driver previously.",
-    "In two other King County lawsuits, riders alleged the drivers assaulted them in the car.",
-    "Uber responded to questions regarding rider safety with an emailed statement, saying that 99.9% of rides do not have a safety incident reported.",
-    "“Safety is fundamental to the Uber experience, and we are deeply committed to helping protect both riders and drivers,” a spokesperson wrote. “Over the years, we’ve continued to invest in technology, policies, and support designed to help make every trip safer—from GPS tracking and emergency assistance to rider verification, audio recording, and tools that give riders and drivers greater visibility and control throughout their journey.”",
-    "They said their work in these areas is never finished and pointed to a feature called Ride Check, introduced in 2018, which is intended to ensure riders and drivers are safe in the event of an unexpected stop or long detour.",
-    "They also mentioned features for riders such as a setting to choose a trusted contact to share their trip with, an ability to record the audio of rides, a PIN verification process riders can opt into and the option for women to choose only women drivers. However, the last feature sparked a lawsuit in California alleging the practice discriminates based on sex.",
-    "Many of the features Uber listed are automatic and based in the app, including Ride Check. The feature was well established when the incident in Jane Doe’s lawsuit happened in 2023, five years after the safety feature was introduced.",
-    "Safety concerns in rideshares aren’t limited to riders. Drivers also face risks and get hurt on the job.",
-    "Mohamed Omar had been driving for Uber for 6 years before a hit and run at the airport took him off the road earlier this year. He was unloading his passenger’s luggage, as he always does, when another vehicle hit him and ran over his ankle.",
-    "“I turned around behind the car to open the trunk. Someone is coming behind me, and he hit my left shoulder and my back. And by the tire, the back tire, he'd go up to my left ankle,” Omar said. “I didn't feel my shoulders or my back at this time, only the ankle injury. I fall down on the trunk and the guy gets out from my car very fast. ‘Mohammad, what's going on? What's happened?’ I tell him this guy hit me, and he try to yell to the guy to stop, but I think the guy doesn't see me or whatever. Maybe he’s also a driver.”",
-    "Nearly seven months later, he’s still recovering. He’s not alone. Another driver, Abeje Demeke, was injured two years ago and still hasn’t been able to return to work.",
-    "Demeke had just picked up his passenger and when another driver thought they collided. He said the two cars never touched, but the other driver physically assaulted Demeke regardless.",
-    "“I [was] trying just to show him. He was in my back and he punched me, here in my chest. After that, I fell on the ground like this. On the asphalt and the ground. I yelled, shouting and finally just that lady inside, she called police,” Demeke said.",
-    "Mahamadou Kabba, Khadija Mohamed’s husband, was one of numerous drivers in the Seattle area who were killed in a few years’ span , including Cherno “Che” Ceesay, a 28-year-old stabbed to death by his riders in 2020. His family filed a lawsuit against Uber for wrongful death, and a federal court ultimately decided in the family’s favor in 2024 and said Uber had a “duty of care” for its drivers.",
-    "In 2021, Uber rolled out a rider verification feature which cross-checks rider identities and places a badge on the rider’s account for drivers to see. The company said it conducted an audit of rider names in 2022 and froze accounts they deemed fake and noted drivers can flag any fake or inappropriate names they see. Drivers also have the option to choose someone to follow their routes, similar to the trusted contacts feature for riders.",
-    "Experts from the Drivers Union of Washington said the state is among the best in protections and benefits for drivers, largely because of a law passed in 2023.",
-    "For riders, it required companies to enforce zero tolerance for drug or alcohol use by drivers, prohibited discrimination against a rider on the basis of specific protected classes, required vehicles to be no more than 15 years old and banned charging additional fees to a rider because of a disability.",
-    "The law established a series of rights for drivers, including setting minimum pay rates per mile, per minute and per trip. That means drivers are compensated for both the time and distance they go. It also mandated that all of a driver’s tips go to them and established that drivers had a right to paid sick time and protection from retaliation.",
-    "The law also included workers’ compensation benefits coverage for rideshare drivers. Washington and New York are the only states that provide coverage.",
-    "“It’s good for Washington state,” he said. “It’s helped a lot. It’s still not enough, but I’m okay because I’ve got my rent and bills [covered].”",
-    "For Khadija Mohamed, getting access to those benefits after her husband died was a fight. She discovered that she didn’t qualify for survivor death benefits from workers’ compensation – despite Kabba being killed on the job – because he wasn’t actively on a ride when he died.",
-    "She and the Drivers Union advocated to expand the benefits for family members, which led to a law expanding those benefits passing in 2024.",
-    "While experts applaud the benefits available, the law doesn’t cover how to handle safety concerns while on a ride, other than driver background checks. So far, safety has largely been handled by the company with little interference from the state. That leaves it up to riders and drivers to file an insurance claim or take it up in court after an incident.",
-    "Both drivers and experts from the Drivers Union say training is needed for new drivers.",
-    "“The current, safety measurements that, there, you know, could be improved because a lot of the time, what we have right now is not really proactive, you know, measurements to prevent, you know, safety incidents happening before it happens,” said Mohamud Adan a policy analyst for the Drivers Union.",
-    "Omar agreed that training would help drivers be safer on the road and would help them know the law and their rights better. He also pointed to dashboard cameras as another option to improve safety, both as a deterrent and to use for evidence if an incident happens.",
-    "For many of those impacted, they continue to wait. Jane Doe’s lawsuit continues, as she awaits a hearing set for next May.",
-    "Demeke is healing, but the progress is slow and intermittent. He says he feels like a burden to his daughter, whom he lives with and who takes care of him as they determine if the damage is permanent.",
-    "And Omar waits to find the person who hit him. The police investigation is ongoing, but Omar says all he wants is to talk to him driver-to-driver."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/20260904_Header--1-.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-hyamericafacesaprimarycareshortage48f3id",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Why America faces a primary care shortage",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/show/horizons/episode/why-america-faces-a-primary-care-shortage-48f3id/",
-   "paras": [
-    "There’s a critical need for primary care physicians across America, but a shortage of doctors and rising insurance costs are forcing people to forgo preventive care altogether. Americans die of preventable, treatable diseases at far higher rates than people who live in other similar nations. Horizons moderator William Brangham explores possible solutions with Dr. Lucy McBride and Renuka Rayasam."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/7c72feab-f104-4fdf-9e5c-07e95355c71b.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-ucationbutisithelpingstudentslearnlwiyd7",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Technology is reshaping education. But is it helping students learn?",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/show/horizons/episode/technology-is-reshaping-education-but-is-it-helping-students-learn-lwiyd7/",
-   "paras": [
-    "Putting technology into schools was sold as a revolution that would help kids learn. But as tech companies exert greater influence, many are now wondering if screen time is doing more harm than good. Horizons moderator William Brangham explores how technology is shaping education with Natasha Singer, a New York Times reporter and author of \"Coding Kids: Big Tech's Battle to Remake Public Schools.\""
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/2730e3aa-5abe-4d19-9843-5734a8a8cfdc.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-penaibotsescapedacybersecuritytestsiqhac",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "What Really Happened When OpenAI Bots Escaped a Cybersecurity Test?",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/what-really-happened-when-openai-bots-escaped-a-cybersecurity-test-siqhac/",
-   "paras": [
-    "When OpenAI set out to test how well its product could hack, hundreds of AI agents broke out of their test environment and infiltrated the AI platform Hugging Face. Headlines warned that the machines had gone rogue. But Heidy Khlaaf of the AI Now Institute, herself a former OpenAI safety engineer, tells the show it's the wrong story and a distraction from the real problem."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/231bb200-b228-4cd7-84f9-041d2142fd21.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-howamanpourcoepisodeseptember32026mosiej",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "September 3, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/september-3-2026-mosiej/",
-   "paras": [
-    "Jeremy Diamond; John Manley; Heidy Khlaaf"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/a42c4c7b-f2cd-46cf-82d6-1bbb3fd94afc.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-episodebuildingtheblueridgeparkwaylwph5r",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Building The Blue Ridge Parkway",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-04",
-   "url": "https://www.cascadepbs.org/show/whro-public-lens/episode/building-the-blue-ridge-parkway-lwph5r/",
-   "paras": [
-    "It took 52 years to build the Blue Ridge Parkway. This is how it happened."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/b8c65c7f-c0f7-41e4-b979-1ee19753f8b5.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-emerald-sstreetteaminrainierbeachthroughjune2027",
    "srcKey": "emerald",
    "cat": "community",
@@ -475,224 +884,141 @@
    "annos": null
   },
   {
-   "id": "f-emerald-attlescenesfeelnewingeorgetownexhibition",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Hank Reavis Makes Familiar Seattle Scenes Feel New in Georgetown Exhibition",
-   "author": "",
+   "id": "f-stranger-syouragendathisweekseptember7september13",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Stranger Suggests: Your Agenda This Week, September 7–September 13",
+   "author": "Julianne Bell, Shannon Lubetich, Amanda Manitach, Emily Nokes, and Langston Thomas",
    "date": "2026-09-04",
-   "url": "https://southseattleemerald.org/arts-culture/2026/09/04/hank-reavis-makes-familiar-seattle-scenes-feel-new-in-georgetown-exhibition",
+   "url": "https://www.thestranger.com/suggests/stranger-suggests-your-agenda-this-week-september-7-september-13/",
    "paras": [
-    "On a bright August afternoon, sun shone into Seattle artist Hank Reavis' studio space in Pioneer Square.",
-    "When I visited, he was in the process of finishing a painting of a flower booth in Pike Place Market. The piece resembles a low-res downloaded photo, composed purely of painted pixels. Beneath it was a waist-high pile of discarded yellow FrogTape, which Reavis uses to single out each pixel square, carefully building color and texture with his airbrush. The result is a scene that looks familiar to any Seattleite — the chaotic beauty of the Market — but vague enough to be slightly unrecognizable.",
-    "\"What's interesting to me is forming a connection through something that is deeply personal to me, but also kind of part of our universal experience as people living in Seattle or in the modern world,\" said Reavis.",
-    "This airbrushed painting and several others will be part of Reavis' solo show I Can See It From Here , which runs at Mini Mart City Park in Georgetown from Sept. 5 to 27. Drawing from personal photographs and screenshots from Google Street View, the exhibition explores memory and place. And just down the street at Georgetown Steam Plant, Reavis and co-curator Bergen Hendrickson put together Campers (Sept. 5–20), a sprawling group show featuring the work of over a dozen artists who have been associated with Seattle's underground DIY art scene.",
-    "While the images in I Can See It From Here are drawn from photos of moments or places that Reavis finds personally significant, there's no strict narrative to the show. \"Sun Deli Mart\" depicts a Street View image of the Sun Deli Mart sign on Airport Way, a now-closed corner store in SoDo that Reavis used to pass on the way to an old friend's house. And \"Hoquiam Window\" looks like it could be at any house in Seattle's residential neighborhoods, perhaps belonging to a friend, an ex, or a family member.",
-    "\"I wanted to find intentionally vague imagery to allow people to form connections of their own to the pretty universally identifiable scenes,\" said Reavis. \"It looks familiar, but not. That's what I'm looking for, this sort of edge of familiar clarity.\"",
-    "For some of his pieces, Reavis pulls reference images from Google Street View, which Google launched in 2007 to capture a \" 360-degree map of the world. \" Updated periodically, the feature lets users place themselves on the streets of cities and countries around the world, even allowing them to go back in time to older versions of the street-level photographs.",
-    "It's become an organizing point for GeoGuessrs , who compete to figure out the location of a randomly selected Google Street View image. And Instagram accounts like Old Seattle Blocks crawl previous versions of Street View for photos of Seattle to capture old corners and geographies of a city undergoing constant change. Reavis' paintings feel like an extension of those practices. They're mediated by the experience of growing up online, but rather than being about being online, the works use the visual language of the internet — a sheen of pixels — to depict the slipperiness of memory.",
-    "\"We're used to seeing images in this format because you know everybody uses computers and technology and is seeing an image online,\" said Reavis. \"It's not so much about the computer as a processing tool, and more functions as a filter to represent how remembering things is not this crystal clear process.\"",
-    "I feel that when I look at Reavis' very small painting of a bird, soaring against an orange sky, its body and wings made of squares. It reminded me of moments where I've tried to capture a cloud, a sunset, or a particularly bright moon with my phone, only to look at the blurry photo later. While the image might not directly reflect the beauty of that moment, the feeling is still accessible. I can see it and still access what it felt like to stand under the sky, at the beach, or sit in the forest and the thought of whipping out my phone to capture the scene before me. Reavis' airbrushed paintings function in a similar way: By mimicking broadly accessible or familiar images of Seattle, they're non-specific enough to function as placeholders for the viewers' own memories.",
-    "Outside of Reavis' own pieces, I Can See It From Here will also feature a screening of work by Robert Zverina (a.k.a. robZtv), a Seattle-based videographer who spent the last 20 years capturing micromovies — no longer than 30 seconds — of glimpses of the Pacific Northwest. Random street corners, parties, roadways, gas stations, protests, and the like are all fodder for his cheap digital camera. At his Sept. 11 pop-up at Mini Mart within Reavis' show, Zverina will present robZtv: The Struggle Against Forgetting , a specially composed selection of never-before-seen clips Seattle circa 2006.",
-    "\"I think [Reavis and Zverina's] practices are so aligned. So having that as an independent program just for Hank's solo will be a different way to contextualize these perspectives on lens and memory,\" said Alissa Dymally Williams, Mini Mart's gallery and program manager.",
-    "For Campers at Georgetown Steam Plant, Reavis and co-curator Hendrickson have invited artists like Chito , Noelle Whitaker , and Andrew Durgin-Barnes to bring painting, sculpture, and installation to the venue. Though many of them have moved away from Seattle and may not be associated with today's local art scene, they were among the first artists Reavis remembered showing work alongside at places like Pipsqueak Gallery in the Central District. Despite the distance, Reavis said there's a \"strong link\" between his work and theirs, and Reavis wanted Campers to be an opportunity to give them their collective shine. Together with I Can See It From Here, both exhibitions serve as mirrors of Seattle — what you see in them is based on wherever you are at that moment.",
-    "\"This is a show about Seattle for people from Seattle and people not from Seattle, people who appreciate Seattle,\" said Reavis. \"Even with all its bad parts, I still love Seattle so much.\""
+    "(MUSIC) For Seattleites, Death Cab for Cutie needs no introduction. Frontman Ben Gibbard started the indie rock band nearly three decades ago while attending Western Washington University. Since then, they’ve released 11 studio albums and won the adoration of listeners all over the world thanks to their catchy and emotional tracks. This weekend, the group headlines Bumbershoot before taking off on a European tour in support of their recent release, I Built You a Tower . But before they do, they’re stopping by KEXP to perform for some of their earliest supporters. I recommend getting to the venue early, grabbing a drink from Caffe Vita, enjoying the on-air DJ’s tunes, and staking out a spot in line for the free event before the Labor Day crowd catches up! I’m expecting the in-studio performance to feel like the Pacific Northwest homecoming version of Death Cab’s recent Tiny Desk concert . ( KEXP, 11 am, free, all ages ) SHANNON LUBETICH",
+    "(COMMUNITY) Last year, in an attempt to highlight the absurdity of King County Metro’s 8 bus line, the grassroots volunteer group Fix the L8 hosted an event called “Race the L8.” Participants successfully proved that several alternate modes of transportation, such as walking, leap-frogging, cha-cha-sliding, conga lining, and hopscotching, were all faster than the perpetually tardy bus. Now that Mayor Wilson has installed bus-only lanes on Denny Way, they’re testing it again to see if—gasp—the 8 can actually beat the racers this time. Wilson, a Route 8 bus driver, and Fix the L8 leads will deliver brief remarks, followed by a race along the southern sidewalk of Denny/Stewart and a happy hour at the Pine Box. ( Denny and Dexter, 5 pm, free ) JULIANNE BELL",
+    "(FILM) There’s nothing else I can say about Dolly Parton that hasn’t already been said, written, or shouted from the rooftops in the past week. But rather than grieve, it seems most are choosing to celebrate her storied life and career, and that includes the folks at the Northwest Film Forum. This Friday, they’ll pay tribute with a screening of The Best Little Whorehouse in Texas (1982), starring Parton as Miss Mona, the proprietor of a Texas brothel threatened by a crusading TV personality, with Burt Reynolds playing the sheriff (and love interest). It’s a big, boisterous musical that’s about as fittingly Dolly as a memorial screening could get. Plus, NWFF is turning it into a proper celebration, with a special pre-show kicking things off at 7 pm. ( Northwest Film Forum, 7:30 pm ) LANGSTON THOMAS",
+    "(VISUAL ART) Meghan Thréinfhir ’s sculptural and conceptual work does a lot of heavy lifting, blending cosmic physics, computing, and witchcraft. For more than a decade, she’s been working with the bog—yes, actual, wet, earthy bog—to create sonic electrical installations and other mind-bending sculptures that allow us to enter a space where ancient planetary physics and contemporary technology coexist. For her solo exhibit at Steve Gilbert Studio , SPACETIME GOTHIC , Thréinfhir presents work about black holes and the accretion discs that form around their perimeter, imagining the orbiting material as a ghostly sort of library at the edge of the void—a place where matter may be lost but information is never destroyed. ( Steve Gilbert Studio, free, all ages ) AMANDA MANITACH",
+    "(PERFORMANCE) There are few comedians you could identify from delivery and voice alone quite as quickly as Anthony Jeselnik. His slow, deliberate cadence practically announces that something terrible is about to come out of his mouth. And, more often than not, it does. Jeselnik has spent the past 25 years perfecting his particular brand of dark humor, from breakout appearances roasting Charlie Sheen and Donald Trump to specials like Thoughts and Prayers , Fire in the Maternity Ward , and 2024’s Bones and All . Granted, Jeselnik’s sense of dark humor isn’t for everyone… But a room full of cynical Seattleites? That’s essentially his target demographic. ( Moore Theatre, 7:30 pm, all ages ) LANGSTON THOMAS",
+    "(PERFORMANCE) The Genius Awards is a ceremony where we give six big-ass checks to Geniuses of Film, Food, Literature, Music, Performance, and Visual Art! There will be drag (the event is hosted by Miss Texas 1988 and Lady GuGu), there will be DJs (past Genius Award-winner Erik Blood is in town; La Mala Noche closes the evening with a basement dance party 10–11 p.m.), there will be trophies (handmade by local art wizard Mary Anne Carter). Past Genius Award winners Shabazz Palaces will headline; their lead single “Ahh World (I Won The Alpha Bet)” off their excellent upcoming album, It’s a Style Sport , says to “put your money where your mouth is”—our thoughts exactly. A party, a ceremony, a show, all in the name of CELEBRATING ART. What more could you want for 10 bucks? Speaking of style, do you have a special or weird thing in your closet that you never get to bust out? Now is the time! Personally, I’m aiming for something between an opulent magician and Miss Scarlet from the 1985 Clue movie. ( Moore Theatre, 6:30 pm, all ages ) EMILY NOKES",
+    "(FILM) I’m a simple woman: If a film stars Bette Davis, I’ll watch it. That’s how I came to find out about The Little Foxes , the 1941 drama based on Southern leftist playwright Lillian Hellman’s 1939 play of the same name (which the Intiman Theatre staged last fall). Davis plays the ambitious, ruthless ice queen Regina Hubbard Giddens, who goes head to head with her morally bankrupt brothers and principled husband in her quest for wealth. As one Letterboxd reviewer put it, it’s “basically old-timey Succession,” complete with its own Cousin Greg. Rick Burin of The Guardian called it a “visually astounding leftwing polemic that climaxes with the best horror sequence of its decade” and referred to Giddens as “a psychopath who presages the next 79 years of rapacious capitalism.” No one plays a complete psycho bitch better than Davis. ( Beacon Cinema, 6 pm ) JULIANNE BELL",
+    "Forbidden Feline Festival Slim’s Last Chance, September 27, 21+ ENTER NOW! Contest ends September 21 at 10 am",
+    "The post Stranger Suggests: Your Agenda This Week, September 7–September 13 appeared first on The Stranger ."
    ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-04/xj5hqz7m/2026-Sun-Deli-Mart-by-Hank-Reavis-by-Dominic-Nieri.jpeg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/racethe8-2.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-npr-1468childmarriageunitedstatesindiaglobal",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Whatever happened to the U.S. campaign to ban child marriage?",
-   "author": "Kamala Thiagarajan",
+   "id": "f-stranger-omplaintroosevelthighschooljazzbandcombo",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Stranger’s Noise Complaint: Roosevelt High School Jazz Band Combo",
+   "author": "Stranger Staff",
    "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/g-s1-141468/child-marriage-united-states-india-global",
+   "url": "https://www.thestranger.com/music/the-strangers-noise-complaint-roosevelt-high-school-jazz-band-combo/",
    "paras": [
-    "The global effort to end child marriage is in the news. In the U.S., there's a new bill before Congress (but it's controversial). And the U.N. is designating a day dedicated to ending the practice."
+    "Welcome to Noise Complaint, The Stranger ‘s new audio and video music podcast featuring live performances right here at The Stranger HQ. Streamed live and released every other Friday, we invite a great band, musician, or wonderfully weird act to perform. Tune in, discover something new, and support art in your city.",
+    "This Week’s episode features Roosevelt High School Jazz Band Combo !",
+    "Roosevelt Jazz is considered one of the nation’s top high-school jazz bands and has been regularly selected to participate in the highly competitive Essentially Ellington High School Jazz Band Competition and Festival in New York City, where the band has taken top honors. This current iteration of the trio has been playing and improvising together since middle school. We have Sienna Araya Winquist, who has won the State Solo and Ensemble competition for guitar twice and also plays with Bellevue College Jazz Band; Margot Cox, who plays with the 2026-2027 Jazz Fellowship Futures; and Ramona Cantwell, who shares the stage as one of Roosevelt Jazz’s most requested combo musicians.",
+    "On Apple, you can subscribe to the video podcast here.",
+    "Get our email newsletter and episode alerts at thestranger.com/noisecomplaint . Thanks to Reanimated Music for the backline!",
+    "For Noise Complaint band submissions, email us at podcasts@noisycreek.com .",
+    "The post The Stranger’s Noise Complaint: Roosevelt High School Jazz Band Combo appeared first on The Stranger ."
    ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4928x3280+0+0/resize/4928x3280!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F28%2F4a%2F3ec2f7414f8a85510d2c81cf035d%2Fchild-marriage-ban-1235431672.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/NC_260828_NCS1E5-Roosevelt-Jazz-scaled.jpg?fit=1024%2C576&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-npr-5950421lindsayclancytrialverdictmistrial",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "With jury deadlocked, Judge declares a mistrial in Lindsay Clancy's murder case",
-   "author": "Carmel Wroth",
+   "id": "f-stranger-cityihavethebestandcraziest7busstoryever",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "I Have the Best and Craziest 7 Bus Story Ever",
+   "author": "Charles Mudede",
    "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/nx-s1-5950421/lindsay-clancy-trial-verdict-mistrial",
+   "url": "https://www.thestranger.com/city/i-have-the-best-and-craziest-7-bus-story-ever/",
    "paras": [
-    "The judge in Lindsay Clancy's murder case has declared a mistrial after the jury was unable to agree on a verdict."
+    "The storied Route 7 now has an expiration date: 2032 . At that point, King County Metro will change it to RapidRide R Line, a bus that will run between Rainier Beach and downtown Seattle. This new line will require the transformation of Rainier Avenue, a former highway with a reputation for fast cars that regularly crash into buildings, poles, and people .",
+    "Route 7 also has a bad reputation: Its buses are often so late that they get clustered—you have massive gaps between no bus at all and two or three buses arriving all at once. The situation, which hasn’t much improved since the introduction of some bus-only lanes in 2022, was even worse when the 7 ran from Rainier Beach to the University District, with stops in downtown and Capitol Hill. Those dismal days, the ones before Route 49 began service in 2005 , experienced useless clusters of four to five Route 7 buses.",
+    "But I still love the 7. It’s the people’s bus. And not only that, it’s the Asian/Black/Latino bus. It’s not infrequent that one takes the 7 and finds the only white person on the bus is the driver. This route is minority majority on wheels, even to this day, despite the considerable gentrification of large sections of South Seattle. The 7 keeps it real; it remains faithful to the city’s historically most diverse area , Rainier Valley. But this diversity is not just racial. It’s also about characters. The reason why the 7 has so many great stories is because it serves so many different types of personalities, some of which are, for sure, very unusual.",
+    "It was on a Route 7 bus that I experienced one of the strangest characters in my life. This incident happened some eight years ago, and around the point the bus leaves Rainier and turns into Little Saigon.",
+    "That day, the trip between Columbia City (where I live) and Little Saigon had been unusually uninteresting. But that all changed when we got to the stop by the Boat, an iconic Vietnamese restaurant. For some reason, the doors at the back of the bus were jammed. And a man (short, mixed-race, and full of something that was eating his mind) kept screaming at the driver to “OPEN THE BACK DOOR!” It was like his whole life depended upon it. But the door would, again and again, partially open and then abruptly shut. And with each failure, the man’s heat and voice would rise with greater force: “OPEN THE BACK DOOR!!!!!”",
+    "The insanely intense temperature of this man rattled the nerves of everyone in the back of the bus, which included its only white person: a woman who appeared to be a college student. She had blondish hair and bluish eyes that disclosed her growing fear of the screaming man. The door yet again attempted to open and failed. But before the man’s head exploded, a middle-aged Black man (who reminded me a little of Howlin’ Wolf) dressed in dungerees stood, rushed to the door, and rationally determined the problem: the door was jammed by an abandoned Coca-Cola can. He picked it up, and the door finally and smoothly opened, and the fury left the bus to lord knows where.",
+    "The young white woman, relieved that the end of the world was over, turned to her enlightened savior in the dungarees and thanked him profusely for resolving this chaotic situation. He calmly looked at her for a moment. Raised his eyebrows. And began barking. Like a dog. A very big dog. One that was neither aggressive nor friendly. She was totally stunned. He did not speak human. He only barked. And sounded like a Great Dane or maybe a Bullmastiff. In either case, the barking was so convincing that it was hard to believe a human throat and mouth produced it.",
+    "The whole back of the bus was also stunned by the hound man in the dungarees, who returned to his seat barking to himself. The look on the white woman’s face said it all: What planet am I on? In what world does a person perfect the cry of a dog? Only the 7, baby.",
+    "The post I Have the Best and Craziest 7 Bus Story Ever appeared first on The Stranger ."
    ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3811x3000+0+0/resize/3811x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F96%2Fb1%2F6af1c29043d2875ef3267d902feb%2Fap26247504174717.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/7bus-photo-by-charles-mudede-1-scaled.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-npr-esnapleverwhygenzersbetinvestdifferently",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Pulling the SNAP lever + Why Gen Zers bet (invest?) differently",
-   "author": "Cooper Katz McKim",
+   "id": "f-stranger-tdirectormadeaverybadfilmthatheisproudof",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "How a Great Director Made a Very Bad Film That He Is Proud Of",
+   "author": "Kathy Fennessy",
    "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/nx-s1-5955821/pulling-the-snap-lever-why-gen-zers-bet-invest-differently",
+   "url": "https://www.thestranger.com/film-2/how-a-great-director-made-a-very-bad-film-that-he-is-proud-of/",
    "paras": [
-    "Changing SNAP eligibility actually can change consumption habits."
+    "British director John Boorman had already made six movies before he got the chance to direct Exorcist II: The Heretic , the 1977 sequel to William Friedkin’s 1973 blockbuster about demonic possession, The Exorcist . Boorman was hardly a novice. He even had two stone-cold classics, Point Blank and Deliverance , to his name.",
+    "But in making a movie about hope and goodness, in which Linda Blair’s former victim becomes a sort of psychic healer, Boorman disappointed those expecting more head swivels, green goo, and blasphemous “yo mama” jokes.",
+    "As director David Kittredge (Shudder’s docuseries Queer for Fear: The History of Queer Horror ) makes clear in his affectionate and contextually rich new documentary, Boorman and the Devil, about what the director describes as “one of the most famous failures of all time in the cinema,” Boorman was a wild card who never made the same film twice.",
+    "His directorial debut, Catch Us If You Can , for instance, was a satirical vehicle for British invaders the Dave Clark Five, whereas the apocalyptic sci-fi fantasy Zardoz remains best known for Sean Connery’s red fetish-wear mankini and the immortal phrase, “The gun is good, the penis is evil!”",
+    "In Boorman and the Devil , the director, 85 at the time, appears at his home in Ireland with a model of the stone Zardoz idol head behind him, indicating fondness for a film that no one knew what to make of in 1974. That would also be the case with The Heretic , his preferred title, since he saw his 1977 film more as a “riposte” than a sequel.",
+    "Kittredge’s documentary brims with frank interviews with cast and crew, cleverly-edited film clips, and playful illustrations, but his ace in the hole are Boorman’s unromantic, clear-eyed recollections.",
+    "“It made oceans of money for Warner’s, but I didn’t enjoy it,” he says of The Exorcist . He did enjoy playwright William Goodhart’s treatment for The Heretic , which called on Goodhart’s expertise with theology and the occult, and that’s what led to his participation (original author William Peter Blatty, who directed the second sequel, The Exorcist III , was not involved).",
+    "From here, all went downhill, and everything that could go wrong did. He persuaded Linda Blair and Max von Sydow to return, but Ellen Burstyn passed and Lee J. Cobb, who played homicide detective Kinderman in the first film, died of a heart attack. He cast other fine actors, like Louise Fletcher, who had just won the Oscar for One Flew Over the Cuckoo’s Nest , and Kitty Winn from The Panic in Needle Park . They did what they could, but the results pleased almost no one, and yet this isn’t a sad or tragic tale, because most everyone actually enjoyed working on this glorious mess.",
+    "It is, instead, a way of looking at Boorman’s career through the lens of his biggest bomb, because it was an innovative film with heady ideas about metaphysical communication and stunning practical effects, like a daring sequence in which Blair walks to the edge of an NYC high-rise and a horde of 3,000 real-deal locusts. It was also emblematic of 1970s filmmaking, because he had a ride-or-die crew and money to burn. But the project was cursed, as it were, by an ever-changing script, deadly disease, and a studio-mandated lead, Richard Burton, fresh off a triumphant run in Peter Shaffer’s play Equus , with no appetite for the material.",
+    "But failure has a way of revealing an artist’s true colors, and Boorman, now 93, didn’t let the experience break him. Instead, he got back up, dusted himself off, and continued to make the kinds of films he wanted to make, though he would never fly that close to the sun again.",
+    "I watched Boorman and the Devil and The Heretic back to back and came away more convinced than ever that John Boorman is a great director who made a bad, if fascinating film. But that humbling, edifying experience would feed into later-career triumphs like 1984’s Excalibur and 1988’s The General , on which he applied a few of the hard-won lessons he had learned.",
+    "As he says of The Heretic with a hint of a smile, “It was very much the film I wanted to make, and I got away with it.”",
+    "Northwest Film Forum, 515 12th Ave. September 4, 5, 6. ( The Devil and Boorman playing with The Heretic .)",
+    "The post How a Great Director Made a Very Bad Film That He Is Proud Of appeared first on The Stranger ."
    ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-redarrestedforthreatsagainstthepresident",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Philippine vice president is ordered arrested for threats against the president",
-   "author": "The Associated Press",
-   "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-   "paras": [
-    "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4001+0+0/resize/6000x4001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F33%2Ff3b5ca3a49c180b0c6bb4485946f%2Fap26247299450568.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/boorman_and_the_devil-.jpg?fit=1024%2C705&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-npr-aryheadvisitsvietnamtonormalizerelations",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Myanmar military head visits Vietnam to normalize relations",
-   "author": "The Associated Press",
+   "id": "f-stranger-ercomartsyourbumbershootinspiredsyllabus",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Your Bumbershoot-Inspired Syllabus",
+   "author": "Julianne Bell",
    "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/g-s1-142014/myanmar-military-head-visits-vietnam-to-normalize-relations",
+   "url": "https://www.thestranger.com/arts/your-bumbershoot-inspired-syllabus/",
    "paras": [
-    "His trip to Vietnam marks his third visit to an ASEAN member state as he seeks to restore Myanmar's standing in the bloc."
+    "Bumbershoot’s lineup is an unusually bookish bunch this year: Lucy Dacus has a famous Goodreads account with over 2,100 books cataloged, Noname founded a book club with chapters all over the country, Bikini Kill lead singer Kathleen Hanna penned the memoir Rebel Girl: My Life as a Feminist Punk , and Death Cab for Cutie frontman Ben Gibbard is a fanboy of Jack Kerouac and Raymond Carver. To celebrate the upcoming festival, I gathered some of the headliners’ top literary picks. I also threw in a few books about the artists themselves for good measure, like Girls to the Front and Living in a D.A.I.S.Y. Age: The Music, Culture, and World De La Soul Made. Why not tuck a copy or two into your Bumbershoot-approved clear bag for some reading on the grass in between sets? (If you need more tips to navigate the festival, check out our guide here !)",
+    "Noname Rapper Noname’s book club describes itself as a “Black-owned business connecting community members both inside and outside carceral facilities with radical books” and believes “building community through political education is crucial for our liberation.” Each month, the club selects a Black-authored book to read and recommends that members purchase it through their Black-owned and POC-owned bookstore list . Since its inception in 2019, the book club has grown to encompass chapters in the US, Africa, and Europe and maintains chapters in prisons in the US and Lagos, Nigeria. In 2020, the organization also opened the Radical Hood Library, a community library in Los Angeles that provides “free access to books, movie screenings, teach-ins and a monthly open mic.” Here are some of the club’s picks from over the years.",
+    "Lucy Dacus Like many other parasocial queers, I’ve long followed Lucy Dacus’s Goodreads account and admired her literary taste. She and her boygenius bandmates are notoriously avid readers, as documented by this LitHub reading list .",
+    "Bikini Kill Bikini Kill frontwoman and Riot Grrrl icon Kathleen Hanna is an author herself and has shared some of her favorite reads on the You’re Booked podcast, in The Believer , and in the Perfectly Imperfect newsletter.",
+    "Blood Orange English singer-songwriter and record producer Dev Hynes of Blood Orange has recommended his favorite books in various places, including One Grand Books and the New York Times .",
+    "The post Your Bumbershoot-Inspired Syllabus appeared first on The Stranger ."
    ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2560x1706+0+0/resize/2560x1706!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F30%2Fee749d114af6a79994ebefa254e7%2Fap26247170788384.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Jay-Si_Getty-Images-2268392794-copy-scaled.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-npr-spsmailinvotingirsschoolschristiancastro",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump asks SCOTUS to OK changes to mail-in ballots. And, diesel prices hit record high",
-   "author": "Brittney Melton",
+   "id": "f-stranger-tsinseattlethislabordayweekendsept472026",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Best Bang for Your Buck Events in Seattle This Labor Day Weekend: Sept 4–7, 2026",
+   "author": "EverOut Staff",
    "date": "2026-09-04",
-   "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
+   "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-labor-day-weekend-sept-4-7-2026/",
    "paras": [
-    "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high."
+    "Labor Day weekend is the unofficial end of summer, but don’t let that stop you from having a good time at events from the Seattle Indies Expo to Thunderpussy LIVE at the Colisevm of Art and from Rhinestone – A Celebration of Dolly Parton to MEZZFEST III . For more ideas, check out our top picks of the week .",
+    "LIVE at the Colisevm of Art: Summer Music Series Do you like to consume art with a side of live music? Local arts publication PublicDisplay.Art has curated a free exhibition downtown in the century-old Coliseum Theatre that runs through September, and on select nights, you can find live performances from local musicians for $20 or less. This Friday, the 21+ after-hours series reaches its conclusion with a headlining set from local rockers Thunderpussy, whose epic and innuendo-laden 2019 KEXP performance —backup dancers included—lives in my head rent-free. Boogie, disco, and international funk DJ Supreme La Rock sets the tone for the evening with groove-inducing beats before sister-fronted surf-rock band La Fonda takes the stage. SHANNON LUBETICH (Coliseum Theater, Downtown, $20)",
+    "The post The Best Bang for Your Buck Events in Seattle This Labor Day Weekend: Sept 4–7, 2026 appeared first on The Stranger ."
    ],
-   "img": "",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/six26.jpg?fit=1024%2C768&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc2e0w2e0k0roatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'I'd rather die than ring the police': Distrust and fear in Middlesbrough after A66 crash",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/articles/c2e0w2e0k0ro?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "BBC News visits town where violence has escalated after the fatal crash and residents say they are living in fear."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d60/live/49f29f30-a885-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesce30vp55dnloatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UN votes to adopt new world map to reflect Africa's true size",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deoscd79vp91321oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5561/live/dbe464c0-a87e-11f1-a291-b542ee92de7c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc1dlr6geeq6oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Oasis fans say cryptic codes in chip shop video point to Glasgow gigs next year",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc5yep7y48x2oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1829/live/70faa890-a888-11f1-b109-879e35c24276.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescp931m8n3p5oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Stock up on food to prepare for extreme weather, minister says",
-   "author": "",
-   "date": "2026-09-04",
-   "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Dame Angela Eagle warns the weather event could lead to extreme storms this winter."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4805/live/d3c90eb0-a85d-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -943,166 +1269,6 @@
    "annos": null
   },
   {
-   "id": "f-guardian-ractive2026sep04highschooljournalismsplc",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Even high school reporters are facing censorship now",
-   "author": "John Semley",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc",
-   "paras": [
-    "As teenage journalists deal with threats to their school newspapers, they’re calling in attorneys for back up",
-    "High school journalism is often seen as a gentle apprenticeship: a place where teenagers cut their teeth on post-game reports from Friday night football or incremental updates of a student-council race. But at 17, Myesha Phukan wanted to work on something meatier. As a student reporter for the Oracle at Mountain View high school, she and a group of student journalists began methodically digging into a pattern of on-campus sexual harassment that, the reporters believed, administrators weren’t handling effectively. Over weeks of rigorous investigation, the Oracle amassed a substantial archive of evidence including screenshots, photos and witness accounts. The story investigated alleged on-campus offenders and consulted experts about the need for accountability when it comes to on-campus assault.",
-    "When Phukan and her fellow reporters asked the school’s principal for comment about the administration’s perceived inaction, tensions escalated. In several closed-door meetings, Phukan says she was warned that such an article could have “catastrophic” reputational repercussions, for the alleged offenders and the school. The original draft included descriptions of serious offenses, ranging from harassment, to attempted rape."
-   ],
-   "img": "https://i.guim.co.uk/img/media/5e187f6adba911cc843f0583f7f1682786c0f54e/177_94_2823_2259/master/2823.jpg?width=140&quality=85&auto=format&fit=max&s=14e27d0c536303e6b4a2ed34d75188c6",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-6sep04privateequityboomhospitaljoblayoff",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Private equity faces existential crisis in US as unsold companies pile up",
-   "author": "Heather Timmons",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/us-news/2026/sep/04/private-equity-boom-hospital-job-layoff",
-   "paras": [
-    "Private equity firms and the companies they own employ over 13 million, from startups to rural hospitals and large retailers, but experts’ concerns of collapse are growing",
-    "Retail stalwarts Saks and Eddie Bauer filed for bankruptcy. Kmart and JoAnn Fabrics are gone for good, a trail of layoffs and disappointed customers in their wake. Hospital giant Steward Health Care collapsed, costing thousands of jobs and leaving several communities without a local hospital.",
-    "These once-trusted US companies have one thing in common: they were owned by private equity investors, who load companies with debt when they buy them and squeeze out profits as they restructure."
-   ],
-   "img": "https://i.guim.co.uk/img/media/27e9e848f8db8fad0d6918e436f3812ede95a13e/961_101_4039_3232/master/4039.jpg?width=140&quality=85&auto=format&fit=max&s=d10783347d99057c55c7488968f2c7dd",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-stakes2026yourweeklyguidetotheusmidterms",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Sign up to The Stakes 2026: your weekly guide to the US midterms",
-   "author": "Guardian Staff",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/us-news/2026/sep/04/sign-up-to-the-stakes-2026-your-weekly-guide-to-the-us-midterms",
-   "paras": [
-    "From the races and candidates to watch to the issues shaping American politics, The Stakes 2026 brings you expert analysis of what really matters in the US midterms."
-   ],
-   "img": "https://i.guim.co.uk/img/media/ecc215084c780794157eb431fb8b51e0af2219db/175_0_1540_1232/master/1540.jpg?width=140&quality=85&auto=format&fit=max&s=84746778ec3d13d673cf0c63a0577cfb",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-p04donaldtrumpwinningmidtermsuspresident",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "How much does Donald Trump care about winning the midterms? Apparently, not much at all | Jonathan Freedland",
-   "author": "Jonathan Freedland",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/04/donald-trump-winning-midterms-us-president",
-   "paras": [
-    "Such is the US president’s narcissism that he would see a Democratic victory as proof that he’s indispensable – meanwhile, his every decision spells calamity for voters",
-    "What is Donald Trump playing at? If it’s true that the best way of understanding the behaviour of an organisation is to assume it’s controlled by a secret cabal of its enemies, perhaps that same logic extends to the current conduct of the president of the United States. Maybe he secretly wants Republicans to lose the looming midterm elections that will decide the balance of power in the US for the next two years and for which the first postal ballots were sent out today.",
-    "That’s not as mad a theory as it sounds. Indeed, there are at least two reasons why Trump might either be unbothered by Republican defeat in November or even covertly desire it. We’ll come to those, but let’s start with a pattern of behaviour that is hard to explain as anything other than calculated self-sabotage.",
-    "Jonathan Freedland is a Guardian columnist"
-   ],
-   "img": "https://i.guim.co.uk/img/media/ce808299679820120e22af9c7df92de2e5f57833/426_52_2563_2051/master/2563.jpg?width=140&quality=85&auto=format&fit=max&s=d754b82247efdcc0cafcaf0eb377fef7",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026sep04georgelucasartmuseumlosangeles",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story?",
-   "author": "Matthew Cantor in Los Angeles",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/culture/2026/sep/04/george-lucas-art-museum-los-angeles",
-   "paras": [
-    "Spaceship-shaped gallery, featuring works from Banksy, Norman Rockwell and Frida Kahlo, is devoted to ‘visual storytelling’ – and is finally ready to open",
-    "“I’m used to doing the impossible,” George Lucas said on Wednesday. But “this one almost broke my will”.",
-    "The film-maker was describing the decades of work that went into his latest project, the Lucas Museum of Narrative Art, as it was unveiled to the press in Los Angeles eight years after breaking ground, following attempts to build it in two other cities. Shaped like a spaceship and towering over the nearby University of Southern California – Lucas’s alma mater – the long-awaited institution finally opens on 22 September. It aims to be a testament to visual storytelling across all kinds of media – paintings, comics, murals, photography, sculpture."
-   ],
-   "img": "https://i.guim.co.uk/img/media/ead4d773aca8ba9bcbc0896b87faf73b37ce5f4b/168_0_6497_5196/master/6497.jpg?width=140&quality=85&auto=format&fit=max&s=9eb35888b4ec52a25b883c703fce62ff",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sep04icecaliforniadetentioncontactvisits",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "ICE bans hugging inside California’s largest detention center. Families are fighting back",
-   "author": "Sam Levin in Los Angeles",
-   "date": "2026-09-04",
-   "url": "https://www.theguardian.com/us-news/2026/sep/04/ice-california-detention-contact-visits",
-   "paras": [
-    "In the California City facility, ‘contact visits’ are strictly forbidden – but detained residents aren’t staying quiet. Are officials listening?",
-    "Teresa Reyes drove 300 miles to be with her son on his 32nd birthday in May, but she couldn’t give him a gift, share a meal with him or give him a hug. She couldn’t even touch him.",
-    "Her son, Guillermo, a tattoo artist from San Jose, is locked up in the California City immigration detention center, California’s largest Immigration and Customs Enforcement (ICE) facility, and the only way he can see his mother is behind a thick pane of glass."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c44144ae2b2a7e0d2a8c94a5392b601177817c0f/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=9d066b920c3bb72945f5ef6b1d0f6cb3",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-ootssaysimthe12thmaniwanttorepresentthat",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "New Seahawks co-owner with deep Seattle tech roots says, ‘I’m the 12th man … I want to represent that’",
-   "author": "Kurt Schlosser",
-   "date": "2026-09-03",
-   "url": "https://www.geekwire.com/2026/new-seahawks-co-owner-with-deep-seattle-tech-roots-says-im-the-12th-man-i-want-to-represent-that/",
-   "paras": [
-    "Sunny Gupta has been a diehard Seattle Seahawks fan for almost 20 years, hosting tailgates and sitting in the exact same club-level seats with his family and friends since 2007. Now, the longtime Seattle tech entrepreneur is taking his place in the franchise’s new ownership group as a self-described “fan No. 1.”",
-    "With the sale of the team to the family of Silicon Valley billionaire investor Vinod Khosla finalized on Thursday , Gupta’s name appeared on a newly revealed list of co-owners. Nader Naini , managing partner at Seattle-based healthcare private equity firm Frazier Healthcare Partners, is also among the group.",
-    "For Gupta, it was an opportunity he couldn’t pass up — and a dream come true.",
-    "“I would have never considered investing or being in ownership in sports other than the Seahawks,” Gupta told GeekWire in an interview following Thursday’s announcement. “This is a dream come true of something I love so much. The city I love so much, fan base, the team.",
-    "“I’m the 12th man,” he added. “I want to represent that as a part of the ownership group.”",
-    "Gupta is best known in Pacific Northwest tech circles as the co-founder and former CEO of Bellevue-based enterprise software maker Apptio, which he guided through an IPO, a private equity buyout, and an eventual $4.6 billion sale to IBM in 2023. He recently served as executive chair at Smartsheet during its $8.4 billion acquisition, and earlier this summer launched his fourth venture-backed startup, an enterprise AI company called Thira , with $21 million in seed funding.",
-    "But fall Sundays are strictly about football for Gupta, who describes himself and his family as “complete supporters, rabid fans” since 2007. He estimates he’s missed two games in that time.",
-    "Together with his wife, son, and daughter, the family holds five season tickets. They’ve sat in the same seats alongside a tight-knit crew of friends for nearly two decades — and don’t plan to change things with the perks of ownership.",
-    "“When we were going through this, this was like the biggest debate in our family,” Gupta said. “We’ve never been suite owners. We like being in our club section behind the Seahawks sideline, and that’s where we love watching the game. All our friends are there … that’s our community.”",
-    "While Gupta hasn’t directly partnered on a startup with Vinod Khosla, their paths have frequently crossed in venture capital circles. Over a career raising funds for four separate startups, Gupta noted Khosla Ventures was always on the “short list” of firms entrepreneurs hope to align with. Joining forces on the Seahawks deal presented an ideal way to combine those two worlds.",
-    "“Seattle is mostly a tech story and it’s a Seahawks story,” Gupta said. “The ability to have these two worlds combine is like a dream.”",
-    "Beyond his personal fandom, Gupta expressed strong confidence in the team’s current leadership. He noted that he caught up this week on the final episode of HBO’s Hard Knocks in anticipation of Thursday’s sale completion, coming away energized by the culture built by general manager John Schneider and second-year head coach Mike Macdonald.",
-    "“I was fired up last night on just what a great organization it is and the amazing job Mike and John do,” Gupta said. “The ability to continue the winning culture and just continue to win and support our fan base and community — that’s what it’s all about.”"
-   ],
-   "img": "https://www.geekwire.com/wp-content/uploads/2026/09/sunnyhawk-1260x945.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-uponseahawkscoownerlistassaleisfinalized",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Two familiar Seattle tech figures turn up on Seahawks co-owner list as sale is finalized",
-   "author": "Kurt Schlosser",
-   "date": "2026-09-03",
-   "url": "https://www.geekwire.com/2026/two-familiar-seattle-tech-figures-turn-up-on-seahawks-co-owner-list-as-sale-is-finalized/",
-   "paras": [
-    "The sale of the Seattle Seahawks to the Khosla family officially closed on Thursday, completing a historic ownership transition for the NFL franchise. But a small surprise emerged in the final paperwork.",
-    "Nestled among a newly revealed co-owner lineup were a couple familiar names for the Pacific Northwest tech community: former Apptio CEO and longtime Seattle entrepreneur Sunny Gupta , and Nader Naini , managing partner at Seattle-based healthcare private equity firm Frazier Healthcare Partners.",
-    "Under the final transaction terms announced by the team, Vinod Khosla — the billionaire Silicon Valley venture capitalist who founded Sun Microsystems and Khosla Ventures — will serve as chair, while his wife Neeru Khosla steps in as controlling owner and president of the Seahawks Charitable Foundation. Their son Neal Khosla takes on the role of vice chair.",
-    "The conclusion of the sale brings to an end an era of ownership under the estate of late Microsoft co-founder Paul Allen, while keeping the franchise’s deep ties to the technology sector intact.",
-    "Gupta and Naini appear on a list of co-owners that spans prominent Silicon Valley venture capitalists, global private equity firms, institutional sports investors, and international business dynasties. They include:",
-    "When news of the Allen estate’s decision to sell the team first broke, speculation ran rampant — including on GeekWire — about which deep-pocketed tech titan with Seattle ties might step up with almost $10 billion.",
-    "Jeff Bezos, Bill Gates, Steve Ballmer, MacKenzie Scott, Satya Nadella, Rich Barton, Melinda French Gates — the list of mostly Seattle billionaires who took a pass was lengthy. The Khosla family emerged victorious, but at least brought along a couple heavyweights to keep the local tech flag flying.",
-    "Gupta brings deep roots in the region’s software ecosystem. He co-founded Bellevue-based enterprise software maker Apptio, guiding it through a public listing, a private equity buyout, and an eventual $4.6 billion sale to IBM in 2023. Gupta served as executive chair at Bellevue-based Smartsheet through its recent $8.4 billion private equity acquisition and launched enterprise AI startup Thira earlier this summer with $21 million in seed funding led by Madrona.",
-    "Naini grounds the group in local healthcare private equity and regional sports governance. He joined Seattle-based Frazier Healthcare Partners in 1991 and has led the firm since 1995, helping scale it to manage more than $11 billion in institutional capital globally. Based in Seattle, Naini serves on the board of the Triple-A Tacoma Rainiers baseball team and is active with regional community organizations, including Bellevue-based senior living developer Aegis Living.",
-    "The Seahawks will formally introduce the Khosla family via press conference next Wednesday at 11 a.m. PT at Lumen Field. The team opens the 2026 season and defense of its Super Bowl title that night against the New England Patriots."
-   ],
-   "img": "https://www.geekwire.com/wp-content/uploads/2026/05/lumen-1260x851.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-20260903pinehurststationopensseptember30",
    "srcKey": "stb",
    "cat": "transit",
@@ -1313,32 +1479,15 @@
    "annos": null
   },
   {
-   "id": "f-stranger-GF6UldrbWNMTUlMMnF3bnRqOW9qSmlFSmJ5NAoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Gloria Steinem Died, Kids Reject AI Stuffies, and American Health Organizations Are Releasing Their Own Vaccine Recommendations Since the CDC Is Utterly Useless",
-   "author": "",
-   "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOd1JHelViVWg1VnNGNG9QcHR0Vk03UGlCNGNHVS01aEJkZ2tXaWIwbkpZNTZGeC1tOTV5aWJTOHBMRk1nVDNndnhQOENFVW9PNldtZjJQRHY4MVFZanczSHhBTm5iWHFScW1JRC0tM3RRNEhqOEpLTEwtRnJfRXNxVzNkR0U5Nnh1U2J2ZEpVblRMMFpNUFczQzNVZU5QRHNXenloUHY2clc2LXpvdUFQckZPdHN6cUV4Qi1sTVFoTXJ6cllvZkdMY1dpaGxkblBtODdLMmZBYTlrbVVDbDVUQVhZYVBTUVJYQ1drMDNKR3U0Nk9MLXo0LThhTEphX05LckJmS3RuTGZnTkVhRDVyaGF6UldrbWNMTUlMMnF3bnRqOW9qSmlFSmJ5NA?oc=5",
-   "paras": [
-    "Slog AM: Gloria Steinem Died, Kids Reject AI Stuffies, and American Health Organizations Are Releasing Their Own Vaccine Recommendations Since the CDC Is Utterly Useless thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-nFDOW9lYmRuYjdlREsycG16OUlITDNXVUE5OAoc5",
-   "srcKey": "kuow",
+   "id": "f-invw-OSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFBoc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "Medicaid cuts are looming. Washington state is trying to help",
+   "title": "How Idaho punished an overdose patient as a trafficker",
    "author": "",
    "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVXNhU0FUX3M5NFgtLUxHdlp1ZW55a292WFVndHBTZXdtdDlmdTBCdnVybXBOYWhvaFNxVWV5eVpOMnZ1TG9GMnpFVVdveFdnSW9IeG1OQU93U3JxbUI3QWZLdm55MVlPSmVCd3ZWcEFFVnlHZVZQV2lGamxIUmlMc3plZ0I4dm54N1UxQnFDOW9lYmRuYjdlREsycG16OUlITDNXVUE5OA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
    "paras": [
-    "Medicaid cuts are looming. Washington state is trying to help KUOW"
+    "How Idaho punished an overdose patient as a trafficker InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1364,23 +1513,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-OSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFBoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "How Idaho punished an overdose patient as a trafficker",
-   "author": "",
-   "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
-   "paras": [
-    "How Idaho punished an overdose patient as a trafficker InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-VHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWsoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1390,6 +1522,23 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNFMkxCanZfSDdSeXhoVEFZZElDU3FVRHF6NDZIcWVLekFVUTlwal9mSjcyQ08xcTRXcW9rZlQ1Nlh3SXRWeEswRHhwS0lvSnVxcjZWQkR5Tmg1cjFWbVVYcXBaX1pfMEljUkdfa21TUzd6V0xaNVFLZ1pOb1ROa0RuUmVHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWs?oc=5",
    "paras": [
     "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-hGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takgoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+   "author": "",
+   "date": "2026-09-03",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nN21ZdVpVTU84aVhmNWlPNUpGaWdZSXRSZnZjLWVZVlVNOGUyNl9OQ1IwekN1YmxNZ1dycEFuQ2ZodHB3OXp6MTNRZ2JiX3MwZUJwT3hjWk5kTnVHNEdTOWhGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takg?oc=5",
+   "paras": [
+    "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1538,23 +1687,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-lEzN2szYURiYXBabF8zVkdVWUdyZHV6NFlVZwoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Tentative Deal With Teachers Avoids Strike, We Should Seriously Consider Reviving Victory Gardens, Dark Matter May No Longer Be So Dark",
-   "author": "",
-   "date": "2026-09-02",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMXdKRU5EcUlKVVF2MUMwbjBRdHVFWWNxRno5aHdrWUQ5N19WMGFweVBLSDhpVE1oMzBOZWJlTXEzQjVYaHdQanNOeHJpMHFiLVh2LURwODQ0akVMMEJ5dHg3R0tRYi1HR3J3Z0RiSjJhR1p0S1hQVGFwcmJfdXczZjBTVTJpREo0RFJHUmxwWW5POWVyb2ZRSGVNdV9KbGhrN2N2aG5hUlNCTTlTa0ptVHUwSDl0bHVfLVU5NzZhVFkwazlXUllNVFFHeHpDV09XTDh3UF94ZDBlY1dEMFdSUHJEXzJlYUR4ZGkzRHp2TlEzN2szYURiYXBabF8zVkdVWUdyZHV6NFlVZw?oc=5",
-   "paras": [
-    "Slog AM: Tentative Deal With Teachers Avoids Strike, We Should Seriously Consider Reviving Victory Gardens, Dark Matter May No Longer Be So Dark thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-Z6MjFfZnFpblhLbjZpcGFwOHFPS2F3QlJUbFIoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1700,40 +1832,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-3J2OEVsMWtpcUhBdzlkTVJObGhNWWRZWjNQQQoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "On Pike and Nowhere",
-   "author": "",
-   "date": "2026-09-01",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yUVBXZmhSdjQyUEl6LWJhM3RRQjlpcTZVLTBHN2taU0lEZUMtR0E1QTN3WFhaMkNqSlVyR1BZZEhIN3o5cUkxR3J2OEVsMWtpcUhBdzlkTVJObGhNWWRZWjNQQQ?oc=5",
-   "paras": [
-    "On Pike and Nowhere thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-HBVMkt0V281c0NFQVltTk1IbmE2aVN2cWhXdwoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "The New Seattle Transit Measure Could Make Night Buses Function",
-   "author": "",
-   "date": "2026-09-01",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNnVqLVNGUk1MdDQtczZhN2FOVkE2c09qcFF2OWhmM1M0dVBuQnk5REpiUGlaejlBMG5FajRneHV0UWkzbTY3RXNfUWRacFpqTkZJU3ZOVFJsMm1TVXNOTjFRQ2FzUkFtaFhKSHdyNzFBbU1MT2t4RlVfM2pSYzF6S1BodHBVMkt0V281c0NFQVltTk1IbmE2aVN2cWhXdw?oc=5",
-   "paras": [
-    "The New Seattle Transit Measure Could Make Night Buses Function thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-FveGlLZ2xVcGdPLWRpcXJMNm5jTXVMdFFnNGcoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1760,23 +1858,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUhIZUJZYzZwSVJkdHJfRjV1Y3FwbWtEeFlnbzM1c01OVU5TSjRWYTNab3JwVzBzS0N2TGhwYnVjTGFVZGdHS2U2WXh0cmxmcGpyV3lJcHZyRGY5NUJyMG5UbnFpQ2lhaWw1b0ZBMmdhOVlkZUFENXlFUjYtcjFpYTRNTldHa1Zo?oc=5",
    "paras": [
     "When plastic companies write the lesson plans grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkEoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Help Us Investigate Abusive Coaches in Youth Sports",
-   "author": "",
-   "date": "2026-09-01",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajhfX0RYNXVnWkVqenFoMkY3RF9Vcm5LWVQ4UVdVcDUxZGx3cFpENzZ1NXZnNklmY1FlU0NJZTR3M3FZakdMSi02d21KSTVQVWpVMXFkeFU1eUh6bGRVSzQxb3dMNHlHR3BYR0lKMEtOWWEzakJjeXlnS2ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkE?oc=5",
-   "paras": [
-    "Help Us Investigate Abusive Coaches in Youth Sports ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1830,30 +1911,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-forourcitynerdtalkplusacallforvolunteers",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Announcing Special Guests for Our CityNerd Talk, Plus a Call for Volunteers",
-   "author": "Diego Batres",
-   "date": "2026-08-31",
-   "url": "https://www.theurbanist.org/announcing-special-guests-for-our-citynerd-talk-plus-a-call-for-volunteers/",
-   "paras": [
-    "We are looking for volunteers to help handle check-in and act as ushers. Volunteers will receive free entry to the event in return for arriving early to help set up. If you are interested in volunteering, email Diego@theurbanist.org .",
-    "On September 15, The Urbanist is hosting a talk at Town Hall Seattle featuring Ray Delahanty of CityNerd , our contributing editor Ryan Packer, and special guests Seattle City Councilmember Alexis Mercedes Rinck and King County Councilmember Claudia Balducci.",
-    "Get your general admission tickets while supplies last. We're excited to welcome our special guests, who represents two bright stars in local urbanist policymaking.",
-    "Alexis Mercedes Rinck was first elected to Seattle City Council in 2024, winning a special election for citywide Position 8. In 2025, she defended that seat, winning an impressive 81% of the vote. In both elections, she had the endorsement of The Urbanist Elections Committee, with a strong platform on housing, transit, and safe streets. Recently, you might find her painting a bus lane for Route 8 or pushing to accelerate pedestrian safety upgrades .",
-    "Claudia Balducci has served on the King County Council since 2016 and on the Sound Transit Board of Directors since 2010. Before joining county council, she was a Bellevue City Councilmember and Mayor. She has been a key leader on the Sound Transit board, including a long run as Chair of the System Expansion Committee that just ended earlier this year. She has also led on housing, establishing and co-leading the Regional Affordable Housing Taskforce and chairing the King County Affordable Housing Committee. She has earned The Urbanist Elections Committee's endorsement multiple times.",
-    "General doors open at 6:30 pm; the main event begins at 7 pm and runs until 8:30. Seating is open – tickets do not correspond to a specific seat and only guarantee entry to the event.",
-    "Pre-reception tickets are currently sold out, but may become available again if refunds occur. Ticket refunds are available, although a small portion (~3%) of the ticket price is kept to cover processing fees.",
-    "There will be ASL interpreters, as well as space reserved for those with wheelchairs and other accessibility needs.",
-    "What : A talk featuring Ray Delahanty of CityNerd, Urbanist reporter Ryan Packer, and special guests Seattle City Councilmember Alexis Mercedes Rinck and King County Councilmember Claudia Balducci. The discussion will focus on recent light rail expansions and the next round of transit expansion and transit-oriented development in our region. Where : Town Hall Seattle, 1119 8th Ave, Seattle, WA 98101 When : Tuesday, September 15, Pre-reception ($65) is 5:45 pm-6:30 pm, General Admission ($35) main event is 7 pm- 8:30 pm. Transit Stops : 1 Line (Symphony Station), Routes 2, 60, RapidRide G Line (not an exhaustive list) RSVP : RSVP here"
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/Urbanist-x-CityNerd--3-.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-eater-tleeatercommapsseattlerestaurantviewsmap",
    "srcKey": "eater",
    "cat": "food",
@@ -1871,40 +1928,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/06/Little-Bens.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-Sd1V3R0RaN0FvMmVoZU11X1ZKVE1oVV9qTE9Foc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Stranger Suggests: Your Agenda This Week, August 31–September 6",
-   "author": "",
-   "date": "2026-08-31",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2NnVFNvQ0dQMlZEZ1J4MTBzVFdNOExGVGp2VWdteVh3SFVyWXZ0U3ZWeG5JVEdNZTI1VDJqV29BZzAxRGZqa1pXMVNBcXYzQU9INDQ0d2g1U3ZBZWlrYm05dTRTVEw1dUlNSzNyVmlFUjJPOU1qeFhac3I4Zjd6S01sYWtSd1V3R0RaN0FvMmVoZU11X1ZKVE1oVV9qTE9F?oc=5",
-   "paras": [
-    "Stranger Suggests: Your Agenda This Week, August 31–September 6 thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-10V2IycUEzWko0UEV4VmVtUERpbHJycVZublYoc5",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: War’s on Again, ICE Detains Man with Stage 4 Cancer, Pike Place Decides to Increase Our Chances of Being Hit By a Car",
-   "author": "",
-   "date": "2026-08-31",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONUpIWWtLaUt6QWhnaFhzRldCR01UYW1uNzhtMUxvOFViWFpLX0dvWmRFOHlrS1RWWXlHZXl5N0lZUkFFVFdnZ2NjeDRZazlIUnlsZGFEOVNudmxmWDh5d0txM3M5REo5QzBLcWE0Z0U0QmRiVHFIUFpNMlV1YmRUd0dfUlZxcUdhWUhGQm5JblJLd0M3VkhyMjlJZVJpWnNacEhXSldMc0twUWhvNGw3WnVWZU9YT1JEWDd1LWFOQkRHZlFQcW5VYmZ1R2dvTXlpNUVKcE10V2IycUEzWko0UEV4VmVtUERpbHJycVZublY?oc=5",
-   "paras": [
-    "Slog AM: War’s on Again, ICE Detains Man with Stage 4 Cancer, Pike Place Decides to Increase Our Chances of Being Hit By a Car thestranger.com"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1995,46 +2018,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-chavezsnameassouthparkweighsparkrenaming",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Beacon Hill Garden Drops Cesar Chavez's Name as South Park Weighs Park Renaming",
-   "author": "",
-   "date": "2026-08-26",
-   "url": "https://southseattleemerald.org/news/2026/08/26/beacon-hill-garden-drops-cesar-chavezs-name-as-south-park-weighs-park-renaming",
-   "paras": [
-    "Update : After this article was published, Seattle Parks and Recreation announced on Sept. 2 that the City-managed park formerly known as Cesar Chavez Park will be named Parque Libertad. The article has been updated to reflect this new information.",
-    "For years, several South End locations bore the name of prominent Latino labor leader Cesar Chavez. But months after news reports detailed allegations that Chavez had sexually abused young women and teenagers, local sites have either been renamed or are being considered for new names.",
-    "Community leaders were initially shocked and unsure how to address the various places that honored him, including a garden at El Centro de la Raza in Beacon Hill and a city-managed park in South Park. Chavez's name and image were also found in a museum dedicated to Latino history in Washigton state.",
-    "In March, an investigation by The New York Times found that Chavez, a labor and Latino civil rights activist who advocated for farm workers and led national boycotts, had groomed and sexually assaulted numerous girls from 1972 to 1977. The investigation also found that he had sexually assaulted Dolores Huerta, a fellow labor leader who cofounded the United Farm Workers with Chavez. Chavez died in 2013.",
-    "At El Centro, the garden had a banner that bore Chavez's name. Veronica Gallardo, the director of facilities and cultural events at El Centro, said that after news of the allegations broke, his name was covered with tape, upon which someone wrote, \"We stand with Dolores.\"",
-    "When the banner was altered, Gallardo said El Centro knew something needed to be done, so the organization removed the name and started thinking about what to call the garden.",
-    "\"You have to really be thoughtful in the process,\" Gallardo said.",
-    "At first, Gallardo said El Centro considered naming the garden after Huerta but ultimately settled on \"El Centro Demonstration Garden\" because it better represented the local community.",
-    "\"The demonstration garden is a community garden, so it was really important for us to just rename it 'El Centro Demonstration Garden,' because that's what it is.\"",
-    "The garden at El Centro is maintained by volunteers through the King County Master Gardener Program, a branch of the Washington State University Extension Program. Food harvested from the garden is used for the food bank. The garden also hosts a variety of educational opportunities and community events.",
-    "El Centro said in a March statement that it would remove public art throughout Roberto Maestas Plaza along with images of Chavez displayed on traditional altars.",
-    "After the investigation was published, places across the United States began removing Chavez's name or considering new names. The state of California renamed Cesar Chavez Day to Farm Workers Day, and Austin , Texas, is considering renaming a street.",
-    "The Sea Mar Museum of Chicano/a Latino/a Culture in South Park is dedicated to telling the stories of Latinos/as in Washington state. Erasmo Gamboa, the museum's curator, said that when the allegations against Chavez surfaced, the museum immediately worked to remove almost everything with his name or image.",
-    "\"It was devastating when the country learned about this, because we have very few icons,\" Gamboa said. \"No person, man or woman, should be excused for what Chavez did to these young people and to Dolores Huerta. I mean, that is just outright inexcusable.\"",
-    "But while the museum's focus was never on Chavez, Gamboa said his efforts inspired numerous farmworker movements in Washington, many of which were grassroots campaigns led by University of Washington students and community members.",
-    "Chavez spent little time in Washington, Gamboa added. He spoke at a rally at Garfield High School on Dec. 19, 1969. Earlier that day, Chavez had led a picket outside a Safeway in the University District and was named a First Citizen of Seattle by Mayor Wes Uhlman.",
-    "\"To me, the more important thing is not Chavez himself, but … what farm-working people experienced in Washington state, and we're going to continue to focus on that,\" Gamboa said.",
-    "In South Park, a small park at 700 S. Cloverdale St., under Highway 99, was named after Chavez. The land is owned by King County but managed by Seattle Parks and Recreation.",
-    "Shortly after the investigation was published, the city took down signs with Chavez's name. Seattle City Councilmember Alexis Mercedes Rinck and King County Councilmember Teresa Mosqueda have pushed for the park to be named after Huerta.",
-    "On Sept. 2, the park's new name was announced : Parque Libertad.",
-    "\"Libertad (“freedom”) is a universal value that reflects the enduring pursuit of civil rights, equality, and opportunity for all,\" said Michele Finnegan, Seattle Parks and Recreation interim superintendent. \"Parque Libertad honors the many individuals and communities who have advanced justice throughout Seattle’s history while creating a welcoming, inclusive place that celebrates freedom, belonging, and civic participation for future generations”",
-    "The city's park naming policy states that name changes can occur only if the individual's character does not serve the best interest of the community or conflicts with the department's mission and values.",
-    "The name change for the park occured after an administrative process involving both the city and county rather than through legislation. Any proposed names had to meet certain criteria, such as having historical or cultural significance or reflecting the geography of the area. Names could also honor indidivuals who have been deceased for at least three years or who made significant contributions to parks, recreation, or culture in the local community.",
-    "Community members were invited to provide input to the parks naming committee by April 14. Approximately 120 submissions were submitted, according to the city parks department. The committee reviewed suggestions and submited a recommendation to the superintendent of Seattle Parks and Recreation, who will made the final naming decision.",
-    "The city parks department made the announcement about the park's new name on Sept. 2."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-08-25/147pa64n/2026.03.19-Cesar-Chavez-Name-Removal-by-Jacquelyn-Jimenez-Romero-001.jpeg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
