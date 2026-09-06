@@ -1,6 +1,6 @@
 {
- "builtAt": "2026-09-05T17:48:36.799Z",
- "builtFor": "2026-09-05",
+ "builtAt": "2026-09-06T17:53:26.389Z",
+ "builtFor": "2026-09-06",
  "builtHour": "10",
  "count": 88,
  "sources": [
@@ -32,7 +32,7 @@
   {
    "source": "emerald",
    "count": 2,
-   "via": "feed"
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -86,6 +86,446 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260830",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Aug. 30, 2026",
+   "author": "GeekWire",
+   "date": "2026-09-06",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-08-30/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Aug. 30, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Stuart Reges was disciplined by the University of Washington after including a parody land acknowledgment in a course syllabus. The U.S. Court of Appeals for the Ninth Circuit found university officials violated Reges’ academic freedom rights. Read More … Read More",
+    "Nestled among a newly revealed co-owner lineup were a couple familiar names for the Pacific Northwest tech community: former Apptio CEO and longtime Seattle entrepreneur Sunny Gupta, and Nader Naini, managing partner at Seattle-based healthcare private equity firm Frazier Healthcare Partners. Read More … Read More",
+    "The 17,459-square-foot space at the north end of Lake Union is situated at the epicenter of the city’s bike culture along the busy Burke-Gilman Trail. Chief Commercial Officer Ben Steele is heading up the office. Read More … Read More",
+    "“I would have never considered investing or being in ownership in sports other than the Seahawks,” Sunny Gupta told GeekWire. “This is a dream come true of something I love so much. The city I love so much, fan base, the team.” Read More … Read More",
+    "The largest single concentration of cuts is at the SEA106 building in Bellevue, where 49 employees — ranging from entry-level software development engineers and applied scientists to a vice president of legal and senior software managers — were notified. Read More … Read More",
+    "A new Redfin report reveals a sharp divide between the West Coast’s top tech hubs: as OpenAI and Anthropic fuel a housing resurgence in San Francisco, Seattle real estate stalls amid widespread job cuts across the regional tech ecosystem. Read More … Read More",
+    "From pedal-by-wire mechanics to regenerative braking, the micromobility startup’s TM-B treats hardware like software — and flattens Seattle’s steepest hills. Read More … Read More",
+    "Microsoft is shuffling leadership, naming Aneesh Raman chief economic opportunity officer and promoting Jenny Lay-Flurrie to CVP of the Trusted Technology Group. Zillow has a new policy lead while Oracle, Hiya and DAT Freight & Analytics see departures. Read More … Read More",
+    "Today, plush toys aren’t just stuffed — they’re stuffed with artificial intelligence, and new research from the University of Washington reveals that when these “smart” toys start chatting, kids quickly go from curious to frustrated to outright hostile. Read More … Read More",
+    "Resect AI, an artificial intelligence startup led by a team of scientists and engineers in Washougal, Wash., launched out of stealth Thursday. Read More … Read More"
+   ],
+   "img": "https://www.geekwire.com/wp-content/uploads/2026/09/stuart-reges-05-200x133.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ayvideoisminneapolistooniceforitsowngood",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sunday Video: Is Minneapolis Too Nice for Its Own Good?",
+   "author": "Doug Trumm",
+   "date": "2026-09-06",
+   "url": "https://www.theurbanist.org/sunday-video-is-minneapolis-too-nice-for-its-own-good/",
+   "paras": [
+    "Ray Delahanty of CityNerd ( a Youtube channel ) returned to Minneapolis to make another video exploring Minnesota's Mini-Apple, and the new transportation improvements since his last visit continued to impress the former transportation engineer. For example, Metro Transit's new E Line has improved the Lake Street corridor with enhanced service meeting some bus rapid transit (BRT) characteristics.",
+    "Delahanty hailed the bike network as the best big city network in America. In addition to a remarkable off-street bike network snaking around lakes and Mississippi riverfront, Minneapolis is increasingly added excellent on-street projects adding protected bike lanes. (As a former Minneapolis resident, the FOMO is rough!) In fact, Delahanty said Minneapolis might be setting the standard for multimodal street redesigns with its Hennepin Avenue overhaul.",
+    "CityNerd fans have a chance to see him live in Washington state at the Town Hall Seattle talk we are co-hosting , with Ryan Packer moderating and two local urbanist-minded officials make guest appearances. Tickets are going fast. So, get one while you can."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/CityNerd-Minneapolis-too-good.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-om20260906sundaymovietheamtrakcompromise",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: The Amtrak Compromise",
+   "author": "Mike Orr",
+   "date": "2026-09-06",
+   "url": "https://seattletransitblog.com/2026/09/06/sunday-movie-the-amtrak-compromise/",
+   "paras": [
+    "The transcontinental railroad, explained. (Daniel Steiner)",
+    "Why Amtrak’s long-distance trains exist. With a trip on the Empire Builder to Seattle. (The Flying Moose)",
+    "Where are American’s trains? A satirical look at the past and present of American passenger trains. (Climate Town)",
+    "Musical interlude: Trans Europa Express and Trans Europe Express , by Kraftwerk, 1977. The 1991 version for “The Mix” album has the best arrangement and sound quality. Live version with real trains and the two following instrumental parts."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-tovercapitolhilljacksongunfireclubzdeath",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "911 | WSP plane’s ’96 in a 60′ pursuit over Capitol Hill, Jackson gunfire, Club Z death",
+   "author": "Justin Carder",
+   "date": "2026-09-06",
+   "url": "https://www.capitolhillseattle.com/2026/09/911-wsp-planes-96-in-a-60-pursuit-over-capitol-hill-jackson-gunfire-club-z-death/",
+   "paras": [
+    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group .",
+    "SPD reports building fire heroism : The Seattle Police Department is applauding a rookie officer for joining a veteran cop in helping rescue people from a fire last week in an historic E Madison apartment building. CHS reported here on the just after 5:15 AM fire Monday in the 1912-era Olympian Apartments in the 1600 block of E Madison. SPD says its two officers were first to see the flames from the fire and rushed in to help: On August 31st, just after 5:00 a.m., officers spotted flames coming from a second story apartment window in the 1600 block of East Madison Street. Officers broke the glass of the lobby door to enter, then ran up the stairs till they found the burning unit. Police kicked at the door, until the disoriented 28-year-old resident opened it. Officers evacuated the man from his burning, smokey unit, but not before asking if he had any pets that needed to be saved as well. SPD says multiple officers ended up responding in the minutes before Seattle Fire arrived to battle the apartment unit fire. According to SPD, the building’s fire alarm “was not sounded.” “Officers ran up flights of stairs, yelling for residents to leave and banging on their doors,” SPD reports. “When the rescue efforts became too dangerous, officers evacuated the building while the Seattle Fire Department prepared to begin fighting the flames.” CHS is following up to learn more about the situation and why the building’s fire alarm system did not alert residents. There were no reported serious injuries."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/chs-1014.jpg?resize=400%2C308&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-brothercrashcapitolhillstayoutofdrugarea",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Wealthiest Puget Sound ZIP Codes, Brian Fairbrother crash, Capitol Hill ‘Stay Out of Drug Area,’",
+   "author": "CHS Staff",
+   "date": "2026-09-06",
+   "url": "https://www.capitolhillseattle.com/2026/09/this-week-in-chs-history-wealthiest-puget-sound-zip-codes-brian-fairbrother-crash-capitol-hill-stay-out-of-drug-area/",
+   "paras": [
+    "Here are the top stories from this week in CHS history:",
+    "Roma Roma — with Roman pizza ‘by the cut’ — coming to Capitol Hill’s 12th Ave",
+    "Capitol Hill: New home of the two wealthiest Puget Sound ZIP Codes",
+    "Amid ongoing twin crises of affordability and homelessness, final debates for Seattle’s next 20-year growth plan include neighborhood borders and ‘bees and trees’",
+    "Report: King County Council mulling pause in Broadway Crisis Care Center process — UPDATE",
+    "Amid new police cameras and catenary lights, Capitol Hill ‘Stay Out of Drug Area’ now leads the city in banishment orders",
+    "Amid efforts to address Broadway/Pike public safety concerns, Capitol Hill’s Harvard Market put up for sale — UPDATE",
+    "Pride and repairs after vandalism targets Capitol Hill’s rainbow crosswalks and bus stop",
+    "‘5 things I learned from visiting Amsterdam this weekend’ — District 3 council member locks down social media after Dutch slavery controversy",
+    "‘A big percentage’ — Marking CHOP’s real borders as Capitol Hill tuned in to Trump-Harris debate",
+    "Study: The air on Seattle’s trains and buses is safe — and likely to contain meth and fentanyl",
+    "After 35 years on Capitol Hill, Machiavelli family growing with new restaurant in Edmonds",
+    "Eight-story E Olive Way development finally ready for last step in Seattle design review process",
+    "Xóm ready to create a new Vietnamese food+drink ‘neighborhood’ in Capitol Hill’s Chophouse Row",
+    "‘Haze’ — 2022 Seattle smoke season is here (for the weekend?)",
+    "Seattle approves cannabis equity legislation",
+    "When it is finally reborn, Capitol Hill’s Coastal Kitchen will be a changed restaurant with plans for another 30 years on 15th Ave E",
+    "Old home destined for demolition to make way for townhouse project burns on 13th Ave — UPDATE",
+    "‘You are ordered to disperse’ — Echoes of CHOP as SPD arrest on Broadway draws large crowd — UPDATE",
+    "How Mandatory Housing Affordability and Seattle’s congested growth made this Central District pot shop the hottest property on the block — UPDATE",
+    "Ready to ‘lean into really dark,’ Anchorhead Coffee opening new bakery and cafe on Capitol Hill",
+    "King County ‘vaccine verification’ system could start in October",
+    "https://clicky.com/stats/content?site_id=18685&date=2011-09-06,2011-09-12",
+    "Area 51, providing excellent window shopping for 17 years, cuts back prior to ‘building re-tenanting’",
+    "City Council will consider 65-foot height to clear path for 23rd and Union project",
+    "Stranger sued over Drunk of the Week photo",
+    "Teen victim flees to community center after 23rd Ave shooting",
+    "Have a Jack Daniels and an Amstel Light to honor the passing of Don Stevens, owner of Bill’s off Broadway",
+    "Vivace general manager suffers brain injury in cycling crash — UPDATE",
+    "Capitol Hill street a movie set for big ’21 and Over’ stunt scene",
+    "‘Until safety is restored’ — East Precinct commander cracks down on Cal Anderson",
+    "Planned 4-story apartment project to replace craft store, Capitol Hill Hair on 19th Ave E",
+    "$5 A MONTH TO HELP KEEP CHS PAYWALL-FREE Subscribe to CHS to help hire writers and photographers to cover the neighborhood. CHS is a pay what you can community news site with no required sign-in or paywall. To stay that way, we need you. Become a subscriber to help us cover the neighborhood for $5 a month -- or choose your level of support"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2025/09/chs-1648.jpg?resize=584%2C488&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-stfarrightpartybigleadinregionalelection",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "German exit polls suggest far-right party has big lead in regional election",
+   "author": "The Associated Press",
+   "date": "2026-09-06",
+   "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+   "paras": [
+    "The Alternative for Germany party has a strong lead in a regional election, but it is unclear if it will be able to form Germany's's first far-right state government since WWII, exit polls indicate."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3376x2251+0+0/resize/3376x2251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F2b%2F18c9cb3346b3b36ea5ce83575239%2Fap26249325207672.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-limsaregivingtexasbarbecueahalalmakeover",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "American Muslims are giving Texas barbecue a halal makeover",
+   "author": "Ulaa Kuziez",
+   "date": "2026-09-06",
+   "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+   "paras": [
+    "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2F2b%2Fcc0a68c641f981b2346c526efb82%2Fzain.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-voyswitkoffkushnertalksinkyivputinmoscow",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
+   "author": "Willem Marx",
+   "date": "2026-09-06",
+   "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+   "paras": [
+    "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+    "(Image credit: Ukrainian Presidential Press Office)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2Fcd%2F454acd8541d59880f3313ee32ee7%2Fap26249429753138.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-aterhowmuchdoyouknowaboutprocrastination",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+   "author": "Malaka Gharib",
+   "date": "2026-09-06",
+   "url": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+   "paras": [
+    "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination ."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7566x4256+0+0/resize/7566x4256!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F00%2Fbb1f69d044a29ad8ee900372c7fe%2Fgettyimages-1356871041.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-20260906gs1141564kindnessrespectfeelings",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+   "author": "Laurel Dalrymple",
+   "date": "2026-09-06",
+   "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+   "paras": [
+    "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+0/resize/3200x1800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fad%2Fa795ff7f47eca88f9418ea36d6a6%2Fkindness-illo.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc6248nvqy8poatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescy4zejgz3z9oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "German far-right set for big win in eastern state - projections",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescrer948xq00oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesclyqvkyekkeoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Jamaica to bring slavery reparations petition to King Charles",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The King will be asked to refer three questions to the Judicial Committee of the Privy Council."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1117/live/e61ec6c0-a9fe-11f1-921b-6365210e1c9d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescp8d56w7d9poatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescvgy5k4n07koatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/e97333d0-a9fc-11f1-b109-879e35c24276.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026sep06arsenalvchelseapremierleaguelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Arsenal 2-1 Chelsea: Premier League – live reaction",
+   "author": "Rob Smyth",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
+   "paras": [
+    "Martin Odegaard swept the winner and Kai Havertz was majestic as Arsenal came from behind to dominate Chelsea",
+    "There’s been a second goal at Hill Dickinson Stadium. Clickity click click click!"
+   ],
+   "img": "https://i.guim.co.uk/img/media/68c1c975959b6c727d6f9b617a1f0dc2ae49c68a/300_79_2776_2221/master/2776.jpg?width=140&quality=85&auto=format&fit=max&s=21759e24806574bade069b2417e96a57",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-edalytimeofmonstersfutureliberalismessay",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
+   "author": "Waleed Aly",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
+   "paras": [
+    "It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours",
+    "Get our breaking news email , free app or daily news podcast",
+    "Depending on your politics, the monsters are everywhere. Perhaps you see them in the form of tech billionaires and the artificial intelligence they’re developing. Perhaps you see them in the bin fire of social media they bequeathed us before that, or the legacy media that refuse to tell you “the truth”. You might see them in the manosphere, or the institutions teaching our kids gender fluidity. Maybe you see them in the migrant youth wielding machetes in the suburbs, or the refugee attempting to behead someone on a Belfast street. Or perhaps you see them in the violent anti-immigrant mobs that torched houses in response. If so, you’ll likely see them in the Marches for Australia or to Unite the Kingdom rallies, organised by far-right groups but attended by many more besides. You’ll almost certainly see them in at least one of Hamas, Israel or those local advocates at each other’s throats over the Middle East. I suspect you’ll see them in Russia but that can no longer be assumed. And I’d guess that you’d see them in at least one political party with a significant share of the vote.",
+    "Something in that paragraph probably outraged you. In which case, you’re probably seeing monsters in whoever sees different monsters from you. It would be easy here to make a point about polarisation. But I want to look at the deep disquiet that lies underneath."
+   ],
+   "img": "https://i.guim.co.uk/img/media/fa5f40e391219a1fec7a924aa5a1ed79acf1f5d3/1_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0606e8436d8336f568f7bce29639918c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-annewbookscienceofageingcognitivedecline",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Let your mind wander, don’t retire and stop worrying: surprising ways to help save your brain from the cognitive cliff",
+   "author": "Guardian staff speak to Dr Norman Swan",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/07/dr-norman-swan-new-book-science-of-ageing-cognitive-decline",
+   "paras": [
+    "In his new book, The Brain Cliff, Dr Norman Swan outlines the science of brain ageing and strategies for staving off cognitive decline",
+    "You write that “changing the way you think about the brain cliff can literally change the way you think and remember”. How?",
+    "Dr Norman Swan: There are three things you need to know which are not widely known."
+   ],
+   "img": "https://i.guim.co.uk/img/media/fa2a3a49214b65552eb52a9927beb1160a35a7f6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=50f223bf946b3331aeee768ad62ef776",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-rtificialintelligencewhatparentsneedknow",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+   "author": "Daniel Susskind",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+   "paras": [
+    "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children embrace it without forgetting core skills?",
+    "When I was growing up, my dad and I often talked about a story we wanted to write together. It was called “The Day Nobody Went to Disneyland”. One day, the story goes, the weather is so perfect that everyone in the world decides to stay away from Disneyland because they expect it to be far too busy. But my dad, who has the same thought as them, sees the disappointment on my face that morning – and decides to risk it. We set off. And when we arrive, the park is completely empty. Nobody else was brave enough to visit. We have everything – the rides, shows, food – to ourselves.",
+    "I loved the idea of writing that story. But, as so often happens, we were too busy to do anything about it. Life ran away from us. I grew up, and we both forgot about it."
+   ],
+   "img": "https://i.guim.co.uk/img/media/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=8066ccdbe01ebc63ddd76685f9f5638a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-e2026sep06tupacshakurmurderinvestigation",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Tupac trial spotlights decades of US police failures in solving the case",
+   "author": "Lois Beckett",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
+   "paras": [
+    "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest",
+    "For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur ’s murder on the lack of cooperation from key witnesses, and on gang members’ “snitches get stitches” culture.",
+    "But testimony in a much-delayed murder trial, which concluded this week , almost 30 years after Shakur’s death, highlighted just how much law enforcement officials knew about the shooting, and how early."
+   ],
+   "img": "https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b28828f32e9a7d085c7daeb0fba899ae",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-torinterviewgameofthronespracticalmagic2",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
+   "author": "Simran Hans",
+   "date": "2026-09-06",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2",
+   "paras": [
+    "After her role in the fantasy series, the actor felt lost. Now she’s getting relationship advice from Sandra Bullock and Nicole Kidman, and following a Sex and the City star’s mantra: never be anywhere you aren’t enjoying yourself",
+    "Maisie Williams has dabbled in witchcraft exactly once. The actor was getting ready to audition for a part in a film. “I wanted it so badly that I went on to Etsy, and I paid a witch to manifest me the role,” she says, poker-faced.",
+    "“It didn’t work, and that was where my days of witchcraft ended,” she adds, breaking into an infectious cackle."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9f4daa50e0d53bc833cff96ce16fa3efb95d0a03/0_415_5772_4617/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=dec0f30747c6a422dfc7e81d39fb604c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-com2026cowboyspacekentorbitaldatacenters",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Cowboy Space leases a huge facility in the Seattle area to produce hardware for orbital data centers",
+   "author": "Alan Boyle",
+   "date": "2026-09-05",
+   "url": "https://www.geekwire.com/2026/cowboy-space-kent-orbital-data-centers/",
+   "paras": [
+    "California-based Cowboy Space is leasing a 291,035-square-foot industrial facility in Kent, Wash., to support the production of hardware for its planned constellation of AI data center satellites, according to the company that arranged the lease.",
+    "“ According to Newmark Research , the transaction is the largest industrial lease in the Puget Sound region year-to-date,” Newmark, the real estate broker for the deal, said in a news release . Newmark represented CenterPoint Properties , Cowboy’s new landlord.",
+    "The facility at 7650 S. 228th St. previously served as a Costco distribution and delivery center . “This building was originally designed for large-scale logistics users, but Cowboy Space recognized the opportunity to reimagine it as a highly specialized production facility,” said Taylor Hoff, a vice chairman at Newmark’s office in Bellevue, Wash.",
+    "Newmark said Cowboy Space plans to convert the facility into a manufacturing operation supporting space and rocket development. The operation is expected to add 300 jobs, Newmark said. Cowboy is currently listing 46 Kent-based positions in its careers database .",
+    "The city of Kent, which is about 20 miles south of Seattle, is one of the hotspots for space companies in the Pacific Northwest. Boeing’s Kent Space Center remains active more than 50 years after building NASA’s Apollo moon rovers. The city also hosts Jeff Bezos’ Blue Origin space venture and Stoke Space , which was founded by Blue Origin alumni.",
+    "Cowboy Space, previously known as Aetherflux, plans to send its own rockets into low Earth orbit starting as early as 2028, with the upper stages outfitted to serve as solar-powered orbital data centers. The Stampede constellation is one of several planned projects aimed at getting around the land, power and water constraints that have made ground-based AI data centers increasingly controversial.",
+    "“We are building what I call the last big clean-sheet launch vehicle in my lifetime, so it’s going to be a very big heavy-lift vehicle, and we’re working every day to bring it to reality,” Warren Lamont, Cowboy Space’s head of launch and propulsion, said this week in a LinkedIn video . Lamont, who previously worked for IonQ and Blue Origin, is one of the executives heading up Cowboy Space’s engineering hub in the Seattle area .",
+    "The company announced in May that it raised $275 million in a Series B funding round , in part to expand its production capability. Cowboy is collaborating with Nvidia to deploy the chip giant’s Nvidia Space-1 Vera Rubin Modules in orbit. And in July, it secured a deal to test its propulsion system at NASA’s Stennis Space Center in Mississippi.",
+    "“We’re really excited to get into first engine hot-fire next year,” Lamont said.",
+    "Cowboy Space’s potential competitors include SpaceX , which wants to launch up to a million AI-processing satellites ; and Redmond, Wash.-based Starcloud , which is setting up a production facility in Woodinville, Wash. , and seeking authorization for up to 88,000 data center satellites .",
+    "We’ve reached out to Cowboy Space and will update this report with any new information."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/260905-cowboy2-1260x677.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-tsfvsseattlehousingandaseahawkstechtwist",
    "srcKey": "geekwire",
@@ -167,372 +607,6 @@
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/51071181738_cc5b870c62_k.jpg",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-260905theroundupshouldspdgoallinondrones",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Should SPD Go All In on Drones?",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://southseattleemerald.org/newsletters/2026/09/05/the-roundup-should-spd-go-all-in-on-drones",
-   "paras": [
-    "This week, we're doing things a little differently. I've been asking for submissions to \"Mike's Mailbag,\" and I received an interesting inquiry that took some reporting to answer.",
-    "What do you think about drones for the police? After a Seattle family member had a gun battle erupt next to their house and it seemed the perpetrators were not going to be caught and I learned that other cities nearby such as Renton are allowing their police to use drones for 911 calls, I got to wondering why not SPD?",
-    "Admittedly, I wasn't aware of the Renton Police Department's drone program. The first thing I needed to do was reach out to them for a little background. Here's what I learned from the desk of Officer Michael Thompson, the drone project manager:",
-    "\"The Renton Police Department started their drone program in 2015 as a result of new technology becoming available. It was introduced to the department as a way to capture more data, faster for serious collisions. At the time the traditional way of capturing data was using survey equipment and would keep roads closed for hours. The introduction of drone technology allowed for more points of data to be collected in about 30min. The department had to no longer rely on a ladder truck from the fire department to capture photos of the scene from an aerial perspective. This allowed for roads to be opened faster and more information to be collected to assist in the investigation.\"",
-    "Since then, the drone program has expanded, and according to Thompson, drones \"are currently used in most divisions within the department.\" This includes patrol, where they're used the most. Pilots use drones to search for missing persons and suspects. They take photos and video of crime scenes, and SWAT uses them to sweep buildings.",
-    "Here's my simple answer for Susan: No, I don't think Seattle should adopt a drone program. Everything mentioned above sounds great, and as long as Renton continues the program as is — which, to my knowledge, is the current plan — then drones are a helpful tool. My fear is the future. Renton has already expanded the initial plan. What if it expands further? What if these drones become armed? Have you read about the way Flock cameras are being abused? Just because we can use a new tool doesn't always mean we should .",
-    "But I'm no expert — so I found someone who is. Scott Mourtgos is an assistant professor of criminology and criminal justice at the University of South Carolina. He completed the world's first study to gauge the effectiveness of drones as first responders.",
-    "Full disclosure: Mourtgos is a former cop, but he's currently an academic and isn't paid by any drone-manufacturing companies or police departments. Also, the research was done in 2025, so not all data has been compiled, and one research paper has not yet been published.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: You're credited as the first person in the world to do a randomized study on drones as first responders. What does that mean, and what did you find?",
-    "SM: As far as we know, me and my research group are the first to run a randomized control trial on the outcomes of a police department using drones in a first responder program approach. You will see a lot from vendors, companies that sell drones, about success. We did an independent study.",
-    "A randomized control trial is just running a field experiment in its simplest form, using two different police departments. In one, calls were randomized on whether they received a drone response or not. In the other, the day of the week was randomized on whether drones were available to respond to calls or not.",
-    "SM: What we found, essentially across both police police departments, is that you do see a reduction in response times overall in the areas where drones are being used. We also see evidence of a workload reduction trickle-down effect, where even the calls that don't have a drone respond but are in the drone-response area and only receive a patrol officer, you see those response times reduce as well.",
-    "MD: Can drones prevent crime or contribute to public safety?",
-    "SM: There certainly is anecdotal evidence — not only at the police departments we worked with, but at other police departments — where drones overhead help everybody be more safe. Like, if you have police officers responding to an armed individual, rather than just having officers walk in blind and potentially have some sort of armed conflict, if you have a drone overhead and know exactly where that individual is and exactly what they're doing, better decisions can be made based on that information.",
-    "But I can't speak to specific outcomes just yet. We're still working on that.",
-    "MD: Based on what you've seen, would you say these drone programs are worth the cost?",
-    "SM: I can't answer that. And frankly, regardless of how much research I ever conducted on this, I would never put myself in a position where I'm telling a police department this is worth it or not worth it. Because there are so many considerations that go into whether something is worth it or not. Let's say we get to a place where we can say the specific public safety benefit to these programs — that doesn't negate possible concerns or downsides of implementing the same programs. Some people have very strong concerns about surveillance and privacy when it comes to the use of drones. I can't say how to weigh that.",
-    "MD: Great point. Reminds me of Flock cameras. Finding suspects is great, but they've also been abused. Big questions: Are all of these drones controlled by humans? Is it legal to arm these drones?",
-    "SM: Let me preface this with: I am not an attorney. But, I am not aware of any police department that has any kind of autonomous drone program. Every drone program I am aware of, and I believe the law requires this, there has to be a human operator. Until recently, they had to be within line of sight of a human. As of recently, police departments can get line of sight waivers from the FAA, where if you meet certain requirements, you no longer actually have to have human eyes on it, as far as being able to physically see it, but you're still required to have a human pilot there. I don't think it's legal to have just autonomous drones flying around doing whatever they want.",
-    "Again, caveat, I'm not a lawyer. But my understanding is that the federal law does not allow dangerous weapons to be attached to drones. I haven't seen or heard or been aware of any police departments that have even attempted to do that, let alone done that. But there is some nuance with the way that dangerous weapons are defined in federal code. Technically you could, in theory, attach a less lethal weapon to it, say a taser or some sort of pepper spray irritant or something like that. I am not aware of that happening, and a lot of jurisdictions have passed laws that ban even less than lethal weapons from being used on drones.",
-    "MD: Has this research, or any you're aware of, looked into racial disparities in drone use or the specific communities where drones are or are not used?",
-    "SM: Not that I'm aware of. We have so little research at all on drones in policing, but I'm not aware of any that addresses those questions.",
-    "Everyone is talking about Mayor Wilson's executive order on housing. And in his op-ed, freelancer Cliff Cawthorn also has something to say about her order and affordable housing: Fund it and build it.",
-    "Mayor Katie Wilson is sending $350,000 to Community Passageways to bring back the Southeast Street Team. Here's why funding the team is important.",
-    "Eight years ago, South Ender Danielle Jackson had an idea for a skate park in Rainier Beach. Is it finally going to happen?",
-    "Some people are careless about where they leave their ride-share e-bikes and scooters in the South End. Here's who that impacts.",
-    "Recent Lakeside High School grad Kameirah Johnson won a $50,000 technology package for her high school from the Google Doodle art contest. She decided to donate all of it to Rainier Beach High School instead. Here's why.",
-    "Three queer femmes embark on a road trip through the Midwest in search of a missing friend.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-05/81ekkypi/Should-SPD-Go-All-In-on-Drones.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-ZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmUoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFJqdjVCTWlPZHotYjVTdHpoaERMbmFQUTlOV0lwZjFKYmE1Y1VLSWp1a2NPMjlyemhuU0hSZVlkdU1TUXdPTDNyai1TX0xzOS1QWWxxUXU3UDF2VlFuSzlPTFp5eXRwTGh0MXk1QkZZN01jTldFdGhFYmFRS3lhX19iaEppY3VjcWdVVF9WRVl3UTFGc0tYOENmZUdoVEFpUElsT3p6dmxIZDdET3ZSNXFIOG5oMjMzMHdocEZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmU?oc=5",
-   "paras": [
-    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-0260905nxs15959159usiranwarshipstargeted",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-   "author": "The Associated Press",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-   "paras": [
-    "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2Fec%2F64938f1741d199aebbc31393fde3%2Fap26247569143031.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-pinionasculptureinperpetualmotionremoved",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Opinion: A sculpture in perpetual motion, removed",
-   "author": "Scott Simon",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-   "paras": [
-    "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8555x5703+0+0/resize/8555x5703!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2F2a%2F93fb40af4882aa112834d3bbe809%2Fap26245513976733.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-alarchsitedespitenofinalfederalapprovals",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
-   "author": "Rachel Treisman",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
-   "paras": [
-    "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5957875",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-64climatechangefloatingschoolsbangladesh",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Whatever happened to the floating schools of Bangladesh?",
-   "author": "Ali Asif Shawon",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-   "paras": [
-    "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2559x1440+0+0/resize/2559x1440!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fd8%2F9755f1ae4c2a94335dca1c42c2e1%2Ffloating-schools-01.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-5959114usenvoysinmoscowinnewpushforpeace",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-   "author": "The Associated Press",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-   "paras": [
-    "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F21%2F3362c250461e89198a44aa02ad4e%2Fap26247433529836.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-5nxs15913671aidatacentercampaignspending",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-   "author": "Maham Javaid",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-   "paras": [
-    "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2Fe7%2F2abca8bf42febc8d6380d47838b3%2Fgettyimages-2286058283.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescy8znyzgkjjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Disruption at Port of Dover as masked 'stop the boats' protesters block roads",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/cy8znyzgkjjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The government says it condemns \"the behaviour in Dover\" and the hours-long disruption it caused."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afaf/live/50d301d0-a936-11f1-bb81-8fbd2d2d397c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc0qxgn7q1vdoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/940c2cb0-a936-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescje87w9j342oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Chris Mason: Reform UK winded by donations row as insiders call for shift in approach",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/cje87w9j342o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Nigel Farage's admirers in the party are calling for a stronger operation as the party aims for power."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6abb/live/e1f93b00-a924-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescj64rrne643oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc4gkr3p0ql7oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Jaguar Land Rover confirms planned job cuts",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/c4gkr3p0ql7o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The firm says it needs to save about £1.7bn over the next two years."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee01/live/b5506920-8c0f-11f1-b2ab-0dd01740f9f6.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc980g0g7yyjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Trump's response is key as Argentina's Falklands demands get louder",
-   "author": "",
-   "date": "2026-09-05",
-   "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?"
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0360/live/78d8bc00-a900-11f1-b109-879e35c24276.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-fritzgauffswiatekkeyscobollidaysevenlive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "US Open tennis: Fritz and Keys in action after Potapova beats Anisimova on day seven – live",
-   "author": "Niall McVeigh (now) and Katy Murrells (earlier)",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/sport/live/2026/sep/05/us-open-tennis-fritz-gauff-swiatek-keys-cobolli-day-seven-live",
-   "paras": [
-    "The latest third-round updates from Flushing Meadows",
-    "You can mail Niall and follow us on TikTok and Bluesky",
-    "Last night Serena and Venus Williams – with their combined age of 456 - blew a five-point lead in the deciding tie-break as their return to the grand slam doubles stage ended in defeat , 6-3, 6-7 (6), 7-6 (7) against Chan Hao-ching and Maya Joint. Serena must be sick of the sight of Joint – given her singles comeback was also halted by the Australian in the Wimbledon first round this summer – but having come so close to victory in both matches, she may well be encouraged enough to continue. Serena and Venus chose not to do a post-match media conference last night – so it’s not clear what their next plans are.",
-    "A big cheer on Grandstand – despite the fact Zheng is facing an American – as she holds at the start of the second set. Anisimova is still a break down, 3-2, against Potapova, while Taylor Fritz – the pick of the American men in the first week - is warming up on Arthur Ashe against Francisco Cerundolo, the 24th seed from Argentina."
-   ],
-   "img": "https://i.guim.co.uk/img/media/01f658bc5304dde7fd86230d646e00504392e48b/161_0_1443_1154/master/1443.jpg?width=140&quality=85&auto=format&fit=max&s=09e116b570b6928e8454eb00df724bce",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-news2026sep05petehegsethpentagonmilitary",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Captain calamity: Pete Hegseth under fire for ‘inept’ leadership of US military",
-   "author": "Robert Tait in Washington",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/us-news/2026/sep/05/pete-hegseth-pentagon-military",
-   "paras": [
-    "The US defense secretary faces internal dissent and discord at the Pentagon, accused of focusing on culture war issues and his own political ambitions as the Iran war drags on",
-    "In a different Washington, under a different president, a return to the well-worn playbook of all-out sanctions to counter Iran might have been the signal for a publicity-hungry US secretary of defense to adopt a lower profile.",
-    "But these are no ordinary times. And Pete Hegseth is no ordinary defense secretary."
-   ],
-   "img": "https://i.guim.co.uk/img/media/bb0b40fe4ad859e195c4994e7732c97a77187798/1730_767_3375_2701/master/3375.jpg?width=140&quality=85&auto=format&fit=max&s=29a2236cde5e78324b7c4a1ca7581675",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ep05hullcityvastonvillapremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Hull City v Aston Villa: Premier League – live",
-   "author": "Billy Munday",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/football/live/2026/sep/05/hull-city-v-aston-villa-premier-league-live",
-   "paras": [
-    "Updates from 5.30pm BST kick-off at MKM Stadium",
-    "Live scoreboard | Clockwatch | Mail Billy",
-    "4 min: Hull settle into some possession. The place is bouncing.",
-    "2 min: Jackson heads wide! Early chance for Villa as Maatsen crosses from the left, Jackson rises between the Hull centre-backs and heads it back beyond the near post."
-   ],
-   "img": "https://i.guim.co.uk/img/media/6a7543d2ac2e04aea06ded5a36b6f3f0803736cf/336_89_3657_2925/master/3657.jpg?width=140&quality=85&auto=format&fit=max&s=76abc1af0b688f651fa9c11d2df6a932",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-erus2026sep05campstovejetboilcompetition",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "This off-brand camp stove is better than a Jetboil for hot coffee in the great outdoors",
-   "author": "Nick Mokey",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/thefilter-us/2026/sep/05/camp-stove-jetboil-competition",
-   "paras": [
-    "When temps drop, there’s nothing better than a steaming hot beverage especially when camping and the Camp Chef Stryker outperforms JetBoil every time",
-    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
-    "I have trudged through camping without a lot of things: clean socks, dry shoes, a headlamp. But in temperatures when you can see your breath in the morning, skipping hot coffee is a hair too far. So when my Jetboil Flash stove sputtered out of gas on a car-camping trip years ago, it was worth the hour-long drive into the nearest town for more.",
-    "Or would have been, if I had found any. While every gas station and general store I stopped in carried the cheap, ubiquitous green bottles of propane, the Jetboil’s fussy isobutane canisters were nowhere to be found."
-   ],
-   "img": "https://i.guim.co.uk/img/media/2ace5364a4d41d6e0566f3a18b5acec7144e070d/92_0_3781_3024/master/3781.jpg?width=140&quality=85&auto=format&fit=max&s=38ad500b93f6e99f3ebce3831f78d3b8",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sep05toddblanchegendertransitionsschools",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The US attorney general is fretting about a ‘pandemic’ of gender transitions in schools | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/05/todd-blanche-gender-transitions-schools",
-   "paras": [
-    "Todd Blanche’s remarks are part of a totally-not-invented moral panic that stretches the limits of the imagination",
-    "Being a public school teacher in the US these days is tough. You’ve got to pay for a lot of your own supplies, deal with smartphone-addicted children, and perform gender reassignment surgeries in your lunch break.",
-    "Luckily our intrepid attorney general, Todd Blanche, is on the case. Blanche appeared on Fox News this week to decry a “pandemic” of gender transitions in schools across the US. “There’s not a parent in America, no matter where you live, that would want their school to change and call their child by a different name and not expect to be told about that. We partnered with the Department of Education recently to combat this very trend and, really, pandemic that’s happening in some school districts around the country,” Blanche said. He seemed more concerned with name changes than with surgery, but the president himself has suggested on several occasions that schools are furtively doing surgery on children. During a campaign speech in 2024, for example, Donald Trump said : “Can you imagine … your son leaves the house and you say: ‘Jimmy, I love you so much. Go have a good day in school,’ and your son comes back with a brutal operation? Can you even imagine this?”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/d54ce1b7be06e7a7c4987c3ef298b66869494ca0/540_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=71d1ffac3492d3dc0b7da242052250e7",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-n2026sep05metgalajohngallianoannawintour",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "What does Met’s U-turn on John Galliano augur for him, the gala and Anna Wintour?",
-   "author": "Edward Helmore in New York",
-   "date": "2026-09-05",
-   "url": "https://www.theguardian.com/fashion/2026/sep/05/met-gala-john-galliano-anna-wintour",
-   "paras": [
-    "NYC’s elite figures, led by Julie Menin, made Wintour blink, and the designer who in 2011 had gone on a drunken antisemitic rant, bowed out of industry’s biggest event",
-    "Did Anna Wintour, Vogue’s long-serving fashion titan and ringmaster of the annual Met Gala, meet her match in Julie Menin, the speaker of New York’s city council?",
-    "The museum is the crown jewel of the wealthy neighborhood and some residents hold significant sway at the institution, financially and in terms of the art they plan to bequeath to it. So when it was announced late in July on a Friday afternoon that Galliano would be the focus of the Met Gala next year, it left many stunned."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3a18a0799f359ca54073f2c41ec96eec3f5e6e33/222_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=24d897cfa91aca4378b5ed33940f6926",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -632,6 +706,39 @@
    "annos": null
   },
   {
+   "id": "f-kuow-ZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmUoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFJqdjVCTWlPZHotYjVTdHpoaERMbmFQUTlOV0lwZjFKYmE1Y1VLSWp1a2NPMjlyemhuU0hSZVlkdU1TUXdPTDNyai1TX0xzOS1QWWxxUXU3UDF2VlFuSzlPTFp5eXRwTGh0MXk1QkZZN01jTldFdGhFYmFRS3lhX19iaEppY3VjcWdVVF9WRVl3UTFGc0tYOENmZUdoVEFpUElsT3p6dmxIZDdET3ZSNXFIOG5oMjMzMHdocEZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmU?oc=5",
+   "paras": [
+    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-elphiahousetobecomeaculturalheritagesite",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
+   "author": "Daniel Ofman",
+   "date": "2026-09-05",
+   "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
+   "paras": [
+    "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955500",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-agentsbutwontaskthemtopredicttheapplecup",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -684,115 +791,6 @@
     "35 Years of Speed: The Sonic Art Exhibit is running at Seattle’s 210 Gallery at 301 Occidental Ave. S. from Sept. 4 through Sept. 6 from 11 a.m. to 7 p.m. Admission is free. After its Seattle run, the exhibition will have its final show in Los Angeles later this month."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/20260903_183942-1260x945.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-uildanaitoolthateliminatescostlyreshoots",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Startup Spotlight: Food photographer uses 25-year archive to build an AI tool that eliminates costly reshoots",
-   "author": "Kurt Schlosser",
-   "date": "2026-09-04",
-   "url": "https://www.geekwire.com/2026/startup-spotlight-food-photographer-uses-25-year-archive-to-build-an-ai-tool-that-eliminates-costly-reshoots/",
-   "paras": [
-    "Longtime Seattle food photographer Scott Pitts spent 25 years capturing commercial imagery for major brands, and now he’s using that quarter-century archive to train Pallat . The new AI-powered production system is designed to eliminate costly reshoots while keeping real studio craft at the center of generative creative tech.",
-    "The platform combines fine-tuned open-weight models with Pitts’ extensive archive, allowing art directors to modify existing campaign assets — like swapping a topping, adjusting lighting, or changing a backdrop — in minutes through software rather than starting from scratch back on set.",
-    "Pitts, a non-technical founder operating Pallat out of his Seattle photo studio, SP Studio , leads a nimble five-person team and believes domain experience is key to competing with generic AI platforms.",
-    "“We are close to the problem, and we’re looking at it from a photographic eye,” he said. “We’re making sure those outputs look photoreal, that they’re not going to get labeled as AI slop.”",
-    "To show how the tech works in practice, Pitts points to a recent shoot for a national steakhouse client. After completing a complex setup for a burger — carefully layering the bun, patty, sauce, and greens — the brand asked if they had shot a version with tomatoes. Rather than calling back the food stylist and rebuilding the set, Pitts dropped the final image into Pallat, prompting it to add two tomato slices with subtle condensation, natural translucency, and accurate drop shadows cast onto the cheese below.",
-    "In another instance, a commercial seafood brand prepared packaging imagery for a buyer presentation, only for the client to ask to see the fish presented on a white plate instead. Pallat to the rescue.",
-    "Commercial photographers have long tweaked images using tools like Photoshop, but Pitts sees AI as the natural next step for advertising workflows — distinct from news photography, where image manipulation remains out of bounds. Where Photoshop requires painstaking manual editing to adjust a scene, Pallat handles complex lighting, translucency, and material physics in minutes based on a simple prompt.",
-    "The startup recently signed its first enterprise customer and is currently working directly with brands as a hands-on production partner while building toward full software access.",
-    "Pitts sees the technology not as a threat to his craft, but as a natural progression. He started his career shooting four-by-five film, then transitioned to digital and video. AI is another progression.",
-    "“My hope is that me building Pallat is sort of this bridge between tech and creative,” Pitts said. “Craft is still important. Judgment and taste are still probably some of the most important things.”",
-    "Continue reading for Pitts’ answers to our Startup Spotlight questionnaire.",
-    "In 50 words or less, give us your startup’s elevator pitch.",
-    "Pallat is a photographer-led AI production system built for food and beverage brands, born from a working photo studio. It combines licensed photography with generative workflows to help brands scale photo-centric content while maintaining the creative control expected from commercial photography.",
-    "What problem are you obsessed with solving?",
-    "I’ve spent 25 years watching brands solve the same problem: invest in a shoot, then ultimately need more usable imagery than the initial shoot was designed to deliver. Generic generative tools can create images, but weren’t built around the quality, control and production standards food and beverage brands require.",
-    "I’m obsessed with using AI to close the gap. Pallat gives brands a way to extend photography they’ve already invested in and create new production-ready imagery grounded in a licensed dataset and the standards of a traditional photoshoot.",
-    "What surprised you after talking to customers?",
-    "Because we’re so close to the problem we’re solving, their need for a solution and high bar for quality didn’t surprise me.",
-    "What did was how much generated imagery disrupted their existing workflows. There is no obvious owner, no review path and no shared vocabulary for feedback and approvals. Brands are asking us to help establish new workflows, and that has turned out to be almost as important as building the tech itself.",
-    "How has AI changed the way you build your company?",
-    "AI is a big part of why a five-person team can build something like this. Our tech stack is built on open-weight models that we fine-tune using proprietary training data, while foundation models support planning and a handful of day-to-day operations.",
-    "Not to oversimplify it, but in many ways my role at Pallat parallels production. I built a team of experts, defined the problem we’re solving and established the criteria for the output. A growing part of my work is getting those standards out of my head and structuring evals so they hold when I’m not in the room.",
-    "What’s one thing people misunderstand about your startup?",
-    "That Pallat is trying to replace photography. It’s far from it.",
-    "Practical photos are important inputs, and our studio continues to create net-new ones to expand the system. Visual trends are always evolving, so datasets powering creative tech cannot be static. The future of production is hybrid: practical photography and generative imaging working together, with each deployed where it creates the most value.",
-    "What’s the toughest decision you’ve made in the past year?",
-    "Resisting the urge to broaden Pallat before we establish product-market fit. The goal isn’t to automate every step as quickly as possible. It’s to understand which problems in the workflow are best solved through software.",
-    "What’s the one piece of advice you give to other entrepreneurs?",
-    "I truly believe some of the most interesting AI companies will come out of service businesses where the founder knows the industry exceptionally well — where the friction lives, which shortcuts a client will notice, and what excellence looks like in their vertical.",
-    "I spent a long time assuming my 25 years in photography was the past and AI was the future, and I had that backwards. The years on set that sharpened my taste and judgment, our dataset and the client relationships are the true compounding assets.",
-    "When an art director at a food or beverage brand drafts a shot list dividing it into two columns: “Capture as Practical Photography” and “Generate in Pallat.”",
-    "When that becomes a normal way of planning, Pallat will have done what we set out to do."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/pallatburger-1.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-etzionionaiwhatkidstellchatbotsbutnotyou",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Etzioni on AI: What kids tell chatbots, but not you",
-   "author": "Oren Etzioni",
-   "date": "2026-09-04",
-   "url": "https://www.geekwire.com/2026/etzioni-on-ai-what-kids-tell-chatbots-but-not-you/",
-   "paras": [
-    "Kids are heading back to school across the country with a tool in their pocket that will do their homework, answer the questions they’re too embarrassed to ask an adult, and never tell anyone they asked.",
-    "MIT Technology Review asked kids aged 10 to 18 what they make of AI. Their answers had me plowing through every survey and interview with kids about AI I could find. Plenty of what kids do with it is ordinary: looking things up, homework, messing around.",
-    "This article is about the parts they keep to themselves.",
-    "1. Kids are taking their mental health to a chatbot, and telling nobody .",
-    "Nearly one in five Americans aged 12 to 21 has asked a chatbot for help when feeling sad, angry or nervous. RAND puts it at 8.2 million young people, and 63% of them told no one at all.",
-    "The silence is a calculation about what adults would do, as one teenager explained to YouGov’s researchers .",
-    "The most vulnerable kids use chatbots more.",
-    "Some teenagers see AI as a shortcut past the hard parts of schoolwork.",
-    "Others describe using it the opposite way.",
-    "Between May and December 2025, RAND watched homework use among middle school, high school and college students climb from 48% to 62%. Over a slightly longer stretch, from February, the share saying AI harms critical thinking climbed from 54% to 67%. The same students can hold both thoughts at once.",
-    "The Concord Monitor interviewed eight New Hampshire high schoolers this spring. They weren’t outraged at their classmates, but they described losing motivation to do the work themselves. One in ten teens tells Pew they do all or most of their schoolwork with a chatbot’s help.",
-    "Caledonia Mahon, a Concord High senior, watched a classmate stand up and admit he’d had ChatGPT write a personal reflection, and started wondering why she was still writing her own.",
-    "Her classmate Andrew Pfitzenmayer supplied the detail I can’t get out of my head, about a boy in his advanced history class.",
-    "Yet, the same technology can be positive for kids who don’t have much else.",
-    "By May 2025, 84% of American high schoolers were using AI for schoolwork at least occasionally. The kids who lean on it hardest have the least support around them, which is why telling them to quit doesn’t work.",
-    "If quitting isn’t the option, what’s left is changing what the tool does when a kid opens it. Two Seattle startups are trying that.",
-    "3. Kids are writing the rules adults haven’t .",
-    "Suspicion of AI runs strongest among the kids furthest from it: 78% of students who don’t use AI say it harms critical thinking, against 60% of those who do.",
-    "In July, 98 high schoolers from all 50 states spent three days in a replica of the U.S. Senate chamber in Boston and passed what Congress hasn’t. Their STUDENTS FIRST Act requires AI literacy, bars teachers from letting AI decide a grade on its own, lets a teacher ask a student to defend suspected work out loud, and gives any student the right to an alternative to an AI assignment.",
-    "A majority of educators told Education Week’s Research Center last fall that their district has no AI policy, or that they don’t know whether it does. At least seven states have a comprehensive one, by Education Week’s count.",
-    "Ashley Kannan has taught social studies for almost 30 years in Oak Park, Ill. He planned to ignore AI, then noticed that every conversation about it in his building was about catching students. He recruited nine eighth graders to spend a year working out what AI was actually good for. In April they briefed 60+ teachers and parents on the rules they thought were needed.",
-    "Hazel is 17 , a rock climber in New York who wants to be an ecologist. She won’t touch AI, and her reason is specific: what data centers do to the water supplies of the towns they’re built in. Asked what advice she’d give other kids, she gave four words.",
-    "Hazel can afford that advice. Most kids can’t.",
-    "So the practical alternative is narrower than just telling them to quit: ask them what they use AI for, ask what they’ve decided not to use it for, and don’t make an honest answer cost them the tool. Right now 61% of young people say their parents rarely or never talk to them about AI, and 53% say the same of their teachers.",
-    "Hazel may walk away from AI. But Amira, describing a pain in her side to a chatbot, may not, and the odds are nobody in her house knows she’s doing it."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/phone-teens-ai-1-1260x709.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-904fridayroundtableracethel8againandlose",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Race the L8 again… and lose?",
-   "author": "Nathan Dickey",
-   "date": "2026-09-04",
-   "url": "https://seattletransitblog.com/2026/09/04/friday-roundtable-race-the-l8-again-and-lose/",
-   "paras": [
-    "The L8 is not so late anymore since an eastbound traffic lane was converted to a bus lane in August. On Tuesday, September 8th , Fix the L8 is organizing another race against Metro’s bus Route 8 along Denny Way. Unlike the previous event , the group is expecting to lose as the buses bypass traffic via newly-painted eastbound bus lanes.",
-    "“Across multiple decades and several mayors, it’s been obvious that a bus lane is needed on Denny Way, and it only took a few months of Mayor Wilson’s leadership to get one” said Fix The L8 co-leader Jason Li. “This will transform the lives of the thousands of daily Route 8 riders while attracting countless more as it goes from being slower than hopscotching to being irresistibly good.”",
-    "Other traffic improvements, including closure of the Yale Street slip lane, have also helped speed up the bus. Although transit projects are often mired in years of design and debate, it’s abundantly clear that concerted effort and leadership can shorten this work to mere months. In this case, Mayor Katie Wilson requested accelerated design and construction of the transit prioritization project as her first executive order in January of this year. The improvements were announced in April and the project completed at the end of August .",
-    "Riders were quick to notice a vast improvement:",
-    "Despite the international media coverage focused on the impact this bus lane would have on drivers, travel times between Queen Anne Ave to Virginia St for cars has remained consistent. The chart below shows the estimated eastbound travel time for a car along the 1.1 mile segment of Denny way at the top of every hour since early July. The stripped blue section is the after the Yale St slip lane was closed in early August. The bus lanes were installed between August 21-23. Explore the full chart here .",
-    "The rematch race will begin at 5pm next Tuesday. Anyone interested is encouraged to RSVP to the event, here . The race will be followed by a celebratory gathering at The Pine Box in Capitol Hill.",
-    "The Fix the L8 campaign is also taking preorders of a tremendously-cute, limited-edition Route 8 plushie with first shipments expected to arrive in early October. The bus plushie (a busie!) is endorsed by STB as a perfect gift for the upcoming holiday season. Order yours here ! Proceeds go toward future campaigns for transit and street safety improvements."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image.png?resize=525%2C204&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -853,32 +851,23 @@
    "annos": null
   },
   {
-   "id": "f-emerald-sstreetteaminrainierbeachthroughjune2027",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Seattle Will Spend $350K to Fund Community Passageways Street Team in Rainier Beach Through June 2027",
-   "author": "",
+   "id": "f-stb-904fridayroundtableracethel8againandlose",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Race the L8 again… and lose?",
+   "author": "Nathan Dickey",
    "date": "2026-09-04",
-   "url": "https://southseattleemerald.org/news/2026/09/04/seattle-will-spend-350k-to-fund-community-passageways-street-team-in-rainier-beach-through-june-2027",
+   "url": "https://seattletransitblog.com/2026/09/04/friday-roundtable-race-the-l8-again-and-lose/",
    "paras": [
-    "Mayor Katie Wilson announced on Aug. 29 that the City was committed to providing $350,000 in funding for Community Passageways' Southeast Street Team in Rainier Beach until June 2027.",
-    "The announcement, which Wilson made at the Rainier Beach Community Center, came after months of organizing from Rainier Beach parents and community groups to save funding for the team. More than 40 people, including parents, organizers, city officials, officers with the Seattle Police Department (SPD), and representatives of various violence-interrupter groups, were at the center.",
-    "At a community meeting held earlier this summer, numerous parents voiced frustration with City officials over the anticipated end to a contract that funded Community Passageways' street team in Rainier Beach. At the time, one parent called it \"another death for the kids.\"",
-    "Seattle's Human Services Department (HSD) is still finalizing the agreement with Community Passageways, but in an email to the Emerald , an HSD representative wrote that the anticipated agreement will provide approximately $350,000 in \"one-time funding\" to cover the Southeast Street Team through June 30, 2027.",
-    "The funding will support six staff members, with the scope of the agreement covering \"Safe Passage, outreach, and violence-prevention coverage in the Rainier Beach corridor from approximately 8:30 a.m. to 5:00 p.m.\" HSD also confirmed the funding would \"complement\" the work of a cohort of 19 other community-based providers in \"delivering services and building relationships with young people, families, schools, and neighborhoods across Seattle.\"",
-    "In an email, the Mayor's Office did not specify where the $350,000 will come from. The City of Seattle is currently facing a $175 million budget deficit. Earlier this summer, City Councilmember Maritza Rivera said funding for public safety programs should be addressed in the upcoming budget cycle.",
-    "After the funding announcement was made, attendees expressed pride in their successful organizing efforts and were excited the street team would be funded for the upcoming school year. \"At the end of the day, community has power,\" said Community Passageways CEO Dominique Davis.",
-    "Davis, with his arm around Wilson, said, \"Katie, thank you for caring about our kids. We appreciate you.\"",
-    "Wilson, in her speech, discussed the work Community Passageways does to prevent youth gun violence and the relationships the organization builds. \"Part of what makes [Rainier Beach] great are all the relationships,\" said Wilson. She also acknowledged that \"the City hasn't always shown up\" in South Seattle, but funding for Community Passageways is a first step toward ongoing work in the area to address gun violence.",
-    "In recent weeks, Wilson has focused attention on the South End, including attending the recent \"Night Out\" event in Rainier Beach and prioritizing traffic safety projects along dangerous roads, such as Rainier Avenue South and Martin Luther King Jr. Way South.",
-    "One parent, who spoke to the audience at the community center, acknowledged the traffic safety projects in South Seattle, but said it feels \"irresponsible\" to let the kids walk or bike outside because of the gun violence.",
-    "Many parents spoke in support of the work Community Passageways does, including one who said they \"witnessed the earned trust of the street team.\" They added, \"We deserve consistency.\" HSD wrote in an email that the funding for Community Passageways was not only to continue building those relationships but also to provide \"consistent coverage\" in South Seattle.",
-    "Another parent told Wilson that funding Community Passageways will \"pay dividends; we just need to make sure everyone has an equal chance.\"",
-    "Although the parents and organizers celebrated the funding, the consensus was that there is more work to do. Community members said they want greater investments in preventing youth gun violence, including funding for Community Passageways after 2027, as well as Community Passageways school-based staff to return to Rainier Beach.",
-    "Parents and organizers also encouraged Wilson to meet with young people in South Seattle.",
-    "Currently, Community Passageways contracts with the City for hospital-based intervention, citywide support services, work in the Central District, and school-based services. Along with the street team, Community Passageways also operates diversion and mentorship programs for youth and young adults."
+    "The L8 is not so late anymore since an eastbound traffic lane was converted to a bus lane in August. On Tuesday, September 8th , Fix the L8 is organizing another race against Metro’s bus Route 8 along Denny Way. Unlike the previous event , the group is expecting to lose as the buses bypass traffic via newly-painted eastbound bus lanes.",
+    "“Across multiple decades and several mayors, it’s been obvious that a bus lane is needed on Denny Way, and it only took a few months of Mayor Wilson’s leadership to get one” said Fix The L8 co-leader Jason Li. “This will transform the lives of the thousands of daily Route 8 riders while attracting countless more as it goes from being slower than hopscotching to being irresistibly good.”",
+    "Other traffic improvements, including closure of the Yale Street slip lane, have also helped speed up the bus. Although transit projects are often mired in years of design and debate, it’s abundantly clear that concerted effort and leadership can shorten this work to mere months. In this case, Mayor Katie Wilson requested accelerated design and construction of the transit prioritization project as her first executive order in January of this year. The improvements were announced in April and the project completed at the end of August .",
+    "Riders were quick to notice a vast improvement:",
+    "Despite the international media coverage focused on the impact this bus lane would have on drivers, travel times between Queen Anne Ave to Virginia St for cars has remained consistent. The chart below shows the estimated eastbound travel time for a car along the 1.1 mile segment of Denny way at the top of every hour since early July. The stripped blue section is the after the Yale St slip lane was closed in early August. The bus lanes were installed between August 21-23. Explore the full chart here .",
+    "The rematch race will begin at 5pm next Tuesday. Anyone interested is encouraged to RSVP to the event, here . The race will be followed by a celebratory gathering at The Pine Box in Capitol Hill.",
+    "The Fix the L8 campaign is also taking preorders of a tremendously-cute, limited-edition Route 8 plushie with first shipments expected to arrive in early October. The bus plushie (a busie!) is endorsed by STB as a perfect gift for the upcoming holiday season. Order yours here ! Proceeds go toward future campaigns for transit and street safety improvements."
    ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-06-27/pq4beo73/2026-06.23-Community-Passageways-City-Hall-by-Josh-Cohen.jpg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image.png?resize=525%2C204&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1019,6 +1008,23 @@
    "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/six26.jpg?fit=1024%2C768&ssl=1",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-doLUxDTkZhRDJfeEJNWExmalhQUzJPTWNVY3coc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "US Forest Service releases long-awaited restructuring plan",
+   "author": "",
+   "date": "2026-09-04",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2ptUDdkSkc0Ni1fT2lDMTdvUzBHbURlRFVTTTMxYUZVUnNDUHNDeGtoUDNwUWRnRjYxSm9QU0hPS1BDWEEwdEN4bXd6WnFaZHJNRXVmQ2ViVzBHTXhlOWFJV291Y0pzWEg5VWlfLVFoRnQwejByajZrMjUxUVlMLTg4YUtOM1doLUxDTkZhRDJfeEJNWExmalhQUzJPTWNVY3c?oc=5",
+   "paras": [
+    "US Forest Service releases long-awaited restructuring plan KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1269,68 +1275,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-20260903pinehurststationopensseptember30",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Pinehurst Station Opens September 30",
-   "author": "Michael Smith",
-   "date": "2026-09-03",
-   "url": "https://seattletransitblog.com/2026/09/03/pinehurst-station-opens-september-30/",
-   "paras": [
-    "Today Sound Transit announced Pinehurst station will open September 30, 2026. Located between Shoreline South and Northgate stations, Pinehurst is the first ever Link infill station. The area around the station has been slow to develop as it is primarily occupied by Jackson Park Golf Course and I-5. The new King County Metro Route 77 stops next to Pinehurst station and provides east/west service along N 130th St and NE 125th St.",
-    "Pinehurst station was approved as part of ST3 in 2016 and was accelerated to open 5 years before its original projected opening in 2031.",
-    "Trains on the 1 Line and 2 Line will begin serving Pinehurst station at 5am on September 30 and a community celebration will take place later in the day."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-blogcom20260903sammamishandrentonbustrip",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sammamish and Renton Bus Trip",
-   "author": "Mike Orr",
-   "date": "2026-09-03",
-   "url": "https://seattletransitblog.com/2026/09/03/sammamish-and-renton-bus-trip/",
-   "paras": [
-    "This article is brought to you by the numbers 269 and 111. Those were the first routes I wanted to try in the August 29th service change last Saturday. I’d never seen Sammamish except once or twice in a car because it had little bus access, and I’d never been to northeast Renton. So on the first day of the new service I did a bus trip to both those areas. This article is a long ramble about that trip, with route times and ridership and neighborhood observations along the way. It begins after the fold.",
-    "3:02 – 3:16 pm. (14 minutes.) 3 minute wait for a route running every 10 minutes. Ridership: Typical.",
-    "Since there would be nowhere to get a sandwich at Marymoor Village or South Bellevue stations, I stopped at a hot dog stand at Westlake Park.",
-    "3:26 – 3:41. (14 minutes.) Wait is complicated because I didn’t intend to take this route. Ridership: I was the only passenger.",
-    "I’d intended to take the 269, but the eastbound bus bay at Mercer Island station had no sign telling which routes stopped there. The next-arrival display just said “269: [in 50 minutes]” but didn’t say which direction. So I didn’t know if this was the right stop, or which other routes stopped here. This 269 is supposed to run every 30 minutes, so if the display was accurate the next run wouldn’t show up. The other bus bay is across the street, and a 215 was laying over at it. So I crossed the street to the other bay. It had a routes sign but it was out of date (before the service change). The 215 started moving, so I crossed the street back to the first stop. I wondered if the 215 would stop there, how it would make a U-turn to get to it (it must have used the new roundabout), whether I could reach it before it passed, and whether I wanted to take it. I was hoping for the full 269 experience from Mercer Island through Sammamish to Marymoor Village. But if I couldn’t take the 269 today, the 215 would at least take me to Issaquah Highlands P&R, which was one of my goals.",
-    "At the bus stop a would-be passenger asked, “Do you go to North Bend?” The driver explained it wasn’t one of the North Bend 215 runs.",
-    "4:00 – 4:42. (42 minutes.) 15 minute wait for a 30 minute route. So it was on time and the display had been wrong.",
-    "Ridership: None from Mercer Island. 3 on at Issaquah Highlands P&R. 1 on/1 off at South Sammamish P&R. 2 off at SE 20th. 1 off at SE 16th with e-scooter. 1 on at NE 4th, 1 on at NE 8th. 1 on at Bear Creek P&R. One woman almost got in but she was going the other way. 4 off at Marymoor Village station.",
-    "The bus stop signs at Issaquah Highlands P&R are also out of date. I got off the 215 and asked the driver where to get the 269 to Sammamish/Marymoor. He pointed and said “Bay 1”. The stop pole had a current 269 schedule, but the number board was out of date. A 269 westbound stopped there. I asked the driver if both directions stop at the same stop, and he said they do.",
-    "Sammamish is very suburban: large houses, woods, open space lawns, reservoir ponds, other ponds that may be for flood control, and three shopping centers. It reminded me of growing up in eastern Bellevue in the 1970s and 80s, but with larger houses. The first shopping center was a QFC supermarket plaza. The second had a multistory building with Metropolitan Market, an impressive new urbanist format. The third was the largest, three shopping centers on adjacent blocks, with Safeway.",
-    "The Redmond segment has a surprisingly large number of local stops and streets. I always thought of the 269 as a Sammamish route, but it serves the eastern part of Redmond too. It’s all offices there, so it must be to serve those office parks, or to get Sammamish riders to those office parks.",
-    "There were more restaurants near Marymoor Station than I’d noticed before, so maybe I could have gotten a sandwich there after all. I have been to Stone there, my favorite Korean restaurant. (There’s one in SLU too.)",
-    "At Marymoor station I saw a routes schedule that had the 547 night ride, half hourly between midnight and 5am.",
-    "I went into Marymoor Park to find a restroom before the second phase of my journey. It’s a 10 minute walk from the station entrance around the Velodrome. On the way is a children’s play area with a child-sized locomotive train kids can sit in. One kiddo there said “Hoo hoo” like a train whistle.",
-    "I then went up to the top of the P&R to see the 6th floor view I’d heard about. I’d been wanting to do that ever since the Starter Line opened. I imagined an expansive view overlooking downtown Redmond and Marymoor Park. It wasn’t. I could barely glimpse two buildings in downtown Redmond through the trees. I couldn’t see much of Marymoor Park beyond the Velodrome.",
-    "5:21 – 5:42. (21 minutes.) 2 minute wait for a 10 minute route. Ridership: Typical.",
-    "6:00 – 6:30. (30 minutes.) 16 minute wait for a 30 minute route.",
-    "Ridership: 8 on at South Bellevue station. 3 off at Newport Hills P&R. 1 off at 44th (Kennydale), 1 on with bike. 6 on/offs in the Renton Highlands. The last run was at 7:30pm.",
-    "The route signs and schedules at South Bellevue station were current. The new schedule signs show all the streets the routes serve, instead of just the upcoming streets for this direction. I like the old way better. It’s disorienting when the first entry is way behind you.",
-    "The 111, 547, and 556 all stop at the ex-550 stop. So the express routes are at this stop, and the local routes at the other stop.",
-    "The Renton Highlands has a wide variety of 1950s houses, normal-sized houses, and McMansions all next to each other. The front yards are small but not tiny. It feels like a more walkable area than Sammamish. There’s a village with 5 large apartment buildings, a library, and Safeway. And another large building saying “Renton Housing Authority” for low-income housing.",
-    "I was debating whether to go to the end of the route and wait for a return bus to the Highlands, or to get off at NE 4th & Union which I guessed might be the center of the Highlands. But there was only two more hours of daylight so I got off as soon as it reached NE 4th, where the 111 and 105 cross. That’s at Renton Technical College. (So that’s where the college is.) Food options were limited to McDonald’s or a gas station mini-mart, so I was glad I’d already had a hot dog.",
-    "I just missed a 105 which passed as I was walking to the transfer stop. The next one wouldn’t be for a half hour. So I started walking. I guessed a 30 minute walk would get me at least halfway to downtown Renton, but I didn’t really know because I’d only been to the Renton Highlands once, and not to this part.",
-    "The reason I walked was there were more interesting things to look at along the way than in Sammamish and Issaquah, it was downhill, and it has a full-sized sidewalk. NE 4th Street quickly turned into NE 3rd Street, and that continued down the hill and under 405 to Sunset Blvd and Houser Way.",
-    "At the 30 minute mark I reached downtown Renton and the next 105 passed me. It took another 20 minutes to reach Renton Transit Center. But I don’t mind walking in downtown Renton: it’s a walkable downtown, I got to go through Liberty Park and the library bridge over the Cedar River, and I discovered several more blocks of historic retail buildings than I realized were there.",
-    "All the 105s I saw had a yellow stripe on top and were electric buses. I also saw a RapidRide F that was half purple and an electric bus.",
-    "7:30 – 8:00. (30 minutes.) 6 minute wait for a 15 minute route.",
-    "Ridership: 9 at Renton TC. 1 on in downtown Renton. 3 off in western Renton. 2 off in Skyway. 1 on in far south Seattle. 3 on/1 off at the Rainier Beach Safeway. 2 off/1 on at Henderson & Renton Ave. 1 off/1 on at Rainier Beach station. 12 people remained on the bus as it continued.",
-    "8:11 – 8:41. (30 minutes.) 9 minute wait for a 10 minute route. Ridership: Standing room only. 7 on at Rainier Beach (or more if I missed anybody at the northern doors)."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-hurstlightrailstationwillopenseptember30",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1423,6 +1367,68 @@
    "annos": null
   },
   {
+   "id": "f-stb-20260903pinehurststationopensseptember30",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Pinehurst Station Opens September 30",
+   "author": "Michael Smith",
+   "date": "2026-09-03",
+   "url": "https://seattletransitblog.com/2026/09/03/pinehurst-station-opens-september-30/",
+   "paras": [
+    "Today Sound Transit announced Pinehurst station will open September 30, 2026. Located between Shoreline South and Northgate stations, Pinehurst is the first ever Link infill station. The area around the station has been slow to develop as it is primarily occupied by Jackson Park Golf Course and I-5. The new King County Metro Route 77 stops next to Pinehurst station and provides east/west service along N 130th St and NE 125th St.",
+    "Pinehurst station was approved as part of ST3 in 2016 and was accelerated to open 5 years before its original projected opening in 2031.",
+    "Trains on the 1 Line and 2 Line will begin serving Pinehurst station at 5am on September 30 and a community celebration will take place later in the day."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-blogcom20260903sammamishandrentonbustrip",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sammamish and Renton Bus Trip",
+   "author": "Mike Orr",
+   "date": "2026-09-03",
+   "url": "https://seattletransitblog.com/2026/09/03/sammamish-and-renton-bus-trip/",
+   "paras": [
+    "This article is brought to you by the numbers 269 and 111. Those were the first routes I wanted to try in the August 29th service change last Saturday. I’d never seen Sammamish except once or twice in a car because it had little bus access, and I’d never been to northeast Renton. So on the first day of the new service I did a bus trip to both those areas. This article is a long ramble about that trip, with route times and ridership and neighborhood observations along the way. It begins after the fold.",
+    "3:02 – 3:16 pm. (14 minutes.) 3 minute wait for a route running every 10 minutes. Ridership: Typical.",
+    "Since there would be nowhere to get a sandwich at Marymoor Village or South Bellevue stations, I stopped at a hot dog stand at Westlake Park.",
+    "3:26 – 3:41. (14 minutes.) Wait is complicated because I didn’t intend to take this route. Ridership: I was the only passenger.",
+    "I’d intended to take the 269, but the eastbound bus bay at Mercer Island station had no sign telling which routes stopped there. The next-arrival display just said “269: [in 50 minutes]” but didn’t say which direction. So I didn’t know if this was the right stop, or which other routes stopped here. This 269 is supposed to run every 30 minutes, so if the display was accurate the next run wouldn’t show up. The other bus bay is across the street, and a 215 was laying over at it. So I crossed the street to the other bay. It had a routes sign but it was out of date (before the service change). The 215 started moving, so I crossed the street back to the first stop. I wondered if the 215 would stop there, how it would make a U-turn to get to it (it must have used the new roundabout), whether I could reach it before it passed, and whether I wanted to take it. I was hoping for the full 269 experience from Mercer Island through Sammamish to Marymoor Village. But if I couldn’t take the 269 today, the 215 would at least take me to Issaquah Highlands P&R, which was one of my goals.",
+    "At the bus stop a would-be passenger asked, “Do you go to North Bend?” The driver explained it wasn’t one of the North Bend 215 runs.",
+    "4:00 – 4:42. (42 minutes.) 15 minute wait for a 30 minute route. So it was on time and the display had been wrong.",
+    "Ridership: None from Mercer Island. 3 on at Issaquah Highlands P&R. 1 on/1 off at South Sammamish P&R. 2 off at SE 20th. 1 off at SE 16th with e-scooter. 1 on at NE 4th, 1 on at NE 8th. 1 on at Bear Creek P&R. One woman almost got in but she was going the other way. 4 off at Marymoor Village station.",
+    "The bus stop signs at Issaquah Highlands P&R are also out of date. I got off the 215 and asked the driver where to get the 269 to Sammamish/Marymoor. He pointed and said “Bay 1”. The stop pole had a current 269 schedule, but the number board was out of date. A 269 westbound stopped there. I asked the driver if both directions stop at the same stop, and he said they do.",
+    "Sammamish is very suburban: large houses, woods, open space lawns, reservoir ponds, other ponds that may be for flood control, and three shopping centers. It reminded me of growing up in eastern Bellevue in the 1970s and 80s, but with larger houses. The first shopping center was a QFC supermarket plaza. The second had a multistory building with Metropolitan Market, an impressive new urbanist format. The third was the largest, three shopping centers on adjacent blocks, with Safeway.",
+    "The Redmond segment has a surprisingly large number of local stops and streets. I always thought of the 269 as a Sammamish route, but it serves the eastern part of Redmond too. It’s all offices there, so it must be to serve those office parks, or to get Sammamish riders to those office parks.",
+    "There were more restaurants near Marymoor Station than I’d noticed before, so maybe I could have gotten a sandwich there after all. I have been to Stone there, my favorite Korean restaurant. (There’s one in SLU too.)",
+    "At Marymoor station I saw a routes schedule that had the 547 night ride, half hourly between midnight and 5am.",
+    "I went into Marymoor Park to find a restroom before the second phase of my journey. It’s a 10 minute walk from the station entrance around the Velodrome. On the way is a children’s play area with a child-sized locomotive train kids can sit in. One kiddo there said “Hoo hoo” like a train whistle.",
+    "I then went up to the top of the P&R to see the 6th floor view I’d heard about. I’d been wanting to do that ever since the Starter Line opened. I imagined an expansive view overlooking downtown Redmond and Marymoor Park. It wasn’t. I could barely glimpse two buildings in downtown Redmond through the trees. I couldn’t see much of Marymoor Park beyond the Velodrome.",
+    "5:21 – 5:42. (21 minutes.) 2 minute wait for a 10 minute route. Ridership: Typical.",
+    "6:00 – 6:30. (30 minutes.) 16 minute wait for a 30 minute route.",
+    "Ridership: 8 on at South Bellevue station. 3 off at Newport Hills P&R. 1 off at 44th (Kennydale), 1 on with bike. 6 on/offs in the Renton Highlands. The last run was at 7:30pm.",
+    "The route signs and schedules at South Bellevue station were current. The new schedule signs show all the streets the routes serve, instead of just the upcoming streets for this direction. I like the old way better. It’s disorienting when the first entry is way behind you.",
+    "The 111, 547, and 556 all stop at the ex-550 stop. So the express routes are at this stop, and the local routes at the other stop.",
+    "The Renton Highlands has a wide variety of 1950s houses, normal-sized houses, and McMansions all next to each other. The front yards are small but not tiny. It feels like a more walkable area than Sammamish. There’s a village with 5 large apartment buildings, a library, and Safeway. And another large building saying “Renton Housing Authority” for low-income housing.",
+    "I was debating whether to go to the end of the route and wait for a return bus to the Highlands, or to get off at NE 4th & Union which I guessed might be the center of the Highlands. But there was only two more hours of daylight so I got off as soon as it reached NE 4th, where the 111 and 105 cross. That’s at Renton Technical College. (So that’s where the college is.) Food options were limited to McDonald’s or a gas station mini-mart, so I was glad I’d already had a hot dog.",
+    "I just missed a 105 which passed as I was walking to the transfer stop. The next one wouldn’t be for a half hour. So I started walking. I guessed a 30 minute walk would get me at least halfway to downtown Renton, but I didn’t really know because I’d only been to the Renton Highlands once, and not to this part.",
+    "The reason I walked was there were more interesting things to look at along the way than in Sammamish and Issaquah, it was downhill, and it has a full-sized sidewalk. NE 4th Street quickly turned into NE 3rd Street, and that continued down the hill and under 405 to Sunset Blvd and Houser Way.",
+    "At the 30 minute mark I reached downtown Renton and the next 105 passed me. It took another 20 minutes to reach Renton Transit Center. But I don’t mind walking in downtown Renton: it’s a walkable downtown, I got to go through Liberty Park and the library bridge over the Cedar River, and I discovered several more blocks of historic retail buildings than I realized were there.",
+    "All the 105s I saw had a yellow stripe on top and were electric buses. I also saw a RapidRide F that was half purple and an electric bus.",
+    "7:30 – 8:00. (30 minutes.) 6 minute wait for a 15 minute route.",
+    "Ridership: 9 at Renton TC. 1 on in downtown Renton. 3 off in western Renton. 2 off in Skyway. 1 on in far south Seattle. 3 on/1 off at the Rainier Beach Safeway. 2 off/1 on at Henderson & Renton Ave. 1 off/1 on at Rainier Beach station. 12 people remained on the bus as it continued.",
+    "8:11 – 8:41. (30 minutes.) 9 minute wait for a 10 minute route. Ridership: Standing room only. 7 on at Rainier Beach (or more if I missed anybody at the northern doors)."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-chs-ksshapingnewrulesfordennyblainenudebeach",
    "srcKey": "chs",
    "cat": "local",
@@ -1479,23 +1485,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-OSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFBoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "How Idaho punished an overdose patient as a trafficker",
-   "author": "",
-   "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
-   "paras": [
-    "How Idaho punished an overdose patient as a trafficker InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-MwOHY0MlFYdk1GZ0lwZnFZOEtRWmJWbWdaNGMoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1530,36 +1519,20 @@
    "annos": null
   },
   {
-   "id": "f-propublica-hGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takgoc5",
-   "srcKey": "propublica",
+   "id": "f-invw-OSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFBoc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+   "title": "How Idaho punished an overdose patient as a trafficker",
    "author": "",
    "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nN21ZdVpVTU84aVhmNWlPNUpGaWdZSXRSZnZjLWVZVlVNOGUyNl9OQ1IwekN1YmxNZ1dycEFuQ2ZodHB3OXp6MTNRZ2JiX3MwZUJwT3hjWk5kTnVHNEdTOWhGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
    "paras": [
-    "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained ProPublica"
+    "How Idaho punished an overdose patient as a trafficker InvestigateWest"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-com20260902midweekroundupbetweentherails",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Midweek Roundup: between the rails",
-   "author": "Nathan Dickey",
-   "date": "2026-09-02",
-   "url": "https://seattletransitblog.com/2026/09/02/midweek-roundup-between-the-rails/",
-   "paras": [
-    "Reminder : most transit agencies will be running Sunday service on Labor Day (Sept. 7). Check your local agency’s rider alerts."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1595,6 +1568,22 @@
    "annos": null
   },
   {
+   "id": "f-stb-com20260902midweekroundupbetweentherails",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: between the rails",
+   "author": "Nathan Dickey",
+   "date": "2026-09-02",
+   "url": "https://seattletransitblog.com/2026/09/02/midweek-roundup-between-the-rails/",
+   "paras": [
+    "Reminder : most transit agencies will be running Sunday service on Labor Day (Sept. 7). Check your local agency’s rider alerts."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-chs-ouldstilldisposeofyourneedlesinasaferway",
    "srcKey": "chs",
    "cat": "local",
@@ -1625,68 +1614,6 @@
    "annos": null
   },
   {
-   "id": "f-chs-isburningagainincapitolhillschophouserow",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "At Sea’d In, the wood fire is burning again in Capitol Hill’s Chophouse Row",
-   "author": "AGPhoto",
-   "date": "2026-09-02",
-   "url": "https://www.capitolhillseattle.com/2026/09/at-sead-in-the-wood-fire-is-burning-again-in-capitol-hills-chophouse-row/",
-   "paras": [
-    "Two of the most important names in the Pike/Pine business community are behind the creation of Sea’d In , a new Capitol Hill restaurant that treats fish like fine steak.",
-    "Chef Heong Soon Park said the spark for the wood fire-powered concept came in a call from Chophouse Row developer Liz Dunn , who Park credits with keeping Capitol Hill’s character intact as the neighborhood changes and grows. She had a showcase restaurant space open and one question for him up front: Did he like cooking with fire?",
-    "Park had already been circling an idea for a seafood restaurant, something he had originally pictured closer to the water, but that concept never found the right home. When Dunn reached out, he brought the idea to her instead, and the two of them worked out the shape of it together. “She inspired me, and then I filled in the blanks,” he says.",
-    "While Dunn — Chophouse Row, the Piston & Ring Building, Melrose Market — is the shaper of many of the core commercial spaces of modern-day Capitol Hill, Park is responsible for a growing fleet of neighborhood restaurants.",
-    "Park’s first venture in Capitol Hill’s restaurant scene was Meet Korean BBQ which has been part of Capitol Hill since its inauspicious opening in the winter of 2020 only weeks before the COVID-19 pandemic lockdowns hit.",
-    "In 2024, Park took on the reinvention of a space that had been home to a deeply rooted Capitol Hill food legend with the transformation that saw his Grana Padano and Parmesan-laden Cheese Room take over the longtime Melrose at Pine home of Machiavelli as its ownership decided to focus on its Edmonds location.",
-    "Park’s most recent Capitol Hill reboot came last year on E Pike where he opened Gol Mok Korean Market Bar , a new start for the Taku space created by Seattle celebrity chef Shota Nakajima .",
-    "Other recent acquisitions include restarts in West Seattle including the Luna Park Cafe .",
-    "Park’s new beginnings aren’t shallow imitations. He has been part of the Seattle dining scene for 20 years and owns Chan in the Paramount Hotel downtown and the Bacco Café in Pike Place Market .",
-    "Sea’d In is also much more than a reboot. The restaurant’s identity is in dry-aged seafood and techniques Park traces back to South Korea where cooks didn’t have the cold storage geography of Europe and instead learned to age fish in the cold sea air.",
-    "Seafood comes in from auction and gets handled as little as possible before going into an aging room held between roughly 0 and 5 degrees Celsius, with humidity between 70 and 90%. Timing depends on the fish. White fish like snapper or branzino ages three to four days, salmon two to three weeks, and tuna, because of its higher fat content, as long as two months. It’s the same protein and enzyme breakdown that tenderizes dry aged beef, drawing out moisture and concentrating flavor.",
-    "From there, everything goes onto Sea’d In’s wood fired grill, the only cooking method in the space formerly home to the Light Sleeper wine bar and once home to long-gone Bar Ferdinand .",
-    "“We start with this basic fish, we layer it with the dry age, we layer it with the smoke, we layer with koji, we layer with the sauce,” Park says. That idea of stacking time and technique is where the restaurant’s “Time and Fire” comes from. Time is aging and fermenting. Then comes the fire.",
-    "Park says this project might be his favorite of anything he’s done, largely because of the Chophouse Row and its courtyard. There is live music on weekends, a monthly art night, and an annual local fashion show, plus neighbors like Xóm and Tailwind Cafe .",
-    "“This is exactly how Capitol Hill used to be. Nothing crazy, always chill, happy, relaxed,” he says. “Now I feel like I’m part of it.”",
-    "For a first visit, he recommends the crudo, all of it dry-aged, along with vegetables cooked over the wood fire and a whole fish that’s gone through the full aging and grilling process.",
-    "“Come in here or sit in the courtyard and enjoy the weather. You don’t have to be on your phone anymore,” Park says. “This is a good place to know neighbors. Meet actual people here.”",
-    "Sea’d In now open inside Chophouse Row at 1124 11th Ave. Learn more at seadinseattle.com ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/08/SeadIn2026-4.jpg?resize=584%2C388&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-asdistrictandteachersunionreachagreement",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Seattle students head to class as district and teachers union reach agreement",
-   "author": "Justin Carder",
-   "date": "2026-09-02",
-   "url": "https://www.capitolhillseattle.com/2026/09/seattle-students-head-to-class-as-district-and-teachers-union-reach-agreement/",
-   "paras": [
-    "Seattle Public Schools and the Seattle Education Association reached a tentative contract agreement late Tuesday clearing the way for classes to begin on schedule Wednesday morning.",
-    "The deal averts a strike across the district which serves some 50,000 students and employs 6,000 union-represented educators and staff . Students in grades 1 through 12 return to classrooms on September 2, followed by preschool and kindergarten students on September 8 . The contract remains subject to ratification votes by both the union membership and the Seattle School Board .",
-    "Specifics of the tentative deal including final salary schedules were not disclosed in the joint announcement but the union said the sides reached “agreements” on all 52 issues raised in the negotiations.",
-    "The tentative agreement reportedly is centered on the district’s officer of an 8.8% baseline salary increase over three years, broken down into annual bumps of 2.6%, 3.6%, and 2.6%. This raise passes through projected state-funded cost-of-living adjustments with no furlough days, alongside standard annual experience step increases averaging roughly 4% for eligible staff.",
-    "CHS reported here on what was at stake as the district’s contract package would pass through projected state-funded cost-of-living adjustments with no local increase. The Seattle Education Association was proposing the same state inflation adjustment plus an additional 6.0% wage increase over three years, alongside targeted bumps for paraprofessionals and office staff.",
-    "Additional provisions including new psychologists, assigning a full-time social worker or counselor to schools with more than 350 students, and restructuring special education models to keep students in neighborhood schools with increased behavioral support were also on the table.",
-    "The district proposal also featured SPS-funded health accounts, reduced monthly staff meetings, and an additional paid training day for more than 1,500 paraprofessionals and office staff.",
-    "The negotiations follow the union’s previous three-year collective bargaining agreement reached in September 2022. That deal provided a 7% raise in year one, 4% in year two, and 3% in year three, alongside cost-of-living adjustments tied to the state Implicit Price Deflator. That established a 14% baseline wage increase over the life of the contract.",
-    "The median and average salary for Seattle Public Schools teachers sits at approximately $117,000 per year.",
-    "Seattle’s public school district is facing ongoing challenges amid falling enrollment. Enrollment is hovering around 49,000 students, representing a drop of roughly 4,500 to 5,000 students from its pre-pandemic peak of 53,627 in 2019–2020. Elementary buildings are currently operating at an average of roughly 65% capacity, well below the district’s 85% target. The primary driver of the long-term decline is smaller incoming classes.",
-    "The district’s plan to shutter under-enrolled elementary schools including Stevens Elementary on Capitol Hill was met with strong public backlash in 2024 but the economic factors driving the push have not improved.",
-    "The district is facing ongoing structural budget deficits, operating with an annual general fund budget of roughly $1.35 billion while managing annual shortfalls in the $90 million to $130 million range. The state allocates school funding primarily on a per-pupil model. With its enrollment dropping, SPS loses tens of millions annually in state basic education funding. Meanwhile, federal pandemic relief funds have fully expired.",
-    "Superintendent Ben Shuldiner praised the bargaining teams and SEA leadership for reaching an agreement that keeps classrooms safe and supportive while allowing schools to open on time.",
-    "“Educators are fierce advocates for our students and SEA members made this agreement possible through strength and unity,” SEA vice president and lead bargainer Davina Diaz said."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/Tentative-agreement-We-will-not-be-striking-and-were-excited-to-welcome-our-students-back-to-.jpg?resize=291%2C362&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-Z6MjFfZnFpblhLbjZpcGFwOHFPS2F3QlJUbFIoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1704,32 +1631,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-FeU9USEFMZHNHV0l3NVllZ2doN21rNWxLTHhnoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "15-year-old Seattle Center shooting suspect denied home release",
+   "id": "f-emerald-pybkxxUDhHczhwMW84Vk41VDZpb19TWFB1MGcoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "New Skate Park in Rainier Beach Gears Up for Official Opening This Fall",
    "author": "",
    "date": "2026-09-02",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYk1iTWpUTmJ3amxMR3p0bmt3ZzR2M2RYbU5lLWRlZHVTSjVXaWtfelBHQVdmRjdhNElfYUxnUXlCWVc0MXJLeGVHZUJFN0ZMLWFXSzNWcEF4UElLdzFaeDVJYVZNZklvNEdRcGduMk82S240cUZIXzBDbjZScFdGU182dVdDSEFPcWJFeU9USEFMZHNHV0l3NVllZ2doN21rNWxLTHhn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTRFZ1ZqMWpCOGpydmFOQUI0SnNxRTFXRldKeDdKaHF6R1Z1LV83Tm1STGxWYUI4R2FWcHY5VGhiTFBhNktBTnBBVkxRX3VkWjEtV3lGTFp4SmxCVDhNNFhnMDk3d05IV2FRNm5RRUJBZ2ZkM2Z0WFNseXp2UDJHUEQ1TElzY3hrM3F3UFVLM2NjYTV2bE15ek5RWkxzcldDSjhDaE1tVFZBeWtjb3BBS09xS1cySy05Vjl2dFhTYmlXQdIBzwFBVV95cUxQZ0hha2M3VzI2b1hTbTZ6VFNaWEtDUEFzVDRieGxoSXRGb2ladnQtV2FPUzdKdUw0NnZHOWlHOUpMSDlHYWJPRk1LYXNINFlfVmJIbVJhal9ydkRKS2Jjekg5REZkTWo0Wl84LUtkQ2Y2VGVGUWdKbXJPR182WGF0TUtpNkFQM0xpZXdobFZ5WkdxZ19xRndEb3B3ZWlQVUl6aHB2R21UVEZZX3VnSHpwZ0ZlNGpybkxxUDhHczhwMW84Vk41VDZpb19TWFB1MGc?oc=5",
    "paras": [
-    "15-year-old Seattle Center shooting suspect denied home release KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-k5nT1lISGpZZVFtc2tfUDFLOXFYOFA1b1VIdwoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "The Pacific Northwest has a copper theft problem",
-   "author": "",
-   "date": "2026-09-02",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHM5YlJoUHhWclFyTzlkZTNFeC1uRFhTY1lZNzRieUdjLXZESmhXR1doZkVYVXMzcWlfeldMUFBaMFFLcGJUdGloOTJwc1VDWFF2c0pDRkFGY3pPZjVIV3ZlcTQ1bXpBZ3JXQWM1T3RfdUZVc3BEdk5nT1lISGpZZVFtc2tfUDFLOXFYOFA1b1VIdw?oc=5",
-   "paras": [
-    "The Pacific Northwest has a copper theft problem KUOW"
+    "New Skate Park in Rainier Beach Gears Up for Official Opening This Fall South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
@@ -1777,61 +1687,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-dseattlepressconcoctfalsewilsonnarrative",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Op-Ed: Seattle Press Are Concocting a False Narrative to Undermine Mayor Wilson",
-   "author": "Maggie Block",
-   "date": "2026-09-01",
-   "url": "https://www.theurbanist.org/op-ed-seattle-press-concoct-false-wilson-narrative/",
-   "paras": [
-    "I am losing my mind consuming the local news coverage of the Seattle Center shooting and its aftermath.",
-    "I want to be clear right at the top, that I believe the job of the media, of journalism, is to hold those in power accountable. And if local broadcast and legacy media want to focus on holding our progressive city leaders to account, on legitimate concerns – crucially, in a way balanced with how they cover business-focused “moderate” politicians – I will welcome them with open arms.",
-    "But KIRO and KOMO’s coverage of Mayor Katie Wilson’s office in general, and after the Bite of Seattle shooting in particular, is something they need to be held accountable for.",
-    "On Monday, KIRO's newly installed news director, Jennifer Dahl, sat on a panel at Scenius Social billed as a conversation about art and Seattle's creative community. Twice, she turned the conversation toward Mayor Wilson and the communication failure after the Seattle Center shooting, a failure the mayor has already admitted.",
-    "Dahl warned that it could \"happen again,\" invoking a mass shooting in Oregon.",
-    "Nothing sharpens a narrative quite like fear.",
-    "And I’m loath to admit it, but the failure was real.",
-    "However, Wilson has apologized. She asked the city's independent Inspector General to reconstruct what happened, figure out why it happened, and recommend how to prevent it from happening again.",
-    "I know that is something we rarely see from political leaders, so I can understand why a lay person may not know how to identify it. But professional journalists should know: that’s what accountability looks like.",
-    "Accountability is not turning one mistake into an albatross and hanging it around a woman's neck until Election Day.",
-    "Three people died at Seattle Center. A two-year-old was wounded. Families are grieving. Workers who tried to save lives are carrying images I imagine they would give anything to forget.",
-    "And somehow the great political question emerging from all of this has become: Why wasn't the mayor standing behind a microphone sooner?",
-    "Had the press conference happened exactly on time, three people would still be dead. The failure was in communicating about the response, not the response itself. Those are different things. Turning them into the same thing is not journalism happening naturally. It is an editorial choice. Then Dahl suggested the city should \"turn on the Flock cameras.\"",
-    "Except, Seattle doesn't have Flock cameras . It has CCTV operated by the vendor Axon . Further, I am confused as to what Dahl imagines surveillance cameras could have done, as there were police officers standing roughly four paces from the shooters at Bite of Seattle.",
-    "How could a camera have stopped what armed police officers standing feet away could not?",
-    "This is how consent gets manufactured. Not through some smoky-room conspiracy where editors decide what you're allowed to believe. It's much more ordinary than that.",
-    "They decide what matters. Three people are killed, and yet the delayed press conference becomes the story. A delay of a few hours, confusion, questions about who was in charge, repeated again and again, until a single detail hardens into a verdict: City Hall is dysfunctional.",
-    "After that, the story begins feeding itself. A disagreement between SPD and the mayor becomes more evidence. A few councilmembers sharply criticize her and now there are \"growing questions about her leadership.\" Then somebody commissions a poll asking voters whether they're worried about her leadership, and suddenly the media is reporting a public perception it helped manufacture.",
-    "Every individual fact can be true while the story constructed from them is bullshit.",
-    "Because a mayor arriving late to a podium is television.",
-    "The slow, boring, desperately important work of preventing the next shooting, youth programs, housing, coordination, intervention, mental health care, and the unglamorous labor of keeping people alive, isn't.",
-    "Our housing crisis did not begin in January. Homelessness did not begin in January. Public safety problems did not begin in January. Neither did government communication failures.",
-    "I remember 2020, after Lorenzo Anderson was shot during CHOP, when Seattle Fire waited nearby while police and fire struggled to coordinate their response. Mayor Jenny Durkan privately called what happened \"foreseeable and avoidable\" and ordered her chiefs to make sure it didn't happen again.",
-    "I don't mention that to excuse Wilson's mistake. Trust me, I have plenty of criticisms of my own for Seattle’s mayor. I mention it because history did not begin the morning Katie Wilson became mayor.",
-    "If communication breakdowns after deadly violence happened under previous administrations, then somebody should explain why this failure proves something uniquely rotten about this one.",
-    "Otherwise we're not applying a standard, but constructing one.",
-    "If one listens to local news lately and you'd think somebody handed Katie Wilson the keys to a perfectly functioning Seattle and she totaled it pulling out of the parking lot.",
-    "Take Starbucks. Recent coverage has asked whether layoffs at the company prove Seattle has become hostile to business. Except Starbucks cut roughly 2,000 corporate jobs across two rounds in 2025, before Wilson was mayor, as part of a turnaround strategy that began the previous September and sought billions in cost reductions.",
-    "That is a multinational corporation following its own restructuring plan.",
-    "It is not eight months of Katie Wilson's mayoralty somehow reaching backward through time.",
-    "Since we're suddenly so worried about Seattle's \"business climate,\" when exactly do we get a nightly segment about the climate for workers?",
-    "You know, the people wondering whether they can pay rent. Buy groceries. Afford childcare. Keep living in the city where they work. Why does their anxiety always seem to be less newsworthy than a shareholder's?",
-    "The same thing happened with the recall petition filed by a married couple who also happened to have voted for her opponent last November. Every responsible outlet acknowledged it has little chance of surviving judicial review. In fact, the couple rescinded their recall filing this week, as the effort ran into the buzzsaw of a skeptical judge at its first hearing. But politically, it doesn't have to survive. It just has to consume oxygen.",
-    "That's how a housing affordability press conference becomes a press conference about the recall, while universal school meals , junk-fee protections and restrictions on surveillance-based dynamic grocery pricing struggle for the same attention.",
-    "Councilmember Bob Kettle held his own public safety press conference just before the mayor signed a set of executive orders accelerating Vision Zero . Seattle had 27 traffic deaths in 2025, including 18 pedestrians, compared with 37 homicides. Different causes. Similar human stakes.",
-    "Yet one produces weeks of breathless coverage while the other mostly produces passing mention and sad little roadside memorials we drive past on the way to work. Why?",
-    "That makes her human. It does not automatically make her uniquely incompetent. There has never been a flawless executive leader, anywhere. Certainly not in Seattle. And I have never seen the broadcast news concoct such a grandiose story around mayoral incompetence, despite far more deserving examples.",
-    "So it’s time to start asking questions of the people asking the questions.",
-    "Why does the business owner get the microphone while the worker disappears?",
-    "Why is the person demanding more cameras treated as an authority on safety while the person who will be watched by those cameras gets called an activist?"
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/08/Katie-Wilson-fields-questions-from-Chris-Daniels-and-friends-at-Denny-Way---Trumm-PXL_20260820.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-FveGlLZ2xVcGdPLWRpcXJMNm5jTXVMdFFnNGcoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1866,6 +1721,23 @@
    "annos": null
   },
   {
+   "id": "f-propublica-ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkEoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Help Us Investigate Abusive Coaches in Youth Sports",
+   "author": "",
+   "date": "2026-09-01",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajhfX0RYNXVnWkVqenFoMkY3RF9Vcm5LWVQ4UVdVcDUxZGx3cFpENzZ1NXZnNklmY1FlU0NJZTR3M3FZakdMSi02d21KSTVQVWpVMXFkeFU1eUh6bGRVSzQxb3dMNHlHR3BYR0lKMEtOWWEzakJjeXlnS2ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkE?oc=5",
+   "paras": [
+    "Help Us Investigate Abusive Coaches in Youth Sports ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-propublica-GYUZLeEZsejVnUE9qQ3BMa3JPWjZrZVlsXzdOoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1880,34 +1752,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-logcom20260831linkendsearlierstartslater",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Link Ends Earlier, Starts Later",
-   "author": "Mike Orr",
-   "date": "2026-08-31",
-   "url": "https://seattletransitblog.com/2026/08/31/link-ends-earlier-starts-later/",
-   "paras": [
-    "Several comments have raised concerns that the August 29th service change shortened Link’s service day, so that it now ends earlier and starts later. This interacts with the launch of ST Express “Night Ride” routes between midnight and 4am. These theoretically can replace Link trips. But the ST Express routes bypass several high-ridership Seattle Link stations. This can force trips that were on Link in the midnight hour or 11 pm hour or 4 am hour to an ST Express or Metro route, turn a 1-seat ride into a 2-seat ride, and the bus routes are less frequent than Link was.",
-    "I wanted to know, did the spans really change on August 29? What is the current situation on weekdays, Saturdays, and Sundays? What kinds of trips at what hours are newly 2-seat rides? Where is the best place to live to have the earliest or latest Link service? Which can you go to on those lucky runs?",
-    "I looked at the new 1 Line and 2 Line schedules to quantify the current situation and changes. To reach these pages from Sound Transit’s website, use the schedule form on the home page to get to the interactive charts. To get a PDF of the schedule, go to the bottom of the page and press the “Full Schedule PDF” button.",
-    "I tried to make a consolidated list that would organize the first/last runs in different areas and days. But it was an insanely difficult job, and after a few hours I gave up.",
-    "So instead we’re going to crowdsource the issue.",
-    "How has Link’s span changed since August 29th? Has this affected your trips? Or do you see other people’s trips that are affected? Can you glean more from the schedules than I can? Can you figure out the right questions to ask AI to figure it out? (If you do, please disclose AI’s role in the result.)",
-    "Some of these impacts have already come up in recent articles’ comments, but this article is a place to consolidate them all together so we can see the total impact. And it will be a reference in the future when people have a question, so that they can find it all in one easy-to-find place.",
-    "The problem I had with the interactive schedule pages was I had to keep scrolling four directions to get at the first or last full run and short run, and when that would get you to Westlake or SeaTac or the final terminus. I had to keep going up to the date switcher. I kept finding mistake after mistake in my results, so I had to go back and reconfirm them, or compare weekday to Saturday again, and make sure I hadn’t jumped back to a date before the service change. Reading the PDFs online was a lot of up-and-down scrolling with similar printing. Printing the PDFs to get a wider-area view at once would take 34 pages per line. Maybe ST has a printed schedule book with them but I’d have to go search for a copy. I didn’t want to publish a list with mistakes that would waste everybody’s time.",
-    "Maybe if different people address small parts of the issue individually, we can get those facts more accurately and a better idea of the whole.",
-    "ST in the future wants to shorten Link’s span further, or have more single-track reductions, or more weekend closures of segments, to increase the time available for maintenance. We desperately want ST to increase maintenance because Link’s reliability is far below peer cities’ networks. This causes passengers to get stuck en route, be late for appointments, or drive to critical appointments to avoid the risk that Link will hiccup that day. It also snares visitors and gives them a negative impression of Seattle and Seattle’s transit. So we really want maintenance to be increased to make Link more reliable.",
-    "At the same time we need Link’s late-night and early-morning service. If ST Express night owls bypass several Seattle stations in the shoulder hours Link used to provide, then it’s not an adequate substitute. ST says Metro has night owl buses in all those areas (7, 36, 49, 67, 70). But those night runs are funded by Seattle’s transit levy, and will go away if voters don’t renew the levy this November. Metro stopped funding Seattle night owls in the 2014 recession. Also, the bus routes are half-hourly or hourly, as opposed to Link’s 15 minutes. If you switch to say the 49+597 or 36+597 to workaround the loss of Link, you may be waiting 30+30 minutes or a full hour.",
-    "This affects people coming home from bars, staff working at bars, people who start or end a night shift, people going to the airport for an early-morning flight, and people coming from an evening flight that was delayed and didn’t land until midnight or later, and airport workers with early-morning shifts.",
-    "So what are the actual problems now? Did Link’s span decrease August 29th? What kinds of trips, where, and when are affected? If in the future ST ends Link even earlier at 10pm or 9 pm every day or on monthly maintenance days or two-week maintenance periods, how big a deal would that be? How would we cope with it? What should we tell Sound Transit and our politicians about all this?"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1965,6 +1809,23 @@
    "annos": null
   },
   {
+   "id": "f-emerald-IUXlWLVVGUGFMLTg3RmNtUzJ6MGxDNmUyRW5Poc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Aftermath",
+   "author": "",
+   "date": "2026-08-30",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wYTl4eWl5cEoyQTBjU0JlQmxpZjl5U1hjT0I0ZUZKenYtZTlzZjFqNmNUbkYzdTR5c3Ftc0cwZ3pHNW50ZUFfSFlpNTgzWkJ0NjhacFZTYUktNEVPWkYxVFRtSXFmTzdzajlzeWZGMTR3S05HaWhnSjJZNNIBiAFBVV95cUxPTTN6ZzBzY2NBR0tpMXdoSnplMUM5Q0szS2xkMGJfeDFyRGlIQnp3LWo5Y21uTEJxOHBRQVR2T2tuWURfdlBta3pPS0FSMUNfVkw5UHVIeDdsR2MyM0IyODZzZ0lnRzNBTE0tSmtIUXlWLVVGUGFMLTg3RmNtUzJ6MGxDNmUyRW5P?oc=5",
+   "paras": [
+    "DOOM LOOP: Aftermath South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-eater-eeatercomdiningreport90880cafeloloreview",
    "srcKey": "eater",
    "cat": "food",
@@ -2004,6 +1865,40 @@
    "annos": null
   },
   {
+   "id": "f-kuow-1c1dkdQOE1mUmJsSnZwMmVuRVVpTUJPZ3Nadwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "New records detail ICE arrests in WA during summer surge. Yakima, Seattle top the list",
+   "author": "",
+   "date": "2026-08-28",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdU5JbFNwZF9PUlF5bDVlZlFlMDVoRUNzbHdwWXJHU2V3blNvTjg5ZG05U2ZvblV5NWlTVjd3Wl9rQ0N5emJKZ0ZsZjdWZ2UzRFNUZl9IVXA1a01fd2l4azBmQ1FQbzhuUU90Sm9nS050TjhPYWFXbEJpc0N0YlBIUllYVUVrVDZzeVVFSXBvN2puQ1MxbUkxV3pVNFpxbklLVE9qV1c1dkdQOE1mUmJsSnZwMmVuRVVpTUJPZ3Nadw?oc=5",
+   "paras": [
+    "New records detail ICE arrests in WA during summer surge. Yakima, Seattle top the list KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-hBQlhLTGVwSWtaMTJ4V1FUajBsY2h6Q1hOLWooc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital”",
+   "author": "",
+   "date": "2026-08-28",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1pSQ2lTNTlCOWNlVll4eEFESGNCUTA3eml2N25uUkdXbkpPYlN1bU01aDdQN3RIZDM2alZXWnd4ZDVDaVRrc0JIampIQlhRNW5qUHpFWnpvQU90czRKdlNEbEdCX1BDNlhBQlhLTGVwSWtaMTJ4V1FUajBsY2h6Q1hOLWo?oc=5",
+   "paras": [
+    "Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital” ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-invw-3FMUTMwZXM1aGhpWEhSUU5fUzRHcVN3ZV8yeAoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -2030,23 +1925,6 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
    "paras": [
     "Edmonds gives new contract to principal amid public concerns InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-KT1o4SVJubTNHdFdqbG5Qb2xIcG8zZGttQlhnoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway.",
-   "author": "",
-   "date": "2026-08-25",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV1R5U3ZsR0lxSEVqWlZhUFpwVTRyWU9aelBMUkJBNFd4VjQ1U3hxUEo1T2hyRExtQmN0aFgwb21rZGRKQ3BXR0ktSGF4cExialhaeWVVNWpqSUs5RmRSYWxSenJDWk1KV1lhVndWelFpWW00aHlDQTdGRXR3ZkdLTjlnS2ZSMEFKT1o4SVJubTNHdFdqbG5Qb2xIcG8zZGttQlhn?oc=5",
-   "paras": [
-    "Top Commanders Told Hegseth Not to Cut Civilian Protection Program, Poll Showed. He Did It Anyway. ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -2089,23 +1967,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-hQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVEoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Judge grants Idaho agency immunity in free speech lawsuit",
-   "author": "",
-   "date": "2026-08-14",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
-   "paras": [
-    "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-lwUG9tUGY5NFVkb1IyNGdqakdDaFlvMHVFMGcoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -2115,6 +1976,23 @@
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFhpU1E3cHJQWDc0aGVMdEtLSm1GMmI0Z0dVWnMzQkxVM1Q4cGROOVFnck9sRzZaOWdDR2pNY1cyQ3NfSjZfZk0yN3ZtQUx3TXd1Q0piSkxzS3pCcVR0T2M2b1YwZmxyX1ZLdW82OUhCUUZRUlZ3YkxZbDlwUG9tUGY5NFVkb1IyNGdqakdDaFlvMHVFMGc?oc=5",
    "paras": [
     "Inside Trump’s Failed Hunt for Noncitizen Voters ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-hQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVEoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Judge grants Idaho agency immunity in free speech lawsuit",
+   "author": "",
+   "date": "2026-08-14",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
+   "paras": [
+    "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
    ],
    "img": "",
    "fetched": true,
