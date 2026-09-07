@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-06T17:53:26.389Z",
- "builtFor": "2026-09-06",
- "builtHour": "10",
- "count": 88,
+ "builtAt": "2026-09-07T19:29:31.065Z",
+ "builtFor": "2026-09-07",
+ "builtHour": "12",
+ "count": 85,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 2,
-   "via": "google-news"
+   "count": 1,
+   "via": "feed"
   },
   {
    "source": "geekwire",
@@ -41,7 +41,7 @@
   },
   {
    "source": "grist",
-   "count": 4,
+   "count": 3,
    "via": "google-news"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 5,
+   "count": 4,
    "via": "google-news"
   },
   {
@@ -86,6 +86,445 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-sandmoreinrealtimewithapostlayoffproject",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "All a circuit board! Tech engineer tracks trains, ferries and more in real time with a post-layoff project",
+   "author": "Kurt Schlosser",
+   "date": "2026-09-07",
+   "url": "https://www.geekwire.com/2026/all-a-circuit-board-tech-engineer-tracks-trains-ferries-and-more-in-real-time-with-a-post-layoff-project/",
+   "paras": [
+    "When Sound Transit opened the light rail 2 Line across Lake Washington in March, software engineer Michael Benedict built a custom gift to mark the milestone for his transit-fanatic wife: a circuit board map of Seattle with tiny lights depicting moving trains.",
+    "Today, that personal birthday project has evolved into Seattle Transit Live , an interactive LED map that tracks Puget Sound-area light rail, trains, ferries, and the water taxi in real time using public transit data.",
+    "The extra time to indulge in such a detailed build came after Benedict was laid off from Amazon — where he worked as an engineer for a little over three years. Rather than rushing into another full-time corporate role, he picked up some freelancing and gave himself room to dive into CAD design, custom hardware and the prototyping process.",
+    "“I put way more time than is ever going to be economic into this,” Benedict told GeekWire. “I really kind of luxuriated in it because I didn’t have a job and I could just go deep.”",
+    "Designed on a custom fiberglass circuit board with etched copper detailing Seattle-area waterways, the $219 device plugs into Wi-Fi to display live positions of vehicles like Sound Transit trains, Washington State Ferries, the Sounder, and Monorail.",
+    "After Benedict posted an early prototype on Reddit and saw an enthusiastic response from local transit geeks asking to buy one, he refined the design and turned the side project into a full production run.",
+    "To power the display, the board uses an ambient light sensor to adjust to room brightness and features three distinct software modes. Alongside the real-time data mode, users can switch to a schedule replay mode or a fast-forward option that cycles through a full 24-hour transit schedule at 400x speed — letting users watch a day’s worth of regional traffic zip across the board in minutes.",
+    "The 8.6-by-11.8-inch boards are pretty jammed with assorted routes, but we had to ask if there would ever be room for Sound Transit’s eternally delayed Ballard neighborhood line.",
+    "“If I’m still making transit maps by the time they put Ballard in,” Benedict laughed, “I’m going to consider that a huge win all around.”",
+    "While circuit board maps and LED transit art have been built for transit networks in major cities like New York and Tokyo, Benedict sees Seattle’s unique geography and growing light rail as a compelling canvas for the concept. The board isn’t intended to replace trip-planning apps like OneBusAway, but rather to serve as a piece of functional art that captures the living movement of the region in a physical medium. And it’s all open-source .",
+    "The printed circuit boards are manufactured in Shenzhen, China — a standard approach for small-batch electronics — but Benedict wanted to keep a key part of the production local. He partnered with Oxbow Fabrication in Seattle’s Georgetown neighborhood to CNC-machine custom wooden stands, ensuring each board ships with a locally made mount.",
+    "The initial run of 50 pre-orders sold out quickly, prompting Benedict to order another 150 units to carry him through the end of the year. And going all-in on an independent hardware project has come with its own brand of founder anxiety.",
+    "“Putting 75,000 LEDs on your personal credit card is enough to make you think, ‘Maybe I should send some emails,'” he laughed.",
+    "Benedict recently showcased the project at the Seattle Design Festival, and he’s considering potential retail establishments in the city where offering such a niche piece might make sense — such as the gift shop at the Seattle Art Museum.",
+    "Beyond Amazon, Benedict’s tech career has included data science roles at 98point6 and Modernist Cuisine. Originally from Queens, N.Y., his embrace of the Pacific Northwest has been accentuated by his hardware project. Living next to the new Judkins Park station for the 2 Line, with a front-row seat to the region’s evolving transit landscape, has helped, too.",
+    "“Transit is just a really cool subject matter for it,” Benedict said. “It’s on a schedule, the data’s there, and it feels very Seattle — how the boats and trains move around.”"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/transitboard1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-rbanism101whatistransportationresilience",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Urbanism 101: What Is Transportation Resilience?",
+   "author": "Maulsri Jha",
+   "date": "2026-09-07",
+   "url": "https://www.theurbanist.org/urbanism-101-what-is-transportation-resilience/",
+   "paras": [
+    "Imagine that the road connecting your neighborhood to the rest of the city suddenly closes. Your usual bus must take a lengthy detour, traffic shifts onto residential streets, deliveries are delayed, and a trip that once took 20 minutes now requires an hour. If you do not own a car, use a wheelchair, work an inflexible shift, or depend on a particular transit connection, your options may become even more limited.",
+    "This is the kind of situation transportation resilience is intended to address.",
+    "Transportation resilience is commonly defined as the ability of a transportation system to anticipate, prepare for, withstand, respond to, recover from, and adapt to disruptions. Those disruptions can include earthquakes, flooding, landslides, wildfire, extreme heat, severe storms, infrastructure failures, power outages, cyberattacks, or major collisions. Some occur suddenly, while others emerge gradually as infrastructure ages or climate conditions change.",
+    "Although the term can sound technical, its central question is straightforward: When something goes wrong, can people still get where they need to go?",
+    "A resilient transportation system certainly needs bridges, roads, rail lines, retaining walls, drainage facilities, and transit infrastructure capable of withstanding hazards. Seismic retrofits can help bridges survive earthquakes. Larger culverts and improved drainage can reduce roadway flooding. Heat-resistant materials can help pavement and rail infrastructure perform during extreme temperatures.",
+    "Physical strength, however, is only one part of resilience. A bridge might be structurally sound, but the surrounding transportation system may still be vulnerable if that bridge is the only practical connection available. Conversely, an individual road may temporarily close without creating a regional crisis if travelers have safe, reliable, and accessible alternatives.",
+    "This distinction moves resilience planning from individual assets to transportation networks. Planners must consider not only whether a particular structure can withstand a disruption, but also how the broader system functions when one component becomes unavailable.",
+    "The sudden closure of the West Seattle High-Rise Bridge in March 2020 offers a vivid local example. Structural cracking forced the City to remove a major connection that had carried people between West Seattle and the rest of the city.",
+    "The closure did not physically isolate the peninsula, but it greatly reduced its transportation capacity. Traffic shifted to alternative routes, increasing volumes through communities near the Duwamish River. According to the Seattle Department of Transportation, traffic at some locations on the detour network more than doubled after the closure. The disruption affected freight, transit, emergency access, businesses, and daily travel.",
+    "The City’s Reconnect West Seattle implementation program responded with transit improvements, traffic management, bicycle and pedestrian projects, and changes along detour routes. These measures could not replace the bridge’s full capacity, but they illustrate a central resilience principle: recovery depends on having multiple ways to move people, not simply restoring automobile traffic.",
+    "The bridge closure was caused by structural deterioration rather than a natural disaster, but resilience planning applies in either case. A system that depends heavily on one critical connection remains vulnerable regardless of what causes that connection to fail.",
+    "Transportation resilience becomes easier to understand when divided into five related qualities.",
+    "The first is resistance. Infrastructure should be designed, maintained, or strengthened to reduce the likelihood that a hazard will cause it to fail. Seismic bridge retrofits, stabilized slopes, fire-resistant materials, drainage improvements, and flood protection are all examples.",
+    "The second is redundancy. People should have more than one practical way to reach essential destinations. Redundancy might come from an alternative roadway, another bridge, a parallel transit route, a ferry connection, or a safe walking and bicycling network. An alternative that exists on a map but is unsafe, inaccessible, or regularly congested may offer little meaningful redundancy.",
+    "The third is response. Transportation agencies need systems for detecting problems, communicating with travelers, rerouting service, managing traffic, and prioritizing emergency access. Clear information can be as important as physical infrastructure during the first hours of a disruption.",
+    "The fourth is recovery. Agencies must be able to restore essential service quickly, even when permanent reconstruction takes much longer. Temporary bridges, emergency transit service, interim traffic controls, and rapid repairs can reduce the social and economic consequences of an extended closure.",
+    "The fifth is adaptation. After a disruption, planners should determine why the system was vulnerable and use that knowledge to improve future projects. Rebuilding an asset exactly as it existed may restore yesterday’s conditions while preserving tomorrow’s risk.",
+    "The Puget Sound region faces several climate-related transportation risks. King County’s 2025 Strategic Climate Action Plan anticipates hotter summers, rising sea levels, and more intense heavy-rain events. These changes can affect pavement, bridges, drainage systems, transit facilities, electrical equipment, coastal roads, and slopes.",
+    "King County Metro identifies extreme heat, poor air quality, river flooding, surface flooding, coastal flooding, and sea-level rise among the conditions that can affect its riders, workers, bases, and service operations. A resilient transit system must therefore consider whether buses can reach their routes, whether maintenance facilities remain operational, whether electrical equipment can withstand higher temperatures, and whether riders have safe places to wait during heat or smoke events.",
+    "Climate resilience does not mean predicting the exact date or location of every future disruption. It means designing transportation decisions around a wider range of plausible conditions instead of assuming that historical weather patterns will remain unchanged.",
+    "Transportation resilience is sometimes confused with transportation sustainability. The concepts overlap, but they address different questions.",
+    "Sustainability asks how transportation can reduce environmental harm, resource consumption, and greenhouse-gas emissions over time. Resilience asks how transportation continues functioning when it experiences stress or disruption.",
+    "A system can support both goals. Frequent public transit, connected bicycle facilities, and safe walking routes can reduce emissions during normal conditions while providing alternatives when a roadway closes. Green stormwater infrastructure can manage rainfall, improve water quality, and reduce flooding. Compact, mixed-use neighborhoods can shorten trips while making essential destinations easier to reach during disruptions.",
+    "The relationship can also involve tradeoffs. An emergency detour may preserve access but increase traffic and pollution in a community already burdened by transportation impacts. A protective structure may reduce flood risk for a roadway while damaging habitat or transferring risk elsewhere. Resilience planning must therefore evaluate who receives protection, who experiences new burdens, and whether a proposed solution creates other long-term problems.",
+    "Equity is essential to transportation resilience because disruptions do not affect everyone in the same way. A person with a flexible schedule and multiple vehicles may adapt to a road closure relatively easily. A transit-dependent worker, caregiver, older adult, delivery driver, or person with a disability may face much greater consequences.",
+    "The quality of an alternative matters as much as its existence. A detour that adds 10 miles may be inconvenient for a driver but impossible for someone traveling by bicycle. A replacement bus may not solve the problem if its stop lacks an accessible pathway. Online travel information may not reach people without reliable internet access or people who need information in another language.",
+    "Resilience assessments should therefore ask which communities depend on a vulnerable connection, which destinations they need to reach, and which alternatives they can realistically use. This requires demographic and accessibility information, but it also requires direct engagement with the people who experience the transportation system.",
+    "There is no single measurement that captures transportation resilience. Planners typically examine several indicators together.",
+    "They may assess how many people or essential destinations would lose access if a bridge or road closed. They may calculate how much additional time an alternative route would require, determine whether emergency vehicles could still reach an area, or estimate how quickly transit service could be restored. They may also examine infrastructure condition, exposure to hazards, availability of alternative modes, and the social vulnerability of affected communities.",
+    "The Federal Highway Administration describes resilience as the ability to prepare for changing conditions, withstand and respond to disruptions, and recover rapidly. Translating that concept into planning means connecting physical infrastructure analysis with questions of access, mobility, public safety, and recovery time.",
+    "Good resilience planning also evaluates results after projects are completed. If a drainage upgrade was intended to reduce roadway closures, agencies should track whether closures actually become less frequent. If a new transit connection was intended to provide redundancy, planners should determine whether people can use it during a disruption.",
+    "The most visible resilience investments may be large bridges, seawalls, or flood-control projects, but many useful measures are less dramatic. Maintaining sidewalks and curb ramps can preserve access during an emergency. Providing shade at transit stops can protect riders during extreme heat. Improving drainage can prevent a frequently flooded intersection from becoming impassable. Connecting bicycle routes can create an alternative when motor-vehicle capacity is constrained.",
+    "Transportation resilience is therefore not a separate concern reserved for disasters. It is part of routine decisions about maintenance, project prioritization, street design, transit operations, land use, and public communication.",
+    "A resilient city does not expect every road, bridge, or transit line to operate without interruption forever. Instead, it recognizes that disruptions will occur and prepares the transportation system to absorb them without cutting people off from the necessities of daily life.",
+    "The ultimate measure of resilience is not whether infrastructure remains untouched. It is whether communities remain connected, essential services remain reachable, and the transportation system learns and improves after conditions change.",
+    "Maulsri Jha, PhD, AICP, LEED GA is a transportation and climate-resilience planner whose work focuses on infrastructure vulnerability, mobility, environmental risk, and community access. Her doctoral research examined how communities can evaluate whether adopted climate-resilience plans produce measurable outcomes. She is also the creator of The Resilient City, a LinkedIn newsletter covering transportation, urban planning, street safety, transit access, and climate resilience."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/DJI_0076-scaled-1-.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-rstrikeinwaisstillgoingoninpioneersquare",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Longest Hotel Worker Strike in WA Is Still Going On in Pioneer Square",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://southseattleemerald.org/news/2026/09/07/the-longest-hotel-worker-strike-in-wa-is-still-going-on-in-pioneer-square",
+   "paras": [
+    "One day in August, as Sounders fans walked to CenturyLink Field, hotel workers on strike at an Embassy Suites (Embassy Suites by Hilton Seattle Downtown Pioneer Square) made some noise. They drummed, they blew air sirens, and they chanted for better pay and working conditions. \"We're fighting for us and for [employees] who are inside because we know the work and the everyday difficulties in all of our lives,\" said Christian Gutierrez. \"The city is expensive, our rent, our bills — and we need to build a better future for each other.\"",
+    "Gutierrez works in housekeeping at Embassy Suites, where hotel workers, through UNITE HERE Local 8, have been on strike since June 18. It's now the longest hotel strike in Washington history.",
+    "Local 8, which represents about 7,000 hospitality industry workers in Oregon and Washington, proposed roughly $3 an hour in raises for each of the next two years, year-round health insurance to ensure employees keep health care during the slower winter months, and notification to workers and the union if Immigration and Customs Enforcement (ICE) agents are on the premises.",
+    "Jake Douglas, Local 8's campaign researcher, said bargaining started in March. In early June, 94% of Embassy Suites union workers authorized a strike. A spokesperson for Hilton Hotels wrote in a statement, \"We remain committed to negotiating in good faith to reach a fair and reasonable agreement that benefits both our valued Team Members and our hotel.\"",
+    "About two weeks into the strike, Local 8 met with Hilton Hotels again in a large meeting with workers, where an additional yearly annual raise of 1 cent per hour was offered by Hilton Hotels. \"That solidified people's resolve to keep going,\" said Douglas. \"People felt so disrespected by an offer like that. A majority of workers have continued the strike.\"",
+    "The strike at Embassy Suites coincided with the start of the FIFA World Cup events in Seattle, when the federal administration initially announced there would be increased ICE presence at FIFA venues. \"For us, it was a big worry,\" said Gutierrez. \"Sometimes we read that people doubt that we are legal migrants. We have our work permit. … But we don't know what would happen with us if [ICE] came here to work.\"",
+    "Among worker demands were procedures to protect immigrant employees, including to inform workers if ICE was in the area. Management rejected the proposal. Douglas said this has bothered workers at Embassy Suites and has added to the mistrust.",
+    "Strikers were joined by Rep. Pramila Jayapal on the first day of the strike. In June, Gov. Bob Ferguson walked the picket line with the workers. Seattle City Council declared July 21 Hotel Worker Day and presented a statement of support for striking Embassy Suites workers. According to the Puget Sound Business Journal , a repeat corporate customer of Embassy Suites pulled its business out of the hotel, resulting in a $18,500 loss per month.",
+    "On Labor Day, Monday, Sept. 7, at 10 a.m., King County Executive Girmay Zahilay and Seattle Mayor Katie Wilson are expected to join the striking hotel workers.",
+    "Gutierrez has worked at Embassy Suites for two years. The building has 28 floors and 282 rooms. He was assigned 10 suites a day, many of which have two beds plus a sofa bed. \"We make sure everything is perfect for the guests, and you finish at 4 p.m. because you have to clock in and clock out with your finger[print] on a machine,\" he said.",
+    "Gutierrez said there were times the hotel didn't receive enough towels or sheets from the laundry company, and employees would go to other floors or to the basement on limited time to find needed items. \"If somebody finishes early, we can help other people who are behind on finishing their rooms,\" Gutierrez said. \"It's a good environment. For that reason, it's important for us to protect the job.\"",
+    "In January, Embassy Suites by Hilton Seattle Downtown Pioneer Square was ranked the No. 1 hotel in Seattle on Tripadvisor.",
+    "Gutierrez was a web developer in Colombia and came to the U.S. seeking a better opportunity. He obtained a work permit and picked Seattle because of its tech industry, but said he doesn't have the connections to get a tech job. He sends money to his family in Colombia, and in August, his home in Colombia was impacted by the Pereira earthquake. \"Now I need to help [my family] to make repairs for the house, and my sister is pregnant. The only person who can help them is me.\"",
+    "Fritzie Corral originally left Manila, Philippines, in 2013 after she paid thousands to an overseas employment agency, which got her a job at a non-Hilton hotel in Montana. Months after she arrived, the agency demanded more money, she said, and when she couldn't pay, they cut off her U.S. visa. Corral is a survivor of human trafficking, and she received a human-trafficking visa, which allowed her to bring her four children and mother to the U.S.",
+    "Corral left Montana to be with her son in Seattle. She took a full-time position at Embassy Suites in the food and beverage department as a breakfast attendant. She arrived at work as early as 5:30 a.m. to brew coffee, bus tables, clean buffet tables, mop, and vacuum. When breakfast hours dropped to 25 hours a week, she asked to pick up more work.",
+    "She said management offered her work that takes her to 25 to 30 hours a week, though many of those hours are at a lower pay rate than she had before. She says she wasn't informed about the lower rate. \"I wonder why they didn't advertise for a seasonal position,\" said Corral, who lives in Burien. \"Before taking the job, I had planned my finances around this. I feel deceived by my superiors.\"",
+    "Corral said neighboring residents and businesses have brought food and donated to the strike fund. She said some hotel guests who didn't know about the strike until they arrived have shown their support in messages to management. \"At first, I was skeptical and scared about the strike. I worried about my finances.\" said Corral. \"But when I see my colleagues, especially the young ones standing for their rights and fighting, I feel inspired and motivated. We will win.\"",
+    "Got an idea for a South End story you'd like to see us cover? Let me know: Yuko.Kodama@SeattleEmerald.org ."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-09-07/2f62jvgt/2026-09.07-Embassy-Suites-Strike-by-Yuko-Kodama-6983.jpeg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-09thenewsfeedaskshowareyoufeelingaboutai",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "The Newsfeed asks: How are you feeling about AI?",
+   "author": "Ryan Famuliner",
+   "date": "2026-09-07",
+   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/09/the-newsfeed-asks-how-are-you-feeling-about-ai/",
+   "paras": [
+    "For the last few weeks, we’ve been asking people we’ve met in the course of our other reporting for The Newsfeed about AI, to get a sense of how they’re interacting with the tools, and hear their concerns and hopes for them. All this week, we’ll be bringing you their answers.",
+    "In our first story, we asked: How are you personally using AI?",
+    "“I'm an arborist and I do a lot of work with trees. So I'll start basic research with AI and then go on and do research on paper, so that’s how I use Claude,” said arborist Daniel Collins.",
+    "“Just for, like day to day things. If I need to know what the best like... place to shop for, like a certain piece of clothing. Then I'll go check it out. But it's typically just more to help me make certain life decisions... For school, I use it a lot for research, and that's what sort of my work is into. So I sort of have it help me with, like have an outline and like the best sites and like newspapers to, like, look at for my work,” said student Welela Solomon.",
+    "“I try not to. You go online. I don't know how to turn it off. How do you turn it off? I don't want to use it... You type in something in the search bar and the first thing that comes up: AI. So I try to go down to the other spots, but then AI has already done something,” said former Quincy Mayor Patty Martin. “Oh, and on the ring doorbell. Someone's mowing the lawn. There's a person walking by. We never got that (message) before. It was just, you know, there's movement, right? And now. And now it actually tells you what's happening out there. We didn't program it to do that.”",
+    "“We encourage it. In fact, we provide tools here at Chelan PUD, we provide Microsoft Copilot and we provide ChatGPT, and we have a policy in place that... the premise of the policy is that an individual still owns the outcome. So you can use it as a tool, but you still are responsible for the outcome. So you don’t end up in a situation where, ‘well, AI did that,’” said Kirk Hudson, General Manager of the Chelan Public Utility District.",
+    "Tomorrow, you’ll hear peoples’ thoughts on the environmental impact of AI."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/20260810_AIprompt-Monday.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-7nepalfloodsquestionsoverchinasreporting",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+   "author": "Jennifer Pak",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+   "paras": [
+    "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7323x4882+0+0/resize/7323x4882!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc7%2Fb2%2Ff08110674722811f8f5075154800%2Fap26250162684873.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-miplanecrashukraineaffirmativeforgermany",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+   "author": "Brittney Melton",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+   "paras": [
+    "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rg20260907nxs15887297newschoolyearstarts",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The first day of school: Bells, bikes, buses and big feelings",
+   "author": "Jonaki Mehta",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+   "paras": [
+    "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F11%2F4adc649c47c98896855dea7dcaec%2Fmicheltorena-leopo-2026-28.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-5644782heatdeathsmanufacturedmobilehomes",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+   "author": "Alejandra Borunda",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+   "paras": [
+    "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-5955552copperpeptidesskinaginghealthsafe",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+   "author": "Will Stone",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+   "paras": [
+    "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what's the evidence behind GHK-Cu?"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3600x2700+0+0/resize/3600x2700!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fd4%2F1bcc9d044d2a8dd6955944772e7b%2Fhbarczyk-npr-copperpeptides-final.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-prorg20260907nxs15955374morningnewsbrief",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Morning news brief",
+   "author": "Michel Martin",
+   "date": "2026-09-07",
+   "url": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+   "paras": [
+    "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955374",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescqxv2335je1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-deoscx2z4rxdnnpoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8d/live/2d5813b0-aadc-11f1-aa35-df10e5ff32f4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc36lx560jjkoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11a/live/5581ced0-aae1-11f1-b109-879e35c24276.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc20lpevv7jloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "King makes clear Harry and Meghan remain non-working royals",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd1/live/6e721f30-aac8-11f1-8881-75c1b8a858c8.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc39mz7xlvjzoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescn8e63qdqwzoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026sep07usopentennisinfluencersnoiseweed",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Will hordes of influencers, weed smokers and mid-point talkers bring down the US Open?",
+   "author": "Aaron Timms at Flushing Meadows",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/sport/2026/sep/07/us-open-tennis-influencers-noise-weed",
+   "paras": [
+    "This year, the noise at the Billie Jean King National Tennis Center has officially become A Problem. But changing it would mean changing society",
+    "The first thing you notice while sitting in the upper tiers of Arthur Ashe Stadium is the noise. A persistent exterior hum filters up from ground level, fed by the massive ventilation and cooling units that sit outside the stadium, the clack of the Long Island Rail Road to the north, and the forklifts receiving goods from the refrigerator trucks that keep the USTA Billie Jean King National Tennis Center flush with its essential supplies of Evian, champagne, and premium IPA. Overhead, planes descending toward LaGuardia airport ensure the auditory assault takes place by land and air simultaneously. In the lower rakes of the stadium, the babble of the spectators is incessant; it’s not unusual to overhear full-volume conversations on various non-tennis topics – work, family, romance, last night’s dinner – that continue without interruption for the duration of an entire match.",
+    "New York is famously noisy, and the US Open, as the most glamorous annual sporting event in town, has always been loud in sympathy with its environment. Indeed, the brashness of the American grand slam has historically been its major selling point, the signature that distinguishes it from the Australian Open (the “happy slam”), Wimbledon (strawberries and cream, all-white attire, the home of tennis), and the French Open (French). People have been complaining about the volume of the New York crowd for decades. But this year the noise at the US Open feels different. This year noise at the noisy slam has become A Problem."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9f223dd85b6b738e7d8fdc997b543396d46108e4/335_0_2165_1732/master/2165.jpg?width=140&quality=85&auto=format&fit=max&s=84ef146e88bf7c7cfa56a377da7416d7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-e2026sep07lindsayclancycaserorschachtest",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Lindsay Clancy was failed by our warped understanding of motherhood | Moira Donegan",
+   "author": "Moira Donegan",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/07/lindsay-clancy-case-rorschach-test",
+   "paras": [
+    "Clancy’s case became a referendum on mothers, healthcare, and the status of women",
+    "Most family annihilators are men. It’s a grim fact that such incidents are common enough to have a discernible pattern. The massacre is carried out by a husband and father, often one who is on the verge of bankruptcy or divorce ; typically, it forms the finale of a long reign of domestic violence terror.",
+    "About half the time , the perpetrator kills himself after slaughtering his family. Gun use is common – a large number of what are termed “mass shootings” in the United States are in fact family annihilation killings, in which a man turns his weapon on his family members. Other times, the killer uses knives, or fires."
+   ],
+   "img": "https://i.guim.co.uk/img/media/f06504e6080bcaf7f7dd85a58ffd05f718b35cd4/673_0_2124_1700/master/2124.jpg?width=140&quality=85&auto=format&fit=max&s=03b88565004aef797f1f3819230719f7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-07zojirushiwaterwarmeranddispenserreview",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "My favorite family heirloom: an old Zojirushi hot water dispenser better than any tea kettle",
+   "author": "Megan Reynolds",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/thefilter-us/2026/sep/07/zojirushi-water-warmer-and-dispenser-review",
+   "paras": [
+    "It heats water up fast and crucially, keeps it warm for the whole day, so you can can access hot water to your heart’s content.",
+    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
+    "Of all the things my mother has given me from the vast warehouse of her garage, there are two items I treasure the most. One, a Costco-sized box of gallon-sized Ziploc bags, and two, a battered Zojirushi water boiler that has been in the family for decades. The Ziploc bags are nice to have and can be easily replaced; the water boiler, on the other hand, has become an indispensable tool that makes my life at home a little better, every time I use it.",
+    "A brief twist: if given the choice, I’d take an ice cold beverage over hot any time. But even I, with my preference for drinks so cold that they hurt my teeth, have been converted to my family’s beloved Zojirushi."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0e5175678e6be960116ea21a1da51bf4a4e1ad0b/167_94_5147_4117/master/5147.jpg?width=140&quality=85&auto=format&fit=max&s=d93325715f390f3361b131f985ce5e96",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026sep07republicanmidtermconventiontrump",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Republican midterm convention will be ‘Trumpist pageantry’ – at the party’s own risk",
+   "author": "David Smith in Washington",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/us-news/2026/sep/07/republican-midterm-convention-trump",
+   "paras": [
+    "A historically unpopular president will take centre stage as the party seeks to sway voters with an unprecedented event",
+    "It seemed like a good idea at the time. In December 1978, Jimmy Carter, a US president besieged by inflation and energy crises, watched as thousands of Democrats descended on Memphis, Tennessee, for a rare midterm convention .",
+    "“It was wild,” recalls Elaine Kamarck , who attended as a 28-year-old working for the Democratic National Committee. “ It became a forum for Ted Kennedy to informally announce his opposition to President Carter. There was a lot of hostility to the president there. The Democrats have sworn ever since never to do anything this stupid again.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/e4835c23c7b472a6bd3674cf7308b8dbd3b6072c/749_0_3751_3001/master/3751.jpg?width=140&quality=85&auto=format&fit=max&s=f34eb5c12232d52df2bdae42008ce021",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ep07strangerstwintowersescapeseptember11",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "25 years ago, two strangers met in the twin towers and escaped on 9/11. What happened next?",
+   "author": "David Smith in Washington",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/us-news/2026/sep/07/strangers-twin-towers-escape-september-11",
+   "paras": [
+    "Stanley Praimnath and Brian Clark were two of only four individuals known to have survived above the impact zone in the south tower",
+    "He has told the story hundreds of times, but it never seems to fade. If anything, it only becomes more vivid. “Oh, gosh,” exclaims Stanley Praimnath, his voice cracking with an “ooooooh!” as if bearing a weight. “It’s like reliving that day.”",
+    "Nearly 3,000 people died in the terrorist attacks on New York City and Washington DC on September 11 2001. But Praimnath and another office worker, Brian Clark, were two of only four individuals known to have survived from above the impact zone in either tower of the World Trade Center. The two strangers met in the smoke and fire of the 81st floor of the south tower, and walked down 1,620 steps into the rest of their lives."
+   ],
+   "img": "https://i.guim.co.uk/img/media/52d888ec94d9281efa42732d2665a07509403848/44_17_1156_924/master/1156.jpg?width=140&quality=85&auto=format&fit=max&s=90f0a0be3ae3bc15d37b59f447b66a9c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-unajrhancelrinconumpiretiltedcapbaseball",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "For baseball’s Black and Latino players, it’s always 1926 somewhere",
+   "author": "Howard Bryant",
+   "date": "2026-09-07",
+   "url": "https://www.theguardian.com/sport/2026/sep/07/ronald-acuna-jr-hancel-rincon-umpire-tilted-cap-baseball",
+   "paras": [
+    "From home-run celebrations to tilted caps, players embracing joy continue to collide with an old guard devoted to Dust Bowl grimness",
+    "Over the last several years, simultaneously lauded and paralyzed by its ironclad traditions, baseball has undergone various forays into reinvention, trying to free itself from its unwritten rules of retaliation , its seeming aversion to joy, its demand that every generation of player of every culture and background play the game with the grimness of a Dust Bowl farmer.",
+    "The sport even attempted to change those customs by promoting a cultural shift with an industry-wide motto : Let the Kids Play. But in a time of intense division within the aggressive backdrop of Trumpism, the result is a racial clash that is actually a generational and cultural one that predates current politics by a century.",
+    "Howard Bryant is the author of 11 books, including Full Dissidence: Notes from an Uneven Playing Field, and Kings and Pawns: Jackie Robinson and Paul Robeson in America. He writes at Substack ."
+   ],
+   "img": "https://i.guim.co.uk/img/media/c7478c0ffec8954b3c09826714f5b86419ddcd38/307_0_2373_1899/master/2373.jpg?width=140&quality=85&auto=format&fit=max&s=a21d33d7519e347edfc2d0f46442074c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260830",
    "srcKey": "geekwire",
@@ -109,24 +548,6 @@
     "Resect AI, an artificial intelligence startup led by a team of scientists and engineers in Washougal, Wash., launched out of stealth Thursday. Read More … Read More"
    ],
    "img": "https://www.geekwire.com/wp-content/uploads/2026/09/stuart-reges-05-200x133.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ayvideoisminneapolistooniceforitsowngood",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Sunday Video: Is Minneapolis Too Nice for Its Own Good?",
-   "author": "Doug Trumm",
-   "date": "2026-09-06",
-   "url": "https://www.theurbanist.org/sunday-video-is-minneapolis-too-nice-for-its-own-good/",
-   "paras": [
-    "Ray Delahanty of CityNerd ( a Youtube channel ) returned to Minneapolis to make another video exploring Minnesota's Mini-Apple, and the new transportation improvements since his last visit continued to impress the former transportation engineer. For example, Metro Transit's new E Line has improved the Lake Street corridor with enhanced service meeting some bus rapid transit (BRT) characteristics.",
-    "Delahanty hailed the bike network as the best big city network in America. In addition to a remarkable off-street bike network snaking around lakes and Mississippi riverfront, Minneapolis is increasingly added excellent on-street projects adding protected bike lanes. (As a former Minneapolis resident, the FOMO is rough!) In fact, Delahanty said Minneapolis might be setting the standard for multimodal street redesigns with its Hennepin Avenue overhaul.",
-    "CityNerd fans have a chance to see him live in Washington state at the Town Hall Seattle talk we are co-hosting , with Ryan Packer moderating and two local urbanist-minded officials make guest appearances. Tickets are going fast. So, get one while you can."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/CityNerd-Minneapolis-too-good.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -216,288 +637,21 @@
    "annos": null
   },
   {
-   "id": "f-npr-stfarrightpartybigleadinregionalelection",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "German exit polls suggest far-right party has big lead in regional election",
-   "author": "The Associated Press",
+   "id": "f-urbanist-ayvideoisminneapolistooniceforitsowngood",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sunday Video: Is Minneapolis Too Nice for Its Own Good?",
+   "author": "Doug Trumm",
    "date": "2026-09-06",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+   "url": "https://www.theurbanist.org/sunday-video-is-minneapolis-too-nice-for-its-own-good/",
    "paras": [
-    "The Alternative for Germany party has a strong lead in a regional election, but it is unclear if it will be able to form Germany's's first far-right state government since WWII, exit polls indicate."
+    "Ray Delahanty of CityNerd ( a Youtube channel ) returned to Minneapolis to make another video exploring Minnesota's Mini-Apple, and the new transportation improvements since his last visit continued to impress the former transportation engineer. For example, Metro Transit's new E Line has improved the Lake Street corridor with enhanced service meeting some bus rapid transit (BRT) characteristics.",
+    "Delahanty hailed the bike network as the best big city network in America. In addition to a remarkable off-street bike network snaking around lakes and Mississippi riverfront, Minneapolis is increasingly added excellent on-street projects adding protected bike lanes. (As a former Minneapolis resident, the FOMO is rough!) In fact, Delahanty said Minneapolis might be setting the standard for multimodal street redesigns with its Hennepin Avenue overhaul.",
+    "CityNerd fans have a chance to see him live in Washington state at the Town Hall Seattle talk we are co-hosting , with Ryan Packer moderating and two local urbanist-minded officials make guest appearances. Tickets are going fast. So, get one while you can."
    ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3376x2251+0+0/resize/3376x2251!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F2b%2F18c9cb3346b3b36ea5ce83575239%2Fap26249325207672.jpg",
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/CityNerd-Minneapolis-too-good.jpg",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-limsaregivingtexasbarbecueahalalmakeover",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "American Muslims are giving Texas barbecue a halal makeover",
-   "author": "Ulaa Kuziez",
-   "date": "2026-09-06",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
-   "paras": [
-    "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1067+0+0/resize/1600x1067!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2F2b%2Fcc0a68c641f981b2346c526efb82%2Fzain.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-voyswitkoffkushnertalksinkyivputinmoscow",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
-   "author": "Willem Marx",
-   "date": "2026-09-06",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
-   "paras": [
-    "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
-    "(Image credit: Ukrainian Presidential Press Office)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2Fcd%2F454acd8541d59880f3313ee32ee7%2Fap26249429753138.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-aterhowmuchdoyouknowaboutprocrastination",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-   "author": "Malaka Gharib",
-   "date": "2026-09-06",
-   "url": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-   "paras": [
-    "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination ."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7566x4256+0+0/resize/7566x4256!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F00%2Fbb1f69d044a29ad8ee900372c7fe%2Fgettyimages-1356871041.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-20260906gs1141564kindnessrespectfeelings",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-   "author": "Laurel Dalrymple",
-   "date": "2026-09-06",
-   "url": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-   "paras": [
-    "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1800+0+0/resize/3200x1800!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0b%2Fad%2Fa795ff7f47eca88f9418ea36d6a6%2Fkindness-illo.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc6248nvqy8poatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Steve Witkoff tells reporters the US team feels \"encouraged\" by a \"substantive\" and important discussion."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescy4zejgz3z9oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "German far-right set for big win in eastern state - projections",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescrer948xq00oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded7/live/5b81c800-a9db-11f1-803f-7f2a9199ddc4.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesclyqvkyekkeoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Jamaica to bring slavery reparations petition to King Charles",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/clyqvkyekkeo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The King will be asked to refer three questions to the Judicial Committee of the Privy Council."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1117/live/e61ec6c0-a9fe-11f1-921b-6365210e1c9d.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescp8d56w7d9poatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescvgy5k4n07koatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-   "author": "",
-   "date": "2026-09-06",
-   "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1924/live/e97333d0-a9fc-11f1-b109-879e35c24276.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-026sep06arsenalvchelseapremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Arsenal 2-1 Chelsea: Premier League – live reaction",
-   "author": "Rob Smyth",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/football/live/2026/sep/06/arsenal-v-chelsea-premier-league-live",
-   "paras": [
-    "Martin Odegaard swept the winner and Kai Havertz was majestic as Arsenal came from behind to dominate Chelsea",
-    "There’s been a second goal at Hill Dickinson Stadium. Clickity click click click!"
-   ],
-   "img": "https://i.guim.co.uk/img/media/68c1c975959b6c727d6f9b617a1f0dc2ae49c68a/300_79_2776_2221/master/2776.jpg?width=140&quality=85&auto=format&fit=max&s=21759e24806574bade069b2417e96a57",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-edalytimeofmonstersfutureliberalismessay",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
-   "author": "Waleed Aly",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
-   "paras": [
-    "It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like ours",
-    "Get our breaking news email , free app or daily news podcast",
-    "Depending on your politics, the monsters are everywhere. Perhaps you see them in the form of tech billionaires and the artificial intelligence they’re developing. Perhaps you see them in the bin fire of social media they bequeathed us before that, or the legacy media that refuse to tell you “the truth”. You might see them in the manosphere, or the institutions teaching our kids gender fluidity. Maybe you see them in the migrant youth wielding machetes in the suburbs, or the refugee attempting to behead someone on a Belfast street. Or perhaps you see them in the violent anti-immigrant mobs that torched houses in response. If so, you’ll likely see them in the Marches for Australia or to Unite the Kingdom rallies, organised by far-right groups but attended by many more besides. You’ll almost certainly see them in at least one of Hamas, Israel or those local advocates at each other’s throats over the Middle East. I suspect you’ll see them in Russia but that can no longer be assumed. And I’d guess that you’d see them in at least one political party with a significant share of the vote.",
-    "Something in that paragraph probably outraged you. In which case, you’re probably seeing monsters in whoever sees different monsters from you. It would be easy here to make a point about polarisation. But I want to look at the deep disquiet that lies underneath."
-   ],
-   "img": "https://i.guim.co.uk/img/media/fa5f40e391219a1fec7a924aa5a1ed79acf1f5d3/1_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=0606e8436d8336f568f7bce29639918c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-annewbookscienceofageingcognitivedecline",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Let your mind wander, don’t retire and stop worrying: surprising ways to help save your brain from the cognitive cliff",
-   "author": "Guardian staff speak to Dr Norman Swan",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/07/dr-norman-swan-new-book-science-of-ageing-cognitive-decline",
-   "paras": [
-    "In his new book, The Brain Cliff, Dr Norman Swan outlines the science of brain ageing and strategies for staving off cognitive decline",
-    "You write that “changing the way you think about the brain cliff can literally change the way you think and remember”. How?",
-    "Dr Norman Swan: There are three things you need to know which are not widely known."
-   ],
-   "img": "https://i.guim.co.uk/img/media/fa2a3a49214b65552eb52a9927beb1160a35a7f6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=50f223bf946b3331aeee768ad62ef776",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-rtificialintelligencewhatparentsneedknow",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-   "author": "Daniel Susskind",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-   "paras": [
-    "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children embrace it without forgetting core skills?",
-    "When I was growing up, my dad and I often talked about a story we wanted to write together. It was called “The Day Nobody Went to Disneyland”. One day, the story goes, the weather is so perfect that everyone in the world decides to stay away from Disneyland because they expect it to be far too busy. But my dad, who has the same thought as them, sees the disappointment on my face that morning – and decides to risk it. We set off. And when we arrive, the park is completely empty. Nobody else was brave enough to visit. We have everything – the rides, shows, food – to ourselves.",
-    "I loved the idea of writing that story. But, as so often happens, we were too busy to do anything about it. Life ran away from us. I grew up, and we both forgot about it."
-   ],
-   "img": "https://i.guim.co.uk/img/media/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=8066ccdbe01ebc63ddd76685f9f5638a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026sep06tupacshakurmurderinvestigation",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Tupac trial spotlights decades of US police failures in solving the case",
-   "author": "Lois Beckett",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
-   "paras": [
-    "Police received information nearly immediately after the killing. It took Las Vegas police 27 years to make an arrest",
-    "For years, US law enforcement officials blamed their failure to solve hip-hop star Tupac Shakur ’s murder on the lack of cooperation from key witnesses, and on gang members’ “snitches get stitches” culture.",
-    "But testimony in a much-delayed murder trial, which concluded this week , almost 30 years after Shakur’s death, highlighted just how much law enforcement officials knew about the shooting, and how early."
-   ],
-   "img": "https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b28828f32e9a7d085c7daeb0fba899ae",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-torinterviewgameofthronespracticalmagic2",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘The first half of my 20s was hell’: Maisie Williams on her tough childhood and why she’s been having more fun since Game of Thrones",
-   "author": "Simran Hans",
-   "date": "2026-09-06",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/sep/06/maisie-williams-actor-interview-game-of-thrones-practical-magic-2",
-   "paras": [
-    "After her role in the fantasy series, the actor felt lost. Now she’s getting relationship advice from Sandra Bullock and Nicole Kidman, and following a Sex and the City star’s mantra: never be anywhere you aren’t enjoying yourself",
-    "Maisie Williams has dabbled in witchcraft exactly once. The actor was getting ready to audition for a part in a film. “I wanted it so badly that I went on to Etsy, and I paid a witch to manifest me the role,” she says, poker-faced.",
-    "“It didn’t work, and that was where my days of witchcraft ended,” she adds, breaking into an infectious cackle."
-   ],
-   "img": "https://i.guim.co.uk/img/media/9f4daa50e0d53bc833cff96ce16fa3efb95d0a03/0_415_5772_4617/master/5772.jpg?width=140&quality=85&auto=format&fit=max&s=dec0f30747c6a422dfc7e81d39fb604c",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -530,7 +684,7 @@
    "id": "f-geekwire-tsfvsseattlehousingandaseahawkstechtwist",
    "srcKey": "geekwire",
    "cat": "tech",
-   "title": "NBA’s Ballmer crackdown echoes Microsoft antitrust, SF vs. Seattle housing, and a Seahawks tech twist",
+   "title": "NBA’s Ballmer crackdown echoes Microsoft antitrust; SF vs. Seattle housing; and a Seahawks tech twist",
    "author": "Todd Bishop",
    "date": "2026-09-05",
    "url": "https://www.geekwire.com/2026/nbas-ballmer-crackdown-echoes-microsoft-antitrust-sf-vs-seattle-housing-and-a-seahawks-tech-twist/",
@@ -690,22 +844,6 @@
    "annos": null
   },
   {
-   "id": "f-cascade-shownewshourextrasmailinvoting1788552117",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "What to know about Trump's effort to restrict mail ballots",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-05",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/mail-in-voting-1788552117/",
-   "paras": [
-    "A federal judge indefinitely extended her order to prevent the Trump administration from implementing new restrictions on mail-in ballots. The Trump plan would require states to use scannable ballot envelopes and to provide the federal government with lists of voters eligible to receive mail ballots. Liz Landers discussed more with David Becker of the Center for Election Innovation and Research."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/6b973d4b-7cb7-4ede-8ef1-161c36368a45.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-ZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmUoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -714,28 +852,12 @@
    "date": "2026-09-05",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFJqdjVCTWlPZHotYjVTdHpoaERMbmFQUTlOV0lwZjFKYmE1Y1VLSWp1a2NPMjlyemhuU0hSZVlkdU1TUXdPTDNyai1TX0xzOS1QWWxxUXU3UDF2VlFuSzlPTFp5eXRwTGh0MXk1QkZZN01jTldFdGhFYmFRS3lhX19iaEppY3VjcWdVVF9WRVl3UTFGc0tYOENmZUdoVEFpUElsT3p6dmxIZDdET3ZSNXFIOG5oMjMzMHdocEZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmU?oc=5",
    "paras": [
-    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting KUOW"
+    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting kuow.org"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-elphiahousetobecomeaculturalheritagesite",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-   "author": "Daniel Ofman",
-   "date": "2026-09-05",
-   "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-   "paras": [
-    "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5955500",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -772,25 +894,23 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-uninseattlewithfanartand35yearsofhistory",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "‘Sonic the Hedgehog’ exhibit makes a weekend run in Seattle, with fan art and 35 years of history",
-   "author": "Thomas Wilde",
+   "id": "f-stb-904fridayroundtableracethel8againandlose",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Race the L8 again… and lose?",
+   "author": "Nathan Dickey",
    "date": "2026-09-04",
-   "url": "https://www.geekwire.com/2026/sonic-the-hedgehog-exhibit-makes-a-weekend-run-in-seattle-with-fan-art-and-35-years-of-history/",
+   "url": "https://seattletransitblog.com/2026/09/04/friday-roundtable-race-the-l8-again-and-lose/",
    "paras": [
-    "If you attended the Sunset Market in Seattle’s Pioneer Square on Thursday night, you might’ve noticed that one of the local galleries had been transformed into a shrine to, of all things, Sonic the Hedgehog.",
-    "That’s because on Labor Day weekend, Seattle is hosting 35 Years of Speed: The Sonic Art Exhibit. This touring art collection is part of the celebration of the anniversary of the Sonic franchise, which began in 1991 with the original Sonic the Hedgehog for the Sega Genesis.",
-    "The Sonic Art Exhibit features framed concept and box art from the Sonic archives, several pieces by official Sonic artists, and a curated selection of pieces created and submitted by the Sonic fan community, which includes paintings, sketches, and even statuary.",
-    "“It’s Sonic’s 35th anniversary, so we’ve been looking at ways to celebrate his legacy,” said Jessica Perri, Sega brand director. “We commissioned 50-plus artists across styles and different mediums, and we also worked with fans who bring their own inspirations to the table. We’re displaying it all here in Seattle over the course of the weekend.”",
-    "Perri continued, “We’re really just excited to celebrate Sonic through the lens of art.”",
-    "The game was Sega’s first-party “killer app,” intended to compete directly with the Super Nintendo and its Super Mario franchise. The title character is a blue hedgehog with the power of super-speed, who fights alongside his friends against his nemesis, Dr. Ivo Robotnik.",
-    "In the last 35 years, Sonic has appeared in more than 100 video games, which range from some absolute classics to one of the most infamous misfires in the history of the medium.",
-    "There have also been multiple lines of merchandise; several animated shows; a successful live-action film series with a fourth entry coming in early 2027; a popular comic book, which is currently published by San Diego-based IDW; and a recent comic crossover with the DC Universe that did well enough to get a sequel . (Trivia: Sonic the Hedgehog is now technically a member of the Justice League.)",
-    "35 Years of Speed: The Sonic Art Exhibit is running at Seattle’s 210 Gallery at 301 Occidental Ave. S. from Sept. 4 through Sept. 6 from 11 a.m. to 7 p.m. Admission is free. After its Seattle run, the exhibition will have its final show in Los Angeles later this month."
+    "The L8 is not so late anymore since an eastbound traffic lane was converted to a bus lane in August. On Tuesday, September 8th , Fix the L8 is organizing another race against Metro’s bus Route 8 along Denny Way. Unlike the previous event , the group is expecting to lose as the buses bypass traffic via newly-painted eastbound bus lanes.",
+    "“Across multiple decades and several mayors, it’s been obvious that a bus lane is needed on Denny Way, and it only took a few months of Mayor Wilson’s leadership to get one” said Fix The L8 co-leader Jason Li. “This will transform the lives of the thousands of daily Route 8 riders while attracting countless more as it goes from being slower than hopscotching to being irresistibly good.”",
+    "Other traffic improvements, including closure of the Yale Street slip lane, have also helped speed up the bus. Although transit projects are often mired in years of design and debate, it’s abundantly clear that concerted effort and leadership can shorten this work to mere months. In this case, Mayor Katie Wilson requested accelerated design and construction of the transit prioritization project as her first executive order in January of this year. The improvements were announced in April and the project completed at the end of August .",
+    "Riders were quick to notice a vast improvement:",
+    "Despite the international media coverage focused on the impact this bus lane would have on drivers, travel times between Queen Anne Ave to Virginia St for cars has remained consistent. The chart below shows the estimated eastbound travel time for a car along the 1.1 mile segment of Denny way at the top of every hour since early July. The stripped blue section is the after the Yale St slip lane was closed in early August. The bus lanes were installed between August 21-23. Explore the full chart here .",
+    "The rematch race will begin at 5pm next Tuesday. Anyone interested is encouraged to RSVP to the event, here . The race will be followed by a celebratory gathering at The Pine Box in Capitol Hill.",
+    "The Fix the L8 campaign is also taking preorders of a tremendously-cute, limited-edition Route 8 plushie with first shipments expected to arrive in early October. The bus plushie (a busie!) is endorsed by STB as a perfect gift for the upcoming holiday season. Order yours here ! Proceeds go toward future campaigns for transit and street safety improvements."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/20260903_183942-1260x945.jpg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image.png?resize=525%2C204&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -846,28 +966,6 @@
     "Proposition 5 is a complementary long-term play for Republicans."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/data-src-image-1095ad40-27e7-4928-9e1b-4ac9261bcb73-1-.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-904fridayroundtableracethel8againandlose",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Race the L8 again… and lose?",
-   "author": "Nathan Dickey",
-   "date": "2026-09-04",
-   "url": "https://seattletransitblog.com/2026/09/04/friday-roundtable-race-the-l8-again-and-lose/",
-   "paras": [
-    "The L8 is not so late anymore since an eastbound traffic lane was converted to a bus lane in August. On Tuesday, September 8th , Fix the L8 is organizing another race against Metro’s bus Route 8 along Denny Way. Unlike the previous event , the group is expecting to lose as the buses bypass traffic via newly-painted eastbound bus lanes.",
-    "“Across multiple decades and several mayors, it’s been obvious that a bus lane is needed on Denny Way, and it only took a few months of Mayor Wilson’s leadership to get one” said Fix The L8 co-leader Jason Li. “This will transform the lives of the thousands of daily Route 8 riders while attracting countless more as it goes from being slower than hopscotching to being irresistibly good.”",
-    "Other traffic improvements, including closure of the Yale Street slip lane, have also helped speed up the bus. Although transit projects are often mired in years of design and debate, it’s abundantly clear that concerted effort and leadership can shorten this work to mere months. In this case, Mayor Katie Wilson requested accelerated design and construction of the transit prioritization project as her first executive order in January of this year. The improvements were announced in April and the project completed at the end of August .",
-    "Riders were quick to notice a vast improvement:",
-    "Despite the international media coverage focused on the impact this bus lane would have on drivers, travel times between Queen Anne Ave to Virginia St for cars has remained consistent. The chart below shows the estimated eastbound travel time for a car along the 1.1 mile segment of Denny way at the top of every hour since early July. The stripped blue section is the after the Yale St slip lane was closed in early August. The bus lanes were installed between August 21-23. Explore the full chart here .",
-    "The rematch race will begin at 5pm next Tuesday. Anyone interested is encouraged to RSVP to the event, here . The race will be followed by a celebratory gathering at The Pine Box in Capitol Hill.",
-    "The Fix the L8 campaign is also taking preorders of a tremendously-cute, limited-edition Route 8 plushie with first shipments expected to arrive in early October. The bus plushie (a busie!) is endorsed by STB as a perfect gift for the upcoming holiday season. Order yours here ! Proceeds go toward future campaigns for transit and street safety improvements."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image.png?resize=525%2C204&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1019,7 +1117,7 @@
    "date": "2026-09-04",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU2ptUDdkSkc0Ni1fT2lDMTdvUzBHbURlRFVTTTMxYUZVUnNDUHNDeGtoUDNwUWRnRjYxSm9QU0hPS1BDWEEwdEN4bXd6WnFaZHJNRXVmQ2ViVzBHTXhlOWFJV291Y0pzWEg5VWlfLVFoRnQwejByajZrMjUxUVlMLTg4YUtOM1doLUxDTkZhRDJfeEJNWExmalhQUzJPTWNVY3c?oc=5",
    "paras": [
-    "US Forest Service releases long-awaited restructuring plan KUOW"
+    "US Forest Service releases long-awaited restructuring plan kuow.org"
    ],
    "img": "",
    "fetched": true,
@@ -1085,7 +1183,7 @@
     "Throughout his life, Berry, who died on Aug. 31, 2026, was a leading advocate of environmental stewardship . You might recognize his belief system in what’s known as creation care today.",
     "It embraces a responsibility to care for the Earth and all its creatures. Berry increasingly saw that ethic violated by the industrialization of agriculture and ignored by a dominionist theology , preached by some prominent American Christians, which holds that humans have a God-given right to exploit the Earth’s resources.",
     "Berry’s environmental ethics had their basis in Genesis, the first book of the Bible, which emphasizes that humans are not the owners of the Earth but rather are called to be caregivers and to tend the planet. He wrote, “We are allowed to make no exceptions – every person’s obligation toward creation is summed up in two words from Genesis 2:15 : ‘Keep it.’”",
-    "In contrast, the dominionist view emphasizes Genesis 1:8, which has been interpreted by some to mean that humans are to subdue the Earth and to establish Christian dominance.",
+    "In contrast, the dominionist view emphasizes Genesis 1:28, which has been interpreted by some to mean that humans are to subdue the Earth and to establish Christian dominance.",
     "Berry opposed the idea that Christian scripture advocated for environmentally destructive practices such as mountaintop-removal coal mining, which led to the destruction of streams and forests in his native Kentucky. In 2011, he participated in a multiday sit-in protest of the mining practices, saying, “I intend to stay interested in it and involved as long as the Lord spares me.”",
     "I am a scholar of American Christianity and have spent my career researching and writing about how Christians practice their beliefs. I was in the audience when Berry was awarded the 2013 American Academy of Religion’s Martin Marty honor for the Public Understanding of Religion . For over an hour I listened raptly, as did the rest of the standing-room-only crowd, as he detailed his love for the land, community and his wife, Tanya.",
     "I also taught students using his book “ Jayber Crow ,” about small-town living, religion and community, in my honors course at a small liberal arts college in the Midwest. I returned to his work when I was researching modern-day agriculture in Iowa for my book “ Meatpacking America ”.",
@@ -1100,6 +1198,7 @@
     "Berry and his wife and collaborator for 69 years, Tanya Amyx Berry , built a way of life and advocated for a way of living that went against the grain of mainstream American and global culture.",
     "In over 50 books and many poems and talks, Berry helped lay the theological, ethical and how-to groundwork for a creation care movement that spread around the world. He consistently called out the extractive, destructive human behaviors that have posed dangers for the planet’s future.",
     "How his legacy will be fulfilled remains to be seen, but if the growing cross-generational public aversion to AI data centers and other forms of resource extraction are an indicator, it is my belief that Wendell Berry’s legacy will have a long and fruitful afterlife.",
+    "This article has been updated to correct the second Bible verse location to 1:28.",
     "Kristy Nabhan-Warren does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
    ],
    "img": "https://images.theconversation.com/files/757904/original/file-20260903-50-9xbk1d.jpg?ixlib=rb-4.1.1&rect=0%2C66%2C4332%2C2888&q=45&auto=format&w=1050&h=700&fit=crop",
@@ -1275,98 +1374,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-hurstlightrailstationwillopenseptember30",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Seattle's Pinehurst Light Rail Station Will Open September 30",
-   "author": "Doug Trumm",
-   "date": "2026-09-03",
-   "url": "https://www.theurbanist.org/seattles-pinehurst-light-rail-station-will-open-september-30/",
-   "paras": [
-    "As of today, Pinehurst Station officially has an opening date: Wednesday, September 30. The infill light rail station between Northgate and South Shoreline will serve both the 1 Line and the 2 Line, attracting an estimated 3,400 daily boardings. The late September opening coincides with the start of classes at the University of Washington and meets the agency's goal of opening the station in the third quarter of the year.",
-    "The combined headways of the two lines gives riders frequent service between Lynnwood and the International District, with trains arriving every four to five minutes. Sound Transit has pledged to keep riders abreast of opening festivities on its Pinehurst website , but there are signs that the event will be a subdued affair compared to other recent line openings.",
-    "This summer, Sound Transit crews have been hard at work putting finishing touches on the elevated station, which sits just north of NE 130th Street. The platform sits high up overlooking I-5 and leafy neighborhoods and parks surrounding it.",
-    "Among those finishing touches is station art, which was designed by Seattle-based artist Romson Bustillo , who was born on the island of Mindanao in the Philippines. The art will have a South Pacific feel, with human and animal figures brightly patterned in red, yellow, and green.",
-    "\"[Bustillo's] layered works and immersive collaborations go back to his Philippine lineage, his South Seattle/Pacific Northwest upbringing, and numerous research travels,\" Sound Transit's Katie Metzger noted in 2025 . \"His artwork will be translated into richly colored, porcelain enamel panels that wrap around the entrances and into both north and south lobbies.\"",
-    "Adding a station to this location has been long in the making, a project approved in 2016's Sound Transit 3 (ST3) ballot measure, grafting a stop onto ST2's Lynnwood Link Extension. In 2020, Sound Transit accelerated the project's timeline from 2031 to 2025, which was later revised to 2026, to put it closer to Lynnwood Link's 2024 launch. That occurred largely due to the advocacy of District 5 Councilmember Debora Juarez, who served on the Sound Transit board at the time and had lobbied to get the station included in the ST3 plan in the first place.",
-    "Like most ST3 expansions, the station faced the threat of major delay, but survived the 2021 realignment still on its accelerated course in part because adding an infill station years later only adds expense and complication. The construction work next to an active rail line was complicated enough happening in the immediate aftermath, requiring some single tracking during platform work.",
-    "\"These decisions ultimately resulted in a faster, less disruptive construction process for the station to be able to open ahead of its original schedule,\" Constantine said Thursday. \"I would also note that September 30th is the first day of classes for fall quarter at the University of Washington. So we will be welcoming aboard students, faculty, and staff who have now a more convenient way to get to campus.\"",
-    "Thanks to a funded plan for the infill station, the initial build of Lynnwood Link was able to incorporate space for the Pinehurst platform into the elevated structure. More recently, workers came back to fill out with station amenities, like elevators, escalators, and stairs down to street level, where card readers, signage, bike parking, and a new drop-off zone for paratransit vehicles welcome riders.",
-    "King County Metro has already added a Route 77 in the fall service change that will feed the station when it opens, connecting Lake City and Bitter Lake like never before. Before the change, the station location was a dead zone for bus service, but the case for the station always rested in part on adding an east-west bus line to serve a broader corridor, like the 77 will do, using NE 130th and 125th Streets.",
-    "“Traveling around our city and region should be easy and affordable. Every new light rail station gets us further toward that goal. Pinehurst Station will create more and better options for people in North Seattle to get to the important places in their lives,” said Seattle Mayor Katie Wilson said in a statement. \"It’s great news that people now have a date to look forward to and plan around. Next stop - Pinehurst Station!”",
-    "The Seattle delegation on the Sound Transit Board of Directors argued keeping the Pinehurst opening on track was a priority and an early win deliverable for the ST3 measure, and they were backed by a campaign from local residents . Seattle officials promised rezones nearby to grow a dense neighborhood in the midst of the freeway-adjacent station. However, those rezones hit the Seattle process and have only been partially delivered so far.",
-    "Seattle attached the long-studied Pinehurst rezones to the Comprehensive Plan major update that was due in 2024, but delayed by the Harrell Administration before being mired in citizen appeals . As a result, the City has failed to have its new zoning plan in place by the time the station open. In turn, this means no large-scale housing development projects are under construction in the vicinity.",
-    "The draft zoning plan includes a relative small patch of Neighborhood Commercial 85-foot zoning near the station, and some broader patches of Midrise zoning, before giving way to Lowrise. When the upzones do go live, eight-story apartment buildings with some ground-floor retail could be on the way. Just how quickly is uncertain, with the City appearing to have missed the development cycle by dragging its feet. Housing permit activity have been trending sharply downward across Seattle.",
-    "Even in 2023, the Pinehurst rezone delays drew the ire of Dave Baker, the former Kenmore City Councilmember who served on the Sound Transit board of the time.",
-    "“I’m sorry Mayor Harrell, I’m not trying to throw stones, but it’s just reality that they’ve had the opportunity to increase zoning in the area to make it more transit-friendly, but it’s still not done,” Baker said. “They’ve had since 2015 to fix the zoning, and it’s now 2023 and the zoning has still not been fixed. I would love to see a successful station… and the system to be as functional as it can. Everything else seems to be happening except this one.”",
-    "Harrell brushed off the criticism, declining to respond at the time.",
-    "Seattle's planning efforts have also punted on the issue of Jackson Park, a fenced-off, 160-acre, publicly-owned 27-hole golf course which advocates had called for adapting to broader, more accessible park uses. Some also called for integrating housing into the campus , which likely would require a park land swap given Initiative 42 stipulations, which prohibits park lands from being appropriated for other uses without making up for the loss of land elsewhere.",
-    "As it stands, the golf course disrupts walking routes to the station from the northeast, in addition to putting a low-density use next to high-capacity transit.",
-    "While Pinehurst has an imminent opening date, things are less certain for ST3-approved infill stations at Graham Street in South Seattle and at Boeing Access Road in Tukwila. Both stations were formerly promised in 2031, but Tukwila has no opening date after the board's May 28 vote left the agency without the full amount for construction included in its financial plan.",
-    "Meanwhile, Graham Street was only saved from the chopping block when the City of Seattle gave assurances of up to $30 million in last-in funding to back the project. That could prove to be a tricky precedent for the City to have set down the road, as the agency grapples with more overruns on Seattle projects. But riders can take solace in Graham Street remaining on course to open in 2031 or thereabouts.",
-    "“The opening of Pinehurst Station is a significant milestone as the first infill station added to an existing light rail line. It’s another step forward in delivering the light rail investments communities across King County have been counting on,” said King County Executive Girmay Zahilay in a statement. \"I look forward to continued progress on the remaining infill stations, including Graham Street Station and Boeing Access Road Station.”",
-    "Constantine pledged that the lessons learned from Pinehurst will inform plans for Graham Street and Tukwila's infill station, which faces stiff headwinds due to ballooning cost estimates. While Pinehurst Station came in at $240 million, estimates for Boeing Access Road have jump as high as $475 million ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20250929_Pinehurst_Workers-drone-Peter_Bohler-0019_Sound_Transit_nqjpri-1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ssconnecttacomalevyofficialseyenextsteps",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "After Voters Pass Connect Tacoma Levy, Officials Eye Next Steps",
-   "author": "Carolyn Bick",
-   "date": "2026-09-03",
-   "url": "https://www.theurbanist.org/after-voters-pass-connect-tacoma-levy-officials-eye-next-steps/",
-   "paras": [
-    "The passage of the Connect Tacoma: Safe Streets and Sidewalks levy marked a sea change in voter attitude. Just last April, a more ambitious transportation measure failed at the ballot box. But this year, the levy garnered nearly 60% of the vote in the August primary.",
-    "“A big lesson that the city learned between last year's failure and this year's success was not taking our community for granted and making sure to start the conversation significantly earlier with more people,” Tacoma Mayor Anders Ibsen said. “The other difference was the content. We listened to the people after last year's failure and we learned that the voters wanted something a bit more modest.”",
-    "While the failed 2025 renewal effort included no sunset clause and would have raised funding indefinitely, the 2026 measure includes a 10-year sunset.",
-    "The levy serves as a continuation of the 2015 Tacoma Streets Initiative that ended last year. The 2015 initiative, a 10-year funding measure, approved $325 million for repair and maintenance around the city, including in residential neighborhoods. The Connect Tacoma levy, which goes into effect on Jan. 1, 2027, raises $200 million over 10 years, and aims to leverage an additional $120 million through grants, investing in transportation projects that address safety, connectivity, and access issues around the city.",
-    "But this new levy also comes with several important differences, particularly when it comes to flexibility in what it can fund and the City’s decision to prioritize funding only after allowing residents to weigh in on what upgrades they would like to see. In other words, project lists are still being crafted.",
-    "Funding for the 2026 levy comes from a variety of sources, but the bulk of the money — about $200 million of the estimated total — will come from a mix of utility and property taxes. But because these taxes are a continuation of the initiative voters approved in 2015, it means that there’s no actual increase, said Laura Svancarek, the executive director of Tacoma On The Go .",
-    "As a local nonprofit organization working towards a safer, more connected Tacoma by providing and advocating for mobility resources, Tacoma On The Go pushed for the levy’s passage and worked with the city on voter outreach, and Svancarek set up a community levy committee. During levy outreach work, one of the biggest concerns the organization heard from voters was that the levy would increase their taxes. With President Donald Trump’s and Israeli Prime Minister Benjamin Netanyahu’s war in Iran continuing to drive up the price of gas and groceries , voters appeared sensitive to the risk of facing further financial hardship.",
-    "“Because the renewal did not pass last year, that meant that the original levy expired at the end of 2025. So, technically speaking, this is an increase because those property taxes [temporarily] went away, and now they're coming back,” Svancarek said. “But … they are at the same rate as the previous initial streets levy. Being able to help communicate that to people was pretty significant because it's on the ballot as an increase, but it's not really an increase.”",
-    "Like the previous levy, residents will see a tax of $0.20 for every $1,000 of assessed property value, and a 1.5% earnings tax on natural gas, electric, and phone utilities. There are still exemptions for elders and people with disabilities who qualify for property tax relief programs.",
-    "The remaining $120 million will come from a mix of grant funding and partnerships. The grant funding, Svancarek said, is “the real superpower of this levy,” and the levy allows the city to leverage more grant match dollars for significant safety work on major arterials, such as South Tacoma Way.",
-    "The new levy is broader in what kinds of projects it can fund. While the 2015 initiative’s wording framed funding around streets and transportation infrastructure, the new levy’s wording includes funding for maintenance work, greenways, multimodal transit, and accessibility measures.",
-    "The projects the Connect Tacoma levy will fund fall into three categories: Better Neighborhood Streets, Safer Streets for Everyone, and Improved Connections.",
-    "The city estimates that about $85 million will go towards the first category, which includes residential street maintenance and improvement, and that about $159 million will go towards the second category of projects, which includes major safety and connectivity overhauls in the city’s busiest corridors and arterials. The city estimates it will allocate the remaining $76 million to the third category of projects, all of which fall under the connectivity umbrella: Americans with Disability Act (ADA) accessibility, trails and greenways, multimodal connections, and more.",
-    "But just because the city has roughly budgeted for these different categories doesn’t mean it has a priority list of projects in mind. Wrapped up in all of this work is the question of equity, especially because several areas of the city — such as Hilltop, Fern Hill, and the South End — suffered decades of redlining and neglect.",
-    "“While those covenants are gone now, we still live with the repercussions of those policies, and the decades and decades of intentional choices to not invest in neighborhoods that are primarily people of color or low-income families,” Svancarek said. These neighborhoods “face a real infrastructure deficit that the city is now working to address. [ … ] The way [this levy is] structured allows for a lot more flexibility and being able to go into those neighborhoods and fix some of those missing link pieces, finish some of those active transportation connections and be more able to address emerging safety issues than the previous levy allowed. The previous levy was very strict in what it could be used for.”",
-    "In 2018, the city developed the Equity Index , which is meant to help address and resolve disparities. The index wasn’t in place when the first levy passed, but the city used it in its outreach work, and will continue to utilize it in developing the projects the levy will fund.",
-    "While the city will not choose to, for instance, pave a street purely on equity data without considering other factors, like crashes and pavement condition, Ibsen said, the fact that “you can look at certain neighborhoods and guess where you are based on whether or not a neighborhood has sidewalks or trees [is] not a good thing.”",
-    "“You can fairly guess where you are on the basis of 'Does it have sidewalks? Does it have a curb and gutter? Does it have street trees?' [ … ] There is a 10 to 15 degree difference during heat waves in the North End versus the South End,” he said. “To not consider equity would be a grave disservice to our city. Over half of us live south of 6th Avenue, so it absolutely has to be a factor.”",
-    "The City said it does not intend to ignore Tacoma’s most dangerous streets, which leaders and staff say are well identified in traffic data. While it’s not among the most dangerous cities in the state for pedestrians and bicyclists, Tacoma continues to have a high fatal crash rate. Last year, 118 pedestrians were involved in crashes. Most of these people were injured, and three of them died. In 2024, 15 pedestrians died in crashes.",
-    "In addition to its Equity Index, the City will also be utilizing its six-year Comprehensive Transportation Program and its 20-year Transportation and Mobility Plan , pointing to a need to address the maintenance backlog and get “the most bang for our buck.”",
-    "“There is an order of magnitude of cost to rebuilding a completely failed street versus taking a street that's in the middle of its life and adding more life to it,” Ibsen said.",
-    "In passing the 2015 levy, voters told the city that they largely wanted the city to focus on residential streets. But based on voter feedback, that is not necessarily true this time around, and assuming that voter accountability stops at the ballot box would be a mistake, explained Public Works Director Ramiro Chavez.",
-    "Within the context of resident choice, Chavez explained, the City is in the process of developing a work plan based around the three categories the city designated for levy funding allocation. Staff will present a plan to Tacoma’s Infrastructure, Planning, and Sustainability Committee for feedback around mid-to-late October. He said that he hopes the City will be able to start incorporating specific projects in the late autumn, but also noted that some of those projects may not fit neatly into a 10-year plan, due to the possibility that certain projects’ conditions — particularly when it comes to finances — could change in that time.",
-    "“Much of those transportation dollars [do] not directly come from the City. [They come] from the federal and state governments in the form of grant money,” Ibsen explained. “If we had a fixed amount of projects that we said [are] immovable, we can't change anything in 10 years, then that would not only make us incredibly inflexible for opportunities that may come up, but it would deny the community to have any real voice [versus] if we are nimble and we focus our dollars on having great designs at the ready so that our engineers can immediately take advantage of grant opportunities.”",
-    "The City also included a program within the levy aimed at accessibility and connectivity fixes, which specifically focuses on ADA improvements, Tacoma’s Safe Routes to School program , sidewalk repairs, and enhancements for people who choose or who have no choice but to get around without a car by walking, rolling, biking, or taking public transit.",
-    "In 2017, in partnership with area schools and community organizations, the City launched its Safe Routes to School program. Chavez said that, at this point, Tacoma doesn’t have any locations picked out — “we need to take a little more time as to how we coordinate with the school district, the specific schools, and start identifying what are the specific needs or the gaps” — but that the passage of the levy allows the City to pursue grant opportunities that require local matching dollars. Those matching dollars will come from the levy.",
-    "Tacoma is also in the middle of finalizing what is known as its “transition plan,” which is an assessment of all ADA accessibility needs across the city, such as where the city might need to install ADA-compliant ramps or street curbs.",
-    "“It may be [that there are] already some existing ramps in the city, as we have all over the place. But [ … ] some of those ramps maybe were built to old standards, maybe 15, 20 years ago, and [by] today's standards [don’t] meet the ADA requirements,” Chavez said. Every new project will also have to be ADA-compliant. Chavez said that the City hopes to finalize that plan early next year.",
-    "The city is also using the levy to pursue its tree canopy cover goals , which target 30% tree canopy cover by 2030 — the ratio is around 20% as it stands. While funding for tree cover isn’t directly addressed as part of the overview of any of the three categories, Chavez said that tree cover is actually part and parcel of a safe street or sidewalk. For one, trees provide shade and shelter — and, as Ibsen noted, some places in the city can be 10-15 degrees hotter than others. Trees can also create a more welcoming environment for pedestrians.",
-    "But this doesn’t mean the city can just plunk a tree down anywhere in Tacoma and call it a day.",
-    "“We have to make sure that we put the right trees at the right location. Over time, trees have been planted across the city, and some instances may not necessarily be the right kind of trees, because they have an effect on the sidewalks,” Chavez said. “Those trees that we may plant may serve a stormwater component, depending on the solutions for the stormwater. [ … ] It's creating that inviting environment, where [ … ] we need the intent of traffic circulation, but also the pedestrians and bicyclists are part of that.”",
-    "Chavez also noted that the City is looking into de-paving some areas, and just received a grant from the Department of Ecology to depave some of the medians along S Union Avenue.",
-    "“What we're going to be doing in depaving is taking the asphalt or the concrete out and then we'll start planting trees,” he said. “So that is another strategy that we're going to be contemplating down the road because Tacoma is a built environment and there are a lot of paved areas. We're going to have to see what areas [would] be conducive to depave and replant trees in those areas.”",
-    "Ibsen said that one of the highlights of the levy is that it gives leaders both “a measurable time frame” and “enough flexibility to chase after grant dollars.”",
-    "“This is dedicated money that we will always have lockboxed away towards transportation, which allows our engineers to very strategically focus on having great designs ready to go,” he continued, “and that means that when we apply for grant dollars, which most capital projects, like major resurfacing, major arterials, major connections, [are] going to have to involve [ … ] we have a huge leg up over a lot of the competition [for those grants] because we've already paid for those designs with local dollars.”",
-    "But the source of these funds isn’t going to be available forever, given the levy’s 10-year sunset.",
-    "“Something I'm endeavoring to do is gathering the same people that we worked with in the initial outreach [ … ] and having some sort of permanent brain trust of these smart people who have a direct stake in the success of this, and making sure that we're permanently baking in their recommendations, their oversight, into how we're spending the money,” Ibsen said.",
-    "The mayor also highlighted that he wants the City to keep working on how it prioritizes projects, and how it can encourage housing development in key neighborhoods and continue to build connections and mobility in industrial centers and certain downtown areas “that can really use a shot on the arm, like around [the University of Washington] - Tacoma.”",
-    "Most importantly, Ibsen said, the city’s future plans, as he sees them, “have a lot less to do with asking for money and a lot more to do with continuous engagement. That's one of my chief ambitions with this measure [ … ] that we're making engagement the norm rather than just something that we do on a 10-year basis.”"
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Roosevelt-Walk-and-Ride-to-School-00767.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-20260903pinehurststationopensseptember30",
    "srcKey": "stb",
    "cat": "transit",
@@ -1485,6 +1492,98 @@
    "annos": null
   },
   {
+   "id": "f-urbanist-hurstlightrailstationwillopenseptember30",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Seattle's Pinehurst Light Rail Station Will Open September 30",
+   "author": "Doug Trumm",
+   "date": "2026-09-03",
+   "url": "https://www.theurbanist.org/seattles-pinehurst-light-rail-station-will-open-september-30/",
+   "paras": [
+    "As of today, Pinehurst Station officially has an opening date: Wednesday, September 30. The infill light rail station between Northgate and South Shoreline will serve both the 1 Line and the 2 Line, attracting an estimated 3,400 daily boardings. The late September opening coincides with the start of classes at the University of Washington and meets the agency's goal of opening the station in the third quarter of the year.",
+    "The combined headways of the two lines gives riders frequent service between Lynnwood and the International District, with trains arriving every four to five minutes. Sound Transit has pledged to keep riders abreast of opening festivities on its Pinehurst website , but there are signs that the event will be a subdued affair compared to other recent line openings.",
+    "This summer, Sound Transit crews have been hard at work putting finishing touches on the elevated station, which sits just north of NE 130th Street. The platform sits high up overlooking I-5 and leafy neighborhoods and parks surrounding it.",
+    "Among those finishing touches is station art, which was designed by Seattle-based artist Romson Bustillo , who was born on the island of Mindanao in the Philippines. The art will have a South Pacific feel, with human and animal figures brightly patterned in red, yellow, and green.",
+    "\"[Bustillo's] layered works and immersive collaborations go back to his Philippine lineage, his South Seattle/Pacific Northwest upbringing, and numerous research travels,\" Sound Transit's Katie Metzger noted in 2025 . \"His artwork will be translated into richly colored, porcelain enamel panels that wrap around the entrances and into both north and south lobbies.\"",
+    "Adding a station to this location has been long in the making, a project approved in 2016's Sound Transit 3 (ST3) ballot measure, grafting a stop onto ST2's Lynnwood Link Extension. In 2020, Sound Transit accelerated the project's timeline from 2031 to 2025, which was later revised to 2026, to put it closer to Lynnwood Link's 2024 launch. That occurred largely due to the advocacy of District 5 Councilmember Debora Juarez, who served on the Sound Transit board at the time and had lobbied to get the station included in the ST3 plan in the first place.",
+    "Like most ST3 expansions, the station faced the threat of major delay, but survived the 2021 realignment still on its accelerated course in part because adding an infill station years later only adds expense and complication. The construction work next to an active rail line was complicated enough happening in the immediate aftermath, requiring some single tracking during platform work.",
+    "\"These decisions ultimately resulted in a faster, less disruptive construction process for the station to be able to open ahead of its original schedule,\" Constantine said Thursday. \"I would also note that September 30th is the first day of classes for fall quarter at the University of Washington. So we will be welcoming aboard students, faculty, and staff who have now a more convenient way to get to campus.\"",
+    "Thanks to a funded plan for the infill station, the initial build of Lynnwood Link was able to incorporate space for the Pinehurst platform into the elevated structure. More recently, workers came back to fill out with station amenities, like elevators, escalators, and stairs down to street level, where card readers, signage, bike parking, and a new drop-off zone for paratransit vehicles welcome riders.",
+    "King County Metro has already added a Route 77 in the fall service change that will feed the station when it opens, connecting Lake City and Bitter Lake like never before. Before the change, the station location was a dead zone for bus service, but the case for the station always rested in part on adding an east-west bus line to serve a broader corridor, like the 77 will do, using NE 130th and 125th Streets.",
+    "“Traveling around our city and region should be easy and affordable. Every new light rail station gets us further toward that goal. Pinehurst Station will create more and better options for people in North Seattle to get to the important places in their lives,” said Seattle Mayor Katie Wilson said in a statement. \"It’s great news that people now have a date to look forward to and plan around. Next stop - Pinehurst Station!”",
+    "The Seattle delegation on the Sound Transit Board of Directors argued keeping the Pinehurst opening on track was a priority and an early win deliverable for the ST3 measure, and they were backed by a campaign from local residents . Seattle officials promised rezones nearby to grow a dense neighborhood in the midst of the freeway-adjacent station. However, those rezones hit the Seattle process and have only been partially delivered so far.",
+    "Seattle attached the long-studied Pinehurst rezones to the Comprehensive Plan major update that was due in 2024, but delayed by the Harrell Administration before being mired in citizen appeals . As a result, the City has failed to have its new zoning plan in place by the time the station open. In turn, this means no large-scale housing development projects are under construction in the vicinity.",
+    "The draft zoning plan includes a relative small patch of Neighborhood Commercial 85-foot zoning near the station, and some broader patches of Midrise zoning, before giving way to Lowrise. When the upzones do go live, eight-story apartment buildings with some ground-floor retail could be on the way. Just how quickly is uncertain, with the City appearing to have missed the development cycle by dragging its feet. Housing permit activity have been trending sharply downward across Seattle.",
+    "Even in 2023, the Pinehurst rezone delays drew the ire of Dave Baker, the former Kenmore City Councilmember who served on the Sound Transit board of the time.",
+    "“I’m sorry Mayor Harrell, I’m not trying to throw stones, but it’s just reality that they’ve had the opportunity to increase zoning in the area to make it more transit-friendly, but it’s still not done,” Baker said. “They’ve had since 2015 to fix the zoning, and it’s now 2023 and the zoning has still not been fixed. I would love to see a successful station… and the system to be as functional as it can. Everything else seems to be happening except this one.”",
+    "Harrell brushed off the criticism, declining to respond at the time.",
+    "Seattle's planning efforts have also punted on the issue of Jackson Park, a fenced-off, 160-acre, publicly-owned 27-hole golf course which advocates had called for adapting to broader, more accessible park uses. Some also called for integrating housing into the campus , which likely would require a park land swap given Initiative 42 stipulations, which prohibits park lands from being appropriated for other uses without making up for the loss of land elsewhere.",
+    "As it stands, the golf course disrupts walking routes to the station from the northeast, in addition to putting a low-density use next to high-capacity transit.",
+    "While Pinehurst has an imminent opening date, things are less certain for ST3-approved infill stations at Graham Street in South Seattle and at Boeing Access Road in Tukwila. Both stations were formerly promised in 2031, but Tukwila has no opening date after the board's May 28 vote left the agency without the full amount for construction included in its financial plan.",
+    "Meanwhile, Graham Street was only saved from the chopping block when the City of Seattle gave assurances of up to $30 million in last-in funding to back the project. That could prove to be a tricky precedent for the City to have set down the road, as the agency grapples with more overruns on Seattle projects. But riders can take solace in Graham Street remaining on course to open in 2031 or thereabouts.",
+    "“The opening of Pinehurst Station is a significant milestone as the first infill station added to an existing light rail line. It’s another step forward in delivering the light rail investments communities across King County have been counting on,” said King County Executive Girmay Zahilay in a statement. \"I look forward to continued progress on the remaining infill stations, including Graham Street Station and Boeing Access Road Station.”",
+    "Constantine pledged that the lessons learned from Pinehurst will inform plans for Graham Street and Tukwila's infill station, which faces stiff headwinds due to ballooning cost estimates. While Pinehurst Station came in at $240 million, estimates for Boeing Access Road have jump as high as $475 million ."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20250929_Pinehurst_Workers-drone-Peter_Bohler-0019_Sound_Transit_nqjpri-1-.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ssconnecttacomalevyofficialseyenextsteps",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "After Voters Pass Connect Tacoma Levy, Officials Eye Next Steps",
+   "author": "Carolyn Bick",
+   "date": "2026-09-03",
+   "url": "https://www.theurbanist.org/after-voters-pass-connect-tacoma-levy-officials-eye-next-steps/",
+   "paras": [
+    "The passage of the Connect Tacoma: Safe Streets and Sidewalks levy marked a sea change in voter attitude. Just last April, a more ambitious transportation measure failed at the ballot box. But this year, the levy garnered nearly 60% of the vote in the August primary.",
+    "“A big lesson that the city learned between last year's failure and this year's success was not taking our community for granted and making sure to start the conversation significantly earlier with more people,” Tacoma Mayor Anders Ibsen said. “The other difference was the content. We listened to the people after last year's failure and we learned that the voters wanted something a bit more modest.”",
+    "While the failed 2025 renewal effort included no sunset clause and would have raised funding indefinitely, the 2026 measure includes a 10-year sunset.",
+    "The levy serves as a continuation of the 2015 Tacoma Streets Initiative that ended last year. The 2015 initiative, a 10-year funding measure, approved $325 million for repair and maintenance around the city, including in residential neighborhoods. The Connect Tacoma levy, which goes into effect on Jan. 1, 2027, raises $200 million over 10 years, and aims to leverage an additional $120 million through grants, investing in transportation projects that address safety, connectivity, and access issues around the city.",
+    "But this new levy also comes with several important differences, particularly when it comes to flexibility in what it can fund and the City’s decision to prioritize funding only after allowing residents to weigh in on what upgrades they would like to see. In other words, project lists are still being crafted.",
+    "Funding for the 2026 levy comes from a variety of sources, but the bulk of the money — about $200 million of the estimated total — will come from a mix of utility and property taxes. But because these taxes are a continuation of the initiative voters approved in 2015, it means that there’s no actual increase, said Laura Svancarek, the executive director of Tacoma On The Go .",
+    "As a local nonprofit organization working towards a safer, more connected Tacoma by providing and advocating for mobility resources, Tacoma On The Go pushed for the levy’s passage and worked with the city on voter outreach, and Svancarek set up a community levy committee. During levy outreach work, one of the biggest concerns the organization heard from voters was that the levy would increase their taxes. With President Donald Trump’s and Israeli Prime Minister Benjamin Netanyahu’s war in Iran continuing to drive up the price of gas and groceries , voters appeared sensitive to the risk of facing further financial hardship.",
+    "“Because the renewal did not pass last year, that meant that the original levy expired at the end of 2025. So, technically speaking, this is an increase because those property taxes [temporarily] went away, and now they're coming back,” Svancarek said. “But … they are at the same rate as the previous initial streets levy. Being able to help communicate that to people was pretty significant because it's on the ballot as an increase, but it's not really an increase.”",
+    "Like the previous levy, residents will see a tax of $0.20 for every $1,000 of assessed property value, and a 1.5% earnings tax on natural gas, electric, and phone utilities. There are still exemptions for elders and people with disabilities who qualify for property tax relief programs.",
+    "The remaining $120 million will come from a mix of grant funding and partnerships. The grant funding, Svancarek said, is “the real superpower of this levy,” and the levy allows the city to leverage more grant match dollars for significant safety work on major arterials, such as South Tacoma Way.",
+    "The new levy is broader in what kinds of projects it can fund. While the 2015 initiative’s wording framed funding around streets and transportation infrastructure, the new levy’s wording includes funding for maintenance work, greenways, multimodal transit, and accessibility measures.",
+    "The projects the Connect Tacoma levy will fund fall into three categories: Better Neighborhood Streets, Safer Streets for Everyone, and Improved Connections.",
+    "The city estimates that about $85 million will go towards the first category, which includes residential street maintenance and improvement, and that about $159 million will go towards the second category of projects, which includes major safety and connectivity overhauls in the city’s busiest corridors and arterials. The city estimates it will allocate the remaining $76 million to the third category of projects, all of which fall under the connectivity umbrella: Americans with Disability Act (ADA) accessibility, trails and greenways, multimodal connections, and more.",
+    "But just because the city has roughly budgeted for these different categories doesn’t mean it has a priority list of projects in mind. Wrapped up in all of this work is the question of equity, especially because several areas of the city — such as Hilltop, Fern Hill, and the South End — suffered decades of redlining and neglect.",
+    "“While those covenants are gone now, we still live with the repercussions of those policies, and the decades and decades of intentional choices to not invest in neighborhoods that are primarily people of color or low-income families,” Svancarek said. These neighborhoods “face a real infrastructure deficit that the city is now working to address. [ … ] The way [this levy is] structured allows for a lot more flexibility and being able to go into those neighborhoods and fix some of those missing link pieces, finish some of those active transportation connections and be more able to address emerging safety issues than the previous levy allowed. The previous levy was very strict in what it could be used for.”",
+    "In 2018, the city developed the Equity Index , which is meant to help address and resolve disparities. The index wasn’t in place when the first levy passed, but the city used it in its outreach work, and will continue to utilize it in developing the projects the levy will fund.",
+    "While the city will not choose to, for instance, pave a street purely on equity data without considering other factors, like crashes and pavement condition, Ibsen said, the fact that “you can look at certain neighborhoods and guess where you are based on whether or not a neighborhood has sidewalks or trees [is] not a good thing.”",
+    "“You can fairly guess where you are on the basis of 'Does it have sidewalks? Does it have a curb and gutter? Does it have street trees?' [ … ] There is a 10 to 15 degree difference during heat waves in the North End versus the South End,” he said. “To not consider equity would be a grave disservice to our city. Over half of us live south of 6th Avenue, so it absolutely has to be a factor.”",
+    "The City said it does not intend to ignore Tacoma’s most dangerous streets, which leaders and staff say are well identified in traffic data. While it’s not among the most dangerous cities in the state for pedestrians and bicyclists, Tacoma continues to have a high fatal crash rate. Last year, 118 pedestrians were involved in crashes. Most of these people were injured, and three of them died. In 2024, 15 pedestrians died in crashes.",
+    "In addition to its Equity Index, the City will also be utilizing its six-year Comprehensive Transportation Program and its 20-year Transportation and Mobility Plan , pointing to a need to address the maintenance backlog and get “the most bang for our buck.”",
+    "“There is an order of magnitude of cost to rebuilding a completely failed street versus taking a street that's in the middle of its life and adding more life to it,” Ibsen said.",
+    "In passing the 2015 levy, voters told the city that they largely wanted the city to focus on residential streets. But based on voter feedback, that is not necessarily true this time around, and assuming that voter accountability stops at the ballot box would be a mistake, explained Public Works Director Ramiro Chavez.",
+    "Within the context of resident choice, Chavez explained, the City is in the process of developing a work plan based around the three categories the city designated for levy funding allocation. Staff will present a plan to Tacoma’s Infrastructure, Planning, and Sustainability Committee for feedback around mid-to-late October. He said that he hopes the City will be able to start incorporating specific projects in the late autumn, but also noted that some of those projects may not fit neatly into a 10-year plan, due to the possibility that certain projects’ conditions — particularly when it comes to finances — could change in that time.",
+    "“Much of those transportation dollars [do] not directly come from the City. [They come] from the federal and state governments in the form of grant money,” Ibsen explained. “If we had a fixed amount of projects that we said [are] immovable, we can't change anything in 10 years, then that would not only make us incredibly inflexible for opportunities that may come up, but it would deny the community to have any real voice [versus] if we are nimble and we focus our dollars on having great designs at the ready so that our engineers can immediately take advantage of grant opportunities.”",
+    "The City also included a program within the levy aimed at accessibility and connectivity fixes, which specifically focuses on ADA improvements, Tacoma’s Safe Routes to School program , sidewalk repairs, and enhancements for people who choose or who have no choice but to get around without a car by walking, rolling, biking, or taking public transit.",
+    "In 2017, in partnership with area schools and community organizations, the City launched its Safe Routes to School program. Chavez said that, at this point, Tacoma doesn’t have any locations picked out — “we need to take a little more time as to how we coordinate with the school district, the specific schools, and start identifying what are the specific needs or the gaps” — but that the passage of the levy allows the City to pursue grant opportunities that require local matching dollars. Those matching dollars will come from the levy.",
+    "Tacoma is also in the middle of finalizing what is known as its “transition plan,” which is an assessment of all ADA accessibility needs across the city, such as where the city might need to install ADA-compliant ramps or street curbs.",
+    "“It may be [that there are] already some existing ramps in the city, as we have all over the place. But [ … ] some of those ramps maybe were built to old standards, maybe 15, 20 years ago, and [by] today's standards [don’t] meet the ADA requirements,” Chavez said. Every new project will also have to be ADA-compliant. Chavez said that the City hopes to finalize that plan early next year.",
+    "The city is also using the levy to pursue its tree canopy cover goals , which target 30% tree canopy cover by 2030 — the ratio is around 20% as it stands. While funding for tree cover isn’t directly addressed as part of the overview of any of the three categories, Chavez said that tree cover is actually part and parcel of a safe street or sidewalk. For one, trees provide shade and shelter — and, as Ibsen noted, some places in the city can be 10-15 degrees hotter than others. Trees can also create a more welcoming environment for pedestrians.",
+    "But this doesn’t mean the city can just plunk a tree down anywhere in Tacoma and call it a day.",
+    "“We have to make sure that we put the right trees at the right location. Over time, trees have been planted across the city, and some instances may not necessarily be the right kind of trees, because they have an effect on the sidewalks,” Chavez said. “Those trees that we may plant may serve a stormwater component, depending on the solutions for the stormwater. [ … ] It's creating that inviting environment, where [ … ] we need the intent of traffic circulation, but also the pedestrians and bicyclists are part of that.”",
+    "Chavez also noted that the City is looking into de-paving some areas, and just received a grant from the Department of Ecology to depave some of the medians along S Union Avenue.",
+    "“What we're going to be doing in depaving is taking the asphalt or the concrete out and then we'll start planting trees,” he said. “So that is another strategy that we're going to be contemplating down the road because Tacoma is a built environment and there are a lot of paved areas. We're going to have to see what areas [would] be conducive to depave and replant trees in those areas.”",
+    "Ibsen said that one of the highlights of the levy is that it gives leaders both “a measurable time frame” and “enough flexibility to chase after grant dollars.”",
+    "“This is dedicated money that we will always have lockboxed away towards transportation, which allows our engineers to very strategically focus on having great designs ready to go,” he continued, “and that means that when we apply for grant dollars, which most capital projects, like major resurfacing, major arterials, major connections, [are] going to have to involve [ … ] we have a huge leg up over a lot of the competition [for those grants] because we've already paid for those designs with local dollars.”",
+    "But the source of these funds isn’t going to be available forever, given the levy’s 10-year sunset.",
+    "“Something I'm endeavoring to do is gathering the same people that we worked with in the initial outreach [ … ] and having some sort of permanent brain trust of these smart people who have a direct stake in the success of this, and making sure that we're permanently baking in their recommendations, their oversight, into how we're spending the money,” Ibsen said.",
+    "The mayor also highlighted that he wants the City to keep working on how it prioritizes projects, and how it can encourage housing development in key neighborhoods and continue to build connections and mobility in industrial centers and certain downtown areas “that can really use a shot on the arm, like around [the University of Washington] - Tacoma.”",
+    "Most importantly, Ibsen said, the city’s future plans, as he sees them, “have a lot less to do with asking for money and a lot more to do with continuous engagement. That's one of my chief ambitions with this measure [ … ] that we're making engagement the norm rather than just something that we do on a 10-year basis.”"
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Roosevelt-Walk-and-Ride-to-School-00767.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-grist-MwOHY0MlFYdk1GZ0lwZnFZOEtRWmJWbWdaNGMoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1494,23 +1593,6 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1scEdtR3dBa0lXMFg4N0ZfY0hNM1hFOG9MdFBvcVI5bkJycGFQSWc2UjAzRFdUd05UZlZOenRhY1pIdTg4WElHelBBMUw0aE9qLVplQkMwOHY0MlFYdk1GZ0lwZnFZOEtRWmJWbWdaNGM?oc=5",
    "paras": [
     "The summer we love is slipping away grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-VHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWsoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
-   "author": "",
-   "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNFMkxCanZfSDdSeXhoVEFZZElDU3FVRHF6NDZIcWVLekFVUTlwal9mSjcyQ08xcTRXcW9rZlQ1Nlh3SXRWeEswRHhwS0lvSnVxcjZWQkR5Tmg1cjFWbVVYcXBaX1pfMEljUkdfa21TUzd6V0xaNVFLZ1pOb1ROa0RuUmVHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWs?oc=5",
-   "paras": [
-    "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1536,35 +1618,37 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-pathtoreplacingagingjacksonstreetbridges",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "BNSF Demands Cloud Seattle's Path to Replacing Aging Jackson Street Bridges",
-   "author": "Ryan Packer",
-   "date": "2026-09-02",
-   "url": "https://www.theurbanist.org/railroad-demands-cloud-seattles-path-to-replacing-aging-jackson-street-bridges/",
+   "id": "f-propublica-VHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWsoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
+   "author": "",
+   "date": "2026-09-03",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNFMkxCanZfSDdSeXhoVEFZZElDU3FVRHF6NDZIcWVLekFVUTlwal9mSjcyQ08xcTRXcW9rZlQ1Nlh3SXRWeEswRHhwS0lvSnVxcjZWQkR5Tmg1cjFWbVVYcXBaX1pfMEljUkdfa21TUzd6V0xaNVFLZ1pOb1ROa0RuUmVHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWs?oc=5",
    "paras": [
-    "Aging segments of Seattle's downtown street grid around King Street Station would not be able to be rebuilt at their existing heights if they needed to be replaced, according to a newly released study from the Seattle Department of Transportation (SDOT). A bridge over BNSF railroad tracks that carries South Jackson Street and Second Avenue Extension S would need to be three to seven feet higher to receive railroad buy in, a fact that would have cascading effects on access to other nearby streets and properties.",
-    "SDOT's study was part of its Bridge Replacement and Rehabilitation Program. It looked at the early 1900s-era S Jackson Street bridge between Third and Fourth Avenue – known as Bridge 7 – and another smaller bridge to the east in front of Union Station, known as Bridge 33W. Both bridges were rehabilitated in the 1980s, and seismically retrofitted to withstand earthquakes more recently.",
-    "Nonetheless, City engineers have determined both bridges have surpassed their design life and could ultimately need to be replaced. This is a significant challenge given the fact that they provide critical connections for people across Seattle and the entire region, with more than 1,400 buses traversing them every weekday.",
-    "\"With regular maintenance and monitoring, many bridges last well beyond their design life but it is still important to plan ahead especially when the need for future rehabilitation and replacement is not driven by a poor bridge condition state,\" the study's executive summary states.",
-    "Any replacement bridge over the railroad tracks would need to be significantly higher than today's conditions because the existing bridge doesn't meet current requirements for vertical clearance above BNSF's right-of-way. Such a change would have major impacts on nearby properties, including an entrance to Sound Transit's Sounder commuter rail platform, and the King Street Station entrance plaza. Near bridge 33W, the Icon Apartments sit directly along the sidewalk, with a potential seven foot increase in height something that would block most of the ground floor.",
-    "\"Improving the vertical clearance to meeting BNSF’s requirements would result in a grade rise of S Jackson Street between 3 and 7 feet, depending on the replacement concept,\" the summary states. \"This change in grade would require 4th Avenue S to also be replaced and would affect access to properties adjacent to 4th Avenue S, S Jackson Street, and potentially along 2nd Avenue Extension S.\"",
-    "The cost of a replacement for Bridge 7 was pegged at anywhere from $99 million to $210 million, but any required height increase would also necessitate replacing Bridge 33W, at a cost of another $32 to $66 million. The study did look at what a retrofit for Bridge 7 would look like, but found that option would cost up to $160 million and take up to 12 years, due to a narrow window of construction work that BNSF would allow within its right-of-way – crews could only work four hours every day.",
-    "What it would look like to rebuild the Fourth Avenue S Viaduct was not addressed in the study, but those costs are likely to dwarf the costs of the smaller two bridges it sits between. In 2020, SDOT released the news that costs to seismically retrofit the Fourth Avenue bridge, from S Main Street south to Seattle Boulevard, had to be revised upward by a factor of more than 12, from $8.6 million to $109.4 million.",
-    "This cluster of interconnected bridges in south downtown has been in the crosshairs for a number of years, as Sound Transit has continued to advance alternatives for a second light rail tunnel through downtown as part of the Ballard Link Extension. It was partly the narrow construction window set by BNSF, on top of other potential technical hurdles, that have pushed Sound Transit away from considering a route under Fourth Avenue, with a third-party consultant calling the option \"not reasonably constructible.\"",
-    "The need to retrofit these bridges has also been an issue in the context of the Center City Connector, with a 2024 study concluding that upgrades would be needed to handle the new, heavier streetcar vehicles that would be a component of bridging the city's existing streetcar lines together via First Avenue.",
-    "But even if Sound Transit passes the area by and the streetcar remains on ice, these bridges aren't getting any younger.",
-    "The $1.55 billion transportation levy that voters approved in 2024 included $221 million for bridges, but most of that funding was earmarked for bridge repair and maintenance, not any full bridge replacements. The levy set aside $20 million to be divvied up among six bridge projects in the hopes of seeking future construction funding, but higher priority bridges like the Magnolia Bridge, and the First and Fourth Avenue bridges further south in SoDo over the Argo railyard, made the cut ahead of Bridge 7 or 33W.",
-    "The City could save money on a replacement for Bridge 7 by building an arch bridge over the BNSF right-of-way, just four feet over the existing bridge – but that option was all but rejected due to its impact on traffic. The arch bridge concept would have been expected to cost between $68 million and $145 million, or $65 million less than the high-end cost for the full replacement.",
-    "\"One concept included removal of the portion of the Bridge 7 structure under 2nd Avenue Extension S, south of S Jackson Street,\" the study summary noted. \"However, preliminary traffic analysis showed that these changes to roadway network and circulation in the neighborhood would not be feasible with today’s bus and vehicle volumes.\"",
-    "The bridge planning study's executive summary stops short of making a recommendation, but SDOT's project website does go a step further in summarizing where things currently stand.",
-    "\"While we have not selected a preferred alternative, bridge replacement is looking like it would be a better investment in the long-term,\" the newly updated webpage notes. \"Any of the options will be expensive, require railroad coordination, take time to construct, and cause disruption to the surrounding neighborhoods. We will need to be creative and opportunistic in our approach to funding and delivering this project.\"",
-    "The state of these bridges is unlikely to become a live issue in the immediate future, but this study does put some major issues on the table that future generations of Seattle leaders are likely going to grapple with – and that could leave Jackson Street looking very different than it does today."
+    "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections ProPublica"
    ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260831_155037-EDIT.jpg",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-hGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takgoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained",
+   "author": "",
+   "date": "2026-09-03",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nN21ZdVpVTU84aVhmNWlPNUpGaWdZSXRSZnZjLWVZVlVNOGUyNl9OQ1IwekN1YmxNZ1dycEFuQ2ZodHB3OXp6MTNRZ2JiX3MwZUJwT3hjWk5kTnVHNEdTOWhGekw1Y0huSGhQOHhDYTBEam9DUTBRR19Takg?oc=5",
+   "paras": [
+    "These Judges Take Months to Decide If Immigrants Have Been Unlawfully Detained ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1622,7 +1706,7 @@
    "date": "2026-09-02",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS3JHeHE4V0wxVmRMQlQzU3FxT28tTC1YZ19VRHN2M2tTTzl0LWEwb0NhLXBKMnBTVjkxTDhFSEdCVVBPdy1heF9aSE5XVEZjejZPeDlVdXVZSmJBNER0WmVwYjRxRzRPWGM2TWY4Y25KSkdueHJxTVlnNzlDNEhXM3FBR0QtWG5XbkREV0I3MnVQZlV6bGZhSmtob1JORFdhRFU1NkZ6MjFfZnFpblhLbjZpcGFwOHFPS2F3QlJUbFI?oc=5",
    "paras": [
-    "Record number of WA mail-in ballots uncounted after primary election, report finds KUOW"
+    "Record number of WA mail-in ballots uncounted after primary election, report finds kuow.org"
    ],
    "img": "",
    "fetched": true,
@@ -1631,15 +1715,32 @@
    "annos": null
   },
   {
-   "id": "f-emerald-pybkxxUDhHczhwMW84Vk41VDZpb19TWFB1MGcoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "New Skate Park in Rainier Beach Gears Up for Official Opening This Fall",
+   "id": "f-kuow-k5nT1lISGpZZVFtc2tfUDFLOXFYOFA1b1VIdwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "The Pacific Northwest has a copper theft problem",
    "author": "",
    "date": "2026-09-02",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLTRFZ1ZqMWpCOGpydmFOQUI0SnNxRTFXRldKeDdKaHF6R1Z1LV83Tm1STGxWYUI4R2FWcHY5VGhiTFBhNktBTnBBVkxRX3VkWjEtV3lGTFp4SmxCVDhNNFhnMDk3d05IV2FRNm5RRUJBZ2ZkM2Z0WFNseXp2UDJHUEQ1TElzY3hrM3F3UFVLM2NjYTV2bE15ek5RWkxzcldDSjhDaE1tVFZBeWtjb3BBS09xS1cySy05Vjl2dFhTYmlXQdIBzwFBVV95cUxQZ0hha2M3VzI2b1hTbTZ6VFNaWEtDUEFzVDRieGxoSXRGb2ladnQtV2FPUzdKdUw0NnZHOWlHOUpMSDlHYWJPRk1LYXNINFlfVmJIbVJhal9ydkRKS2Jjekg5REZkTWo0Wl84LUtkQ2Y2VGVGUWdKbXJPR182WGF0TUtpNkFQM0xpZXdobFZ5WkdxZ19xRndEb3B3ZWlQVUl6aHB2R21UVEZZX3VnSHpwZ0ZlNGpybkxxUDhHczhwMW84Vk41VDZpb19TWFB1MGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHM5YlJoUHhWclFyTzlkZTNFeC1uRFhTY1lZNzRieUdjLXZESmhXR1doZkVYVXMzcWlfeldMUFBaMFFLcGJUdGloOTJwc1VDWFF2c0pDRkFGY3pPZjVIV3ZlcTQ1bXpBZ3JXQWM1T3RfdUZVc3BEdk5nT1lISGpZZVFtc2tfUDFLOXFYOFA1b1VIdw?oc=5",
    "paras": [
-    "New Skate Park in Rainier Beach Gears Up for Official Opening This Fall South Seattle Emerald"
+    "The Pacific Northwest has a copper theft problem kuow.org"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-1NU0lXdmxRaEJaeDhyT25Za0xiTHZGTnJWdVUoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement",
+   "author": "",
+   "date": "2026-09-02",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPalVZalBzNGhhQlJuYUkxeFpVbk9mMkNHY1AyQWl6OXlHRkNPeUZQallVV2N0QnE5OXFYajRfNkdHOS1KSkxuLURIbnZ3UHBTalNSUmQ5QWtjeVhITG5vOHVzNEd5LWtCVFl0bUNOckt2ckEyekhLOU1NU0lXdmxRaEJaeDhyT25Za0xiTHZGTnJWdVU?oc=5",
+   "paras": [
+    "New Mail Voting Rules Moved Forward Despite USPS Officials’ Concerns About Mass Disenfranchisement ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1695,7 +1796,7 @@
    "date": "2026-09-01",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdW83SHVnNTgwUk15RXRFamROb2kyZTBwcV9OMGtVMnp4cjBrLXgxZ2ZXRURtTzFSWVNiRlpaX3JfNjlaZWdDcFlHVzRFam1JMFI3VjByTzdXTHp6MTR4Mi1GVEVUTW5XU1dKeEhnMGk5YmNoZjh3N19ZT1pjaERjdkJTSjN6ZGJ6YzA2S2kwVXN5VklCYXYwMDFWOE45OEhkeTAyWVJXY1dCWGQ5X3JwakFveGlLZ2xVcGdPLWRpcXJMNm5jTXVMdFFnNGc?oc=5",
    "paras": [
-    "After Seattle Center shooting, Mayor Wilson says police will update the public faster KUOW"
+    "After Seattle Center shooting, Mayor Wilson says police will update the public faster kuow.org"
    ],
    "img": "",
    "fetched": true,
@@ -1713,23 +1814,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUhIZUJZYzZwSVJkdHJfRjV1Y3FwbWtEeFlnbzM1c01OVU5TSjRWYTNab3JwVzBzS0N2TGhwYnVjTGFVZGdHS2U2WXh0cmxmcGpyV3lJcHZyRGY5NUJyMG5UbnFpQ2lhaWw1b0ZBMmdhOVlkZUFENXlFUjYtcjFpYTRNTldHa1Zo?oc=5",
    "paras": [
     "When plastic companies write the lesson plans grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkEoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Help Us Investigate Abusive Coaches in Youth Sports",
-   "author": "",
-   "date": "2026-09-01",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQajhfX0RYNXVnWkVqenFoMkY3RF9Vcm5LWVQ4UVdVcDUxZGx3cFpENzZ1NXZnNklmY1FlU0NJZTR3M3FZakdMSi02d21KSTVQVWpVMXFkeFU1eUh6bGRVSzQxb3dMNHlHR3BYR0lKMEtOWWEzakJjeXlnS2ZYMTNfRjVIZmh6cWxGUS1oNlM3dHB3MFlzRkE?oc=5",
-   "paras": [
-    "Help Us Investigate Abusive Coaches in Youth Sports ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1772,57 +1856,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/06/Little-Bens.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-VZ1MUd1RTRFTk9PcnhfVmZmbXA2bURJelhhawoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Washington state workers stage walkouts over proposed agency cuts",
-   "author": "",
-   "date": "2026-08-31",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2NMb0pYcS03dy16SDhOY2NpUlE4b3ZqTDFlSVVvZDRZejRxRmZHc2Fud1d6S2ktOUFtOVBCeFJkOTFxMGlzMUFZZEk0UUd6dWh3ei1mZEpWZmhMWjRrRjFpWHZMLWJlZG1VLU1VMFZNR1Y1V3ptdElIUjMzbHdHZGVzeE5zd3VJblpjcS16c21RUC0zTWg4WVZ1MUd1RTRFTk9PcnhfVmZmbXA2bURJelhhaw?oc=5",
-   "paras": [
-    "Washington state workers stage walkouts over proposed agency cuts KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-BSaUJlLXhYcGVwdWVfQktjZmVzZkFWMm5tT1koc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "West Point’s only climate scientist fired after continuing to teach human causes of climate change",
-   "author": "",
-   "date": "2026-08-30",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY2NIM0pjLVdleGgxY21uaVZTcVM0eVU3Q1NjZVdHSXNTRWU1cUVuYjNTNmZxZDRVRVQ0cnZNV1BEcGVISG14UmY2Y3ZkLXpEZFJoZFJVTGxvRllqUFByS1hSNFZGR3gyUVZOSEpqOHBVeTVuNEFNQ1c2MGppb0twczVoUXFJbmJMQnI0VTMxT19WMEFsNlhWMTh3b1dRVF94ZEhoWFB1aVBSaUJlLXhYcGVwdWVfQktjZmVzZkFWMm5tT1k?oc=5",
-   "paras": [
-    "West Point’s only climate scientist fired after continuing to teach human causes of climate change grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-IUXlWLVVGUGFMLTg3RmNtUzJ6MGxDNmUyRW5Poc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: Aftermath",
-   "author": "",
-   "date": "2026-08-30",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wYTl4eWl5cEoyQTBjU0JlQmxpZjl5U1hjT0I0ZUZKenYtZTlzZjFqNmNUbkYzdTR5c3Ftc0cwZ3pHNW50ZUFfSFlpNTgzWkJ0NjhacFZTYUktNEVPWkYxVFRtSXFmTzdzajlzeWZGMTR3S05HaWhnSjJZNNIBiAFBVV95cUxPTTN6ZzBzY2NBR0tpMXdoSnplMUM5Q0szS2xkMGJfeDFyRGlIQnp3LWo5Y21uTEJxOHBRQVR2T2tuWURfdlBta3pPS0FSMUNfVkw5UHVIeDdsR2MyM0IyODZzZ0lnRzNBTE0tSmtIUXlWLVVGUGFMLTg3RmNtUzJ6MGxDNmUyRW5P?oc=5",
-   "paras": [
-    "DOOM LOOP: Aftermath South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1873,24 +1906,7 @@
    "date": "2026-08-28",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdU5JbFNwZF9PUlF5bDVlZlFlMDVoRUNzbHdwWXJHU2V3blNvTjg5ZG05U2ZvblV5NWlTVjd3Wl9rQ0N5emJKZ0ZsZjdWZ2UzRFNUZl9IVXA1a01fd2l4azBmQ1FQbzhuUU90Sm9nS050TjhPYWFXbEJpc0N0YlBIUllYVUVrVDZzeVVFSXBvN2puQ1MxbUkxV3pVNFpxbklLVE9qV1c1dkdQOE1mUmJsSnZwMmVuRVVpTUJPZ3Nadw?oc=5",
    "paras": [
-    "New records detail ICE arrests in WA during summer surge. Yakima, Seattle top the list KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-hBQlhLTGVwSWtaMTJ4V1FUajBsY2h6Q1hOLWooc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital”",
-   "author": "",
-   "date": "2026-08-28",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1pSQ2lTNTlCOWNlVll4eEFESGNCUTA3eml2N25uUkdXbkpPYlN1bU01aDdQN3RIZDM2alZXWnd4ZDVDaVRrc0JIampIQlhRNW5qUHpFWnpvQU90czRKdlNEbEdCX1BDNlhBQlhLTGVwSWtaMTJ4V1FUajBsY2h6Q1hOLWo?oc=5",
-   "paras": [
-    "Listen to 911 Calls From Inside an Immigration Detention Center: “We Just Need to Take Him to the Hospital” ProPublica"
+    "New records detail ICE arrests in WA during summer surge. Yakima, Seattle top the list kuow.org"
    ],
    "img": "",
    "fetched": true,
@@ -1959,23 +1975,6 @@
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVljNkN0ZndLM1JjY2RTemZTZk9JUzJxbjVBRDZRY0NOQjE4Uk9WcHpmWHpiSUJQTDZSdjlvRTN0TWEtOWQwSFZIM2draWViVlB3SlNxdm56UTBYb3lEWk1NMENKOXRVeTEyMGpqTTNTR3BDa0N5R3lZOFc5R1pjaE1RMnFLT0tNZWVHc09DTnVRRTU0NzRMeWRZU2FhMDQ?oc=5",
    "paras": [
     "Idaho county’s probation office compiles ‘foreign born list’ for ICE InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-lwUG9tUGY5NFVkb1IyNGdqakdDaFlvMHVFMGcoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Inside Trump’s Failed Hunt for Noncitizen Voters",
-   "author": "",
-   "date": "2026-08-14",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFhpU1E3cHJQWDc0aGVMdEtLSm1GMmI0Z0dVWnMzQkxVM1Q4cGROOVFnck9sRzZaOWdDR2pNY1cyQ3NfSjZfZk0yN3ZtQUx3TXd1Q0piSkxzS3pCcVR0T2M2b1YwZmxyX1ZLdW82OUhCUUZRUlZ3YkxZbDlwUG9tUGY5NFVkb1IyNGdqakdDaFlvMHVFMGc?oc=5",
-   "paras": [
-    "Inside Trump’s Failed Hunt for Noncitizen Voters ProPublica"
    ],
    "img": "",
    "fetched": true,
