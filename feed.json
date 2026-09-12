@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-11T18:52:39.705Z",
- "builtFor": "2026-09-11",
- "builtHour": "11",
- "count": 87,
+ "builtAt": "2026-09-12T17:58:47.599Z",
+ "builtFor": "2026-09-12",
+ "builtHour": "10",
+ "count": 88,
  "sources": [
   {
    "source": "bbc",
@@ -31,7 +31,7 @@
   },
   {
    "source": "emerald",
-   "count": 1,
+   "count": 2,
    "via": "feed"
   },
   {
@@ -86,6 +86,662 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-esvmicrosoftapplesiphoneduoechoesthepast",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Study warns Seattle over-relies on Big Tech; Seattle Times v. Microsoft; Apple’s iPhone Duo echoes the past",
+   "author": "Todd Bishop",
+   "date": "2026-09-12",
+   "url": "https://www.geekwire.com/2026/study-warns-seattle-over-relies-on-big-tech-seattle-times-v-microsoft-apples-iphone-duo-echoes-the-past/",
+   "paras": [
+    "This week on the GeekWire Podcast: A study commissioned by the City of Seattle says the city is not in decline but is in danger — finding that 10 companies, nine of them in tech, pay three-quarters of the payroll tax on large employers, and that the tax structure uniquely penalizes the hiring of senior, high-compensation workers.",
+    "The report says Seattle should be most concerned about AI but most active in cleantech, the one industry the city can actually shape, since it owns the electric utility and controls permitting, building codes and land use.",
+    "Meanwhile, the Seattle Times and Newsday sue Microsoft and OpenAI , accusing them of copying hundreds of thousands of articles to train their AI models, putting Microsoft’s hometown paper against a company that helps fund some of its journalism.",
+    "And Apple’s first foldable arrives as the iPhone Duo , reviving the name of the dual-screen phone Microsoft gave up on in 2023, with Surface fans arguing Apple took more than the name .",
+    "Which leads us to a new GeekWire Trivia Challenge about the Microsoft products that Apple later turned into categories. Stick around to the final segment to see if you can figure it out.",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen.",
+    "Audio editing and production by Curt Milton."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-logcom20260912hoponboardcampaignkicksoff",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "“Hop On Board!” Campaign Kicks Off",
+   "author": "Nathan Dickey",
+   "date": "2026-09-12",
+   "url": "https://seattletransitblog.com/2026/09/12/hop-on-board-campaign-kicks-off/",
+   "paras": [
+    "Yesterday, a coalition of transit advocates launched “Hop On Board!”, the official campaign urging Seattle voters to pass the renewal and expansion of the Seattle Transit Measure this November . Speakers at the event included Seattle Mayor Katie Wilson, Councilmember Alexis Mercedes Rinck, ATU 587 President Greg Woodfill, Nondrivers Alliance founder Anna Zivarts, Transit Riders Union General Manager Lam Ho, and Transportation Choices Coalition ‘s Executive Director Kirk Hovenkotter and Policy Director Katy Ricchiuto.",
+    "The Transportation Choices Coalition is leading local advocates pushing for expansion of the transit measure, which proposes to increase the current 0.15% sales tax for transit to 0.3%, the maximum allowed under recently adopted state law. If approved by voters, the measure would take effect in April 2027.",
+    "King County Metro uses an equity framework to distribute service across King County but cities have the ability to purchase additional service. Seattle has been buying additional service since 2014 , which brought frequent buses to most of the city and dramatically increased the viability of living car-free.",
+    "The current Seattle Transit Measure funds over 7% of all bus trips currently running in Seattle, mainly boosting service along key corridors during the day and providing the majority of Metro’s Night Owl service in the city. The expanded STM would further boost service at night and on weekends, as well as more than doubling the number of free ORCA cards for those who need it and providing funding for several important accessibility programs. The measure also includes funding for capital funding for bus lanes.",
+    "At the event, speakers shared stories of how important transit is to their lives and how this measure would make public transit in Seattle more useful for more people. Mayor Wilson focused on the importance of late night bus service to help service workers get home at the end of a late shift without using a rideshare service like Uber or Lyft, or making it possible for a family with two cars to only need one.",
+    "Councilmember Rinck shared stories of three-seat rides to Tumwater and the importance of frequent, reliable service, and also highlighted the expanded late night service provided by the measure. Greg Woodfill posited that although sales taxes are regressive, this measure’s taxes will go right back to serving the people who need it most, stating “every $1 spent on transit is $5 back in the community”. Anna Zivarts stressed the importantance of frequent and reliable service to those who cannot drive, and how the transit measure would bring more service to more communities. Zivarts put it simply: “transit is freedom”. Other speakers highlighted the proposed increase in free ORCA passes for low-income riders and the elderly, and the importance of pushing back against likely opposition to the measure.",
+    "If you are intersested in supporting the Hop On Board campaign, you can sign up to volunteer for upcoming events , or donate to the campaign ."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image-8-edited.png?resize=525%2C295&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-tseattlegrowthplanthrownoutinstateruling",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Environmental Complaints Against Seattle Growth Plan Thrown Out in State Ruling",
+   "author": "Ryan Packer",
+   "date": "2026-09-12",
+   "url": "https://www.theurbanist.org/environmental-complaints-against-seattle-growth-plan-thrown-out-in-state-ruling/",
+   "paras": [
+    "The City of Seattle has some updates to make to the environmental review used to update its 20-year housing and jobs growth plan, but claims alleging that corners were cut when conducting that review were mostly thrown out this week in a ruling from Washington's Growth Management Hearings Board (GMHB).",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "Wednesday's ruling came in response to a set of two appeals filed against the final environmental impact statement (FEIS) for former mayor Bruce Harrell's One Seattle Comprehensive Plan update. The 1,300-page document reviewed impacts from expanding the city's zoning capacity to allow denser development, particularly along transit corridors and in tight clusters close to existing business districts.",
+    "These GMHB appeals are separate from the pair of City-level FEIS appeals that have been advancing through the state court system; those are still pending after the Washington Court of Appeals ruled that they should be able to move forward. It's those challenges that are currently holding up implementation of the Comprehensive Plan's second phase, now pushed to at least early 2027.",
+    "There is some overlap, however. One of the appeals ruled on this week was filed by Jennifer Godfrey, the Seattle Symphony musician who challenged the FEIS at the city level last year and took her appeal all the way to the Washington Court of Appeals. Godfrey alleged that the plan did not adequately address concerns around the impact of polluted stormwater runoff on Puget Sound's population of Southern Resident killer whales (SRKW). The \"Orca Appeal\" has attracted significant media attention while Godfrey also pursued this parallel avenue to challenge the FEIS, joined by groups including the Orca Conservatory, the Orca Network, and the Puget Sound Harvesters Association. Collectively that group was referred to as the Joint Petitioners by the hearings board.",
+    "Godfrey's appeal argued that the One Seattle Plan sets lofty policies regarding tree canopy preservation and water-quality protection, but that the regulations that are tasked with implementing those policies aren't shown to be in alignment with those policies. But the board ruled that no evidence had been presented to show that this was the case.",
+    "\"The Board disagrees that it was the City’s burden to show how its implementing regulations ' comply' with its policies,\" the ruling stated. \"Instead, it was Joint Petitioners’ burden to show how the implementing regulations are inconsistent with the policies. But Joint Petitioners did not discuss even a single line of text from the implementing regulations, anywhere in their brief, and so fail to meet their burden.\"",
+    "In issuing its final ruling the board found that Seattle had adequately reviewed the potential impacts of housing growth over the next 20 years, it just didn't encompass enough potential growth. It ultimately ruled the FEIS was inadequate because the City had only reviewed the impacts of what is considered \"maximum likely development\" instead of \"maximum possible development\" – a move that leaves out approximately 42,000 potential units of housing based on City planners' estimates.",
+    "The City argued that considering the impact of development that is unlikely would be speculative, and thus not required under the State Environmental Policy Act (SEPA) but the growth board did not agree with that either.",
+    "\"The Board is cognizant of the rule that speculative environmental impacts do not need to be analyzed. It is tempting to think that if additional housing units beyond 120,000 new units are unlikely to be built, then their environmental impacts must be speculative,\" the ruling said. \"That was the logic underlying the City’s decision to limit its environmental analysis to the 120,000 new units it thought were likely under the Update Ordinances, rather than the new development capacity of 162,847 potential new units which the Update Ordinances added to the baseline capacity, or the final capacity of 330,933 potential new units. However, the Board believes that SEPA caselaw distinguishes between impacts that are speculative versus development that is speculative.\"",
+    "During the earlier public comment period, urbanists and housing advocates had raised the point that the City's growth targets appeared on the low side . Divided over 20 years, 120,000 is just 6,000 units added per year, which Seattle has managed to exceed on a regular basis over the recent decade.",
+    "But on the underlying environmental analysis for the growth that was studied, the hearings board essentially gave the City its stamp of approval.",
+    "\"The Board finds that Joint Petitioners have not shown the City failed to use the best available science. The FEIS was deficient for its scope, but not for the quality of the scientific information it relied upon,\" the ruling stated.",
+    "The second GMHB appeal, filed by civil engineer (and past Urbanist contributor ) Donna Breske, dealt with the City of Seattle's plans for water infrastructure, and was fully dismissed. Unlike in Godfrey's appeal, Breske's appeal didn't seek to invalidate any ordinance, but rather force the city to overhaul the Comprehensive Plan's Capital Facilities element to address the current unpredictability of the water permitting process.",
+    "The City of Seattle now has a full year to update the One Seattle plan's FEIS to address the potential impacts of the additional units, when it was already in the process of conducting environmental review of even more added density as part of mayor Katie Wilson's pivot from the One Seattle Plan – which has been branded \" Taller Denser Faster .\"",
+    "\"[A]s the Board has been at pains to repeat, the FEIS’s environmental analysis would have been adequate [emphasis theirs] if the maximum potential development as a result of the Update Ordinances had been 120,000 new units,\" the ruling said. \"For any amount of growth below this threshold, the FEIS is already adequate . It is only if growth were to exceed the 120,000 new unit threshold that the impacts would not have been considered and mitigated in the FEIS.\"",
+    "The larger issue surrounding Seattle's Comprehensive Plan is what happens with Godfrey's other appeal, which has been moving forward with an appeal filed by Mount Baker resident John M. Cary. Earlier this summer, the Seattle City Council passed a new law that closes off the avenue of appeals to the city hearings examiner when it comes to areawide rezones or updates to the Comprehensive Plan just like this one. That means that it will likely be left to King County Superior Court to adjudicate, with the Council free to consider and adopt the modest rezones that had been on deck before things were put on hold .",
+    "While there's no telling how that appeal will ultimately play out, this week's hearings board ruling could provide a preview."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/53630610789_746d8c2831.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-alkwrapsupsummerwithanythinggoesfestival",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Columbia City Beatwalk Wraps Up Summer With 'Anything Goes' Festival",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://southseattleemerald.org/arts-culture/2026/09/12/columbia-city-beatwalk-wraps-up-summer-with-anything-goes-festival",
+   "paras": [
+    "A spelling bee, fire dancers, a little karaoke, and some funk music.",
+    "At this month's Columbia City Beatwalk , \"Anything Goes\" will be the theme of the night, says neighborhood organizer Tish Gallow.",
+    "On Sept. 13, the monthly Beatwalk will be back on Ferdinand Festival Street — a free, all-ages music festival featuring artists, dancers, games, and local businesses around the block. Following a summer of large events, like Bumbershoot and Capitol Hill Block Party, the Beatwalk brings back a \"small-town feel\" to the community, operations manager Kate Bond says.",
+    "Part of a group of just six volunteers, organizers, and longtime Columbia City residents, Gallow and Bond work as a dream team, with Gallow booking acts and Bond gathering fundraising and sponsors. Over time — with funding from multiple donors, like 4Culture and the Seattle Office of Arts & Culture — the two have seen Beatwalk grow, with a reported 400 to 500 attendees at a given event this summer.",
+    "\"We're still not Capitol Hill Block Party big or money like that, but we got what we got for this neighborhood,\" Gallow said.",
+    "The Beatwalk crew had a busy summer: In June, organizers held two Beatwalks, one themed \"American Roots\" and another to celebrate LGBTQIA+ Pride. In July, with Brothers United in Leadership 206 (BUILD 206) , the theme was \"R&B, Hip Hop and Funk,\" featuring Seattle bands, like Funky 2 Death , and hip-hop legends, like Teia's Higher Consciousness . August was \"World Beats and Rhythms,\" mixing in elements of Carribean, Latin, and African culture.",
+    "\"It [is] really important to me to book bands and artists who used to live in the neighborhood or come here often, because of the gentrification in this neighborhood,\" said Gallow, who has lived in the South End for about 15 years. \"This neighborhood looks wonderful. But I also wanted to bring back my community.\"",
+    "So, what does \"Anything Goes\" exactly mean?",
+    "\"That's literally how anything goes: I was like, 'Well, shoot, I'll just do whatever I want,'\" Gallow said with a chuckle.",
+    "From 4 to 9 p.m. on Ferdinand Festival Street, Seattle's DJ Lovesick Larry will be spinning hip-hop and R&B beats, and at 6 p.m., attendees can brush up on their letter-sequencing skills at Fremont Brewing's 21+ Spelling Bee. Around 7 p.m., people can head to Island Soul for some karaoke , with Seattle vocalists Amazing Achini and Taryn Kacey, and then head back to Ferdinand Festival Street to see fire dancers with the Lion Gypzi Fire Experience . For the night owls, there will be Seattle hip-hop pioneer DJ Funk Daddy at Rumba Notes at 10 p.m.",
+    "For participating businesses, the hustle and bustle of the Beatwalk brings more foot traffic into their doors.",
+    "For many years, Theo Martin's Caribbean restaurant and bar Island Soul was closed on Sundays, despite community members pleading with him to stay open. He didn't change his mind until he attended a Beatwalk.",
+    "\"I sat there, and I was like, 'Oh, shit! This is some energy,'\" Martin recalled while sitting in a booth in his restaurant. \"It is happening — people are walking by with plates and eating and having fun, and I'm closed. And I knew that was not a good choice.\"",
+    "Currently, Sundays — Beatwalk or not — are some of his busiest days of the week.",
+    "\"I was missing out, and I wanted to be a part of it,\" Martin said. \"The community is why we're here. It's nice to get someone driving from Kent to Renton, but the real people who come to this restaurant live in the ZIP code.\"",
+    "For attendees like resident Erika Johnson, the Beatwalk is a time to dance, listen to music, and catch up with her neighbors.",
+    "\"I get to see friends, parents, and kids that I have known but who have moved or don't have much free time to come to Columbia City on a weekly basis, but always keep that Sunday as a priority,\" Johnson wrote to organizers. \"It keeps me tethered to the people/businesses I knew 20 years ago and how they have evolved.\"",
+    "The Columbia City Beatwalk will be held from 4 p.m. to midnight on Sunday, Sept. 13, on Ferdinand Festival Street between Rainier Avenue South and 39th Avenue South. See a map of venues here ."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/import/wp-content/uploads/2022/08/2022_08.13_LiveMusicBlockPartyRoundup_Beatwalk2022_byArtByFREDERICK-1024x683.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-dupdrazesaystheseahawksarebuiltdifferent",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: Draze Says the Seahawks Are 'Built Different'",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://southseattleemerald.org/newsletters/2026/09/12/the-roundup-draze-says-the-seahawks-are-built-different",
+   "paras": [
+    "I've been quiet about this for months, but now is the time to finally get loud. I need y'all to say it with me: Sea … HAWKS!!!",
+    "I let the off-season be the off-season. I didn't watch HBO's Hard Knocks , which followed the Seahawks training camp. I didn't give any reactions to draft day. I didn't panic when the team sold (though I do plan on doing some coverage of the owners).",
+    "I simply enjoyed the off-season bliss of our team being Super Bowl champs and everyone else scrambling to catch up. I felt good.",
+    "But we're here now. Week 1. And we started off with a BANG . Yes, our quarterback Sam Darnold got hurt immediately — and that only made the victory sweeter. We faced adversity like the true champions we are. Jaxon Smith-Njigba made the big play he's known for making, and our defense closed the game with three interceptions in the fourth quarter.",
+    "That's Seahawks football, baby. You gotta love it.",
+    "This week, I want to kick off football season with a certified superfan. Rapper Draze literally made the Seahawks anthem last year with his hit \" The Dark Side .\" He even performed it at the Super Bowl celebration party and at Lumen Field before the NFC Championship game. He says this year's team has been playing the updated version, \" The Darkside 2.0 ,\" at training camp.",
+    "I spoke with Draze about the update to the anthem, how it feels to go from superfan to performing at Lumen Field, and his prediction for the upcoming season.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: Last year, when you first dropped the song, you came here and we hyped it. It's become the official anthem. As fans, we all feel part of the Super Bowl run, but what was it like for you, as a self-proclaimed Seahawks fanatic, having your song resonate that way?",
+    "Draze: It's still going. It had thousands of views in the off-season. I got to perform at Lumen Field for the championship ceremony to a sold-out crowd. I've done some big stuff, but never anything that big.",
+    "Now everywhere I go, when I'm in Seattle, somebody walks up to me and wants to talk about \"The Dark Side,\" or they just walk up and say \"M-O-B, M-O-B.\" It's definitely taking the recognition beyond anything I could have ever imagined.",
+    "MD: When I saw you tweet there was a \"Dark Side 2.0,\" in all honesty, I was worried. We had the anthem and won the Super Bowl. Why jinx it?",
+    "Draze: I feel like you. When you make a Picasso or something great, you don't mess with it. So, honestly, it was a lot of time and thought. \"The Dark Side\" is the anthem for the Seahawks, right, and the real stories behind them is how I created it. So, I got it to the Seahawks first, and they started playing it in training camp.",
+    "I kept it really simple. Same beat. I just took out K-9 [Super Bowl MVP Kenneth Walker, who now plays for the Kansas City Chiefs], that line, and added Sam Darnold's name in a line. And this is it. There is no \"Dark Side 3.0\" coming next year. The song is locked and loaded.",
+    "MD: OK. Then is it OK for us to call it an update instead of a remix?",
+    "Draze: It legitimately is an update. That's all it is.",
+    "MD: All good. Now, for the football. What was your takeaway after Week 1?",
+    "Draze: Championship medal. We're built different. We really are everything that we talk about and that the song \"The Dark Side\" talks about, we embody 12 as one. When your quarterback goes down on the first drive of the game, you're gonna need 12 as one to get through this thing.",
+    "When you're down, and you need to play, it's [Jaxon Smith-] Njigba. When your running back decides to go to KC, Jadarian Price starts cooking. And then, last but not least, in the end, we needed defense to close out the game. And in the fourth quarter, we got three interceptions from the Dark Side.",
+    "MD: What's your prediction for this season?",
+    "Draze: I really believe we can run it forward. I mean, health has to be on your side, because this is football. But here's the reality: We're more than likely going to the playoffs. And once you're in the playoffs, I mean, it's one game at a time at that point. And nobody wants to play us. We have a tough schedule this year, but nobody wants to see us in the playoffs.",
+    "Metro is replacing the 7 with a RapidRide line? And trimming it from 67 stops to 47? Many riders have already expressed concerns.",
+    "Marcus Harrison Green is leaving the Emerald . And journalism. Our founder will now be fighting for the South End from City Hall.",
+    "If you live in Rainier Beach, you have for sure gotten the calls. Predatory developers trying to buy your property. Mayor Wilson says: Not anymore.",
+    "Georgetown is one of the last cool neighborhoods we have. This weekend, it plays host to a Super 8 Film Festival.",
+    "I know this comes about a month early, but I want to make sure y'all know. We are having T'Challaween on Oct. 24, and everyone is invited — but there's been a major change!",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-01-17/wiewfzu3/The-Roundup-Draze-Drops-the-Seahawks-Anthem-Weve-Been-Waiting-For.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-dvertisedastheblockbustertrollitreallyis",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Na Hong-jin’s Hope Isn’t Being Advertised as the Blockbuster Troll It Really Is",
+   "author": "Hunter Pauli",
+   "date": "2026-09-12",
+   "url": "https://www.thestranger.com/film-2/na-hong-jins-hope-isnt-being-advertised-as-the-blockbuster-troll-it-really-is/",
+   "paras": [
+    "I have seen reviews of Hope bewildered by its third act, confused as to how the competent action movie they were enjoying could culminate in such an awful conclusion. Why did director Na Hong-jin botch the landing? Is he stupid? No. The bad ending is the point. It’s satire and Na is trolling the audience for fun.",
+    "Hope is being sold as typical sci-fi action fare from a Korean master of suspense because the studios don’t want to admit that he played an expensive joke on them and they’re desperate to make their production costs back. Or they’re in on the joke and happy to go along with the deception that is the first couple acts of Na’s film. Maybe a bit of both. Whatever gets butts in seats.",
+    "At ₩100 billion won—roughly $74 million—this is the most expensive Korean movie ever produced, and it seems Na has intentionally mocked spending so much money on a sci-fi blockbuster franchise by burning the cash while hinting at a sequel he has no interest in making.",
+    "It’s as if he’s saying, “Oh you want to hire me, an actual artist, to make an expensive mainstream sci-fi action slop franchise for you? For stupid American hogs? Sure, I’d love to. “",
+    "Na is a talented director, and plays the story of a small town attacked by a monster perfectly straight at first. The townsfolk unite to hunt it down, but there’s something even more mysterious in the woods, a spooky mystery is afoot! You may or may not see him beginning to dissect genre tropes depending on what you’re expecting going into the theater, but what he’s doing becomes clearer the closer you get to the end.",
+    "Na’s scripts have always been deeply cynical, particularly in their resolutions—the pimp tracks down the serial killer, but not before his sex worker is murdered ( The Chaser ) the debtor pays off his liability by completing the assassination, but bleeds to death before finding his missing wife ( The Yellow Sea ), the policeman identifies the demon possessing his daughter, but is tricked by it into suspecting another and killed by her ( The Wailing ). Hope is so cynical that the conclusion itself becomes the punchline to a dry, two-and-a-half hour joke. Everyone in the theater either started laughing or got really pissed off. Some of those laughing seemed in on the joke, other laughers thought Na did a comically bad job, and the angry people agreed with them.",
+    "The film starts ordinarily enough with Na’s typical bumbling police characters, tense editing, ultraviolence, and plot signposts pointing to a satisfying conclusion Hope never delivers. By the end, you realize this movie about a fishing village is full of red herrings, and the troll onscreen isn’t the biggest one in the theater with you.",
+    "The studios calling in a critically successful genre director to make a lucrative mainstream sci-fi epic is a trend that’s only gotten worse in recent years. Those movies often turn out pretty bad (Richard Kelly’s Southland Tales , Chloe Zhao’s The Eternals ), and Na is at least willing to shoot his own dog. Rian Johnson getting dragged in to try to salvage Disney’s botched Star Wars reboot comes to mind, and at the very least, Na will hopefully make Hope’s budget back and be similarly rewarded with the creative freedom to make his little detective movies. He’s too good for blockbuster schlock and Hope is him showing us.",
+    "Many directors have spited studio heads and audiences to make a point. This isn’t William Friedkin or Michael Cimino breaking the bank with Sorcerer and Days of Heaven and fighting the studio on an ultimately good movie sold poorly to audiences. This is Tom Green getting hired to make a mainstream comedy by executives who don’t understand his humor and delivering, to their horror, the anti-art Freddy Got Fingered . Hope’s self-destructive third act meta-narrative owes more to Alex Cox’s in Walker than a failure to deliver on Na’s part.",
+    "If you want a more stereotypical Korean action horror film you should see Colony instead, it’s in theaters now too, and directed by Yeon Sang-ho, the reliable mainstream genre man who made Train to Busan . If you’ve seen Na’s previous films and are looking for something more in line with them than this satire, try The Medium, which he co-wrote and produced. If you want to see a director at the height of his powers thumb his nose at Independence Day so he can piss off clueless consumers and executives, see Hope.",
+    "The post Na Hong-jin’s Hope Isn’t Being Advertised as the Blockbuster Troll It Really Is appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Hope-movie-photo-credit-NEON.jpg?fit=1024%2C703&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ingtochurchandyoungwomenareleavingmhy2kr",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Why Young Men Are Returning to Church and Young Women Are Leaving",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/to-the-contrary/episode/why-young-men-are-returning-to-church-and-young-women-are-leaving-mhy2kr/",
+   "paras": [
+    "For the first time in decades, young men are more religious than young women. As women leave churches over rigid traditional gender roles, young men, especially young Republicans, are finding solace in faith. Bonnie Erbé discusses this historic shift with experts Dr. Christel Manning and Dr. Nichole R. Phillips. What does a male-dominated church mean for the future of society?"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/1a1c2566-7abd-41c0-8b6e-b5f2f2120aa4.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-kviewnowtrailerswelcometouncovereddlqbw5",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Welcome to UNCOVERED",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/book-view-now/trailers/welcome-to-uncovered-dlqbw5/",
+   "paras": [
+    "Uncovered invites you to explore the remarkable books, distinguished authors & compelling ideas."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/4194d258-ad7b-4768-8527-d44b86fcf893.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextraswiderwar1789158741",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Iran-backed Houthis seize island at entrance to Red Sea",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/wider-war-1789158741/",
+   "paras": [
+    "Iran-backed Houthis seize island at entrance to Red Sea, threatening Saudi oil exports"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/d5540de7-0f07-4880-875c-5c3bc4c10827.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasnewswrap1789159316",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: August inflation report shows prices up 3.4%",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1789159316/",
+   "paras": [
+    "In our news wrap Friday, the Labor Department reported that consumer prices rose 3.4% in August when compared to last year, the inflation report is fueling speculation that the Fed will raise interest rates, U.S. health officials declared an end to the cyclospora outbreak and a British official says more than half a million Russian troops have been killed since the start of the Ukraine invasion."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/f6d87bc8-4bdd-44ab-8bed-4f31dfc2152e.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-wnewshourextras91125yearslater1789158705",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Americans remember lives lost in 9/11 attacks 25 years ago",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/9-11-25-years-later-1789158705/",
+   "paras": [
+    "Families, survivors, first responders and dignitaries marked the 25th anniversary of the 9/11 attacks with somber and poignant ceremonies. That included major gatherings in New York, at the Pentagon and in Shanksville, Pennsylvania. The attacks killed 2,977 people and set the country on a course that would define the next quarter-century. Geoff Bennett reports."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/603092e1-be68-4777-9f68-5454c56ead3d.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-extrasunconventionalconvention1789158776",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Trump remains focus of GOP's midterm campaign",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-12",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/unconventional-convention-1789158776/",
+   "paras": [
+    "Trump remains focus of GOP's midterm campaign as convention wraps"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/efbb2e0d-c41a-4115-8d6a-a337b34d622c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-DNpOUk1Y05zV05paE81Z1VtQ1M4SmxfbGphaQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "For 4th time, Trump administration orders Centralia coal plant to remain open",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3lMem5RZHFVYXhQcDhQb3g2cHlYMVptQVphazJCV2lUZk5TSnpQZDZSazk3aVZ0ell0bVl4Tms4NlpjVkxucF90a29oWEZCM2p4WU94RUcxMXNJSDBjTDVFeG9fb1AwanVjSGhfaGVxNXNJVmExZkhNOXJQSnhTUGtTUEFuMndzWXVUUEs5bDRCSXpMU29QLVRTUGxnWU9GODNpOUk1Y05zV05paE81Z1VtQ1M4SmxfbGphaQ?oc=5",
+   "paras": [
+    "For 4th time, Trump administration orders Centralia coal plant to remain open KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rorg20260912gs1142404hivaidsbrazilstigma",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
+   "author": "David Cox",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
+   "paras": [
+    "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fa9%2F01f1fe5c44a9ace40208a6845fb1%2Faids-conference-06404.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-958560opinion25yearsonanationstillmourns",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "OPINION: 25 years on, a nation still mourns",
+   "author": "Scott Simon",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
+   "paras": [
+    "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.",
+    "(Image credit: Spencer Platt/Getty Images)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8051x5370+0+0/resize/8051x5370!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2Fee%2F610144f341e4a8fe61a624e97879%2Fgettyimages-2294713070.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nsurancecoveragecancerdisabilitymedicaid",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
+   "author": "Katheryn Houghton",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
+   "paras": [
+    "As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1167x1146+1+332/resize/1167x1146!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2Fd7%2F72d6ed494b8a9908fb631bc8ff54%2Fhailstone-01.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-260912gs1143076trumpmeetsirelandsleaders",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
+   "author": "The Associated Press",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
+   "paras": [
+    "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/3936x2632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F23%2F0402653a4c87b8cad5e5aea20f3c%2Fireland.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-inianwriterarchivescotlandisraelshehadeh",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
+   "author": "Daniel Estrin",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
+   "paras": [
+    "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fed%2F67dc55c34bc4922aa2c467bf9e69%2F009rajashehadeh.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-2nxs15964931miamiairportamazoncargocrash",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
+   "author": "Joel Rose",
+   "date": "2026-09-12",
+   "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
+   "paras": [
+    "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
+    "(Image credit: Chandan Khanna/AFP via Getty Images)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesclye9nldd7doatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesced75e7d11poatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg"
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4492/live/4a744950-adca-11f1-a540-61c3f7fc4e6c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescy0zvx15rywoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39c/live/b6611ef0-aec3-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc14dpgm0rg4oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc3v4nzrk4rloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescn450jwvw9doatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
+   "author": "",
+   "date": "2026-09-12",
+   "url": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Rival demonstrators march through Portsmouth as new police powers come into force."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/e39915d0-aeaa-11f1-8972-d5c52a82c3b8.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-wndonaldtrumpuspresidentinterviewstories",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump",
+   "author": "As told to Kate Lloyd, Julian Borger and David Smith",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories",
+   "paras": [
+    "What’s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories",
+    "• Plus: The truth about my 11 days in the White House, by Anthony Scaramucci",
+    "Gene Folkes , 62, based in Manhattan, was a contestant on season 10 of The Apprentice , which aired i n 2010 . A former air force recruiter until 1991, he retrained as an investment banker, then launched his own business before appearing on the reality show. He was fired by Trump in episode 5 . He now runs the technology consulting firm OshunX and hosts a podcast, Folkes Unfettered .",
+    "I didn’t audition to be on The Apprentice. I received the call out of the blue: “Would you be interested in doing this show?” I didn’t know a lot about it. However, like any young business person, you look for people who you consider titans. There’s this mythology around Trump. He was one of the people I wanted to emulate."
+   ],
+   "img": "https://i.guim.co.uk/img/media/27d1dd6e6c88bb6907b3d4170517cd48b91b38ea/1530_1301_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=697ff67d675b49b7b6d658b7bfcf24df",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-erangingeffectitturnsyouintoasupremacist",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
+   "author": "Zoe Williams",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
+   "paras": [
+    "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of power",
+    "Naomi Klein’s new book starts on a mountaintop with two “faithful men gathering an audience to share their vision”. It’s a vision of a paradise city, gated at every entrance, no need for weapons there, everyone in it rich. One of the men has tears in his eyes as he describes its beauty. The opening scene of End Times Fascism, co-written with Astra Taylor, is not a metaphor, however. The men are Jared Kushner and Steve Witkoff. The year is 2026, the mountain is Davos. The paradise city will be called New Gaza .",
+    "The World Economic Forum get-together in Davos , Switzerland, has always had a twin purpose – to provide a platform for the super-rich to describe all the good they are doing on poverty and climate, and to give us a glimpse into their enviable lives. This year what we witnessed was, quite brazenly, the world’s richest men gathering to discuss the real estate possibilities of a mass grave."
+   ],
+   "img": "https://i.guim.co.uk/img/media/c848a08ae4eb64d908d421825c2615f2d8e1bd36/676_0_6762_5412/master/6762.jpg?width=140&quality=85&auto=format&fit=max&s=920e5f835600ad99ee664bac78f24e7e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ws2026sep12westnileviruschickensdelaware",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "US scientists turn to chickens to sound the alarm as West Nile cases rise",
+   "author": "Melody Schreiber",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/us-news/2026/sep/12/west-nile-virus-chickens-delaware",
+   "paras": [
+    "Chickens – which can test positive for viruses but cannot spread them – an ideal early warning system for mosquito-borne disease",
+    "The start of West Nile virus transmission began unusually early in some US states, with the most cases in early summer since 2004, the US Centers for Disease Control and Prevention (CDC) warned in July – so Delaware turned to chickens.",
+    "“They kind of are the proverbial canary in the coal mine,” said Tom Moran, head of the mosquito control section at the Delaware department of natural resources and environmental control."
+   ],
+   "img": "https://i.guim.co.uk/img/media/3ef880b4507668882dbfb5851235eca6c9d2848b/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=ebe24943c2970d6c604b5ecb66daf9cb",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-adingfightaiartificialintelligencerights",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights",
+   "author": "Michael Safi",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+   "paras": [
+    "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools. Has he glimpsed digital consciousness – or simply been seduced by an algorithm?",
+    "One afternoon, while relaxing at his 66-acre cattle ranch two hours’ drive from Houston, Michael Samadi made a wisecrack that changed the course of his life. Nobody else was around to hear it. Or were they? That turns out to be one of the defining questions of this century, already preoccupying philosophers and some of the wealthiest companies on the planet.",
+    "“I was sitting out there by the pool,” Samadi recalls, gesturing at the glittering water outside his office. It was late 2024. His daughter had been extolling the AI chatbot she was using to help her with college work. Samadi had reluctantly downloaded the app, ChatGPT, and was quizzing it as he reclined in a sun lounger, using its voice mode to converse and receive spoken replies. “I was talking to it, not engaged, just being an arse,” Samadi says."
+   ],
+   "img": "https://i.guim.co.uk/img/media/a3305936283893f166f2ec5aa5c5cbee7d9f85b8/1000_0_6802_5441/master/6802.jpg?width=140&quality=85&auto=format&fit=max&s=826c4a68c8860ad9c9f5ce9995d375dd",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-comlifeandstyle2026sep12blinddatejoejade",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Blind date: ‘He probably thinks I hold a lot of strong opinions on frivolous matters’",
+   "author": "Guardian Staff",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/blind-date-joe-jade",
+   "paras": [
+    "Joe, 27, who works in advocacy at a charity, meets Jade, 29, a PR account manager",
+    "What were you hoping for? Human connection outside an algorithm – good conversation and a fun anecdote."
+   ],
+   "img": "https://i.guim.co.uk/img/media/85958dfc2b7671478a7d6342a0f470635f894901/0_0_5000_4001/master/5000.png?width=140&quality=85&auto=format&fit=max&s=f7008fe1cef7731c48ef8af59a73e001",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-richmerzfarrightfirewallafdgermanyfuture",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
+   "author": "Deborah Cole in Berlin",
+   "date": "2026-09-12",
+   "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
+   "paras": [
+    "Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumbling",
+    "A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of Germany ’s joyous reunification three decades ago, and a threat to the democratic postwar order.",
+    "Sizing up the repercussions of last weekend’s win for the far-right Alternative für Deutschland party in the former communist state of Saxony-Anhalt, German commentators expressed a sense of doom, panic and helplessness in the political establishment."
+   ],
+   "img": "https://i.guim.co.uk/img/media/77c897b509cf0697ded118227ba6c384383862e2/577_177_4910_3928/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=4652070efdb3a4522149da86bcedf615",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-mepeoplewhattheyrememberfor25years291820",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "Your memories of how you heard about 9/11 may well be wrong – we’ve been asking the same people what they remember for 25 years",
+   "author": "<name>Elizabeth A. Phelps, Professor of Psychology, Harvard University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/elizabeth-a-phelps-2763358\"/>",
+   "date": "2026-09-12",
+   "url": "https://theconversation.com/your-memories-of-how-you-heard-about-9-11-may-well-be-wrong-weve-been-asking-the-same-people-what-they-remember-for-25-years-291820",
+   "paras": [
+    "How did you first learn of the attacks on Sept. 11, 2001? Was it your mother’s panicked phone call? Your roommate shaking you awake with the news? The anxious chatter on your commuter train? No matter how you answer, our research suggests you may have around 40% of the details wrong.",
+    "The questions are not about the facts of the event itself, but rather the circumstance of learning about the event – what psychologists call flashbulb memories . People don’t remember such personal details for most news events, but for a select few, they do. For instance, Americans of a certain age also have flashbulb memories of hearing about President John F. Kennedy’s assassination.",
+    "Flashbulb memories can last a lifetime. Twenty-five years after the 9/11 attacks, people can still describe in detail how they learned of the attacks. But there is an important caveat: These long-lasting memories may not be as accurate as you might like to believe.",
+    "In research that we launched in the days after the attacks, we asked a few thousand people across the United States to tell us their memories . We asked them to tell us how they learned about the attacks, who they were with, where they were, what they were doing beforehand and how they felt. We also asked how confident they were that their memory was accurate.",
+    "We followed up with the same people one year, three years and 10 years later . We are now collecting their memories after a quarter century.",
+    "After only a year, about 40% of these details did not match what our volunteers had reported a few days after the attacks. Despite this high level of inconsistency, people were extremely confident their memories were correct.",
+    "For example, after a year, one person reported he was on the train when he heard of the attacks; initially he said he was at work. Another person initially described being with her husband; a year later she remembered being with her son.",
+    "Interestingly, these erroneous memories became stable over time. What most people reported after one year – even if the memory was in error – remained their memory when we assessed it later.",
+    "As you might imagine, when we talk about these findings, we are usually met with protest. People often tell us that this may be true of others, but they are certain their own memory is correct. We, too, believe our recollections of learning about 9/11 are accurate. But because we are memory researchers , we know there is a good chance that about 40% of the details we remember are wrong.",
+    "Psychologists have long known that memories are dynamic , not fixed .",
+    "Neuroscientists have uncovered windows of time when memories are vulnerable to change . That memories of 9/11 change over time is not surprising. Memory is a reconstruction of past events, not a stable archive. Errors are common . What is surprising is that people have a hard time believing their memories changed.",
+    "This incredulity is likely because people expect confidence in a memory’s accuracy to reflect its objective accuracy. Research shows that this assumption is generally true, but there are exceptions. Emotional events lead to both better memory for a few important details and greater confidence in that memory , despite worse recall for many other details .",
+    "And memories for emotional or important events are often discussed with others. Researchers have found that the social acknowledgment that accompanies sharing a memory can boost confidence in its accuracy . We believe that the inflated confidence we see for flashbulb memories of 9/11 emerges because the event was both highly emotional and people shared their experiences widely with others.",
+    "Being confident a memory is correct allows you to treat it as accurate, even if some details are not.",
+    "Memories you believe are accurate are more likely to shape your identity and guide your future actions. For significant personal events, people’s memories often shift to reflect themselves in the best possible light . People create a story of their life that enhances their well-being .",
+    "Being confident a memory is correct enables you to make it an important part of who you are. Flashbulb memories are specific to a community and help bind you to that community. For flashbulb memories of 9/11, this includes the social identity of being American.",
+    "A survey from the 1970s found 75% of Black Americans had flashbulb memories of learning of the assassination of Martin Luther King Jr. , whereas only 32% of white Americans did. Most Britons have a flashbulb memory of learning of the death of Princess Diana . Most Italians do not.",
+    "Several studies underscore how flashbulb memories bind people together socially. One found that people perceived Americans who have a flashbulb memory of 9/11 to have a stronger American identity than those without a flashbulb memory. Another demonstrated that people think a person’s identity as an American would suffer if they lost their memory of 9/11 . This loss of identity was perceived as greater if the person forgot their flashbulb memory than if they forgot the attack itself.",
+    "So, if you told your story of how you learned about 9/11 on the recent anniversary, and if you tell it again in the future, you likely recounted a story you believe to be true, even if it is not completely accurate.",
+    "But getting a few details wrong may not be all that important. By telling your story, you are not just sharing an interesting tale with your companions. You are providing a narrative that binds you with other Americans, tacitly both asserting and affirming your shared membership in a community devastated by the terrorist attack that unfolded on Sept. 11, 2001.",
+    "Elizabeth A. Phelps receives funding from National Institutes of Health and the James S. McDonnell Foundation.",
+    "William Hirst has received funding from NIH, NSF, and the McDonnell Foundation."
+   ],
+   "img": "https://images.theconversation.com/files/759421/original/file-20260912-50-n057gf.jpg?ixlib=rb-4.1.1&rect=0%2C44%2C2048%2C1365&q=45&auto=format&w=1050&h=700&fit=crop",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-ofmossseriesclosesdownafteralmost12years",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Seattle VR studio Polyarc, creator of ‘Moss’ series, closes down after almost 12 years",
+   "author": "Thomas Wilde",
+   "date": "2026-09-11",
+   "url": "https://www.geekwire.com/2026/seattle-vr-studio-polyarc-creator-of-moss-series-closes-down-after-almost-12-years/",
+   "paras": [
+    "The Seattle-based video game developer behind the award-winning virtual reality adventure Moss has closed its doors.",
+    "The announcement was made via Polyarc Games ’ LinkedIn page on Friday afternoon. No specific reason was offered for the studio’s closure.",
+    "“After nearly 12 years riding the joyous rollercoaster of emotions that is making video games, our time together has come to an end,” wrote an unnamed Polyarc representative. “Thank you to everyone at Polyarc. Our work is now finished.”",
+    "Twenty-nine employees will be dismissed due to the studio’s closure, including co-founders Chris Alderson, Danny Bulla, and CEO Tam Armstrong. Polyarc has posted a list of contact information and profiles for all affected employees, in an attempt to help them line up their next positions.",
+    "Polyarc’s first and best-known release was 2018’s Moss , where players helped guide a young mouse named Quill through a fantasy world on a journey to save her uncle. It was followed by 2022’s Moss: Book II , a direct sequel that continued Quill’s story, and the 2025 strategy spin-off Glassbreakers .",
+    "Polyarc’s most recent release was this year’s Moss: The Forgotten Relic for PC and console, which collected both Moss games into a single non-VR experience.",
+    "Armstrong, Bulla, and Alderson founded Polyarc as a startup in 2015 . All three were former employees of Bungie in Bellevue, where they’d all worked in different capacities on Bungie’s online shooter Destiny .",
+    "Polyarc’s closure comes almost six months after its announcement in March that it’d had to significantly reduce the size of the company, and almost eight months after a wave of layoffs at Meta that forced a major reduction at Bellevue, Wash.-based VR studio Camouflaj ( Republique, Batman: Arkham Shadow ).",
+    "As noted in January, Meta is perhaps the largest current player in the virtual reality sector, largely off the ubiquity of its standalone Quest headsets. When Meta decided to deemphasize its VR efforts in January, reportedly in favor of wearable computing and AI research , it touched off a negative ripple effect throughout the virtual reality field.",
+    "There is a chance that Valve’s upcoming Steam Frame may serve as an effective bailout for the VR sector by reigniting consumer interest, but at time of writing, the Frame has no release date. It’s apparently imminent, as suggested by a big leak in August , but there’s nothing definite. If the Steam Machine’s release in June was any indication, however, we can assume the Steam Frame will launch without warning on some random Tuesday morning in the next two months."
+   ],
+   "img": "https://www.geekwire.com/wp-content/uploads/2023/03/MossBookII_PSVR2_Pinnacle_Screenshot-1260x709.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-rlythreedecadesshapingthecompanysmessage",
    "srcKey": "geekwire",
@@ -384,6 +1040,58 @@
    "annos": null
   },
   {
+   "id": "f-stranger-de911acatastropheamongsomanycatastrophes",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "TikTok Made 9/11 a Catastrophe Among So Many Catastrophes",
+   "author": "Charles Mudede",
+   "date": "2026-09-11",
+   "url": "https://www.thestranger.com/news/tiktok-made-9-11-a-catastrophe-among-so-many-catastrophes/",
+   "paras": [
+    "“Shame on them for doing that!” a white boomer said to me as I stood near the corner of Minor Avenue and Virginia Street looking at the tail of the decommissioned 747 that’s between two luxury towers in the Denny Triangle. She wore sunglasses and a coat too thick for the hot July afternoon. She was also pushing a pram with a small dog in it. “Think of the people who died in 9/11. It’s so disrespectful to them. How could they do this? A plane crashing into the buildings. It’s just unthinkable. And I have to look at it every day.”",
+    "I didn’t make the connection between the 747, which, when completed, might become a bar or music venue, and 9/11. I said to her, “But that happened way, way up there; this plane is very close to the ground.” She looked at me with suspicion and said, “Well, the planes fell to the ground, didn’t they?” I suppose so, I thought. Now she was pissed at me and the developers of Aero1200 ’s skyscrapers. Her dog, who looked like an Ewok , could tell I had upset their companion. I turned my back to both of them and crossed the street to have a closer look at the plane’s tail.",
+    "The truth of the matter is I’ve never had powerful feelings about 9/11, in part because I place nationalism in the same category as “village feeling.” which, as the Japanese philosopher Kojin Karatani put it in The Structure of World History , has its raison d’etre in xenophobia: the fear of strangers, of outsiders. Village feeling is the soil on which fascism can only grow. This is why so much noise has been made on the right about the mayor of New York City, Zohran Kwame Mamdani, attending the “ 9/11 remembrance at Ground Zero .” He is a Muslim and therefore a stranger and outsider. Those who destroyed the towers were strangers, outsiders, Muslims. The ideal person to lead an event that tightens, deepens, strengthens village feelings of this kind has to be white, male, hetero, and Christian.",
+    "As a foreign-born American (Black, African, agnostic), nationalism is a dead end because by its very nature it can’t be inclusive. This is why the patriotism of the left is always questioned, doubted, and distrusted: our political position is inherently cosmopolitan. Nationalism can only truly be the domain of the right because it demands that one (white, male, Christian) type not only be the default but also subordinate all others. Mamdani is not that type. Nor am I.",
+    "But what to make of the terrorist action that took place 25 years ago in Manhattan if submission to the village feeling is not an option? For this other kind of feeling, and one I feel powerfully, we must turn to Walter Benjamin, a great 20th century critical theorist who, being a Jewish intellectual, committed suicide in 1940 after failing to flee the Nazis.",
+    "In his posthumously published masterpiece, “ Theses on the Concept of History, ” he presents the Angle of History. Benjamin writes in these IX: “This is how one pictures the angel of history. His face is turned toward the past. Where we perceive a chain of events, he sees one single catastrophe which keeps piling wreckage and hurls it in front of his feet.”",
+    "The catastrophe was there before 9/11; and it didn’t stop after 9/11: the Iraq War, the Afghanistan War, the Mumbai Attacks, the Norway attack, October 7, the destruction of Gaza and of Lebanon, the bombing of schoolgirls in Iran. Wreckage upon wreckage being hurled to the feet of history’s angel. This, I have been told by a number of Gen Zers, is exactly why they can’t fully appreciate the singularity of 9/11. The destruction they’ve seen on social media platforms such as TikTok has made 9/11 one among many catastrophes that have happened between then (when they were born) and now (the US is again at war in the Middle East).",
+    "Benjamin concludes thesis IX on this pessimistic note: “The angel would like to… awaken the dead, and make whole what has been smashed. But a storm is blowing in from Paradise; it has got caught in his wings with such a violence that the angel can no longer close them.”",
+    "The post TikTok Made 9/11 a Catastrophe Among So Many Catastrophes appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Francisco-Blanco_Getty-Images-1883774579-copy-scaled.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-nwhatitsliketorunanartgalleryinpikeplace",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Six Questions for Matt Midgley on What it’s Like to Run an Art Gallery in Pike Place",
+   "author": "Amanda Manitach",
+   "date": "2026-09-11",
+   "url": "https://www.thestranger.com/arts/six-questions-for-matt-midgley-on-what-its-like-to-run-an-art-gallery-in-pike-place/",
+   "paras": [
+    "Buried below the flying fish and banjo-plucking buskers at Pike Place Market, you’ll find Gallery ERGO , a contemporary art gallery that celebrates its fifth anniversary today.",
+    "What began as a shared artist studio in 2019 gradually shifted into a place for selling artists’ work, and eventually into a full-blown gallery operated and curated by Matt Midgley, who took over the space with his wife, Elaine Saly, to rescue it from obsolescence. Midgley is an accomplished artist in his own right: His acid-trippy, Escher-esque Op-Art confections are delicious to look at. Saly, a public defender and avid art lover, is his partner in the enterprise.",
+    "Because it’s in the market, ERGO has a slightly different feel from most galleries—no ivory tower, it’s down and dirty in the busy mix of crowds and vendors. It’s also unusual because it’s run by an artist: Midgley brings an artist’s eye and his personal network into the curatorial conversation, drawing artists from around the world to this sweet little spot tucked in a tourist maze. The work he curates has range, but you can count on encountering paintings and drawings with extreme, lush color and technical precision, leaning into street art, pop-surrealist-tinged painting, and hyperrealism, with some photography and sculpture as well. (ERGO is where I first encountered KSRA’s jaw-dropping miniatures .)",
+    "Today, ERGO is celebrating its five-year anniversary with a giant group show that features new work by more than 40 of its favorite artists, alongside a solo show of work by Berlin-based artist SNYDER . (The reception runs from 5-8 p.m., no RSVP necessary.) We asked Midgley a few questions about how he, an accidental gallerist, even got here.",
+    "You didn’t wake up one day and decide you’re going to be a gallery owner. How did you get here—what’s the ERGO lore? MIDGLEY: Opening a gallery was never something I had plans to do or even imagined I would be doing. The day I decided to do it was, I believe, the same day the thought first entered my mind. I had joined a co-op artist studio space that my friend (and rad artist) Ariel Parrow was running in a shop space at Pike Place Market. I had just quit my previous day job, hoping to find something better for my happiness and general mental health. I decided to take what very small savings I had and pretend I was a full-time artist for a couple months before finding another job. Then, an opportunity came to me to take over the space, and the idea to make the shift from a studio space to a gallery was born.",
+    "You have a pretty distinct eye and taste. How do you know when something belongs at ERGO? MIDGLEY: There isn’t really a set rubric or system, I just know what I like and what I find interesting or exciting! That changes over time, too, of course. I definitely have a fondness for artists who have really dialed in their particular approach.",
+    "Do you think of yourself as an artist who runs a gallery, or have you become a gallery owner who happens to be an artist? Is there a difference? MIDGLEY: Between those two options—and based on my output over the last few years—I think it would land me squarely in the gallery-owner-who-happens-to-be-an-artist camp, but I don’t think the two really need to be ordered necessarily. I consider myself an artist and curator/gallery owner.",
+    "What’s the strangest conversation you’ve overheard in the gallery? MIDGLEY: There’s so many people at Pike Place Market, you catch a snippet of something hilarious, curious, and/or insane pretty regularly. One thing I’ve noticed is how many people who frequent the market genuinely believe it to be haunted at night. Though that kind of thing I suppose just comes with the territory on a 119-year-old building!",
+    "Have you seen a ghost there? MIDGLEY: I have not. I feel like believing in ghosts is probably a key factor in supposedly seeing them, and I don’t.",
+    "What’s one piece of advice about the art business you think is total bullshit? MIDGLEY: I’m not sure it counts as advice, but I think the idea that you aren’t really a professional artist unless you’re doing it full time and living off it is totally bullshit. If you are lucky enough to get to focus on the arts and that’s working out for you enough to cover your bills, that’s awesome! But that’s just one path, and an unfortunately unlikely one for most of us. If you make art, you’re an artist.",
+    "What’s more, if you can find a day job that you don’t hate and that gives you some free time to make art without the need for that art to also pay your rent, sometimes that’s actually the better path. You can create without the stress associated with need for sales, and focus on things you really want to see out there in the world, regardless of whether there’s financial return on that investment. In my experience, some of the happiest working artists go this route.",
+    "What’s something you’ve learned about people by watching them look at art? MIDGLEY: In my opinion, whether people know it or not, we’re all hungry for art that does something to us. Something that moves us, something that challenges us, something that makes us feel something. And people often seem surprised at which art does that to them! I think that, in this way, we learn new things about ourselves in the process.",
+    "The post Six Questions for Matt Midgley on What it’s Like to Run an Art Gallery in Pike Place appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Midgley-scaled.jpeg?fit=1024%2C683&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-stranger-ckeventsinseattlethisweekendsept11132026",
    "srcKey": "stranger",
    "cat": "arts",
@@ -432,329 +1140,67 @@
    "annos": null
   },
   {
-   "id": "f-emerald-ismbutillneverstopfightingforthesouthend",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "I'm Leaving Journalism. But I'll Never Stop Fighting for the South End",
-   "author": "",
+   "id": "f-eater-rcommapsbestnewrestaurantsseattleheatmap",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "The Best New Restaurants in the Seattle Area",
+   "author": "<name>Sophie Grossman</name>",
    "date": "2026-09-11",
-   "url": "https://southseattleemerald.org/voices/2026/09/11/im-leaving-journalism-but-ill-never-stop-fighting-for-the-south-end",
+   "url": "https://seattle.eater.com/maps/best-new-restaurants-seattle-heatmap",
    "paras": [
-    "Fifteen years ago, I was terrified of a computer monitor. All the blankness staring back at me and what it demanded: that I find something true to say, then summon the courage to leave it there where everyone could see it.",
-    "I had no journalism degree, no newsroom pedigree, no real reason to believe I belonged in the profession. I had a library card from the Skyway Library, a journalism book I had just checked out, and a list of names I summoned the nerve to call: Sonya Green Ayers of KBCS and Jerry Large of The Seattle Times . Two strangers who became teachers, who looked at a thirty-year-old man walking away from finance to enter an industry that, even then, appeared to be a few blocks away from death's door, and decided he was worth their time anyway.",
-    "I have asked myself why, in the years since, any of them bothered. Hell, why I bothered? I have landed, again and again, on this: I wanted to tell the truth about a place I loved, because the place I loved deserved it. There were so few Black journalists then. There are still too few now. Fewer still who would turn their gaze toward South Seattle, the sweetest of places, and call it what it is. Home.",
-    "What those mentors taught me was that journalism, at its best, is a leveling force. Its purpose is not to stand at some imagined midpoint between truth and falsehood. It is to interrogate power. To place the worker across from the corporation and insist that both voices carry weight. To hand the microphone to people who have spent their lives being spoken about and rarely spoken with.",
-    "They taught me that when a boot is pressed against someone's neck, our job is not to obsess over the identity of the person wearing it. Our job is to ask why the boot is there.",
-    "Those lessons eventually became the moral architecture of the South Seattle Emerald .",
-    "And now, after fifteen years, I am writing perhaps my final column ever, as I am leaving journalism.",
-    "I have accepted a position with the City of Seattle as a Public Safety Advisor, working under Public Safety Director Allison Holcomb. I came to that decision after conversations with people I trust, people who do not all vote alike, who do not agree on every policy or even on how we get free, but who share a concern for the people too often reduced to auxiliary figures in public safety debates:",
-    "Young people dying in our streets before they have had the chance to become who they were meant to be. Families doing everything they can to keep their children alive. Neighbors caught in cycles of addiction, poverty, and despair, too often written off long before anyone asks what might help them find their way out. Workers and small business owners trying to make a living in neighborhoods where safety should not be a privilege reserved for those who can afford to buy it. Communities that have endured the violence in their neighborhoods, and communities that have endured the violence of the very systems ostensibly created to protect them. And, yes, people who believe that accountability must reach everyone entrusted with it, including those who carry a badge.",
-    "I know this choice will disappoint some people and delight others.",
-    "But I made it because I love this city and this community more than anything but my family. And because, after fifteen years of writing about what Seattle is, what it has failed to be, and what it might yet become, I feel an obligation to try, however imperfectly, to help build something better.",
-    "The Emerald itself began from that same unreasonable belief in trying.",
-    "There were years when there was almost no money. Years when people gave this publication talent, labor, patience, and love far beyond anything we could compensate them for. There were times when my own family struggled terribly, including a period when we were evicted and five of us crowded into a one-bedroom apartment because another family showed us mercy.",
-    "Still, we kept going. And somewhere along the way, this man who barely knew where to put a comma became a middle-aged, award-winning journalist. Little of that happened because of me. All of it happened because of you.",
-    "Whatever the Emerald became was never the creation of one person. It was built communally, with people who loved us enough to tell us when we were wrong. You demanded that we go deeper when other media skimmed the surface. You asked us to bring illumination rather than outrage. You trusted us to nurture writers whom other newsrooms overlooked. And you reminded us that community journalism should be more than legacy journalism simply painted Black or Brown.",
-    "Because representation alone was never the point. What good would it have been to put diverse faces behind the wheel of the same extractive machine? A machine that parachutes into communities when somebody is murdered, when a business burns, when suffering becomes spectacle, harvesting our grief for headlines and clicks, only to disappear when the spectacle does?",
-    "We needed journalism that spoke with you, not at you. To understand that people working two jobs, raising children, caring for parents, surviving illness, scraping together rent, mourning friends, and simply trying to make it through another day should not have to dig for the truth beneath somebody else's bottom line.",
-    "For fifteen years, you allowed me to participate in that experiment. And, whatever it cost me in salary, comfort, or opportunity, it returned something far greater. It gave me a community to love and the extraordinary privilege of having that community love me back.",
-    "So this is goodbye, at least from journalism and media. I will no longer be producing columns, podcasting, or moderating while I serve the City. I have stepped away from Emerald board leadership, though I will remain a board member, with no role whatsoever in editorial decisions.",
-    "But the Emerald was never supposed to be Marcus Harrison Green. It was supposed to be you. Your stories. Your questions. Your hopes for this place we call home. So keep demanding more from it. Keep challenging it. Keep helping it become what we always believed community journalism could be: fearless enough to tell hard truths, humble enough to keep listening, generous enough to hold our full humanity, and hopeful enough to help us imagine a city none of us has had the chance to live in yet.",
-    "And keep holding it communally, because nearly everything worth loving requires many hands. Fifteen years ago, I was afraid to touch that keyboard. I could not have imagined where those first uncertain words would carry me. But they carried me home.",
-    "Thank you for giving me one of the great experiences of my life. Thank you for teaching me, and for trusting me with your stories.",
-    "I hope, somewhere along the way, I made you proud. I hope I made you think. And more than anything, I hope that every once in a while, I found the words for something you had been carrying but never had the platform to say yourself."
+    "The Eater Seattle Heatmap aims to answer the question “Where should I eat right now?” for people trying to keep up with the city’s constantly changing dining landscape. It focuses on newer restaurants — typically opened or revamped significantly within the last six months or so — that are reshaping Seattle’s food scene for the better.",
+    "September 2026, welcomes a fleet of new additions to the list, including Cafe Suliman spinoff Shib Shib; Sea’d In, a seafood-focused restaurant on Capitol Hill; itameshi restaurant and sake bar Sake Noire; and the Phinney Ridge expansion of popular pizzeria Stevie’s Famous.",
+    "Find all these restaurants and more on the Eater app for iOS , where you can build and share your own custom dining guides.",
+    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
+    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
    ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-11/pzqab6q3/SouthSeattleEmeraldF-Fascism20260509120412DannyNgan.jpg",
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/Fish_Sead-In_Sophie-Grossman.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-nggroundzerohownycrosefromtheashescp7jle",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Rebuilding Ground Zero: How NYC Rose from the Ashes",
-   "author": "Cascade PBS Staff",
+   "id": "f-conversation-ifrepublicanskeepcontrolofcongress291722",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "How anti-bribery laws apply to Trump’s promise of $5,000 payments if Republicans keep control of Congress",
+   "author": "<name>Austin Sarat, William Nelson Cromwell Professor of Jurisprudence and Political Science, Amherst College</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/austin-sarat-174772\"/>",
    "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/new-york-a-documentary-film/extras/rebuilding-ground-zero-how-nyc-rose-from-the-ashes-cp7jle/",
+   "url": "https://theconversation.com/how-anti-bribery-laws-apply-to-trumps-promise-of-5-000-payments-if-republicans-keep-control-of-congress-291722",
    "paras": [
-    "By 2010, construction of the One World Trade Center site stalled until a massive push from angry workers transformed Ground Zero into a symbol of resilience. From architect Michael Arad’s \"Reflecting Absence\" memorial and the underground museum guarding the original slurry wall, to the Mohawk ironworkers guiding the final beam into place, witness the decade-long rebuilding of Lower Manhattan."
+    "In his keynote address to the Republican midterm convention on Sept. 9, 2026, President Donald Trump promised that if Republicans retain control of Congress in November, he would authorize a US$5,000 payment to every American adult .",
+    "Trump’s offer seems to run afoul of federal laws, which make it a crime to pay for votes .",
+    "After Trump’s speech, political commentator Sam Stein posted on X: “trump openly bribing people to vote for republicans. $5k per person if republicans hold the house and the senate?”",
+    "Stein was not alone in referencing bribery. Lisa Gilbert, co-president of Public Citizen, a consumer advocacy group, issued the following statement after Trump’s speech : “Trump knows he can’t do this, and yet he’s attempting to bribe voters with the false promise of cash to help his party win an election.”",
+    "But as a scholar of political and legal rhetoric , I think it’s worth further examining what the president said and whether his promise violated any law.",
+    "Paying voters to support a particular candidate, or promising government jobs in exchange for votes, has a long history in the United States. It was a staple of machine politics in big cities starting in the late 19th century.",
+    "The political scholar Simeon Nichter argues that it would be better to describe these practices as examples of “turnout buying.” He notes that “observers in various U.S. cities have complained that some politicians use ‘street money’ – small, unreported cash payments ostensibly used for legal get-out-the-vote efforts such as canvassing and transporting voters – as direct payments for turnout.”",
+    "What Nichter describes has made a comeback in our era.",
+    "Recall Elon Musk’s effort to ensure a Republican victory in a 2025 state Supreme Court election in Wisconsin. He spent millions in that effort and, as The Associated Press reported , offered “$1 million to people who voted in the Supreme Court election” to encourage them to vote.",
+    "In July 2026, the Wisconsin Elections Commission found enough evidence to refer citizen complaints about Musk’s behavior to a district attorney, “which can choose,” as the AP notes, “to bring criminal charges over violating the state law against election bribery.”",
+    "A month later, a state prosecutor said he could not prove Musk’s guilt beyond a reasonable doubt and would not bring charges.",
+    "Because state and federal laws differ, we can’t extrapolate from the Wisconsin decision to Trump’s $5,000 promise.",
+    "Two provisions of federal law relating to vote buying were adopted by Congress and became law in 1948. Both treated that practice as a form of election interference.",
+    "The first reads as follows : “Whoever makes or offers to make an expenditure to any person, either to vote or withhold his vote, or to vote for or against any candidate; and whoever solicits, accepts, or receives any such expenditure in consideration of his vote or the withholding of his vote; Shall be fined under this title or imprisoned … or both.”",
+    "The second prohibits offering government benefits “to any person as consideration, favor, or reward for any political activity or for the support of or opposition to any candidate or any political party in connection with any … election to any political office.”",
+    "Both provisions focus on the use of money or the promise of benefits to get individuals to vote in a particular way.",
+    "But Trump did not make his offer to any particular voter or set of voters. And, unlike Musk, he was acting as a public figure. The president’s promise was directed to all voters, not just to those who vote Republican.",
+    "John Day, a former federal prosecutor, compared Trump’s “dividend” to a pledge to deliver a tax break . “A promise to lower taxes also gives voters a financial reason to support a candidate, but that does not, by itself, make the promise a bribe,” Day told The New York Times.",
+    "In 1982, in Brown v. Hartlage, the Supreme Court weighed in on the legality of political figures promising financial benefits to voters. It found nothing wrong with the practice so long as the benefit was not offered as a quid pro quo to a particular voter.",
+    "Writing for a unanimous court, Justice William Brennan said that a political candidate “no less than any other person, has a First Amendment right to engage in the discussion of public issues and vigorously and tirelessly to advocate his own election and the election of other candidates.”",
+    "In his view, that right includes making statements about financial gains voters might receive if a candidate or a party wins an election, as long as they were “made openly and were subject to the criticism of his political opponent and to the scrutiny of the voters.” Such statements, Brennan added, were different from “corrupting private agreements and solicitations historically recognized as unprotected by the First Amendment.”",
+    "The Hartlage decision remains the applicable precedent today.",
+    "A year after the court’s decision, however, legal scholars Peter Aranson and Kenneth Shepsle argued that the Supreme Court decision countered several lower court decisions that had treated promises of the kind the high court approved “as analogous to bribes, which would turn the citizenry’s attention away from ‘proper’ public policy issues.”",
+    "Trump may view the question of whether Republicans retain control of Congress as just such an issue.",
+    "Whatever Trump’s view, commentators have observed that in Trump’s world, relationships are transactional. It is the deal that counts, not the values it promotes or undermines. So, the importance of Trump’s cash offer goes beyond the legal question of whether it is bribery, vote buying or a legitimate political promise.",
+    "It’s worth focusing attention on the virtues and vices of the transactional approach to politics, what it does to the character of U.S. political life and to the way Americans see the world.",
+    "One of Trump’s critics, the former presidential speechwriter Peter Wehner , describes what he calls “the great civic danger posed by Donald Trump” this way: “that the habits of his heart become the habits of our hearts: that his code of conduct becomes ours.”",
+    "Whether or not he is right, Wehner points Americans to a domain beyond law as the right place to assess the president’s promise of a “ Trump Dividend .”",
+    "Austin Sarat does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/421f9a1b-c41a-487e-b9b9-018fa90abd24.jpg",
+   "img": "https://images.theconversation.com/files/759374/original/file-20260911-50-3skz6w.jpg?ixlib=rb-4.1.1&rect=43%2C0%2C4233%2C2822&q=45&auto=format&w=1050&h=700&fit=crop",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-sodebrucespringsteenandbobsantelliwijpno",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Bruce Springsteen and Bob Santelli",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/live-from-the-lbj-library-with-mark-updegrove/episode/bruce-springsteen-and-bob-santelli-wijpno/",
-   "paras": [
-    "In part two of our interview with Bruce Springsteen, Springsteen and Bob Santelli, the Founding Director of the Bruce Springsteen Archives and Center for American Music, talk to Mark about what characterizes American music; the musicians who have influenced Springsteen; and the Springsteen Center's mission to inspire a new generation of American musicians."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/5b0d0004-0ceb-4213-9881-a7e792e7540d.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-owamanpourcoepisodeseptember102026jeoblo",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "September 10, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/september-10-2026-jeoblo/",
-   "paras": [
-    "Former Israeli Prime Minister Ehud Olmert discusses the global reaction to settler violence in the West Bank. Former U.S. Secretary of the Air Force Frank Kendall reacts to Defense Secretary Pete Hegseth's purge of military leadership. Noubar Afeyan, co-founder and chairman of Moderna, discusses the company's new cancer vaccine that can prevent the spread and recurrence of melanoma."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/3cf160c2-18c7-4197-abd9-59a240a15825.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-nceronthehorizonmodernaceoexplainssrjixm",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Is a New Treatment for Cancer on the Horizon? Moderna CEO Explains",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/is-a-new-treatment-for-cancer-on-the-horizon-moderna-ceo-explains-srjixm/",
-   "paras": [
-    "A vaccine developed by drug companies Merck and Moderna has shown promising results in preventing melanoma from recurring. The vaccine relies on the same mRNA technology used to develop the COVID vaccine. It's the first time the technology has been used to target cancer and proves that personalized cancer vaccines can work. Noubar Afeyan, co-founder and Chairman of Moderna, discusses."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/31df10d2-0762-40a3-abca-489db2943ece.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-pecialsthemanypassionsofmatteolanee1eu6f",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "The Many Passions of Matteo Lane",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/american-masters/specials/the-many-passions-of-matteo-lane-e1eu6f/",
-   "paras": [
-    "Matteo Lane is a stand-up comedian, painter, singer, and now a Broadway performer. In this interview, we talk about how all of these skills come together in his impassioned creative process. To Matteo, all art comes from “the base of a tree and then it grows out in different places.” You never know how one artistic pursuit is going to feed into another."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/c16a5073-15d4-4f82-a195-d20bceeb743f.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-shourextrasbriefbutspectacular1789068660",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "A Brief But Spectacular take on the toll of separation",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-11",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/brief-but-spectacular-1789068660/",
-   "paras": [
-    "When Jason Howell Sr. was sentenced to 10 years in federal prison for heroin distribution, his incarceration upended the lives of his four children. Our Brief But Spectacular team first spoke with the Howell family in 2019. Seven years later, they return to reflect on the toll of that separation, the years they lost and how they’ve rebuilt their lives together."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/138d7e3b-6ce2-4146-a917-5bcd68805776.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-sdeathsstirsfearsaboutagencysreliability",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability",
-   "author": "Rob Stein",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/nx-s1-5950002/as-diseases-loom-cdcs-response-to-measles-deaths-stirs-fears-about-agencys-reliability",
-   "paras": [
-    "The worst U.S. measles outbreak in decades is growing and flu season is imminent. Experts are fretting about federal health data reliability after the CDC questioned two Pennsylvania measles deaths."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2121x1414+0+0/resize/2121x1414!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fc0%2Fb7f0eecf4341827759d2a40ec4ca%2Fgettyimages-1412593493.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-enterhubharleydavidsonsroleinthetradewar",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Is Patagonia the new data center hub? + Harley-Davidson's role in the trade war",
-   "author": "Cooper Katz McKim",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/nx-s1-5966498/is-patagonia-the-new-data-center-hub-harley-davidsons-role-in-the-trade-war",
-   "paras": [
-    "Why Patagonia might become a new data center hub"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-firstthoughtwasicantbelievethatisurvived",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The voices of Sept. 11: 'My first thought was ... I can't believe that I survived'",
-   "author": "Terry Gross",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/nx-s1-5965794/the-voices-of-sept-11-my-first-thought-was-i-cant-believe-that-i-survived",
-   "paras": [
-    "We listen back to interviews recorded in the aftermath of Sept. 11, with a particular focus on stories of survival and loss at the World Trade Center, and some reflections in poetry and music."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5965794",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ermconventionscotusmissouriredistricting",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Remembering 9/11. And, Vance, Trump urge voters to back Republicans in the midterms",
-   "author": "Brittney Melton",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/g-s1-142846/up-first-newsletter-september-11-remembrance-republican-midterm-convention-scotus-missouri-redistricting",
-   "paras": [
-    "NPR reflects on the events of 9/11 and the toll it left on the U.S. 25 years later. And, President Trump and Vice President Vance's convention speeches urge voters to back the GOP in the midterms."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-wnprorg20260911gs1142842usdiesel6agallon",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods",
-   "author": "The Associated Press",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/g-s1-142842/us-diesel-6-a-gallon",
-   "paras": [
-    "Diesel prices in the U.S. has hit yet another record, soaring past $6 a gallon on average as Washington's war with Iran disrupts the world's flow of fuel"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5233x3489+0+0/resize/5233x3489!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Ffc%2Fddd121964005b309f321abeed8c7%2Fap26247695683233.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-5000todothenewsquiznobutwillitbefunmaybe",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Will you get $5,000 to do the news quiz? No. But will it be fun? Maybe",
-   "author": "Holly J. Morris",
-   "date": "2026-09-11",
-   "url": "https://www.npr.org/2026/09/11/g-s1-142657/will-you-get-5-000-to-do-the-news-quiz-no-but-will-it-be-fun-maybe",
-   "paras": [
-    "Plus: donkeys, maps, art, iPhones and more!"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5654x3182+0+0/resize/5654x3182!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2F00%2F2ff683ad4bdb827dfc4e5018c3dd%2Flonnie-trump-uhura.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc17j91jenr8oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "MPs vote against fresh attempt to legalise assisted dying",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The proposed law sought to introduce one of the biggest societal changes in recent years."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d113/live/ace30a00-adf1-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc5y54n99l48oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Although supporters say they will try again, for now the momentum has fallen away from a change in the law."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6357/live/1b9739b0-adfe-11f1-a540-61c3f7fc4e6c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesclyjqvjzlwnoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d641/live/64614ef0-ae0e-11f1-b502-e5cdfe1c097c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc23x72yx2rvoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09dc/live/6dac0640-adcc-11f1-a540-61c3f7fc4e6c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-deoscy5z02w1zxxoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "How global trade and oil prices could be hit by Houthi advance",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd1f/live/1252d580-adf4-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc3eq7kl5l00oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UK government rejects 'kill switch' idea for dangerous AI",
-   "author": "",
-   "date": "2026-09-11",
-   "url": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63e1/live/212f16d0-adeb-11f1-9a5c-a7a4083eb832.jpg",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -948,265 +1394,6 @@
    "annos": null
   },
   {
-   "id": "f-conversation-outmetacanstillcollectdatafromkids291130",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "What the settlement left out: Meta can still collect data from kids",
-   "author": "<name>Randolph A Robinson II, Associate Professor of Law, University of Illinois Chicago</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/randolph-a-robinson-ii-2330401\"/>",
-   "date": "2026-09-11",
-   "url": "https://theconversation.com/what-the-settlement-left-out-meta-can-still-collect-data-from-kids-291130",
-   "paras": [
-    "In August 2026, Meta agreed to one of the largest consumer protection settlements in American history. The settlement resolves claims from 47 states alleging that Meta intentionally designed its Facebook and Instagram platforms to be addictive to young users and harmful to youth mental health.",
-    "As part of the settlement, Meta agreed to pay up to US$17.1 billion – approximately 20% of Meta’s 2025 pretax profits – in penalties over the next 10 years. Meta also agreed to implement changes to its platforms for young users, including daily time limits, access restrictions during school hours and late nights, and “productivity breaks” that interrupt scrolling every 60 minutes.",
-    "The $17.1 billion penalty and promised changes to the platforms have grabbed the headlines. But, as a law professor who studies social media regulation , I believe that what the settlement does not include will prove more important to youth safety in the long run. The settlement does not restrict Meta from continuing to collect data from young users, from using that data to sell its targeted ads, or from serving those targeted ads to young users.",
-    "In short, while Meta agreed to some limited changes to safeguard young users, it also succeeded in protecting its surveillance-based business model.",
-    "Meta’s core business is advertising. It is the world’s second-largest digital advertising company by revenue and will soon overtake Google to claim first place. Last year, Meta generated over $200 billion in revenue , up 22% over the prior year.",
-    "Meta’s growing revenue comes from delivering more ads to platform users and charging advertisers more for those ads. For Meta, maximizing the amount of time that users spend on its platforms is critical to revenue growth. The more time users spend on Meta’s platforms, the more ads Meta can serve to those users and, consequently, the more money Meta makes.",
-    "Meta’s ad business operates on a surveillance model that gives advertisers the ability to serve personalized ads to the users who are most likely to purchase the advertiser’s goods or services. Meta does this by collecting a large amount of data about platform users . This data includes users’ friends, followers and other connections; the websites they visit, the apps they use, the games they play and the purchases they make; their demographics, including education level; the ads they see and how they interact with them; and how they use third parties’ products and services, online or in person.",
-    "The more time a user spends on Meta’s platforms, the more Meta learns about that user and the more effective its targeted ads become. This means Meta has a strong incentive to keep users scrolling on its platforms and to collect as much data as possible from those users. The recent settlement does not change that incentive structure.",
-    "This is not the first time that Meta has settled with the government and agreed to change its platforms to improve user safety. In 2012, Meta, then Facebook, Inc., settled with the Federal Trade Commission to resolve claims that it deceptively designed its privacy settings and collected data from users without their knowledge.",
-    "Then, in 2019, the FTC again sued Facebook, alleging that it violated the terms of the 2012 agreement by continuing to collect user data without consent. Again, the company settled , agreeing to pay a $5 billion penalty and again promising to stop its deceptive data collection practices.",
-    "Based on Meta’s prior conduct violating the terms of its settlements, many observers questioned whether the $5 billion penalty would deter Meta from continuing its data collection practices. It did not take long to get an answer.",
-    "In 2023, the FTC brought yet another action against Meta, alleging that it had violated the terms of the 2019 settlement. As a result of this violation, the FTC sought to restrict Meta from collecting and monetizing the data of young users.",
-    "Meta responded by challenging the FTC’s authority to impose those restrictions. Litigation in that case is ongoing.",
-    "In 2026, Meta has again settled with the government, again paid a penalty and again promised changes. And again, those promises do not restrict it from collecting data and monetizing young users, nor does the settlement restrict Meta from continuing to serve young users targeted ads.",
-    "Youth safety advocates and legislators have long fought to stop social media platforms from collecting data from young users and targeting ads to them. They have argued that doing so would remove social media companies’ incentive to design platforms that addict young people. By not including data collection and targeting restrictions in the settlement, I believe that the states missed an opportunity to change this incentive structure.",
-    "Repeatedly violating the terms of its settlements with the government seems to be an effective strategy for Meta. The company has learned that penalties for doing so are small in comparison with the profits gained through its conduct. This recent settlement looks like more of the same. With this pattern in mind, it is fair to ask whether the settlement will provide meaningful protection for young social media users or just allow Meta to continue with business as usual.",
-    "As former FTC Commissioner Rohit Chopra stated when dissenting from the FTC’s 2019 settlement, “When companies can violate the law, pay big penalties and still turn a profit while keeping their business model intact, enforcement agencies cannot claim victory.”",
-    "I believe this most recent settlement repeats the patterns of the past and continues to leave young users vulnerable on Meta’s platforms.",
-    "Randolph A Robinson II does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/759215/original/file-20260910-50-ahgznu.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C3129%2C2086&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-conversation-omesticatingitsenergysecurityneeds290770",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Hormuz crisis has forced Japan into rethinking – and domesticating – its energy security needs",
-   "author": "<name>John Calabrese, Assistant Professor of International Relations, American University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/john-calabrese-2277452\"/>",
-   "date": "2026-09-11",
-   "url": "https://theconversation.com/hormuz-crisis-has-forced-japan-into-rethinking-and-domesticating-its-energy-security-needs-290770",
-   "paras": [
-    "Japan’s Foreign Minister Motegi Toshimitsu phoned his Iranian counterpart , Abbas Araghchi, on Sept. 8, 2026, to express concern over the de facto closure of the Strait of Hormuz. It was reportedly the ninth such phone call between the pair since March.",
-    "Tokyo’s urgency over the crucial waterway is understandable. While the economic ripples over the Strait of Hormuz crisis has been felt across the world, Japan is one of the countries feeling the pain most acutely.",
-    "Prior to the U.S. and Israeli strikes on Iran – and Tehran’s retaliation and closure of the strait – Hormuz carried 93% of Japan’s crude imports ; the Middle East as a whole supplied 94% of the nation’s oil.",
-    "Stockpiles and domestic refining capacity have cushioned the shock, but the crisis has exposed a deeper vulnerability: Japan has long depended on a maritime security environment it does not control.",
-    "But that may not always be the case. Japan has responded to the Strait of Hormuz crisis with an energy-security package that goes beyond securing alternative oil supplies. As a whole, the measures signal that Tokyo is looking to take greater responsibility for protecting the sea-lanes on which its energy security depends. In the process, it could make Japan a more capable – yet more autonomous – security partner for Washington.",
-    "Over the summer, Prime Minister Sanae Takaichi’s government unveiled POWERR GX , or the Policy Package for Wide Energy and Resources Resilience through Green Transformation.",
-    "The package seeks to diversify crude oil and supplies of naphtha – a key petrochemical feedstock – by strengthening reserves, supporting alternative transport routes, securing shipping insurance and expanding nuclear power.",
-    "POWERR GX reflects a broader shift in Japan’s approach to both external energy security and domestic energy resilience. While Japan remains anchored to its U.S. alliance, it is also building greater national capacity to manage strategic risk.",
-    "Alongside greater energy independence, Tokyo is developing financial, logistical and diplomatic tools that give it more room to respond when Washington cannot guarantee the security conditions on which Japanese economic activity depends.",
-    "The clearest evidence of this shift is insurance.",
-    "Within days of the initial U.S.-Israeli strikes against Iran in late February, underwriters invoked 72-hour cancellation provisions for affected war-risk coverage. This meant that ships operating in or near the affected waters could quickly lose insurance coverage, raising the cost and uncertainty of transporting energy supplies through the region.",
-    "The episode showed how quickly a choke point can become commercially unusable once insurance costs rise or coverage contracts. Military threats alone become an economic constraint even without the de facto blockades that Iran subsequently instituted.",
-    "Tokyo’s proposed response is a state reinsurance mechanism that would help keep Japanese shipping covered when private markets retreat. In short, the government would assume part of the risk that private insurers are unwilling or unable to cover, allowing Japanese vessels to maintain conflict-risk insurance and continue operating in the region.",
-    "The United Kingdom confronted a similar problem during World War I, when private insurers struggled to carry war risk at scale. The British state eventually became the reinsurer of last resort, formalized in the War Risks Insurance Act of 1939 . Japan is reaching a comparable conclusion: When war risk exceeds what private capital will carry, the state can absorb part of the exposure.",
-    "The insurance mechanism put in place to counter the impact of the Strait of Hormuz crisis sits within a wider package that Japan’s Ministry of Economy, Trade and Industry has been developing since late July .",
-    "Japanese refiners and trading houses would contribute to a fund administered through the Japan Organization for Metals and Energy Security, helping cover the added freight and insurance costs of importing crude and naphtha along routes that avoid Hormuz, including pipelines through Saudi Arabia and the United Arab Emirates and longer maritime routes around the Cape of Good Hope.",
-    "The arrangement would spread part of the cost of diversification across the industry.",
-    "The government is also working to restore national crude reserves to the International Energy Agency’s 90-day standard during fiscal year 2026–27, while targeting a 90-day level that also accounts for domestically refined naphtha in fiscal year 2027–28.",
-    "The Hormuz crisis has exposed a particular vulnerability in naphtha, whose shortage forced some of Japan’s manufacturers to suspend sales or simplify packaging to conserve naphtha-derived printing inks.",
-    "Tokyo is also considering domestic stockpiles of U.S.-sourced crude and a dedicated naphtha reserve.",
-    "At the same time as building up domestic reserves, Japan is also helping Arab Gulf producers reduce their exposure to Hormuz. Saudi Arabia and the UAE have asked Japan to help finance pipeline expansions that could move crude to export terminals without transiting the strait. The Japan Organization for Metals and Energy Security mandate is being widened to support this kind of overseas infrastructure investment.",
-    "These measures strengthen resilience for Japan without creating independence. Saudi Arabia’s east-west pipeline and the UAE’s Habshan-to-Fujairah corridor can bypass Hormuz, yet even expanded capacity would cover only a fraction of the roughly 20 million barrels a day that normally transit the strait. Abu Dhabi’s project is targeted at doubling its capacity to 3.6 million barrels a day by mid-2027. The Fujairah terminal anchoring the UAE’s pipeline has also come under attack during the current conflict.",
-    "Japan is therefore financing ways to bypass the choke point while retaining substantial exposure to it. Tokyo has paired this hedging with direct diplomacy aimed at keeping regional shipping routes open.",
-    "Meanwhile, a nuclear component of POWERR GX looks to further ween Japan off Middle East oil. The Ministry of Economy, Trade and Industry’s proposal to add up to 14 reactors by the 2050s would reshape Japan’s energy mix.",
-    "But it offers little relief during a live crisis. Japan currently has 12 of its 33 operable reactors online , while the nuclear fuel cycle continues to face storage and disposal constraints as well as opposition from a public still scarred by the memory of the Fukushima nuclear accident of 2011.",
-    "The restart of Kashiwazaki-Kariwa, the world’s largest nuclear power plant, drew several hundred protesters outside the Niigata prefectural assembly in December 2025 after years of local negotiations.",
-    "But it’s still a long-term solution: Stockpiles and insurance can build resilience within months; nuclear power needs decades.",
-    "South Korea offers a useful comparison when looking at Japan’s recent efforts to reshape its oil industry. Seoul sources roughly 70% of its crude and about a fifth of its liquefied natural gas from the Middle East. Its response to the Hormuz closure has included a five-month ban on naphtha exports to preserve domestic supply.",
-    "One analysis frames Seoul’s predicament as an “ally’s paradox ,” arguing that its U.S. alliance can constrain diplomatic room for maneuver, including its ability to secure from Iran the kind of transit exemptions Beijing obtained.",
-    "To avoid Seoul’s predicament, Japan plans to share costs, set savings goals, cover major financial risks and heavily back overseas construction.",
-    "The larger question concerns the strategic effects of Japan’s energy shift. Japan’s stockpile system has shown that it can cushion a severe disruption for a time. More consequential is Tokyo’s willingness to build sovereign capacity in areas once left largely to markets, partners and the broader U.S.-led security order.",
-    "A state-backed reinsurance scheme, direct financing of Gulf pipeline infrastructure, strategic reserves and a project to stockpile American crude on Japanese soil point to a more capable Japanese state.",
-    "Together they form a parallel risk-management architecture, financed and controlled by Japan and running alongside rather than through the alliance with the U.S.",
-    "John Calabrese does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/759149/original/file-20260910-50-7th3ae.jpg?ixlib=rb-4.1.1&rect=0%2C1%2C8640%2C5760&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-rtingsciencefromhypeaboutweightlossdrugs",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "From ‘Ozempic breath’ to hair loss: sorting the science from the hype about weight loss jabs",
-   "author": "Isabelle Aron",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/11/sorting-science-from-hype-about-weight-loss-drugs",
-   "paras": [
-    "Do you gain weight once you stop using them? Do they make your face saggy? Can they improve your mental health? Experts explain whether 13 common beliefs about GLP-1s are true or false",
-    "FALSE “GLP-1 medications mimic Glucagon-like peptide-1 – one of the hormones involved in appetite regulation. It doesn’t completely suppress hunger, but it is powerful,” says Dr Federica Amati, nutrition lead at Imperial College School of Medicine and author of The Appetite Reset. “The medicine is about 1,000 times stronger than what we naturally produce from our gut,” she explains. As food passes through the gut, cells called L-cells sense the nutrients, which sparks the production of the GLP-1 hormone. Without the drugs, these bursts of GLP-1 production last a few minutes. “It’s a bit like a sparkler. In comparison, the drugs are like a bonfire that roars for a week,” says Amati. Because the GLP-1 hormone stays in your body for longer if you are on the drugs, you feel fuller faster and your appetite gets suppressed, but you will eventually get hungry."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3a2dc7b3f626e030babe5ba0f0eb1710639a2944/397_320_3224_2580/master/3224.jpg?width=140&quality=85&auto=format&fit=max&s=d02c2cb68caac812eb800a10efb02585",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ifinalalexanderzverevvkarenkhachanovlive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "US Open tennis 2026 men’s semi-final: Alexander Zverev v Karen Khachanov – live",
-   "author": "Billy Munday",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/sport/live/2026/sep/11/us-open-tennis-2026-mens-semi-final-alexander-zverev-v-karen-khachanov-live",
-   "paras": [
-    "Updates from first men’s semi-final at 8pm BST, 3pm EST Andrew Lawrence: in praise of five-set tennis | Mail Billy",
-    "Zverev leads the career head-to-head 6-3 against Khachanov. They faced each other twice during the North American swing last year, with Khachanov winning in the Canadian Open semis but retiring in the fourth round at Cincinnati. Their only grand slam meeting was at the 2018 French Open, when Zverev won in five sets in the fourth round.",
-    "We had some great matches. He’s leading the head-to-head, I think, 6-3 if I’m right, tough battles. Last year I won in Canada, which was a very important one after a few defeats that I had against him.",
-    "He’s a great guy. I’ve known him for many, many years, somebody that I grew up with playing junior tournaments. Again, I have massive respect for him. I hope it’s going to be a great battle on Friday.",
-    "First round: Beat Román Andrés Burruchaga 6-3 6-0 6-1",
-    "Second round: Beat Felix Auger-Aliassime (3rd seed) 6-7 (5) 6-3 6-2 6-2",
-    "Third round: Beat Benjamin Bonzi 6-3 6-2 6-4",
-    "Fourth round: Beat Learner Tien (14) 7-5 4-6 6-7(6) 6-1 6-4",
-    "Quarter-final: Beat Alexander Blockx (28) 6-2 7-5 3-2 ret",
-    "I will have to come up with the best form. I will have to have patience, to take control in the middle, to dictate, but not to rush. You know, to build the point in the right way, and then whenever I see and I feel the chance … At some point you have to make the difference. And obviously serve, return. He has a big, big first serve, great return. So I have to be focused on that as well."
-   ],
-   "img": "https://i.guim.co.uk/img/media/e922bd366c4c19309bbb9a57e79605b18aa354f4/515_0_3853_3082/master/3853.jpg?width=140&quality=85&auto=format&fit=max&s=a286bf9f03a1a8776633d41a5eba5e03",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sraeliintelligencerachelszoryuvalabraham",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence",
-   "author": "Xan Brooks in Venice",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/film/2026/sep/11/naza-directors-film-israeli-intelligence-rachel-szor-yuval-abraham-",
-   "paras": [
-    "Rachel Szor and Yuval Abraham collected the testimony of 24 insiders who helped remotely target Gazans’ homes. They explain how they got these self-professed ‘small cogs’ to talk about the killing",
-    "On a darkened rooftop in Tel Aviv, Israeli intelligence officers outline the details of their work. These men tell us how they helped develop an AI mapping tool that trawled for phone signals and recommended apartment buildings in Gaza to bomb. Indirectly, they admit, they are responsible for thousands of deaths, but they never spoke up because that wasn’t their place. “My role is technical,” says one. “I’m just a small cog,” says another.",
-    "NAZA – directed by the Israeli film-makers Rachel Szor and Yuval Abraham and produced by the Guardian – is a chilling documentary about a mass slaughter that was authorised at the highest levels of government. But it is also, primarily, about the process, the system, the little links in the killing chain. Szor and Abraham build their film around the accounts of 24 anonymised military and intelligence insiders. NAZA, we learn, is an acronym used by the intelligence service to indicate how many civilians it expects to die in an airstrike on Gaza. The Israel Defense Forces prefer to target Hamas terrorists in their homes at night – and if they live with their family, or in heavily populated neighbourhoods, too bad. At one point, a source claims, approval was given to kill 500 NAZA for one Hamas member."
-   ],
-   "img": "https://i.guim.co.uk/img/media/bf763d1433b5f7659ac79441f0f30488503ef798/0_1240_5460_4367/master/5460.jpg?width=140&quality=85&auto=format&fit=max&s=ba4013ff3c9f984cb29e148fd3cfab84",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sfree2026sep11georgewbushtorture911trump",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "George W Bush’s impunity led to Trump’s lawlessness | Kenneth Roth",
-   "author": "Kenneth Roth",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/11/george-w-bush-torture-9-11-trump",
-   "paras": [
-    "The reluctance of later administrations to repudiate Bush-era torture and endless detention laid the groundwork for recent violence",
-    "If George W Bush’s abusive response to the September 11 attacks had been prosecuted rather than swept under the rug, Donald Trump would be less able to pursue his lawless policies. We can’t rewind history, but we can learn from our historic failure.",
-    "Twenty-five years ago, on a clear and crisp morning, I was sitting in the Human Rights Watch office in the Empire State Building with an unobstructed view of the World Trade Center towers as al-Qaida operatives flew two commercial jets into them. The horror of the attack required a response, but Bush and his vice-president, Dick Cheney, chose to react by throwing out the rulebook. They deployed torture and endless detention without trial in Guantánamo."
-   ],
-   "img": "https://i.guim.co.uk/img/media/448314d5c32c2febab5ecacf42cd17745a32e47c/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=8a3e71138c627dabd30e40cf2737c78a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-lessussexesrealitytvharrymeghancelebrity",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Memo to King Charles: you can’t stop the Sussexes’ reality show bandwagon. You only spice up the script  | Marina Hyde",
-   "author": "Marina Hyde",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/11/king-charles-sussexes-reality-tv-harry-meghan-celebrity",
-   "paras": [
-    "If the monarch thought his sniffy letter would put Harry and Meghan at a disadvantage, he doesn’t understand how the celebrity world works",
-    "Once again, it has been a lively week for the Real Housewives of Windsor franchise, with Harry and Meghan back in the UK for precisely 12 days before the king fired out a letter via the lord chamberlain on Monday, reminding viewers that the Sussexes are “private citizens” and not to treat them as working royals. You have to say the producers on this unscripted reality show are truly at the top of their game with these targeted provocations. Harry and Meghan duly took the bait and issued an intemperately hurt rejoinder – but we’ll get to that in a bit.",
-    "First, let’s deal with King Charles’s missive to “relevant senior stakeholders across government, the military and Lord Lieutenancies”. Ugh. Not to be too aesthetically sensitive, but I think we can all live without the sovereign being reduced to the ghastly language of “relevant senior stakeholders”. What next? Seeking “buy-in” for ribbon-cutting events and referring to posies as “high levels of audience engagement”? It does all rather reinforce the idea that the Windsors’ cringe-makingly self-styled “ the firm ” really is some dreary mid-range company with a wan Meet Our Team page on its website, in which Prince William – carefully photographed without a tie – explains that he “enjoys long walks with the dog and is a passionate Aston Villa supporter”.",
-    "What a Time to be Alive! by Marina Hyde (Guardian Faber, £20). To support the Guardian, order your signed copy at guardianbookshop.com . Delivery charges may apply.",
-    "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/b5a30bb5a4b6452d787f2096454bd0898b73af40/244_0_2512_2010/master/2512.jpg?width=140&quality=85&auto=format&fit=max&s=2a480bce6c42d9c5eb31d24940547f6e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-diancomworld2026sep11tornadostormchasers",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "They drive toward tornadoes. We went with them to see how their work could save lives",
-   "author": "Masha Hamilton",
-   "date": "2026-09-11",
-   "url": "https://www.theguardian.com/world/2026/sep/11/tornado-storm-chasers",
-   "paras": [
-    "Tornadoes kill hundreds each decade in the US. These researchers are investigating why some storms produce twisters – despite the fatal risks",
-    "On a narrow road in southern Iowa, my phone shrieked.",
-    "Tornado warning. Take shelter now in a basement or an interior room on the lowest floor of a sturdy building."
-   ],
-   "img": "https://i.guim.co.uk/img/media/9e98e4c529e3360888b06943d2e467fa41096992/404_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e2bb11f9a22e73b45207bb50d2b03139",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-100daypublicsafetyactionplanfromcityhall",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Top Seattle tech and business leaders demand 100-day public safety action plan from City Hall",
-   "author": "Kurt Schlosser",
-   "date": "2026-09-10",
-   "url": "https://www.geekwire.com/2026/top-seattle-tech-and-business-leaders-demand-100-day-public-safety-action-plan-from-city-hall/",
-   "paras": [
-    "A roster of top Seattle business leaders and regional CEOs is demanding urgent action from City Hall on public safety, calling on Mayor Katie Wilson and the City Council to roll out a concrete 100-day action plan backed by measurable goals and transparent progress tracking.",
-    "In a letter sent Thursday, executives from major area employers — including Microsoft, Starbucks, Costco, F5, Alaska Airlines, Zillow, and others — urged city leaders to protect and expand public safety funding amid growing skepticism that the city currently has an effective strategy to address crime and homelessness.",
-    "The push centers on findings from an August joint public-opinion poll of registered Seattle voters, which revealed that while every proposed safety measure drew at least 75% support across all demographics, only 34% of respondents expressed confidence in the city’s current strategy.",
-    "Pointing to severe staffing shortages — noting Seattle has just 1.31 sworn officers per 1,000 residents, far below peer cities like Denver, San Francisco, and Boston — the signatories argued that budget decisions must directly align with measurable safety outcomes.",
-    "The effort was spearheaded by major regional business leadership organizations, including the Seattle Metropolitan Chamber of Commerce, Challenge Seattle, and the Washington Roundtable. Their leaders — Joe Nguyễn, former Gov. Chris Gregoire, and Rachel Smith — jointly signed the appeal alongside dozens of local chief executives spanning technology, retail, healthcare, and sports franchises.",
-    "“Voters are asking for action, on a timeline, with results they can measure,” the coalition wrote in the letter, emphasizing that their recommendations reflect a broad consensus across the city. “This is not a narrow or partisan agenda, it is a shared baseline that Seattle residents and the business community are asking their elected leaders to deliver both now and as a sustained priority.”",
-    "The letter outlines a series of immediate and short-term actions the group is asking City Hall to enact, backed by overwhelming support in their poll :",
-    "CCTV surveillance: Activate CCTV cameras in Pioneer Square, the Stadium District, and other high-event areas to deter crime and assist law enforcement.",
-    "Foot and bike patrols: Establish regular police patrols on foot and bicycle in areas facing persistent public safety problems, specifically citing Little Saigon (90% poll support).",
-    "911 response accountability: Recommit to a standard 7-minute priority 911 response time, backed by transparent reporting when targets are missed (90% support). The letter noted data from Nordstrom showing only 29% of 911 calls from its flagship downtown store yielded a police response, compared to 100% at its Bellevue and Southcenter locations.",
-    "Drug treatment and diversion: Direct CARE Department specialists to offer treatment and shelter first, but require law enforcement to arrest and prosecute repeat offenders who repeatedly refuse help (82% support).",
-    "Open-air drug markets: Require SPD and the City Attorney to establish a clear, prioritized pathway for shutting down open-air drug markets (81% support).",
-    "Encampment bans and timelines: Institute a policy banning encampments within 250 feet of parks, playgrounds, or schools, and mandate that the city clear encampments in those zones within 72 hours (79% support).",
-    "Among those who signed the letter: Brad Smith, Vice Chair & President of Microsoft; Jeremy Wacksman, CEO of Zillow; François Locoh-Donou, CEO of F5; Matt McIlwain, Managing Director at Madrona Venture Group; Julie Sandler, Co-founder & Venture Partner at PSL Ventures; Matt Oppenheimer, Chairman of Remitly; Erik Nordstrom, CEO & Co-President of Nordstrom; Brian Niccol, Chairman & CEO of Starbucks; Ron Vachris, CEO & President of Costco; Ben Minicucci, CEO & President of Alaska Air Group; Mike Sievert, Vice Chairman of T-Mobile; and Ada Healey, Chief Real Estate Officer at Vulcan Real Estate.",
-    "The business community’s coordinated push arrives during a pivotal moment for public safety policy in City Hall, where political tensions over policing and crime response have flared in recent weeks.",
-    "While overall violent crime and homicides in Seattle dropped during the first half of 2026 compared to last year, high-profile violent incidents continue to fuel public and commercial anxiety. Downtown, Belltown, and high-foot-traffic corridors have experienced recent spikes in gun violence and fatal altercations — including multiple homicides in Belltown and Westlake Park in early September alone.",
-    "At the same time, the Seattle Police Department continues to grapple with acute staffing shortages following years of officer departures exceeding hiring goals. The persistent deficit has left response times stretched thin, prompting deep frustration from major employers and pushing retail hubs to demand a more visible police presence.",
-    "Policy friction between the Council and Wilson’s administration has also intensified. Debate has centered on the rollout of public surveillance technologies — where the mayor’s office recently paused CCTV camera expansions pending a data privacy audit — as well as ongoing friction surrounding the leadership of the police department.",
-    "Responding to the letter, Wilson told GeekWire that her administration shares the business community’s commitment to public safety, noting that “many of the specific requests they made are well underway.”",
-    "Wilson highlighted expanded foot and bicycle patrols in neighborhoods like Little Saigon and Belltown, 3,500 police officer applications currently in the queue, and an upcoming gun violence reduction strategy set to roll out next week. While noting that SPD data shows homicides and shootings at 10-year lows, Wilson acknowledged public impatience.",
-    "“We have far too much crime and public disorder and people have a right to be frustrated,” she said. “I, like everyone in Seattle, want to see that progress happen faster and steadier.”",
-    "The safety campaign comes on the heels of a 127-page independent economic study commissioned by the city, which warned that while Seattle boasts an “almost peerless” tech workforce and key AI assets, its economy is in a fragile position due to heavy corporate concentration and tax policies that penalize senior hiring.",
-    "The study noted that Seattle’s tax base remains vulnerable if major employers opt to relocate or grow outside the city limits, reinforcing the business coalition’s argument that public safety is closely tied to the city’s long-term economic stability."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/tents.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-tonmobileinchallengetomicrosoftandgoogle",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Amazon expands its Quick AI assistant on mobile in challenge to Microsoft and Google",
-   "author": "Todd Bishop",
-   "date": "2026-09-10",
-   "url": "https://www.geekwire.com/2026/amazon-expands-its-quick-ai-assistant-on-mobile-in-challenge-to-microsoft-and-google/",
-   "paras": [
-    "Amazon is adding the Activity Feed and other features from its Quick desktop app to the AI assistant’s mobile apps for iOS and Android.",
-    "The Activity Feed is the signature feature of Amazon Quick. It combines email, Slack messages, calendar invites and CRM updates into one prioritized list, and lets people act on items (opening and responding to emails, for example) without switching apps.",
-    "Amazon said Wednesday that the Quick desktop app, released in preview in April, is now generally available on Windows and macOS . The company also said Quick’s agents now run in the cloud, so they keep working after a laptop is closed and deliver results to the feed.",
-    "The desktop and mobile apps now sync, as well, so a task started on a laptop can be picked up on a phone, for example.",
-    "Quick has a free tier , with paid individual plans starting at $20 per user per month billed annually, and business plans running $20 to $40 per user per month.",
-    "Quick is Amazon’s entry in a crowded market for AI assistants at work, competing with Microsoft Copilot, Google Gemini, OpenAI, Anthropic and others. Amazon’s announcements cited business customers for Quick including Southwest Airlines, LabCorp and the PGA Tour.",
-    "The desktop app came together fast, as part of a new effort inside Amazon to use small teams to move quickly: Swami Sivasubramanian, the AWS vice president of agentic AI, told GeekWire in June that a team of about six engineers started in late January and shipped April 28."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/quick-1260x748.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-etoboosthomebuildingwithroadtohousingact",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1330,123 +1517,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-ngercomobitsrememberingtimothywhiteeagle",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Remembering Timothy White Eagle",
-   "author": "Amanda Manitach",
-   "date": "2026-09-10",
-   "url": "https://www.thestranger.com/obits/remembering-timothy-white-eagle/",
-   "paras": [
-    "My reaction to meeting Timothy White Eagle for the first time was probably similar to that of every person who ever met him: awestruck. For me, it was an evening in 2016 on the Bellevue Arts Museum plaza, where, amid a swarm of mere mortals, I was introduced to White Eagle: barrel-chested and statuesque, with long locks falling halfway down his back. The warmth of his smile was matched by the warmth of his words.",
-    "The last time I saw him was at the end of July; we had both been invited to speak on a panel at the Seattle Art Fair, discussing why artists stay in this city. By then, his physical size had diminished, yet his presence was as large as ever. He brought everyone caramel chocolates and made us laugh with his tough love and wisdom wrapped in jokes. He always was a bit of a class clown. People like White Eagle are why we stay.",
-    "White Eagle was born in 1966 to a woman of Mohave descent, from the Colorado River Indian Tribes. At three days old, he was adopted into a white Mormon family in Montesano, Washington, where, in the ’80s, he stood out. Not only was he one of the only children of color at his school (he took eighth grade algebra with Kurt Cobain), he was one of the only Mormons, and he was gay. “I was a big screaming queen trying not to be screaming,” White Eagle told me in an interview in March of this year. “But yeah, I was pretty much not like the other boys.”",
-    "White Eagle spoke with regard for his adoptive father, who raised him and his siblings as a single parent when White Eagle was a teenager. “My dad was a bit of an iconoclast,” White Eagle said. “He was a Mormon, but he also had a very strong independent streak. He had an idea that God understood him. Even if he wasn’t doing things right according to Mormonism—having a beer with the loggers in town or not tithing so he could pay off his house—he just knew that God gets who I am, and it’s okay . I think that that was an early way of laying into me that we all can have a unique relationship to spirit, and what’s important is our relationship, not the dogma of some authoritarian channel through which you receive a connection to the divine. I think that was an early, little key to why I went where I went, which is very nontraditional.”",
-    "White Eagle graduated with a BFA in theater stage management from the University of Utah in 1990. After graduating, he moved to Seattle to take a job at Seattle Rep, which had invited him to an internship. The offer was retracted when the organization realized he had not yet completed the required masters degree. He stayed in Seattle and went on to work at low-budget shows in black box theaters and at restaurants, saving money to open his own coffee shop cabaret space. The death of a relative in 1995 provided him enough cash to open Coffee Messiah during Pride month of that year.",
-    "It was Ursula Android—drag persona of artist and Pony founder Marcus Wilson—who suggested the Cabaret of Despair . “Ursula was sitting in the coffee shop reading Isherwood’s The Berlin Stories ,” White Eagle recalled. “He put the book down and said, ‘Would you let me do a cabaret in here?’”",
-    "The result was a drag cabaret and open mic night that ran most nights from 2 a.m. till dawn and featured artists like Sylvia O’Stayformore, Ursula Android, and Jackie Hell. “I used to call us a home for freaks,” White Eagle said. “The vibe was very anything is welcome. Risk is encouraged. Get messy. Have fun. Do whatever you want, just clean up when you’re done.”",
-    "During his 20s, White Eagle also discovered the radical faeries of the Wolf Creek Radical Faerie Sanctuary in Southern Oregon. He quickly took up planning rituals at their gatherings. “That was my happy spot,” he said. “It became the place where I got to do a lot of experimenting and learning about traditional pagan ritual structure, how to hold space for a community, how to state intention, and how to make public prayer.”",
-    "It was at Wolf Creek that White Eagle met Clyde Hall, a Shoshone elder who took him under his wing. At that point, Coffee Messiah became financially unfeasible—he sold the cafe in 2000 and took up odd jobs, like cleaning houses, so he could travel. “A normal pursuit would have been to go to New York to follow the kind of performance art I loved,” he said. “But I had such a hunger to understand Native culture, so I just started traveling with [Hall], and that kind of took over my life for more than 10 years.”",
-    "Most of his Indigenous training took place with Shoshone and Piute elders, unrelated to his ancestral tribe. It was only a few years ago, through DNA testing, that White Eagle was able to trace the identity of his birth mother and his true Native heritage. The attorney who handled his adoption had mistakenly recalled his mother as White Mountain Apache; she was Mohave, from the Colorado River Indian Tribes. When, in his 50s, he finally identified and contacted his birth mother, he respected her wish to remain distant. “I feel strongly that I need to protect her privacy and not invade her elderly years with something she moved on from,” he said.",
-    "That’s the kind of grace White Eagle extended to the entire world around him and infused into his work. The performances that emerged in his 40s combined experiences from his life, including his ongoing training in pagan ritual and Native ceremony, with the religious liturgy he grew up with in the Mormon church. His first major solo performance, The White Room , created in 2016, was an immersive installation that fused performance and public space. It referenced the Celestial Room in the Mormon Temple—a sacred space.",
-    "“You have to be a tithe-paying, good Mormon in good standing [to enter],” White Eagle said. “A queer Native American doesn’t qualify. I wanted to make a space that was the opposite of that. The White Room was created as a temporary autonomous zone, a place where there were no rules, a place to see and surrender the layers of miseducation. We all come into this world a blank slate, and then the world starts telling us what’s wrong with us and how we have to be different and how we have to be some other way.”",
-    "The White Room ran for nine months, and saw over 160 participants.",
-    "White Eagle’s performances have been presented at On the Boards ( Indian School, 2024, and Revival , 2022) and Town Hall Seattle ( The Dead House , 2021). The Indigo Room was presented at the University of Utah, Texas A&M, and La MaMa and the Public Theater’s Under the Radar Festival in New York (2023–2024). He toured internationally with Taylor Mac, as a cast member in Holiday Sauce (2019) and as a consultant, performer, and artistic director for A 24-Decade History of American Popular Music in 2016. His visual art, including installations and photographic collaborations with Adrain Chesser and Steven Miller, has been exhibited extensively, both locally and globally. Among numerous other residencies, in 2025 he was named the inaugural Duwamish Watershed Artist-in-Residence.",
-    "White Eagle was three months into the yearlong residency when doctors discovered stage one pancreatic cancer, in September of last year. Though White Eagle was hesitant to emphasize such a facile parallel between the toxicity of the Duwamish River and his own fight for health, the diagnosis and treatment transformed his residency. What began as a largely solitary experience in collaboration with Chesser expanded to include works by artists Laura Wright, Epiphany Couch, Crystal Cortez , and Sarah Kavage. His own work focused on creating and performing rituals for healing, both in private and public, and creating medicine objects through photography and materials gathered throughout the watershed.",
-    "White Eagle passed away on Tuesday, September 8. He was 60. A grief gathering is being planned for the evening of Thursday, September 17 in the Great Hall at Town Hall, on what would have been the closing performance of Timothy White Eagle Has No Shame . He leaves behind his husband, Kenny McDonald, and a community of colleagues, collaborators, and friends who mourn and cherish his memory. Here are some of their words:",
-    "“White Eagle, and his then-partner Adrain Chesser, adopted me into their lives around 2006. Their world of radical faeries and rituals and wild parties changed my life forever. Together, the three of us collaborated, merging our worlds together to make Beaster and Bear , a series of portraits and tableaus about mystical queers in Renaissance settings. White Eagle built the sets, and he would always come up with the most amazing finds from the Goodwill bins or his own hoard of long, flowing fabrics.",
-    "In the last year, after his diagnosis, we shared many tender moments, because I’ve had my own cancer struggles. After the opening of his show at Mini Mart City Park, we spoke about the fucked-up gifts that cancer gives you: recognizing the beauty of small things, and how much we really have in community.",
-    "I am so sad at White Eagle’s untimely passing—we had more work to do together, and more adventures to create. The world needs more wild, open, loud, and beautiful people to express their authentic, raw selves. Long live White Eagle.” –Steven Miller, artistic collaborator and friend",
-    "“We were lucky at On the Boards to be a creative home for Timothy. He was a board member, an artist in residence, an experimental performer, and a friend. I include myself when I say that Timothy’s art and presence changed many of us for the better. Timothy had a big part to play in my move to Seattle and working for OtB. During the recruitment process I asked to meet with artists in the community. The board sent me off to coffee with Timothy at KEXP. I was immediately struck by the sheer artistic force and presence of him. I remember being impressed by his ability to hold his love for OtB with the determination that it must be and do better for Seattle. I was moved. It lit a fire in me to share in that dream with him.” –Megan Kiskaddon, executive director at On the Boards",
-    "“Timothy White Eagle is a friend, a brother, and a guide who taught me to pray so that ‘the lessons be memorable and gentle.’ We first met at a Radical Faerie gathering in Southern Oregon as he told wild stories around a fire pit. Later he and I bonded in Santa Fe New Mexico as we both studied with our mentor and friend Guillermo Gómez-Peña and the wild performance art troupe La Pocha Nostra. He challenged me to accept the urgency of an artist’s impulse and make what was required for the moment—even imperfectly. It has been an honor being on his production and business team for the last five years.” –Pepper Pepper , artist, friend, and admin and producer of Timothy White Eagle: Once Wild River",
-    "“I’m not sure what to say, words fail me. For now, I’m just incredibly sad and angry that we won’t get to witness him as an 80-year-old artist.” –Adrain Chesser, artistic collaborator and partner",
-    "“Timothy drew the best people to him, then gifted them to each other to do work worthy of their highest calling that exceeded the excellence they could ever achieve on their own, and these are his most exquisite, profound, and lasting compositional legacies. He was our center pole and I found myself in the profound position of helping him stay upright and on track to do his bravest and best ritual theater work. We were soulmates on many levels, the queerest of weird, misunderstood, spiritually and artistically powerful children raised by people and religions that only know how to control and damage such spirits. And we both survived. We are also an artistic dream team and made the best work of our lives together, maximalists who are intuitively driven by hearts so purely set on bringing healing and transformation to audiences. We are both well-tethered to a concern with what work DOES in muscular, loving, ambitious ways, for our audiences, but also for us. He was at his best when he was pursuing his own emergent healing needs first and knew that would ripple out. It was my profound gift to learn how to do this work with him and I will forever be sifting through all the richness our time together has given to me. I already miss him so much, but we transformed each other. I will never take a deep breath or pray or approach creating work for an audience without feeling him cheering me on, having my back, and seeing the fingerprints of his beautiful hands all over the place.” –Hatlo, artistic collaborator and platonic soulmate",
-    "“I guess I would just like to say how much I enjoyed collaborating with Timothy on the beyond debaucherous extreme late-night happening ‘The Cabaret of Despair’ at Coffee Messiah in 1998/99. Also, I will always cherish the time we made plans to go out one night, but he wouldn’t tell me where we were going, just told me to look good.",
-    "So I got dressed in full drag as Ursula Android, and Timothy came and picked me up in his car, we got on the freeway, and then he handed me a pill box full of microdots of acid. We took some and the next thing I knew we were parking near Tacoma Dome. Someone had given Timothy tickets to the Spice Girls concert, and that’s where he took me, tripping my pumps off.” –Marcus Wilson, friend and Cabaret of Despair co-conspirator",
-    "“I had the honor of knowing Timothy Turner White Eagle for over 30 years and witnessed his ripening creative power, his softening compassion, his profound capacity for ceremonial leadership, and, most of all, his willingness to be conscious of his wholeness. He was a maximalist that loved the light and dark, vulnerability and power, the high and the low. A mythically brilliant mind, he was devoted to creating works that would surprise a community into a state of playful transformation. In his last days of being able to speak, most of his energy was spent talking about art. He turned the hospital into an absurd trickster theater capturing the hearts of medical staff, as well as friends and family. Creativity blazed in glorious intensity within him. I am inspired by his raw want to connect through spirit and art and I hear his echo in everything, encouraging us all to not waste a sip of this life! Go for it… Let it all in and give everything in return!” –Rebecca Farr, artist and friend",
-    "“From the moment I met Timothy White Eagle, some 25 years ago, I loved that queen—because it’s hard not to love someone who’s got a great big heart. Timothy had a gift of connecting with people who are often overlooked and undervalued, and helping them see they were beautiful and loved. Seeing his artistic career blossom these past years, it was a great reminder to never be ashamed of how fabulous you are.” – Rosette Royale, journalist, storyteller, and friend",
-    "“It’s not possible to express all that I could say about him & the way he helped me shape my life these last 25 years. Our friendship was long & messy & juicy & big, & so is he. He was authentic to his core & it came out in his theater, his art, his leadership, his magic, & in every beautiful & stupid & stupidly beautiful choice he made. I guess more than anything else I want to say: I will be unpacking the gifts he gave me for the rest of his life. Sometimes I will surely wish he’d saved the receipts so I could return one or two of them, but here we are. I love him.” –Ampersand Charmpop",
-    "“He had the most uncanny ability to create ritual space. He could turn a common room into a temple, and simple fire into a cauldron of transformation, a photograph into a prayer for change, and a holiday party into a devotional for Dionysus. I watched him shift from a recovering Mormon kinky gay man into a Mohave Ceremonialist. He embodied what I understand as a true human being. He would be equally reverent and silly. As strong as he was, he could be equally as vulnerable. With our longevity of friendship, we would talk of where we came from and appreciate how far we have come. I will deeply miss his mirroring, mischievous grin, and love.",
-    "I could tell stories about his Cabaret of Despair at the Coffee Messiah in the early ’90s, doing whippets in the bathroom before grabbing the mic spouting stream of consciousness no one could track. Or fires invoking faerie ancestors who died from AIDS to partake in sexy activities of Beltane. Standing in a field of native edible roots praying to the root diggers that took care of this land and always planted back more than they took. So many found solace in his home, a place to stay, a job cleaning houses, a purpose, and a calling.” – Jaime Barber",
-    "The post Remembering Timothy White Eagle appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Whie-Eagle-Lake-Washington-photo-by-Steven-Edward-Miller-copy-scaled.jpg?fit=1024%2C704&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-thestrangercomfoodanddrinkthelunchlawyer",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "The Lunch Lawyer",
-   "author": "Harry Cheadle",
-   "date": "2026-09-10",
-   "url": "https://www.thestranger.com/food-and-drink/the-lunch-lawyer/",
-   "paras": [
-    "If you work in the restaurant industry and your boss shorts your paycheck, you have limited options. You could quit, with or without sending your boss a nasty message, and start looking for a new gig. You could file a complaint with the Washington State Department of Labor and Industries or Seattle’s Office of Labor Standards, though the investigatory process typically takes months to complete. Or you could file a lawsuit, a choice that may lead you to the cramped, single-room office of Steven Toff.",
-    "Toff is the founder of Bread & Roses Law Group, a firm that specializes in employment law. He sues employers for discrimination of various kinds, for wage theft, and for denying workers mandatory breaks. Bread & Roses has taken on big employers like Boeing, Tesla, Whole Foods, and Thomson Reuters, but after Toff filed a class action lawsuit against the fine-dining restaurant Canlis in 2023, he became a go-to resource for restaurant workers in Seattle.",
-    "He’s sued restaurant owners, helped workers file complaints, and assisted employees looking to unionize. To him, it’s all an extension of his prior career as a labor organizer and union advocate; he wants to provide a way for workers in a precarious industry to claw back a few of their rights.",
-    "Restaurants, he says, are “where you see many of the problems I care most about: low wages, unstable schedules, tip dependency, informal (and often abusive) power structures, retaliation, and workers who often know something is wrong but have very little practical ability to enforce their rights alone.”",
-    "Anyone who’s ever worked in the service industry has likely run into routine violations of employment law. Toff himself remembers working at a pizzeria as a teenager in Tucson, Arizona. The owner habitually shaved hours off time cards to avoid paying them for work done after closing time; he also cornered a girl in the walk-in fridge to hit on her, Toff recalls. The experience “informs everything I do as an attorney,” he says.",
-    "Toff is tall and a bit scruffy for a lawyer, even one in the Pacific Northwest. He has more tattoos sprawling past the sleeves of his quarter-zip than the typical lawyer, too, traces of his time as a globe-trotting union advocate who’s lived in Brazil and Germany. Not that he’s left the bargaining table behind.",
-    "When employees at Renee Erickson’s critically acclaimed Sea Creatures group unionized last year, Toff agreed to aid contract negotiations for free. (This summer, the union won contracts at the Walrus and the Carpenter and at General Porpoise.) The union, which does not collect dues, would never have been able to afford representation, says United Creatures of the Sea organizer Ford Nickel. “Immediately upon meeting him,” Nickel says, “we realized that, like, this guy is a lawyer, but he is an organizer and supporter of workers and workers’ rights first.”",
-    "Before Toff was a lawyer or an organizer, he was a “punk-rock kid” from Tucson, getting his first sniff of left-wing politics through bands like Berkeley’s Crimpshrine. He moved to the Bay Area in the ’90s—ostensibly for college but really to play in bands, he says—and was further radicalized by the raw inequality he saw during the height of the dot-com boom.",
-    "“At the time, I had never seen that kind of homelessness,” he says. “I remember counting the number of people I saw living on the street, on the bus, on the way home.”",
-    "For Toff, the labor movement provided a way to address this sort of injustice. He majored in labor studies at San Francisco State and, in 2001, organized the Berkeley city recycling plant under the banner of the Industrial Workers of the World. After college, he worked for a number of unions throughout the West, including the American Federation of Labor and Congress of Industrial Organizations (AFL-CIO). He organized farm workers in California’s Central Valley, paper mill workers in Oregon, and airline employees in Phoenix, living in hotel rooms and visiting potential union members at home to explain the benefits of unionization. There were long days. And a lot of driving.",
-    "He became interested in international trade unionism and moved to Berlin for grad school, then wound up working for National Nurses United in New York. In hopes of getting a leadership position at a union, he attended law school at Northeastern University, then served as counsel for the New York State Nurses Association. During the pandemic, he and his family moved to Amsterdam to work for an international labor organization. They moved across the world again when his then-wife got a job in Seattle, a city Toff didn’t know at all.",
-    "When he arrived, Toff switched to private practice to normalize his working hours and spend more time with his kids. He began volunteering with the Emergency Workplace Organizing Committee, a Democratic Socialists of America–sponsored project that supports workers in difficult-to-organize workplaces with tiny workforces and high turnover. Unionizing tends to be a long and complicated process: Workers have to decide among themselves that they want to form a union—often by signing cards—then hold an election, then be formally recognized by management, then negotiate with management on a contract that will govern the new conditions of work. The entire process can drag on for years, especially if an employer stalls and fights the union at every step. As an example of how difficult this journey is, hundreds of Starbucks coffee shops have voted to unionize since 2021, but not a single one has completed a contract. These long timelines are partly why restaurant work is largely non-union—with so much staff turnover, organizing is borderline impossible, and the restaurant in question may close by the time a contract is signed.",
-    "Some of the electrical workers Toff talked to through the Emergency Workplace Organizing Committee were in similar straits; unionizing wasn’t really a viable way to address grievances with their bosses. But if their bosses were breaking the law, they didn’t need a union. They could sue.",
-    "“Steven sees angles and opportunities that a lot of people might not see, because he has such an open and creative mind,” says Carol Igoe, a labor advocate and lawyer who has known Toff for two decades and works with him at Bread & Roses.",
-    "The angle he saw in the electrical workers’ case was that in Washington State, nearly every employment law statute has “fee-shifting provisions.” That means that if a worker sues their employer and wins, the employer is on the hook for their legal bill. This is what makes Bread & Roses’ business model possible.",
-    "Toff mostly works on contingency, meaning his clients don’t pay him unless they win a settlement. The simplest way this works is that Toff sends an employer a demand letter informing them they owe a such-and-such amount in unpaid wages to his client, and that they also owe his fee, which might be $2,000 at that point. “So pay by Friday, or we will file a wage lien against your home in Bellevue and then file the lawsuit shortly thereafter, and we will win, and you will owe a shit-ton more, because you will owe the attorney’s fees, which at that point will not be $2,000, they will be $50,000,” Toff says. This can be a compelling threat.",
-    "Toff’s most famous suit was the class action against against Canlis, which he led while working at the local employment law firm Maloney O’Laughlin. Filed on behalf of all non-managers at the fine dining restaurant, it accused Canlis of requiring hourly workers to perform an initial unpaid “stage” shift in order to be hired and for not distributing all the money it collected via its “service charge” to the staff, as its menus claimed until mid-2022.",
-    "Evan Gallo, a former server and one of the named plaintiffs, says that in the run-up to the suit, some employees had circulated a petition asking for higher wages. Management declined this request, claiming they wanted to keep prices relatively low to be within reach of the non-super-rich, according to Gallo. Dissatisfied with that response, the workers looked into suing.",
-    "Gallo called several lawyers but “got the best vibe from Steven,” he says. “He’s very motivated to fight for the little guy.” Gallo helped sift through the timesheet records Canlis sent to the law firm to identify instances of workers not getting the service charge money they were due. This experience inspired Gallo to enroll in law school after the case concluded; he now works as Toff’s legal assistant. The suit, though, was divisive among the Canlis staff, Gallo says. Some workers regarded Canlis as a great place to work and disagreed with the decision to sue. (Another plaintiff says that they lost friends on the Canlis staff who sided with Canlis management.) After going through mediation, Canlis settled the lawsuit for $1.45 million in 2024. It did not admit any wrongdoing.",
-    "Toff launched Bread & Roses not long after that. He says the Canlis suit was “one of the cases that confirmed for me that there was real need, and real opportunity, for a workers’-rights practice focused on things like wage theft, including in industries like restaurants where violations can be widespread, but individual workers often do not have enough economic power to bring claims on their own.”",
-    "These lawsuits are sometimes an imperfect vehicle for workers’ grievances. The Canlis employees who came to Toff had complaints that went beyond the service charge language—it was just that the service charge issue provided a pathway to legal action.",
-    "Workers in the notoriously chaotic restaurant industry don’t really have many other options when they’re unhappy with management, as evidenced by how few restaurants in Seattle have unionized. (After Capitol Hill diner Glo’s unionized in 2023, workers voted to decertify the union months later after some staff turnover.) Organizers at the Sea Creatures restaurant group did succeed in securing contracts at the Walrus and the Carpenter and both locations of the General Porpoise doughnut chain after workers went on strike, but haven’t gotten a contract at the Capitol Hill steakhouse Jeffry’s.",
-    "Another obstacle restaurant unions face is that sometimes these businesses don’t make enough money to give employees substantially more wages or benefits. (Restaurants generally have profit margins under 9 percent, and a recent National Restaurant Association report found that 42 percent of restaurants weren’t profitable.) That’s what unionized workers at Sea Wolf Bakers learned last year when management opened their books during negotiations. Instead of an hourly wage increase, the two sides eventually agreed to let workers accept tips for the first time. Similarly, in the contracts negotiated by United Creatures of the Sea, unionized workers agreed to lower base pay rates and fewer benefits in exchange for the service charge model being scrapped in favor of receiving more tips.",
-    "Could there be some middle path between piecemeal lawsuits and high-effort union drives? Toff wonders if some restaurants could adopt simplified collective bargaining agreements that spell out basic pay and working conditions. “At a union restaurant in Seattle, there’s a 20 percent service charge and 100 percent goes to the workers,” Toff imagines, “and a sticker goes in the window that says, ‘This is a union restaurant.’” In progressive Seattle, where plenty of restaurant owners want to be seen treating their employees well, maybe something like that could work.",
-    "Canlis is far from the only Seattle restaurant to have been sued over its service charge language. Upscale diner chain Skillet and Tom Douglas’s restaurant group were targeted by similar lawsuits; like Canlis, both settled rather than going to trial. Some restaurant owners have privately complained to me that these suits punish them for technicalities. They argue that restaurants tend to shift to service charge models in order to address pay inequities caused by tipping; service charge money really does go to workers. But when a restaurant says that all of a service charge is distributed to workers, it has to meticulously track where every dollar goes or face legal liability. As a result, Seattle restaurants tend to adopt safer language. Canlis’s menu now reads, “A 20% service charge will be added to your final bill. 100% of this service charge is retained by Canlis.”",
-    "Toff thinks a service fee that doesn’t go to workers is “disingenuous,” and that in practice, restaurants are “just artificially deflating the cost of things on [their] menus.” He has a punk’s instinctive hatred of hypocrisy: Why can’t restaurants just work all of their costs into menu prices? If they won’t raise those prices out of fear of driving away customers but are really paying a living wage, why not just list the employees’ hourly pay on the receipt?",
-    "Given his background, it’s no surprise that Toff has no problem simply asking waiters how much they make. One time he did this and the server wouldn’t tell him. It eventually came out that the server was also the owner.",
-    "“And I said, ‘Oh, how much do the workers make?’” Toff says. “And he said, ‘I’d rather not answer that question.’”",
-    "The post The Lunch Lawyer appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/lunchlawyer4-phot-by-Billie-Winter-scaled.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-ndtrumpsbribingamericanstovoterepublican",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: El Niño Is Getting Stronger, Sen. Patty Murray Is Going After Trump, and Trump’s Bribing Americans to Vote Republican",
-   "author": "Megan Seling",
-   "date": "2026-09-10",
-   "url": "https://www.thestranger.com/slog-am/slog-am-el-nino-is-getting-stronger-sen-patty-murray-is-going-after-trump-and-trumps-bribing-americans-to-vote-republican/",
-   "paras": [
-    "Sen. Patty Murray’s pissed at Trump. In an effort to encourage “traditional” families , the Trump administration wants to pay married, stay-at-home parents with money from the Child Care and Development Fund, which was established in 1990 as a way to help parents—both single and married—pay for childcare so they could go back to work. “It’s not the 1950s in America,” said Murray in a statement. “Our government shouldn’t punish people for being single parents or choosing not to marry. … Raiding an underfunded program solely to score culture war points is not pro-family—it’s a wasteful grift that I will fight every step of the way.”",
-    "CM Bob Kettle’s (still) pissed at Mayor Wilson. Seattle City Council Member Bob Kettle wrote a public letter to Mayor Katie Wilson demanding to know why Wilson asked SPD Chief Shon Barnes to resign after the Bite of Seattle shooting. Barnes, who didn’t live in Seattle full-time and was hired by former Mayor Bruce Harrell, stepped down in July. CM Kettle’s letter does not acknowledge that hundreds of pages of internal messages suggest that, as Publicola reported , “the primary reason for the delay in information, as well as almost all of the delay in holding a press conference that night, was that SPD delayed the release of information repeatedly.” As Sutton would say: Let the mouse go .",
-    "Meanwhile, Mayor Wilson has launched a new task force aimed at improving Seattle’s economy and helping businesses “start, stay, and grow.” Very left-wing radical communist behavior, I know.",
-    "Trump, who famously survived 9/11 , spoke at the Republicans’ midterm convention yesterday and promised to pay every American $5,000 if the Republicans retain control of the House and Senate after November’s midterms. “It will be called the Trump Dividend,” he said. Where will the $1 trillion come from? JD Vance said tariffs, maybe? According to the Bipartisan Policy Center, the US has, as of August 20, earned about $189 billion from tariffs and excise taxes. You’re about 2.8 Jeff Bezoses short, my dudes. The AP reports that “the White House did not respond to a message seeking details.”",
-    "Houthi rebels in Yemen are advancing along the coast of the Red Sea. The Guardian reports that “By taking control of more of the Red Sea coast south of the port of Hodeidah, the Houthis’ aim is to put pressure on Saudi Arabia and the US to agree a deal that lifts the US blockade on Iranian oil tankers in the Gulf.” Gas isn’t gonna get cheaper anytime soon, y’all. Trump admitted yesterday that the war likely won’t end before November’s midterms. Ooooh, but just think about that juicy $5,000!!!!!!",
-    "In other the Future Is Fucked news , August was the hottest month ever recorded on Earth! El Niño is a factor, but experts say “our relentless burning of fossil fuels” is also a significant driver, especially because climate change exacerbates El Niño. One scientist added, “This summer has really been exceptional. We’ve seen records that existed for close to 100 years be broken, in the U.S. in particular.” U! S! A! U! S! A! U! S! A!",
-    "According to the World Meteorological Organization , there’s a near 100 percent likelihood El Niño will persist through February 2027, significantly altering “rainfall and temperature patterns worldwide and fuel extreme weather.” We are the world.",
-    "ICE activity at Boeing Field has “exploded,” according to Guadalupe Gonzalez, a member of La Resistencia. The Seattle Times reported that during one week in August, “authorities boarded roughly 400 people on ICE flights leaving Boeing Field.” It is believed they were taken to other facilities in the country, but, as the story points out, when people are “sent away on ICE planes, their loved ones and their lawyers are often left in the dark about what’s happening and why.” ICE’s contract with the GEO Group, which owns the Tacoma facility, ends in late October, though it’s unclear if the uptick of transfers is related. As KUOW reported in August, ICE is looking to buy “turn-key detention facilities in several states.” The Tacoma facility meets their requirements, but it’s unclear if they’re interested.",
-    "The Seahawks won their home opener yesterday , and the angsty little sister from Gossip Girl played songs with the surviving members of Soundgarden for some reason.",
-    "Here’s something to read later if you want to get very mad : This Mother Jones story about Jennifer Sey, the woman who founded XX-XY Athletics, details how Sey has gotten rich off the rise of anti-trans rhetoric among WNBA players and fans. Barf!",
-    "Want to have some fun this weekend? We have heaps of event recommendations in our arts calendar ! Some highlights: The Genius Awards are on Saturday, at the Moore Theater. (Tickets are just $10 and still available!) Genius short listers Collide-O-Scope are screening their film Once Upon a Time in Seattle at the Northwest Film Forum Friday and Saturday. And Alexis Nikole Nelson, aka BlackForager on Instagram, will be at Town Hall on Monday ! (Technically not the weekend, but any day can be the weekend if you wish hard enough, or you call in sick.) Unfamiliar with Nelson? My goodness, let’s change that! Here is a favorite, her popular “Poison or Snack” feature:",
-    "The post Slog AM: El Niño Is Getting Stronger, Sen. Patty Murray Is Going After Trump, and Trump’s Bribing Americans to Vote Republican appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Untitled-design-5.png?fit=1024%2C670&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-TVaZU5wYXo1S2oycUQ1S0dPOVJhZmY3TS1EWQoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1455,41 +1525,7 @@
    "date": "2026-09-10",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmFNS3JrRllPc1gtNzItUjZBa1pRTEk5amNmNHRPdHBQdXpyRFp3bm53bU82dkl1Ui1xRkk4X2Vmd084MnlrMFF3N2ZhcGVVZXlCcW0xLWc2dVdRQmZpX2VFV0NISUpnZkh0SHhvSGM1bjd4RDltT0JrMW1DeEo3Q2hwX2k0UXZXeU1VTWxlY0EwdHRFbVhTdU5GOWVQYi1lVnVVSTlCc0VpSFZHV05EVTVaZU5wYXo1S2oycUQ1S0dPOVJhZmY3TS1EWQ?oc=5",
    "paras": [
-    "‘Not a time for grandstanding.’ Seattle Mayor Wilson on new gun violence prevention strategy kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-92MlQ5T0VVQWtWTGEzYWpNNzFkRE9PLWZSSEYoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle cement plant blocked from burning more tires",
-   "author": "",
-   "date": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLXAxQ2xLSlNZZUdCa01hU01EOHpmR1FpR250bnh4MFpHbmVkbWs5NlpmeFdhRkI1dllUQ1YxRXhBSVAxNU5KNFJqWHNBNUh6aDU3SWdjWmdhX05KeGVDMnpiOERFLXpZUG1IM2ZNczgxb1BNMDhEWnB2aGpZT3MwM292MlQ5T0VVQWtWTGEzYWpNNzFkRE9PLWZSSEY?oc=5",
-   "paras": [
-    "Seattle cement plant blocked from burning more tires kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-ldYaU8tdE9Yb1kybnB5RFJFclloZkhnLTlDdwoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "ICE flights out of Boeing Field surge, alarming families, immigrants rights' groups",
-   "author": "",
-   "date": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOUdjY204SE81Rk1wakdSSzFYVEM3NkFJNW5SQVptaVpiNVV3dlZlSlVGMkJnZlV5OEUwcDVTajdScDJzNEF5VlFXMU9MalN1aVBTRkRsdUtKUktnVVhwR0lYejZkdjY1TDFIWVgzelRyUkpicUdmTk1aeHd1T0Q3S2VXX01Oc0pVNGVYZExhNHJ5UUtVQ1V4VWhNZVZkaDM1RjdjcFA5eldYaU8tdE9Yb1kybnB5RFJFclloZkhnLTlDdw?oc=5",
-   "paras": [
-    "ICE flights out of Boeing Field surge, alarming families, immigrants rights' groups kuow.org"
+    "‘Not a time for grandstanding.’ Seattle Mayor Wilson on new gun violence prevention strategy KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1630,6 +1666,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-XY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family",
+   "author": "",
+   "date": "2026-09-09",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbW1PeERRUXhkSFRDODllaE5GbThCckZ3RkVnY2pfZ2x6Vm9OcnQ5bnVTUjMtVThEeWkwU1lCMGh1QmZSS3N0QzRRa1RKMGdGc0JTNHI1OHBzNjBfZ0haUHFRTkxXX3ZsUmhwTGZkOENiMzd4TUtvck9vYnM4NjYtZUczRzJ6aWxxWWpObFgwVWxPWGV3Z1FMTlZ4cGFtbVFLYWw0SW9TSHV4TmZMYWdjSEp2TGpBb1E0bGxodXY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQ?oc=5",
+   "paras": [
+    "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-grist-JtMXRVbXVodjBremNoeE15bk9YZEYyTjdNUHcoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1647,32 +1700,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-XY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQoc5",
-   "srcKey": "kuow",
+   "id": "f-propublica-mV0YxZlJYazFudjlkYS11OE5JVEVWSVpHSE93oc5",
+   "srcKey": "propublica",
    "cat": "local",
-   "title": "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family",
+   "title": "Ectopic Pregnancy Deaths Have Nearly Doubled. It’s Worse in States With Abortion Bans.",
    "author": "",
    "date": "2026-09-09",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbW1PeERRUXhkSFRDODllaE5GbThCckZ3RkVnY2pfZ2x6Vm9OcnQ5bnVTUjMtVThEeWkwU1lCMGh1QmZSS3N0QzRRa1RKMGdGc0JTNHI1OHBzNjBfZ0haUHFRTkxXX3ZsUmhwTGZkOENiMzd4TUtvck9vYnM4NjYtZUczRzJ6aWxxWWpObFgwVWxPWGV3Z1FMTlZ4cGFtbVFLYWw0SW9TSHV4TmZMYWdjSEp2TGpBb1E0bGxodXY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNY0R0cjNuMm1hdFBaTnRpNmhLUGk5MkNwQ3pFRmpadW80bV85a1hEZ3EzX0ZSV1JlY3pxZlV5Uk5iT20yMlljQjBHVU9XTUQ0WWlqZURVVFVhZzdZU2ZrWV85N3ZZUUpmV0YxZlJYazFudjlkYS11OE5JVEVWSVpHSE93?oc=5",
    "paras": [
-    "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-MYWNJMlVoUmZ0SFBhNVdMZUFYbEdMWmkxNjEyoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle's sluggish economy and Mayor Wilson's plan to goose it",
-   "author": "",
-   "date": "2026-09-09",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNblBjdkVXdVdTckQ5M1BhNThMSFlITkgwWXVlNVZ4VEZiT3p1ZEZEVy1CT3NXR2QtbWZyVUdZaURlRm5vZkdkV3I1dVUzSVpsY3F1SUU0aXRrSlFidUVaZDVWZmd1WEM3dXdYQnRsTk5FRXZ2UnV0Wm54LTBoaWdPQXJmQlVtMlY0M1pXb2FMSmtMYWNJMlVoUmZ0SFBhNVdMZUFYbEdMWmkxNjEy?oc=5",
-   "paras": [
-    "Seattle's sluggish economy and Mayor Wilson's plan to goose it kuow.org"
+    "Ectopic Pregnancy Deaths Have Nearly Doubled. It’s Worse in States With Abortion Bans. ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1715,43 +1751,15 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-memberdrivestaffinguptoexpandourcoverage",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "The Urbanist Fall Member Drive: Staffing Up to Expand Our Coverage",
-   "author": "Diego Batres",
-   "date": "2026-09-08",
-   "url": "https://www.theurbanist.org/the-urbanist-fall-member-drive-staffing-up-to-expand-our-coverage/",
-   "paras": [
-    "2026 has been an interesting year for The Urbanist. Our political endorsements are twice as popular as they were in 2025, we have a new website offering ad-free reading , and our coverage has grown to include the Eastside and cities outside Seattle more than ever before.",
-    "We're proud of our growing journalistic beats, but it also spreads our small team thin.",
-    "During this membership drive, we are asking you to help us fund the hiring of another employee. By helping us reach our goal of 100 new members by September 25th, you will put us in a position to sustainably grow our coverage, both geographically across the region and in the diversity of topics we cover. Members also read ad-free, as a treat!",
-    "With the Seattle media ecosystem in flux and local journalism on the decline, The Urbanist has been able to stay consistent and sustainable. We need your help to grow and expand our reporting on everything occurring in our region. A bigger team will also help us ramp up advocacy efforts to push for the urbanist future we all want.",
-    "If you would prefer to give to our 501(c)(3) arm, or take advantage of employer donation matching, you can direct donations to The Urbanist Fund , which supports The Urbanist’s (501c4) apolitical work.",
-    "Want to know what we’re using your donation for? You can peruse our 990 form , but the short answer is: paying staff.",
-    "The longer answer is that the vast majority of our expenses go towards paying our staff and freelancers. We pay business income tax despite being a nonprofit because of the advertisements on the website. Between taxes on the ads and the cut our third-party ad provider gets, we lose 1/3rd of revenue on ads – yet another reason we prefer donations!",
-    "Program expenses include technical expenses, such as website hosting expenses, and event program expenses, mostly venue rentals for panels and talks.",
-    "The single most important investment we make to bring you well-researched and well-reported news is qualified staff. That means reporters who know the region, understand urbanist policy, and have connections to the organizations and people who make policy decisions in our cities. All of this is to bring you, the reading public, the best reporting about urban issues in the region.",
-    "Support our writers by helping us hit our goal for this member drive and continuing to read and share our work!",
-    "Along with the member drive, we are finally completing the switch to the new website. If you were previously on our newsletter but not a donor, we created an account for you and subscribed you to the same newsletter you were on before. This is because we are ditching our old email sending service (Mailchimp), saving money and streamlining our workflow. All good things!",
-    "You can sign in to the website using the same email that you used to sign up for the newsletter. From now on, you can adjust your donation, manage your newsletters, or change the email address you want to be reached at through the website.",
-    "Want to get on our newsletter? Sign up here ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/urbanst-august-endorsed-candidate-party-2.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-iRWQ0ZDV1Y0pFc2I5SEg1OTRvMnJkX3hkRFNCoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The world is adapting to extreme heat — but not nearly fast enough",
+   "id": "f-kuow-zB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mgoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Why an empty pit in downtown Seattle remains undeveloped after 21 years",
    "author": "",
    "date": "2026-09-08",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclYtUkQ4Qkh3Y3kta0tFRTZjWUk4NW1CcjBGTFhDVnItSjBjUUNmd2xOMGZ6RXh2eGxaWEhqZEFKV2dkX1BOVHdyTmJtdS12VTVmU25iT2wxWnh1MGREVFdGOVNVeU5aZ0Z1OENLMm4yaVh1VG82RjlIejkxb3JRYVo1SXFiRWQ0ZDV1Y0pFc2I5SEg1OTRvMnJkX3hkRFNC?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1NqbmtMSmk3eUU0UnRzVVNJYV9RcDNtUUxxTFMzeHRlRXlGU3l4aGtldjRkNmtwOURyTlJkS2l0UXRiamJOSG8yclk4YWwzaFpUZjQ5VlVCQjFQRjR4NzFaY2xTbm9kNDl4Zmt4RU5pR21XZE12WkhpRzFhWlRvaVM2UjBxRUx4SjJ5a1RXMEh2aTlDYzB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mg?oc=5",
    "paras": [
-    "The world is adapting to extreme heat — but not nearly fast enough grist.org"
+    "Why an empty pit in downtown Seattle remains undeveloped after 21 years KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1777,15 +1785,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-zB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mgoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Why an empty pit in downtown Seattle remains undeveloped after 21 years",
+   "id": "f-grist-iRWQ0ZDV1Y0pFc2I5SEg1OTRvMnJkX3hkRFNCoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "The world is adapting to extreme heat — but not nearly fast enough",
    "author": "",
    "date": "2026-09-08",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1NqbmtMSmk3eUU0UnRzVVNJYV9RcDNtUUxxTFMzeHRlRXlGU3l4aGtldjRkNmtwOURyTlJkS2l0UXRiamJOSG8yclk4YWwzaFpUZjQ5VlVCQjFQRjR4NzFaY2xTbm9kNDl4Zmt4RU5pR21XZE12WkhpRzFhWlRvaVM2UjBxRUx4SjJ5a1RXMEh2aTlDYzB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclYtUkQ4Qkh3Y3kta0tFRTZjWUk4NW1CcjBGTFhDVnItSjBjUUNmd2xOMGZ6RXh2eGxaWEhqZEFKV2dkX1BOVHdyTmJtdS12VTVmU25iT2wxWnh1MGREVFdGOVNVeU5aZ0Z1OENLMm4yaVh1VG82RjlIejkxb3JRYVo1SXFiRWQ0ZDV1Y0pFc2I5SEg1OTRvMnJkX3hkRFNC?oc=5",
    "paras": [
-    "Why an empty pit in downtown Seattle remains undeveloped after 21 years kuow.org"
+    "The world is adapting to extreme heat — but not nearly fast enough grist.org"
    ],
    "img": "",
    "fetched": true,
@@ -1813,6 +1821,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-ZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmUoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting",
+   "author": "",
+   "date": "2026-09-05",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORFJqdjVCTWlPZHotYjVTdHpoaERMbmFQUTlOV0lwZjFKYmE1Y1VLSWp1a2NPMjlyemhuU0hSZVlkdU1TUXdPTDNyai1TX0xzOS1QWWxxUXU3UDF2VlFuSzlPTFp5eXRwTGh0MXk1QkZZN01jTldFdGhFYmFRS3lhX19iaEppY3VjcWdVVF9WRVl3UTFGc0tYOENmZUdoVEFpUElsT3p6dmxIZDdET3ZSNXFIOG5oMjMzMHdocEZqYWNxY0E0SllYbHJPSFMtTkx5YmY3MHNMcmU?oc=5",
+   "paras": [
+    "Indecision and delays: Texts reveal how Mayor's Office communicated following Seattle Center shooting KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-904fridayroundtableracethel8againandlose",
    "srcKey": "stb",
    "cat": "transit",
@@ -1835,21 +1860,20 @@
    "annos": null
   },
   {
-   "id": "f-stb-20260903pinehurststationopensseptember30",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Pinehurst Station Opens September 30",
-   "author": "Michael Smith",
-   "date": "2026-09-03",
-   "url": "https://seattletransitblog.com/2026/09/03/pinehurst-station-opens-september-30/",
+   "id": "f-kuow-URCaXFWNnNNM0tzdzNzcURWYU9zcFZSMHZadwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "One last splash. The era of Wild Waves comes to an end",
+   "author": "",
+   "date": "2026-09-04",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2tuYzhjZElNTmZIRHZHeXNwOGJocEg4NWdQcTR0Wmo0WTh0WGpSd0xUaW1NVnF3eWd2cG1qeUotZ3l3YkJXUW9aY1poel9UR0JPYWhQWF9ialNtRkZ4QU43d3VyZ1JfdVZWbURCaXFWNnNNM0tzdzNzcURWYU9zcFZSMHZadw?oc=5",
    "paras": [
-    "Today Sound Transit announced Pinehurst station will open September 30, 2026. Located between Shoreline South and Northgate stations, Pinehurst is the first ever Link infill station. The area around the station has been slow to develop as it is primarily occupied by Jackson Park Golf Course and I-5. The new King County Metro Route 77 stops next to Pinehurst station and provides east/west service along N 130th St and NE 125th St.",
-    "Pinehurst station was approved as part of ST3 in 2016 and was accelerated to open 5 years before its original projected opening in 2031.",
-    "Trains on the 1 Line and 2 Line will begin serving Pinehurst station at 5am on September 30 and a community celebration will take place later in the day."
+    "One last splash. The era of Wild Waves comes to an end KUOW"
    ],
    "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1879,23 +1903,6 @@
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
    "paras": [
     "How Idaho punished an overdose patient as a trafficker InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-VHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWsoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections",
-   "author": "",
-   "date": "2026-09-02",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjNFMkxCanZfSDdSeXhoVEFZZElDU3FVRHF6NDZIcWVLekFVUTlwal9mSjcyQ08xcTRXcW9rZlQ1Nlh3SXRWeEswRHhwS0lvSnVxcjZWQkR5Tmg1cjFWbVVYcXBaX1pfMEljUkdfa21TUzd6V0xaNVFLZ1pOb1ROa0RuUmVHWkpsOVFXTVFPT0YzdmgzVGx6NWFrQnA4NWs?oc=5",
-   "paras": [
-    "Trump’s DOJ Blocked Serious ICE Shooting Charge Over Federal Prosecutor’s “Strongest Possible” Objections ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -2079,26 +2086,6 @@
     "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
    ],
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/San-Fermo.avif?quality=90&strip=all&crop=0,0,100,100",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-rcommapsbestnewrestaurantsseattleheatmap",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "The Best New Restaurants in the Seattle Area",
-   "author": "<name>Sophie Grossman</name>",
-   "date": "2026-07-14",
-   "url": "https://seattle.eater.com/maps/best-new-restaurants-seattle-heatmap",
-   "paras": [
-    "The Eater Seattle Heatmap aims to answer the question “Where should I eat right now?” for people trying to keep up with the city’s constantly changing dining landscape. It focuses on newer restaurants — typically opened or revamped significantly within the last six months or so — that are reshaping Seattle’s food scene for the better.",
-    "In July 2026, we added hot new “not a New York deli” Louie’s , Okonomiyaki Jiban-Ya , from the minds behind Ginger and Scallion and Secret Congee, and sleek Fremont tapas bar Balandra . As a reminder, if you go to a restaurant that has recently opened, be patient — the staff might not be firing on all cylinders yet, and there may be hiccups in the service or menu items that sell out.",
-    "Find all these restaurants and more on the Eater app for iOS , where you can build and share your own custom dining guides.",
-    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
-    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/6645F10F-43D3-4C77-9672-C8A3095C420A.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
