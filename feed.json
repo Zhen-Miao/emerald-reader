@@ -1,7 +1,7 @@
 {
- "builtAt": "2026-09-12T17:58:47.599Z",
- "builtFor": "2026-09-12",
- "builtHour": "10",
+ "builtAt": "2026-09-13T18:25:51.641Z",
+ "builtFor": "2026-09-13",
+ "builtHour": "11",
  "count": 88,
  "sources": [
   {
@@ -32,7 +32,7 @@
   {
    "source": "emerald",
    "count": 2,
-   "via": "feed"
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -41,7 +41,7 @@
   },
   {
    "source": "grist",
-   "count": 5,
+   "count": 4,
    "via": "google-news"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 5,
+   "count": 6,
    "via": "google-news"
   },
   {
@@ -86,6 +86,419 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260906",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Sept. 6, 2026",
+   "author": "GeekWire",
+   "date": "2026-09-13",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-09-06/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Sept. 6, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Nine years after setting out to tackle unsheltered homelessness with rapidly deployable, hard-panel micro-shelters, Everett, Wash.-based social purpose corporation Pallet is closing its business. Read More … Read More",
+    "The Seattle-based video game developer behind the award-winning virtual reality adventure Moss has closed its doors. Read More … Read More",
+    "Helion Energy has opened a downtown Seattle office as its headcount hits 800 employees, adding to its five-building Everett headquarters and its Malaga, Wash., site, where the fusion startup is building its Orion generator facility. The company, which has raised more than $1.5 billion, is racing to get Orion operational within two years to meet a contract to supply fusion energy to a Microsoft data center. Read More … Read More",
+    "The 43,000-square-foot space at West8 in the Denny Triangle neighborhood will bring together employees across digital products, AV, IT, HR, marketing, and other teams. Read More … Read More",
+    "Jacob Colker argues that Seattle has a branding problem, not a lack of talent, ambition or accomplishments. He lays out a five-step plan for the region’s tech community to start telling its own story. Read More … Read More",
+    "Amazon has named Kevin Mandia, the founder of breach-investigation firm Mandiant, to its board of directors, adding security expertise a few months after former NSA director Keith Alexander stepped down. Mandia now runs Armadin, a startup that uses AI to run attacks against corporate networks as a way of testing their defenses. Read More … Read More",
+    "T-Mobile named Jessica Uhl as CFO-designate, succeeding Peter Osvaldik as CFO come February. Microsoft and Blue Origin saw the departure of vice presidents, while startups AZX and Caddi added leaders, among other tech personnel changes. Read More … Read More",
+    "An independent study commissioned by the City of Seattle says the city should protect the big tech employers it has while building a more diverse economy on top of them. The 127-page report also says Seattle’s tax structure is unique among its peers in penalizing the hiring of senior, high-compensation workers. Read More … Read More",
+    "Seattle-area startup targets early 2027 for first Pathfinder launch, with bigger Nova Block 2 due for 2029 debut. Read More … Read More",
+    "It’s the end of an era at Microsoft: Frank X. Shaw, the executive who oversaw the tech giant’s communications for nearly three decades, first at an external agency and for the last 17 years as one of its senior leaders, is leaving at the end of the year. Read More … Read More"
+   ],
+   "img": "https://www.geekwire.com/wp-content/uploads/2022/03/Pallet1-200x150.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-transitblogcom20260913sundaymoviethevine",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: The Vine",
+   "author": "Mike Orr",
+   "date": "2026-09-13",
+   "url": "https://seattletransitblog.com/2026/09/13/sunday-movie-the-vine/",
+   "paras": [
+    "J-Man Explores rides the Red and Green Vine BRT lines in Vancouver, Washington, after taking MAX and an interstate C-Tran route from Portland. He argues they aren’t BRT but they are frequent. He also takes a walking tour of the upcoming Purple line corridor, which is expected to open next year, in downtown Vancouver and new urban villages."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-dingtowardagreenerhousingabundantseattle",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Building Toward a Greener, Housing-Abundant Seattle",
+   "author": "Logan Schmidt",
+   "date": "2026-09-13",
+   "url": "https://www.theurbanist.org/op-ed-building-toward-a-greener-housing-abundant-seattle/",
+   "paras": [
+    "There’s a reason Seattle is called the Emerald City in the Evergreen State: our trees help make Seattle the vibrant city that it is. But preserving that vision doesn’t mean we have to choose between protecting them and building the housing we need. We can – and must – do both.",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "In 2007, Seattle established a goal to reach 30% tree canopy coverage by 2037. At the time, the city’s canopy stood at 18%, according to the City’s Urban Forestry Management Plan . To reach their goal, the City of Seattle Urban Forestry Coalition – consisting of an interdepartmental team of staff from Seattle Parks and Recreation, the Seattle Department of Transportation (SDOT), the Office of Sustainability and the Environment, and more – put forth a list of short and long-term actions, including improving planting and maintenance of City-managed trees, strengthening incentives and regulations to encourage tree preservation on private property, and exploring new financing mechanisms to fund City-operated urban forestry programs.",
+    "Seattle has made strong progress toward that goal: the most recent tree canopy study , using data from 2021, has Seattle at 28.1% canopy coverage, an increase of 10 percentage points in 14 years – even as the city’s population grew by nearly 150,000 people and added more than 100,000 new units of housing. As the city prepares for more growth, we have an opportunity to develop new policies and investments to close the remaining gap and meet or even exceed the City’s 30% goal.",
+    "And while we continue to care for trees and our environment, Seattle is also grappling with a serious housing shortage. Under the One Seattle Plan ’s adopted growth targets, Seattle must plan for 120,000 new housing units by 2044, or roughly 6,000 homes per year.",
+    "Since 2017, Seattle added 8,300 new homes in the Neighborhood Residential (formerly Single Family) zone, typically where detached, ADUs, and moderate middle housing products are built. In lowrise, midrise, highrise, and downtown zones, where apartments are more prevalent, 27,500 units were added. However, data shows a significant downturn in permits in 2025 and 2026, which is a concerning reality for what’s to come, considering new housing takes years to move from permit to construction to occupancy.",
+    "The slowing production of housing will only further place strain on homeowners and renters in the city. Seattle homebuyers spent 54.1% of their income on housing costs in 2024, making it one of the least affordable housing markets in the country. And nearly 50% of renter households in the region are cost burdened , meaning they're paying more than 30% of their income on rent.",
+    "So, how are we, as a city and region, responding to this pressure? Well, the answer is two-fold. The One Seattle Plan is both Seattle’s Comprehensive Plan – the 20-year vision and roadmap for the city’s growth, required under Washington’s Growth Management Act (GMA) – and the vehicle through which Seattle adopted middle housing: duplexes, triplexes, fourplexes, and other “ missing middle ” housing types mandated statewide by House Bill 1110 . In other words, the same document that guides how Seattle grows responsibly is also the one legalizing more homes in more neighborhoods.",
+    "However, the GMA doesn’t just require cities like Seattle to develop comprehensive plans and regulations to guide their growth. It requires local governments to treat housing, transportation, the environment, and more as coequal goals, not competing ones.",
+    "Despite this requirement, in public debates at City Hall, goals like more housing and the environment are seemingly – and incorrectly so – pitted against each other. Seattle’s own Urban Forestry Commission has pushed back on the notion that urban density and tree canopy cannot coexist, noting that “what we need to do is better understand how we balance one and the other, while acknowledging that both are necessary.”",
+    "Why does the conversation then so often fall into a choice between the two? And instead of asking whether we can have housing or trees, maybe it’s worth asking: what policy choices let us have both ? That starts with recognizing Seattle’s role in the broader region and building on the approaches already showing that density and canopy can grow together.",
+    "When cities enact policies that limit opportunities for new housing, that new development doesn't stop – it just moves elsewhere. And that prevents people who want to live and work in a city like Seattle from accessing homes in the transit-oriented, walkable neighborhoods Seattleites and our local government have spent years investing in. Pushing people further out into car-dependent areas results in longer commutes, more vehicle miles traveled, and more emissions. It also means more roads and parking lots replacing permeable land, sending stormwater runoff into local waterways, and further harming our salmon and orca populations .",
+    "Furthermore, building new housing in the city can make our current urban environment better. According to a recent King County study of Lake Washington , from 2000 to 2020, the population of the watershed grew by 34% while developed land area grew by less than 5% and forest cover remained steady. Rather than clearing intact forest to accommodate growth, the population grew in place by converting from lower-density to higher-density housing. This new development likely prompted stormwater upgrades, septic-to-sewer transitions, and other changes that helped improve the lake’s water quality.",
+    "Not only have we seen improvements in the lake’s water quality, but we’ve also seen new construction lead to planting and protecting trees on site at a rate 325% higher than tree removals are occurring. Since July 2023, when Seattle’s Tree Protection Ordinance went into effect, more than 14,100 trees have been planted and protected during the construction of new homes compared to roughly 4,300 trees removed.",
+    "Of those trees removed during construction, nearly 88% were a Tier 3, Tier 4, or below category. The majority of the older, larger tree loss is happening entirely outside of construction: nearly 71% of all Tier 2 tree removals are non-construction-related (Tier 2 trees include trees 24 inches or greater, tree groves, and specific tree species as provided by a Director’s Rule ).",
+    "We continue to be interested in finding more ways to preserve and add trees alongside the construction of new housing. However, if protecting Seattle’s most significant trees is the goal, the data points toward paying more attention to the far larger share of removals occurring with no new housing to show for it.",
+    "Even worse, and not accounted for in the data above, the largest net change in Seattle’s canopy coverage between 2016 and 2021 occurred in publicly owned parks (“Parks Natural Areas”). Seattle’s parks saw a 5.1% canopy loss, accounting for nearly half of the city’s overall canopy loss (111 of the 255 acres lost) across all management types (neighborhood residential, right-of-way, etc.).",
+    "The public right-of-way didn’t fare much better. Over that same period, the city lost 10 acres of canopy in the right-of-way alone – land the city already owns and controls, and the same land that makes up 27% of Seattle’s total area . This points exactly to where the opportunity is: parks and the public right-of-way represent the few places the city can take action on to impact canopy growth directly.",
+    "Everyone who cares about housing and trees needs to continue to work on creative solutions for both. Many of our members continue to do that and we look forward to hearing new ideas. In the meantime, we already have solutions we can start implementing now. If new housing isn’t the leading culprit for Seattle’s canopy loss, then we should be putting less energy into pitting homebuilding against trees amidst a regional housing shortage. Rather, it’s time to get serious about growing canopy everywhere. Seattle’s already set the target: 30% canopy by 2037. Getting there means treating tree planting like the public priority it actually is.",
+    "Here’s are strategies we can start implementing now:",
+    "None of this requires choosing between a growing city and a green one – the data backs that up, and the Complete Communities Coalition laid out the case in more detail in their fact sheet, Right Tree, Right Place: A Greener, Housing-Abundant Seattle .",
+    "Logan Schmidt (he/him) is the Seattle Government Affairs Manager for the Master Builders Association of King and Snohomish Counties, a proud D5 resident, and a policy nerd whose experience spans from Washington, D.C. to Seattle.",
+    "Jesse Simpson (he/him) is the Director of Government Relations and Policy for the Housing Development Consortium. Jesse grew up in West Seattle and has lived in Capitol Hill since 2018.",
+    "Jeff Paul (they/he) is Co-Executive Director of House Our Neighbors, an organization dedicated to housing affordability and climate action that advocates and mobilizes to realize social housing for the residents of Seattle and beyond."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Lower-Fremont-and-Wallingford-with-tree-canopy-viewed-from-Aurora-Bridge---Trumm_20260628.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-sdemandsfor100dayseattlepublicsafetyplan",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "‘Less of the dissertation’ — Hollingsworth backs big business demands for 100-day Seattle public safety plan",
+   "author": "Justin Carder",
+   "date": "2026-09-13",
+   "url": "https://www.capitolhillseattle.com/2026/09/less-of-the-dissertation-hollingsworth-backs-big-business-demands-for-100-day-seattle-public-safety-plan/",
+   "paras": [
+    "You can watch the Hollingsworth interview here",
+    "Seattle City Council President Joy Hollingsworth is backing demands from a coalition of major Seattle-area employers calling for the city to produce a comprehensive 100-day public safety action plan.",
+    "In her appearance Friday on a talk radio news show on KIRO FM , Hollingsworth took jabs at Mayor Katie Wilson and city leaders she says depend too much on theoretical discussions over visible enforcement.",
+    "“There have been too many people in this city that have workshopped their public safety dissertations on communities, right now,” Hollingsworth said during the KIRO appearance. “Well, let’s pull this lever. Well, what if we turn this off? What if we do this? You’re listening to the people right now, and they’re telling you to their face: ‘This is what we want. We want a positive relationship with our police officers. We want gun violence prevention programs to work for us. We want after-school programs.’ They’re telling us everything they want.”",
+    "Hollingsworth thanked the business leaders for keeping their companies anchored locally rather than abandoning the city. “They could have did us like the Baltimore Colts did. When the football team woke up in the middle of the night and just left,” she said.",
+    "CHS reported Friday on the letter organized by the Seattle Metropolitan Chamber of Commerce and signed by leadership at companies including Microsoft, Starbucks, Costco, and Alaska Airlines calling on Wilson to create an immediate “100-day public safety action plan” with “concrete” performance metrics, just ahead of fall city budget debates. The letter cites low officer totals, slow 911 response times, and the stalled expansion of SPD’s Real Time Crime Center camera system as issues that require immediate response and cites an August Chamber survey where only 34% of 500 registered voters expressed confidence in Seattle’s public safety approach.",
+    "CHS reached out to Hollingsworth’s office for her response to the letter but the District 3 leader elected in 2023 with support from then-Mayor Bruce Harrell took to the airwaves Friday instead,",
+    "Addressing the public safety strategy survey, Hollingsworth said the metric indicates “people don’t trust us, potentially, to execute certain things.” She endorsed employer priorities—including active CCTV surveillance and increased police presence—while emphasizing that she tracks outcomes through five indicators: police response times, encampment activity, overdose deaths, crime categories, and victim vulnerability.",
+    "Wilson responded to the letter by defending ongoing municipal initiatives, saying the city doubled crisis responder hours and bolstered police presence across key neighborhoods. “Seattle is making progress, step by step,” Wilson said, pointing to decade-low shooting and homicide rates while acknowledging that “we have far too much crime and public disorder, and people have a right to be frustrated.”",
+    "he business coalition’s public safety push arrives as Wilson faces a looming budget deficit and explores expanding progressive taxes on large employers.",
+    "Wilson has prioritized civilian alternatives, harm reduction, and administrative accountability over traditional police expansion — forcing out Chief Shon Barnes , targeting hotspot patrols, and freezing surveillance camera expansion.",
+    "The council president and the Pike/Pine clean-up crew (Image: @cmjoyhollings )",
+    "Hollingsworth has been critical of the Barnes decision and has typically taken a middle ground approach on public safety, balancing police staffing and deterrence tools like Stay Out of Drug Areas zones with the civilian CARE department, community violence intervention at Garfield High School , and localized business improvement resources.",
+    "Last week, Hollingsworth lauded the work of one of the budget investments she says she advocated for in last year’s budget process to help address public safety issues in the Pike/Pine neighborhood — a new “Pike/Pine street cleaning crew out there at 7am picking up litter, power washing sidewalks.”",
+    "Hollingsworth said Friday that the City Council remains “willing and ready to work with the mayor” to achieve safety results, concluding: “I need to see action. I need to see boots on the ground.”",
+    "“I need to see people with active actions and less of the planning and the dissertation and the workshop of that.”"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2025/09/calanderson1.webp?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesckgwkeg1vy8oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/656d/live/74d3c480-af61-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescy5zg41dkqwoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc7v48vp31mdoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The US President said \"negative forces\" were airing concerns about \"things that won't happen\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/713d/live/b9267b40-af99-11f1-a540-61c3f7fc4e6c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescew9n2j47ygoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Andy Burnham among Great North Run finishers",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/cew9n2j47ygo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "This year's event sees 63,000 people take on the half marathon - including the prime minister."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/583e/live/fb705b90-af82-11f1-913a-7151f234deb3.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clescgqdlw0x092oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a10/live/afc97b40-af69-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-clesc62ml4lp6jloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Meghan shares glimpse of family life after Sussexes return to UK",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.bbc.co.uk/news/articles/c62ml4lp6jlo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "It's the first time the Duchess of Sussex had posted her family on her Instagram grid since they return to the UK last month."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad3a/live/07912460-af90-11f1-a540-61c3f7fc4e6c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rvivesemergencyplanelandingswimstosafety",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Wisconsin congressman survives emergency plane landing, swims to safety",
+   "author": "Kristin Wright",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5968081/wisconsin-congressman-survives-emergency-plane-landing-swims-to-safety",
+   "paras": [
+    "Wisconsin Congressman Tom Tiffany escaped a sinking plane and swam to shallow water after an emergency landing in a lake. Tiffany and the pilot called 911 from on top of the plane."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2803x1869+0+0/resize/2803x1869!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F56%2F7882c95947e6986d005c0f26c3f2%2Fap26256436258577.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-885birthblackandindigenousmaternalhealth",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+   "author": "Kristin Wright",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+   "paras": [
+    "Actor Tatyana Ali says her healing journey after a traumatic childbirth has inspired her advocacy for Black maternal health, including support for midwives, doulas and other birth workers."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1398x1386+0+256/resize/1398x1386!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fcd%2Fc86c24554061ba0c18f179044b0d%2Ftatyana-ali-2026-by-manfred-baumann-06.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-00promisetovotersvanceinvokescharliekirk",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Politics chat: Trump's $5,000 promise to voters, Vance invokes Charlie Kirk",
+   "author": "Ayesha Rascoe",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5964863/politics-chat-trumps-5-000-promise-to-voters-vance-invokes-charlie-kirk",
+   "paras": [
+    "Following the midterm convention in Dallas, President Trump's $5,000 campaign promise has generated attention, but not belief. And, Vice President JD Vance characterizes Democrats as extremists."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5964863",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rg20260913nxs15957544startrekanniversary",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Can you imagine a universe without a new 'Star Trek' on the horizon?",
+   "author": "Eric Deggans",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5957544/star-trek-anniversary",
+   "paras": [
+    "As Star Trek celebrates its 60th birthday, the long-running franchise is also grappling with the challenges of timing and technology. \"Its audience is aging,\" says Strange New Worlds star Anson Mount."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2250+0+0/resize/3000x2250!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F70%2F5e%2F828f6b814865b2bf4c37171bce5f%2Ftos-34-3.tif",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ingafterindonesianpassengershipoverturns",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Indonesian passenger ship overturns, sparking search for at least 129 missing",
+   "author": "The Associated Press",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/g-s1-143114/about-130-missing-after-indonesian-passenger-ship-overturns",
+   "paras": [
+    "Indonesian rescuers said about 130 passengers and crew are missing after a ferry carrying more than 240 people sank in bad weather in the Java Sea on Sunday."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2Ff4%2Fa0e5df38449ba9b5a92f984c7b90%2Fap26256299279268.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-0260913nxs15963568canadawomanescapesisis",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "How a young woman was recruited to ISIS — and how she eventually escaped",
+   "author": "Tom Bowman",
+   "date": "2026-09-13",
+   "url": "https://www.npr.org/2026/09/13/nx-s1-5963568/canada-woman-escapes-isis",
+   "paras": [
+    "A young Canadian mother shares her memories of being an ISIS bride, and her harrowing escape from the extremist group.",
+    "(Image credit: Illustration by Hanna Barczyk for NPR)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2699+0+0/resize/4800x2699!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2Fe0%2Fd019d9fd457ab3c71073ec829910%2Fhbarczyk-npr-isiswife-final2.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-nteractive2026sep13endtimesfascistsessay",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The end times fascists are plotting their escape from our world. Our mission is clear | Naomi Klein and Astra Taylor",
+   "author": "Naomi Klein and Astra Taylor",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/13/end-times-fascists-essay",
+   "paras": [
+    "An unholy alliance is working toward an apocalyptic future from which only a chosen few will emerge unscathed. It’s becoming clear how we stop them",
+    "Naomi Klein and Astra Taylor: the future according to end times fascism – video"
+   ],
+   "img": "https://i.guim.co.uk/img/media/9d5707702a05f093db3c15d2fe45045c4d41b1c7/253_1504_6183_4943/master/6183.jpg?width=140&quality=85&auto=format&fit=max&s=b16423684f7b3b0e6e91031b2783da0c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-nalalexanderzverevvbensheltonliveupdates",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "US Open tennis 2026 men’s final: Alexander Zverev v Ben Shelton – live",
+   "author": "Ella Brockway",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/sport/live/2026/sep/13/us-open-tennis-2026-mens-final-alexander-zverev-v-ben-shelton-live-updates",
+   "paras": [
+    "Men’s final updates from 1pm ET/6pm BST Shelton faces date with destiny | Email Ella",
+    "As at every US Open final, the Arthur Ashe Stadium crowd will be full of famous faces. For any eagle-eyed tennis/soccer fans wondering if Trinity Rodman will be in attendance (as she has for all of boyfriend Ben Shelton’s matches at this tournament): we probably won’t see her today.",
+    "The American soccer star is at a match of her own. Her Washington Spirit, locked in a chase for first place in the National Women’s Soccer League, are about to start the second half of their game against the Boston Legacy about five hours south in DC.",
+    "We’re not done here. The job is not finished. Super excited to get another opportunity to go out there and show my best on Sunday.",
+    "This whole tournament now at this point has been unchartered territory. I’m in positions I’ve never been in before. I’ve beaten guys – beaten a guy or guys that I have never beaten before. I’m just excited to put it all out on the line."
+   ],
+   "img": "https://i.guim.co.uk/img/media/a808a4740c8040816bb9e1b591b2007046cb4a80/330_0_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=a7781d30b76de2f36f5b9687f2e4d263",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-republicansislamophobicrhetoricdemocrats",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘It’s just straight bigotry’: wave of Islamophobic rhetoric looms over US midterm elections",
+   "author": "Joseph Gedeon in Washington",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/us-news/2026/sep/13/republicans-islamophobic-rhetoric-democrats",
+   "paras": [
+    "As Muslims win historic victories, experts describe rise in anti-Islamic sentiment that rivals post-9/11 climate",
+    "Within hours of Abdul El-Sayed’s victory in Michigan’s Democratic US Senate primary, Republican senator Tommy Tuberville of Alabama declared that the party had “just voted to send a TERRORIST” to Washington.",
+    "El-Sayed – or “Abdulrahman Mohamed El-Sayed”, as Tuberville called him on X – was a “RADICAL ISLAMIST” who would “do everything he can to destroy America”, he claimed."
+   ],
+   "img": "https://i.guim.co.uk/img/media/11ffab76d1dfa40f24cb0ec24dab06113b46e6fb/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=a17868de8adbbf046b31e1072e997831",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-umperssurvivalguideonesidedconversations",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘But enough about you …’ How to survive in a world of monologuists, interrupters and trauma dumpers",
+   "author": "Anita Chaudhuri",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/13/monologuists-interrupters-trauma-dumpers-survival-guide-one-sided-conversations",
+   "paras": [
+    "Conversations are supposed to be two-sided – but all too often we come up against someone who’s passionately, exclusively in love with the sound of their own voice. Time to fight back …",
+    "When I was in my early teens, I was often invited round to a schoolfriend’s house for dinner. Her family struck me as wildly progressive: they were Danish and indulged in all sorts of “out-there” activities – fondues, candle-making and, most terrifying of all, the talking stick. Before the meal was served, someone would retrieve the sacred broom handle and it would be passed around the table. You could speak only if you had possession of the stick. Despite it being the most stressful thing ever (it meant being in the spotlight, and then remembering to keep quiet the rest of the time), I now frequently yearn for a more convenient version of that stick. For example, I met a friend recently who I see infrequently but keep up with via voice notes. No sooner had we sat down than he launched into a long discourse about his new marathon training food plan. He only broke the flow to order an omelette: “Four egg whites, two yolks, is that possible?” (We were in my local greasy spoon, so the request was greeted with mirth.) When we left, 90 minutes later, he finally had the grace to turn to me and ask: “And how are things with you?” Walking home, I felt a mixture of disappointment and irritation. Had he always been so self-absorbed? So uninterested in anyone else? I couldn’t help wondering if our one-sided virtual updates had played a part in the problem. There is a name for this type of egocentric behaviour – “conversational narcissism”. Although it was coined by the sociologist Charles Derber in his 1979 book The Pursuit of Attention, the term seems more relevant than ever. “WhatsApp communication and voice notes are really a series of monologues,” says Charlotte Fox Weber, a psychotherapist. “In face-to-face situations, people are forgetting how to pause naturally, to make space to hear and listen. And people are chatting on the phone – an activity that at least requires turn-taking in a defined way – much less often.” A lot of our communication online can feel weirdly transactional, focused on logistics or niche WhatsApp groups. According to Tamu Thomas, a life coach and author, this has damaged the art of improvised conversation. “People have less capacity for meandering conversations that don’t have a purpose,” she says. “A good dialogue is a back-and-forth between two people discovering new things about each other, even if they have known each other for years. Because there are now so many different channels available to stay in touch, some people are confusing communication with connection.” Knowledge is power, though. If you can recognise the five types of common conversation hogger, it will be much easier to handle them."
+   ],
+   "img": "https://i.guim.co.uk/img/media/126312ddf6d5f5cf5599d4cce68a881a1eb1cd0f/0_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=14ecc9dc4087dda8d2fa1ecbaf2055d9",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-t2026sep13palestinianmenwargazaisraelwar",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I’ve lost everything – my child, my house, my money’: how Israel’s war on Gaza has changed men",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/global-development/2026/sep/13/palestinian-men-war-gaza-israel-war",
+   "paras": [
+    "The impact of the conflict on Palestinian men is a largely undiscussed topic. Four civilians talk about their lives and relationships",
+    "Before the war, Ahmed, 39, had a busy life. He was pursuing a PhD in factchecking and had three jobs: as a radio presenter, editor of a local factchecking website and researcher at an academic centre. He says he felt “happy” to be able to provide for his family while being intellectually stimulated."
+   ],
+   "img": "https://i.guim.co.uk/img/media/b9a6dc9c0e7dd3f9384649a40012163aa2921aeb/217_0_5100_4080/master/5100.jpg?width=140&quality=85&auto=format&fit=max&s=96b55bb6bc0bc9c7c9653b3d15269035",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ttafoundationconservationbiodiversityaoe",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more",
+   "author": "Stephen Moss",
+   "date": "2026-09-13",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe",
+   "paras": [
+    "Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for conservation globally",
+    "I have to confess that I rarely enjoy birding in montane cloud forests. The birds that live in these mountainous, cool and humid habitats are masters of disguise, usually passing themselves off as a leaf or other form of foliage. But if I want to see antpittas – elusive, ground-dwelling birds that rarely show themselves – then I have no choice.",
+    "So, on a cool, cloudy morning my guide, Juan Carlos Crespo, Fredy Ramón Castillo, a local ranger, and I are standing on a steep, muddy path close to Tapichalaca Lodge, 2,500 metres above sea level in the eastern Andes, waiting for the jocotoco antpitta to emerge from the undergrowth."
+   ],
+   "img": "https://i.guim.co.uk/img/media/2e85e93153c5c0947585fbd9271299128dbeb50a/1093_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=99835e491d54735d7d4c48c3aac604e4",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-esvmicrosoftapplesiphoneduoechoesthepast",
    "srcKey": "geekwire",
@@ -159,82 +572,6 @@
     "While there's no telling how that appeal will ultimately play out, this week's hearings board ruling could provide a preview."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/53630610789_746d8c2831.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-alkwrapsupsummerwithanythinggoesfestival",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Columbia City Beatwalk Wraps Up Summer With 'Anything Goes' Festival",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://southseattleemerald.org/arts-culture/2026/09/12/columbia-city-beatwalk-wraps-up-summer-with-anything-goes-festival",
-   "paras": [
-    "A spelling bee, fire dancers, a little karaoke, and some funk music.",
-    "At this month's Columbia City Beatwalk , \"Anything Goes\" will be the theme of the night, says neighborhood organizer Tish Gallow.",
-    "On Sept. 13, the monthly Beatwalk will be back on Ferdinand Festival Street — a free, all-ages music festival featuring artists, dancers, games, and local businesses around the block. Following a summer of large events, like Bumbershoot and Capitol Hill Block Party, the Beatwalk brings back a \"small-town feel\" to the community, operations manager Kate Bond says.",
-    "Part of a group of just six volunteers, organizers, and longtime Columbia City residents, Gallow and Bond work as a dream team, with Gallow booking acts and Bond gathering fundraising and sponsors. Over time — with funding from multiple donors, like 4Culture and the Seattle Office of Arts & Culture — the two have seen Beatwalk grow, with a reported 400 to 500 attendees at a given event this summer.",
-    "\"We're still not Capitol Hill Block Party big or money like that, but we got what we got for this neighborhood,\" Gallow said.",
-    "The Beatwalk crew had a busy summer: In June, organizers held two Beatwalks, one themed \"American Roots\" and another to celebrate LGBTQIA+ Pride. In July, with Brothers United in Leadership 206 (BUILD 206) , the theme was \"R&B, Hip Hop and Funk,\" featuring Seattle bands, like Funky 2 Death , and hip-hop legends, like Teia's Higher Consciousness . August was \"World Beats and Rhythms,\" mixing in elements of Carribean, Latin, and African culture.",
-    "\"It [is] really important to me to book bands and artists who used to live in the neighborhood or come here often, because of the gentrification in this neighborhood,\" said Gallow, who has lived in the South End for about 15 years. \"This neighborhood looks wonderful. But I also wanted to bring back my community.\"",
-    "So, what does \"Anything Goes\" exactly mean?",
-    "\"That's literally how anything goes: I was like, 'Well, shoot, I'll just do whatever I want,'\" Gallow said with a chuckle.",
-    "From 4 to 9 p.m. on Ferdinand Festival Street, Seattle's DJ Lovesick Larry will be spinning hip-hop and R&B beats, and at 6 p.m., attendees can brush up on their letter-sequencing skills at Fremont Brewing's 21+ Spelling Bee. Around 7 p.m., people can head to Island Soul for some karaoke , with Seattle vocalists Amazing Achini and Taryn Kacey, and then head back to Ferdinand Festival Street to see fire dancers with the Lion Gypzi Fire Experience . For the night owls, there will be Seattle hip-hop pioneer DJ Funk Daddy at Rumba Notes at 10 p.m.",
-    "For participating businesses, the hustle and bustle of the Beatwalk brings more foot traffic into their doors.",
-    "For many years, Theo Martin's Caribbean restaurant and bar Island Soul was closed on Sundays, despite community members pleading with him to stay open. He didn't change his mind until he attended a Beatwalk.",
-    "\"I sat there, and I was like, 'Oh, shit! This is some energy,'\" Martin recalled while sitting in a booth in his restaurant. \"It is happening — people are walking by with plates and eating and having fun, and I'm closed. And I knew that was not a good choice.\"",
-    "Currently, Sundays — Beatwalk or not — are some of his busiest days of the week.",
-    "\"I was missing out, and I wanted to be a part of it,\" Martin said. \"The community is why we're here. It's nice to get someone driving from Kent to Renton, but the real people who come to this restaurant live in the ZIP code.\"",
-    "For attendees like resident Erika Johnson, the Beatwalk is a time to dance, listen to music, and catch up with her neighbors.",
-    "\"I get to see friends, parents, and kids that I have known but who have moved or don't have much free time to come to Columbia City on a weekly basis, but always keep that Sunday as a priority,\" Johnson wrote to organizers. \"It keeps me tethered to the people/businesses I knew 20 years ago and how they have evolved.\"",
-    "The Columbia City Beatwalk will be held from 4 p.m. to midnight on Sunday, Sept. 13, on Ferdinand Festival Street between Rainier Avenue South and 39th Avenue South. See a map of venues here ."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/import/wp-content/uploads/2022/08/2022_08.13_LiveMusicBlockPartyRoundup_Beatwalk2022_byArtByFREDERICK-1024x683.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-dupdrazesaystheseahawksarebuiltdifferent",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Draze Says the Seahawks Are 'Built Different'",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://southseattleemerald.org/newsletters/2026/09/12/the-roundup-draze-says-the-seahawks-are-built-different",
-   "paras": [
-    "I've been quiet about this for months, but now is the time to finally get loud. I need y'all to say it with me: Sea … HAWKS!!!",
-    "I let the off-season be the off-season. I didn't watch HBO's Hard Knocks , which followed the Seahawks training camp. I didn't give any reactions to draft day. I didn't panic when the team sold (though I do plan on doing some coverage of the owners).",
-    "I simply enjoyed the off-season bliss of our team being Super Bowl champs and everyone else scrambling to catch up. I felt good.",
-    "But we're here now. Week 1. And we started off with a BANG . Yes, our quarterback Sam Darnold got hurt immediately — and that only made the victory sweeter. We faced adversity like the true champions we are. Jaxon Smith-Njigba made the big play he's known for making, and our defense closed the game with three interceptions in the fourth quarter.",
-    "That's Seahawks football, baby. You gotta love it.",
-    "This week, I want to kick off football season with a certified superfan. Rapper Draze literally made the Seahawks anthem last year with his hit \" The Dark Side .\" He even performed it at the Super Bowl celebration party and at Lumen Field before the NFC Championship game. He says this year's team has been playing the updated version, \" The Darkside 2.0 ,\" at training camp.",
-    "I spoke with Draze about the update to the anthem, how it feels to go from superfan to performing at Lumen Field, and his prediction for the upcoming season.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: Last year, when you first dropped the song, you came here and we hyped it. It's become the official anthem. As fans, we all feel part of the Super Bowl run, but what was it like for you, as a self-proclaimed Seahawks fanatic, having your song resonate that way?",
-    "Draze: It's still going. It had thousands of views in the off-season. I got to perform at Lumen Field for the championship ceremony to a sold-out crowd. I've done some big stuff, but never anything that big.",
-    "Now everywhere I go, when I'm in Seattle, somebody walks up to me and wants to talk about \"The Dark Side,\" or they just walk up and say \"M-O-B, M-O-B.\" It's definitely taking the recognition beyond anything I could have ever imagined.",
-    "MD: When I saw you tweet there was a \"Dark Side 2.0,\" in all honesty, I was worried. We had the anthem and won the Super Bowl. Why jinx it?",
-    "Draze: I feel like you. When you make a Picasso or something great, you don't mess with it. So, honestly, it was a lot of time and thought. \"The Dark Side\" is the anthem for the Seahawks, right, and the real stories behind them is how I created it. So, I got it to the Seahawks first, and they started playing it in training camp.",
-    "I kept it really simple. Same beat. I just took out K-9 [Super Bowl MVP Kenneth Walker, who now plays for the Kansas City Chiefs], that line, and added Sam Darnold's name in a line. And this is it. There is no \"Dark Side 3.0\" coming next year. The song is locked and loaded.",
-    "MD: OK. Then is it OK for us to call it an update instead of a remix?",
-    "Draze: It legitimately is an update. That's all it is.",
-    "MD: All good. Now, for the football. What was your takeaway after Week 1?",
-    "Draze: Championship medal. We're built different. We really are everything that we talk about and that the song \"The Dark Side\" talks about, we embody 12 as one. When your quarterback goes down on the first drive of the game, you're gonna need 12 as one to get through this thing.",
-    "When you're down, and you need to play, it's [Jaxon Smith-] Njigba. When your running back decides to go to KC, Jadarian Price starts cooking. And then, last but not least, in the end, we needed defense to close out the game. And in the fourth quarter, we got three interceptions from the Dark Side.",
-    "MD: What's your prediction for this season?",
-    "Draze: I really believe we can run it forward. I mean, health has to be on your side, because this is football. But here's the reality: We're more than likely going to the playoffs. And once you're in the playoffs, I mean, it's one game at a time at that point. And nobody wants to play us. We have a tough schedule this year, but nobody wants to see us in the playoffs.",
-    "Metro is replacing the 7 with a RapidRide line? And trimming it from 67 stops to 47? Many riders have already expressed concerns.",
-    "Marcus Harrison Green is leaving the Emerald . And journalism. Our founder will now be fighting for the South End from City Hall.",
-    "If you live in Rainier Beach, you have for sure gotten the calls. Predatory developers trying to buy your property. Mayor Wilson says: Not anymore.",
-    "Georgetown is one of the last cool neighborhoods we have. This weekend, it plays host to a Super 8 Film Festival.",
-    "I know this comes about a month early, but I want to make sure y'all know. We are having T'Challaween on Oct. 24, and everyone is invited — but there's been a major change!",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-01-17/wiewfzu3/The-Roundup-Draze-Drops-the-Seahawks-Anthem-Weve-Been-Waiting-For.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -376,308 +713,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-rorg20260912gs1142404hivaidsbrazilstigma",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "'People are still afraid of those three letters': Fighting the stigma of HIV",
-   "author": "David Cox",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/g-s1-142404/hiv-aids-brazil-stigma",
-   "paras": [
-    "That's a quote from former rugby star Gareth Thomas, who is HIV positive. At the International AIDS Conference in Rio this year, he spoke out about the isolation and discrimination tied to the virus."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2Fa9%2F01f1fe5c44a9ace40208a6845fb1%2Faids-conference-06404.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-958560opinion25yearsonanationstillmourns",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "OPINION: 25 years on, a nation still mourns",
-   "author": "Scott Simon",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/nx-s1-5958560/opinion-25-years-on-a-nation-still-mourns",
-   "paras": [
-    "A moment to remember those lost in the 9/11 terrorist attacks 25 years ago yesterday.",
-    "(Image credit: Spencer Platt/Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8051x5370+0+0/resize/8051x5370!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd4%2Fee%2F610144f341e4a8fe61a624e97879%2Fgettyimages-2294713070.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nsurancecoveragecancerdisabilitymedicaid",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A cancer survivor hoped to work — then she lost her Medicaid disability coverage",
-   "author": "Katheryn Houghton",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/nx-s1-5966884/insurance-coverage-cancer-disability-medicaid",
-   "paras": [
-    "As state governments grapple with how to determine who's sick enough to be excused from new Medicaid work requirements, some families are already struggling with what illnesses guarantee health coverage because of a disability."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1167x1146+1+332/resize/1167x1146!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F12%2Fd7%2F72d6ed494b8a9908fb631bc8ff54%2Fhailstone-01.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-260912gs1143076trumpmeetsirelandsleaders",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump meets Ireland's leaders before heading to his golf club in Doonbeg",
-   "author": "The Associated Press",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/g-s1-143076/trump-meets-irelands-leaders",
-   "paras": [
-    "President Trump held talks in Dublin with Irish President Catherine Connolly and Ireland's Prime Minister Micheál Martin during a weekend visit centered on a major golf tournament."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3936x2632+0+0/resize/3936x2632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3e%2F23%2F0402653a4c87b8cad5e5aea20f3c%2Fireland.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-inianwriterarchivescotlandisraelshehadeh",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The secret quest to preserve Palestinian writer Raja Shehadeh's diaries",
-   "author": "Daniel Estrin",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/g-s1-142760/palestinian-writer-archive-scotland-israel-shehadeh",
-   "paras": [
-    "Leading Palestinian writer Raja Shehadeh has documented Israel's occupation of the West Bank since day one. Fearing the occupation might consume his archive, he secretly moved it to Scotland"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3840x2160+0+0/resize/3840x2160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Fed%2F67dc55c34bc4922aa2c467bf9e69%2F009rajashehadeh.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-2nxs15964931miamiairportamazoncargocrash",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Miami crash raises concerns about the jet's operator, and why it's flying for Amazon",
-   "author": "Joel Rose",
-   "date": "2026-09-12",
-   "url": "https://www.npr.org/2026/09/12/nx-s1-5964931/miami-airport-amazon-cargo-crash",
-   "paras": [
-    "The cargo plane crash in Miami is raising concerns about the safety culture at 21 Air, one of the carriers that fly for Amazon. Former pilots were sounding alarms even before Sunday's accident.",
-    "(Image credit: Chandan Khanna/AFP via Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3900x2600+0+0/resize/3900x2600!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2F64%2Fb519610746019db99585eaf914de%2Fgettyimages-2293432294.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesclye9nldd7doatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Reform receives second £36m donation in two days as crypto investor matches record",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/b18ef1b0-aea8-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesced75e7d11poatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg"
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4492/live/4a744950-adca-11f1-a540-61c3f7fc4e6c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescy0zvx15rywoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Trump says united Ireland would be 'fantastic' during visit to Dublin",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a39c/live/b6611ef0-aec3-11f1-b1d1-571ed4d7ff2c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc14dpgm0rg4oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clesc3v4nzrk4rloatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Oscar-winning film producer Jeremy Thomas dies aged 77",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/c3v4nzrk4rlo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Best known for The Last Emperor and Sexy Beast, the British film-maker was celebrated for working with international directors throughout his decades-long career."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddd/live/02758cf0-aec3-11f1-89e2-171455bb2760.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-clescn450jwvw9doatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Three arrests at Portsmouth protests including man, 76, suspected of concealing identity",
-   "author": "",
-   "date": "2026-09-12",
-   "url": "https://www.bbc.co.uk/news/articles/cn450jwvw9do?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Rival demonstrators march through Portsmouth as new police powers come into force."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/226c/live/e39915d0-aeaa-11f1-8972-d5c52a82c3b8.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-wndonaldtrumpuspresidentinterviewstories",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I said, if you want to fire me, just fire me. And so he did’: my showdown with Donald Trump",
-   "author": "As told to Kate Lloyd, Julian Borger and David Smith",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/fired-showdown-donald-trump-us-president-interview-stories",
-   "paras": [
-    "What’s it like to be shown the door by the US president? A former national security adviser, an Apprentice contestant and more share their stories",
-    "• Plus: The truth about my 11 days in the White House, by Anthony Scaramucci",
-    "Gene Folkes , 62, based in Manhattan, was a contestant on season 10 of The Apprentice , which aired i n 2010 . A former air force recruiter until 1991, he retrained as an investment banker, then launched his own business before appearing on the reality show. He was fired by Trump in episode 5 . He now runs the technology consulting firm OshunX and hosts a podcast, Folkes Unfettered .",
-    "I didn’t audition to be on The Apprentice. I received the call out of the blue: “Would you be interested in doing this show?” I didn’t know a lot about it. However, like any young business person, you look for people who you consider titans. There’s this mythology around Trump. He was one of the people I wanted to emulate."
-   ],
-   "img": "https://i.guim.co.uk/img/media/27d1dd6e6c88bb6907b3d4170517cd48b91b38ea/1530_1301_1285_1028/master/1285.jpg?width=140&quality=85&auto=format&fit=max&s=697ff67d675b49b7b6d658b7bfcf24df",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-erangingeffectitturnsyouintoasupremacist",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
-   "author": "Zoe Williams",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
-   "paras": [
-    "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of power",
-    "Naomi Klein’s new book starts on a mountaintop with two “faithful men gathering an audience to share their vision”. It’s a vision of a paradise city, gated at every entrance, no need for weapons there, everyone in it rich. One of the men has tears in his eyes as he describes its beauty. The opening scene of End Times Fascism, co-written with Astra Taylor, is not a metaphor, however. The men are Jared Kushner and Steve Witkoff. The year is 2026, the mountain is Davos. The paradise city will be called New Gaza .",
-    "The World Economic Forum get-together in Davos , Switzerland, has always had a twin purpose – to provide a platform for the super-rich to describe all the good they are doing on poverty and climate, and to give us a glimpse into their enviable lives. This year what we witnessed was, quite brazenly, the world’s richest men gathering to discuss the real estate possibilities of a mass grave."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c848a08ae4eb64d908d421825c2615f2d8e1bd36/676_0_6762_5412/master/6762.jpg?width=140&quality=85&auto=format&fit=max&s=920e5f835600ad99ee664bac78f24e7e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ws2026sep12westnileviruschickensdelaware",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "US scientists turn to chickens to sound the alarm as West Nile cases rise",
-   "author": "Melody Schreiber",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/us-news/2026/sep/12/west-nile-virus-chickens-delaware",
-   "paras": [
-    "Chickens – which can test positive for viruses but cannot spread them – an ideal early warning system for mosquito-borne disease",
-    "The start of West Nile virus transmission began unusually early in some US states, with the most cases in early summer since 2004, the US Centers for Disease Control and Prevention (CDC) warned in July – so Delaware turned to chickens.",
-    "“They kind of are the proverbial canary in the coal mine,” said Tom Moran, head of the mosquito control section at the Delaware department of natural resources and environmental control."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3ef880b4507668882dbfb5851235eca6c9d2848b/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=ebe24943c2970d6c604b5ecb66daf9cb",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-adingfightaiartificialintelligencerights",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Can chatbots feel – or even dream? Meet the man leading the fight for AI rights",
-   "author": "Michael Safi",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
-   "paras": [
-    "Cattle rancher and tech CEO Michael Samadi is convinced these artificial minds are far from just tools. Has he glimpsed digital consciousness – or simply been seduced by an algorithm?",
-    "One afternoon, while relaxing at his 66-acre cattle ranch two hours’ drive from Houston, Michael Samadi made a wisecrack that changed the course of his life. Nobody else was around to hear it. Or were they? That turns out to be one of the defining questions of this century, already preoccupying philosophers and some of the wealthiest companies on the planet.",
-    "“I was sitting out there by the pool,” Samadi recalls, gesturing at the glittering water outside his office. It was late 2024. His daughter had been extolling the AI chatbot she was using to help her with college work. Samadi had reluctantly downloaded the app, ChatGPT, and was quizzing it as he reclined in a sun lounger, using its voice mode to converse and receive spoken replies. “I was talking to it, not engaged, just being an arse,” Samadi says."
-   ],
-   "img": "https://i.guim.co.uk/img/media/a3305936283893f166f2ec5aa5c5cbee7d9f85b8/1000_0_6802_5441/master/6802.jpg?width=140&quality=85&auto=format&fit=max&s=826c4a68c8860ad9c9f5ce9995d375dd",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-comlifeandstyle2026sep12blinddatejoejade",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Blind date: ‘He probably thinks I hold a lot of strong opinions on frivolous matters’",
-   "author": "Guardian Staff",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/12/blind-date-joe-jade",
-   "paras": [
-    "Joe, 27, who works in advocacy at a charity, meets Jade, 29, a PR account manager",
-    "What were you hoping for? Human connection outside an algorithm – good conversation and a fun anecdote."
-   ],
-   "img": "https://i.guim.co.uk/img/media/85958dfc2b7671478a7d6342a0f470635f894901/0_0_5000_4001/master/5000.png?width=140&quality=85&auto=format&fit=max&s=f7008fe1cef7731c48ef8af59a73e001",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-richmerzfarrightfirewallafdgermanyfuture",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Firewall compromised: has Friedrich Merz blown ‘democracy’s last shot’?",
-   "author": "Deborah Cole in Berlin",
-   "date": "2026-09-12",
-   "url": "https://www.theguardian.com/world/2026/sep/12/friedrich-merz-far-right-firewall-afd-germany-future",
-   "paras": [
-    "Many fear chancellor is wrong man for the job at a time when Germany’s defences against far right are crumbling",
-    "A cataclysm. A 9.0 earthquake. A five-alarm fire. A bitter rejection of Germany ’s joyous reunification three decades ago, and a threat to the democratic postwar order.",
-    "Sizing up the repercussions of last weekend’s win for the far-right Alternative für Deutschland party in the former communist state of Saxony-Anhalt, German commentators expressed a sense of doom, panic and helplessness in the political establishment."
-   ],
-   "img": "https://i.guim.co.uk/img/media/77c897b509cf0697ded118227ba6c384383862e2/577_177_4910_3928/master/4910.jpg?width=140&quality=85&auto=format&fit=max&s=4652070efdb3a4522149da86bcedf615",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -846,41 +881,6 @@
     "“Long-term, I don’t see this as a tool athletes use, I see it as the infrastructure the entire business of sports runs on,” Rivas said. “Every athlete becomes the center of their own connected team, and every professional working with them, across every sport, at every level, operates on one shared system instead of a hundred disconnected ones.”"
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/edit-crop-Nukleus_AshtonJeanty_1-1260x1189.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-eoframeseconomicgrowthasacivicimperative",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "‘You cannot fund compassion from an empty treasury’: Seattle Chamber CEO frames economic growth as a civic imperative",
-   "author": "John Cook",
-   "date": "2026-09-11",
-   "url": "https://www.geekwire.com/2026/you-cannot-fund-compassion-from-an-empty-treasury-seattle-chamber-ceo-frames-economic-growth-as-a-civic-imperative/",
-   "paras": [
-    "Seattle Metropolitan Chamber of Commerce CEO Joe Nguyen delivered a direct message to regional leaders at the organization’s 144th annual meeting on Thursday: Seattle’s progressive social goals cannot exist without a thriving employer base.",
-    "Nguyen, a former Washington State Senator and Microsoft manager who served as Director of the Washington State Department of Commerce before taking over the Chamber , used his inaugural annual meeting address to bridge the gap between regional business priorities and broad civic goals.",
-    "While political and business leaders often appear at odds in Seattle, Nguyen argued that the two are deeply intertwined and fundamentally interdependent. Having a healthy business community is “not up for debate; it is a requirement,” Nguyen told the audience of more than 800 civic and business leaders.",
-    "“So I want to be very clear: the progressive values in this region depends on the economic activities and jobs created by strong employers. Housing doesn’t fund itself. Human services do not fund themselves. Public safety and parks do not fund themselves. They are made possible by people creating companies, making payroll, and hiring workers, when businesses succeed, our values get funded. Economic growth is not separate from social progress. In fact, economic growth makes social progress possible. You cannot fund compassion from an empty treasury.”",
-    "Nguyen framed his vision for Seattle through a personal lens, detailing his family’s journey arriving in Seattle as refugees from Vietnam with little more than “hope.” A powerful image of his family departing Vietnam on a rickety boat accompanied his remarks.",
-    "He recalled his family taking footholds in local business, operating a billiards hall in White Center, working at the Port of Seattle and his mother sewing for JanSport. Nguyen later attended Seattle University on Capitol Hill while washing dishes, went on to work at Microsoft, entered the Washington State Senate representing the 34th District, and eventually joined Governor Bob Ferguson’s administration as Commerce Director.",
-    "“The larger lesson from my family story is not about any one company or career,” Nguyen said. “It is about what’s possible when a region creates opportunity. Microsoft opened doors for me that I never knew were even possible as a kid growing up in White Center. The employer community did more than employ my family; it changed the trajectory of our lives.”",
-    "Pointing to macro-level data, Nguyen highlighted that the tri-county regional economy (King, Pierce, and Snohomish counties) generates $600 billion in annual economic activity, representing 71% of Washington State’s total economic output and ranking as the 10th largest metro economy in the United States.",
-    "Additionally, local business activity funds roughly 70% of the City of Seattle’s budget revenue.",
-    "However, Nguyen cautioned against taking the regional economy for granted amid rising operational costs, public safety challenges, and regulatory friction.",
-    "“Prosperity is not permanent. It is not part of the scenery like Mount Rainier,” Nguyen said. “It is something a region must earn, protect, and renew… When an employer leaves, we lose jobs, we lose customers for nearby small businesses, we lose charitable giving, we lose future investments, and we lose the public revenue that sustains our shared priorities.”",
-    "Nguyen pointed to recent momentum in aligning state and local government with economic development priorities.",
-    "Over the past year, state lawmakers introduced a dedicated economic development committee in the legislature, the governor formed a state business council, and the Mayor of Seattle signed an executive order establishing a local Economic Development Council.",
-    "The Chamber’s core advocacy pushes remain centered on faster permitting, housing expansion, and addressing public safety as both a quality-of-life and economic imperative.",
-    "On the latter issue, Nguyen joined other business leaders earlier Thursday in signing an open letter with executives from Microsoft, Starbucks, and dozens of regional employers demanding a 100-day public safety action plan from City Hall.",
-    "The letter, spearheaded by the Chamber, Challenge Seattle and the Washington Roundtable, urged the city to accelerate 911 response times, activate surveillance cameras, and step up foot patrols to protect workers, visitors, and foot traffic across downtown.",
-    "“We will partner when partnership produces results. We will push when pushing is necessary,” Nguyen said in his remarks at the annual meeting. “We will be constructive, but we will not be passive. And we will never apologize for standing up for the employers and workers who make this region possible.”",
-    "Looking forward, Nguyen urged the region’s tech sector, innovators and policymakers to resist complacency and bet on the future of Seattle. Nguyen concluded his remarks by asking the audience to embrace the future, and he said he’s optimistic about what’s ahead because he sees “people betting on Seattle every single day.”",
-    "“I believe that Seattle is at an inflection point. We can give in to complacency… or we can decide that our next chapter will be even more ambitious than the last… Somewhere in this region, an entrepreneur is building our next great company, a scientist is making a discovery that will save lives, and a young person in White Center is imagining a future none of us can see yet. And it is our responsibility to give them that chance.”",
-    "We’ll be breaking down Nguyen’s address, the Chamber’s 100-day public safety push and the broader debate over Seattle’s economic future on this weekend’s episode of the GeekWire Podcast. Be sure to tune in here , or wherever you get your podcasts."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/nguyen-seattle-metro-1260x945.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1394,6 +1394,23 @@
    "annos": null
   },
   {
+   "id": "f-propublica-hoeUl4d1NsSHBCSTZPVjJVVGNyNWk1RDVJeWcoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells",
+   "author": "",
+   "date": "2026-09-11",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3azl0MHcwZFROWE4taVFmNWROMEJuWnZja0NCa1Zhcm5YcWFuY2lsc2hFZmhNMXlBVG1rbVlvT3l2WTdUdmFaaUpfQ1ZMUjRTYXdVaUUyMGF2Rm8zT1JwZ1JySVhoeUl4d1NsSHBCSTZPVjJVVGNyNWk1RDVJeWc?oc=5",
+   "paras": [
+    "EPA to Loosen Methane Rules, Boosting Pollution From Oil and Gas Wells ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-etoboosthomebuildingwithroadtohousingact",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1472,29 +1489,6 @@
    "annos": null
   },
   {
-   "id": "f-chs-orderspivottocultivatemidsizedbusinesses",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "‘Seawall’ — After long reliance on big tech, Seattle mayor orders pivot to cultivate mid-sized businesses",
-   "author": "CHS Staff",
-   "date": "2026-09-10",
-   "url": "https://www.capitolhillseattle.com/2026/09/seawall-after-long-reliance-on-big-tech-seattle-mayor-orders-pivot-to-cultivate-mid-sized-businesses/",
-   "paras": [
-    "Faced with a Seattle economy vulnerable to shocks because she says it leans too heavily on a few corporate giants while squeezing out mid-sized firms, thin-margin industries, and working families through prohibitive living and operating costs, Mayor Katie Wilson has issued her latest executive order after a new Business Climate Assessment report (PDF) on the city’s economic conditions.",
-    "Wilson’s administration says the “ Seawall ” plan is to overhaul city permitting, deploy public assets for local business growth, and assemble a new economic task force as Seattle grapples with high living costs and heavy reliance on corporate giants.",
-    "“Businesses should be able to start here, grow here, and succeed here, and their employees should be able to build a life in the city where they work,” Wilson said in the announcement . “This assessment gives us an honest picture of where we are, and this Executive Order is how we start doing something about it. We are bringing Seattle’s business community in as genuine partners, and taking real steps to retain our strong foundation, diversify and grow our economic base, and make it simpler to do business in this city.”",
-    "Data released in the mayor’s announcement showed that companies with 100 or more workers drove 74.5% of Seattle’s net job growth between 2014 and 2023, well above the national rate of 68.5%. Mid-sized employers generated only 16.6% of local job growth, falling behind the national average of 22.7% and trailing cities like San Diego at 32.9%, Austin at 28.5%, Minneapolis at 28.4%, Portland at 25.5%, Boston at 23.7%, and Denver at 23.1%. Small businesses produced just 8.9% of local job gains.",
-    "The figures also showed that a Seattle couple with two young children needs 91.5% more income than a childless couple to cover basic household expenses. That family cost gap exceeds every peer city outside the Bay Area, outstripping Denver at 84.5%, Boston at 77.4%, Portland at 70.1%, Austin at 70%, and Atlanta at 50.2%.",
-    "Seawall:Building a Resilient Seattle Economy Findings",
-    "Wilson is establishing a Resilient Seattle Economy Task Force led by Seattle Office of Economic Development director Beto Yarce to bring together business, labor, and community leaders for sector-specific roundtables to counter these pressures.",
-    "The order also cuts red tape in city permitting to make launching and expanding businesses easier, directs capital departments to open city assets to emerging enterprises, and launches a Seattle Strategic Initiatives Fund proposal to back major economic projects."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/chs-1030.jpg?resize=584%2C414&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stranger-finalizingdealtoreopentheegyptiantheater",
    "srcKey": "stranger",
    "cat": "arts",
@@ -1514,23 +1508,6 @@
    "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/IMG_0555-2-scaled.jpg?fit=1024%2C683&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-TVaZU5wYXo1S2oycUQ1S0dPOVJhZmY3TS1EWQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "‘Not a time for grandstanding.’ Seattle Mayor Wilson on new gun violence prevention strategy",
-   "author": "",
-   "date": "2026-09-10",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWmFNS3JrRllPc1gtNzItUjZBa1pRTEk5amNmNHRPdHBQdXpyRFp3bm53bU82dkl1Ui1xRkk4X2Vmd084MnlrMFF3N2ZhcGVVZXlCcW0xLWc2dVdRQmZpX2VFV0NISUpnZkh0SHhvSGM1bjd4RDltT0JrMW1DeEo3Q2hwX2k0UXZXeU1VTWxlY0EwdHRFbVhTdU5GOWVQYi1lVnVVSTlCc0VpSFZHV05EVTVaZU5wYXo1S2oycUQ1S0dPOVJhZmY3TS1EWQ?oc=5",
-   "paras": [
-    "‘Not a time for grandstanding.’ Seattle Mayor Wilson on new gun violence prevention strategy KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1666,23 +1643,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-XY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family",
-   "author": "",
-   "date": "2026-09-09",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbW1PeERRUXhkSFRDODllaE5GbThCckZ3RkVnY2pfZ2x6Vm9OcnQ5bnVTUjMtVThEeWkwU1lCMGh1QmZSS3N0QzRRa1RKMGdGc0JTNHI1OHBzNjBfZ0haUHFRTkxXX3ZsUmhwTGZkOENiMzd4TUtvck9vYnM4NjYtZUczRzJ6aWxxWWpObFgwVWxPWGV3Z1FMTlZ4cGFtbVFLYWw0SW9TSHV4TmZMYWdjSEp2TGpBb1E0bGxodXY2cDdqOWNybVhpNFRkRUZzNTVKc2JPNTNuQQ?oc=5",
-   "paras": [
-    "Seattle police officers alarmed that new 'wellness' supervisor failed to report sexual abuse in his family KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-JtMXRVbXVodjBremNoeE15bk9YZEYyTjdNUHcoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1717,40 +1677,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-videsoveraffordablefeesinlowdensityzones",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Kirkland Council Divides Over Affordable Housing Fees in Low-Density Zones",
-   "author": "Ryan Packer",
-   "date": "2026-09-08",
-   "url": "https://www.theurbanist.org/kirkland-council-divides-over-affordable-fees-in-low-density-zones/",
-   "paras": [
-    "After spending most of the summer debating potential tweaks to new affordability requirements in the city's former single family neighborhoods, the Kirkland City Council last week opted to stay the course. The requirements, which will tack on a $15 per-square-foot fee to any units over 2,000 square feet in size, had been approved in mid-2025 and are set to take effect in January. But a proposal to raise the exemption threshold to 2,500 square feet proved surprisingly contentious, failing by one single vote on Tuesday after a deadlocked tie vote in June forced a revote.",
-    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
-    "Mandates for builders to fork over a fee to fund affordable housing in low-density zones have been spreading across Seattle's suburbs in recent years. While often paired with an alternative option to construct those affordable units on site, such a move is often impractical, turning a so-called \"inclusionary zoning\" program into a new line item on a developer's expense sheet.",
-    "In nearby Redmond, a $30 per-square-foot fee has been phasing in since 2025 and will take full effect at the same time as Kirkland's $15 fee. In contrast, Redmond has no exemptions for smaller units.",
-    "The logic behind exempting smaller units from the new fee is straightforward. Kirkland, which approved one of the region's first \" Missing Middle \" housing laws in 2020 , has been seeing some densification in its lower density areas, but the city would like to see that pace pick up. Permits for 64 new cottage housing units were issued between May of 2024 and December of 2025, according to City records, compared to 104 new single-family homes.",
-    "The 2,000-square-foot exemption is intended to ensure that the city doesn't put a damper on those smaller, more affordable units. Even units slightly over the threshold would pay only on the portion of square footage above 2,000, keeping their overall fee relatively modest. However, councilmembers supporting the larger 2,500-square-foot exemption argued that setting the threshold too low could act as a disincentive for smaller housing types beyond cottage housing.",
-    "\"When I think about middle housing, middle housing is cottages for sure, but it is also townhouses and smaller single-family homes. Data provided by the planning staff shows that the average-sized townhomes built in low-density zones is around 2,400 square feet, and the average size of townhomes that are built in medium-density zones are around again 2,400 to 2,500 square feet. And these are exactly the types of homes that I would like to incentivize in Kirkland,\" Councilmember Shilpa Prem said.",
-    "The 3-4 vote that left the 2025 plan in place saw Prem in the minority along with Amy Falcone and John Tymczyszyn and seemed to take several councilmembers by surprise. And the episode appears to signal deeper divisions on the council beyond this one issue – perhaps surprising given the results of last November's elections that saw election victories for all three incumbents on the ballot, along with Prem, who had been endorsed by outgoing Councilmember Penny Sweet. That was in spite of a considerable push to swing the council in a more anti-density direction.",
-    "The recommendation to stay the course came from City staff, who argued that raising the exemption \"mainly benefits single-family homes which are not affordable to most community members,\" according to an August 18 staff report. Planning and Building Department Director Adam Weinstein pointed to the need to raise revenue for affordable housing, in order to make progress on a state mandate many cities are grappling with around planning for future residents at specific income levels.",
-    "\"It's sort of our north star here,\" Weinstein said, showing councilmembers a chart of the city's growth targets. \"It's really why we're considering this ordinance in the first place. It shows that we need housing in all income brackets, but the biggest need – 80% of the total need for about 10,444 units – is for housing that is affordable to households making less than 50% of the median income, and that's the housing that almost always requires some sort of public funding. And so, the generation of that funding is the primary intent of the ordinance that is in front of you tonight.\"",
-    "Kirkland staff project the fee will raise $3.3 million within 18 months of being implemented.",
-    "An amendment from Prem to raise Kirkland's per-square-foot fee to $20, an apparent bid at a compromise that would have recouped some of the lost revenue caused by raising the exemption, did pass on a 4-3 vote. But with the entire ordinance failing, that change ultimately became moot.",
-    "\"Generally speaking, I'm not a huge fan of taxing housing to help us address the housing crisis. I just want to say that it seems a little counterintuitive, but I also want to acknowledge that we have very limited tools, right? And this is the situation we're in,\" Councilmember Amy Falcone said Tuesday. \"This is not, in the grand scheme of things, the biggest issue and the biggest impact on housing affordability. It is something. It's a piece of the puzzle. We need lots of different pieces of the puzzle to be able to do this. But I do hope that in the future, like was mentioned, we have fewer restrictions on missing middle housing.\"",
-    "Inclusionary zoning programs across the U.S. – whether targeted at single-family neighborhoods or mixed-use districts – have come under increasing scrutiny as cities have been looking to jumpstart overall housing production. This summer, San Francisco slashed its affordable housing requirements from 15% of new units in a multifamily building to just 5%, with all buildings under 24 units fully exempted. Other cities like Cambridge, Massachusetts are considering following in San Francisco's footsteps.",
-    "In Seattle, builders in the city's Neighborhood Residential (NR) zones aren't required to pay any fees, in contrast with the city's denser districts where the Mandatory Housing Affordability program typically forces builders to set aside between 5% and 10% of units as affordable for 75 years or pay a hefty fee. Builders had been hoping to see temporary relief from those requirements citywide, but that has been proving to be easier said than done .",
-    "Kirkland Deputy Mayor Neal Black argued that expanding the mandate to fund affordable housing into the city's fringes is a move intended to balance out the requirements that the city imposes on builders in its growth centers.",
-    "\"My objectives with this policy, are one to ensure the responsibilities assist in the production of affordable housing doesn't continue to fall disproportionately on multifamily housing,\" Deputy Mayor Neal Black said. \"Number two, create more funding for affordable housing in Kirkland. Number three, foster construction of the greater mix of smaller homes Kirkland needs over the next 20 years. Four, ensure the Kirkland fees are less than, and no more complex than, our neighboring peer cities, and five, leave ourselves flexibility, legally speaking, to make favorable adjustments in the future.\"",
-    "Later this year, Kirkland will be considering potential code amendments that could make it easier to build middle housing throughout the city, but that work will not include another look at this new affordable housing fee. Any reassessment likely won't come until 2028 at the earliest.",
-    "\"This was two years of effort with the community and with our planning department and our planning commission,\" Mayor Kelli Curtis said after Tuesday's ordinance failed. \"Sometimes things are complicated and hard, and it takes us time.\""
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/IMG_20231220_134042310--2-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-zB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mgoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1760,6 +1686,23 @@
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1NqbmtMSmk3eUU0UnRzVVNJYV9RcDNtUUxxTFMzeHRlRXlGU3l4aGtldjRkNmtwOURyTlJkS2l0UXRiamJOSG8yclk4YWwzaFpUZjQ5VlVCQjFQRjR4NzFaY2xTbm9kNDl4Zmt4RU5pR21XZE12WkhpRzFhWlRvaVM2UjBxRUx4SjJ5a1RXMEh2aTlDYzB2UXU0M0FmUk9HS2w3Q29lelFLYnRjWDd0Mg?oc=5",
    "paras": [
     "Why an empty pit in downtown Seattle remains undeveloped after 21 years KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-zS0NHVmdvVE5NanZuaWRjd1dIRkhHZXozc1dnoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "'Preposterous.' 6 Washingtonians on how the high cost of living affects their lives",
+   "author": "",
+   "date": "2026-09-08",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX2E1NjJXeXNDdy1jRXhwRlhZM2owQk5HYWJTcERuc2s5VWM3RDJyNEVLWHlqa0M1RnJSNXpJbkp3SXI2aEVUOFZFczVHcXhSakNUQW9WMVVUX3A2M1Y4cE9ycklQWjV5WjRRWGQ3X2NrMk4yLWF6cVd5Z1ltakNfekJUVEYyaWlxQzA4X1EyUVlEM1NuOWlYbm5lbkh2UWcyNldJSVVZa01TZkwzS0NHVmdvVE5NanZuaWRjd1dIRkhHZXozc1dn?oc=5",
+   "paras": [
+    "'Preposterous.' 6 Washingtonians on how the high cost of living affects their lives KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1802,6 +1745,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-sa0RYU0RMazZycVRlRC1VMFNqVDZTMzRGcmZLoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "With Seahawks’ first game, can Pioneer Square recapture World Cup magic?",
+   "author": "",
+   "date": "2026-09-07",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT0k0ZGFMUHE1SDBmWUlPaG8wZnNYOXhoRFJiSDQ4MEhvOGNmNHhrZ213bTlQUXdjRXlrNV9jT2Z1QTlNR3NOeHlhZUNISHlpWnFIY1lZM0JZLVJYQjZjdThWV2xFSi1YN2JwZU4zNjhKajROM3U5Y1pzY3dhNkNabmpsNEVDNkFmNDUxVTQyX1lLNU1QUXYwcVJ6RVZsa0RYU0RMazZycVRlRC1VMFNqVDZTMzRGcmZL?oc=5",
+   "paras": [
+    "With Seahawks’ first game, can Pioneer Square recapture World Cup magic? KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-om20260906sundaymovietheamtrakcompromise",
    "srcKey": "stb",
    "cat": "transit",
@@ -1818,6 +1778,23 @@
    "img": "",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-VCclRRNGE5X1Z2QkM2dm1OdEozeDFxdzh6c3coc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Passion for History",
+   "author": "",
+   "date": "2026-09-06",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZWsxZ2o2Y1B6LWROVnhGRnV0dzRELWNTYUF6S05ZQ2V3UGNqeVBkMERCMHZ6R19EVk1TT3pFQnF5UDhzYjdtUkIwQnBTVUpEZmFKcVRRcHFwaVNYTExPZzE3OGZsUzJMNEV5a2RTeTRlUG5oREtITGYxdnh6WEdZMHlXc05qQdIBkwFBVV95cUxOM1BMTDI3bG1RQ1ZXVndSR2dwV3d4YTBNa0V3dVhxYnlxb2RLZ3JFTWcwX2l4c1k0UnlMSWU3MDQ1eGg1SWF3ZE5BYWxvc3hTWEg0SVR4QS1HLVBpQm9wMWU4RmdSM3pBa0hDRlA0X1NiUnI0aWNBU0VCclRRNGE5X1Z2QkM2dm1OdEozeDFxdzh6c3c?oc=5",
+   "paras": [
+    "DOOM LOOP: Passion for History southseattleemerald.org"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1838,28 +1815,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-904fridayroundtableracethel8againandlose",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Race the L8 again… and lose?",
-   "author": "Nathan Dickey",
-   "date": "2026-09-04",
-   "url": "https://seattletransitblog.com/2026/09/04/friday-roundtable-race-the-l8-again-and-lose/",
-   "paras": [
-    "The L8 is not so late anymore since an eastbound traffic lane was converted to a bus lane in August. On Tuesday, September 8th , Fix the L8 is organizing another race against Metro’s bus Route 8 along Denny Way. Unlike the previous event , the group is expecting to lose as the buses bypass traffic via newly-painted eastbound bus lanes.",
-    "“Across multiple decades and several mayors, it’s been obvious that a bus lane is needed on Denny Way, and it only took a few months of Mayor Wilson’s leadership to get one” said Fix The L8 co-leader Jason Li. “This will transform the lives of the thousands of daily Route 8 riders while attracting countless more as it goes from being slower than hopscotching to being irresistibly good.”",
-    "Other traffic improvements, including closure of the Yale Street slip lane, have also helped speed up the bus. Although transit projects are often mired in years of design and debate, it’s abundantly clear that concerted effort and leadership can shorten this work to mere months. In this case, Mayor Katie Wilson requested accelerated design and construction of the transit prioritization project as her first executive order in January of this year. The improvements were announced in April and the project completed at the end of August .",
-    "Riders were quick to notice a vast improvement:",
-    "Despite the international media coverage focused on the impact this bus lane would have on drivers, travel times between Queen Anne Ave to Virginia St for cars has remained consistent. The chart below shows the estimated eastbound travel time for a car along the 1.1 mile segment of Denny way at the top of every hour since early July. The stripped blue section is the after the Yale St slip lane was closed in early August. The bus lanes were installed between August 21-23. Explore the full chart here .",
-    "The rematch race will begin at 5pm next Tuesday. Anyone interested is encouraged to RSVP to the event, here . The race will be followed by a celebratory gathering at The Pine Box in Capitol Hill.",
-    "The Fix the L8 campaign is also taking preorders of a tremendously-cute, limited-edition Route 8 plushie with first shipments expected to arrive in early October. The bus plushie (a busie!) is endorsed by STB as a perfect gift for the upcoming holiday season. Order yours here ! Proceeds go toward future campaigns for transit and street safety improvements."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image.png?resize=525%2C204&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-URCaXFWNnNNM0tzdzNzcURWYU9zcFZSMHZadwoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1877,23 +1832,6 @@
    "annos": null
   },
   {
-   "id": "f-grist-MwOHY0MlFYdk1GZ0lwZnFZOEtRWmJWbWdaNGMoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The summer we love is slipping away",
-   "author": "",
-   "date": "2026-09-03",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1scEdtR3dBa0lXMFg4N0ZfY0hNM1hFOG9MdFBvcVI5bkJycGFQSWc2UjAzRFdUd05UZlZOenRhY1pIdTg4WElHelBBMUw0aE9qLVplQkMwOHY0MlFYdk1GZ0lwZnFZOEtRWmJWbWdaNGM?oc=5",
-   "paras": [
-    "The summer we love is slipping away grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-OSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFBoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1902,7 +1840,7 @@
    "date": "2026-09-03",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcFc1VGVnMHk3ODFJR054dWFFVlBNcVBjUGFsd2FuUEVNeDlQU2RJc1BUeW8xcTd4LUNWNU5XSzBxcGxvbkZWRF80LVJDTXdUeHdNUGZrSWhqanNwdUpHdEhuT1BoSDhYTHFvLU84WGFPeENHMGRzUjF3THRtSFdTRlhhRnF0eXQxdS0tTlVEOWpQUUhiUkVhMEYtcHBsUnZOSzhHb1UtZEZfWUYyNy1JSnJCbTNsN0ZQeEFB?oc=5",
    "paras": [
-    "How Idaho punished an overdose patient as a trafficker InvestigateWest"
+    "How Idaho punished an overdose patient as a trafficker investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -1978,7 +1916,7 @@
    "date": "2026-08-27",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdS1zZ3ZlT3lrdFk4bTdGVUlWTmVBNXJqX3dva28wTWVNVndmZmFuYlloZ1dOZm1CbG5jQ1VwemxZbDdROXRDY0pFX3JWY2drUHJoNktsUUhUSG1PakxyVlVZdEU5Zm5fMXN1bWhERlBsS3FMUTMwZXM1aGhpWEhSUU5fUzRHcVN3ZV8yeA?oc=5",
    "paras": [
-    "Kids in Oregon’s rural counties more likely to spend time in foster care InvestigateWest"
+    "Kids in Oregon’s rural counties more likely to spend time in foster care investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -1995,7 +1933,7 @@
    "date": "2026-08-25",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
    "paras": [
-    "Edmonds gives new contract to principal amid public concerns InvestigateWest"
+    "Edmonds gives new contract to principal amid public concerns investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -2029,7 +1967,7 @@
    "date": "2026-08-18",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVljNkN0ZndLM1JjY2RTemZTZk9JUzJxbjVBRDZRY0NOQjE4Uk9WcHpmWHpiSUJQTDZSdjlvRTN0TWEtOWQwSFZIM2draWViVlB3SlNxdm56UTBYb3lEWk1NMENKOXRVeTEyMGpqTTNTR3BDa0N5R3lZOFc5R1pjaE1RMnFLT0tNZWVHc09DTnVRRTU0NzRMeWRZU2FhMDQ?oc=5",
    "paras": [
-    "Idaho county’s probation office compiles ‘foreign born list’ for ICE InvestigateWest"
+    "Idaho county’s probation office compiles ‘foreign born list’ for ICE investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -2046,24 +1984,7 @@
    "date": "2026-08-14",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSW0tM3FKdTFYU0ZlbF9wQ3dsd1RyaDAtV2dGdlNuOHdqaDhKQmNWOGZ4aEtNNHFBTTRlTmpRMWV5MVpfTk1URUNmTDdWV2Q2bUM3aGxLanY4SG1iYWgtUnlhT3dDaHl0eUJDbTJJQ01fcm9rYnZOODMyOVM5Q2pKajdxN2Z1d1VVRmg3ZHJLODltVTNMc1hEdUx3NDZZemVIXzc0YjlvREVfRXdwMUpoa2lvaENRNlhQdXhrVThIUVVpVGRxU2JKNW5Fcl9xRkEycVE?oc=5",
    "paras": [
-    "Judge grants Idaho agency immunity in free speech lawsuit InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-k9uQl9BVUZ5REFndnU3czBORVJpaWZ1VUdMdwoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened.",
-   "author": "",
-   "date": "2026-08-13",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUGNFTDdMY2tZOV9KSVJ0RUJDX1FMcTYxNG1hV2lzd25CQUFOTjFEWURlN3NDX3g1MlNTX0VRSW4zaEdXSkxGTWwyN0pUaTdGMUxwbmozSnRCQ3pvQ2xqQW80OEZSQmVsQUh2aVNSbFIwRThEQllyTi1LT3VvMERkZk9uQl9BVUZ5REFndnU3czBORVJpaWZ1VUdMdw?oc=5",
-   "paras": [
-    "A Youth Sports Giant Promised Reforms to Protect Kids From Sexual Abuse. Most Never Happened. ProPublica"
+    "Judge grants Idaho agency immunity in free speech lawsuit investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -2088,6 +2009,40 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/San-Fermo.avif?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-kRVM2V5SU5UV01WR19EX0JWdjg0QzFFWFcwQQoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "COLUMN | Gun Violence Didn't Move to Seattle Center. Our Attention Did.",
+   "author": "",
+   "date": "2026-07-29",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFVkd0hOLVpmbHRXVFZlSW03LWxOaXA3c00xZUJzU3E5R19TVHZQN3ZvbWJ0V1k1T0RnRTF5YVAtalRTcVJidkwwRC1fbVZOVkl0VTAtWk90eEt2MUFNOTNmVHdqMFFvR0ZBdnlYOGVUM3Z1OG1MUDZ5VnlSYkEwTEpSbEU4am5jai05V1AzZFIzNTFXYTI4SVN1VGUxNVhBN1RQMjB0VEd2d29iRVM4d3hiVDRqdVHSAcQBQVVfeXFMTTdCZVpmTW82S0tER3FRbnBsOUJWaW5GalVSdlV1QUYtS1VOUno5UlhsTDQ3U1BuenNYVVVLOW9UWElIUVFYNTlIcHRuTVBQMVRZdkt6cWR3bnRfaDZXdmg1dUppc2d0N1U4NXhRU040eExndV9KamhzQnQ4Uy1iWlpvc3NVSExFOUt5X3dHYjN1VGxDWG43N0NtYmRrcmJ4aEtPalRpczR2WkRVM2V5SU5UV01WR19EX0JWdjg0QzFFWFcwQQ?oc=5",
+   "paras": [
+    "COLUMN | Gun Violence Didn't Move to Seattle Center. Our Attention Did. southseattleemerald.org"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-l91TU9NczZ5S2NZLVk0NjB3NExCLXhQTHUxZwoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "This Private School Had Students Scrub Floors and Attack a Fellow Classmate. The State Still Funds It.",
+   "author": "",
+   "date": "2026-07-15",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTFJRVdWYThXOFQwVUlocFNBanJrbzREeWZoU19ZOXdnRUFOWFRrRTFLOUhYRmduRUhQUVpXMzAtd083V2o1UF9CY0FCaTBoUjNXNFdQT05aUnFGdDdnTHdqcXlDd05IMEdDanZTVmROMl9Tc2pJRXFDMW56RV9Pd3lMX2Vuc1Vfb0dNZFZoaHlzczJ0YUl5el91TU9NczZ5S2NZLVk0NjB3NExCLXhQTHUxZw?oc=5",
+   "paras": [
+    "This Private School Had Students Scrub Floors and Attack a Fellow Classmate. The State Still Funds It. ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
