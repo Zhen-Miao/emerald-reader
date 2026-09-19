@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-18T18:44:43.249Z",
- "builtFor": "2026-09-18",
+ "builtAt": "2026-09-19T18:17:34.096Z",
+ "builtFor": "2026-09-19",
  "builtHour": "11",
- "count": 78,
+ "count": 79,
  "sources": [
   {
    "source": "bbc",
@@ -41,7 +41,7 @@
   },
   {
    "source": "grist",
-   "count": 2,
+   "count": 3,
    "via": "google-news"
   },
   {
@@ -87,6 +87,558 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-obertsonthefutureofbuyingandsellinghomes",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "AI meets real estate: Zillow engineering SVP Toby Roberts on the future of buying and selling homes",
+   "author": "Todd Bishop",
+   "date": "2026-09-19",
+   "url": "https://www.geekwire.com/2026/ai-meets-real-estate-zillow-engineering-svp-toby-roberts-on-the-future-of-buying-and-selling-homes/",
+   "paras": [
+    "Zillow launched 20 years ago, and we’ve been covering the Seattle-based company since before it had a name. This week, we’re looking ahead to what’s next in real estate and technology.",
+    "On this episode of the GeekWire Podcast, recorded live at Atmosphere Seattle overlooking Lake Union, Zillow Senior Vice President of Engineering Toby Roberts joins us to talk about what AI is doing to the business of buying and selling homes.",
+    "The show was recorded in partnership with Real Estate At Work , the networking group hosted by Leka Devatha , a broker with Real Residential and founder of the redevelopment firm Rehabit Homes , in front of a room of brokers, investors and technologists.",
+    "Listen here, or subscribe on Apple or Spotify , and keep reading for highlights.",
+    "AI agents and real estate agents: Roberts called AI “a complete watershed moment” that “has changed the full ecosystem” of buying and selling homes.",
+    "His position is that AI agents will work as a copilot for real estate agents rather than replace them. He cited what’s already happening inside Zillow’s CRM for agents, where the company has built conversation summaries and follow-up prompts, such as where the loan stands, whether the customer has submitted their documents, and what the next step should be.",
+    "But there’s still the human side of the business, with Roberts noting that 50% of people cry at some point during a home purchase. It’s the biggest transaction many people will ever take part in, with huge financial and personal stakes, and that’s the part of the job that still needs a person.",
+    "If the AI agents can do more of the grunt work for real estate agents, he said, “they can spend more time focused on that human connection that has to exist in this really scary transaction.”",
+    "Real or AI? John raised a New York Times story published days before the show, on listing sites filling up with fake fireplaces, enhanced views and virtual landscaping. Roberts said listings “should accurately represent the state of the home,” noting that fake fires in fireplaces predate AI, going back years to Photoshop.",
+    "In July, Zillow said on its site it “supports clear disclosure when A.I. is used to materially alter a listing image” and that “where possible, believes consumers should be able to view the original content alongside the altered version.”",
+    "Zillow does offer generative AI on the buyer’s side, where a shopper can restyle a listing photo to see the room a different way. Roberts said the point is that the buyer chooses it, rather than the original photo being altered before anyone sees it.",
+    "Zillow and ChatGPT: The company was a launch partner in OpenAI’s app store, which John tried the day before the show. He clicked to request a tour inside ChatGPT for a home on Whidbey Island, and a human agent called him two minutes later with no idea that the lead came from a chatbot.",
+    "Asked about the integration, Roberts said it’s still early, but the people who show up that way are serious about buying. Zillow built its own map inside ChatGPT, pins and all, and those leads reach agents the same way they would from Zillow’s own app.",
+    "One big consideration was security and permissions. Zillow connects to ChatGPT through MCP, the Model Context Protocol, the standard that lets a chatbot plug into an outside service.",
+    "It was still new when Zillow started, and the sign-in and permissions pieces were “still very much in its infancy,” so Zillow had to build some of it itself. Because the company originates mortgages, it also has to follow fair housing and fair lending rules, which he called “an absolute must.”",
+    "AI inside Zillow: Roberts runs Zillow’s core technology initiatives, with a team of more than 650 engineers. He shared some of the numbers on AI-assisted coding inside Zillow: 97% of engineers are using the tools, and code is reaching production about 40% faster than in the past.",
+    "But even as engineers write more code, other engineers still have to review it. Roberts said that code review process is the next thing Zillow needs to speed up, “otherwise, we inundate our developers with just reading more and more code reviews, day after day.”",
+    "Roberts said Zillow hasn’t made the wholesale shift to small, self-contained teams that some have predicted. Instead it has placed AI champions across every part of the company, and set up internal groups where employees compare what worked and what didn’t.",
+    "It has also built a way for teams to share AI skills across the company. Roberts’ example was a financial calculation that comes up over and over. A team can build one skill and share it, so Zillow isn’t running “different, conflicting, and competing” versions of the same math.",
+    "Then it’s the GeekWire Trivia Challenge: We present four extraordinary Zillow listings for unusual buildings that were converted into homes. Three are real. One is an AI deepfake. Check out the handout here with the four listings, and see if you can tell the difference.",
+    "Audio editing and production by Curt Milton."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/realestate-montage.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-eneedsmorethana10minutewalkorrolltoapark",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Seattle Needs More Than a 10-Minute Walk or Roll to a Park",
+   "author": "Rebecca Bear",
+   "date": "2026-09-19",
+   "url": "https://www.theurbanist.org/op-ed-seattle-needs-more-than-a-10-minute-walk-or-roll-to-a-park/",
+   "paras": [
+    "Seattle is nationally and internationally recognized for its park system. By one widely cited metric, nearly 99% of residents live within a 10-minute walk or roll to a park. That achievement deserves recognition; ensuring that almost everyone lives near green space is an important planning goal, and one the City should continue to prioritize.",
+    "But proximity is only part of the story. As Seattle plans for significant population growth under the Comprehensive Plan, we should ask a harder question: Is park space equitable, accessible, or equipped to serve kids and families who rely on it?",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "A park can be within a 10-minute walk or roll and still be difficult or unsafe to reach because of dangerous intersections, steep terrain, missing sidewalks, or barriers created by major roads and industrial corridors. This is especially important in the Duwamish Valley, where highways, freight routes, rail lines, and industrial land uses can separate neighborhoods from nearby open space.",
+    "Seattle’s parks can also be overcrowded, inaccessible to people with disabilities, culturally unwelcoming, or lacking in basic amenities like bathrooms, sports fields, shade/tree canopy, playgrounds, barbecues, benches, and tables. Under today's standard, these parks still count in the walk score even if they fall short of meeting the needs of the surrounding neighborhood. The same report that highlights Seattle’s high number of residents living within a 10-minute walk or roll to a park also shows that access to parks is not distributed equally.",
+    "Residents in neighborhoods of color have 32% less park space per person than residents in predominantly White neighborhoods. Residents in low-income neighborhoods have 51% less park space per person than those in higher-income neighborhoods. Meanwhile, Seattle ranks near the bottom among the nation's 100 largest cities for several park amenities, including sports fields, recreation centers, bathrooms, and basketball courts.",
+    "None of these shortcomings are captured by that 10-minute walk measurement. Seattle should ask whether residents can safely reach parks, whether those parks provide the amenities families need, and whether investments are reaching neighborhoods that have historically had fewer high-quality recreational opportunities.",
+    "Take the South Park Community Center, which requires crossing the highway on one of the few footpaths to reach the area and offers an opportunity for additional tree shade around the turf field and playground. The metric also fails to tell us whether the park system is keeping pace with population growth. Seattle currently provides about 8.3 acres of parkland for every 1,000 residents. Other growing, high-density cities provide substantially more. Denver offers approximately 9.9 acres per 1,000 residents, Washington, D.C. provides 11.8, and Minneapolis offers 12.3.",
+    "As Seattle welcomes more neighbors, existing parks will serve more people. That is good for city life, but only if our public spaces are resourced and growing alongside our housing.",
+    "Fortunately, this is not an either-or choice.",
+    "The City should pair the existing metric with measures that answer different, equally important questions. How much park space is available for the people who live nearby? Are parks accessible to people of all ages and abilities? Are they in good condition? Is there access to natural features like trees or water? Do they have the amenities communities actually need? Are they becoming overcrowded and run down as neighborhoods grow?",
+    "Together, these measures would give policymakers a much clearer picture of where investments are needed most. This approach is especially important because Seattle's Comprehensive Plan is designed to accommodate substantial housing growth over the coming decades. New housing should be accompanied by investments in parks and public spaces so that growth improves quality of life rather than putting additional strain on the places where residents already live. Housing and green space should not compete with one another. They should be planned together. Communities deserve both!",
+    "A growing city needs more homes AND more places for children to play, neighbors to gather, seniors to exercise, and families to find respite from summer heat or Seattle rain. These experiences are not luxuries; they are part of the infrastructure that makes urban living healthy, resilient, and equitable.",
+    "Seattle has every reason to celebrate that nearly every resident lives within a 10-minute walk or roll to a park. But we can’t stop there. The next step is making sure all neighborhoods have parks that are large enough, welcoming enough, and well-equipped enough to serve the city we are becoming.",
+    "We need to measure not only whether a park is nearby, but also if it is truly thriving, both for itself and the community it serves. Park access is an issue of environmental justice, public health, and who gets to thrive in Seattle. As the city grows, we have an opportunity to make sure that growth does not deepen existing disparities, but instead helps repair them. Every neighborhood deserves not just a park within a 10-minute walk, but a park that is safe, accessible, welcoming, well-maintained, and truly worthy of the community it serves."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/1000027581.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-mayorsgunviolenceplanmeansforthesouthend",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: What the Mayor's Gun-Violence Plan Means for the South End",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://southseattleemerald.org/newsletters/2026/09/19/the-roundup-what-the-mayors-gun-violence-plan-means-for-the-south-end",
+   "paras": [
+    "This week, I had a one-on-one with Mayor Katie Wilson about her new proposal that has major implications for the South End. But before we get to that …",
+    "Quick question: Have you ever witnessed an armed and uniformed Seattle police officer playing full-court basketball with youth in a high-crime neighborhood?",
+    "I have. In fact, I played too. We also ran games of flag football and indoor soccer and had Mario Kart tournaments on Nintendo Switch — games that included both cops and kids.",
+    "What I’m describing is Seattle Parks and Recreation’s Teen Late Night program . I worked as a rec specialist in a community center when I was fresh out of college.",
+    "This was my only experience with community policing, and it was a sight to behold. These cops, who volunteered for this assignment, spent Friday and Saturday nights interacting, or simply hanging out, with youth.",
+    "I’ll never forget the times officers picked up kids in my program during the school day for skipping class and committing petty crimes — and instead of arresting the teens, whom they recognized, they actually brought them to us , staff at the community center.",
+    "As a kid, the Teen Late Night program kept me off the streets. As a young adult, I returned the favor and helped run that same program for the next generation.",
+    "And since the ’90s, we’ve witnessed crime rates drop by up to 30% in these neighborhoods where the program happens. Tacoma has even tried to replicate this . There’s plenty of data supporting the effectiveness of programs like these to prevent crime.",
+    "Here’s why this is important: Earlier this week, two plans to address gun violence made headlines . Seattle City Councilmember Maritza Rivera’s proposal , which passed unanimously in a Council vote (7–0 with two abstaining), amounts to a $500,000 plan to make a plan (the Seattle way).",
+    "The quick version: The City will consult with the National Network for Safe Communities at John Jay College of Criminal Justice in New York. They will do research, create a plan, and local stakeholders will carry it forward. (I plan to reach out and ask Rivera how the South End is included in her proposal.)",
+    "Then, there’s Mayor Katie Wilson’s proposal , which brings various city departments, social services, and community groups under the direction of the Community Assisted Response and Engagement (CARE) Department. It also provides critical investments to youth and young adult programs, including the Teen Late Night program I mentioned.",
+    "Seattle wouldn’t be the first city to address gun violence by investing in youth and grassroots community programs. Last year, The Washington Post presented data on five major U.S. cities — Baltimore, Philadelphia, Chicago, Indianapolis, and Los Angeles — all of which saw dramatic dips in violent crime by simply increasing investments into underserved communities and at-risk youth.",
+    "This week, I spoke with Wilson about her new plan and what it means for the South End. We discussed the difference between “focused deterrence” and stop-and-frisk, the timing of when she released the plan, whether she engaged with South End community members, and how this proposal will directly impact Rainier Beach.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: I’ve heard directly from people in the South End that this plan was only crafted after the Seattle Center shooting made national headlines, but we’ve had gun violence here for years. What do you say to people who feel this way?",
+    "KW: I’ll say that early this year, at the end of January, obviously we had a tragic shooting in Rainier Beach. I’ve known since I stepped into office, and especially since that moment, that addressing gun violence and reducing gun violence in our communities had to be a very high priority for my administration. This has been in the works for the whole year, and other shootings around the city, including the Bite of Seattle shooting, just lit a fire under that and under the need to make a real public announcement so that people could see the work that was going on behind the scenes.",
+    "MD: Reading the plan, I see a few specific neighborhoods identified. But can you tell me specifically what this means for Rainier Beach? And what, if any, role community members had in the process?",
+    "KW: We are focusing not just on how we respond to gun violence when it occurs, but on the upstream investments that we need to make into our youth, teenagers, and families so that people have the necessary support that stops gun violence from happening in the first place. And this is something that I’ve been hearing about through conversations with youth in Rainier Beach following the January tragedy, and throughout the year, that has really informed my decision-making as we’re going into this budget process.",
+    "We have a large deficit, but it’s a really high priority for me to maintain — and, when possible, expand — funding for programs that are serving our youth in the South End. That means, for example, preserving funding for Teen Late Night programs. I’m also proposing funding in this budget for a new after-school program in Rainier Beach, and expanding funding for peer mentorship programs at Rainier Beach Community Center. These are priorities for me because I know how important it is that youth have these activities that can give them an alternative to violence, and mentorship supports mental health.",
+    "All of that has been informed by youth in Rainier Beach who have told me they need safe places to go at night and after school.",
+    "MD: A part of your plan is “focused deterrence.” I’ve already had people ask me if this is just Seattle’s stop-and-frisk. Is it? And how are you going to ensure that this doesn’t turn into people of color having disproportionate interactions with law enforcement?",
+    "KW: This is absolutely not stop-and-frisk. The idea behind focused deterrence is that we already know, the community already knows, who the young people are who have been engaged in gun violence in one way or another. This is about focusing on those specific individuals. This is not about profiling. This is not about picking people off the street. This is about using what we know, and what the community knows, about the young people who need our help, and then really focusing on figuring out what they need. Do they need mentorship? Help with employment? Housing? It’s about laying out a positive path, while also making clear that if they continue to engage in violence, that there is a backstop, and law enforcement is the backstop for that. It’s a combination of support and accountability. It needs to be done carefully, so we’re doing it with community partners.",
+    "Both the Seattle mayor and City Council dropped proposals to address gun violence this week. Here’s a breakdown of both plans.",
+    "Will your ballot be safe in the mailbox this November? We have the most recent developments right here.",
+    "Have you ever tasted a black garlic latte? This cafe in Georgetown is serving them up. (Spoiler alert: They’re delicious.)",
+    "These South End authors wrote a book about trauma stewardship two decades ago. Now, they’ve made a few updates.",
+    "Have thoughts on who should lead SPD? Show up and be heard: 9/26. Noon. Van Asselt Community Center.",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-09-19/29v276ca/What-the-Mayors-Gun-Violence-Plan-Means-for-the-South-End.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-otoslideshowthestrangers2026geniusawards",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Photo Slideshow: The Stranger’s 2026 Genius Awards",
+   "author": "Emily Nokes",
+   "date": "2026-09-19",
+   "url": "https://www.thestranger.com/genius-awards-2026/photo-slideshow-the-strangers-2026-genius-awards/",
+   "paras": [
+    "It’s official! The Stranger ’s 2026 Genius Awards party on Saturday, September 12 was a smashing success. Between the hosts (drag stars Miss Texas 1988 and Lady GuGu), the DJs (Erik Blood and La Mala Noche), the best Shabazz Palaces show we’ve ever seen, I think it’s safe to say the city needed this now more than ever. And to my heart’s delight, everyone dressed up ! Seattle, you looked incredible .",
+    "The Genius Awards are so much more than just a spectacular fête, though. Saturday was made possible first and foremost by our writers, who met for months making exhaustive lists and diving deep into the best that Seattle has to offer in our six categories. We also had to define what the categories covered exactly, and what criteria we were even looking for. It was a labor of love and we are thrilled with our choices.",
+    "By now I hope you have picked up our gorgeous September Genius Issue to meet the 2026 geniuses—who each received a trophy and a giant $10,000 check, no strings attached. Check out the Short List in each category, too, since no single winner could possibly contain the amount of excellent work happening in Seattle right now!",
+    "The Genius Awards, to me, are the best articulation of a city paper’s relationship to the city it covers. I hear from artists across every discipline that it can feel hard to know if anyone is paying attention. Or even able to pay attention these days. This is why local arts journalism is more crucial than ever. Our real human writers offer expertise, taste, and well-researched opinions. All of which can only come from paying attention.",
+    "The post Photo Slideshow: The Stranger’s 2026 Genius Awards appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/3T6A1623-copy-scaled.jpg?fit=1024%2C683&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasnewswrap1789765268",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: Newsom signs order for AI safety in California",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1789765268/",
+   "paras": [
+    "In our news wrap Friday, California Gov. Gavin Newsom signed an executive order that aims to speed up safety measures for AI, including a possible 'kill switch' for advanced models, President Trump announced that all 50 states will participate in a new Medicaid drug pricing program and Russians are voting in the country's first parliamentary elections since its invasion of Ukraine in 2022."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/0bdbffe5-8545-4c22-8cdd-159d28783e38.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-gshownewshourextrasshadowsurge1789765293",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "'Shadow surge' pushes immigration arrests to record highs",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/shadow-surge-1789765293/",
+   "paras": [
+    "Less than a year ago, aggressive immigration raids were drawing headlines and sparking protests. But recently, the Trump administration has shifted its approach. Instead of relying as heavily on high-profile operations, federal immigration authorities are working with state and local police. Geoff Bennett discussed this \"shadow surge\" with Lauren Villagran of The Marshall Project."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/31c44970-32c8-4515-88e8-238c52066109.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip21libc5",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Some Republicans distance themselves from Trump's policies",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-1libc5/",
+   "paras": [
+    "Some Republicans distance themselves from Trump's policies"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/9a5788be-9ce6-4558-9eee-6896891179b1.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip12tuy3h",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Why Trump is quick to dismiss concerns about AI safety",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip1-2tuy3h/",
+   "paras": [
+    "Why Trump is quick to dismiss concerns about AI safety and data centers"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/d138a704-9096-4cff-91c7-ec8dc916f509.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-newshourextrasthelastfreewomen1789765475",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "'The Last Free Women' follows Afghans rebuilding their lives",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/the-last-free-women-1789765475/",
+   "paras": [
+    "When the Taliban swept back into Kabul in 2021, millions of Afghans suddenly faced an uncertain and dangerous future. Among them were two young sisters whose ambitions to study medicine and law were threatened. Their escape and the lives they built afterward are at the heart of the new book, \"The Last Free Women.\" Geoff Bennett sat down with the authors, Rebecca Blumenstein and Diana Kapp."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/93396c33-c3e7-40cd-8f48-b53d4249020b.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ewshourextrasfreedomofthepress1789765789",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Trump bans news outlets in latest attack on press freedom",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-19",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/freedom-of-the-press-1789765789/",
+   "paras": [
+    "President Donald Trump says he is banning three major news outlets, CNN, MS NOW and Politico, from the White House due to what he called \"unfavorable coverage.\" Trump didn't provide details on how the ban would be implemented, but warned he might bar other media outlets as well. White House Correspondent Liz Landers reports on the administration's latest test of First Amendment protections."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/cbbb3109-c37c-4fcd-b3ff-04fee02f3f85.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-60919nxs15974854trumpcnnmsnowpoliticoban",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
+   "author": "Ava Berger",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+   "paras": [
+    "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\""
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4459x2973+0+0/resize/4459x2973!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F52%2F5069b59545baac20bf0ba82fb823%2Fgettyimages-2294838569.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-inionrememberinganniedillardnaturewriter",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Opinion: Remembering Annie Dillard, nature writer",
+   "author": "Scott Simon",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
+   "paras": [
+    "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1320x2000+0+0/resize/1320x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F88%2F227bfae14771aad4fdb5a41221c5%2Fap830124056.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-3lifeinkabul5yearsafterthetalibansreturn",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Life in Kabul 5 years after the Taliban's return",
+   "author": "D. Parvaz",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
+   "paras": [
+    "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5961263",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-54ancientteethbetelnutsmindalteringdrugs",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
+   "author": "Pien Huang",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
+   "paras": [
+    "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1296x863+0+0/resize/1296x863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F13%2F83b654e1463696ae2836e32aa68a%2Fbetel-nut9-8-2.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-actsarchaeologicaldigsitealaskaquinhagak",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
+   "author": "Samantha Watson",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
+   "paras": [
+    "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x6336+0+0/resize/9504x6336!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F83%2Faa1de52e4126830ea0e403eb8347%2F260608-mcdolan-nunalleq-09374.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-deralreserveinterestrateinflationeconomy",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
+   "author": "Rafael Nam",
+   "date": "2026-09-19",
+   "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
+   "paras": [
+    "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy — and the rest of us? Here are some answers."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F3e%2F812d039d41f29656f9b92aed1411%2Fap20100194370143.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc63d7lexyym1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6ly70gz4008oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Major seaside hotel fire treated as suspicious",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwly5d9v7r43oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescq8jdkmgn7n1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b34/live/bdd81080-b43b-11f1-8eb0-59fdbbab66e7.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescr86xyne8xp2oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Bitter row over Diana book brings back unhappy times for royals",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6a/live/20e64a50-b407-11f1-bcee-75de7376c95a.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ience2026sep19spaceweaponswhitehousenasa",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The US air force admitted to deploying weapons in space. Don’t expect the White House to explain why",
+   "author": "Richard Luscombe",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
+   "paras": [
+    "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’",
+    "In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek , to Luke Skywalker’s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale.",
+    "The messaging coming out of the White House on the subject, by contrast, could not be more vague."
+   ],
+   "img": "https://i.guim.co.uk/img/media/c70aa1245cdbffa521513b24bd5ad55f0130c3b6/444_0_4444_3557/master/4444.jpg?width=140&quality=85&auto=format&fit=max&s=8f972f9af69ddde78e65de1a5cda559b",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-tillmysterioustomethatiwasangryforsolong",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
+   "author": "Sophie McBain",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long",
+   "paras": [
+    "The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’",
+    "When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the author was so relieved he says he performed his first and last cartwheel on the lawn of his home in Santa Cruz, California. There had been an attempted film adaptation before that, but he had been unsurprised by its failure, having warned that it was impossible to condense his densely plotted doorstopper of a novel into a feature-length film. This time, Franzen had signed up as co-writer, with filmmaker Noah Baumbach. He says that HBO was “excluded from the development process. Mistake, because we didn’t know how to do TV.” Franzen himself hadn’t even owned a telly until a few years earlier and certainly didn’t have cable, so as he was wrestling with the script, he began renting box sets. Around three episodes into one drama series, he realised “we have no idea what we’re doing. This is not how you do TV. This is bad,” he recalls. The result, he says, was “one of the worst pilots anyone has ever made”.",
+    "Franzen used to think TV was the “enemy” of the serious novelist. In a well-known 1996 essay for Harper’s Magazine about the decline of high literature he had complained bitterly about the “banal ascendancy of television”. But after the HBO series failed, he watched Breaking Bad, Nurse Jackie and Silicon Valley and loved them. In the age of social media, AI and the endless scroll, TV has started to look like a “friend”, he says now. And The Corrections is finally being adapted into an eight-part Netflix series, with Meryl Streep playing Enid Lambert, the matriarch clinging to dreams of hosting a perfect last family Christmas, even as her husband Alfred is in terminal decline with Parkinson’s and dementia and their grownup children’s lives are falling apart in terrible, comical ways. Once Streep announced she was in, Franzen felt the “chances of making this show have gone up above 50%”. He says he’s a month away from finishing the script."
+   ],
+   "img": "https://i.guim.co.uk/img/media/e1a76641b48e86ef38c25d07d3c415258244b66b/416_654_2665_2131/master/2665.jpg?width=140&quality=85&auto=format&fit=max&s=4896666ab2382446cc6b6fc093ec1c19",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-sep19writersonthegreatestcakeoftheirlife",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life",
+   "author": "",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life",
+   "paras": [
+    "From the blissful threat of ‘death by chocolate’, to a book made of sponge and the lemon drizzle to end them all, these are the bakes that left the biggest impressions",
+    "The Sorting Hat sponge I made for my son’s Harry Potter party is not the best cake I’ve ever tasted. That would be anything baked by my granny, or the coffee religieuse (a choux pastry puff) I ate in Boulogne-sur-Mer with my mum. But it’s the most surprisingly edible cake I’ve ever made – a vaguely Jamie-Oliver recipe with buttercream filling and tinned mandarin slices. It didn’t only work; it tasted great, and wasn’t quite as teeth-screechingly sweet as expected. My one regret is that I over-pimped the decoration: it looked so sinister in the fridge with its cold, Sorting Hat stare that the next day I stuck on googly eyes and further sparkles. This perhaps explains why everyone assumed it was a poo emoji cake, despite it being a Harry Potter party with heavy-touch theming. That people thought I actually wanted children to eat shit is a shame, but it still remains my greatest culinary success. Catherine Shoard"
+   ],
+   "img": "https://i.guim.co.uk/img/media/03ce9bfcf6809560a867266703edc1b808a5473f/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=f60b2be2fd64c929956098c6cbb82fec",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ssonsstephengrahamnetflixshowadolescence",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Don’t be afraid to be masculine, laugh more, and phone your mum: letters to our sons, by Stephen Graham, Riz Ahmed, Danny Dyer and other wise men",
+   "author": "Stephen Graham, Danny Dyer, Goldie, Romesh Ranganathan, Tom Daley, Riz Ahmed and others",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/society/2026/sep/19/letters-fathers-sons-stephen-graham-netflix-show-adolescence",
+   "paras": [
+    "The Adolescence actor and the psychologist Orly Klein asked fathers to write to their sons. The results – from famous dads to the wisdom of strangers – were moving and motivating. Here’s a selection",
+    "What can I say? From the moment you and your sister were born my heart has been full of a love I never thought was humanly possible. As a baby you were filled with wonder and so much energy. You had a beautiful, mischievous and inquisitive nature, which has always made me smile. You were climbing, running and jumping everywhere. You’d walk into a room wearing shoes that were four times, five times, 10 times too big for you … Sometimes they were ye mother’s."
+   ],
+   "img": "https://i.guim.co.uk/img/media/be91b58274ee8c277f9d1da789383d07ae5f8474/0_332_9449_7556/master/9449.jpg?width=140&quality=85&auto=format&fit=max&s=fed08cadf0528754f02379bf245cc7ac",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-urhoodintheworlditsnotasgreatasyoudthink",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I live in the ‘coolest neighbourhood’ in the world. It’s not as great as you’d think",
+   "author": "Raphael Rashid",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/world/2026/sep/19/i-live-in-the-coolest-neighbourhood-in-the-world-its-not-as-great-as-youd-think",
+   "paras": [
+    "A wave of tourists and visitors has changed the character of the Seoul neighbourhood I live in and helped create a place that no longer feels like home",
+    "In 2021, I was asked by Time Out to nominate a Seoul neighbourhood for its annual list of the world’s coolest. I didn’t think much of it and put forward the one I live in, Jongno 3-ga, in the old centre of the city. Somehow, it got ranked third.",
+    "This week, the same area was named the coolest neighbourhood in the world . I should be pleased, but instead, I’m devastated."
+   ],
+   "img": "https://i.guim.co.uk/img/media/dbddf2d41c8bf5f7bb61114fc6da55f90ee3fb2d/0_641_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=42b40ef067bef7b42b80a4e96aebd398",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-sheeranlooptourculturewarisraelpalestine",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war",
+   "author": "Nadia Khomami",
+   "date": "2026-09-19",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine",
+   "paras": [
+    "Moment of reckoning for ‘Mr Nice Guy’ of music, who embraced Macklemore’s political cred only for pro-Palestine rapper to be dropped under pressure from billionaire",
+    "Ed Sheeran has long been known as the “Mr Nice Guy” of music. His is an unthreatening kind of pop stardom; he looks and talks like the bloke who might be standing behind you in a pub, rather than someone selling out stadiums. He champions other artists, he celebrates different cultures. His songs are about love, heartbreak and friendship. People get engaged at his concerts.",
+    "But this week, one of the most successful musicians in the world faced the biggest controversy of his career, and found himself dragged into exactly the kind of political row he has spent his career avoiding."
+   ],
+   "img": "https://i.guim.co.uk/img/media/3d72306b6193343d4aae862828e34efeabe7c665/731_351_1663_1331/master/1663.jpg?width=140&quality=85&auto=format&fit=max&s=d1e4b3800caf390f060c2afb6262c74f",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-rdagentmodearchitectexitstafnamesnewexec",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Tech Moves: Ascend promotes Nate Bek; Microsoft Word ‘Agent Mode’ architect exits; TAF names new exec",
+   "author": "Todd Bishop",
+   "date": "2026-09-18",
+   "url": "https://www.geekwire.com/2026/tech-moves-ascend-promotes-nate-bek-microsoft-word-agent-mode-architect-exits-taf-names-new-exec/",
+   "paras": [
+    "— Seattle-based venture capital firm Ascend promoted Nate Bek to principal. Bek joined the firm as an associate in January 2024 and was most recently senior associate and head of research.",
+    "Kirby Winfield , Ascend’s founding general partner, credited Bek with helping the firm’s companies launch with national press coverage, researching and communicating its investment theses, and sourcing deals including Neuramill and Endurance Energy .",
+    "“Nate has been a force multiplier for Ascend. It’s rare for a micro VC fund to have a resource like him,” Winfield said. “He not only executes and publishes novel market research and thought leadership that strengthens our brand and expands our reach; he’s also hyperconnected in the Seattle ecosystem and has sourced some of our most compelling investments.”",
+    "Winfield added, “We’re excited to see him continue to grow as Ascend becomes a nationally recognized pre-seed firm.”",
+    "Bek was previously a startups and venture capital reporter at GeekWire. He co-wrote a widely read GeekWire guest column in August making the case that many of Seattle’s most promising startups are building physical products such as rockets, power plants and off-road vehicles.",
+    "— Brandon Paddock left Microsoft to start his own AI software company. Paddock, who is based in Seattle, was a principal software architect in Microsoft’s Office organization and the technical lead for “Agent Mode” in Word, which shipped last fall and became the default Copilot experience in Word early this year. His last day was Sept. 11.",
+    "“I am incredibly excited about what I’m building, but not quite ready to talk about it here,” he wrote on LinkedIn .",
+    "Paddock first worked at Microsoft from 2005 to 2013, including on search features in Windows 7 and Windows 8. He rejoined in 2016 after serving as CTO of Seattle startup Zealyst. He also built the Twitter client Tweetium as a side project.",
+    "— Seattle-based STEM education nonprofit Technology Access Foundation named Donya Loyd Kemp director of TransformED , which works with teachers at partner public schools to put TAF’s project-based STEM learning model into practice.",
+    "Kemp comes to TAF from Atlanta, where she was principal of Purpose Built Schools Atlanta and director of project-based learning at Charles R. Drew Charter School. She was most recently a senior consultant at Potential Unleashed Consulting.",
+    "In a TAF Q&A , Kemp said she was excited to contribute to work “that recognizes the brilliance of students, particularly students who have historically been underestimated.”",
+    "“So excited to have Donya on board. Leveling up for our children and teachers,” TAF co-founder and executive director Trish Millines Dziko wrote on LinkedIn .",
+    "— Zillow Group named Rikki Tremblay vice president and principal accounting officer as Jennifer Rock retires as chief accounting officer, according to a regulatory filing . Rock will stay on in an advisory role through March 1, 2027.",
+    "Tremblay has worked at the Seattle-based real estate company since 2014, most recently as vice president of reporting, technical accounting and controls. She previously held audit roles at Deloitte.",
+    "— Joy Chik joined the board of NewCore , a Tel Aviv- and San Francisco-based startup building an identity platform for people and AI agents. NewCore emerged from stealth in June with $66 million in funding.",
+    "Chik, who is based in the Seattle area, spent 28 years at Microsoft, most recently as president of identity and network access. She announced her departure in April.",
+    "— Werner Koepf is now chief technology officer at VanillaSoft , a sales engagement software company. Koepf, a longtime Seattle-area tech leader, was previously chief product and technology officer at AI localization company LILT and senior vice president of engineering at Karat.",
+    "He has also held engineering leadership roles at Conversica, Ticketmaster, Expedia and Amazon, where he led the gifting business, including Wish List and registries.",
+    "— Mike Katz joined the board of MNTN , a publicly traded connected TV advertising company. Katz left Bellevue-based T-Mobile this year after 28 years , most recently as chief business and product officer. He remains an adviser to T-Mobile’s CEO.",
+    "— Christopher Budd joined Salesforce as director of security industry engagement, a new role connecting the company’s security team and research with the broader security industry. He joins Iain Mulholland and other former Microsoft colleagues. Budd, who has contributed many pieces to GeekWire over the years, previously led X-Ops communications at security company Sophos.",
+    "— Jay Carney joined venture capital firm SV Angel as general partner and head of public policy and communications. He will connect the firm’s portfolio companies and founders with policymakers in Washington and state capitals. A major focus will be Project Blueprint, SV Angel’s new effort to partner with tech founders and lawmakers to shape AI policy.",
+    "Carney, who is based in Washington, D.C., was previously global head of policy and communications at Airbnb, and Amazon’s senior vice president of global corporate affairs from 2015 to 2022. He was White House press secretary to President Obama from 2011 to 2014.",
+    "— Seattle-based A Place for Mom named Jason Conley chief technology officer. The company helps families find senior care. Conley will lead its technology strategy, engineering and data organization, including the use of AI across customer experiences and internal operations.",
+    "Conley will work remotely from Lexington, Ky. He was previously CTO at VIP Medical Group and Envera Health, and held senior technology roles at BrightSpring Health Services.",
+    "— Luis Montero rejoined the Seattle-based Gates Foundation to help shape its AI communications strategy across global health and development. Montero left the foundation about a decade ago for a career in tech.",
+    "His roles since then include global head of policy communications at Discord and public affairs positions at Edelman, Google and Microsoft, where he worked on executive communications for President Brad Smith. He is based in New York.",
+    "— Vancouver, B.C.-based defense tech startup Juno Industries expanded its board, advisory and leadership teams. The company develops AI-native command and control software and sensor systems for the Canadian Armed Forces and allies.",
+    "New leaders include head of engineering Dylan Neid , who spent nearly a decade at AbCellera; head of strategy Tania Belisle-Leclerc , former director of policy to Canada’s ministers of foreign affairs and national defense; and head of growth Bryan Riddell , former CEO of Team Rubicon Canada.",
+    "Claude Rochette and Alnesh Mohan will join the board once Juno goes public through a reverse merger with Trail Blazer Capital Corp., a shell company listed on the TSX Venture Exchange."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/nate-kirby-1260x945.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-om2026graviticsreversetakeover125million",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -96,9 +648,9 @@
    "url": "https://www.geekwire.com/2026/gravitics-reverse-takeover-125-million/",
    "paras": [
     "Marysville, Wash.-based Gravitics , which is developing orbital carriers for government and commercial customers, is getting ready for a reverse takeover that could lead to a $125 million public offering.",
-    "The arrangements are being made with Non-Invasive Monitoring Systems , a Florida-based shell company, with the goal of getting Gravitics listed on the Nasdaq stock exchange .",
+    "The arrangements are being made with Non-Invasive Monitoring Systems , a Florida-based shell company, with the goal of getting Gravitics listed on the Nasdaq Stock Market .",
     "The two ventures have been discussing the deal for months. The terms for the public offering were announced last month, and this week, a notice filed with the Securities and Exchange Commission revealed a previously unreported $17 million funding round that was completed earlier this year. The filing appears to be part of the preparations for the reverse takeover.",
-    "Similar to a SPAC merger, a reverse takeover offers a faster route for a private company to go public by acquiring a less active shell company and taking control of the combined operations. Non-Invasive Monitoring Systems is a prime example: It stopped manufacturing motorized therapeutic platforms in 2019 but retained its OTC listing. The plan envisions “uplisting” the merged company from OTC to NASDAQ .",
+    "Similar to a SPAC merger, a reverse takeover offers a faster route for a private company to go public by acquiring a less active shell company and taking control of the combined operations. Non-Invasive Monitoring Systems is a prime example: It stopped manufacturing motorized therapeutic platforms in 2019 but retained its OTC listing. The plan envisions “uplisting” the merged company from OTC to Nasdaq .",
     "The reverse takeover strategy has been used by several prominent companies, including Berkshire Hathaway , Burger King and Bellevue, Wash.-based T-Mobile US . Gravitics plans to follow up on the merger with an offering of 8.1 million shares priced between $14 and $17, which averages out to $125 million.",
     "Because the offering has been registered with the SEC , the parties to the transaction are in a quiet period that restrains them from commenting on the arrangements.",
     "Gravitics was founded in 2021 by CEO Colin Doughan, chief architect Gary Hudson and chief marketing officer Michael DeRosa. Over the past five years, it has secured some high-profile contracts for the design and manufacture of orbital carriers and space station modules.",
@@ -213,47 +765,39 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-irecom2026temporal1255bvaluationaiagents",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Inside Temporal’s journey to a $12.55B valuation, and its bet on building a backbone for AI agents",
-   "author": "Todd Bishop",
+   "id": "f-urbanist-nceswithchangetargetinghistoricdistricts",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Traffic Safety Package Advances with Change Targeting Historic Districts",
+   "author": "Ryan Packer",
    "date": "2026-09-18",
-   "url": "https://www.geekwire.com/2026/temporal-12-55b-valuation-ai-agents/",
+   "url": "https://www.theurbanist.org/traffic-safety-package-advances-with-change-targeting-historic-districts/",
    "paras": [
-    "One of the hottest infrastructure companies in AI today is a startup established nearly seven years ago, tracing its roots to work its founders were doing before the cloud was a thing.",
-    "Temporal , based in Bellevue, Wash., announced this week that it raised $550 million at a $12.55 billion valuation , led by Lightspeed, more than doubling its $5 billion valuation in February. Its software is used by OpenAI, Nvidia, Netflix, Snap and JPMorgan Chase, among more than 4,300 paying customers, and its annualized revenue run rate recently passed $250 million.",
-    "It might seem like an overnight success, but it’s not, said Samar Abbas , Temporal’s co-founder and CEO, speaking along with co-founder and CTO Maxim Fateev in an interview with GeekWire this week. They first met at Amazon in 2010, where they worked on Simple Workflow Service , an AWS product for coordinating long-running tasks across distributed systems.",
-    "“We’ve been hacking away at this problem for 20-plus years now,” Abbas said.",
-    "The problem: software that runs in many steps across many machines breaks in the middle, and picking up where it left off is far harder than it sounds. Their answer, for which they coined the phrase “durable execution,” records each step as it completes, so a program survives a crash or a failed outside service, and finishes rather than starting over or leaving the work half-done.",
-    "“It’s core infrastructure. You really cannot go and build it very fast,” Fateev explained. “It took us years and years to get to the point where we knew what we were doing.”",
-    "It’s also especially well-suited for AI agents, which is why a company built for the cloud era is suddenly at the center of the AI boom. Agents can sometimes run for hours or days, calling models and outside tools that fail routinely. Keeping everything together regardless is Temporal’s role.",
-    "“Every Snap story is a Temporal workflow,” Abbas said. “Every time you place an order at a Taco Bell, all of the steps get orchestrated on top of our platform. Some of the most popular coding agents out there are using us as an outer harness. It’s a pretty exciting time for us, from that perspective.”",
-    "Pacific Northwest roots: Founded in October 2019, Temporal employs 570 people, roughly double from a year ago, with 89 in the Seattle area. The company is fully remote. Its Bellevue office, previously occupied by OpenAI, is used mainly for meetings rather than daily work.",
-    "But the founders describe the region as instrumental to the company’s success. Both have been in the Seattle area for more than 26 years, and they’ve built their entire professional careers here.",
-    "When GeekWire first wrote about Temporal in 2020, a year after Abbas and Fateev left Uber, it had 15 employees, $25.5 million in funding and no paying customers. Sequoia Capital led the $20 million Series A, with participation from Seattle’s Madrona and others. Bob Muglia, the former Snowflake CEO and longtime Microsoft executive, was an angel investor. Snap and Box were early users.",
-    "Fast-forward to today, and the company has raised $1.2 billion in total funding. Temporal ranks No. 2 on the GeekWire 200 , our list of the top Pacific Northwest startups, behind only Everett fusion energy company Helion, valued at $15.5 billion.",
-    "“The kind of talent that we have here in the Pacific Northwest is insane,” Abbas said, citing factors including the deep bench of cloud engineers from Microsoft and Amazon. With another platform shift now underway, he expects the same advantage to apply to AI infrastructure.",
-    "The larger question of AI safety: Temporal’s milestone comes amid a growing industry debate over the pace of AI development, and incidents in which AI agents have gone rogue , escaping the systems meant to contain them, including the latest examples from OpenAI this week.",
-    "Abbas said he sees those failures as accountability problems more than model problems.",
-    "“As you dig into each and every one of the incidents that have happened in the last three months, it always comes down to no one really knowing what these AI agents did, step by step,” he said.",
-    "Part of Temporal’s pitch is that it can make those failures traceable. Temporal records every step as a program runs, leaving a log of exactly what an agent did, in what order, and where it stopped. Abbas said that also creates a place to intervene, inspecting or blocking an action before it executes.",
-    "“We can put the agent in a much, much tighter jail,” Fateev said.",
-    "“I’m not going to sit here and tell you we solve AI safety,” Abbas added, calling that the job of the labs that create the models. But a company’s ability to know what its agents did, and to keep them from doing more than they should, is a specific challenge that Temporal can address.",
-    "“That’s truly an engineering problem,” Abbas said, “and it’s very solvable today.”",
-    "Customers and competition: Bloomberg reported in August that OpenAI is Temporal’s largest customer. Asked whether it’s too dependent on the ChatGPT maker, Abbas said no. The labs are moving fast and driving usage, he said, but the similar growth trends are starting to show up across the rest of the customer base. Abbas said 18 of the top 30 AI-native companies use Temporal.",
-    "The AI labs and cloud providers sell their own agent frameworks, and some are getting into the reliability work that Temporal does, which means its biggest customers could become competitors.",
-    "Fateev’s answer is that enterprises don’t want to be locked into one provider, one model or one vendor’s idea of how agents should work. Temporal is open source and takes no position on what a customer runs on top of it, which matters given seemingly constant changes in the tech stack.",
-    "The founders also see an opening in how AI systems connect to one another.",
-    "Agents increasingly have to call other systems, and each other, to get anything done. Fateev said the standard ways of wiring those connections (such as Model Context Protocol) assume the work finishes in seconds, and fall apart when a job runs for hours or days, or has to be unwound after something fails. Temporal is built for that kind of work, and can serve as an underlying foundation.",
-    "What’s next: Temporal plans to put a big chunk of the new funding into research and development, extending the “durable execution” technology at the core of the platform.",
-    "Today, the company tracks an application’s state from the outside, coordinating work that runs elsewhere. In the future, Abbas said, Temporal wants to provide the computing power, too, hosting the agents on its own platform rather than simply directing them on others.",
-    "Big business customers have been pushing for stronger security and auditing, another target for the spending. Temporal is also expanding a project called Nexus , which lets teams call each other’s workflows without giving up the guarantees that make the platform useful in the first place.",
-    "The company plans to expand internationally, where it does a small share of its business today, and to keep hiring after doubling its headcount over the past year. Abbas said the company’s growth defies the popular wisdom that AI companies don’t need significant human talent.",
-    "In the meantime, the founders remain very much engaged with the problem they’ve been trying to solve in one form or another for the past two decades. Temporal’s open-source Slack channel has about 25,000 members, and Abbas said Fateev is still in there mixing it up himself.",
-    "“You ask a question,” Abbas said, “I’m pretty sure Max will jump in within the first five minutes.”"
+    "A three-bill package intended to improve Seattle's response to increasing rates of deaths and serious injuries on city streets was approved by City Council's transportation committee on Thursday. Introduced by committee chair Rob Saka and dubbed the SAFER Streets Act , the proposal largely empowers officials at the Seattle Department of Transportation (SDOT) with explicit authority that they already have the ability to wield. But it also sets up future legislation around post-crash responses and safety upgrades to vehicles used by city contractors.",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "The committee approved a raft of amendments before a final vote, tweaks needed in part due to the package's rushed process to get advanced before the council's fall budget work.",
+    "Most of these were technical changes that didn't have big policy impacts, but one major amendment, put forward by Alexis Mercedes Rinck and approved on a 3-2 vote, proved contentious. It added a provision explicitly beefing up SDOT's authority to make changes to roadways within the city's historic districts, letting them sidestep an oftentimes lengthy historic board or commission approval process on certain safety-related changes.",
+    "Traffic safety advocates had been pushing for the city to receive that authority, in the wake of several high-profile incidents where city projects have met resistance at preservation boards in recent years. This spring, SDOT had to walk back a plan to deploy bike and scooter corrals across Pioneer Square to both keep sidewalks clear of micromobility devices but also to keep intersections clear of parked cars, a treatment known as intersection daylighting. Business owners in the district had raised concerns about aesthetics and lost parking, despite the original plan only involving the removal of one or two legal spots.",
+    "Under the amendment, \"traffic control devices and spot design changes\" in historic districts wouldn't be subject to landmark designation, nor would the city need to receive a Certificate of Approval (which can be appealed) to advance adjustments within Seattle's eight historic districts when it comes to that narrow range of adjustments.",
+    "\"This amendment focuses on the Traffic Engineer's authority specifically over traffic control devices,\" Amanda Allen, a legislative analyst at the City, told councilmembers. \"It does not include bollards, which may be of interest to folks, it is really focused on signs, signals, and markings.\"",
+    "Ahead of the vote, advocates of historic districts across the city showed up to testify at city hall in opposition to the change. Comments regarding Pioneer Square and Pike Place were the most prevalent, but they also included concerns about Ballard Avenue and Chinatown-International District.",
+    "\"We believe safety and preservation are not in conflict, and they have not been historically,\" Alliance for Pioneer Square Executive Director Lisa Howard said during public comment, suggesting that this move had been put forward in response to the scooter corral incident alone. \"We can make our streets safer without eliminating meaningful review in our historic districts.\"",
+    "Advocates have argued the corral debacle is far from an isolated incident. In 2024, SDOT was forced to negotiate with the Pioneer Square Preservation Board over a two-block protected bike connection along Yesler Way between Occidental Avenue and Western Avenue, the only direct bike lane planned between the waterfront and central downtown. An initial presentation noted construction could have started as soon as July of that year, but the department was forced to come back for a second meeting in the fall, after potential issues were raised about driver access to I-5 from the neighborhood.",
+    "In the end, the connection did not go in until early 2026, and with a last-minute adjustment to retain a potentially dangerous left turn in response to \"community feedback.\"",
+    "Inside Pike Place Market, this adjustment would likely not give SDOT unilateral authority to keep vehicle traffic out of the Market, in the wake of recent historical commission approval of three-day \"soft closures\" every week through the winter, ramping down a successful Pike Place pedestrianization pilot. But it would give the department more tools than it has currently.",
+    "In putting forward her amendment, Rinck expressed support for the city's historic districts, but spelled out the need to elevate safety issues above other changes within those districts.",
+    "\"I hope we can agree that some things are just too important to subject to the Seattle Process, and I believe traffic safety meets that bar,\" Rinck said. \"I've been told this amendment goes too far, but I dare to say the city has not gone far enough when it comes to preventing traffic deaths and injuries. So I hope people hear today that my bringing this amendment forward is in response to the calls for decisive action that I've heard from families who have lost loved ones on our streets, our transit advocates, and everyone who has had too close of a call.\"",
+    "While Rinck's amendment did pass, there are outstanding questions about whether it is fully implementable as written. It does not make any changes to the section of city code directly governing historic districts, and it would take a completely different bill with a different subject to make those updates. In addition, District 2 Councilmember Eddie Lin suggested an additional carveout might be necessary for Chinatown-International District, which was included on a list of the 11 most endangered historic places in the U.S. in 2023.",
+    "But Lin, along with amendment co-sponsor Dionne Foster, voted to give the amendment the green light for now.",
+    "\"I do think there's a way to to do historic preservation and achieve public safety, but I do think at the end of the day, the authority needs to lie with with who is responsible, and that is, in my opinion, the traffic engineer,\" Lin said. \"The traffic engineer should, whenever possible, take into consideration any recommendations and feedback so that it's consistent with the historic preservation. At the end of the day, the traffic engineer is responsible for traffic safety, and we have seen in in polling, how traffic safety in recent years has been the number one public safety concern, and there's good reason behind that.\"",
+    "Bob Kettle, who represents the district that includes Pike Place Market, raised issues with the process to review the amendment, as well as a lack of outreach to the specific districts that would be impacted in voting against the amendment.",
+    "\"As it relates to the legislative process, I am a little bit astonished that we're looking at an amendment that was not seen by our in-house legal counsel until this morning. There was issues in the city attorney's office with its review. There was no consideration of the state pieces, state law, and the like,\" Kettle said. \"And as it relates to stakeholdering, I don't think obviously – Pike Place Market wasn't stakeholdered, Pioneer Square wasn't stakeholdered. I tend to doubt that Chinatown International District was stakeholdered on this.\"",
+    "Saka, who also voted no, said that this potential tweak had come up during the development of the overall package, and had been suggested directly by SDOT as a potential reform. But he did state that he could support a more narrowly tailored amendment that didn't treat all of the eight historic districts the same.",
+    "\"I declined to accept it for a reason,\" Saka said. \"I do appreciate the the intent [or] spirit here behind this, and we need to have tough policy conversations and be willing to do things up to and including this at some point, I just don't think we've done the the work and stakeholdering to do that. I know my constituents in Pioneer Square don't like this, even though I know they strongly support safety.\"",
+    "It is likely that the proposal sees some modifications ahead of a vote of the full council set for mid-October, including potential changes that involve notification of the historic boards on projects that may no longer require direct approval.",
+    "\"It's critical that we have clarity around the role of the City Traffic Engineer and their authority to make decisions around safety, so that we can work towards the goals that we all share when it comes to traffic safety, public safety, and Vision Zero,\" Dionne Foster said. \"I intend to bring an amendment to full council that commits SDOT to providing notification to the historic boards of significant changes to traffic control devices within the historic districts. I believe in this way we can ensure that we have clarity on the decision making as well as clarity on the information sharing.\""
    ],
-   "img": "https://www.geekwire.com/wp-content/uploads/2026/09/temporal-founders.jpg",
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260917_143104.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -466,132 +1010,73 @@
    "annos": null
   },
   {
-   "id": "f-emerald-voicC3A0phC3AAblackgarlicbelongsinalatte",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "REVIEW | At Georgetown's Voi Cà Phê, Black Garlic Belongs in a Latte",
-   "author": "",
+   "id": "f-stranger-hestrangersnoisecomplaintgoodluckrabbits",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Stranger’s Noise Complaint: Good Luck Rabbits",
+   "author": "Stranger Staff",
    "date": "2026-09-18",
-   "url": "https://southseattleemerald.org/community/2026/09/18/review-at-georgetowns-voi-c%C3%A0-ph%C3%AA-black-garlic-belongs-in-a-latte",
+   "url": "https://www.thestranger.com/music/the-strangers-noise-complaint-good-luck-rabbits/",
    "paras": [
-    "Seattle has always been at the forefront of what's novel in the world of caffeinated morning beverages. But one of these \"trends\" is less trendy and more of a movement by café owners to share the non-Western coffee cultures they grew up in.",
-    "Along Georgetown's main drag, Voi Cà Phê sits at the corner of Airport Way and 13th Avenue. It's a small walk-up window without indoor seating, but there are public benches where people can enjoy their coffee and bánh mì.",
-    "The Vietnamese café opened in 2022, founded by the husband-and-wife duo Khôi Phùng and Hiền Đặng. Đặng's mom is the head chef.",
-    "\"I was a barista at an independent Seattle coffee shop for a number of years,\" Đặng said. \"I realized that there wasn't a lot of Asian coffee representation at that coffee shop.\"",
-    "Growing up, Đặng's family ran a small café off Martin Luther King Jr. Way where they offered coffee and bánh mì made by her mom, just like they do now at Voi Cà Phê. Her husband's family also ran a café in Saigon, where he grew up. His family still owns a coffee farm.",
-    "\"It grows at lower elevation than the standard arabica bean that you see everywhere in the U.S.,\" said Đặng, explaining the nuance of the Vietnamese coffee bean. \"It also grows in hotter climates and is more exposed to pests. Because of that, the plant has evolved to have more caffeine.\"",
-    "The traditional way to brew Vietnamese coffee is with a phin — a metal filter almost like a pour-over cone. This method takes more time and produces a highly concentrated cup of coffee.",
-    "\"There's a perspective that we're missing here [in Seattle], which is the Vietnamese coffee perspective,\" Đặng said.",
-    "Since 2020, a wave of coffee shops has introduced Seattle to Vietnamese coffee, which Đặng says can mean the way the coffee is brewed and also where the beans are from. Vietnam is the second-largest producer of coffee in the world. And the majority of the coffee grown there is robusta.",
-    "Voi Cà Phê's menu includes a variety of phin coffee in addition to lattes that take inspiration from Vietnamese flavors not usually seen in local cafés. The menu has three sections: Under \"easy\" are pandan tofu and miso caramel lattes, while \"intermediate\" has jackfruit and a phở spice latte, which includes the broth's foundational spices like star anise and cardamom. \"Advanced\" dares visitors to be adventurous, offering a Red Boat caramel latte that uses fish sauce and an intriguing black garlic latte.",
-    "When it came time to place an order, I decided to go standard — an iced condensed milk phin coffee — and then give in to my curiosity about what a black garlic latte tastes like. And to my surprise, it did taste like garlic, but in a subtle manner that made it a delightful discovery.",
-    "\"We let the beans kind of dictate where we go with the flavors,\" Đặng said. \"We realized that pandan and kumquat and ube, those were the things that we thought we were going to put on the menu, but they didn't work well with our beans.\"",
-    "Instead, they leaned into what they felt were underrated flavors — like black garlic and tamarind.",
-    "Similarly, the café's bánh mì menu is divergent from the usual offerings you'd expect. Its most popular offering, the pork sausage patty, is inspired by the dish bún chả.",
-    "\"I think that here in America, there's this anxiety about keeping Vietnamese food traditional,\" Đặng said. \"Whereas in Vietnam, we were kind of inspired by how they don't care — I mean, it is by default Vietnamese — so we were kind of freed by that notion.\"",
-    "The tantalizingly creative menu also includes a ginger chicken sandwich, a cold cut special, claypot braised veggie \"fish,\" a phở spice beef, and sardines in tomato sauce. The last one may seem unorthodox, but Đặng says it's actually a lesser-known classic.",
-    "\"We go by the street food scene or just by what other dishes in Vietnamese cuisine that we love and just kind of want to put into the sandwich,\" Đặng said.",
-    "My favorite part of the café's menu is the option to get a \"mini\" bánh mì. They're half the size, which means you can try more of their sandwiches, which is exactly what I did. To round out my coffee order, I got mini versions of the pork sausage patty, sardines in tomato sauce, and coconut curry tofu. Plus a shrimp spring roll and a cup of their phở broth.",
-    "Each sip and each bite of the meal was satisfying. From the soft buns of the bánh mì to the sweetness of the iced coffee, all of my taste buds were tickled.",
-    "I loved everything about this little shop. The cultural intention behind it seeps through the menu and into the food, challenging customers to rethink Vietnamese cuisine and coffee while paying homage to classics that Đặng and her husband grew up with."
+    "Welcome to Noise Complaint, The Stranger ‘s new audio and video music podcast featuring live performances right here at The Stranger HQ. Streamed live and released every other Friday, we invite a great band, musician, or wonderfully weird act to perform. Tune in, discover something new, and support art in your city.",
+    "This Week’s episode features Good Luck Rabbits !",
+    "Good Luck Rabbits is a Chinese pop band based in Seattle. Their songs, written by composer Josh Hou (侯守仁) and lyricist Shuxuan Zhou (周舒璇), capture diasporic lives and dreams—the sweet, the heartbroken, the outrageous, and the suspenseful. The music spans styles and genres, yet remains firmly planted in the Mandarin pop tradition.",
+    "On Apple, you can subscribe to the video podcast here.",
+    "Get our email newsletter and episode alerts at thestranger.com/noisecomplaint . Thanks to Reanimated Music for the backline!",
+    "For Noise Complaint band submissions, email us at podcasts@noisycreek.com .",
+    "The post The Stranger’s Noise Complaint: Good Luck Rabbits appeared first on The Stranger ."
    ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-17/1nexye46/2026.08.10-Voi-Ca-Phe-Review-by-Agueda-Pacheco-Flores-001.jpeg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/NC_260915_NCS1E6_Good-Luck-Rabbits_Thumbnail-scaled.jpg?fit=1024%2C576&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-sodewhycorporationsdontpaylatefeesueylga",
-   "srcKey": "cascade",
+   "id": "f-stranger-upermarketalgorithmicpricediscrimination",
+   "srcKey": "stranger",
    "cat": "arts",
-   "title": "Why Corporations Don't Pay Late Fees",
-   "author": "Cascade PBS Staff",
+   "title": "Seattle Is Poised to Ban Supermarket Algorithmic Price Discrimination",
+   "author": "Guy Oron",
    "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/two-cents/episode/why-corporations-dont-pay-late-fees-ueylga/",
+   "url": "https://www.thestranger.com/news/seattle-is-poised-to-ban-supermarket-algorithmic-price-discrimination/",
    "paras": [
-    "Why should companies get to hit us with fees, but we can't do the same to them?"
+    "This coming Tuesday, in an effort to crack down on price gouging and discrimination, the Seattle City Council will vote on a bill prohibiting large grocery store companies from using customer personal information to customize prices and discounts.",
+    "Proposed by Mayor Katie Wilson and Councilmember Alexis Mercedes Rinck, the legislation will require grocery stores with more than 20 locations worldwide to stop using personal data to set individualized prices and discounts. It would also apply to third party delivery apps such as Instacart, as well as mixed-used stores like Target.",
+    "The idea that grocery companies are charging different people different prices based on their past purchases sounds like a futuristic dystopia. But it’s not far off. The practice isn’t in brick and mortar stores yet, but it’s a widespread reality for online shopping. And they’ve already been hoarding your data for years.",
+    "Back in 2019, the marketing arm of Kroger, the supermarket giant that owns QFC and Fred Meyer, boasted about collecting more than 2,000 data points on customers using past purchasing history and information bought from data brokers. That data will feed the new pricing algorithms.",
+    "Those algorithms are designed to estimate a customer’s purchasing power and how willing they might be to pay more. As part of a Consumer Reports study last year, 39 volunteers loaded up virtual Instacart baskets of products from a Seattle Safeway store. They received a range of prices from $114 to $124 for the exact same goods. That study estimated that this type of price manipulation, if applied to a family of four, could result in cost differences as high as $1,200 a year.",
+    "While currently algorithmic pricing is mainly limited to online shopping and loyalty apps, it’s right around the corner for brick-and-mortar stores with the introduction of electronic price labels , which allow stores to instantly change prices of goods. The city council ordinance will require these labels to be the same for different customers.",
+    "Uptown QFC cashier and florist Kristen Wilder told The Stranger that Kroger already started rolling out these electronic labels at her store in July. She says customers already hate that they can only access most coupons through an app which collects their data, and she’s worried about the impact of the new labels if the bill doesn’t pass. Wilder’s union, UFCW 3000, has been a key backer of the legislation.",
+    "Kerem Levitas, a senior policy advisor in Mayor Wilson’s office says Seattle would be the first city to enact a ban on grocery algorithmic price discrimination, though Portland and New York City are already working on similar legislation. This wouldn’t be entirely novel. Maryland, New Jersey, and Connecticut have already passed similar statewide regulations. The City’s legislation is partially based on a similar statewide bill introduced this year that did not pass.",
+    "Washington People’s Privacy founder Maya Morales believes the Seattle bill could be the most comprehensive. It doesn’t allow exemptions for individualized discounts, which can be used to get around fair pricing rules.",
+    "“What happens is people are offered these individualized discounts, but often they’ve used a deceptive pricing model and a deceptive discount model to actually end up with customers paying more,” Morales said. So even if the prices are the same, allowing customized coupons would still allow companies to discriminate.",
+    "Under the ordinance, large grocery store companies will have to offer discounts based on equal criteria. So, if you get a buy-one-get-one-free deal for accruing a certain amount of loyalty points, other customers must also receive the same deal. Discounts based on certain allowable characteristics—deals for seniors, for veterans—would still be allowed, as long as everyone in that category receives it.",
+    "Because company algorithms are proprietary, it’s hard for independent auditors to read the source code and see if they are violating civil rights laws. Morales argues that the only way to prevent pricing discrimination based on race or other protected classes is by banning individualized pricing altogether.",
+    "Predictably, big grocers are mad. Grocery store lobby groups are flooding city council with testimony asking for a personalized discounts loophole. The Northwest Grocery Retail Association even employed a mass texting service to ask Seattleites to send letters to the council. The form email is definitely not astroturfed: “Please amend the ordinance to make the rules clear: don’t use my information to charge me more, but don’t prevent it from being used to help me save.”",
+    "The Northwest Grocery Retail Association did not respond to a request for comment.",
+    "Lead sponsor Rinck says she hasn’t any constituents in favor of having their data used to get personalized discounts. In fact, she said the vast majority of real-life people who are showing up at public comment support the legislation.",
+    "“When I talk to people, they’ve expressed to me a lot of discomfort with how their data is now being used and how it could be used against them,” Rinck said. “The price of groceries should be based on the product, not on who the shopper is or what an algorithm thinks they will pay.”",
+    "The post Seattle Is Poised to Ban Supermarket Algorithmic Price Discrimination appeared first on The Stranger ."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/67e97ca0-d6c6-46bb-bf93-f25078e2bf96.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-bsorgshowfrontlinetrailersscammedpreview",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "\"Scammed\" - Preview",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/frontline/trailers/scammed-preview/",
-   "paras": [
-    "How online scams steal billions of dollars and ruin victims’ lives."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/948ae497-d762-4b0b-b6b7-1af4f025317b.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-orkalwaysfindsawaytoreinventitselfs3mm5d",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "New York Always Finds a Way to Reinvent Itself",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/new-york-a-documentary-film/extras/new-york-always-finds-a-way-to-reinvent-itself-s3mm5d/",
-   "paras": [
-    "New York City has endured waves of crime, 9/11, a devastating pandemic, and countless other upheavals... and time and again, the city has found a way to recover. New Yorker writer Adam Gopnik reflects on what makes New York so resilient — its diversity, history and remarkable ability to reinvent itself — and why the city’s pluralism gives him hope for its future."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/f0e263be-9398-4b33-9534-1bcdcebb136b.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/master1305_Getty-Images-2195049895-copy-scaled.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-citylimitsrememberscassandrawilson3lgyfm",
-   "srcKey": "cascade",
+   "id": "f-stranger-ckeventsinseattlethisweekendsept18202026",
+   "srcKey": "stranger",
    "cat": "arts",
-   "title": "Austin City Limits Remembers Cassandra Wilson",
-   "author": "Cascade PBS Staff",
+   "title": "The Best Bang for Your Buck Events in Seattle This Weekend: Sept 18–20, 2026",
+   "author": "EverOut Staff",
    "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/austin-city-limits/specials/austin-city-limits-remembers-cassandra-wilson-3lgyfm/",
+   "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-sept-18-20-2026/",
    "paras": [
-    "Austin City Limits remembers American jazz singer and songwriter Cassandra Wilson."
+    "Summer may be winding down, but Seattle events certainly aren’t. Keep the seasonal shenanigans going this weekend with a live spin on a KEXP staple, Audiosis , some pastoral partying at Farm Fest , a glow-stick-fueled voyage at the Seattle Paddle Rave , and a neighborhood-wide creative crawl at the West Seattle Art Tour . For more ideas, check out our top picks of the week. For more ideas, check out our top picks of the week .",
+    "SECS Fest Presents The Raspberry Reich SECS Fest isn’t simply one big, sexy blowout. The Seattle Erotica Cinema Society keeps the good times rolling year-round with screenings of provocative films like Bruce LaBruce’s The Raspberry Reich : a 2004 satire that’s part terrorist thriller, part queer manifesto, and part, well…porn. The plot follows a group of left-wing German radicals who kidnap a wealthy industrialist’s son in hopes of emulating the Red Army Faction, only for their leader to decide that true dedication to the revolution also requires giving up heterosexuality. As one Letterboxd reviewer put it: “This is what conservatives imagine when they say ‘the gay agenda.’” Sounds like a hell of a movie night to me. LT (The Beacon Cinema, Columbia City, $15)",
+    "The post The Best Bang for Your Buck Events in Seattle This Weekend: Sept 18–20, 2026 appeared first on The Stranger ."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/7e31e27f-acd4-4764-ab76-b08c794420fb.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-owamanpourcoepisodeseptember172026lc3vjs",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "September 17, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/september-17-2026-lc3vjs/",
-   "paras": [
-    "Former Canadian Deputy PM John Manley discusses Canada's budding relationship with the EU. Former US Ambassador to the EU Anthony Gardner further analyzes Canada's growing connection to the EU. Former Washington Governor Jay Inslee weighs in on the climate crisis. Journalist Jacob Weisberg tells the stories of leaders who capitulated to Pres. Trump in his book \"Profiles in Cowardice.\""
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/628b87cb-8eda-4453-a8f4-70ebd01bbac9.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-wtrumpgotpowerfulleaderstobackdown3etli6",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "“Profiles in Cowardice” Author on How Trump Got Powerful Leaders to Back Down",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-18",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/profiles-in-cowardice-author-on-how-trump-got-powerful-leaders-to-back-down-3etli6/",
-   "paras": [
-    "Jacob Weisberg's new book \"Profiles in Cowardice\" delivers a twist on JFK's famous \"Profiles in Courage.\" Through portraits of eight public figures, ranging from Jeff Bezos to George W. Bush, the book looks at why powerful people who once resisted President Trump have stayed silent during his second term. Jacob Weisberg discusses what he sees as a broad, collective failure to defend democracy."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/95c692a4-03f9-46f7-a7c2-113c27e997d6.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/paddlerave-1.jpeg?fit=1024%2C576&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -632,7 +1117,7 @@
    "url": "https://www.thestranger.com/slog-am/slog-am-state-supreme-court-kills-natural-gas-initiative-new-amtrak-trains-coming-to-cascade-line-pope-gifted-green-orb/",
    "paras": [
     "Street purgatory: The Seattle Convention Center closed down the block Ninth Avenue between Pike and Pine in front of the Paramount Theater for a weekly night market in August. They painted the street with big circles and white lines, which a permit required event organizers to remove. The street is still closed because even pressure washers can’t blast the paint off and drivers could mistake the circles and especially the lines for lanes (see: car accident).",
-    "Natural gas initiative is no more: The Washington State Supreme Court ruled I-2066, a stupid law designed to inhibit Washington’s transition from the state’s transition away from fossil fuels, was unconstitutional on Thursday]. The Court upheld a lower court decision that found the law was too broad and violated the state’s single-subject requirement, which mandates legislation must deal with only one issue. Led by the Building Industry Association of Washington, Washington Hospitality Association, and financially supported by Let’s Go Washington, I-2066 required utilities to provide natural gas if a user requested it, barred the Washington Utilities and Trade Commission from approving any multi-year rate plans that weaned users off natural gas, and weakened building codes that made natural gas more expensive for new construction.",
+    "Natural gas initiative is no more: The Washington State Supreme Court ruled I-2066, a stupid law designed to inhibit Washington’s transition away from fossil fuels, was unconstitutional on Thursday]. The Court upheld a lower court decision that found the law was too broad and violated the state’s single-subject requirement, which mandates legislation must deal with only one issue. Led by the Building Industry Association of Washington, Washington Hospitality Association, and financially supported by Let’s Go Washington, I-2066 required utilities to provide natural gas if a user requested it, barred the Washington Utilities and Trade Commission from approving any multi-year rate plans that weaned users off natural gas, and weakened building codes that made natural gas more expensive for new construction.",
     "Good night you disgusting animal: Rep. Joel McEntire, R-Cathlamet has allegedly been harassing his own constituent, a healthcare worker named Britney Brown, because she called him out for using the r-word. After trading jabs online, McEntire began privately messaging Brown and her friends. In one message to her, McEntire wrote: “Good night you disgusting animal.” McEntire then urged his followers to contact Brown. He threatened to release her information, and even told people to vandalize her car. Brown said her contact information has been leaked and her car was keyed. A Cowlitz County District Court judge issued an anti-harassment protection order against McEntire. He plans to appeal the order.",
     "New train alert: Amtrak is getting new trains on its Cascade Route. The new Airo trains provide more seats, they’ll be more fuel efficient, but they will not be faster. They’re replacing trains that haven’t been updated since the 1980s. Is train travel finally getting modernized in the US? Well, no. But it might be getting better? The Airo trains will pull into the station on September 30 .",
     "New cat alert: For the first time in 100 years, researchers have found a new cat . They say it is slender, spotted, and has rounded ears. The Leopardus tilcayo , or the tilcayo tiger cat, hails from Bolivia and is smaller than a house cat. In fact, this guy looks just like my new kitten (Hiccup). Does he also climb under the covers with you at 3 a.m. and attack your bare legs with his razor claws? Only time will tell. Scientists are jazzed about finding this new cat and have no idea how many cats are left to be discovered. Hopefully one million new types.",
@@ -655,102 +1140,6 @@
    "annos": null
   },
   {
-   "id": "f-npr-atexpensivesulfurmeansforyourdinnertable",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "What expensive sulfur means for your dinner table",
-   "author": "Cooper Katz McKim",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/sections/planet-money/2026/09/18/nx-s1-5974103/what-expensive-sulfur-means-for-your-dinner-table",
-   "paras": [
-    "Oil supplies are falling, sulfur prices are threatening food costs, and we measure Lego against Hollywood"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nabledevelopmentgoalshungerclimategender",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
-   "author": "Kamala Thiagarajan",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
-   "paras": [
-    "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3304x1858+0+0/resize/3304x1858!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2Fdb%2F34271613449da2a792f1451601bb%2Fsdg-goals.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-erintimidationlawsuitpolandrussiaukraine",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Judge says Trump can't demolish Kennedy Center. And, lawsuits target voter intimidation",
-   "author": "Brittney Melton",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine",
-   "paras": [
-    "A federal judge ruled yesterday that President Trump cannot tear down the Kennedy Center without a 30-day notice. And, recent lawsuits seek to keep armed federal officers away from polling sites."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-s15938847msrachelmraronnewalbumimsohappy",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Ms. Rachel has entered her album era, and she is so happy about it",
-   "author": "Leila Fadel",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/2026/09/18/nx-s1-5938847/ms-rachel-mr-aron-new-album-im-so-happy",
-   "paras": [
-    "Ms. Rachel has conquered YouTube, Netflix and the toy aisle. Now she's making an album, with real instruments, big feelings and her littlest listeners in mind."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5500x3929+0+0/resize/5500x3929!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fd8%2Fe332087d4109b60f3b501fd69832%2Fgettyimages-2245034963.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-0260918nxs15973852warrenbuffettstepsdown",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
-   "author": "The Associated Press",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
-   "paras": [
-    "Warren Buffett is stepping down as chairman of Berkshire Hathaway after serving in the role for more than 50 years. His son, Howard, will become Berkshire Hathaway's new chairman"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4352x3045+0+0/resize/4352x3045!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fe1%2F17196cb04ae7bbf2d73d138ef3c3%2Fap26261373629753.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-slikeaprisonforwomenamidspateoffemicides",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "South Africa 'feels like a prison' for women amid spate of femicides",
-   "author": "Kate Bartlett",
-   "date": "2026-09-18",
-   "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides",
-   "paras": [
-    "South Africa has some of the highest rates of violence against women in the world, and a spate of killings of nine women in the same area in recent weeks has led to renewed outrage."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8640x5760+0+0/resize/8640x5760!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4a%2Fc2%2Fde953e2c411698438f5300c50217%2Fap26260581564231.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-VpQNVNNbll3eHZfMllGc3VZNXIzeDl5STIxQQoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -768,26 +1157,10 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lescmqxvd1drd35oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/articles/cmqxvd1drd35o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab3/live/011a4280-b380-11f1-b1d1-571ed4d7ff2c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-bbc-eosc317j8k4lvy9oatmediumRSSatcampaignrss",
    "srcKey": "bbc",
    "cat": "national",
-   "title": "Watch: Diana's brother says Charles 'went ballistic' in phone call after her death",
+   "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
    "author": "",
    "date": "2026-09-18",
    "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
@@ -800,178 +1173,20 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lesc3j4jz07e2v8oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "MI5 accepts it gave evidence based on lies in neo-Nazi spy case",
+   "id": "f-grist-xWlBrd3IteGFIb1gweHIzU04zcTZEQjI5d21Toc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "The fate of the Endangered Species Act rests on 2 simple words",
    "author": "",
    "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/articles/c3j4jz07e2v8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RWTZGbmRTZWxNdUx4U3owR0piLTdnT1NlbkU5VGVjNTJoVjVCRlBOUE1wd0JOblhnZ20yWkI4WnoyS0c2eEwzM3J1R3RQWVhXYVc3WTBrRk9xWlBrd3IteGFIb1gweHIzU04zcTZEQjI5d21T?oc=5",
    "paras": [
-    "It is the first time MI5 has confirmed the BBC's revelation that it gave evidence based on lies in court while defending the violent informant."
+    "The fate of the Endangered Species Act rests on 2 simple words grist.org"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d679/live/c5904080-dd9b-11f0-880c-9f4d353b75c0.png",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescw0kl1571lpmoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Flight chaos caused by software defect in space of a millisecond, report says",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04eb/live/b7de6560-b37f-11f1-b1d1-571ed4d7ff2c.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck05rv764l0eoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Teen who piloted Channel boat with 165 migrants jailed",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/articles/ck05rv764l0eo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Chan Mathok Atak has been sentenced to two years and three months in prison after piloting the boat."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab6/live/00496b80-b360-11f1-8f19-bd786ea30d0b.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosc623xzx1pnleoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Brother didn't match description of 'Putney pusher', suspect's sisters tell BBC",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/videos/c623xzx1pnleo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Speaking on BBC Radio 4's Today programme, Nicholas Brandram's sisters accused the Metropolitan Police of being \"negligent and reckless\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b98d/live/fcb6cfe0-b354-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ncomwellness2026sep18usfoodpricesbudgets",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I pay a lot more for fewer and fewer items’: five US shoppers on their food budgets",
-   "author": "Madeleine Aggeler",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/wellness/2026/sep/18/us-food-prices-budgets",
-   "paras": [
-    "Guardian readers share how much they spend on food and the changes they’ve had to made in response to rising prices",
-    "While campaigning for re-election in 2024, Donald Trump stood in front of a table full of groceries – bags of flour, cartons of eggs, cooking oil – and told voters he would bring down the price of groceries “starting on day one” of his second term in the White House.",
-    "Over two years later, US consumers have yet to enjoy lower prices. In fact, due to supply chain issues, jostling over tariffs , wars in Ukraine and Iran , severe cuts in Snap (Supplemental Nutrition Assistance Program) benefits, and the climate crisis , more than half of Americans say they’re struggling to afford groceries."
-   ],
-   "img": "https://i.guim.co.uk/img/media/45ff8eb69a5d1ab3710a5ffea9b70a6db84405a1/134_329_6693_5355/master/6693.jpg?width=140&quality=85&auto=format&fit=max&s=bc9bc4f6d72b3304a4b5c8a7a95122a2",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-uardiancomusnews2026sep18fatbearweek2026",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Fat Bear Week has returned – and the salmon are swimming for their lives",
-   "author": "Cecilia Nowell",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/us-news/2026/sep/18/fat-bear-week-2026",
-   "paras": [
-    "The public will, for the 12th year in a row, vote for the fattest of brown bears in Alaska’s Katmai national park",
-    "The bears have returned to the river and are packing on the pounds as another Fat Bear Week begins at Katmai national park.",
-    "The 12th annual Fat Bear Week, in which the public will vote for the fattest of Katmai’s brown bears as mothers, cubs and males gather along the salmon-run at Brooks river in Alaska begins on Monday."
-   ],
-   "img": "https://i.guim.co.uk/img/media/2dab9306e2d5d311d73d23ae7593fbdad8a76ebf/161_0_4861_3888/master/4861.jpg?width=140&quality=85&auto=format&fit=max&s=daeef6f73658a6eb76ac2c546f80a3e4",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-lterus2026sep18bestpeelandstickwallpaper",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The best peel-and-stick wallpapers that appeal to every budget, according to interior designers",
-   "author": "Tobey Grumet Segal",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/thefilter-us/2026/sep/18/best-peel-and-stick-wallpaper",
-   "paras": [
-    "Adding a touch of zhuzh to the home has never been easier – these alternatives to traditional wall decor are simple to apply and low mess",
-    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
-    "I’ll come clean. I’ve spent years coveting wallpapers. In fancy restaurants and bars, in my friends’ homes, in stylish hotels – I have clocked all my favorite designs. But as a renter in New York City, there was no way I was going to spend the time and money to put up wallpaper I would then have to tear down in a move.",
-    "Peel-and-stick seemed like the perfect antidote – but before I invested, I checked in with a handful of experts about the best wallpaper to use, how to choose it, and most importantly, how to put it up."
-   ],
-   "img": "https://i.guim.co.uk/img/media/ed61be0c44a7737a8d8a63ca0b1f3349c062edbd/29_0_5236_4188/master/5236.jpg?width=140&quality=85&auto=format&fit=max&s=8fb1ee33a320bf5e14d929305d83329a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-p18israelelectionlastoctoberpalestinians",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "This Israeli election could be the country’s last – this week I saw that for myself | Jonathan Freedland",
-   "author": "Jonathan Freedland",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/18/israel-election-last-october-palestinians",
-   "paras": [
-    "Spend time on the ground and you see how high the stakes are for next month’s contest – for Israelis and Palestinians alike",
-    "Candidates always say it, but this time it’s true. When Israel goes to the polls on 27 October , it really will be the most important election in the country’s history – and not just for Israelis. I saw that for myself this last week, in a visit that served as a sharp reminder of both what is at stake – and the role of those watching from afar.",
-    "More than one voter I spoke to voiced the fear that, if the coalition headed by Benjamin Netanyahu is returned to power next month, 27 October will not merely be Israel’s most important election: it will be its last. They were not referring to the absence of democracy in the occupied territory of the West Bank – which we’ll come to – but rather to Israel’s internationally recognised, pre-1967 borders: what you might call Israel-proper. There, the last four years have seen a sustained assault on the machinery of liberal democracy by the most rightwing government since Israel’s establishment in 1948 – a committed, focused attempt to remove the checks and restraints on its own power, installing instead a kind of elective dictatorship.",
-    "Jonathan Freedland is a Guardian columnist",
-    "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/50f2f2936e4a0bd5d3fa5b09bf35d534aa6b5866/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=bb255119fd021791380c5a19f55eaa6c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-books2026sep18singaporepaidreadingscheme",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Singapore is paying people to read books – can it fix the reading crisis?",
-   "author": "Ella Creamer",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme",
-   "paras": [
-    "A government scheme is giving citizens cash for spending time with a good book. We ask behavioural scientists, along with The Anxious Generation author and psychologist Jonathan Haidt, whether it’ll help make the habit stick",
-    "Could the solution to the reading crisis lie in paying people to put down their phones and pick up a book? That’s what one government, at least, is resorting to: this month, Singapore launched a scheme promising actual cash to citizens as a reward for logging reading time on a government website.",
-    "It’s unlikely to make you megabucks – you have to rack up 50 reading sessions of at least 15 minutes to earn one Singapore dollar (£0.59), with only one logged session allowed per day. But behavioural scientists and psychologists told the Guardian such a scheme could still help boost a habit in precipitous decline."
-   ],
-   "img": "https://i.guim.co.uk/img/media/87caa75059528ebb8ae42366605d004bfc2685a7/1354_0_5654_4523/master/5654.jpg?width=140&quality=85&auto=format&fit=max&s=770704429bce92f76aebfe583bd963e3",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sep18trumpauthoritariandissentappointees",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Trump’s authoritarian mindset can’t handle dissent from his appointees",
-   "author": "David Smith in Washington",
-   "date": "2026-09-18",
-   "url": "https://www.theguardian.com/us-news/2026/sep/18/trump-authoritarian-dissent-appointees",
-   "paras": [
-    "Defiance from the supreme court and the Federal Reserve chair in one week ... how ever will the US president cope?",
-    "“It’s not personal, Sonny. It’s strictly business,” Michael Corleone tells his brother, Sonny, in The Godfather. But for Donald Trump , it’s always personal. And he leaves this week feeling betrayed.",
-    "First, the US supreme court rejected his effort to restrict mail-in ballots ahead of the midterm elections. “These are not the people I interviewed to serve on the United States Supreme Court,” the president wrote on his Truth Social platform. “They are merely a shell of their original selves.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/ae5c987d84e769f753a79703e328bfdc1873b0b4/0_257_3916_3133/master/3916.jpg?width=140&quality=85&auto=format&fit=max&s=576d02a7eb894e656f2643d1a81922e5",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1212,37 +1427,6 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-homeinsanfranciscoshistorichaightashbury",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Seattle’s KEXP eyes a second physical home — in San Francisco’s historic Haight-Ashbury",
-   "author": "Kurt Schlosser",
-   "date": "2026-09-17",
-   "url": "https://www.geekwire.com/2026/seattles-kexp-eyes-a-second-physical-home-in-san-franciscos-historic-haight-ashbury/",
-   "paras": [
-    "Seattle independent radio station KEXP is exploring the possibility of building out a second physical home — far from its beloved base at Seattle Center — in San Francisco.",
-    "Three years after expanding its broadcast footprint to the Bay Area with the acquisition of 92.7 KREV FM, the non-profit music institution has set its sights on the city’s historic Haight-Ashbury neighborhood for a potential site.",
-    "Under a proposed partnership announced Thursday by KEXP and city preservation group SF Heritage , the station would team up with local nonprofit Blue Bear School of Music to convert the historic Doolan-Larson House and Storefronts at the corner of Haight and Ashbury streets into a multifaceted music and cultural center.",
-    "The early-stage plan for the landmark property envisions radio broadcast facilities, a roof venue for live performances and community events, space for group and individual music lessons, and a public “third space” intended for year-round daily gathering.",
-    "The proposed hub adds another twist to the long-standing cross-pollination between the two tech capitals. While Silicon Valley giants have routinely set up major engineering outposts in Seattle, and founders and workers migrate between the regions, KEXP’s expansion represents a rare cultural export heading in the opposite direction.",
-    "San Francisco Mayor Daniel Lurie cheered the proposal as a win for both the neighborhood and the city’s broader economic recovery.",
-    "“Art and music have been part of what makes San Francisco special for generations,” Lurie said in a statement. “Innovative partnerships like this one help us reimagine what’s possible and find new ways to activate our neighborhoods. Our artists and cultural spaces make our city stronger, and this new home for music and culture at Haight and Ashbury will inspire generations to come.”",
-    "Located at the epicenter of the 1960s counterculture movement, the Colonial Revival-style Doolan-Larson House was originally constructed in 1903 and raised after the 1906 San Francisco earthquake to add ground-floor storefronts.",
-    "The property — designated San Francisco Landmark No. 253 and listed on the National Register of Historic Places — housed groundbreaking hippie-era boutiques during the Summer of Love. It was gifted to SF Heritage in 2017 by its long-time owner, the late Norman Larson, specifically to ensure the landmark would be preserved and activated for public and cultural use.",
-    "Founded in 1972 as KCMU — a small, student-run station at the University of Washington — KEXP has spent over five decades building a global reputation for human-curated music discovery, famously becoming one of the first stations to champion the “Seattle sound” in the late 1980s.",
-    "The station’s Bay Area presence officially materialized in late 2023 when KEXP placed the winning $3.75 million bid at a bankruptcy auction to acquire commercial frequency 92.7 KREV FM (now KEXC). Funded by a portion of a $10 million bequest left by a anonymous long-time donor, the station began retransmitting its broadcast signal to Northern California in March 2024 as part of a strategy to ground its growing digital and streaming audience in key cultural markets.",
-    "In Seattle, KEXP’s physical hub at Seattle Center — itself a civic landmark — features a public Gathering Space that combines a coffee shop, record store, and live performance venue alongside its open-view DJ booth.",
-    "Translating a high-touch, human-centered physical experience into new markets is a core priority for the station: KEXP recently hired its first chief product and technology officer, former SiriusXM and Nordstrom executive Jyoti Shukla, to build digital products and physical spaces that intentionally prioritize human music curation over AI algorithms.",
-    "In a post on LinkedIn , KEXP CEO Ethan Raup said the response to the station’s arrival in the Bay Area “has been nothing short of remarkable” and that it gave KEXP “the confidence to start planning for our next big step.”",
-    "In its post on Thursday, KEXP stressed the plans are “not a done deal yet.” Over the coming months, SF Heritage, KEXP, and Blue Bear School of Music will focus on gathering community feedback, finalizing an adaptive reuse plan, and determining construction feasibility and project financing.",
-    "KEXP and Blue Bear representatives will make their first public outreach push at the Haight Ashbury Street Fair on Sunday to share more about the proposed project."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/Doolan-Larson-House-and-Storefronts-credit-Alvis-E.-Hendley.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-ttlesspeedcameraprogramentersnewfrontier",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1273,126 +1457,20 @@
    "annos": null
   },
   {
-   "id": "f-stranger-trangercomnewskelabetewoldeistherealdeal",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Kelabe Tewolde Is the Real Deal",
-   "author": "Harry Cheadle",
+   "id": "f-kuow-VveWlPYTM0UXZpOGhXelJ3X3hnTUhiZ3o1dEooc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "WA governor takes stand against initiative repealing ‘parents bill of rights’",
+   "author": "",
    "date": "2026-09-17",
-   "url": "https://www.thestranger.com/news/kelabe-tewolde-is-the-real-deal/",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObmZxS1FUamNUay1SZ2stYkx4MDg3SW85NnRBZEdKN2E3LXVNcGk0UVNZenJvR2NvdmxMc0hkLTI4M0FRc3pScW4xTkhRXzNhN2Q2dHpfaWUzaE4xUkhMWXNfTDJSa255LVFGV1l3QzBpaXY5cUxiLVJKbHFGcnM1SVZwRTBNanNhMEl0MHY4SXBobEVOc29ucFBVVlNQRTh2S3JhaFVveWlPYTM0UXZpOGhXelJ3X3hnTUhiZ3o1dEo?oc=5",
    "paras": [
-    "On an August evening in Beacon Hill, in the back patio of the restaurant familyfriend, Kelabe Tewolde and his crew hovered around a laptop, waiting for the first primary election results to come in. As a first-time candidate, Tewolde hoped to get at least 40 percent of the vote. That would prove the progressive challenger had a serious shot at unseating Rep. Sharon Tomiko Santos, who has represented the 37th District since 1999.",
-    "The primary election was a mixed bag for Seattle progressives, particularly those hoping to unseat incumbents. Hannah Sabio-Howell’s relatively high-profile campaign against State Senate Majority Leader Jamie Pedersen hit a snag: she won just 24 percent of the vote. In Northeast Seattle’s 46th District, State Representative Gerry Pollet won over half the vote, beating out a pair of progressives. But Tewolde had a good night.",
-    "When the results came in, Tewolde’s supporters cheered. Tewolde exceeded expectations , winning 46 percent of the initial vote tally. As more ballots trickled in over the coming days, that number climbed to 51 percent, leaving Santos solidly in second.",
-    "Going into the general election, the contest for Santos’s State House seat is now one of the most hotly contested races in King County. It pits a young, progressive renter against an older homeowner and member of the local political establishment. Tewolde besting Santos was a longshot before the primary, but now he could be this year’s surprise political success story.",
-    "The 37th is an oblong district that stretches from Madrona and the Chinatown-International District in the north down the east side of I-5 to Skyway and Bryn Mawr in the south. It’s one of the most diverse areas in the entire country, home to immigrant communities from all over Asia and Africa. It’s where Tewolde’s single mother, a refugee from Eritrea, found herself in 1994.",
-    "She struggled to afford housing, moving her family of two frequently, sometimes staying with extended family in South Seattle, sometimes living in public housing, or moving constantly to different rentals in North Seattle. There were years when they didn’t have a car and neighbors brought Tewolde to and from school. At his primary election party Tewolde said he and his mother were supported by “the dopest village ever,” a network of “aunties, uncles, and older cousins” who could help out.",
-    "When Tewolde was a child his grandmother, who essentially raised him until he was nine, died of lymphoma, leaving the family buried in medical debt. His mother had to declare bankruptcy.",
-    "His mother hid how desperate her economic circumstances were. “She made it seem like we were middle-class,” Tewolde says, “but we were pretty low on the totem pole.”",
-    "The summer after fifth grade, Tewolde got into Rainier Scholars , a nonprofit that helps underserved youth prepare for college. With assistance from that program and some prodding from his mother, he went to University Prep on a scholarship beginning in the seventh grade. That put him on a path to studying political science at Colgate, a private university in Upstate New York. He interned with US Senator Patty Murray, imagining a career as a political staffer. Instead, he wound up back at Rainier Scholars as an academic counselor in 2018, helping the kids who were in the same position he was in a decade earlier.",
-    "When the COVID-19 pandemic shut down the world, Tewolde helped organize an effort by local restaurants like Musang and Lil Woody’s to get meals to food-insecure people. It was a “community effort,” he says and his role was “behind the scenes,” which suited him. He’s not someone who seeks the spotlight.",
-    "For a political candidate, Tewolde seems low-key; he’s not shy or awkward, but he doesn’t have the polished, glad-handing charisma that longtime politicians acquire. He dislikes candidates who make their campaigns all about them, the ones who say, “Get behind me.”",
-    "He didn’t think of himself as candidate material until this past year, when he met people at the progressive Working Families Party who encouraged him to consider running for office. With his strong ties to the community and educator background, he could help the progressive cause in Olympia. There was even an open spot in the 37th; Rebecca Saldaña left her State Senate position to run for King County Council, and kickstarted a game of political musical chairs. With Rep. Chipalo Street from the 37th running for Saldaña’s seat, Tewolde considered running for Street’s seat, but progressive Jaelynn Scott was already vying for it. He didn’t want to oppose Scott—“I’d rather vote for her,” he says. (Scott easily won her primary and is on track to become Washington’s first trans legislator.) Instead, he eyed a harder target: Santos, who had represented the district since Tewolde was four years old.",
-    "Sabio-Howell helped convince Tewolde to run against Santos just as she was running against Pedersen. She called him and, as she told The Stranger , said, “‘it’s time to get establishment leadership in fighting shape or out of the way.’” A progressive challenge would be beneficial regardless of who won, she reasoned. If the longtime incumbents prevailed, they might have to commit to progressive ideas including “protections for renters” and “taxes on corporations,” she says. “It’s through these challenges that we move the issues forward.” Tewolde agreed. The race was on.",
-    "Tewolde says that he’s trying to run a “respectful” campaign. He told the Hacks and Wonks podcast this summer that Santos “has a long legacy of doing right by the district, but… more recently has started to stray away from the progressive values of the 37th.” One of his major points of contention with her is that she was the only Seattle-area politician to vote against a rent stabilization bill last year.",
-    "That vote, Santos says, was motivated by her conviction that the bill was “a blunt approach to a problem that needed a fine-edged scalpel.” She was concerned that smaller landlords struggling from rising costs would be hurt by a cap on rent increases, Santos told The Stranger . Tewolde thinks “it’s wild” for a 27-year incumbent “to not be in favor of some sort of stabilization” when renters are now a majority in the district. “I’ve moved four times in the last six years,” he says, once because “the rent was too dang high.” He worries that when families are forced to move because they can’t afford housing—like his mother had to—it disrupts the lives of their children.",
-    "“When a kid moves, it throws everything off in their education journey,” he says.",
-    "Beyond the specific policy disputes with Santos, Tewolde is offering voters a fresh face. Democrats around the country are unhappy with party leadership and incumbents, and some of that dissatisfaction may be trickling down to South Seattle. Tewolde says that even when he knocks on doors near Seward Park—one of the district’s wealthiest neighborhoods—he’s gotten positive responses. “I was surprised that there were people that were pretty friendly and also interested in change,” he says, with some people saying, “‘Yeah, we need new leadership.’”",
-    "King County Executive Girmay Zahilay, Tewolde’s most prominent endorser, compared himself to Tewolde. Both men are sons of East African refugees and both experienced housing insecurity growing up in South Seattle. Zahilay won election to the King County Council in 2019 by defeating longtime incumbent, Larry Gossett. Tewolde could do the same if voters believe he embodies a new vision for the district.",
-    "“Kelabe is an educator and housing advocate who has spent his career investing in the community he’s from,” Zahilay said in a statement to The Stranger. “The 37th has always been special, and it’s ready for the next step.”",
-    "Sabio-Howell thinks that if Tewolde pushed Santos to make some progressive policy commitments, that would count as a win. But Tewolde isn’t interested in moral victories. “The time to push her toward progressive policy has passed,” he says of Santos. “I’m running to win so this district has a representative who shows up for the 37th.” He just might be able to.",
-    "For the next two months, Tewolde is living the life of a small-time candidate. He’s raised just over $82,600. He hasn’t hired a campaign manager, knocking on doors and dialing donors himself when he’s not working at Rainier Scholars.",
-    "Santos, who hasn’t faced many serious challengers in her political career, acknowledged to the Washington State Standard that she’s working harder than she has before. She’s outraised Tewolde, boasting a war chest of $140,000 and she’s endorsed by more politicians. But Tewolde is backed by Chris Reykdal, the state Superintendent of Public Instruction, and in a recent endorsement from the Seattle Times editorial board, the board called out Santos, the chair of the House Education committee, for her lack of vision on education.",
-    "Since the primary, more people are picking up Tewolde’s calls. He’s not just a candidate—he’s someone who can win. It’s a real race. “With those results, a lot of people are taking it more seriously,” he says.",
-    "The post Kelabe Tewolde Is the Real Deal appeared first on The Stranger ."
+    "WA governor takes stand against initiative repealing ‘parents bill of rights’ KUOW"
    ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Kalabe-Tewolde.jpg?fit=1024%2C670&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-comartsgirlsownthevoidandartownsdowntown",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Girls Own the Void and Art Owns Downtown",
-   "author": "Amanda Manitach",
-   "date": "2026-09-17",
-   "url": "https://www.thestranger.com/arts/girls-own-the-void-and-art-owns-downtown/",
-   "paras": [
-    "The second half of September means Art + Culture Week is upon us. Recall how I previously mentioned September is Art World Prom in NYC? This week feels like a (much-needed) attempt to recalibrate the Seattle art calendar to match some of that energy. Now in its third year, the annual Art + Culture Week festival is designed to stack as many events as possible at as many galleries and venues as possible within the space of nine days. It’s a great way to get to know new spaces or get to know old ones better. Find the complete calendar of events here .",
-    "The keynote event is WALKDONTRUN , now in its second year, which turns downtown into an art-filled corridor. It’s gonna be gorgeous out, so unless you’re going to a wedding or a funeral, you better soak it up. Here are details about that plus some other things I recommend you catch in the coming weeks.",
-    "September 17 unpoetry at Frye Art Museum Our Genius shortlister Eric M. Acosta brings ekphrasis to life with the latest installation of unpoetry at the Frye . This one is inspired by the current exhibit I hear the hollow boom of time , with responsive works by dance artist Noelle Chun; composer, intermedia artist, poet, and archivist María Dolores A. Matienzo; and multi-instrumentalist Tom Scully, who is currently the guitarist for improvised noise duo CSTMR and “gunk-pop” band Black Ends. Project NW: David Hytone at Tacoma Art Museum For the past decade, David Hytone has been building a style and process that produces visual stunners—uncanny mixed-media quasi-landscapes on canvas that are populated with hypothetical dream architecture and objects not from the “real” world. His Project NW installation at Tacoma Art Museum leans even harder into nostalgia-tinged dream imagery and gently absurd symbolism (sinking toy ships and carnival roller coasters). He’s also utilized the space to introduce some massive pieces that tip traditional painting into the realm of installation.",
-    "September 17-19 The Goldberg Variations at On the Boards The word “unhinged” is the primary adjective used to describe Clayton Lee’s The Goldberg Variations , opening this week at On the Boards . What’s actually going to unfold onstage tonight is a surprise—each performance is different (you can read a review of the recent iteration at Portland’s Time-Based Art Festival here ), but I daresay we’ll be enraptured as Lee uses Bach and wrestling as a vehicle for teasing out fantasies delving into themes of “power dynamics, sexual desire, and vulnerability that entangles queer sexuality with classical music and professional wrestling.”",
-    "September 19 WALKDONTRUN The long-awaited WALKDONTRUN features more than 200 artists spread across 20 blocks of downtown Seattle. Find the full list here . This year, the route is reversed from last year’s, kicking off in Westlake Park at 11 a.m. and ending at Occidental Square. Here are my notes from print: Last year’s wayfinding was a little tricky. If that’s the case again, my advice is to study the route beforehand and plot a path so you don’t miss artists like Dez’Mon Omega Fair , one of my favorite performance artists in town; Charmi Shah , who is hiding collectable, baseball-card-size collages along the route for participants to find and keep; and Jesse Higman , whose interactive paint-pouring technique, performed around a massive tilting table , is an unforgettable experience. Or just wander blindly and let the art happen to you, because the magic of this event is that you get to experience the city in a completely new way.",
-    "Cut the Red Tape at Slip Gallery Seattle was shaped by redlining, a discriminatory housing practice that involved denying mortgages, insurance, or other financial services to Black, Asian American, and other communities of color in certain neighborhoods, resulting in wealth disparities and racial segregation. At Slip Gallery , Rodney King’s Cut the Red Tape addresses this city’s history of redlining and on Saturday the gallery hosts a panel discussion (noon–2 pm) featuring King and guest artists Myron Curry, TR Miles, Vincent Keele, and Jonarra Swanson to discuss gentrification, redlining, and how artists can shape what society remembers.",
-    "Social Contract at Actualize AiR Tommy Gregory and Rachael Comer have curated the fall exhibition at Actualize AiR , which features 17 artists from across the continental US, including The Stranger’ s very own Charles Mudede, whose video, Twilight of the Goodtimes , loops across a TV screen haunted by the fallout of late capitalism’s repeated calamities. I’m here for it. An opening reception is scheduled during WALKDONTRUN (4–8 pm) with an artist talk at 5.",
-    "September 20 Build Your Own Black Hole at Steve Gilbert Studio Do astrophysics the hedgewitch way with Meghan Thréinfhir ’s Build Your Own Black Hole workshop, from 3–6 pm at Steve Gilbert Studio . Thréinfhir will take you through her solo exhibition, Spacetime Gothic, which features her original black hole in a jar—an inky, liquidy ball of ferrofluid that dances with magnets and has the impeccable title Girls Own The Void (Land Art For Bog Witches) . All materials provided but the vessel—just bring a small jar, baby-food size recommended.",
-    "September 23 William Kentridge Anything Is Possible at Greg Kucera Gallery It’s movie night in the gallery. They’re screening the feature documentary William Kentridge Anything Is Possible along with short films by the artist (6–7:30 pm). The doc provides a BTS glimpse inside Kentridge’s studio practice and mind. The selection of shorts, featuring hand-drawn charcoal animations, explores his themes of memory, time, and all kinds of politics-ridden history.",
-    "September 24 Day-to-Day: A Life in Sticky Notes at Henry Art Gallery Artist Clare Johnson has kept a diaristic sticky note drawing practice for two decades, amassing a collection of over 6,000 drawings (and counting). Join Johnson for a talk and hands-on activities that will help you develop your own relationship to making “everyday” art. If you haven’t seen the Day-to-Day exhibition at Henry Art Gallery (I wrote about it here ), this is your sign.",
-    "Melissa Messer at Spectrum Fine Art Melissa Messer describes her practice and work as “if Rothko’s daughter were obsessed with form.” I might add Albers to the mix. Messer is a colorist whose use of hue is almost spiritual (in which case, Rothko is the correct comparison). She is also a pre-eminent figurative painter, where the human body becomes an armature upon which to drape shades of deciduous greens, burnt orange, and acid gold. This is Messer’s first solo with Spectrum Fine Art ; a formal reception lands on October 8, but you can get a preview this weekend for Art + Culture Week.",
-    "September 26 Kelly Bjork: Lunacy at J. Rinehart Gallery No one in this city is as cool and talented as Kelly Bjork . Her drawings are full of intimacies and bodies, tenderness and acceptance, rendered in beautiful, illustrative precision. Her second solo exhibition at J. Rinehart Gallery , Lunacy , addresses queerness in a time of queer discrimination and violence. The exhibition preview opens today, 1–3 pm.",
-    "IMMINENT MODE at ArtLove Salon The seventh iteration of IMMINENT MODE , held at ArtLove Salon , brings collaborations by six teams of garment designers paired with visual artists to tell stories through wearable art and installation on the runway. This year’s artists include Anouk Rawkson, Jordan Christianson, Shiloh Davies, Shari Noble, Brandon Vosika, Jersey Virago, Dez’Mon Fair, Mariel Andrade, Devon Yan, Ruben David Rodriguez, and Debora Spencer.",
-    "The post Girls Own the Void and Art Owns Downtown appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/Messer.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-arliesqueerbooksisopeningasecondlocation",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Charlie’s Queer Books Is Opening a Second Location",
-   "author": "Katie Lee Ellison",
-   "date": "2026-09-17",
-   "url": "https://www.thestranger.com/books/charlies-queer-books-is-opening-a-second-location/",
-   "paras": [
-    "This is the best books news I’ve heard since Roxane Gay and Debbie Millman bought The Rumpus : Charlie’s Queer Books is opening a new location in Seattle’s original gayborhood, Capitol Hill. Next door to Unicorn Bar, across the street from Wildrose, and around the corner from Elliott Bay Book Company, this new space is set to open in November.",
-    "The new store will be ADA accessible and twice as big as the Fremont location, with an events and gathering space with room for 50 seats, as well as a coffee shop and wine bar. I spoke with the owners, Charlie Hunts and Madeline Burchard, about how it all came to be.",
-    "How did you get to a place where you could open a second location? Hunts: It has been remarkable how the Seattle queer and literary community have rallied around us. At this point, we’ve run out of space. Not only on the shelves, but also in terms of what this [current] location can handle for events and as a gathering space.",
-    "The property managers of this new location are an older couple from 12th & Pike St. Associates. They understand not only what we’re doing, but why it’s important for the neighborhood. If you keep the rent at a manageable price, even if it’s still high, you can keep the businesses that make the neighborhood what it is and encourage the vitality of that space.",
-    "How important are exclusively queer bookstores these days? Burchard: Because we’re in a cross section of record book bans and anti-LGBT legislation, our bookstore holds more responsibility than the average small business. That is in the forefront of our minds every single day we open the door. It’s been touching, the way people look to us to be leaders in the community, especially when something happens that affects the community.",
-    "Do you feel ready and able for that responsibility? Burchard: Charlie and I have training for it, but it’s heavy to be like, “Okay, we gotta say the responsible thing. I hope we’re getting this right.” We won’t always, but I hope we can show up for people in the best way. Sometimes it’s tough for me to figure out our next step—what we say, what we do, or if people even want to hear from us about it. But we have a lot of young trans customers who look up to Charlie in particular. So Charlie’s is more than a third space. This is part of our social fabric.",
-    "Hunts: We also do things like watch parties and video nights. Events that are kind of stupid, silly, but essential. That’s one of our niches—to not take ourselves too seriously, to be joyful, and in touch with culture, too. We’re not just people who own a bookstore selling to gay people. We are gay people.",
-    "Do you have a vision or hopes and dreams for where this is all headed, say five years from now? Hunts: We’ve had big hand-wavy dreams, like what if this became a national thing? But it’s very hypothetical. Right now, we’re entering a new industry in coffee and food service. We’re getting a handle on that, and what’s great about this place is it allows us to support programming that doesn’t charge for tickets. So everything from a silent book club to open mic, it helps support community events and bigger authors, too.",
-    "I think our vision for the store is people come in here and they’re kind of entering into an alternate universe where they are the norm. They are the defaults. They’re not hunting the shelves for things that wreck them. They’re not in the LGBT section that’s tucked away.",
-    "Like the porn section or something. Hunts: Yes, we are always next to self-help. We have encountered bookstores where the LGBT section is next to porn, self-help. Sometimes in… a literal closet. A little closet that just didn’t have a door on it. We were like, we have to make this bookstore.",
-    "Is there anything you want to say to people about the new space? Hunts: I’m excited to keep iterating on this business, see how far we can take it, and learn as much as we can. We’re very open. Folks who came in and said, “I want to start a book club”: we let them start a book club. If folks have dreams for something, they don’t always have a space for it. We are open to these conversations. If someone is serious, they want to take charge of it, work with us, and collaborate, let’s talk about it.",
-    "The post Charlie’s Queer Books Is Opening a Second Location appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/cqb-photo-by-Billie-Winter-scaled.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-wnseattleisboomingfederalreserveincrease",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Robert Kraft Says He’ll Donate $2 Million to “Humanitarian Aid” After Macklemore Pledges $1 million to Palestine, Downtown Seattle Is Booming, Federal Reserve Increases the Cost of Borrowing",
-   "author": "Charles Mudede",
-   "date": "2026-09-17",
-   "url": "https://www.thestranger.com/news/slog-am-robert-kraft-says-hell-donate-2-million-to-humanitarian-aid-after-macklemore-pledges-1-million-to-palestine-downtown-seattle-is-booming-federal-reserve-increase/",
-   "paras": [
-    "The average price a worker pays to commute in the Seattle area? $10,018 a year, according to a study by Consumer Affairs . And the amount of time a worker spends driving to and from a job? An hour, which is “roughly 10 full days spent [in a car annually].” Altogether, only four metropolitan areas are above ours when it comes to bleeding through the nose to get around. Automobile freedom not only doesn’t exist, it’s not cheap.",
-    "But how is the new bus lane on Denny Way going? Over the past two weeks, I’ve taken the 8 bus 10 times during rush hour, and not a single bus was late. None. Not only that, traffic jams appear to have vanished from this part of Denny Way. Where did they go? What kind of sorcery is this? Losing a lane has actually loosened rush-hour traffic? Maybe I’m just seeing things. Time will tell.",
-    "It rained on Sunday. And it was almost like real rain, the kind of rain that falls for days and makes this region dark and green like the forests in the Twilight movies. But the rain on Sunday departed around noon and, so far, refuses to return. What a tease. Today will be mostly clear and sunny. Expect a high of 75.",
-    "U.S. Rep. Marie Gluesenkamp Perez does it again. She voted with Republicans on a measure that advanced their priorities. She was one of two defections on this matter. If both “Democrats” had voted against the measure, it would have failed . The problem is this: The GOP is no longer a party. It’s just Trump. So, if you support a Republican measure, you are only supporting Trump and his massive anti-democratic project. Perez is not a centrist, as the Seattle Times keeps calling her. There is nothing like a center in US politics today.You are with Trump or you are not. It’s that simple, Perez.",
-    "Downtown Seattle is once again far from dying . It is in fact thriving. Last month, this part of town, with its waterfront, its markets, hotels, galleries, stadiums, and Link stations experienced 9.2 million visits . This is, according to data collected by an organization that has it in for Mayor Katie Willson , the Downtown Seattle Association , the busiest the downtown has been since July 2019. The DSA also reported that consumers spent an estimated $165 million in July.",
-    "Well, Trump did not get his wish —cheap cash—from the very man he placed at the top of the Federal Reserve, Kevin Warsh. Yesterday, he raised interest rates “for the first time in more than three years” because inflation is a real thing; something, anything has to be done to cool it. Rates went up by 25 basis points and are now in the 3.75 percent–4 percent range. The inflation Warsh is now battling by raising the cost of borrowing was entirely caused by Trump’s war and tariffs.",
-    "Black holes not only consume everything in sight but also expel large amounts of gas. Astronomers at the University of Florence verified this phenomenon while observing a black hole at the center of a galaxy, NGC 1066 (also called the Squid Galaxy), which is 45 million light-years from us. This black hole is a monster. It’s between “8 million and 17 million solar masses,” and it ejects much more gas than scientists expected. (This extra gas is hard to detect because it is dust poor.) But get this: The astronomers also “checked whether this gas could ever fall back toward the black hole. Comparing the outflow’s speed with the galaxy’s escape velocity, they found the gas is moving several times faster than needed to escape entirely.” The mystery of black holes only knows how to grow.",
-    "Let’s picture this. Some physicists believe, understandably, that the universe is actually the interior of a black hole. But how to make sense of this hypothesis? For one, it means the beginning is a singularity, the collapse of a dead star, and we are not moving toward it but bouncing from it. This means that in fact we are moving back in time. What we feel to be the past is actually in the future; and the past, where the singularity is located, is actually moving forward in time. This explains the nature of memory and computation. It is the future from which we are receding. And the actual past is the event horizon, which, as we approach, appears to be expanding at an accelerating rate. We call this acceleration toward the black hole’s past dark energy.",
-    "Macklemore keeps winning his war with Robert Kraft , the billionaire who forced Ed Sheeran, a coward whose music is to my ears what a wet stone is to my mouth, to drop the Seattle rapper from his Loop Tour. Macklemore challenged Kraft to match his $1 million pledge directly to Palestinian organizations, and, according to NYT , Kraft pledged $2 million to “the region.” Make of that what you will.",
-    "Linton Kwesi Johnson (also known as LKJ) is a dub poet. Dub is an abstract form of reggae, and in the late ’70s, Jamaican poets like Prince Far I and Mutabaruka used the echoing and reverberating dub rhythms as backdrops to their politically charged poems. LKJ was born in Jamaica, raised in the United Kingdom, educated as a sociologist, and was once a member of the British chapter of the Black Panther party. He used the dub-poem form to address the social and political realities of Britain’s depressed inner cities, particularly during the Thatcher years.",
-    "LKJ read (and still reads) his poetry with a thick and sometimes impenetrable Jamaican accent. For example, on “Reggae Fi Dada” (Making History, 1984), he opens with these lines: “Galang dada, galang gwwaan yaw sah/yu nevvah ad noh life fi live/jus di wan life fi give/yu did yu time pan ert/yu nevvah get yu jus dizert” (translation: “Go on daddy, go on, go on sir/you never had no life to live/just the one life to give/you did your time upon the earth/you never got your just dessert”). Some of LKJ’s dub poems surrender all meaning to the hypnotic pulse of the reggae rhythm, such as the title track of the 1978 album Dread Beat an’ Blood , which moves to a slow and bouncy reggae beat.",
-    "Today is your last chance to see the documentary about LKJ, Dread Beat an’ Blood , at the theater that won this year’s Genius Award for film, the Beacon Cinema . Because I can’t say enough about LKJ, let’s conclude AM with his masterpiece, and atheist anthem (yes, this enlightened dread does not believe in Jah), “ Reality Poem .”",
-    "The post Slog AM: Robert Kraft Says He’ll Donate $2 Million to “Humanitarian Aid” After Macklemore Pledges $1 million to Palestine, Downtown Seattle Is Booming, Federal Reserve Increases the Cost of Borrowing appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/PXL_20240913_180741756.PORTRAIT4-1-1-scaled.jpg?fit=1024%2C772&ssl=1",
-   "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1413,32 +1491,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-VveWlPYTM0UXZpOGhXelJ3X3hnTUhiZ3o1dEooc5",
+   "id": "f-kuow-SckFwVGoxZ2ZXTUxYb0xhUXB3dEk3cVpvb2tnoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "WA governor takes stand against initiative repealing ‘parents bill of rights’",
+   "title": "Mother killed in Seattle Center mass shooting remembered as a ‘light in the darkness’",
    "author": "",
    "date": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObmZxS1FUamNUay1SZ2stYkx4MDg3SW85NnRBZEdKN2E3LXVNcGk0UVNZenJvR2NvdmxMc0hkLTI4M0FRc3pScW4xTkhRXzNhN2Q2dHpfaWUzaE4xUkhMWXNfTDJSa255LVFGV1l3QzBpaXY5cUxiLVJKbHFGcnM1SVZwRTBNanNhMEl0MHY4SXBobEVOc29ucFBVVlNQRTh2S3JhaFVveWlPYTM0UXZpOGhXelJ3X3hnTUhiZ3o1dEo?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGo3c19TWUFFMGtYNF82Ql9CMzdVclp6dkhSbVc1SEY5X3JmSEM3OTlUZVl4cDJZSEtYVkF5aTZqWlRrdjItY2FTUnFsTTV2RGotbkdIVEk4Q2NNN1BHRXp4bTVpNDY0S3duY1I1Yk9XeGg3QzFPOV9vaTBRYnRaZXktZWpJd3RZRDRQWnkxam1Zb3dacVlJWm95cFNSdU5sYTNSckFwVGoxZ2ZXTUxYb0xhUXB3dEk3cVpvb2tn?oc=5",
    "paras": [
-    "WA governor takes stand against initiative repealing ‘parents bill of rights’ KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-XhWWl9kWEUyb2gwZXlDa05OVmdYNkU3dDRsMAoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle leaders say ‘fair pricing’ policy will keep groceries affordable. Not everyone buys it",
-   "author": "",
-   "date": "2026-09-17",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZDcteGVLRVk3V19KQUJmTUlfR3M3ZFFIQ09uUXhoWW91cDFTWnFtRVN4OFYzd0ZpM3Jvd21lTm5JTHhHV29hWTFuc3BweVVlUkN4SzI4UFNzNzJsbjZFc201QXFrb1I3NF93RXh4bHpiOGdIeHpxNkVfZFBxVEYwLVZlemszZ3RCUzVZcndpM0V4OHJacXRvQUNSLVZmRnVzc2xwSUJXaUhKYWlDSk9pc2dxVFhDekVSRTNQUXhWWl9kWEUyb2gwZXlDa05OVmdYNkU3dDRsMA?oc=5",
-   "paras": [
-    "Seattle leaders say ‘fair pricing’ policy will keep groceries affordable. Not everyone buys it KUOW"
+    "Mother killed in Seattle Center mass shooting remembered as a ‘light in the darkness’ KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1592,6 +1653,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-M5SmR2cEM4Ni0xWEJ1c0V1c1R0SnM0WEh0QmMoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Some Seattle City Council members slam mayor’s gun violence reduction proposal, pass their own",
+   "author": "",
+   "date": "2026-09-16",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFlVVnAyT0Rsb05jZy1uZXczQnE4UEZ2QW92dkxLeGR5cFNZeDhxZERRdVE1aC1UU2lWN3NGVlZCNUp6X25QZk5rVHFtajlZcTBROG44M0duQzh3ZjVIWndReXpVLWtOalI3WC1yb2tmZG85QlRCZ3pDWlhHdFZXdm9JWThUN2ZQV213Smo3VTdxQ0t2V25ibENNLWpYRUdZTU9aNmlLUDROanBHQXVsN3N5dnM5SmR2cEM4Ni0xWEJ1c0V1c1R0SnM0WEh0QmM?oc=5",
+   "paras": [
+    "Some Seattle City Council members slam mayor’s gun violence reduction proposal, pass their own KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-grist-gwbkNGdG1INE9lNW1COFhJSzBnQU0zSnZGVUsoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1606,61 +1684,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-0a21QZnhaajRXM3E0OFlwOGR1OXRjZENhNWx3oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Port Townsend paper mill hit with $734,000 pollution penalty",
-   "author": "",
-   "date": "2026-09-16",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNamhFSzNKRFJtOVlNelZ4Q2wyZTdCUllyekVQN0N4UDdCT2wwbl92dktsVnkydTlZVG0zSUtHYURyZk1udEZWYXpCZ19FOW4xTTA4bWE3ckVlUGpJT0xiN29QcWF2NEUwVWo1MnB4TXg3RU1KVUtRQ044TVB4elpHZVlRakltUm5GbDh0a21QZnhaajRXM3E0OFlwOGR1OXRjZENhNWx3?oc=5",
-   "paras": [
-    "Port Townsend paper mill hit with $734,000 pollution penalty KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-swwwtheurbanistorgbellevuecouncilparking",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Bellevue Council Faces Decision Point on Parking Reform",
-   "author": "Ryan Packer",
-   "date": "2026-09-15",
-   "url": "https://www.theurbanist.org/bellevue-council-parking/",
-   "paras": [
-    "The Eastside's largest city is grappling with a new state mandate to scale back its off-street parking requirements for new development. In facing choices around going further than the new state-required baseline, Bellevue's leaders are facing crosswinds: a desire to continue reducing barriers to homebuilding is crashing into the city's car-oriented status quo.",
-    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
-    "The new mandate is coming thanks to Senate Bill 5184 , a law approved last year that sets strict caps on the number of off-street parking stalls that Washington cities can require with new building projects. By next January, Bellevue will no longer be able to require more than one parking stall for every two apartment units, nor more than two parking stalls for every 1,000 square feet of commercial space.",
-    "The City will also be barred from requiring any parking for a broad set of uses, including apartments less than 1,200 square feet in size, commercial spaces that are less than 3,000 square feet, child care facilities, and affordable and senior housing.",
-    "The statewide parking reform is intended to ease cost burdens on builders, which are passed along to renters and homebuyers. Adding garage parking typically costs builders $60,000 per stall or more, according to the housing-focused Pacific Northwest think tank Sightline Institute.",
-    "Cities across the state are grappling with the new requirements, but Bellevue's size, prevalence of transit infrastructure, and positive trends in housing permit starts are putting a spotlight on how this new mandate gets implemented. Earlier this year, numerous councilmembers expressed clear interest in looking at how to be more ambitious in giving developers flexibility around parking, but recommendations that came out of Bellevue's planning commission hew much closer to the bare minimum.",
-    "A growing number of Washington cities are taking steps to fully eliminate parking mandates from their land use codes, following in the footsteps of places like Spokane , Port Townsend , and Bellingham . Vancouver abolished parking mandates as part of its Comprehensive Plan update earlier this year, with Tacoma next on deck. Next door to Bellevue in Issaquah, city leaders are considering eliminating mandates across a wide swath of the center city – an area where increasing housing growth is the goal.",
-    "A full repeal is likely a step too far for Bellevue, no matter the studies showing the range of positive benefits that come from doing so. Earlier this year, UCLA's Institute of Transportation Studies published a new research synthesis looking at a range of studies considering the impact of arbitrary requirements to build parking and the quantified benefits that come from wiping them off the books.",
-    "\"Across the research literature, scholars generally recommend eliminating minimum parking requirements. Removing these mandates lifts a major barrier to new housing and businesses, reduces the risk of parking oversupply, and encourages more efficient use of existing spaces,\" the researchers noted. \"Slowing the growth of parking infrastructure can improve walkability and urban design, reduce environmental harms, and support more sustainable travel behavior.\"",
-    "A full repeal is likely a step too far for Bellevue officials, so instead the debate will focus on pulling a few additional levers.",
-    "\"Considering that we have appropriately aggressive housing goals, and that many projects are struggling to move forward, I think we should continue to keep our foot on the gas. And I think there are some modifications we should consider to the final code, so that we can do that,\" Bellevue Deputy Mayor Dave Hamilton said last week.",
-    "By 2029, Bellevue will need to remove parking mandates from within a half-mile walk of light rail stations and within a quarter-mile of RapidRide bus stops. The city is going ahead and making that update now, but the council could expand that radius to a half-mile distance from RapidRide stations, which includes the B Line and the K Line , planned to open by 2030.",
-    "\"Council has already established policy direction that we want more housing capacity near high-capacity transit, including allowing six units by right in a half mile of light rail and quarter mile of bus rapid transit [BRT], removing mandatory parking requirements in those areas that are transit served is consistent with the broader direction,\" Councilmember Vishal Bhargava said. \"I would ask that we consider [...] the half mile around the BRT, and just as an analysis to see what the puts and takes would be towards that.\"",
-    "Naren Briar was the only councilmember to bring up the idea of a full repeal of parking mandates, laying down a potential marker for the future.",
-    "\"I am personally interested in exploring citywide elimination of parking minimums. According to the research I did, cities like Austin, San Jose, Buffalo, had done this and seen a tremendous amount of economic boost as a result of that. So I do want us to, to be clear, I think if we did that now, it might cause a little bit of chaos,\" Briar said. \"But I do want us eventually to see a city that is comprehensively integrated and allows end-to-end walkability as an effective mode of transportation for senior citizens, for young kids waiting at the bus stop, for for any resident or visitor of Bellevue.\"",
-    "Another issue likely to come up before a final vote in October is visitor parking. The draft code approved by the planning commission includes a set of requirements on top of the minimum required parking stalls for residential units, mandating every development with more than six units include one visitor stall for every 20 units. After 50 units or 20,000 square feet of gross floor area that requirement no longer applies, bizarrely.",
-    "\"I'm inclined to think that our mandate should be eliminated, and I'm looking to Seattle and Redmond, where they don't have any visitor parking mandate,\" Hamilton said. \"I think housing providers understand their customers' preferences and will build projects accordingly. This may be an area where we can follow the lead of neighboring cities and help ensure that folks who move here are not penalized.\"",
-    "There will also be a push in the other direction. At last Tuesday's meeting, a clear bloc formed in favor of sticking with the planning commission recommendation that included Jared Nieuwenhuis, Lynne Robinson, and Claire Sumadiwirya.",
-    "\"Myself, I live in a townhouse community, so I would say if there's no visitor parking, somebody is not able to walk a half mile, take the light rail, then nobody's gonna ever visit me,\" Sumadiwirya said. \"I have a lot of elderly friends, so I think it's really important to know that. I appreciate the take of meet the state minimum first. I think whenever there's something [that] changes in the policy, it's always good to be safe and finding that balance versus just I think making drastic, too bold changes that will be different.\"",
-    "Robinson, who served as Bellevue's mayor from 2020 to 2025, went even further than her colleagues and suggested that the city might make a push to amend state law to mandate parking at senior living facilities. She pushed back most strenuously on the idea of going further than the planning commission recommendation.",
-    "\"Nobody's going to have service providers serve the seniors. Nobody's going to get a visitor, and Silver Glen is our only, I think, our only independent [living facility],\" Robinson said. \"I guess there's one next to Emerald Court, but independent senior living, and all those people have cars, and most of them cannot walk that far, so they're staying connected to the community by having the ability to drive, and if we take the parking away, it's going to really limit people's ability to live independently.\"",
-    "According to the National Resources Defense Council , 37.6% of Americans over the age of 75 have driving limitations, as of 2025. Nothing in the land use code would limit the ability for developers of senior and independent living facilities from building off-street parking with their projects – removing the mandate simply gets the city out of the business of deciding what's appropriate.",
-    "While not likely to represent a major sea change, the October 20 vote on parking reform will certainly signal what direction Bellevue is heading."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260909_161738.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1697,29 +1720,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-socialandfinalticketsalesforcitynerdtalk",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Pinehurst Tour, September Social, and Final Ticket Sales for CityNerd Talk",
-   "author": "Diego Batres",
-   "date": "2026-09-14",
-   "url": "https://www.theurbanist.org/pinehurst-tour-september-social-and-final-ticket-sales-for-citynerd-talk/",
-   "paras": [
-    "We are less than a week away from our September 15 talk at Town Hall Seattle featuring Ray Delahanty of CityNerd , our contributing editor Ryan Packer, Seattle City Councilmember Alexis Mercedes Rinck, and King County Councilmember Claudia Balducci. Get your tickets while supplies last.",
-    "Ray will be showing off a work-in-progress video about the Link light rail system before it hits his YouTube channel. Ryan and Ray will discuss the future of public transit and transit-oriented development in our region, covering the obstacles we are facing and the opportunities.",
-    "We are also hosting our monthly Seattle social on September 24th at Teku Tavern, a week delayed compared to our usual time. Come by and talk transit, housing, and other urbanism topics with like-minded people!",
-    "On September 30th, we are hosting a walking tour of the new Pinehurst Link Station during the infill station's grand debut ! Join The Urbanist for a ride up from Capitol Hill and explore the Pinehurst light rail station and surrounding area, discussing how the infill station came into being and what comes next for the neighborhood. Topics will include a pending Pinehurst rezone , which will add an urban center near the station once Seattle's delayed growth plan is enacted, and the opportunity to adapt a portion of the publicly-owned 27-hole Jackson Park Golf Course to a different park use with broader appeal – or even housing .",
-    "What : A talk featuring Ray Delahanty of CityNerd and Urbanist reporter Ryan Packer. The discussion will focus on recent light rail expansions and the next round of transit expansion and transit-oriented development in our region. Where : Town Hall Seattle, 1119 8th Ave, Seattle, WA 98101 When : Tuesday, September 15, Pre-reception ($65) is 5:45 pm-6:30 pm, General Admission ($35) main event is 7pm- 8:30pm. Transit Stops : 1 Line (Symphony Station), Routes 2, 60, RapidRide G Line (not an exhaustive list) RSVP : Tickets here .",
-    "What : A social gathering with urbanists and like-minded people to network, build community, and enjoy the evening. Where : Teku Tavern, 552 Denny Way, Seattle, WA 98109 When : Thursday, September 24th, 6pm - 8pm Transit Stops : Near stops for Routes 4, 5, 8, 28, 62, or the E Line (not an exhaustive list). RSVP : RSVP here .",
-    "What : A joint canvass on the Eastside with Tech4Taxes to support Urbanist-endorsed candidate Jessica Forsythe. This event is open to all experience levels and requires only that you bring your phone, walking shoes, and desire to devote time to activism! Where : International Community School, 11133 NE 65th St, Kirkland, WA 98033 When : Saturday, September 26th, 10am - noon Transit Stops : Routes 245, 255 RSVP : RSVP here .",
-    "What : Join The Urbanist as we explore the new Pinehurst Station and explore and discuss the surrounding Pinehurst neighborhood's land use and zoning. Where : Meet outside Seasmith Coffee at 5:30pm, or at Pinehurst Station at 6pm. When : Walking from 6 pm - 7:15pm. Transit Stops : Pinehurst Link Station (Line 1, 2) Route 77. RSVP : RSVP here ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260630_Pinehurst_Drone-PB-0005_Sound_Transit_vjomxy-1-.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
