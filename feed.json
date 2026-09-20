@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-19T18:17:34.096Z",
- "builtFor": "2026-09-19",
+ "builtAt": "2026-09-20T18:23:17.895Z",
+ "builtFor": "2026-09-20",
  "builtHour": "11",
- "count": 79,
+ "count": 80,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 1,
-   "via": "feed"
+   "count": 2,
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -86,6 +86,469 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260913",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Sept. 13, 2026",
+   "author": "GeekWire",
+   "date": "2026-09-20",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-09-13/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Sept. 13, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Neuramill is building software that captures how experienced machinists decide to make a part, then applies that knowledge to new jobs at aerospace and defense machine shops. The company was founded last year by two engineers in their 20s who started their careers in Seattle. Read More … Read More",
+    "Providence will receive $1.1 billion from Nike co-founder Phil Knight and his wife, Penny — one of the largest gifts ever pledged to a U.S. healthcare institution — to build Oregon’s first women’s hospital and expand cardiovascular services. The funds, directed to Portland’s Providence St. Vincent Medical Center and Providence Heart Institute, build on the Knights’ prior $200 million gift to the heart institute. Read More … Read More",
+    "Several years after leaving Seattle’s startup scene to build a “tech outpost” in the Alaskan wilderness, serial entrepreneurs and twin brothers Lee and Lucas Brown, founders of Tune, have set their sights on a new frontier: replacing the traditional newsroom with artificial intelligence. Read More … Read More",
+    "Silvia Candiani has been promoted to CVP of the recently launched Microsoft Frontier Company, while Microsoft Elevate has hired a former UNICEF leader as VP. Amazon Web Services has promoted Alexis Bateman to director of global sustainability. Gradial has added a CMO, and Yoodli and Kestra have each named a VP. Read More … Read More",
+    "The cuts are part of broader nationwide layoffs at the enterprise software giant and heavily impact technical engineering and management roles. Read More … Read More",
+    "Software engineer Jeff Kohler is asking the U.S. Supreme Court to clarify the Alice patent standard after courts invalidated his patent and dismissed his infringement case against Google without examining the C++ source code he submitted. IP law experts and federal judges have called for the Supreme Court to revisit how the standard is applied to software inventions. Read More … Read More",
+    "Truveta co-founders Jay Nanduri and Ryan Ahern will serve as interim co-CEOs of the health data company, which Myerson helped build from a pandemic-era idea into a business with 500 employees and 30 member health systems. Read More … Read More",
+    "It caps a significant growth stretch for the Bellevue-based open-source platform, whose annualized revenue run rate recently surpassed $250 million — growing over 200% year-over-year. Read More … Read More",
+    "Agility Robotics, which is preparing to go public through a SPAC merger, unveiled Digit 5, a humanoid robot it says can work safely alongside people in warehouses and factories. The company says the new robot can lift 50 pounds, reach shelves 7.2 feet high and work more than 20 hours a day. Read More … Read More",
+    "Helion Energy added $35 million to its latest funding round, bringing the round to $500 million and its total war chest to more than $1.5 billion. The capital supports the fusion startup’s effort to power a Microsoft data center by 2028 despite timeline and technical skepticism. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/crop-neuramill-founder-200x150.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-m20260920sundaymovietorontoeglingtonline",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Toronto Eglington Line",
+   "author": "Mike Orr",
+   "date": "2026-09-20",
+   "url": "https://seattletransitblog.com/2026/09/20/sunday-movie-toronto-eglington-line/",
+   "paras": [
+    "Not Just Bikes finally has something good to say about Toronto transit. Not 100% good of course. This is the Eglington line that opened in February. Not to be confused with the Finch West line (slow), or the Ontario line (under construction, and we presented as an automated model for Ballard). Here’s Toronto’s current map of subway, light rail, and streetcar services."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-lenemeraldashborershavereachedwashington",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Pikes/Pines | The Vancouvers have fallen: Emerald Ash Borers have reached Washington",
+   "author": "Brendan McGarry",
+   "date": "2026-09-20",
+   "url": "https://www.capitolhillseattle.com/2026/09/pikes-pines-the-vancouvers-have-fallen-emerald-ash-borers-have-reached-washington/",
+   "paras": [
+    "“We encourage folks to learn how to identify ash trees and learn the signs of EAB. And if you have an ash tree that you’re worried about, contact an arborist to have it assessed.” (Image: @friendsoftrees )",
+    "A little over a month ago, the first Emerald Ash Borer, Agrilus planipennis , was found in Washington State. This is devastating news, because this invasive metallic green beetle is essentially a death sentence for the ash trees of the Pacific Northwest. It may have been inevitable, but that doesn’t mean we can’t mourn the future losses and do our best to slow the expansion of this true disaster.",
+    "For those not familiar with the story of the Emerald Ash Borer (EAB), there’s a boatload of information about them online (including this , written by yours truly). However, here’s a brief recap. These little beetles were accidentally introduced to North America from Asia and were first noted in Michigan in 2002. For the past two decades they have been tearing through North America’s ash trees, both wild populations and urban street trees are being devastated by the beetle, which has no environmental controls outside its natural range (trials of biological controls like using parasitic wasps have been largely unsuccessful). Thus far, there are no permanent solutions to EAB, even insecticides are only somewhat useful.",
+    "When I call Emerald Ash Borers one of the worst invasive species in the United States, I’m not just being dramatic — millions of ash trees have already succumbed to them across the country. This topic deserves an update on Pikes/Pines because we know this will happen in the near future — earthquakes, volcanic eruptions, and the climate crisis all will too, but they all feel different. We’ll see ashes decline and disappear from our urban and wild landscapes in the near future.",
+    "For now, the trees of Capitol Hill are safe, but with detections in both Vancouver, BC and now Vancouver, Washington we are hemmed in and have a pathway of both urban and wild ashes leading right to us. To their credit, the Washington State Department of Agriculture and the Washington Invasive Species Council have been pulling out all the stops possible, spreading the word , providing sound scientific information , and establishing a quarantine that aims to stop untreated firewood from entering the state. There are also pathways for both municipalities to gain assistance for urban forest planning and for citizens to contribute by reporting sightings .",
+    "To this last point, without a pair of engaged citizens, we might not yet know that EAB had made it to Vancouver, Washington. They found the beetle on their windshield on August 3rd in a small community just north of Vancouver, and after deciding it was likely the invasive pest, captured it, and got it to the State. While no one was astonished by the discovery because they’d been in the Portland area for several years, it could have been months or even longer before any other means of detecting the beetles proved fruitful. Citizen involvement in reporting potential sightings (there are several lookalikes), could be key to helping municipalities to plan for EAB impacts.",
+    "Don’t just go around squashing insects that look like they could be EABs – if you see something try to collect it, take photos, and report it. If you are wrong, no big deal. But squashing and walking away is of zero benefit. PC: Washington Invasive Species Council",
+    "For now the only option may be to turn to pesticides injected into healthy, uninfested ashes. The cocktail of chemicals used as a preventative treatment for EAB requires planning, professional application, and continual reapplication to be even somewhat effective. For the average homeowner with an ash, this might be out of the financial question. For municipalities like Seattle, starting to treat as a way to forestall millions of dollars worth of costly, dead and dying hazard trees hitting the budget all at once, it is likely the best option.",
+    "Sadly, we benefit from decades of EAB impacts elsewhere – research has demonstrated the efficacy of the various approaches. Allowing trees to become infested is a guarantee for tree death. According to the EAB Resources & Management Guide for Washington State, “the United States has collectively spent over $900 million in street tree management costs in the last 30 years due to EAB.” Because we understand the beetle’s biology, their specific impacts on different ash species, and how treatments have worked, Seattle stands to weather the storm, even if the ash trees don’t ultimately make it long term. One thing that’s clear is that aside from pesticides, another preventative measure is discontinuing the planting of ash trees.",
+    "If efforts to stop accidentally spreading wood infested with EAB larvae are successful, it could be years before we see them on the Hill. Studies have estimated that the beetles naturally disperse at a rate between 1.6 to 12.4 miles per year, depending upon conditions and available hosts, (which are numerous — there are river valleys and wetlands full of ashes between here and Vancouver, Washington). So maybe we are at least ten years out from touchdown — assuming the beetles haven’t already inched closer than we’ve realized, which is entirely possible.",
+    "iNaturalist records of Oregon Ash, Fraxinus latifolia, between Portland and Seattle. (Image: iNaturalist.org )",
+    "Losing street trees is a shame, but the real horrific future is one without our native Oregon Ash, Fraxinus latifolia , the only one we have. Trying to imagine our riparian ecosystems without Oregon Ash is gut wrenching because EAB impacts are not just about impacts on trees. Oregon Ashes are vital members of wetland and riparian communities across their range, they are food and shelter for countless species. Indigenous peoples have deep relationships with this tree as well. (The decline of other ash species across the US has taken a heavy toll on various cultural practices most notably in the case of their use in basketry.) We aren’t just losing a tree, we are losing a point of connection, a member of complex communities. It’s hard not to feel helpless knowing that while we might be able to run around and inject street trees to keep them going, we’ll never be able to save entire forests full of Oregon Ash. The repercussions are yet unknown but in places with high densities of ashes (like so many lovely rivers and lakesides across Western Washington, including the watery edges of the Washington Park Arboretum), could see large changes in water and soil chemistry, increased invasive species presence, and declines in native fauna that rely on the trees.",
+    "Ecological horrors have already been inflicted upon our region, but I find it very difficult to just sit and bear witness to an essentially inevitable wave of beetles approaching us. I also think it’s important to realize that this isn’t about demonizing the organism, invasiveness is a symptom of globalization and capitalism — the beetles aren’t evil, they are just beetles being beetles. Knowing all this, our job is to stay vigilant, report potential sightings, and stay up to date. There is a strong chance this won’t be the last time I write about Emerald Ash Borers, which is ironic because I have never met one in person. Unless I am somewhere in Eastern Asia, I truly hope I never do."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/EAB-lookalikes.jpg?resize=584%2C450&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-geyboysroasterycloseslastbrunchatrosebud",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Donna’s born, Macklemore opens Bogey Boys, Roastery closes, last brunch at Rosebud",
+   "author": "CHS Staff",
+   "date": "2026-09-20",
+   "url": "https://www.capitolhillseattle.com/2026/09/this-week-in-chs-history-donnas-born-macklemore-opens-bogey-boys-roastery-closes-last-brunch-at-rosebud/",
+   "paras": [
+    "Here are the top stories from this week in CHS history:",
+    "Coffee giant Starbucks shuts down its Capitol Hill Roastery — UPDATE",
+    "Victim in deadly 10th and Pike shooting identified",
+    "Seattle Police Department conducts ‘retail theft operation’ at a Capitol Hill QFC — UPDATE: $281.91",
+    "After a decade in Madison Valley, Bar Cantinetta has moved up to Capitol Hill",
+    "Fuel pulls plug on Broadway coffee bar — UPDATE",
+    "After outcry, Seattle Public Schools puts campus closures plans on hold — UPDATE",
+    "Olmstead holds a goodbye garage sale on Broadway",
+    "Donna’s: bar pasta, cocktails, and the spirit of Vito’s on Capitol Hill",
+    "‘Help the King of the Hill pay his medical expenses’ — Fundraiser supports E Olive way convenience store owner’s recovery",
+    "After an eight-story development north of Cal Anderson fell through, 180 affordable housing units may be coming instead",
+    "Mayor says Seattle’s ‘third public safety department’ ready to join police and firefighters in protecting the city with ‘welfare checks’ and help for people suffering mental crisis",
+    "‘So much crime that you can’t even get a cup of coffee from the hometown shop on Capitol Hill’ — Republican Senate candidate takes on Murray over E Olive Way Starbucks closure",
+    "Air quality warnings return along with smoke from Bolt Creek Fire over Seattle — UPDATE",
+    "Three Capitol Hill clubs, three futures: Neighbours ‘under new ownership,’ former R Place shaped as restaurant project, Q marks 10 years of dancing on Broadway",
+    "As a Capitol Hill restaurant family reshuffles, Taurus Ox lands on 19th Ave E",
+    "‘So much of what I love about Capitol Hill and Seattle still exists’ — Macklemore’s Bogey Boys and Goose Magees Vintage Mall now open",
+    "‘Enough is Enough’ — Seattle adds second Black Lives Matter street mural",
+    "Striking carpenters union head tells Sawant to butt out of contract fight — UPDATE",
+    "With planned fall openings, City of Seattle acquiring three Capitol Hill developments for homelessness housing — UPDATE",
+    "Kobuta and Ookami Katsu and Sake House — the first new Capitol Hill restaurant in a new Capitol Hill space of 2021 — now open",
+    "Capitol Hill man walking his dog dies after being struck by driver at Belmont/Bellevue",
+    "Next for Melrose and Pine: Rapha Clubhouse Seattle",
+    "New Pike/Pine design and furniture showroom finds Plantation name worked in LA, won’t work in Seattle",
+    "Following order to vacate, Rosebud says it will move after one last Sunday brunch",
+    "Sunday Notes: POTUS has left (Pike and Pine finally open), Pike crash scene, Melrose bust",
+    "City says signal light can’t help Capitol Hill intersection where yet another person hit",
+    "The Buck stops, Montana begins — Rachel brings her ginger beer to E Olive Way",
+    "Obama set for fundraiser lunch on Pine St during weekend Seattle visit"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/8445681508_6cffdb6912.webp?resize=500%2C344&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-owbuckscountyusaepisodetheoutbreak7ymf22",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "The Outbreak",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-20",
+   "url": "https://www.cascadepbs.org/show/bucks-county-usa/episode/the-outbreak-7ymf22/",
+   "paras": [
+    "COVID rage sparks a school board war, testing two best friends from rival political families."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/6c804d50-9fd0-481f-be88-c8f000351f68.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-wbuckscountyusaepisodethepetridishyefdax",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "The Petri Dish",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-20",
+   "url": "https://www.cascadepbs.org/show/bucks-county-usa/episode/the-petri-dish-yefdax/",
+   "paras": [
+    "Curriculum wars turn ugly, but two teachers on opposite sides dare to find common ground."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/390aed43-a1cc-427e-8798-68a22c42e8ad.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-iefandhowitcanimpactphysicalhealthqqm77m",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "The science of grief and how it can impact physical health",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-20",
+   "url": "https://www.cascadepbs.org/show/horizons/episode/the-science-of-grief-and-how-it-can-impact-physical-health-qqm77m/",
+   "paras": [
+    "The science of grief and how it can impact physical health"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/b2b9036d-9713-4c08-a379-4530e8520f03.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-hreformsafterhistoricstateelectiondefeat",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Germany's Merz vows to press ahead with reforms after historic state election defeat",
+   "author": "The Associated Press",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/g-s1-144211/germanys-merz-vows-to-press-ahead-with-reforms-after-historic-state-election-defeat",
+   "paras": [
+    "German Chancellor Friedrich Merz has faced a major electoral setback in two state elections, with his center-right party losing ground. The far-right Alternative for Germany party made significant gains."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7489x4992+0+0/resize/7489x4992!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F37%2F9e%2F55e4991d44b1a77d05ebbbdf2f6b%2Fap26263591596464.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ingtondcarchmilitarycomplexsnipersdrones",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump says his D.C. arch will serve as 'military complex' with snipers and drones",
+   "author": "Kristin Wright",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
+   "paras": [
+    "President Trump has claimed that military operations are needed at his proposed triumphal arch in Washington D.C., in order to protect national security. A federal court is weighing the arch's legality."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3979x2653+0+0/resize/3979x2653!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9f%2Ff0%2F77131a394bf68ca9f41bf49ae1f6%2Fap26240737448587.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-20260920gs1143447photosfishermenseaindia",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "PHOTOS: The precarious life of fisherfolk",
+   "author": "Kamala Thiagarajan",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/g-s1-143447/photos-fishermen-sea-india",
+   "paras": [
+    "In the bustling heart of the southern Indian city of Chennai is a market that never sleeps, where residents from the poorest neighborhoods wage a battle of survival with the sea."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2Fe5%2Fa77316e045bf85a175c6a671f00e%2Ffisherfolk-4.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-5940784neworleanslowerninthwardfreestore",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "In New Orleans, an empty building becomes a free store — and roller skating rink",
+   "author": "Debbie Elliott",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5940784/new-orleans-lower-ninth-ward-free-store",
+   "paras": [
+    "In the Lower Ninth Ward, an old Family Dollar stands covered in graffiti. It looks abandoned. But inside, it's a treasure trove — clothing, home goods, toys and books. And everything is free."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F22%2F693cb33e409f9bb8362fb1a12f7c%2F2026-0880-new-orleans-cdull7397.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nxs15974900foxshareholdersmurdochlawsuit",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Judge orders Fox to hand over hundreds of documents in shareholders' case",
+   "author": "Maddy Lauria",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5974900/fox-shareholders-murdoch-lawsuit",
+   "paras": [
+    "Fox Corp. must turn over hundreds of documents that could shed light on how founder Rupert Murdoch handled some of his media companies' biggest scandals.",
+    "(Image credit: Jordan Strauss/Invision/AP)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3164x2109+0+0/resize/3164x2109!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F76%2F4338365f49f08c67e670cfe93986%2Fap25234734046444.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-stronomicalfamiliesturningtograndparents",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "U.S. childcare costs are astronomical. More families are turning to grandparents",
+   "author": "Joe Hernandez",
+   "date": "2026-09-20",
+   "url": "https://www.npr.org/2026/09/20/nx-s1-5963506/us-childcare-costs-astronomical-families-turning-to-grandparents",
+   "paras": [
+    "Grandparents taking care of their grandkids is nothing new. But the surging cost of childcare in the U.S. has made familial support even more critical for some parents who struggle to afford it."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F76%2F03%2F92e4045e40a5a23408a90fbfcdba%2F20260819grandparents181.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescvwyz29n0nn2oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c6/live/aff65ac0-b513-11f1-a430-4d16ee157c41.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescry4z1xykeleoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Key takeaways from BBC interview as Earl Spencer defends claims about King",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/articles/cry4z1xykeleo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Earl Spencer speaks to the BBC's Laura Kuenssberg ahead of the publication of his book about his sister Diana, Princess of Wales."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f04c/live/5fddaaf0-b506-11f1-91cc-c5691e33b858.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscw62mdrjll18oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Watch: Emotional Earl Spencer says he misses sister Diana every day",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/videos/cw62mdrjll18o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "\"This is my swan song too. I'm not here to bang on about Diana, this is my final word, celebration of her\", Earl Spencer told presenter Laura Kuenssberg."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04b4/live/dbe02390-b4f6-11f1-947c-4906c0564be0.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc34gdjk1ne8yoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8207255rq5loatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Burnham hails Greenland deal ahead of expected first Trump meeting",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/articles/c8207255rq5lo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "While Burnham praised the agreement, Lib Dem leader Ed Davey called it a \"pretend\" victory for Trump."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a768/live/d19d2960-b513-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescm780ll1de18oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/846c/live/65039890-b494-11f1-8153-85d44903e598.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-usnews2026sep20losangelesbearcoexistence",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Bear-y good neighbors: humans and animals are learning to live together in an expanding LA",
+   "author": "Nick Visser",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/los-angeles-bear-coexistence",
+   "paras": [
+    "People are increasingly crossing paths with the wild animals as homes ring the outskirts of forests, sparking a new era of coexistence",
+    "Every year, as summer draws to a close and fall begins, California’s bears get hungry.",
+    "Black bears have long roamed the state, hunting for acorns, ants and pine nuts by the bucketload to pack on calories before hibernation. But increasingly, for every berry and root, there’s an even greater temptation: our trash and the detritus of human existence."
+   ],
+   "img": "https://i.guim.co.uk/img/media/17bcb82ac8452599951cef98f1343ee5763f7c44/49_0_725_580/master/725.jpg?width=140&quality=85&auto=format&fit=max&s=eb9fc4457ba896542755a46d184e1fb7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ncomusnews2026sep20davidsackstrumpaiczar",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘An out-of-touch Silicon Valley radical’: meet Trump’s AI whisperer pushing for limited regulation",
+   "author": "Dara Kerr",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/us-news/2026/sep/20/david-sacks-trump-ai-czar",
+   "paras": [
+    "David Sacks convinced Trump against any restrictions on AI – putting the White House out of step with its own party",
+    "As lawmakers from both sides of the aisle in the US have joined together calling for the regulation of powerful artificial intelligence models, one of the few vocal naysayers has been Donald Trump . He’s called the perceived dangers of the technology a “hoax” and a “scam”, arguing that the government already has “tremendous CRIMINAL and REGULATORY power over these companies”.",
+    "It’s a starkly different stance from those of his former adviser Steve Bannon , the Republican Texas senator Ted Cruz and even the heads of the world’s leading AI companies. But it’s directly in line with the opinion of David Sacks – a prominent billionaire venture capitalist and Trump’s onetime AI and crypto czar, who has pushed back publicly and forcefully against recent claims of an impending AI apocalypse."
+   ],
+   "img": "https://i.guim.co.uk/img/media/fb8ce8aef8a5a2c4dd168e6cc82239a5d0a4709f/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=9d3645411a2bbd13142a5af2d86d0761",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26sep20dayinthelifeaerialcellistcellista",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I suck at breaks’: a day in the life of an aerial cellist",
+   "author": "Jaya Saxena",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/wellness/2026/sep/20/day-in-the-life-aerial-cellist-cellista",
+   "paras": [
+    "Cellista, an aerialist who regularly performs upside down with her cello, shares what her life looks like training for the stage",
+    "Mastering the cello is hard enough, but Cellista also regularly performs upside down. She’s based in Las Vegas, but the aerialist spoke to us while traveling in Germany, and told us about what her life looks like training and writing for the stage."
+   ],
+   "img": "https://i.guim.co.uk/img/media/727b4f9d0eefae670af344a81d0fee424f300f70/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=81f9668d2d881a56d71b4f1e5761715a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-nteractive2026sep20angermidtermelections",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘People are pissed off’: anger at the elite and the establishment is fueling this year’s midterms",
+   "author": "Rachel Leingang",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections",
+   "paras": [
+    "Coming midterm elections are starting to be framed not as right versus left but instead the ‘well-fed versus the fed-up’",
+    "Brian Leeland, a 79-year-old Democratic voter in Detroit , had enough. Frustrated by the way the US media covers this febrile political era, from Donald Trump ’s Washington to political campaigns across the country, he contacted the Guardian.",
+    "“Your decision to frame the race here as a simple progressive versus establishment choice is overly simplistic verging on lazy,” he wrote to this reporter, after our coverage of progressive Abdul El-Sayed’s campaign in the Democratic US Senate primary in Michigan . “As an electorate, we are not binary for the convenience of the media.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/b3c71f393b611b6ed2943adf98c2ea9c0fe878cf/231_0_1250_1000/master/1250.jpg?width=140&quality=85&auto=format&fit=max&s=9852b8678302b917731b5dd7d600c72e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-0unnewleaderwarsclimatecrisisdonaldtrump",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "In a world of wars and climate crisis, a new leader could save the UN. But would Trump allow it? | Steve Bloomfield",
+   "author": "Steve Bloomfield",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/20/un-new-leader-wars-climate-crisis-donald-trump",
+   "paras": [
+    "As the organisation meets this week, it remains the best hope for restoring order. But it relies on goodwill from the US president – and that is lacking",
+    "If all goes to plan, at some stage in the coming weeks 15 diplomats will emerge from a small sound-proofed room deep in the bowels of the United Nations headquarters in New York and announce the organisation’s next secretary-general.",
+    "The person they choose will face a combination of challenges unlike any that their predecessors have had to deal with. Two of the security council’s permanent members, the US and Russia, are engaged in wars of choice that have no end in sight. A UN commission of inquiry has accused Israel of committing genocide in Gaza , but the UN has effectively been reduced to the role of bystander, pushed out by Donald Trump’s Board of Peace . The climate crisis is creating a cascade of new humanitarian disasters, while every day now seems to bring a new security threat caused by the unregulated rise of AI.",
+    "Steve Bloomfield is the former international editor of the Observer and a previous winner of the Orwell prize"
+   ],
+   "img": "https://i.guim.co.uk/img/media/64278f4c394c3e72269bf7407fa329362bc884e5/419_0_4188_3351/master/4188.jpg?width=140&quality=85&auto=format&fit=max&s=99a335d3c7404f8353a350f033a838da",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-econdhandfashionoxfamsecondhandseptember",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I got married in it’: readers on their favourite secondhand fashion finds",
+   "author": "",
+   "date": "2026-09-20",
+   "url": "https://www.theguardian.com/fashion/2026/sep/20/readers-favourite-secondhand-fashion-oxfam-second-hand-september",
+   "paras": [
+    "To mark Oxfam’s Second Hand September, here are some of your best thrift discoveries and the stories behind them",
+    "Oxfam’s Second Hand September campaign encourages people to avoid buying new clothes for 30 days and choose preloved pieces instead. From £28 Prada skirts to £5 wedding dresses, we asked people to share their favourite fashion finds and the stories behind them."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8928a80e22235532442b0913512f9b7df33c5762/180_566_2571_2057/master/2571.jpg?width=140&quality=85&auto=format&fit=max&s=705bed2db295298bd4ca1e0c531fdc8b",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-obertsonthefutureofbuyingandsellinghomes",
    "srcKey": "geekwire",
@@ -148,50 +611,6 @@
     "We need to measure not only whether a park is nearby, but also if it is truly thriving, both for itself and the community it serves. Park access is an issue of environmental justice, public health, and who gets to thrive in Seattle. As the city grows, we have an opportunity to make sure that growth does not deepen existing disparities, but instead helps repair them. Every neighborhood deserves not just a park within a 10-minute walk, but a park that is safe, accessible, welcoming, well-maintained, and truly worthy of the community it serves."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/1000027581.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-mayorsgunviolenceplanmeansforthesouthend",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: What the Mayor's Gun-Violence Plan Means for the South End",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://southseattleemerald.org/newsletters/2026/09/19/the-roundup-what-the-mayors-gun-violence-plan-means-for-the-south-end",
-   "paras": [
-    "This week, I had a one-on-one with Mayor Katie Wilson about her new proposal that has major implications for the South End. But before we get to that …",
-    "Quick question: Have you ever witnessed an armed and uniformed Seattle police officer playing full-court basketball with youth in a high-crime neighborhood?",
-    "I have. In fact, I played too. We also ran games of flag football and indoor soccer and had Mario Kart tournaments on Nintendo Switch — games that included both cops and kids.",
-    "What I’m describing is Seattle Parks and Recreation’s Teen Late Night program . I worked as a rec specialist in a community center when I was fresh out of college.",
-    "This was my only experience with community policing, and it was a sight to behold. These cops, who volunteered for this assignment, spent Friday and Saturday nights interacting, or simply hanging out, with youth.",
-    "I’ll never forget the times officers picked up kids in my program during the school day for skipping class and committing petty crimes — and instead of arresting the teens, whom they recognized, they actually brought them to us , staff at the community center.",
-    "As a kid, the Teen Late Night program kept me off the streets. As a young adult, I returned the favor and helped run that same program for the next generation.",
-    "And since the ’90s, we’ve witnessed crime rates drop by up to 30% in these neighborhoods where the program happens. Tacoma has even tried to replicate this . There’s plenty of data supporting the effectiveness of programs like these to prevent crime.",
-    "Here’s why this is important: Earlier this week, two plans to address gun violence made headlines . Seattle City Councilmember Maritza Rivera’s proposal , which passed unanimously in a Council vote (7–0 with two abstaining), amounts to a $500,000 plan to make a plan (the Seattle way).",
-    "The quick version: The City will consult with the National Network for Safe Communities at John Jay College of Criminal Justice in New York. They will do research, create a plan, and local stakeholders will carry it forward. (I plan to reach out and ask Rivera how the South End is included in her proposal.)",
-    "Then, there’s Mayor Katie Wilson’s proposal , which brings various city departments, social services, and community groups under the direction of the Community Assisted Response and Engagement (CARE) Department. It also provides critical investments to youth and young adult programs, including the Teen Late Night program I mentioned.",
-    "Seattle wouldn’t be the first city to address gun violence by investing in youth and grassroots community programs. Last year, The Washington Post presented data on five major U.S. cities — Baltimore, Philadelphia, Chicago, Indianapolis, and Los Angeles — all of which saw dramatic dips in violent crime by simply increasing investments into underserved communities and at-risk youth.",
-    "This week, I spoke with Wilson about her new plan and what it means for the South End. We discussed the difference between “focused deterrence” and stop-and-frisk, the timing of when she released the plan, whether she engaged with South End community members, and how this proposal will directly impact Rainier Beach.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: I’ve heard directly from people in the South End that this plan was only crafted after the Seattle Center shooting made national headlines, but we’ve had gun violence here for years. What do you say to people who feel this way?",
-    "KW: I’ll say that early this year, at the end of January, obviously we had a tragic shooting in Rainier Beach. I’ve known since I stepped into office, and especially since that moment, that addressing gun violence and reducing gun violence in our communities had to be a very high priority for my administration. This has been in the works for the whole year, and other shootings around the city, including the Bite of Seattle shooting, just lit a fire under that and under the need to make a real public announcement so that people could see the work that was going on behind the scenes.",
-    "MD: Reading the plan, I see a few specific neighborhoods identified. But can you tell me specifically what this means for Rainier Beach? And what, if any, role community members had in the process?",
-    "KW: We are focusing not just on how we respond to gun violence when it occurs, but on the upstream investments that we need to make into our youth, teenagers, and families so that people have the necessary support that stops gun violence from happening in the first place. And this is something that I’ve been hearing about through conversations with youth in Rainier Beach following the January tragedy, and throughout the year, that has really informed my decision-making as we’re going into this budget process.",
-    "We have a large deficit, but it’s a really high priority for me to maintain — and, when possible, expand — funding for programs that are serving our youth in the South End. That means, for example, preserving funding for Teen Late Night programs. I’m also proposing funding in this budget for a new after-school program in Rainier Beach, and expanding funding for peer mentorship programs at Rainier Beach Community Center. These are priorities for me because I know how important it is that youth have these activities that can give them an alternative to violence, and mentorship supports mental health.",
-    "All of that has been informed by youth in Rainier Beach who have told me they need safe places to go at night and after school.",
-    "MD: A part of your plan is “focused deterrence.” I’ve already had people ask me if this is just Seattle’s stop-and-frisk. Is it? And how are you going to ensure that this doesn’t turn into people of color having disproportionate interactions with law enforcement?",
-    "KW: This is absolutely not stop-and-frisk. The idea behind focused deterrence is that we already know, the community already knows, who the young people are who have been engaged in gun violence in one way or another. This is about focusing on those specific individuals. This is not about profiling. This is not about picking people off the street. This is about using what we know, and what the community knows, about the young people who need our help, and then really focusing on figuring out what they need. Do they need mentorship? Help with employment? Housing? It’s about laying out a positive path, while also making clear that if they continue to engage in violence, that there is a backstop, and law enforcement is the backstop for that. It’s a combination of support and accountability. It needs to be done carefully, so we’re doing it with community partners.",
-    "Both the Seattle mayor and City Council dropped proposals to address gun violence this week. Here’s a breakdown of both plans.",
-    "Will your ballot be safe in the mailbox this November? We have the most recent developments right here.",
-    "Have you ever tasted a black garlic latte? This cafe in Georgetown is serving them up. (Spoiler alert: They’re delicious.)",
-    "These South End authors wrote a book about trauma stewardship two decades ago. Now, they’ve made a few updates.",
-    "Have thoughts on who should lead SPD? Show up and be heard: 9/26. Noon. Van Asselt Community Center.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-19/29v276ca/What-the-Mayors-Gun-Violence-Plan-Means-for-the-South-End.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -260,336 +679,6 @@
     "Some Republicans distance themselves from Trump's policies"
    ],
    "img": "https://www.cascadepbs.org/content/images/2026/09/9a5788be-9ce6-4558-9eee-6896891179b1.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-bsorgshowwashingtonweekextrasclip12tuy3h",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Why Trump is quick to dismiss concerns about AI safety",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-19",
-   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip1-2tuy3h/",
-   "paras": [
-    "Why Trump is quick to dismiss concerns about AI safety and data centers"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/d138a704-9096-4cff-91c7-ec8dc916f509.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-newshourextrasthelastfreewomen1789765475",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "'The Last Free Women' follows Afghans rebuilding their lives",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-19",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/the-last-free-women-1789765475/",
-   "paras": [
-    "When the Taliban swept back into Kabul in 2021, millions of Afghans suddenly faced an uncertain and dangerous future. Among them were two young sisters whose ambitions to study medicine and law were threatened. Their escape and the lives they built afterward are at the heart of the new book, \"The Last Free Women.\" Geoff Bennett sat down with the authors, Rebecca Blumenstein and Diana Kapp."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/93396c33-c3e7-40cd-8f48-b53d4249020b.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-ewshourextrasfreedomofthepress1789765789",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Trump bans news outlets in latest attack on press freedom",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-19",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/freedom-of-the-press-1789765789/",
-   "paras": [
-    "President Donald Trump says he is banning three major news outlets, CNN, MS NOW and Politico, from the White House due to what he called \"unfavorable coverage.\" Trump didn't provide details on how the ban would be implemented, but warned he might bar other media outlets as well. White House Correspondent Liz Landers reports on the administration's latest test of First Amendment protections."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/cbbb3109-c37c-4fcd-b3ff-04fee02f3f85.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-60919nxs15974854trumpcnnmsnowpoliticoban",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "CNN, MS NOW, Politico reporters denied access to White House following Trump ban",
-   "author": "Ava Berger",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
-   "paras": [
-    "Three reporters were blocked from the White House grounds Saturday morning, a day after President Trump said CNN, Politico, and MS NOW would be banned for reporting \"FICTION and LIES.\""
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4459x2973+0+0/resize/4459x2973!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2F52%2F5069b59545baac20bf0ba82fb823%2Fgettyimages-2294838569.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-inionrememberinganniedillardnaturewriter",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Opinion: Remembering Annie Dillard, nature writer",
-   "author": "Scott Simon",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5966624/opinion-remembering-annie-dillard-nature-writer",
-   "paras": [
-    "With her 1974 book, \"Pilgrim at Tinker Creek,\" Annie Dillard became the youngest woman to win the Pulitzer Prize. We take a moment to remember her and her work."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1320x2000+0+0/resize/1320x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F88%2F227bfae14771aad4fdb5a41221c5%2Fap830124056.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-3lifeinkabul5yearsafterthetalibansreturn",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Life in Kabul 5 years after the Taliban's return",
-   "author": "D. Parvaz",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
-   "paras": [
-    "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5961263",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-54ancientteethbetelnutsmindalteringdrugs",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Betel nuts are a top mind-affecting substance. Now there's evidence of ancient use",
-   "author": "Pien Huang",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/g-s1-144054/ancient-teeth-betel-nuts-mind-altering-drugs",
-   "paras": [
-    "New research on ancient human remains suggests the habitual usage of betel nuts, a plant seed with mind-affecting properties that is popular in parts of Asia despite the health risks it presents."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1296x863+0+0/resize/1296x863!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F87%2F13%2F83b654e1463696ae2836e32aa68a%2Fbetel-nut9-8-2.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-actsarchaeologicaldigsitealaskaquinhagak",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Archaeologists are racing to save precious artifacts in Alaska after last year's storm",
-   "author": "Samantha Watson",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5966568/ex-typhoon-halong-nunallaq-artifacts-archaeological-dig-site-alaska-quinhagak",
-   "paras": [
-    "Last year, remnants of a typhoon damaged homes, infrastructure and an archaeological dig site. Now, archaeologists are trying to get as many objects out as possible before the next storm."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/9504x6336+0+0/resize/9504x6336!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe2%2F83%2Faa1de52e4126830ea0e403eb8347%2F260608-mcdolan-nunalleq-09374.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-deralreserveinterestrateinflationeconomy",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Ever wonder how the Fed's interest rate actually works? We've got answers",
-   "author": "Rafael Nam",
-   "date": "2026-09-19",
-   "url": "https://www.npr.org/2026/09/19/nx-s1-5969816/federal-reserve-interest-rate-inflation-economy",
-   "paras": [
-    "The Federal Reserve just raised interest rates this week for the first time this year. So how does it actually work? And what does it mean for the economy — and the rest of us? Here are some answers."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F3e%2F812d039d41f29656f9b92aed1411%2Fap20100194370143.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc63d7lexyym1oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ad/live/fd353880-b421-11f1-8a8e-d9778c1036bb.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6ly70gz4008oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Major seaside hotel fire treated as suspicious",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly70gz4008o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c242/live/07b75dc0-b435-11f1-9fa0-111a12dcb7b0.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescwly5d9v7r43oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescq8jdkmgn7n1oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b34/live/bdd81080-b43b-11f1-8eb0-59fdbbab66e7.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescr86xyne8xp2oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Bitter row over Diana book brings back unhappy times for royals",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.bbc.co.uk/news/articles/cr86xyne8xp2o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Many of the Royal Family's current troubles can be traced back to the aftermath of the then-Princess of Wales' death."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad6a/live/20e64a50-b407-11f1-bcee-75de7376c95a.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ience2026sep19spaceweaponswhitehousenasa",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The US air force admitted to deploying weapons in space. Don’t expect the White House to explain why",
-   "author": "Richard Luscombe",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/science/2026/sep/19/space-weapons-white-house-nasa",
-   "paras": [
-    "The revelation ‘left experts scratching their heads at exactly what Donald Trump has in his cosmic arsenal’",
-    "In Hollywood at least, space weapons are a relatively simple concept. The good guys, from Captain Kirk and his crew in Star Trek , to Luke Skywalker’s rebel alliance in Star Wars, battle intergalactic villains with an array of colorful lasers and particle-beam cannons, then the bad guys get dispatched in a spectacular, explosive finale.",
-    "The messaging coming out of the White House on the subject, by contrast, could not be more vague."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c70aa1245cdbffa521513b24bd5ad55f0130c3b6/444_0_4444_3557/master/4444.jpg?width=140&quality=85&auto=format&fit=max&s=8f972f9af69ddde78e65de1a5cda559b",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-tillmysterioustomethatiwasangryforsolong",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Jonathan Franzen: ‘It’s still mysterious to me that I was angry for so long’",
-   "author": "Sophie McBain",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/books/2026/sep/19/jonathan-franzen-its-still-mysterious-to-me-that-i-was-angry-for-so-long",
-   "paras": [
-    "The author of The Corrections talks about a new TV adaptation, the future of reading and why creating new work is ‘horrible’",
-    "When HBO dropped its plan to adapt Jonathan Franzen’s bestselling novel The Corrections in 2012, the author was so relieved he says he performed his first and last cartwheel on the lawn of his home in Santa Cruz, California. There had been an attempted film adaptation before that, but he had been unsurprised by its failure, having warned that it was impossible to condense his densely plotted doorstopper of a novel into a feature-length film. This time, Franzen had signed up as co-writer, with filmmaker Noah Baumbach. He says that HBO was “excluded from the development process. Mistake, because we didn’t know how to do TV.” Franzen himself hadn’t even owned a telly until a few years earlier and certainly didn’t have cable, so as he was wrestling with the script, he began renting box sets. Around three episodes into one drama series, he realised “we have no idea what we’re doing. This is not how you do TV. This is bad,” he recalls. The result, he says, was “one of the worst pilots anyone has ever made”.",
-    "Franzen used to think TV was the “enemy” of the serious novelist. In a well-known 1996 essay for Harper’s Magazine about the decline of high literature he had complained bitterly about the “banal ascendancy of television”. But after the HBO series failed, he watched Breaking Bad, Nurse Jackie and Silicon Valley and loved them. In the age of social media, AI and the endless scroll, TV has started to look like a “friend”, he says now. And The Corrections is finally being adapted into an eight-part Netflix series, with Meryl Streep playing Enid Lambert, the matriarch clinging to dreams of hosting a perfect last family Christmas, even as her husband Alfred is in terminal decline with Parkinson’s and dementia and their grownup children’s lives are falling apart in terrible, comical ways. Once Streep announced she was in, Franzen felt the “chances of making this show have gone up above 50%”. He says he’s a month away from finishing the script."
-   ],
-   "img": "https://i.guim.co.uk/img/media/e1a76641b48e86ef38c25d07d3c415258244b66b/416_654_2665_2131/master/2665.jpg?width=140&quality=85&auto=format&fit=max&s=4896666ab2382446cc6b6fc093ec1c19",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sep19writersonthegreatestcakeoftheirlife",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Everyone assumed it represented a poo emoji!’ 27 writers on the greatest cake of their life",
-   "author": "",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/food/2026/sep/19/writers-on-the-greatest-cake-of-their-life",
-   "paras": [
-    "From the blissful threat of ‘death by chocolate’, to a book made of sponge and the lemon drizzle to end them all, these are the bakes that left the biggest impressions",
-    "The Sorting Hat sponge I made for my son’s Harry Potter party is not the best cake I’ve ever tasted. That would be anything baked by my granny, or the coffee religieuse (a choux pastry puff) I ate in Boulogne-sur-Mer with my mum. But it’s the most surprisingly edible cake I’ve ever made – a vaguely Jamie-Oliver recipe with buttercream filling and tinned mandarin slices. It didn’t only work; it tasted great, and wasn’t quite as teeth-screechingly sweet as expected. My one regret is that I over-pimped the decoration: it looked so sinister in the fridge with its cold, Sorting Hat stare that the next day I stuck on googly eyes and further sparkles. This perhaps explains why everyone assumed it was a poo emoji cake, despite it being a Harry Potter party with heavy-touch theming. That people thought I actually wanted children to eat shit is a shame, but it still remains my greatest culinary success. Catherine Shoard"
-   ],
-   "img": "https://i.guim.co.uk/img/media/03ce9bfcf6809560a867266703edc1b808a5473f/252_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=f60b2be2fd64c929956098c6cbb82fec",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ssonsstephengrahamnetflixshowadolescence",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Don’t be afraid to be masculine, laugh more, and phone your mum: letters to our sons, by Stephen Graham, Riz Ahmed, Danny Dyer and other wise men",
-   "author": "Stephen Graham, Danny Dyer, Goldie, Romesh Ranganathan, Tom Daley, Riz Ahmed and others",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/society/2026/sep/19/letters-fathers-sons-stephen-graham-netflix-show-adolescence",
-   "paras": [
-    "The Adolescence actor and the psychologist Orly Klein asked fathers to write to their sons. The results – from famous dads to the wisdom of strangers – were moving and motivating. Here’s a selection",
-    "What can I say? From the moment you and your sister were born my heart has been full of a love I never thought was humanly possible. As a baby you were filled with wonder and so much energy. You had a beautiful, mischievous and inquisitive nature, which has always made me smile. You were climbing, running and jumping everywhere. You’d walk into a room wearing shoes that were four times, five times, 10 times too big for you … Sometimes they were ye mother’s."
-   ],
-   "img": "https://i.guim.co.uk/img/media/be91b58274ee8c277f9d1da789383d07ae5f8474/0_332_9449_7556/master/9449.jpg?width=140&quality=85&auto=format&fit=max&s=fed08cadf0528754f02379bf245cc7ac",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-urhoodintheworlditsnotasgreatasyoudthink",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I live in the ‘coolest neighbourhood’ in the world. It’s not as great as you’d think",
-   "author": "Raphael Rashid",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/world/2026/sep/19/i-live-in-the-coolest-neighbourhood-in-the-world-its-not-as-great-as-youd-think",
-   "paras": [
-    "A wave of tourists and visitors has changed the character of the Seoul neighbourhood I live in and helped create a place that no longer feels like home",
-    "In 2021, I was asked by Time Out to nominate a Seoul neighbourhood for its annual list of the world’s coolest. I didn’t think much of it and put forward the one I live in, Jongno 3-ga, in the old centre of the city. Somehow, it got ranked third.",
-    "This week, the same area was named the coolest neighbourhood in the world . I should be pleased, but instead, I’m devastated."
-   ],
-   "img": "https://i.guim.co.uk/img/media/dbddf2d41c8bf5f7bb61114fc6da55f90ee3fb2d/0_641_3000_2401/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=42b40ef067bef7b42b80a4e96aebd398",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-sheeranlooptourculturewarisraelpalestine",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘A maelstrom of his own making’: how Ed Sheeran’s tour turned into a full-blown culture war",
-   "author": "Nadia Khomami",
-   "date": "2026-09-19",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/19/ed-sheeran-loop-tour-culture-war-israel-palestine",
-   "paras": [
-    "Moment of reckoning for ‘Mr Nice Guy’ of music, who embraced Macklemore’s political cred only for pro-Palestine rapper to be dropped under pressure from billionaire",
-    "Ed Sheeran has long been known as the “Mr Nice Guy” of music. His is an unthreatening kind of pop stardom; he looks and talks like the bloke who might be standing behind you in a pub, rather than someone selling out stadiums. He champions other artists, he celebrates different cultures. His songs are about love, heartbreak and friendship. People get engaged at his concerts.",
-    "But this week, one of the most successful musicians in the world faced the biggest controversy of his career, and found himself dragged into exactly the kind of political row he has spent his career avoiding."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3d72306b6193343d4aae862828e34efeabe7c665/731_351_1663_1331/master/1663.jpg?width=140&quality=85&auto=format&fit=max&s=d1e4b3800caf390f060c2afb6262c74f",
    "fetched": true,
    "fullText": false,
    "annos": null
@@ -730,36 +819,19 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-om2026modernvivoaipreclinicalstudydesign",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Fewer lab animals, better drugs: This startup wants to fix how experiments get designed",
-   "author": "Sydney Jackson",
+   "id": "f-stb-m20260918fridayroundtablequietzoneinkent",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Quiet Zone in Kent",
+   "author": "Michael Smith",
    "date": "2026-09-18",
-   "url": "https://www.geekwire.com/2026/modernvivo-ai-preclinical-study-design/",
+   "url": "https://seattletransitblog.com/2026/09/18/friday-roundtable-quiet-zone-in-kent/",
    "paras": [
-    "Seattle-based ModernVivo is using AI to help scientists design preclinical studies for drug discovery. The goal: better experiments that are also faster, cheaper and less reliant on animals.",
-    "“You’d be shocked at the way scientists design their experiments,” co-founder Ian Levine told GeekWire. “It’s very manual.”",
-    "To design experiments, scientists typically enter keywords into PubMed or another database, receiving hundreds or thousands of results. They then go through each complex paper, typically 30 pages long, to find information relevant to the experiment they’re planning.",
-    "Levine spent thousands of hours manually combing through scientific papers as a research undergrad at Virginia Tech, and later as a Ph.D. student at the University of Michigan. He wanted a better way – and in 2022 co-founded ModernVivo with Colin Small, a fellow graduate student he’d met online while Small was pursuing a master’s in biotechnology at Brown University.",
-    "ModernVivo’s platform can analyze millions of peer-reviewed publications – cross-referenced with clinical trial and regulatory data – delivering highly detailed results in minutes. Researchers can filter papers by factors including animal model, experimental conditions, author affiliation and publication date, then drill down into more than 40 individual variables used in the experiments.",
-    "“We want to make experiments faster,” Levine said, “and help get better drugs to the clinic.”",
-    "For Levine, it’s personal: while studying to develop non-opioid pain therapeutics at Virginia Tech, he watched his mother live with a chronic pain disorder.",
-    "In the pharmaceutical industry, about 90% of drug candidates that reach human clinical trials go on to fail. Levine suspects part of the problem could lie in the many variables involved in how animal experiments are designed.",
-    "ModernVivo occupies a narrow niche in biotech software. Its closest analog is Trials.ai , another AI-driven platform tackling clinical trial design, founded in San Diego and acquired in 2023 by consulting firm ZS .",
-    "The Seattle company draws on the paper database of Semantic Scholar , a research tool developed by the Allen Institute for Artificial Intelligence, putting it in loose company with general-purpose research tools like Elicit and Consensus – though none of those are built specifically to extract in vivo protocol details the same way.",
-    "ModernVivo’s pitch is that it provides deeper insight than manual literature review or general-purpose AI tools. Ask a general AI chatbot about an experiment, Levine said, and it’ll return the high-level, commonly known approaches. Researchers want every relevant data point, including the obscure European study that might matter for their specific drug candidate but wouldn’t surface in a broad summary.",
-    "The software also surfaces contradictions in the literature: if 20 published studies point one way and five point another, ModernVivo flags this rather than picking a winner, since, as Levine puts it, scientists don’t want to be told what to do.",
-    "“They’re the people who suffer through the Ph.D. to be an expert in their field,” he said.",
-    "So far, the results are speed, confidence and lower animal use, Levine said. Tracking whether a study leads to a successful drug takes years, so he’s cautious about claiming translational impact. But customers have told him work that used to take about a month now takes as little as an hour.",
-    "Researchers who use ModernVivo report more trust in their initial study design, he said, and run fewer duplicate or follow-up animal experiments, which cuts down on animal use and the cost of housing and caring for animals.",
-    "ModernVivo has more than 20 customers ranging from small biotech firms to large pharmaceutical companies. It also offers ModernVivo Scholar, a version for academic researchers launched last October, with plans ranging from free to $50 a month.",
-    "The company has been through multiple accelerator programs: a WTIA founder cohort in 2023, Creative Destruction Lab’s Seattle program , which it graduated from in June 2025, and the Merck Digital Sciences Studio’s third cohort. The company has raised $1 million in a pre-seed round, and Levine said fundraising is going well as the company looks to expand.",
-    "ModernVivo’s attention is now shifting from the design phase of an experiment to execution. The company launched the ModernVivo Marketplace on Sept. 15, matching a finished study design against a network of pre-vetted contract research organizations, analytical labs and specialist dosing facilities. Suppliers of compounds and animal models are listed as coming soon.",
-    "Once a study is designed, researchers often don’t know which vendors have the right supplies or which contract research facilities are equipped to execute it, and tracking that down has meant manual search and outreach. ModernVivo wants to remove that ambiguity and connect scientists directly to the right vendor.",
-    "“The way we position ourselves in the future,” Levine said, “is helping scientists go from study design to study execution faster than ever before.”"
+    "On August 24, 2026, Kent’s long-awaited Quiet Zone took effect along the BNSF Railway mainline through downtown. This designation, granted by the Federal Railroad Administration in June , no longer requires trains to sound their horn when approaching an at-grade crossing. Over the past 14 years, the City of Kent has worked to meet the necessary requirements to achieve a Quiet Zone. Recent infrastructure upgrades include building raised concrete medians, adding additional signs, and refreshing pavement markings. In a non-Quiet Zone area, all trains are required to sound their horn 15-20 seconds before each street crossing.",
+    "The BNSF mainline tracks are used by 38 passenger trains and many more freight trains every day. The frequent at-grade crossings in downtown Kent resulted in nearby residents hearing hundreds of train horns day and night. The Quiet Zone stretches between S 212th St and S 259th St. The following crossings are included:",
+    "As safety is still a top priority, train engineers are still allowed to sound the horn in emergency situations or as they deem necessary. While the Quiet Zone is officially in effect, it may take some time for nearby residents to hear a difference. One week after the change was implemented, the Kent Reporter noted that many trains were still using their horn at each crossing. I was in Kent earlier this week and each of the five trains (four Sounder, one Amtrak Cascades) I saw used their horn at each crossing."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/modernvivo-1260x840.png",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/IMG_3341.jpg?resize=525%2C394&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -856,24 +928,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-m20260918fridayroundtablequietzoneinkent",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Quiet Zone in Kent",
-   "author": "Michael Smith",
-   "date": "2026-09-18",
-   "url": "https://seattletransitblog.com/2026/09/18/friday-roundtable-quiet-zone-in-kent/",
-   "paras": [
-    "On August 24, 2026, Kent’s long-awaited Quiet Zone took effect along the BNSF Railway mainline through downtown. This designation, granted by the Federal Railroad Administration in June , no longer requires trains to sound their horn when approaching an at-grade crossing. Over the past 14 years, the City of Kent has worked to meet the necessary requirements to achieve a Quiet Zone. Recent infrastructure upgrades include building raised concrete medians, adding additional signs, and refreshing pavement markings. In a non-Quiet Zone area, all trains are required to sound their horn 15-20 seconds before each street crossing.",
-    "The BNSF mainline tracks are used by 38 passenger trains and many more freight trains every day. The frequent at-grade crossings in downtown Kent resulted in nearby residents hearing hundreds of train horns day and night. The Quiet Zone stretches between S 212th St and S 259th St. The following crossings are included:",
-    "As safety is still a top priority, train engineers are still allowed to sound the horn in emergency situations or as they deem necessary. While the Quiet Zone is officially in effect, it may take some time for nearby residents to hear a difference. One week after the change was implemented, the Kent Reporter noted that many trains were still using their horn at each crossing. I was in Kent earlier this week and each of the five trains (four Sounder, one Amtrak Cascades) I saw used their horn at each crossing."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/IMG_3341.jpg?resize=525%2C394&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-offonfaregatescomingtocapitolhillstation",
    "srcKey": "chs",
    "cat": "local",
@@ -941,70 +995,6 @@
     "Overall Seattle traffic collisions including motor vehicles result in an average of 25 to 30 road deaths and roughly 1,200 to 1,500 total reported injuries a year."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/chs-1079.jpg?resize=181%2C223&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-veperformanceincluding19above11thandpike",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Annex Theatre celebrates 40 years of live performance — including 19 above 11th and Pike",
-   "author": "CHS",
-   "date": "2026-09-18",
-   "url": "https://www.capitolhillseattle.com/2026/09/annex-theatre-celebrates-40-years-of-live-performance-including-19-above-11th-and-pike/",
-   "paras": [
-    "On Saturday, the volunteer and artist led Annex Theatre will celebrate 40 years of producing live theater in Seattle. In its second floor venue above E Pike, the company will host its 40th birthday party and announce its 2027 season lineup which will premiere this January.",
-    "“We are very humbled by the legacy of people who have kept the place going for 40 years,” Lucien Oberleitner , who first visited the theater for its 2014 production of Blood Countess years before becoming the theater’s current Artistic Director.",
-    "The Annex’s origin is a story of a few local artists advocating for and working with other artists to create a space for independent and self-sustained live theater.",
-    "In 1987, a group of Bainbridge High School alums started producing shows in Seattle as a nonprofit organization after years of producing shows on their own. The company’s residency bounced around the city before settling into its current spot, a more than 80-seat theater on the corner of 11th Ave and Pike, in the summer of 2007.",
-    "Oberleitner said the Annex is “committed to high risk” art, encouraging pitches that involve more experimental or controversial ideas. This has naturally allowed the company to produce a higher average of political theater and reflect the culture unique to Capitol Hill.",
-    "“Since moving to Capitol Hill, we are a decidedly queer theater,” Oberleitner said.",
-    "“Our staff and company are very gender diverse, orientation diverse, so a lot of our work falls within the interests of the queer community.”",
-    "A scene from a recent production of Wife of Headless Man Investigates Her Own Disappearance (Image: (Image: Annex Theatre)",
-    "“I’m of the opinion that all art is inherently political. But we don’t go in with a committed scene, we don’t go in looking for anything particular,” Oberleitner said. “It really is: ‘Did someone bring something forward that struck interest in a person and that they can defend?’”",
-    "The Annex chooses a theme for each season as the team finalizes the upcoming year’s production schedule. The theme is a way to connect each production, finding a commonality in the stories and recognizing the ways they reflect the current political climate or public consciousness.",
-    "The theater’s upcoming season, “Let the Record Show,” was inspired by the artists’ shared sense of urgency, the collective effort to get the story out.",
-    "The Annex operates democratically, which Oberleitner said has partly contributed to the theater’s longevity. Its consensus decision-making process has evolved throughout its four-decade-long run and was originally established to create opportunity for a more diverse conversation.",
-    "An Annex table read (Image: Annex Theatre)",
-    "“We don’t expect every Company member or every staff member to agree with everything we do or try to adjust,” Oberleitner said. For major decisions like picking shows to produce every year, the Company holds a vote allowing members to stand strongly behind an idea or step out of the project.",
-    "Oberleitner said, especially after the pandemic, the theater continues to find better ways to make the shows accessible. Tickets are sold “pay what you can,” starting at $5 with the option to increase in $5 increments. Because the theater is located on the second floor of its building making the venue non-ADA accessible, the company live streams as many of its productions as possible. Tickets to access the streams and recordings of past shows can be found on the Annex’s website.",
-    "“We do have some punk values,” Oberleitner said about why they believe the Annex has continued to bring people into the theater for 40 years. “It really is sort of a testament to the community that we continue to show up.”",
-    "The Annex’s next show, Rat Cage , begins its three week run on October 9 at 1100 E Pike. You can find more information or RSVP for the Annex’s Anniversary event at annextheatre.org ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2025/09/calanderson1.webp?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-eesupto80ifbuildershurryupandbreakground",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Proposal would slash Seattle development fees up to 80% — if builders hurry up and break ground",
-   "author": "Justin Carder",
-   "date": "2026-09-18",
-   "url": "https://www.capitolhillseattle.com/2026/09/proposal-would-slash-seattle-development-fees-up-to-80-if-builders-hurry-up-and-break-ground/",
-   "paras": [
-    "Faced with a growing map of stalled projects and empty lots, the Seattle City Council has a plan to temporarily slash affordable housing fees on large residential buildings while setting the groundwork on new requirements to push much needed below-market housing into newly upzoned single-family neighborhoods.",
-    "Councilmember Dionne Foster , chair of the Housing, Arts, and Civil Rights committee, is proposing the legislative package to revive stalled apartment production while expanding hopes for affordable home development across the city.",
-    "The “Housing Accelerator” bill set to be presented Friday aims to spur construction amid declining permit filings by amending Seattle’s Mandatory Housing Affordability program. It would mean massively cheaper city fees for developers — but only if they break ground and pass a foundation inspection by a strict deadline.",
-    "Under the proposed bill, the city would reduce in-lieu payments that developers pay to a municipal affordable housing fund instead of building rent-capped units on-site by 80% for already-vested permits awaiting approval.",
-    "The bill could also spur a temporary spike in development with larger units needed by families. Developers who file new permit applications before January 1, 2028, would receive a 60% discount, provided at least 25% of the residences contain two or more bedrooms.",
-    "Builders cannot use discounts in areas with high displacement risk, including the Chinatown-International District, the Central District, and Rainier Beach, “unless the application is for development of a site for which a deed has not transferred title since January 1, 2006”.",
-    "To keep the fee discount, developers must document “substantial progress toward construction of the project’s foundation” within two years for vested projects or three years for new applications. Projects that miss the construction milestone would pay the full “contribution differential” within 60 days, or the city will withhold the certificate of occupancy needed to open the building.",
-    "Meanwhile, a companion resolution from Foster calls for new rules for Neighborhood Residential zones, where middle housing such as rowhouses, duplexes, and cottages is now permitted.",
-    "The proposed resolution would establish support for developer obligations “at a level to not significantly deter development or investment” and keep the rate unchanged without inflation adjustments for five years. The resolution also calls for the city to analyze “progressively higher requirements for less dense development, such as detached single family homes” and evaluate dedicating a portion of future program revenue to permanently affordable homeownership.",
-    "The proposed break on MHA fees could thaw a development landscape across Capitol Hill and the Central District that has been frozen by challenges around interest rates, inflation and construction costs, and mouldering rents.",
-    "The bill’s displacement buffers could concentrate any resulting thaw in areas like Capitol Hill and First Hill that have already absorbed a massive amount of the city’s MHA development compared to the rest of the city.",
-    "As for the lost revenue, the proposal does not directly replace the discounted funds, relying instead on unlocking payments from stalled projects that currently generate zero revenue, while opening the way for new affordable housing fees on market-rate development across newly upzoned single-family neighborhoods.",
-    "CHS reported here on the 2019 finalization of the MHA program that included major rezoning and taller building heights in the city’s densest neighborhoods including Capitol Hill and the Central District connected with the new affordable unit and fee requirements.",
-    "Most developers opt to pay the fees instead of incorporating required affordable units and the program has generated millions of dollars to fund city support for low income housing development.",
-    "Seattle’s Mandatory Housing Affordability in-lieu payments have fluctuated with construction cycles, generating between $24.6 million and $77.4 million annually since citywide rollout, with a total of $378.6 million recorded through 2025.",
-    "The extra cash has not been enough, however, to overcome interest rates and inflation. Industry analysis shows Seattle delivers roughly 1,500 to 2,000 income-restricted affordable units per year. Under the One Seattle Plan and state targets, Seattle needs 112,000 new homes by 2044, with roughly 70,000 homes for households earning 80% of AMI or below. That requires creating 3,500 low-to-moderate-income affordable homes annually, roughly double the city’s current delivery pace.",
-    "Seattle’s efforts to fully update its comprehensive plan, meanwhile, have been stalled by a long appeals battle ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/chs-1073.jpg?fit=128%2C67&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1140,36 +1130,20 @@
    "annos": null
   },
   {
-   "id": "f-kuow-VpQNVNNbll3eHZfMllGc3VZNXIzeDl5STIxQQoc5",
+   "id": "f-kuow-JVzVlXzdLNlUwZk5FUmtEN0V0N080eXVFZ21roc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "WA Kenyan community, health care workers alarmed by uptick in ICE arrests",
+   "title": "Seattle launches plan to help urban groceries survive and thrive",
    "author": "",
    "date": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanlfVldoZzlhWHljZUh2ZHJUZzdwb0ozYWR0SjFSbXhTbjFLUHdlOU5NQWwyblZmc0xZQWd6ZUpnZmtzM3U4TTdQbFNTWnBwVnFxVlhyQ2oyNW5VbVIxVjdNM0dnbVpzNWgtN1FJY3FUUlZfRDZ4dk1tc1NLeFdhRzdmOFptMlhXMVc2LTA3eDlCT3dUeUZZSzFQcVpQNVNNbll3eHZfMllGc3VZNXIzeDl5STIxQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWpJdjlPWnZUam1hS2pPZWxLUW9xUVdnRlFRbXpiWWVaalVSYUQxMlVPbURudFNRR0JZb1VSNW9WcTdaSTJ6QmcxRWhRNk1fNEFkOXlZUjZWekRGdXRwbVVjaE9idlRHanJ4Wnp2b1NVNWI4WVBGRUJvc3BNNVpNNDV4RGtWX2VJVzVlXzdLNlUwZk5FUmtEN0V0N080eXVFZ21r?oc=5",
    "paras": [
-    "WA Kenyan community, health care workers alarmed by uptick in ICE arrests KUOW"
+    "Seattle launches plan to help urban groceries survive and thrive KUOW"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosc317j8k4lvy9oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Watch: Earl Spencer says he is telling the truth about a phone call with Charles after Diana's death",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://www.bbc.co.uk/news/videos/c317j8k4lvy9o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Earl Spencer spoke exclusively with the BBC's Laura Kuenssberg about claims he has made in a new book."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4175/live/2064f9b0-b375-11f1-a430-4d16ee157c41.jpg",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -1543,6 +1517,27 @@
    "annos": null
   },
   {
+   "id": "f-stb-ogcom20260916midweekroundupdecisionpoint",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: Decision Point",
+   "author": "Nathan Dickey",
+   "date": "2026-09-16",
+   "url": "https://seattletransitblog.com/2026/09/16/midweek-roundup-decision-point/",
+   "paras": [
+    "News and commentary from the past week. Transit & streets: New Airo Trains Start Rolling on Amtrak Cascades September 30 (The Urbanist). Executive Zahilay joins South King County leaders to celebrate new Metro Flex service in Auburn and Federal Way (Metro Matters).",
+    "Faulty Pantograph Blamed for Sound Transit’s Apple Cup Train Stall (The Urbanist). RapidRide J Line upgrades take shape in Eastlake, U District, South Lake Union (SDOT Blog). Vehicle resident legislation heads toward City Council vote (MyBallard).",
+    "Bellevue Council Faces Decision Point on Parking Reform (The Urbanist). Person driving at freeway speeds on I-90 Trail raises serious trail security concerns (Seattle Bike Blog). Housing: Environmental Complaints Against Seattle Growth Plan Thrown Out in State Ruling (The Urbanist).",
+    "Seattle Creates ‘Do Not Solicit’ List to Curb Predatory Real Estate Outreach (South Seattle Emerald). Wilson slows homelessness plan including shelter goals in roll-out of 2027 budget proposal (Capitol Hill Seattle Blog). Miscellaneous: In 2025, there were many fewer reported crimes in Seattle’s central business district, but increases in surrounding neighborhoods (The Seattle Times, $).",
+    "Note: Seattle Times’ analysis does not consider per-capita rates. Seattle Youth Mentorship Program brings young people’s voices to the forefront on transportation equity issues (SDOT Blog). Op-Ed: Building Toward a Greener, Housing-Abundant Seattle (The Urbanist).",
+    "Greater Seattle: Third Places (PubliCola) This is an Open Thread."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-singacceleratorteeingupmhafeebreakin2027",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1627,27 +1622,6 @@
     "\"Dr. Martin Luther King says any religion that professes to be concerned about the souls of men, humans, and not concerned about the slums that damn them, the economic conditions that strangle them, and the social conditions that cripple them is a spiritually morbid religion awaiting burial,\" Erica said. \"And so today, as I stand here as a faith representative for New Hope Church, it's good to be here. I see this as a glass full, but we must be reminded in this place today that this is not just the only thing that we must do. We must continue to fight for the liberation and well-being of all people.\""
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Kettle-and-Sharon-Lee-at-RV-Lot-groundbreaking---Trumm_20260910.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-ogcom20260916midweekroundupdecisionpoint",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Midweek Roundup: Decision Point",
-   "author": "Nathan Dickey",
-   "date": "2026-09-16",
-   "url": "https://seattletransitblog.com/2026/09/16/midweek-roundup-decision-point/",
-   "paras": [
-    "News and commentary from the past week. Transit & streets: New Airo Trains Start Rolling on Amtrak Cascades September 30 (The Urbanist). Executive Zahilay joins South King County leaders to celebrate new Metro Flex service in Auburn and Federal Way (Metro Matters).",
-    "Faulty Pantograph Blamed for Sound Transit’s Apple Cup Train Stall (The Urbanist). RapidRide J Line upgrades take shape in Eastlake, U District, South Lake Union (SDOT Blog). Vehicle resident legislation heads toward City Council vote (MyBallard).",
-    "Bellevue Council Faces Decision Point on Parking Reform (The Urbanist). Person driving at freeway speeds on I-90 Trail raises serious trail security concerns (Seattle Bike Blog). Housing: Environmental Complaints Against Seattle Growth Plan Thrown Out in State Ruling (The Urbanist).",
-    "Seattle Creates ‘Do Not Solicit’ List to Curb Predatory Real Estate Outreach (South Seattle Emerald). Wilson slows homelessness plan including shelter goals in roll-out of 2027 budget proposal (Capitol Hill Seattle Blog). Miscellaneous: In 2025, there were many fewer reported crimes in Seattle’s central business district, but increases in surrounding neighborhoods (The Seattle Times, $).",
-    "Note: Seattle Times’ analysis does not consider per-capita rates. Seattle Youth Mentorship Program brings young people’s voices to the forefront on transportation equity issues (SDOT Blog). Op-Ed: Building Toward a Greener, Housing-Abundant Seattle (The Urbanist).",
-    "Greater Seattle: Third Places (PubliCola) This is an Open Thread."
-   ],
-   "img": "",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1810,25 +1784,20 @@
    "annos": null
   },
   {
-   "id": "f-stb-logcom20260912hoponboardcampaignkicksoff",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "“Hop On Board!” Campaign Kicks Off",
-   "author": "Nathan Dickey",
-   "date": "2026-09-12",
-   "url": "https://seattletransitblog.com/2026/09/12/hop-on-board-campaign-kicks-off/",
+   "id": "f-emerald-NCeXN0dVQyTzRlQnRudGJzdUlJSnZPa1FQRlYoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Ballard Ghost Dad",
+   "author": "",
+   "date": "2026-09-13",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjcxajhWZFBpU0doQlhNc0lBUHpCMTNPRVdwcVdrQ0lwSUFVbndaLXBlSm82U0szVll0c1FRN0sxRjh1V1VSc3RrNU8tX3Nacml5X29RUXk2eDg0cTJEelYwWldFQUVFREFvREJBQk93N3I3eEFaVlh0M1pxSnl2NFNGd9IBkAFBVV95cUxPWTBwMDFsZVBQcnB1WWJEOGZrLS16OUxiTHFSSlZuQmcwWFpKcFZ5ZHkwSmhwNzZxWDVBaVJYdnNzR3QtTUR1dGE0SjZUdXJkSzJFek5ieGM0OHpsVWwxdzJzRmlpUjhNYzIxeHZ3emZZb01mUWNCeXN0dVQyTzRlQnRudGJzdUlJSnZPa1FQRlY?oc=5",
    "paras": [
-    "Yesterday, a coalition of transit advocates launched “Hop On Board!”, the official campaign urging Seattle voters to pass the renewal and expansion of the Seattle Transit Measure this November . Speakers at the event included Seattle Mayor Katie Wilson, Councilmember Alexis Mercedes Rinck, ATU 587 President Greg Woodfill, Nondrivers Alliance founder Anna Zivarts, Transit Riders Union General Manager Lam Ho, and Transportation Choices Coalition ‘s Executive Director Kirk Hovenkotter and Policy Director Katy Ricchiuto.",
-    "The Transportation Choices Coalition is leading local advocates pushing for expansion of the transit measure, which proposes to increase the current 0.15% sales tax for transit to 0.3%, the maximum allowed under recently adopted state law. If approved by voters, the measure would take effect in April 2027.",
-    "King County Metro uses an equity framework to distribute service across King County but cities have the ability to purchase additional service. Seattle has been buying additional service since 2014 , which brought frequent buses to most of the city and dramatically increased the viability of living car-free.",
-    "The current Seattle Transit Measure funds over 7% of all bus trips currently running in Seattle, mainly boosting service along key corridors during the day and providing the majority of Metro’s Night Owl service in the city. The expanded STM would further boost service at night and on weekends, as well as more than doubling the number of free ORCA cards for those who need it and providing funding for several important accessibility programs. The measure also includes funding for capital funding for bus lanes.",
-    "At the event, speakers shared stories of how important transit is to their lives and how this measure would make public transit in Seattle more useful for more people. Mayor Wilson focused on the importance of late night bus service to help service workers get home at the end of a late shift without using a rideshare service like Uber or Lyft, or making it possible for a family with two cars to only need one.",
-    "Councilmember Rinck shared stories of three-seat rides to Tumwater and the importance of frequent, reliable service, and also highlighted the expanded late night service provided by the measure. Greg Woodfill posited that although sales taxes are regressive, this measure’s taxes will go right back to serving the people who need it most, stating “every $1 spent on transit is $5 back in the community”. Anna Zivarts stressed the importantance of frequent and reliable service to those who cannot drive, and how the transit measure would bring more service to more communities. Zivarts put it simply: “transit is freedom”. Other speakers highlighted the proposed increase in free ORCA passes for low-income riders and the elderly, and the importance of pushing back against likely opposition to the measure.",
-    "If you are intersested in supporting the Hop On Board campaign, you can sign up to volunteer for upcoming events , or donate to the campaign ."
+    "DOOM LOOP: Ballard Ghost Dad South Seattle Emerald"
    ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image-8-edited.png?resize=525%2C295&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1954,6 +1923,23 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd2VkeVFvMjlhUzRuNFhOUS1FYmFFb3dicGVCZXNRdVVBeVpqZHFLbUlRVnFaQ2U3VlN4N3RaUWJDd2FsTFJCMU9PSjI3dVc3RnFKZDZpUDhiM0ZWOXY2LURTdllQbTA5eXBUVUZ5RC1UclR2YmRDNGZxRHZxNmZNUkFGZ1h1SnFWMkZGc2VYVHBMb3AzMXBNdWVlbWc2M1hEaHM2SzJmRXBuaDRUMVB4MWZ1NWxCQQ?oc=5",
    "paras": [
     "Edmonds gives new contract to principal amid public concerns InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-xbm5PbEFXRElEeDFZUk9lNDNRLWotNGxEb2o4oc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Totally Normal Initiative",
+   "author": "",
+   "date": "2026-08-23",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3ZNdU44amtaTXN1d1pOT1hzZlN2dXduaVZuQURiTm94aFAxcThDLWxtcGxpUGVmYmVPdUtORG40clB3ZGswbjZfYmdOMzVYUkpDdWZ4VXIza1NNRzNVSENaTmd4cU53c3o1ZlZxN2RkelZ4VFpDMmlJTTE5bWZicndXUkVsbFZSQ0dpWlNR0gGbAUFVX3lxTE85MF9fc2hxb3Q0MEkzU1BPVkh1RHBWN1FBWTE2eDJQWTlFaTRCNjZaZUdib0JLaWhnSzRTbi1kU3ZnNU1rNkNPSmxYb3dJOGhJS3ZUM24yeGhCWlZBM2hlN3MyNWJqb1ZJMTY4Tk5BMUxSZ3RzRXN2bUVOcjExa0pxbm5PbEFXRElEeDFZUk9lNDNRLWotNGxEb2o4?oc=5",
+   "paras": [
+    "DOOM LOOP: Totally Normal Initiative South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
