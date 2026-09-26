@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-25T19:43:06.807Z",
- "builtFor": "2026-09-25",
- "builtHour": "12",
- "count": 84,
+ "builtAt": "2026-09-26T18:51:52.045Z",
+ "builtFor": "2026-09-26",
+ "builtHour": "11",
+ "count": 79,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 0,
-   "via": "google-news"
+   "count": 1,
+   "via": "feed"
   },
   {
    "source": "geekwire",
@@ -41,8 +41,8 @@
   },
   {
    "source": "grist",
-   "count": 4,
-   "via": "google-news"
+   "count": 1,
+   "via": "feed"
   },
   {
    "source": "guardian",
@@ -51,12 +51,12 @@
   },
   {
    "source": "invw",
-   "count": 4,
+   "count": 3,
    "via": "google-news"
   },
   {
    "source": "kuow",
-   "count": 6,
+   "count": 4,
    "via": "google-news"
   },
   {
@@ -86,6 +86,648 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-ureofaiplusisseattlestilltheplacetobuild",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Live show: Amazon, Meta and the fight over the future of AI; Plus, is Seattle still the place to build?",
+   "author": "Todd Bishop",
+   "date": "2026-09-26",
+   "url": "https://www.geekwire.com/2026/live-show-amazon-meta-and-the-fight-over-the-future-of-ai-plus-is-seattle-still-the-place-to-build/",
+   "paras": [
+    "This week: Amazon is blocking Meta’s new Muse AI assistant from shopping on Amazon.com, saying the agent doesn’t identify itself and violates the site’s conditions of use. We explain why the standoff is an early sign of a much bigger fight over whether AI agents can use websites and apps on people’s behalf, and why Amazon has so much riding on the answer.",
+    "For the definitive word on the issue, we ask Muse what it has to say for itself, and get an impressively sophisticated and evenhanded response.",
+    "We recorded this week’s show live at Daniel’s Broiler in downtown Seattle, in front of a room of startup founders and CEOs, at a dinner hosted and sponsored by Northern Trust .",
+    "Mike Fridgen , a longtime Seattle entrepreneur and Madrona venture partner now working on a stealth startup, joins us to talk about whether Seattle is still a good place to build a company. The conversation covers the region’s talent, its history and the debate over taxes including Seattle’s JumpStart payroll tax, which Mayor Katie Wilson’s new budget holds flat.",
+    "Then we take questions from the room. Ridge AI CEO Ellie Fields asks how business leaders can engage productively in building the region, Latch CEO Stefan Kalb asks why Seattle has less venture capital than the Bay Area and ACME Brains founder Mary Jesse asks how to get past polarization.",
+    "We close with a satellite-themed GeekWire Trivia Challenge and an unexpected announcement from Starfish Space co-founder Austin Link .",
+    "With GeekWire co-founders John Cook and Todd Bishop. Music by Daniel L.K. Caldwell."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/podcast-2-1260x841.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ampaigntoutsmajorbusserviceexpansionplan",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "'Keep Pierce Moving' Campaign Touts Major Bus Service Expansion Plan",
+   "author": "Ryan Packer",
+   "date": "2026-09-26",
+   "url": "https://www.theurbanist.org/keep-pierce-moving-campaign-touts-major-bus-service-expansion-plan/",
+   "paras": [
+    "South Sound transit advocates and elected officials came together Thursday night in Tacoma to officially kick off the campaign for a ballot measure that could transform bus service across Pierce County. The \"Keep Pierce Moving\" campaign is making the case to voters for Pierce Transit's Proposition 1, which would enable the biggest expansion of local bus service that agency has seen in decades.",
+    "With the 0.3% increase to Pierce Transit's sales tax rates that voters will be asked to approve on November 3, in return they'll see a bus system that is able to grow by 49% compared to current service levels . Bus routes to every corner of the Pierce Transit service area will get more frequent, with many routes running hours later into the evening than they currently do.",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "The measure would also fund four new routes, including the return of fixed-route transit service to Northeast Tacoma for the first time since 2024.",
+    "By the time the service adjustments are fully implemented, no Pierce Transit bus routes would operate less frequently than every 30 minutes, leaving the era of the hourly bus in the dust. The result would be a quantum leap for many Tacoma neighborhoods and cities like Lakewood, Fife, and Puyallup.",
+    "\"People want transit that is reliable, that is connected, and that gets them where they need to go in dignity and convenience,\" Laura Svancarek, executive director of Tacoma on the Go, told Thursday's overflow crowd at the Tacoma's Berliner Beerhall. \"Transit brings us together.\"",
+    "While Pierce County has trailed its neighbors in transit funding and service levels, the need is no less acute.",
+    "\"More so here in Pierce County compared to other counties, we know that we have a lot of folks that truly rely on transit service to be able to live their life and do the things that they want and need to do,\" Svancarek said. \"Transit brings communities together. Great transit connects people to opportunities, resources, and their lives, and that's why we are so excited about this package from Pierce Transit.\"",
+    "While members of the campaign are very optimistic, Pierce County's track record on transit ballot measures is going to cause a lot of nail-biting on election night. In 2011, voters rejected this very same 0.03% sales tax increase by more than 10 points, a decision that led to a catastrophic 35% service cut. Pierce Transit leaders ultimately decided to advance a significant reduction in Pierce Transit's overall service area, with DuPont, Sumner, and Bonney Lake fully dropped.",
+    "After going from a peak of 600,000 annual service hours in 2008 down to just 350,000 hours per year after those cuts took effect, Pierce Transit went to the ballot a second time in 2012 in the hopes of being able to restore some service. Voters once again said no – but that time by a painfully close 704 votes out of more than 200,000 ballots cast.",
+    "\"I argue this one's much better,\" Pierce County Executive Ryan Mello said Thursday, comparing Prop 1 to the 2012 measure. \"This one's much more inclusive. This one's much more clear. I think this one's more compelling. But that one was good too. Don't get me wrong.\"",
+    "Mello had a front row seat to that 2012 campaign as a member of the Tacoma City Council, and put the expansion of transit service front-and-center during his campaign to lead Washington's second most populous county.",
+    "Mello also pointed out that when the 2012 measure fell short by 704 votes, more than 15,000 voters simply did not vote yes or no.",
+    "\"If we get the amount of people who don't make it all the way down to the end of the ballot, who actually know what's in it for them, we really believe we win. We really believe that we win. The case is clear. We're super clear and transparent to voters about what we buy,\" Mello said. \"We all know that transportation access is the limiting factor to folks having access to opportunity. We have an incredibly compelling and fair case. We just have to get the voters to get there.\"",
+    "Pierce Transit's ballot measure comes on the heels of a successful campaign to expand transit in Spokane, with voters signing onto a 0.2% sales tax increase by a three-point margin. That victory came in the face of a significant opposition campaign, largely funded by local developer Larry Stone, that spent more than twice what the Yes for Buses campaign did.",
+    "In Seattle, voters are being asked to renew the Seattle Transit Measure, bumping an existing 0.15% sales tax up to 0.3% to fund an additional 100,000 bus trips annually – with a focus on nights and weekends.",
+    "Meanwhile in Everett, local officials will be asked to sign off on the full consolidation of the city-run Everett Transit system into the larger Community Transit network, a move that is expected to bump up transit service in Everett by 50%.",
+    "Having come so close in 2012, Pierce County's transit advocates are confident that this will be the year that they can overcome history and get voters on their side. If they don't, Pierce Transit will likely ultimately be facing service cuts in the years ahead, as expenses continue to outpace revenue coming in.",
+    "\"This is an amazing package,\" Tacoma Councilmember Kristina Walker said Thursday. \"We're gonna get out to every corner of the county to make sure everyone knows how great this package is and that they need to vote.\""
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/IMG_8147.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-nehurstalightrailstationbuiltbycommunity",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Pinehurst: A Light Rail Station Built by Community",
+   "author": "Renee Staton",
+   "date": "2026-09-26",
+   "url": "https://www.theurbanist.org/pinehurst-a-light-rail-station-built-by-community/",
+   "paras": [
+    "This Wednesday, September 30th, North Seattle communities will celebrate as Pinehurst Station opens to riders. The station, located between Northgate Station and Shoreline South/148th Station at NE 130th Street, and 5th Avenue NE is the first Sound Transit infill station (a new station on an existing line) to open. It is also a game changer in terms of light rail access for the Bitter Lake, Haller Lake, Pinehurst, Olympic Hills, Lake City and Cedar Park communities.",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "The festivities for the station are especially meaningful given that the station wasn’t supposed to happen. And, if it did happen, it wasn’t supposed to open for many more years.",
+    "Sound Transit studied including the Pinehurst Station (previously called NE 130th Street Station) as part of the Northgate to Lynnwood Link Extension, and the idea was strongly supported by Seattle City Council and transit advocates . NE 130th Street/NE 125th Street arterial provides an opportunity for an easy and fast bus connection between the station and the dense and affordable communities of Lake City and Bitter Lake. The arterial also offers a less congested and much safer, more complete pedestrian experience than other east-west arterials such as NE 145th Street or Northgate Way.",
+    "In the 2013 politics of selecting stations for the initial Northgate to Lynnwood extension, NE 130th did not make the final cut. Beyond the Lynnwood terminus station, the agency selected stations at NE 145th (now 148th) and NE 185th in Shoreline and at the Mountlake Terrace Transit Center. However, Seattle leaders saw the value of a NE 130th Street station and wanted to keep the possibility alive. Then Seattle City Council President and Sound Transit Board Member, Richard Conlin, sponsored City of Seattle Resolution 31486 specifically asking Sound Transit to do a full environmental impact study of 130th Street Station to keep momentum and options for the station in the future:",
+    "Recognizing the potential for a station at NE 130th Street and holding a bit of optimism and tenacity, North Seattle community members organized to ask Sound Transit to reconsider including NE 130th Street Station in the Lynnwood Link extension.",
+    "They launched a campaign that quickly drew significant and broad support from the transit community, environmental groups, and elected officials including Seattle City Councilmember Mike O’Brien and Seattle Mayor Ed Murray . While Sound Transit did not add NE 130th to the Lynnwood Link extension, on April 23, 2015 the board approved making the Lynnwood Link “ready” for NE 130th Street Station. This meant that as the Lynnwood Link was planned and constructed, it would be done in a way that a station could still be added at NE 130th in the future.",
+    "I was the lead organizer in this effort and am still incredibly proud of what we accomplished as a community. We showed each other that through working together we can make a meaningful impact. In the process we also built stronger relationships between neighborhoods and new leaders emerged who have since led other North Seattle efforts.",
+    "As a District 5 Seattle City Council candidate in 2015, Debora Juarez saw the strong case for a NE 130th Street station and adopted the vision of completing the station as one of her three key campaign goals. Once in office, she immediately went to work.",
+    "In early 2016, Sound Transit released the proposed Sound Transit 3 (“ST3”) ballot package listing NE 130th Street Station as a “provisional” station, to be built if funding allows. This was a disappointment for Councilmember Juarez and she launched her own successful 130th effort that included an epic number of letters from the D5 community to the Sound Transit Board.",
+    "Ultimately, the Sound Transit Board included NE 130th Street Station in the ST3 ballot package without the “provisional” tag and with a target of the station opening by 2031. ST3 was passed by voters in November 2016 including broad support in North Seattle and District 5.",
+    "While excited to know the station would be built, Juarez was not satisfied that it would open years after the rest of the Lynnwood Link. In early 2020, Juarez and Seattle Mayor Jenny Durkan, who were both Sound Transit Board members at the time, convinced the full Sound Transit Board to give the green light to working on a final design for NE 130th Street Station , allocating $20 million for that work . The North Seattle community again contributed with a massive email campaign in support. With that decision, on the eve of the pandemic, the station opening timeline accelerated toward Wednesday’s opening, only two years later than the rest of Lynnwood Link.",
+    "It’s clear that rezoning for transit-oriented development will increase ridership; and, the Sound Transit Board has repeatedly noted that it expects more housing at the station given the massive investment being made.",
+    "Following the April 2015 Sound Transit Board vote, North Seattle community leaders held a well-attended meeting to launch a discussion of a rezone centered on the future station. Subsequently, the Seattle 2035 Comprehensive Plan update released in 2016 included a “Potential Village” surrounding NE 130th Street station in Growth Strategy Figure 4 in the 2016 adopted plan. And, in 2019, under Mayor Jenny Durkan, the Seattle Office of Planning and Community Development (OPCD) led a station area planning process for the areas surrounding the station .",
+    "Ultimately, Seattle leaders opted to attach the zoning changes to the next Comprehensive Plan update, which was technically due by the end of 2024, but delayed first by the Harrell Administration and later by legal appeals from opponents. The One Seattle Draft Plan released in 2024 proposed significant rezoning at the station, but appeals need to be resolved before the city council can adopt the plan.",
+    "I live in a single-family home in the Pinehurst Station walk zone, in an area proposed to be rezoned to LR3, and have been fully supportive of a rezone since we started the station discussion. When Cathy Moore was Councilmember for District 5, I organized a walking tour of the proposed rezone area with neighbors.",
+    "There is substantial community support for a rezone and unlike other communities in Seattle, there is no formal opposition effort to rezoning. In fact, many residents are frustrated with how long the station area planning process is taking, considering it started in 2015. Memories of the 2012 Roosevelt Station area rezone definitely give pause to Seattle political leaders looking at subsequent zoning changes.",
+    "Now that Pinehurst Station is opening and once challenges to the One Seattle Plan are resolved, I hope that we can move forward on the rezone and engage both market-rate and affordable housing providers to make room for more neighbors."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Pinehurst-Station-from-130th-Street---Trumm-_20260923.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-heroundupwhatsupanddownwithwilsonsbudget",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: What's Up (and Down) With Wilson's Budget?",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://southseattleemerald.org/newsletters/2026/09/26/the-roundup-whats-up-and-down-with-wilsons-budget",
+   "paras": [
+    "We had a big week in local politics. Mayor Katie Wilson announced her 2027–28 budget, and there were a few surprises.",
+    "First, though some tied Wilson to the \"defund the police\" movement during her campaign, this proposal increases police spending nearly 14% and includes funding for 1,250 SPD positions, 66 more than the current budget.",
+    "In fairness, the bulk of the new spending is due to money tied to things like salary increases, which come from the last Seattle Police Officers Guild contract, which was signed under Mayor Bruce Harrell's administration.",
+    "But the budget also accounts for $100 million in upstream investments related to public safety, which covers the items in Wilson's recently proposed plan to address gun violence .",
+    "Big picture, Wilson's $9 billion budget proposal is aimed at closing a $175 million general fund deficit — and it does it without raising any major new taxes.",
+    "While these are the items that caught my eye, there's plenty more to discuss. And I happen to know the perfect person for the conversation: Contributing politics reporter Connor Nash, a former economist, was at the meeting where Wilson announced the budget.",
+    "This week, I spoke with Connor about the budget and what it means for the South End.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: You were in the room when the mayor announced this budget. Can you give me a quick overview of what's in it?",
+    "CN: Essentially, what the mayor's budget proposal is doing is closing a budget deficit that's been going on for the past six years. That's the easiest way to describe it, but this deficit has been here since the Durkan and Harrell administrations. The reasons the mayor gave for the deficit are rapid growth and the increased need for government services. That’s the spending side of it. And so the mayor wanted to have a budget surplus, even though her office didn’t like the term \"budget surplus,\" they wanted reporters to call it a \"rightsizing of the budget,\" and that’s a quote.",
+    "But what they did was move things around and did cuts to a lot of different departments in order to go from negative $175 million, which is what they were projected to have, to positive $15 million. So that was a lot of cuts, mostly into the Department of Transportation. But then there's also places that are getting more money. The police department is getting more money. They got a cut of $9 million, but somehow will also get an increase of $68 million.",
+    "Overall, most of the cuts are to staff, and most of those are to vacant positions. Those are the kinds of things that she had to do to right the ship, as she said, and to rightsize the budget.",
+    "MD: I want to go straight to our neighborhood. I've seen plenty of overall coverage, but what does this budget mean for the South End?",
+    "CN: On top of the speech itself, I attended a technical briefing, and the mayor did have slides that named Rainier Beach. I also went through the 754-page budget proposal and searched for South End neighborhoods. And one of the big things coming our way is $600,000, which is not new money, it's a reallocation of money, to create a new after-school program in Rainier Beach High School.",
+    "There's also an additional $300,000 that's going to go to increasing the sites for the Teen Late Night program. There's going to be $108 million for new bathrooms at parks, and one of those parks is going to be Cheryl Chow Park, just off of Rainier Avenue. We're also getting money for cultural districts in Columbia City and Georgetown. And lastly, the South Precinct is getting $8 million more, and that is one of the larger increases for police precincts.",
+    "MD: Can we do rapid-fire with a few issues that I know are important to the South End? Public safety, housing, and transit are always top of mind. Starting with public safety, the mayor increased the police budget and set aside $100 million for community investments in public safety. How do these ideas coincide, and what is her big-picture plan for safety?",
+    "CN: When it comes to the police, I will say that it's a nearly 14% increase in the police budget, which is bigger than what Bruce Harrell did, and it funds Mayor Wilson's recent gun-violence plan. I asked in the technical meeting if Maritza Rivera’s plan was getting funded in this budget, and for an answer, [Wilson's team] actually read a script. They said a lot, in the end; they mentioned $300,000 for any other priorities anyone has.",
+    "But essentially, the gun-violence plan the mayor released and everything in it is included. I found it very interesting that we're going to 1,250 SPD positions, but we are cutting some civilian positions, like three civilian police accountability positions are being cut. But I will say, and this is a quote from the meeting: \"This does not translate to any human beings being fired.\"",
+    "MD: Rapid-fire — what did you hear on housing and homelessness?",
+    "CN: With housing, and this is from the mayor's speech, there is no reduction to rental assistance or tenant services. Unlike the police items, this one does fit into her campaign strategy: preserving no reductions to services, and she is proposing a fee for the rental junk fee ban as well, like the fee for landlords. There’s also going to be $183 million toward homelessness services, which involves building out shelters, and $37 million is for shelter expansion.",
+    "One part that is interesting, and that I'm going to dig into more, is that she’s cutting $8 million to the shelters that we're losing because we no longer need to fund them. But I was like, What shelters are we talking about? That's something I'll be looking into.",
+    "And finally, I'll just say, I know we're talking about housing, but there's also $55 million for food security and access. That adds $6 million to Fresh Bucks and makes sure that universal meals are funded as well.",
+    "MD: Last, but certainly not least, what's in there on transit?",
+    "CN: From Wilson's speech, she said, and I'm paraphrasing, \"I will not pretend that SDOT cuts are not painful.\" That was the biggest part of the deficit that Wilson was trying to deal with. So anything that was part of the transit levy: untouched. And that's in its own bucket of money. And she also said the things that involve her Vision Zero goal will be untouched. All of those will be funded, and they include traffic calming and safety projects on Rainier Avenue and MLK.",
+    "We're three months into Mayor Wilson's safety plan for the CID. Have we seen results?",
+    "What do you think Hillman City's \"Best Day Ever\" would be like? These neighbors have an answer, and it includes both community building and service.",
+    "Do you have ideas on how to reduce pollution in Georgetown and South Park? If so, this new city of Seattle program wants to hear from you .",
+    "After settling an $18 billion lawsuit, Meta has new guidelines for teen use of social media. One problem: It didn’t consult any teens when crafting the plan.",
+    "A new Afrofuturist film imagines a world without prisons and police.",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-09-26/u43owlvo/Whats-Up-and-Down-With-Wilsons-Budget.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-blicshamingattheparamountonthursdaynight",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Lily Allen Gave a Masterclass in Public Shaming at the Paramount on Thursday Night",
+   "author": "Audrey Vann",
+   "date": "2026-09-26",
+   "url": "https://www.thestranger.com/music/lily-allen-gave-a-masterclass-in-public-shaming-at-the-paramount-on-thursday-night/",
+   "paras": [
+    "It was the question echoed around the world when Lily Allen released West End Girl last fall. Madeline—introduced on the album’s fourth track “Tennis”—was immediately inducted into the harlot hall of fame, alongside Becky with the Good Hair and Jolene . West End Girl was Allen’s first album in seven years, written over a ten-day period following her split from husband, actor, and now public enemy #1, David Harbour (of Stranger Things ). While the album’s lyrics read like a diary, detailing a PUD (that’s “Poly Under Duress,” as coined by Dan Savage) relationship fraught with infidelity, the album hits on something more universal: harm caused by a passive man. “You let me think it was me in my head and nothing to do with them girls in your bed,” she coos on “Sleepwalking.” Allen highlights that being cheated on isn’t always dramatic or explosive, but often a mundane, arduous emotional path strewn with gaslighting. However, Allen gets the last word. West End Girl is a masterclass in public shaming, reminding us that it’s often the most powerful way to destroy a man who done you wrong.",
+    "We were all here for it, as a sea of polka dots, Peter Pan collars, and baby bangs filed into the Paramount Theatre last night to hear Allen unpack her revenge epic. But before we got our hearts shattered into a million pieces with West End Girl , we were warmed up by a trio of cellists, Dallas Minor, who graced the stage and provided classical renditions of Allen’s hits like “LDN,” “The Fear,” “Hard Out Here,” “Alfie,” and even “5 O’Clock,” which was famously sampled by T-Pain in 2011. The audience acted as a chorus as we sang the lyrics, projected karaoke-style on a screen above the stage. The trio closed with a joyful rendition of “Fuck You,” which the crowd chanted gleefully in a British accent.",
+    "While we waited for Allen, my sister and I sipped our Fruityloop cocktails (blood orange juice, coconut milk, vodka, and soda), which were mixed specially for the event, and, appropriately, tasted like colorful cereal and revenge. When we saw a spotted baby blue puffer jacket, as seen on the West End Girl album cover, I squealed and sneakily snapped a photo like some kind of frenzied paparazzi. One woman’s glorious Priscilla Presley-style bouffant had me scrolling for vintage-style half wigs on my phone, which, in retrospect, is the only reasonable thing to be doing while waiting for Allen to arrive.",
+    "Then, at last, the theater went dark, and Sheezus herself emerged from behind a green lamé curtain to roaring applause. She presented her incredible outfit with a twirl: a silver strapless mini dress with a giant bow on her back, just like a Christmas present, finished with chrome platform shoes. The show started just like the album, with the title track—a song about getting the lead in a play in London, but her actor husband questions the legitimacy of the offer. She gets the last laugh, as she’s now touring the world, acting out the story of his infidelity, blow-by-blow on the world’s largest stages. There were elaborate sets. There were costume changes. At times, there were actual tears falling from her eyes, forcing the audience to ask, is she acting, or is she actually getting emotional?",
+    "More highlights from the show: Allen gave the complete “Madeline” monologue in an American accent, reciting her email exchange with the now-infamous other woman. The set dressing looked eerily similar to her and Harbour’s also-infamous Brooklyn townhouse, as shown on Architectural Digest’s Open Door . At one point, a bubblegum pink vintage-style refrigerator was wheeled out on the stage; it contained a glass of water and her vape— likely matcha-flavored —which she hit on two separate occasions. During “Relapse,” Allen dumped the contents of her Birkin bag onto the stage to reveal a pill bottle, a little plastic jar of Extra peppermint gum, and a bottle of Valentino Donna Born In Roma perfume (finally, my esoteric knowledge of perfume bottles came in handy). During “Dallas Major,” a giant three-tiered cake rose beneath her until she was poised on top, a lone bride figurine. As she sang the opening lines to“Nonmonogomummy,” she tied on a pink frilly apron that read “cuck.”",
+    "By the end of the show, and thus, the album, the “apartment” had been nearly emptied. Allen stumbled aimlessly around the large, open space, singing the tracks “Beg For Me” and “Let You W/In” with an air of disillusionment and fatigue. “I will not absorb your shame / it’s you who put me through this.” The show culminated in the hopeful realization of “Fruityloop,” a dreamy song about finally freeing herself: “Wish I could fix all your shit, but all your shit’s yours to fix.” Allen sang it with a sparkle in her eye, ending with the ultimate exhale: “Finally I see / It’s not me, it’s you.”",
+    "The post Lily Allen Gave a Masterclass in Public Shaming at the Paramount on Thursday Night appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/20260924_AmberKnecht_Lily-Allen_The-Paramount_STG-Seattle_28_1899_2400web-1.jpg?fit=1024%2C683&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-grist-ybannedrenewablesitshavingsecondthoughts",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "A rural Idaho county banned renewables. It’s having second thoughts.",
+   "author": "Julia Tilton, The Daily Yonder",
+   "date": "2026-09-26",
+   "url": "https://grist.org/energy/a-rural-idaho-county-banned-renewables-its-having-second-thoughts/",
+   "paras": [
+    "Jeff Hough did not pull any punches. What his fellow Republican county commissioners were about to do, he said to the packed courthouse, would violate America’s founding ideals. He quoted the Declaration of Independence to make his case.",
+    "The three-person commission was about to vote on an ordinance that would ban utility-scale solar and wind development in Bannock County, Idaho.",
+    "“We cannot deny the entire county the opportunity to exercise their property rights,” Hough said. “That goes against the principles this country was founded on.”",
+    "A few minutes after Hough’s emphatic speech , the ordinance passed by a 2–1 vote. Hough was the lone dissenter.",
+    "Since that consequential vote in March 2024, Hough has become the chair of the county commission and has dedicated himself to overturning that ordinance. He will soon have a chance to make that happen. This fall, Hough and the other two commissioners are set to vote on an ordinance with new language that would allow the development of solar and wind, along with nuclear energy, in the county.",
+    "The Bannock County vote is a test case of whether — and how — a community can revisit its assumptions about the costs and benefits of clean energy and decide to welcome development it once swore off.",
+    "In 2025, nearly 1 in 4 U.S. counties had some kind of ban, moratorium, or impediment to clean energy development, up from 15 percent of counties in 2023. More than 60 percent of counties with bans are rural, according to a Daily Yonder and Canary Media analysis of data from USA Today and the Sabin Center for Climate Change Law at Columbia University. (The Daily Yonder defines “rural” using criteria from the U.S. Office of Management and Budget .)",
+    "Bucking this national trend and reversing the ban would put Bannock County back in play at a moment when Idaho needs all the energy it can get. Idaho Power , the state’s largest utility, expects electricity demand to grow by 1 gigawatt by 2030, a roughly 26 percent leap from current levels.",
+    "“The need to build stuff now is critical to Idaho’s economic future,” said Aaron Menenberg, the Idaho policy manager for Renewable Northwest, a nonprofit working to decarbonize the region’s grid. “We can’t afford to say no to anything.”",
+    "Bannock County, nestled in a valley a few hours north of Salt Lake City and 100 miles west of Wyoming’s Teton Range, is a prime location for new power plants. It’s home to the Populus substation, a critical juncture for getting electrons onto the grid and into Idaho, Utah, Wyoming, and the Pacific Northwest. Building new power plants near a substation is cheaper, and those savings can help bring down costs for utility customers.",
+    "But the biggest opportunity for county residents, as Hough sees it, is not utility-bill savings: It’s economic development. In recent years, Bannock County’s population has grown far more slowly than Idaho’s. The county’s rural communities, meanwhile, are watching essential services disappear, and drought worsened by climate change is making it difficult for family farms to stay afloat.",
+    "Hough believes renewables would bring money into the community. Bannock County’s neighbors offer local proof: In 2024, projects in nearby Power and Bingham counties generated $909,000 and $639,000 in tax revenue, respectively. Hough wants to send a message — to the renewables industry and others — that Bannock County is “open for business,” too.",
+    "“Rural America is in a transition state,” Hough said from his office in Pocatello, the county seat, in July. “How do we make or help rural America … transition to this new way of life, so that they can thrive and prosper?”",
+    "Not everyone shares Hough’s vision of prosperity. In south Bannock County, Hough’s campaign has met with fierce opposition. Two camps exist: On one side are residents who are willing to lease their own land to solar energy developers or stand by their neighbors’ right to do so. On the other are those who are skeptical of renewables and believe that leasing land to developers is equivalent to selling out — many of them do, however, support nuclear.",
+    "Steve Criddle, a third-generation farmer and lifelong resident of south Bannock County, voiced his support for solar in 2024 before the ban passed. He described the situation today simply: “It’s confrontational.”",
+    "Bannock County’s moratorium on solar and wind stemmed from an unlikely source: Hough himself .",
+    "It was the fall of 2023, and he had just attended a conference of the Idaho Association of Counties in Boise.",
+    "At the conference, the Lava Ridge Wind Project , a 1-GW development slated for more than 57,000 acres of federal land in southern Idaho, dominated the conversation. County leaders from around the state were concerned about clean energy developers running roughshod over their communities. (President Donald Trump’s Interior Department canceled Lava Ridge in August 2025.)",
+    "The discussion got Hough thinking. Months before the conference, he had learned that several developers, including Chicago-based Hecate Energy and Moab, Utah–based Balanced Rock Power , were approaching landowners about solar projects in Bannock County.",
+    "When Hough returned from Boise, the cautionary tale of Lava Ridge fresh in his mind, he took action.",
+    "“I realized that we didn’t have any kind of ordinance,” Hough said. “So I knew they’d come in and do whatever they wanted.”",
+    "On October 12, 2023, spearheaded by Hough, the county commissioners voted unanimously to enact a six-month moratorium on large-scale energy projects. The idea was not to ban solar and wind, but simply to give the county time to regulate the developments and ensure they balanced economic opportunity with responsible land stewardship. A public hearing on the topic was set for the following February, and the commissioners would vote on the future of the moratorium in March.",
+    "But Hough’s moratorium took on a life of its own. In the months that followed, a group of concerned residents organized to make it permanent.",
+    "Rebecca Falcon led the charge. A decades-long resident of Downey, a town in south Bannock County, Falcon had been approached by Balanced Rock in September 2023 about leasing a portion of her 80 acres for solar. Appalled, she turned the company away. But Balanced Rock’s proposed Harmon Solar Project (aka Harmon I), a 300-megawatt solar facility with a 1,200-megawatt-hour on-site battery energy storage system, included her neighbors’ land. Stopping it would take more than just Falcon saying no.",
+    "Falcon and another neighbor, Dez Hauser, who had also turned away Balanced Rock, encouraged other concerned community members to show up to the February 2024 public hearing about the future of the moratorium.",
+    "By the time the hearing rolled around, residents had sorted themselves into two groups: for solar and against it. The meeting attracted such interest that it was moved from the county courthouse to a local high school auditorium in south Bannock County. The venue was still packed.",
+    "More than two dozen speakers, nearly all of them from south Bannock County, showed up to say their piece. The vast majority testified in opposition to solar.",
+    "The commissioners convened the next month to decide what to do with the moratorium. Hough voted to repeal it. The other two commissioners voted to extend it. The commissioners framed it as an additional pause to study the potential effects of large-scale renewable energy development in the county. Yet as the controversy mounted through the spring and summer of 2024, the county declined to take further action.",
+    "The ban stayed in place. Falcon, Hauser, and the other opponents had won.",
+    "Dale Lish, a grain farmer based in Downey, was frustrated with the decision. Recently retired from a career at the U.S. Department of Agriculture, Lish became familiar with solar while working on projects in Idaho and Washington through the Rural Energy for America Program. He spoke in favor of the energy source at the same hearing where Falcon and Hauser expressed their concerns.",
+    "“The approach was just no to everything, which bothered me,” Lish said of the county’s decision, in a June interview on his property. “A straight-out ban — I don’t think that’s American. I think we, as private-property owners, ought to have a chance to do what we want within reason.”",
+    "In 2023, Lish signed a one-year contract with Hecate to option about 400 acres of his land for solar development. Hecate declined to renew the contract in 2024 because of the county’s ordinance.",
+    "The company has since pulled out of the county altogether. Representatives from Hecate did not respond to multiple requests for comment.",
+    "For the two and a half years since that March vote, Hough has been beating the drum of private-property rights while also trying to educate the community on Idaho’s power needs and how they might be met in Bannock County.",
+    "While the commission won’t vote until later this fall on the new ordinance, which is still undergoing public review, at least one of Hough’s colleagues may have changed his tune. Ernie Moser, an incumbent who supported the ban in 2024, said in an interview in June that his fears about solar and wind are “not as big” as they were two years ago. Still, Moser, who’s retiring from the commission at the end of this year, stressed that he wants “to do it right” when it comes to revisiting the county’s energy policy. The other commissioner, Ken Bullock, declined to comment.",
+    "May’s primary elections offered another indication of the county’s divided views. In the Republican primary, Hough faced a challenger from south Bannock County with an anti-solar platform, and though he won his race by 14 percentage points overall, his opponent captured 70 percent of the vote in Downey. No Democrat is running in the race, so Hough won’t face competition in the November general election.",
+    "This year’s results mirror those of 2024, when former county commissioner John Crowder, who voted for the ban in March of that year, won big in Downey but lost to Ken Bullock, an ally of Hough’s.",
+    "“In south Bannock County, it’s a supermajority of residents that do not want this,” Crowder said about solar development.",
+    "Steve Criddle can trace his family’s roots in Downey back to 1876, when his ancestors first filed paperwork for water rights. His grandfather farmed grain, including wheat. Criddle’s father did the same. He’s kept the agricultural heritage alive himself, but because of a changing climate, grain farming is no longer enough to sustain him.",
+    "“We don’t get enough moisture anymore,” Criddle said. The fields where he grows crops without irrigation now hardly produce enough to make ends meet. He’s turned some of his land over to cattle grazing and has worked odd jobs over the years to hold on to the farm."
+   ],
+   "img": "https://grist.org/wp-content/uploads/2026/09/260701r2-7846.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2ual8iz",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Trump embraces Xi as he turns up attacks on American media",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-ual8iz/",
+   "paras": [
+    "It’s been a busy week in Washington. A state visit from China’s president, a new campaign launched by the American president against the media. There are also more signs that Republicans are distancing themselves from Trump, which might explain why he’s so angry at the media, because you have to take out your frustration on someone."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/bfb72ca6-6b48-4e96-9949-4f813683f363.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip1glnepl",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Egypt’s secret warning to Israel before Oct. 7",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip1-glnepl/",
+   "paras": [
+    "Egypt’s secret warning to Israel before Oct. 7"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/0bf7e54c-102a-467f-bc56-0d394ab64aca.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-storiesfromthestageseason10previewuel9fo",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Stories from the Stage | Season 10 | Preview",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/stories-stage/trailers/stories-from-the-stage-season-10-preview-uel9fo/",
+   "paras": [
+    "Ten years, hundreds of voices, and countless unforgettable moments. Coming soon, Stories from the Stage reaches a major milestone: Season 10! From an intimate event in front of a small audience to a multi-platform series, our storytelling has shaped values and deepened connections among audiences around the world. We're proud to continue this inspiring work with a landmark tenth season."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/e159ccb6-f363-42ef-a422-41dc5fbb4b67.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-wnewshourextrashealthcarecosts1790373905",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Health care costs a concern for voters ahead of midterms",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/health-care-costs-1790373905/",
+   "paras": [
+    "Health care is at the center of a political debate as millions of Americans struggle with rising costs. Enrollment in the marketplaces created by the ACA dropped this year, mainly due to the expiration of federal credits. Vice President Vance also announced plans to cancel coverage for nearly 760,000 people, citing claims of widespread fraud. Geoff Bennett discussed with Larry Levitt of KFF."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/0744f0c3-2b81-41a6-9264-fef136f4bc4e.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shownewshourextrastalkingtrade1790373879",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Mexico's foreign secretary on Trump and U.S. trade talks",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/talking-trade-1790373879/",
+   "paras": [
+    "President Trump struck the United States-Mexico-Canada Agreement in his first term, but threw out that trade agreement after retaking office last year. He imposed steep tariffs on both neighbors and even started a trade war with Canada. To discuss trade talks between the countries, Amna Nawaz spoke with Mexico's foreign secretary, Roberto Velasco Álvarez."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/51bfe504-f1bd-436c-bec7-e919e4c4db12.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ownewshourextrasbrookscapehart1790368260",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Brooks and Capehart on Trump's warm welcome for China's Xi",
+   "author": "Cascade PBS Staff",
+   "date": "2026-09-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/brooks-capehart-1790368260/",
+   "paras": [
+    "Brooks and Capehart on Trump's warm welcome for China's Xi Jinping"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/09/4f7f192a-9806-4379-a033-6eb8be8263b4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescv8e33gdw17noatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5b/live/b607d7b0-b9c1-11f1-a430-4d16ee157c41.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescrx2zz401935oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Heathrow Airport warns third runway could be delayed by four years",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqgmrr9ekr7koatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The US president says Tehran had only put forward the proposal because it is losing the war."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwn8mn0rzkzloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "How long can Labour's feel-good factor last?",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec45/live/9eecaf70-b8bc-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc60m334grx9voatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Met to re-examine CCTV from Jill Dando murder case",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2241/live/f2176e40-b99a-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesckddvv5dn4eyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Republic of Ireland to wear black armbands for Israel game",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-979openaiusgovernmentwebsitesmisbehavior",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+   "author": "The Associated Press",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+   "paras": [
+    "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-swwwnprorg20260926nxs15974096essay092626",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+   "author": "Scott Simon",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+   "paras": [
+    "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+    "(Image credit: Chip Somodevilla/Getty Images)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5055x3370+0+0/resize/5055x3370!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F0f%2Fabbe9b1a4d8f851c217c528e2a34%2Fgettyimages-2296575054.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-landcoastlineshurricanenolotargetshawaii",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Powerful nor'easter brings winds, floods to East Coast",
+   "author": "Ava Berger",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
+   "paras": [
+    "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3409x2273+0+0/resize/3409x2273!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F46%2F8bcbf1fd46c6a6fdec4fdb1dfbcf%2Fap26268625826647.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-60926gs1144667hivcrystalmethepidemicfiji",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+   "author": "David Cox",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+   "paras": [
+    "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fdf%2F43ea1eee4821ab65e5f43991df81%2Ffiji-hiv-06220.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-usingheresourguidetothedifferentfactions",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+   "author": "Katie McQue",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+   "paras": [
+    "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fe9%2F740a82844c44bf409fd71dd0fcba%2F2026-09-ai-factions-final.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-icallytailoredmealdeliveriesmedicaidcuts",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+   "author": "Priyanka D McCluskey",
+   "date": "2026-09-26",
+   "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+   "paras": [
+    "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F34%2Fbd43844c40e9baa979397c5faa99%2Fcommunityservings-01.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-colinkaepernickinterviewnfltakingtheknee",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Refusing to meet Trump was an easy no’: Colin Kaepernick on being ‘blackballed’ for taking the knee, racism, and why he’s still ready to play",
+   "author": "Steve Rose",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee",
+   "paras": [
+    "Ten years ago, the San Francisco 49ers quarterback refused to stand for the national anthem. He was accused of disrespecting the flag, the game, and America. In a rare interview, he talks about inspiring a global gesture of civil rights",
+    "Colin Kaepernick still gets up at 4.30am every morning to train. “Strength training, speed training, position training – still do all of the same type of workouts I did while I was playing,” he says cheerily. “And then go about the rest of my day.” It is almost 10 years since Kaepernick last played a game of top-flight football. His career was abruptly and cruelly cut short just as it was peaking, after the National Football League (NFL) effectively closed ranks and shut him out for being too political. Now, at 38 years old, he is well aware that his chances of a return are dwindling by the day, but he remains as game-ready as ever. “I stay relentless at it,” he continues in his easy drawl. “I look at it from the perspective of, ‘What are the things that I can control?’ And what I know I can control is being prepared for when opportunity knocks, and to also continue knocking, on my end, looking for ways and opportunities … just staying resilient and focused and disciplined – that is what’s gotten me to this point in my life.”",
+    "Kaepernick’s story is defined by the events of late 2016, when he repeatedly refused to stand for the pre-game national anthem – resulting in a chorus of booing on the pitch, insults and outrage off it, and exclusion from the sport he still loves. He was one of the biggest names in the game at the time; quarterback for the San Francisco 49ers, a national celebrity, sponsored by major brands, and looking back, his actions fed into so much that has happened since: the rise of Donald Trump, the Black Lives Matter protests and a global reckoning with racism, then the backlash against what is now being called “Woke 1.0”, and the resurgence of a white nationalism that the US complacently assumed was in the past."
+   ],
+   "img": "https://i.guim.co.uk/img/media/818facf101edc9066f46a9aefed318667905f613/0_219_2880_2304/master/2880.jpg?width=140&quality=85&auto=format&fit=max&s=5ed8cce93fe1d22751645494c7e8837e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-p26kamalaharrisprogressivesarabamericans",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi",
+   "author": "Arwa Mahdawi",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans",
+   "paras": [
+    "As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders",
+    "Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way . He continues to brush off concerns about the cost of living, saying last week that high gas prices are a very “inexpensive price to pay ” for the war on Iran.",
+    "And, of course, the president seems to have no plans to end that disastrous war, apart from making vague threats about blowing the entire country up. Trust me, he keeps saying, everything will get better after the midterms . But by the looks of his dismal polling numbers, not many people are swallowing his empty promises anymore."
+   ],
+   "img": "https://i.guim.co.uk/img/media/5a36bdcd57cb098cfa8cc5891c3ce7dc62a751d0/498_0_4955_3966/master/4955.jpg?width=140&quality=85&auto=format&fit=max&s=abf18bb8bbe15846b37ceb6b8ab73c39",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-odiplomaticgiftsmeanandhowdoyouchooseone",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "France gave the Statue of Liberty. China sends pandas. What do diplomatic gifts mean – and how do you choose one?",
+   "author": "Kim Willsher",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/world/2026/sep/26/france-statue-of-liberty-china-pandas-what-do-diplomatic-gifts-mean-and-how-do-you-choose-one",
+   "paras": [
+    "France’s offer to the American people was a point made on a colossal scale, and world leaders’ exchange of tokens remains a complex art",
+    "It was one of the most potent political gifts of modern times: the Statue of Liberty, a colossal neoclassical sculpture made in France and offered to the American people in the late 19th century.The size and symbolism of Liberty Enlightening the World (the statue’s original name) was intended as a mark of friendship to commemorate the centenary of the 1776 US declaration of independence. Delivered a decade late, it was also a reminder – perhaps a pointed one – of France’s critical role in helping the US break free from Britain.",
+    "The Statue of Liberty is now one of the world’s most recognised monuments, its creator, Frederic Auguste Bartholdi, less so – a state of affairs Paris’s Musée d’Orsay is seeking to remedy with an exhibition highlighting the sculptor’s life and career."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0427030f0122583d8172438742ac95cf71079ea9/0_575_2001_1600/master/2001.jpg?width=140&quality=85&auto=format&fit=max&s=3aafdae7de449de1546c17493c75466d",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-feandstyle2026sep26blinddatemiklosminnie",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Blind date: ‘I do wish I hadn’t stepped on that dog – but she assured me it was OK’",
+   "author": "Guardian Staff",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/26/blind-date-miklos-minnie",
+   "paras": [
+    "Miklos, 25, a PhD student, meets Minnie, 23, who works in film production",
+    "What were you hoping for? To take a step outside my comfort zone. To meet the love of my life."
+   ],
+   "img": "https://i.guim.co.uk/img/media/553e8ea07f51e9001afa5e7a49513853b2b82b1d/0_0_3000_2400/master/3000.png?width=140&quality=85&auto=format&fit=max&s=76faa273bc1ff9babc949e927fbb2f33",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-emichelinmeatfluencervenisonchillirecipe",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Cooking with Tom Kerridge, the Michelin ‘meatfluencer’",
+   "author": "Zoe Williams",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/food/2026/sep/26/cooking-with-tom-kerridge-the-michelin-meatfluencer-venison-chilli-recipe",
+   "paras": [
+    "The star chef demystified the restaurant scene with his love of a welcoming pub. Now he explains why hospitality is in crisis – and how to make a sublime venison chilli",
+    "Tom Kerridge is the king of meat: first as a chef, transforming pub classics like pork belly into Michelin-starred fare at The Hand and Flowers in Marlow 20 years ago, and later opening The Butcher’s Tap and Grill in the same village; then as a cookery writer: his Outdoor Cooking – The Ultimate Modern Barbecue Bible of 2021 is well named, being both as comprehensive and as worshipful as a holy book; and recently as a “meat-fluencer”, making gorgeous skills videos on Instagram and YouTube .",
+    "That was just destiny, he says (more or less). “When you’re cooking in a classic brigade system, the sections are like a larder: you’ve got starters, you’ve got garnish, you’ve got meat and fish, you’ve got pastry. The meat is the lead section, where the most experienced chef is, because that’s where you land when you’ve learned to treat vegetables with love and respect. If you fuck up cabbage, it doesn’t cost a lot.” It’s true, it doesn’t, but if you saw the care Kerridge puts into dicing an onion – peeling its layers apart like he’s making a mosaic, assiduous even about half an inch of waste – of an onion – you’d know that love and respect aren’t really about money."
+   ],
+   "img": "https://i.guim.co.uk/img/media/43a3c6273c3f22dbbded7696ec550b3f939f5504/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ee60aae59d27bf1679101c143606542e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-otballspecialsparkspainworldcupbarcelona",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
+   "author": "Sid Lowe",
+   "date": "2026-09-26",
+   "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
+   "paras": [
+    "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career",
+    "Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began, but it might have been. “We’re in a World Cup final and I wanted to carry on,” he says, and there’s the smile again, the braces. Really? “Yes”. No nerves? “No. I never thought: ‘Just blow the whistle’. I was enjoying it.” No fear, just fun: 19 July, New Jersey and he knew: this 19-year-old who had happily been asleep on the bus to the biggest match of his life.",
+    "And now he sits in a first-floor office in Las Rozas, surrounded by tactics boards and stats sheets. There’s a Spain keyring hanging from the door and a second star on his shirt. In the corridor, crates loaded for London. Son of Mounir and Sheila, named after the family friends who helped them, “ touched by God’s wand ” in the words of the coach whose office is next door, there’s something about Lamine Yamal. He turned 17 the day before the final of Euro 2024 , a schoolboy sitting exams, and 19 the day before the semi-final of the World Cup. Asked what he wanted, he said a trip to New York, so there he was, about to be a champion again."
+   ],
+   "img": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=bbcbdde100a7361f2fbd313287b79ca6",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-DVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNxoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTF5Ui1kelpxZEUtZjBLOEJJM3NSVWtCZHhCY3JVcWFQc0otTVhqQXoyVFQ3c1dPQUhTTGpyNzR2N3VodEhXZkpQNGpCcmhxZzI0YVN5Vl9ScUpvV290U01Ebi1ZMVFXQk1wRGJDVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNx?oc=5",
+   "paras": [
+    "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-dHV0JBSktuSkc2UGNWS180SDlsOFRTNEZobmMoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Help ProPublica Report on Sports Betting by Sending Us Your App Data",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hd2JjUmRmeEZjeThRLXA4ZWpEcWZMVHBOdW1sR08yRVJtWWs2RkZ5bHZpMGY3Ny00VWlaRTR5RXg4Z2FVWm9kYWt3c0dHV0JBSktuSkc2UGNWS180SDlsOFRTNEZobmM?oc=5",
+   "paras": [
+    "Help ProPublica Report on Sports Betting by Sending Us Your App Data ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-chinvestorsfromacrossthecountryataihouse",
    "srcKey": "geekwire",
@@ -424,6 +1066,77 @@
    "annos": null
   },
   {
+   "id": "f-stranger-tapizzamartandcaringaboutglassatopenform",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "I Saw U: Talking Psych at Blood/Sucker, Handing Over Your Drink at A Pizza Mart, and Caring About Glass at Open Form",
+   "author": "Anonymous",
+   "date": "2026-09-25",
+   "url": "https://www.thestranger.com/isawu/i-saw-u-talking-psych-at-blood-sucker-handing-over-your-drink-at-a-pizza-mart-and-caring-about-glass-at-open-form/",
+   "paras": [
+    "TJ’s biker with a sick bag you checked out in front of me at the caphill TJ’s. i asked about your bike bag… i was too chicken to say i thought you were cute. can i try again?",
+    "Was the drink actually too sweet?? Were you flirting and I was too oblivious?? I’ve been haunted by these questions for months!! Help!! You: stunning redhead giving me “a too sweet” drink at A Pizza Mart post-WILDROSE pride. Me: an idiot in a “The Crow” hat unsure if you were flirting.",
+    "Clean up crew @ OpenForm We were the only two worried about broken glass. Caring is so hot. Let’s get wine and volunteer?",
+    "Cherry Blood Sucker We met at the theatre and talked psych, movies, authors and books. When we said goodbye, this auntie wishes I’d given you a hug. Be well, beautiful.",
+    "Hot talk guy at PCC with great outfit Too bad I had just gone to the gym and had on my exercise clothes, but thank god you complimented my Dead Moon bag. You’re cute.",
+    "Falling in Love at a Coffee Shop I love stealing glances at you. I order my Italian soda not too sweet, and you know just how to make it. Next time, honey in my ginger tea. Thank you!",
+    "hit like a deer in the headlights @ shadowplay new wave dance night last month you: very tall, handsome, clean shaven, short brown hair, bright shiny light blue singlet (or adjacent) fit to your physique me: hi",
+    "Is it a match? Leave a comment here or on our Instagram post to connect!",
+    "Did you see someone? Say something! Submit your own I Saw U message here and maybe we’ll include it in the next roundup!",
+    "The post I Saw U: Talking Psych at Blood/Sucker, Handing Over Your Drink at A Pizza Mart, and Caring About Glass at Open Form appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/03/isawuhorizontal.webp?fit=1024%2C769&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-omedyfromthesordidseriestocatchapredator",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Primetime Mines Comedy from the Sordid Series To Catch a Predator",
+   "author": "Kathy Fennessy",
+   "date": "2026-09-25",
+   "url": "https://www.thestranger.com/film/primetime-mines-comedy-from-the-sordid-series-to-catch-a-predator/",
+   "paras": [
+    "Tall, blandly handsome Chris Hansen began as a TV reporter like any other. He cut his teeth on regional stories before hitting the big time when he joined NBC News as a correspondent before becoming a regular contributor to Dateline NBC . So far, so good, but run-of-the-mill reporters don’t find themselves the focus of high-profile feature films, like Lance Oppenheim’s Primetime .",
+    "No, Hansen was something else. When NBC tapped him as host of Dateline ’s spinoff series To Catch a Predator in 2004, he became iconic: a hero to viewers who saw nothing hinky about sting operations involving paid actors, a villain to viewers who found the whole thing sleazy as hell, and a gift to Saturday Night Live and The Simpsons , because the show was rife for parody.",
+    "The setup was remarkably simple, at least on the surface. Members of Perverted-Justice, To Catch a Predator ’s volunteer-run partner organization, would catfish male adults by posing as underage girls and boys on online message boards in order to arrange sexual encounters.",
+    "With NBC’s resources, suburban rentals across the country would be staged to look like family homes. The “decoy,” a male or female actor in their 20s, would greet the guest while hidden cameras captured their small talk, but the minute things took a sexual turn, Hansen would emerge from the shadows like an off-duty David Caruso, circa CSI: Miami , before reading quotes from the chat transcripts, followed by a verbal beatdown, then a tension-relieving “You’re free to go,” only for waiting police officers to arrest the man for online solicitation of a minor.",
+    "Though the decoys and locations would change, the ruse could only go on for so long, since word would get out whenever the 40-person crew came to town. Just as sexual predators could use message boards to meet minors, they could also use them to warn other predators.",
+    "But that isn’t what killed the series. To show what did, screenwriter Ajon Singh adapted the 2007 Esquire article “Tonight on Dateline This Man Will Die,” but instead of focusing on the Texas man (played by actor/director Alex Winter, a child sexual abuse survivor) who would make the worst decision of his life, Oppenheim shifts between Hansen (a blond-tipped Robert Pattinson), producer Andie Bender ( Severance ’s Merritt Wever), and decoy Dan Plumb (Skyler Gisondo, Superman ’s Jimmy Olsen). Rather than a tragedy, it’s a horror satire in which Hansen, in his quest for ratings, becomes as harmful as the predators he aims to catch. In an entirely different way, of course.",
+    "NBC stuck with Hansen after the show came to a halt in 2007, but the network parted ways with him in 2013. Since then, YouTube has provided the home for his “news gathering,” as he calls it.",
+    "As for the actor who portrays him, Pattinson has continually challenged himself as an actor since his Twilight days, and it’s admirable, even if his reach can exceed his grasp. He has a tendency, for instance, to fade next to more powerful costars, like Guy Pearce in The Rover , Willem Dafoe in The Lighthouse , or Jennifer Lawrence in Die My Love . In Primetime , however, he rises to the occasion as a hollow man who believes his own hype. It’s the best work he’s done since David Cronenberg’s Cosmopolis , where he played another king-of-the-world type. He and Wever are particularly terrific together, possibly because she isn’t playing a romantic foil. As a performer, her earthy groundedness generates a compelling tension with his character’s studied slickness.",
+    "In a film filled with many shades of creep, including Matthew Maher as the founder of Perverted-Justice, Del (singer/songwriter Phoebe Bridgers) and Dan come closest to the good–or at least neutral–pawns in the game as aspiring actors just trying to get credits on their resumes and make a few bucks. With her white-blonde hair dyed dark brown, the barely-recognizable Bridgers makes a vivid impression in her most substantial role to date. I wish I could say the same of Anna Faris, but she’s wasted as Hansen’s neglected wife.",
+    "Considering his background as a documentarian, Oppenheim ( Some Kind of Heaven and co-director of the upcoming Elizabeth Holmes documentary, You Can See Everything ) has a sure hand with actors, and Primetime is plenty entertaining, if somewhat anticlimactic after David Osit’s 2025 documentary Predators , which covers similar ground, but without the glibness that often accompanies satire.",
+    "As a survivor of child sexual abuse himself, Osit takes a more nuanced approach to the subject, bolstered by unaired footage which shows some of these men in a different light, but instead of rehabilitation, Hansen presented public humiliation and criminal charges as their only options.",
+    "Osit’s ace in the hole was the sit-down interview with Hansen that concludes his documentary. Pattinson fully earns his flowers as an almost cartoonishly terrifying version of the guy, but there’s nothing quite like the real thing. As Hansen boasts, “What I do is for a greater purpose.”",
+    "The post Primetime Mines Comedy from the Sordid Series To Catch a Predator appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/primetime-credit-A24-scaled.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-ckeventsinseattlethisweekendsept25272026",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Best Bang for Your Buck Events in Seattle This Weekend: Sept 25–27, 2026",
+   "author": "EverOut Staff",
+   "date": "2026-09-25",
+   "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-sept-25-27-2026/",
+   "paras": [
+    "It’s officially fall, and Seattle’s got a little bit of everything on the docket this weekend. Catch Hermanos Gutiérrez at KEXP’s Aquí y Ahora , celebrate two decades of DIY treasures at the Punk Rock Flea Market , lend a hand around town during Seattle Day of Service , and dip your toes into the world of arias at the decidedly low-stakes Opera Center Open House . For more ideas, check out our top picks of the week .",
+    "Dalaine // Izzy Burns If you’re eager for fall, I recommend cozying up with a cup of hot chocolate and some folk tunes this Friday at bean-to-bar chocolate shop and venue Cocoa Legato. Local musician Dalaine, whose 2023 NPR Tiny Desk entry was highlighted as one of its “Entries We Love,” charms audiences with songs at the intersection of folk, jazz, and soft rock. Dalaine is joined by Idaho-based singer-songwriter Izzy Burns, who went from being born with no voice—and undergoing a tracheostomy—to making uplifting pop-folk songs that sound like diary entries. I’m hoping we’ll get some stripped-down acoustic covers of indie rock songs like this one of The Strokes’ “The Adults Are Talking” that Burns posted on social media earlier this summer. SL (Cocoa Legato, Greenwood, $15)",
+    "The post The Best Bang for Your Buck Events in Seattle This Weekend: Sept 25–27, 2026 appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/hermanosg.jpeg?fit=1024%2C683&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-stranger-ndxidonothingandviviansaysgoodbyeseattle",
    "srcKey": "stranger",
    "cat": "arts",
@@ -462,471 +1175,48 @@
    "annos": null
   },
   {
-   "id": "f-cascade-mexicantableepisodethecrawlingvinesujdhh",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "The Crawling Vine",
-   "author": "Cascade PBS Staff",
+   "id": "f-conversation-ongerhistoryofpalestinianisolation292348",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "In ‘NAZA,’ Israeli whistleblowers’ revelations about civilian deaths in Gaza reflect a longer history of Palestinian isolation",
+   "author": "<name>Drew Paul, Professor of Arabic, University of Tennessee</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/drew-paul-2315973\"/>",
    "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/show/patis-mexican-table/episode/the-crawling-vine-sujdhh/",
+   "url": "https://theconversation.com/in-naza-israeli-whistleblowers-revelations-about-civilian-deaths-in-gaza-reflect-a-longer-history-of-palestinian-isolation-292348",
    "paras": [
-    "Pati discovers the timeless flavors of the region of Parras, from royal wines to family recipes."
+    "There’s a powerful scene in Moroccan-French-Israeli filmmaker Simone Bitton’s 2004 documentary “ Wall ,” which tells the story of the construction of the West Bank barrier , a 448-mile – or 721-kilometer – network of walls and fences dividing large parts of the West Bank from Israel.",
+    "A concrete slab is slowly lowered into place in order to complete a section of the wall. Inch by inch, the vibrant, hilly Palestinian community on the other side gets smaller and smaller.",
+    "And then – just like that – a world that’s a stone’s throw away is gone.",
+    "As someone who studies the restrictions placed on Palestinians, I often think about this scene as a microcosm of Israel’s decades-long use of walls, checkpoints and surveillance technologies to seal off Palestinians from the rest of society.",
+    "Nowhere is this dynamic more evident than the Gaza Strip, which Israel fenced in during the 1990s and has blockaded since 2007 , citing security concerns and the threat of militant attacks.",
+    "Thanks to these barriers, the immense suffering of Palestinians in Gaza – more than 70,000 of whom have been killed as a result of the Israel-Hamas war since 2023 – has been difficult to document. The Israeli government largely bars international journalists from entering the Gaza Strip independently, while Palestinians in Gaza are generally not allowed to leave the Gaza Strip.",
+    "But the Sept. 10, 2026, premiere of Israeli filmmakers Yuval Abraham and Rachel Szor’s film “ NAZA ” at the Venice International Film Festival has put the spotlight on the ongoing tragedy in Gaza without relying on footage of gruesome corpses or bombed-out neighborhoods.",
+    "The film consists largely of anonymous testimony from 24 members of Israel’s military and intelligence services. They discuss the ways in which Israel has used artificial intelligence to target Hamas officials, despite knowing the attacks will also generate large numbers of civilian casualties. The title, “NAZA,” comes from an acronym for the Hebrew phrase “nezek agavi,” or “collateral damage,” and it’s the Israeli military’s threshold system for how many civilian casualties are acceptable in its military strikes on Gaza since the Oct. 7, 2023, attacks . Hamas-led militants from Gaza launched those attacks in southern Israel, murdering 1,200 people – mostly civilians – and also taking about 250 hostages.",
+    "To me, part of the film’s power lies in its focus on the clinical way of carrying out strikes on Gaza from a distance. But the Israeli military’s approach could only work after systematically isolating the Palestinian people over the course of decades.",
+    "In addition to constructing walls and blockading Gaza, Israel has enforced separation of Palestinians by restricting or denying permits to Palestinians wishing to enter or work in Israel through aerial surveillance and through the expansion of Israeli settlements in the West Bank.",
+    "Both the visual language and the content of “NAZA” reflect and reveal how knowledge of Palestinian suffering is often mitigated in Israeli culture, politics and daily life.",
+    "The film juxtaposes audio of Israeli soldiers’ testimony with shots of the Tel Aviv cityscape at night. In these interviews, the soldiers map out how targets are chosen, how attacks are planned and how much leeway is given for civilian casualties.",
+    "The victims themselves are largely unseen, despite their close proximity: Tel Aviv sits a mere 43 miles – or 70 kilometers – up the coast from the Gaza Strip.",
+    "The choice to film primarily at night, in darkness, using disembodied voices to tell a story not depicted on camera, further highlights the extent to which these events have been obscured in Israel and around the world. Perhaps that’s why the Israeli government has gone to such great lengths to discredit the film, saying it contains “ deliberate distortions of reality .” Prime Minister Benjamin Netanyahu has threatened to revoke the citizenship of its directors .",
+    "In response to the interest and backlash surrounding the film, the filmmakers announced that “NAZA” will be available to stream for free, for anyone to see, beginning in November 2026.",
+    "“NAZA” highlights a psychological distance between attacker and attacked that was enabled by AI, computer screens and the physical isolation of the targets. Yet it is far from the first film to call attention to the invisibility of Palestinians.",
+    "Elia Suleiman’s 2002 dark comedy “ Divine Intervention ” repeatedly stages scenes in which Palestinian characters are stuck at or try to get around an Israeli military checkpoint. And Yoav Shamir’s 2003 documentary “ Checkpoint ” chronicles everyday interactions between Palestinians and Israeli soldiers at checkpoints in the West Bank and Gaza.",
+    "Other films center on acts of transgression or protest. Hany Abu-Assad’s 2013 drama “ Omar ” and Ameen Nayfeh’s 2020 drama “ 200 Meters ” both feature Palestinian characters who break the law and surreptitiously cross the West Bank border into Israeli territory, exposing themselves to physical and legal danger.",
+    "“ No Other Land ” – the 2024 documentary that netted Abraham and Szor an Oscar , along with fellow directors Basel Adra and Hamdan Ballal – points the camera on Palestinian protest movements against land expropriations and home demolitions in the West Bank. In the 2011 film “ 5 Broken Cameras ,” Palestinian farmer Emad Burnat captures his West Bank village’s struggle against the construction of a massive wall that chokes off farmland and access to vital resources. Even as his cameras are repeatedly damaged or destroyed, Burnat refuses to stop documenting the resistance.",
+    "“NAZA” also points to another phenomenon: how isolation and separation encourage complicity. The physical distance between Israeli soldiers and the people they target may make it easier to go along with or ignore what is happening.",
+    "In this way, “NAZA” grapples with a trope in Israeli films and literature of exploring the guilt of Israeli soldiers. Sometimes derisively referred to by critics as “ shooting and crying ,” the thematic framework of these films has been criticized for focusing on Israeli moral anguish at the expense of Palestinian experiences and perspectives.",
+    "For example, S. Yizhar’s 1949 novel, “Khirbet Khizeh,” which was adapted into a film in 1978, tells the story from the perspective of Micha, an Israeli soldier fighting in the 1948 war that established the state of Israel. He’s part of a squad that expels Palestinians from their village, and his ensuing guilt provokes a crisis of conscience that haunts him for years to come.",
+    "Decades later, the 2008 animated documentary “ Waltz With Bashir ” follows the film’s director, Ari Folman, as he plumbs his repressed memories of his participation in the 1982 Israeli invasion of Beirut and how he inadvertently helped Lebanese Christian Phalangist militia fighters carry out massacres of Palestinians at the Sabra and Shatila refugee camps .",
+    "The “shooting and crying” genre was largely accepted in mainstream Israeli culture, with “Khirbet Khizeh” taught in Israeli schools for decades. But the Israeli government’s hostile reaction to “NAZA” perhaps signals not only the growing intolerance of dissent in Israel, but also a fading cultural and political concern with the morality of Israel’s occupation of Palestinian territory.",
+    "The centering of Israeli perspectives in these earlier works – as well as in “NAZA” – also shows how violence against Palestinians can be given greater credence when it’s described by Israelis themselves.",
+    "Recent Palestinian narratives about Gaza, such as “ From Ground Zero ” and “ Thirteen in Gaza ,” have garnered some attention and praise in the film world , but nowhere near the same amount as “NAZA” has in the weeks since its premiere.",
+    "Even “No Other Land,” which is centered on a Palestinian village, features an Israeli journalist and filmmaker, Abraham, documenting the protests and confronting Israeli soldiers, and may not have received the same acclaim if it had been made entirely by Palestinians.",
+    "Yet, despite these many barriers, Palestinians have never stopped finding ways to make themselves heard. In addition to films like “Omar” and “200 Meters,” videos and images shared directly to social media have allowed Palestinians to connect directly with audiences and shape global awareness of their plight, especially since the current war in Gaza began.",
+    "They have been able to bypass the physical barriers that have long restricted their movement – and the cultural barriers that have often kept their experiences out of sight.",
+    "Drew Paul does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/f719c210-2d65-4af6-903f-136a7103d7bf.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-newsfeed2202609thenewsfeedsfollowupweek2",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "The Newsfeed's \"Follow-up Week\"",
-   "author": "Jaelynn Grisso",
-   "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/09/the-newsfeeds-follow-up-week-2/",
-   "paras": [
-    "The longest-running hotel workers’ strike in Washington’s history came to a close when Hilton and its workers agreed to a contract earlier this month. We previously reported on the workers’ efforts and concerns ahead of the World Cup. Now, we’re bringing you an update with what’s in the workers’ new contract.",
-    "The first strike Aspen Desmarais joined turned out to be historic.",
-    "“85 days was a lot. It was in the first couple of weeks. It was really fun. And then for a second there, it felt really hard fought and like what we were doing wasn't getting any impact. But I will not be out stubborn by anyone until I get the things that we need to protect people,” said Desmarais, a bartender at Embassy Suites by Hilton.",
-    "Desmarais and other workers went on strike on June 18th during the FIFA Men’s World Cup. The strike lasted a total of 85 days. The union hopes the contract agreement will pave the way for other hotel workers in the state.",
-    "Some of the changes in the new agreement include:",
-    "Hilton responded to a request for comment, saying: “This agreement reflects a collaborative outcome and our commitment to our valued Team Members. We look forward to welcoming our Team Members back to work and continuing to deliver exceptional hospitality to our guests.”",
-    "But for Desmarais, perhaps the biggest win was laying the groundwork to help protect immigrant workers.",
-    "“When people come to online commenting about our immigrant workers and being saying that they shouldn't be afraid if they're legal, they are all legal. It's just a scary world and Ice does not care if you're legal or not... In an extremely oppressive system right now towards immigrants. I think any win is a win,” Desmarais said.",
-    "During our week of coverage on wage theft , we told you about t wo groups of bikini baristas suing their bosses . Now, a King County judge awarded one of the groups more than $1.85 million in back pay after finding the owner violated state labor law.",
-    "Mykie, who worked for Tagle for about a year, estimates she is owed between $10,000 and $15,000 in unpaid wages.",
-    "“It's a huge win, not only just for us in our class action lawsuit, but for workers everywhere. It doesn't matter what you wear as a work uniform. It doesn't matter what people's opinions are of the work that me and other women do. It’s still work at the end of the day, and we still deserve to be paid correctly for the work that we do,” said Mykie, who asked to only be identified by her first name.",
-    "The class action lawsuit involved 70 baristas who worked at 5 bikini coffee huts across King and Snohomish Counties owned by Alan Tagle between 2021 and 2024.",
-    "The Judge determined that Tagle did not issue paychecks to the baristas, nor regularly track their hours worked. And that Tagle implemented strict sales goals, and baristas said they were threatened with being scheduled for less desirable shifts or losing their jobs if they didn’t meet those goals.",
-    "“There were days where I went home with nothing. There were days where I put my own money from my purse that I brought. It was really standard practice to at least for me and some of the other women that I had worked with to bring our own cash, just in case we needed to put some money into the till. So, there were days where I actively lost money for working,” Mykie said.",
-    "Tagle’s lawyers didn’t respond to a request for comment.",
-    "His brother Johnathan Tagle, who also owns a string of bikini coffee huts, is facing a similar lawsuit. He is accused of not paying his workers in accordance with state law, and of sexually harassing them.",
-    "By a lot of measures, Seattle won the FIFA Men’s World Cup.",
-    "“I think the gross numbers were pleasingly surprising to us. I mean, when we see 548,000 people descend upon our downtown on any given day, that's pretty exciting,” said Chris Copacino, Vice President of Communications for the Downtown Seattle Association.",
-    "Local public radio station KUOW estimated that state and local entities spent $120 million to host six matches of the FIFA Men’s World Cup. From June 15 to July 6, Seattle’s downtown saw about 3 million domestic visitors over the three weeks, according to the Downtown Seattle Association. Match days saw about a 17% increase in foot traffic over those same days in 2025.",
-    "The numbers – based on cell phone data – didn’t include international visitors.",
-    "Copacino called it a success, with lessons to be learned for future big events.",
-    "“People, especially our members and and people in the community see what can happen when we activate public spaces, when we create great pedestrian walking experiences, when public and private partnerships come together just to make sure that our city shines and is ready to receive people,” Copacino said.",
-    "He said that another big takeaway is to ensure that other neighborhoods – such as the Chinatown-International District, or CID -- also see the benefits. Neighborhood activists in the CID had been concerned about how the FIFA World Cup games would affect the neighborhood – which often sees negative impacts such as traffic and congestion from stadium events without seeing much benefit. After the games began, the Chinatown-International District Business Improvement Area and others organized an official watch party in Hing Hay Park for the last game in Seattle, and held additional watch parties for later matches held in other cities.",
-    "“I think that making sure that all of our communities are in and around the stadium feel the excitement,” Copacino said. “We need to make sure that all of the neighborhoods are feeling this.”",
-    "Some local boosters hope the city can get a chance to apply these lessons if Seattle is one of the cities picked to host when 2031 FIFA Women’s World Cup comes to the U.S., Mexico, Jamaica and Costa Rica.",
-    "With an increasing amount of anti-trans bills proposed nationwide – including two here in Washington – more trans people are relocating to Seattle. , As we reported in June, this prompted local advocates to raise the alarm that the influx is creating a crisis in available resources.",
-    "TRACTION, a nonprofit focused on trans and gender-queer individuals, began a program in 2023 called project Open Arms. It helps trans folks in so-called hostile states relocate to a safer place. So far, they’ve been able to help more than 100 people relocate and hundreds more with smaller requests, but TRACTION Executive Director C. Michael Woodward says the demand is much higher.",
-    "“There's been periods when we've been getting requests like ten or more a day. I think the last time I counted the total number of applications we've had is nearing 1,800. We haven't been able to help nearly that many people because we just have the capacity,” Woodward said.",
-    "Seattle’s LGBTQ Commission heard from community organizations about the crisis and brought concerns to the city in May.",
-    "Three months later, both the mayor’s office and city council dedicated funding to address the crisis. City Council passed a one-time funding measure to provide $300,000 to community organizations. The mayor’s office also approved an additional $450,000.",
-    "Woodward said the city hasn’t announced an application process for the funds yet, but if TRACTION receives part of that money, it will be going directly into trans folks hands.",
-    "TRACTION and a coalition of other queer and trans organizations also created a public survey to gather more information on the crisis.",
-    "“We want to help the city know, like what's going on here so that they really have data to be able to justify,\" Woodward said. “Because I know people [who say], ‘Oh, it's not a crisis.’ I'm like, well, it is a crisis. You know, a lot of people are really being threatened. And there's been death. You know, people have been killed. This is a crisis.”",
-    "Beyond the downtown hustle of Seattle’s Pioneer Square, inside the historic Metropole Building, lives a different kind of historical significance.",
-    "A new immersive and living archival space - the Seattle Black Panther Party Interpretive Center .",
-    "During our interview with Seattle Black Panther Party co-founder Elmer Dixon in February , he recounted his work to keep the chapter’s legacy alive.",
-    "Then, he also shared details about the center that was in the works to memorialize the group’s legacy.",
-    "This summer, the center opened to the public. Program manager Naudia Miller says it’s drawn a crowd from across the country.",
-    "“We opened up in June, but we've already had over 1,300 people join us this far in Pioneer Square,” Miller said. When guests walk into the modern and industrial space, on one wall, they're greeted by a chronological history of the Seattle Panthers: before its founding, after it, and up to the present day.",
-    "The gallery includes mixed mediums from paintings by local artists, to a documentary teaser about the Seattle comrades, to a sitting area near front entrance filled with shelves of Black non-fiction literature that Miller says was part of the Panthers’ reading list."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/20260925-hero.jpg",
+   "img": "https://images.theconversation.com/files/762096/original/file-20260924-60-i55q85.jpg?ixlib=rb-4.1.1&rect=0%2C1%2C8256%2C5504&q=45&auto=format&w=1050&h=700&fit=crop",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-hehumanitariancrisesfacingtheworld8abga9",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Yemen to Syria to Gaza, These Are the Humanitarian Crises Facing the World",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/yemen-to-syria-to-gaza-these-are-the-humanitarian-crises-facing-the-world-8abga9/",
-   "paras": [
-    "As the US and other donors slash foreign aid, conflicts from Yemen to Sudan are driving new humanitarian emergencies. In Yemen 125,000 people have been displaced in a matter of days. Rising fuel, fertilizer and shipping costs are deepening hunger in countries that rely on imports. Tjada D'Oyen McKenna, CEO of Prosper Global, has just returned from Syria. She shares what she and her team have seen."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/356e4688-5ff4-4fbe-90ad-c39641f62a0e.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-owamanpourcoepisodeseptember242026g2fnyx",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "September 24, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/september-24-2026-g2fnyx/",
-   "paras": [
-    "Ursula von der Leyen; Kevin Rudd; Tjada D'Oyen McKenna"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/7e64587b-473a-475a-9869-141378c6e8e8.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-alcommunicationwithfedericorossano0frngd",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Interview: Talking Dogs, Grumpy Cats, and Animal Communication with Federico Rossano",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/show/nova/specials/interview-talking-dogs-grumpy-cats-and-animal-communication-with-federico-rossano-0frngd/",
-   "paras": [
-    "Federico Rossano is an Associate Professor of Cognitive Science at UC San Diego and director of the Comparative Cognition Lab. He joins Hakeem to discuss his record-setting study of talking dogs, what primate research reveals about the roots of communication, and how AI could help scientists finally decode what animals are trying to say."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/0644808f-6439-45c9-a2d9-3da18e03630e.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-sorgshownewshourextrasnewswrap1790283346",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "News Wrap: Netanyahu dismisses allegations of genocide",
-   "author": "Cascade PBS Staff",
-   "date": "2026-09-25",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1790283346/",
-   "paras": [
-    "In our news wrap Thursday, Israeli Prime Minister Benjamin Netanyahu delivered a fiery speech at the U.N. General Assembly and dismissed allegations of genocide in Gaza, eight people were killed in the latest barrage of Russian drones and missiles in Ukraine and Texas election officials are scrambling to clear a backlog of voter registration applications caused by an error at the state level."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/09/2d4c7769-f0f3-4a34-80f5-85fe95396096.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-akeawaystrumpxistatevisitpageantrypandas",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-   "author": "Emily Feng",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-   "paras": [
-    "The visit comes at an important time for both men."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3653x2435+0+0/resize/3653x2435!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F38%2F97ce22624b4c96a4c2989507b836%2Fgettyimages-2297112576.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-81154jayzsexualassaultaccuserclaimsfalse",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-   "author": "Isabella Gomez Sarmiento",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-   "paras": [
-    "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
-    "(Image credit: Phillip Faraone/Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3501x2472+0+0/resize/3501x2472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8a%2Fcf%2F8f56f4f7436bb5f144bbda8fe616%2Fgettyimages-1911124242.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ontreatyagreementworldhealthorganization",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-   "author": "Jonathan Lambert",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-   "paras": [
-    "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3750+0+0/resize/5000x3750!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2Fc1%2F28098e704f97bdaa12c607baf7b0%2Fcovid-dna-1203072511.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-804supremecourttrumpsavenoncitizenvoting",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The Supreme Court revives a controversial data system for citizenship checks",
-   "author": "Jude Joffe-Block",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-   "paras": [
-    "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4922x3281+0+0/resize/4922x3281!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F0e%2F79f80ac8489f9afb592253709d92%2Fap26182680341445.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-wwnprorg20260925nxs15981140popeleofrance",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-   "author": "The Associated Press",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-   "paras": [
-    "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6177x4118+0+0/resize/6177x4118!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F02%2Ff8%2F47e40dfe42668087f048cdf8fedf%2Fap26268410442066.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-rg20260925nxs15981082hurricanenolohawaii",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
-   "author": "Bill Chappell",
-   "date": "2026-09-25",
-   "url": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-   "paras": [
-    "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1540x938+0+0/resize/1540x938!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F52%2F4e%2F1bb3ee5647f38f662b1c7aac39f9%2Fhurricane-nolo-satellite-friday.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eoscj62ee3zydxloatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Watch: What could the potential sanctions for Man City be?",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant' after the sources told BBC Sport that the club has been found guilty of breaking the majority of the 115 financial rules they were accused of breaching."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7267/live/2b4302b0-b8fb-11f1-a430-4d16ee157c41.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqwyzz79mdgjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "I'm not tempted to call an early election, Burnham says",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44aa/live/02195500-b8fc-11f1-83cd-2998f68d9572.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescw62me2vlj07oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Special agents' blood and urine test results stolen in FBI hack",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6grv78d59jpoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Some BBC channels and radio stations may well have to close, director general says",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The BBC's financial situation \"may well mean\" some channels and stations close, Matt Brittin says."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1099/live/e10e9f20-b8d6-11f1-a430-4d16ee157c41.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescq0lr5r46z5joatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Daniel Thomas pleads not guilty after dinghy slashed",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/news/articles/cq0lr5r46z5jo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d8e/live/ad700840-b8e8-11f1-ba42-19e1456ae537.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm9w4042yklkoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "U2 celebrate 50th anniversary at the school where they formed",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w4042yklko?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The rock band go back to their roots, playing a gig in the Dublin playground where they first met."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2979/live/e02ac9d0-b90d-11f1-a1d6-67b64207c464.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-6sep25aiisraelgazairanpolicesurveillance",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "It’s not hypothetical: the dangers of AI are already here | Granate Kim and Mohamed Hussein",
-   "author": "Granate Kim and Mohamed Hussein",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
-   "paras": [
-    "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is here",
-    "In recent weeks, concerns about AI have forged unlikely alliances in the tech and policy worlds. Tech moguls such as Sam Altman, Elon Musk and Demis Hassabis joined Dario Amodei, Satya Nadella and Bill Gates in sounding the alarm about the dangers of AI and called for a slowdown of the technology’s development despite years of racing for dominance. The senator Bernie Sanders teamed up with Steve Bannon to urge Congress to regulate AI, which has become one of the very few issues to unite Americans across the political spectrum.",
-    "The latest moves were sparked in part by the AI researcher Jacob Coxon’s warnings on Twitter/X that AI companies are “gambling with our lives” and believe that the technology “could kill us all by the end of the decade”."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c8fc012608d01246af3b99671db20d50612a9447/600_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=e2b2220dd29b789f4d588b99b673525c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-comfilmvideo2026sep25nazaofficialtrailer",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "NAZA - official trailer",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/film/video/2026/sep/25/naza-official-trailer",
-   "paras": [
-    "Watch the official trailer for NAZA, an award-winning documentary produced by the Guardian that details the systems behind Israel’s mass killings in Gaza. The critically acclaimed film, produced with the team behind the Zone of Interest and directed by Oscar-winning film-makers Yuval Abraham and Rachel Szor, includes testimony from 24 Israeli military insiders, shot at night on the rooftops of Tel Aviv. Abraham and Szor are the two Israeli directors of the four behind No Other Land, which won the Oscar for best documentary in 2025. It will be released in cinemas in more than 50 countries in the coming weeks, and then will stream on the Guardian’s website, for free, from late November"
-   ],
-   "img": "https://i.guim.co.uk/img/media/3fa7c1678f5a6282da9f66019bda1865327570a9/238_85_2507_2006/master/2507.jpg?width=140&quality=85&auto=format&fit=max&s=47906e7688633218aa82c22abc29441a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-chrishansenpaedophileshowrobertpattinson",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘In our deepest hearts we are voyeurs’: the paedophile-hunting show that inspired Robert Pattinson’s new film",
-   "author": "David Smith in Washington",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/film/2026/sep/25/chris-hansen-paedophile-show-robert-pattinson",
-   "paras": [
-    "Experts and insiders explain how To Catch A Predator became the most controversial show on 2000s TV",
-    "A man from Long Beach, California, is here to have sex with someone he believes is a 13-year-old girl. When the journalist Chris Hansen walks in, the man’s stomach drops. He is caught, and it is the end of his life as he knew it. Hansen asks what his fate should be. “The electric chair?” he asks. No, replies Hansen. “Dateline NBC.”",
-    "This is the opening scene of Primetime , a film directed by Lance Oppenheim, released in the US this week (a UK release follows on 30 October). It explores how a network news show turned sting operations into must-see television, raising a host of ethical questions about justice, voyeurism and society’s willingness to dehumanise certain offenders for profit and entertainment."
-   ],
-   "img": "https://i.guim.co.uk/img/media/eeee71025119e7232798f56cfffc2a12e945d94e/394_0_1860_1488/master/1860.jpg?width=140&quality=85&auto=format&fit=max&s=c347599cba3cde7efe9d27226d6dcb73",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-iancomtechnology2026sep25aianxietycomedy",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
-   "author": "Matthew Cantor in Los Angeles",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
-   "paras": [
-    "Across videos, standup and cartoons, humorists are skewering big tech’s attempt to make AI ubiquitous and inevitable",
-    "“Best case scenario, we never have to do any admin again,” says an AI CEO . “Worst case, we all die.”",
-    "A young man struggles to the top of a beautiful mountain , words echoing in his ears: “AI will most likely lead to the end of the world, but in the meantime, there will be great companies created.” At the top of the mountain, he triumphantly holds up a sign: “Build a datacenter here.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/0cc1aee437ad0fbad78dd256638cf9fd49f7e319/264_206_4492_3593/master/4492.jpg?width=140&quality=85&auto=format&fit=max&s=f02487b901c321efbdbf103ed27c69e1",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-orswiftthelifeofashowgirltheencorereview",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Taylor Swift: The Life of a Showgirl: The Encore review – flashes of humanity and bafflingly vindictive love songs",
-   "author": "Laura Snapes",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/music/2026/sep/25/taylor-swift-the-life-of-a-showgirl-the-encore-review",
-   "paras": [
-    "(Republic) This four-track addition to a critically maligned album works hard to remind fans what they love about Swift, with some sweet highs and galling lows",
-    "One downside of turning your release strategies into scavenger hunts and layering clues within your work is that it invites enormous amounts of scrutiny about your potential motive. When Taylor Swift announced an expanded edition of last year’s critically maligned The Life of a Showgirl this week, subtitled The Encore, many fans instantly suspected one of two things: that it was designed to remind Grammy members of Showgirl’s existence during their voting period to determine next year’s nominees, or to oust country ingenue Ella Langley from her record-breaking US No 1 run .",
-    "If that sounds cynical, it’s also worth remembering that when Swift announced Showgirl last year, she said that unlike her previous album, The Tortured Poets Department – a 16-track record immediately inflated to 31 songs on release day – the purposefully concise, 12-track Showgirl would not be expanded. (This didn’t stop her releasing 34 variants of the record, with various acoustic demos and so on, to juice sales.)"
-   ],
-   "img": "https://i.guim.co.uk/img/media/eced03f0963ad54758ada9ba109bf98f5a7f7c4f/0_110_2048_1638/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=5f54eac5dfc0e00ee017a1a60cb15d59",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-catherinecorlessdoggedheroinemonicadolan",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘She never accepted no’: Liam Neeson on dogged heroine behind Tuam mass baby grave film",
-   "author": "Rory Carroll Ireland correspondent",
-   "date": "2026-09-25",
-   "url": "https://www.theguardian.com/film/2026/sep/25/liam-neeson-tuam-babies-film-ireland-catherine-corless-dogged-heroine-monica-dolan",
-   "paras": [
-    "Catherine Corless’s exposure of almost 800 infant deaths at a home led by nuns prompted Neeson to bring the story to screen",
-    "Liam Neeson still remembers his shock and shame when he read a New York Times article about the mother and baby institution in Tuam, County Galway.",
-    "It was 2017 and the article chronicled the campaign by Catherine Corless , an amateur local historian, to expose abuse and neglect by Irish nuns that led to hundreds of children being buried in a mass, unmarked grave."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d38a26ab0e2a7b9283a82f3f9354141f1435233c/0_222_2293_1832/master/2293.jpg?width=140&quality=85&auto=format&fit=max&s=4edf2157dc12f0412d79e2fa4422d60b",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-W1kX0NlUDlfYk1iMkhWTWZGWjI1clFUMnI1dwoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWpKdjlvanAyR20zcWFfMFhpZVVsZXB4ZEhoVXhmd1dpMEUyMVBhVFBRNlBpQXV3anREZHI5a1FvUS1CZkZoMDZuV1o0dzg0bWZqRHQ4cGZCcmJKYUx4RGx2Tm1OVHRfa3JlY0RDVVpKUWdNSU5RcW1kX0NlUDlfYk1iMkhWTWZGWjI1clFUMnI1dw?oc=5",
-   "paras": [
-    "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-2lhS05RNWFrUUlYVC10Tm9Ja2RhX1d1Q1FfSQoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Across the Country, Youth Prisons Are Closing. This State Is Building More.",
-   "author": "",
-   "date": "2026-09-25",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS2FFX0pJT25udkJrVGxyZlhPZXZiQUFwTnhKOE56eS1vbGdYcGJGaE00MEtsWTNqUUttTHJtTjJLbHpKQ1ZlR0tEMW94SUhPQnRYQll3THdLLWVsSGNTWUo2ejV3ZDBudmpRdllqMklYaEx4RWpWcloyeVIxWHVXR2lhS05RNWFrUUlYVC10Tm9Ja2RhX1d1Q1FfSQ?oc=5",
-   "paras": [
-    "Across the Country, Youth Prisons Are Closing. This State Is Building More. ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1154,76 +1444,6 @@
    "annos": null
   },
   {
-   "id": "f-conversation-sneighborsweighinonhowtomanagethem291631",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Data centers’ neighbors weigh in on how to manage them",
-   "author": "<name>Fengxiu Zhang, Associate Professor of Policy and Government, George Mason University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/fengxiu-zhang-2759002\"/>",
-   "date": "2026-09-25",
-   "url": "https://theconversation.com/data-centers-neighbors-weigh-in-on-how-to-manage-them-291631",
-   "paras": [
-    "The people of northern Virginia have been living with data centers for many years. The area is home to the world’s largest concentration of data centers . In a survey we conducted, we found northern Virginians support development restrictions that could make data centers more transparent and accountable to the public. But they care about some types of regulations more than others.",
-    "As public concerns about data centers’ electricity demand and effects on the environmental and surrounding communities have grown around the nation , organized opposition to their construction is also on the rise – not only around the country but also at the epicenter of data centers.",
-    "In northern Virginia, public protest and legal action led developers to withdraw a proposal for an 2,100-acre campus for as many as 37 data centers in Prince William County in early July 2026. A week later, county officials cited that opposition when rejecting a proposal that would have rezoned another 2,000-acre area elsewhere in the county to allow more data centers.",
-    "Our research explored Virginians’ views on living near and among data centers , identifying what they think about their experiences and how they want to shape future data center development projects that might come to their communities. In the fall of 2025, we surveyed 1,004 residents of northern Virginia and the Richmond metropolitan area – homes of the two largest data center clusters in Virginia.",
-    "Rather than asking whether they supported or opposed specific policies, we presented survey respondents with pairs of policy combinations that combined different policy measures to regulate data centers and asked them which combinations they preferred. Those measures included locations of the centers, placement of power lines, electricity rates, environmental effects, reporting of energy and water usage and requirements for public review before approval.",
-    "For instance, a respondent might choose between two combinations. One combination might include power lines being placed underground and data centers being allowed near homes and parks, but environmental impact assessments not being required. The other combination might include above-ground power lines, restrictions on data centers near homes and parks, and a required environmental impact assessment before approval.",
-    "Each respondent compared five pairs of combinations. Because the policy measures were varied across combinations, the same option appeared for different respondents alongside many combinations of other policies. This allowed us to statistically separate the influence of each individual option from the rest of the combination. In effect, we could see whether including a particular policy measure made people more or less likely to choose a combination, while averaging across the many combinations of other policies respondents saw. In this way, even though respondents evaluated complete policy combinations rather than individual measures in isolation, we could determine the independent influence of each policy option on their choices.",
-    "Our analysis shows that residents most strongly supported policies addressing visible, immediate and tangible results, including requiring new electricity transmission lines to be built underground and restrictions on building data centers near homes, schools and parks. They also strongly support regular reporting of energy and water use.",
-    "Our findings also underscore the importance that residents place on having a voice before data center projects are approved. Public participation is ranked second among the six policy provisions in shaping residents’ preferences.",
-    "For many years, many jurisdictions in Virginia have allowed developers to build data centers without public review, so long as the buildings meet existing zoning requirements. The public has often found itself asking questions only after major decisions have been made.",
-    "For instance, in July 2024, residents of Fairfax County’s Bren Mar neighborhood raised concerns about a proposed 466,000-square-foot data center , only to find that local zoning laws allowed the developer to build it without a public hearing or much review or oversight.",
-    "In early 2025, Loudoun County, nicknamed “ Data Center Alley ,” ended automatic zoning approval for new data centers and required public hearings before local officials decided on the proposals.",
-    "By contrast, the U.S. Environmental Protection Agency under the Trump administration has moved to reduce requirements for public hearings for air-pollution permits from data center projects.",
-    "Our research found less public support for policy provisions governing more complex issues related to data centers. In particular, respondents were ambivalent about whether data centers should be charged higher electricity rates than other customers.",
-    "Infrastructure costs incurred to support data centers can ultimately pass down to other customers. According to a Bloomberg analysis, wholesale electricity prices near data centers more than tripled between 2020 and 2025.",
-    "As for retail price, in August 2026, Reuters reported that rapid data center growth in Virginia has forced local power company Dominion Energy to rely more on costly wholesale power, contributing to a proposed rate adjustment that could raise a typical residential bill by about $20 per month .",
-    "We believe that members of the public can come to informed decisions about complex issues. But before they can do so, they may need help from technical experts like those who work for local and state governments to clearly communicate what’s involved and the trade-offs at stake.",
-    "Given their support for regulations on data centers, it’s tempting to assume that the respondents to our survey simply don’t want data centers in their communities. But, in fact, about 47% of respondents told us they support data center development in their area, while 25% are neutral and 27% oppose it.",
-    "These respondents were not simply saying “yes” or “no” to data centers. They have opinions about how data centers should be developed and which regulatory controls and safeguards should be in place.",
-    "Their views indicate that supporting data center growth and strengthening oversight are not competing goals. Residents may welcome development while expecting governments to address negative effects, provide opportunities for public input and establish safeguards to protect communities. The challenge for communities and their leaders is not simply deciding whether to allow data centers, but determining how to govern their growth.",
-    "Fengxiu Zhang receives funding from the National Science Foundation.",
-    "Saba Siddiki receives funding from the U.S. National Science Foundation."
-   ],
-   "img": "https://images.theconversation.com/files/761296/original/file-20260921-50-odpnbx.jpg?ixlib=rb-4.1.1&rect=2%2C0%2C5994%2C3996&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-measureifacompanysstoryisactuallyworking",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Startup Spotlight: Marketing vets launch Kompeld to measure if a company’s story is actually working",
-   "author": "John Cook",
-   "date": "2026-09-24",
-   "url": "https://www.geekwire.com/2026/startup-spotlight-marketing-vets-launch-kompeld-to-measure-if-a-companys-story-is-actually-working/",
-   "paras": [
-    "After working together for years — including at Seattle logistics startup Flexe — Adam Kapel and Ryan Morel reunited this spring to launch Kompeld, a Bainbridge Island startup focused on helping companies build better narratives.",
-    "Kompeld has developed a system for measuring how well companies explain what they do and why customers should care. The startup has tested it on more than 150 technology companies and found that about half have messaging that falls somewhere between average and weak.",
-    "The two-person, bootstrapped startup is using AI to turn the founders’ experience in business messaging into a system that helps companies focus their sales stories on what customers need, rather than on the products they sell.",
-    "We caught up with Morel for this edition of GeekWire’s Startup Spotlight to learn more about the startup.",
-    "In 50 words or less, give us your startup’s elevator pitch?",
-    "Kompeld narrative systems turn subjective storytelling into an objective revenue driver. We continuously diagnose, architect, improve and align commercial messages across every revenue funnel stage. We replace gut-feel branding with the structural logic that creates demand, increases win rates and accelerates growth.",
-    "What problem are you obsessed with solving?",
-    "The hidden revenue barriers caused by self-centered, product-first corporate messaging. Most B2B organizations plateau at one point or another because they focus entirely on themselves rather than the buyer’s operational reality.",
-    "What surprised you after talking to customers?",
-    "How many B2B leaders passionately want to be customer-centric yet lack any concrete framework to actually be customer-centric? Everyone treats it as a core goal, but struggles to turn that into action across the organization. They simply do not know how to hardcode buyer perspectives, behaviors and outcomes into their daily revenue process. That leaves customer-centricity as an abstract aspiration rather than an institutionalized system. And without that, go-to-market teams default to product-first habits, dilute messaging impact and hinder pipeline growth.",
-    "How has AI changed the way you build your company?",
-    "Three direct ways. First, AI allows us to turn our narrative expertise and best practices into the repeatable, defendable diagnostic structures and processes that customer-centric narrative systems require. Second, AI tools automate routine steps so we can deliver much faster. Third, AI shapes our delivery model. Instead of traditional software, we can deliver purpose-built narrative protocols based on customer’s specific needs.",
-    "What’s one thing people misunderstand about your startup?",
-    "Executives misunderstand the difference between a creative brand story and a revenue narrative. And as a result, they misunderstand the focus, approach and value of narrative. Brand stories serve a subjective purpose aimed at emotion, whereas narratives are structured, repeatable systems built strictly to drive revenue and growth.",
-    "What’s the toughest decision you’ve made in the past year?",
-    "Telling Adam (Kapel) he had to come out of semi-retirement to build Kompeld.",
-    "What’s the one piece of advice you give to other entrepreneurs?",
-    "Recognize that it’s not about you. Founding a company requires deep personal passion for your idea, but winning requires turning that perspective entirely toward the buyer. Step away from the internal origin story and feature pitches and focus on the customer’s operational reality, their daily disruptions, their urgent challenges and their decision-making criteria."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/kompeld-founders.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-urbanist-billionquestionsoundtransithasneverasked",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1312,46 +1532,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-futureofitstransportationfundingdistrict",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "King County Council Debates Future of its Transportation Funding District",
-   "author": "Ryan Packer",
-   "date": "2026-09-24",
-   "url": "https://www.theurbanist.org/king-county-council-debates-future-of-its-transportation-funding-district/",
-   "paras": [
-    "In the wake of the approval of a long-anticipated funding source for King County's unincorporated road network, a debate is brewing at the County Council about how independent the process to oversee those funds should remain. The outcome of that fight, which is expected to play out over this fall, could ultimately impact an even larger funding measure for King County Metro that is likely on the horizon.",
-    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
-    "This June, when King County government unlocked a new 0.1% sales tax for its chronically underfunded roads department, it was not the King County Council that made that move, nor the Executive. It was a special purpose government, a transportation benefit district that had been sitting dormant since 2014.",
-    "While at first glance that could look like a minor bureaucratic distinction, it ultimately influenced how that new revenue stream was developed and approved, with the nine county councilmembers – acting as members of the King County Transportation District (KCTD) Board of Supervisors – in the driver's seat.",
-    "Through the transportation benefit district, the County could still tap into an additional 0.2% in sales tax authority with voter approval, the most likely source for dollars to help King County Metro avoid an encroaching fiscal cliff by early next decade. Just this week, the council's budget committee received a briefing that confirmed that Metro's sales tax revenues are expected to fall an additional $125 million short through 2031, largely due to adjustments to sales tax exemptions included in the new statewide tax on incomes over $1 million.",
-    "That dour revenue forecast adds to the urgency to find a new stable funding source for Washington's largest transit agency.",
-    "Even after the 0.1% road funding measure was approved, it looked like its independent structure would continue through the start of tax collections next January, with the board taking steps to fully establish itself as an independent entity. To allow the County to receive the new dollars, an interlocal agreement would be set up with the KCTD, in an arrangement similar to how the independent King County Flood Control District operates.",
-    "However, all changed on August 25, when Executive Girmay Zahilay announced transmittal of legislation fully assuming the district into county government, with the support of five councilmembers – enough to constitute a majority. If it were approved, the special purpose government would cease to exist.",
-    "\"Maintaining safe, reliable roads and bridges and a connected regional transit system are essential to King County's future. As part of my commitment to build a better government, my administration has examined tangible ways to make government more efficient and ensure that taxpayer dollars are being spent wisely,\" Zahilay said in an announcement at the time. \"Assuming the KCTD will allow our Roads division to continue delivering critical road safety, maintenance, and preservation projects across the nearly 1,500 miles of roads and 200 bridges in unincorporated areas. These upgrades support mobility, economic development, and emergency response across our region.\"",
-    "Zahilay's announcement touted an estimated $2.5 million per year in savings due to fewer staffing and administrative costs if the district gets assumed. But that figure remains contested, with KCTD chair Claudia Balducci citing a much lower figure. Ultimately, the administrative cost comes from the district having its own staff, with the higher dollar amount associated with a full staffing model that is more aligned with how the flood control district operates.",
-    "\"In terms of what it would cost to keep the KCTD independent, it is impossible to know because it would depend on future decisions that would be made by a KCTD board in terms of staffing decisions,\" King County Council analyst Mary Bourguignon said this Tuesday during a discussion on the ordinance that would assume the district. \"Staff did go through the numbers and made an estimate that, with the leanest possible operations, it would cost about $650,000 a year to operate the KCTD as an independent entity with its own legal services, its own accounting services, paying for some staff time, managing meetings, the sort of administrative work that the district would need to do to be independent.\"",
-    "It was during that Tuesday meeting that the pros and cons of assumption were put front-and-center in a way that they hadn't yet, at least among the full county council.",
-    "\"If the KCTD remains independent, it is an independent body that is separate from King County, and would manage its relationship with King County through an interlocal agreement,\" Bourguignon said. \"That would give, one might say, a more detailed or more comprehensive level of oversight over the programs to be covered by the roads funding measure or in the development of a future transit funding measure. If the KCTD's rights and responsibilities are assumed into King County, there would obviously no longer be an interlocal agreement, and you would be doing all of your oversight through your regular processes, the budget process, through any plans or policies that you adopt, as well as through any additional oversight requirements that you might wish to impose on the Executive.\"",
-    "Councilmember Rod Dembowski, who has signed onto Zahilay's proposal, cited the fiscal and logistical drain on the county's operations from having another special purpose district. He also raised concerns around the process to develop a future Metro funding measure, with the Executive branch potentially having less involvement if the board was kept independent.",
-    "\"There is a need and a desire to have an increased investment in our bus system, in our transit system, and this authority, the Transportation Benefit District, has some revenue options for that. They're really the only feasible, reasonable ones, probably, or at least the core ones, which we would go to the voters with under the current authority,\" Dembowski said. \"With the TBD, the Executive is left out of that. Metro is left out of that. They don't have a formal role in that government. Our tradition here has been with big transit measures that Metro and the executive develop a proposal, and send it to the King County Council for submission to the voters, or if we had authority here for approval, and I think that's the way to go.\"",
-    "Balducci, making it clear she isn't categorically opposed to assumption, pushed for the council to spend more time on the proposal.",
-    "\"Let's at a minimum learn what the proposal will really cost, what it will really do. This proposal has been a surprise, as I said, and a rush,\" Balducci said. \"I believe our best interests would be served if we finish what we started through the end of next year. But at a minimum, if we decide to completely change direction, let us do it thoughtfully. Let us make sure we understand what we're doing.\"",
-    "Zahilay spokesperson Callie Craighead told The Urbanist that the timeline proposed for the legislation is aligned with the county's budget process, which is ramping up soon.",
-    "\" Moving forward on this timeline allows us to avoid unnecessarily hiring separate staff for the TBD and building duplicative organizational infrastructure that would divert resources from transit, roadway and safety projects toward staffing and consulting costs,\" Craighead said, pushing back on the idea that the process had been rushed.",
-    "\"Council offices were notified prior to the transmittal and a majority decided to cosponsor the legislation because most of the Council and Executive are aligned that this is the best course for King County,\" Craighead said.",
-    "But in pushing for a more deliberative process, Balducci pointed to a need to have time to develop guardrails on any legislation that gets passed to ensure that guidance that had been approved as part of the benefit district gets ported over as well.",
-    "\"Supervisor [Teresa] Mosqueda proposed, and we all adopted, and I thoroughly approved of a statement in our resolution that said we would develop a transit proposal of some kind in 2026,\" Balducci said. \"That directive will not transition to an assumed body. We could require it in the ordinance. I think that we should, at the very least, build the plan and the path to building that transit proposal.\"",
-    "With at least five councilmembers backing the ordinance, passage is all but assured. What remains to be seen is how the proposal will be amended to give the council a similar level of control over spending – both current and future – that it has now under the district.",
-    "\"A deal was made by a majority of the members of the transportation benefit district with respect to adopting tax and funding a roads program,\" Dembowski said. \"I will be supportive of whatever colleagues want to bring forward to make sure that if the will of the body is to merge the two governments, that we're not renegotiating and and retrading the deal.\"",
-    "The King County Council will hold a hearing on the potential assumption of the transportation benefit district on October 20."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260416_112605.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-mitforadvocatecommunitygroupsstreetparty",
    "srcKey": "chs",
    "cat": "local",
@@ -1423,119 +1603,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-handmoreseattleeventsgoingonsalethisweek",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Ticket Alert: Hans Zimmer, Ha*Ash, and More Seattle Events Going On Sale This Week",
-   "author": "EverOut Staff",
-   "date": "2026-09-24",
-   "url": "https://www.thestranger.com/everout/ticket-alert-hans-zimmer-haash-and-more-seattle-events-going-on-sale-this-week/",
-   "paras": [
-    "It’s officially fall! Cozy up with tickets to newly announced shows. Hans Zimmer —who you may know for his Grammy Award-winning scores to Dune and The Lion King —takes it to the next level on tour with his 19-piece band next spring. Latin pop duo Ha*Ash sings about love, sisterhood, and strength on their No Me Hablen de Amor tour. Plus, Charlie Berens brings the laughs with his Midwestern charm and observational humor.",
-    "2slimey: Straight Bass Tour El Corazon (Sun Nov 15)",
-    "BERTHA: Grateful Drag Neptune Theatre (Mar 20, 2027)",
-    "Bo Staloch: The ‘Too Big, Too Big’ Tour Neumos (Mar 15, 2027)",
-    "The post Ticket Alert: Hans Zimmer, Ha*Ash, and More Seattle Events Going On Sale This Week appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/zimm.jpeg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-ttpswwwthestrangercomartsthedevilyouknow",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "The Devil You Know",
-   "author": "Amanda Manitach",
-   "date": "2026-09-24",
-   "url": "https://www.thestranger.com/arts/the-devil-you-know/",
-   "paras": [
-    "Kelly Bjork’s imagery has always centered around scenes of domesticity and intimacy. Their paintings feel familiar because they document the often-overlooked details of everyday life: the pleasing pattern of repeating tile, the warm grain of wood floorboards, the cozy, curated clutter of a living room shelf. These scenes are familiar because we have lived there.",
-    "But beyond the narrative of tenderness and brick-and-mortar interiors, a larger picture emerges, traced in the titles of Bjork’s exhibitions spanning the past 15 years. In Blankets (2012–2015), a story of intimacy is told through the utilitarian household object folded, draped, and crumpled like a kind of semiotic origami. Just one image in the series reveals what’s implied: a person hidden within the folds. In Living Together (2017), the realm of objects is expanded, the solo towel-as-signifier giving way to rooms filled with things. Still, these are highly curated vignettes playing games of hide-and-seek. Each offers only a partial view of a living space, often containing a doorway or window into another secondary space where, again, we’re only allowed a smattering of information placed like clues: a desk where art is presumably made, a bed where sex is presumably had. In Almost Home (2015–2017), figures finally come into view: a meeting of unclothed women in a steamy sauna, a partner waiting alongside a grandmother’s deathbed, and self-portraits, often mirrored or bifurcated, as though teasing at developments to come. Gentle Cravings (2018) expands the imagery to scenes further afield from home: a therapist’s waiting room, a woman waiting on an apartment stoop, and other people’s couches, rugs, and rituals. In Anima Rising (2019), we are introduced to new beds with new and old lovers—with a candor that would make the Blankets blush. The show’s namesake piece is a self-portrait of Bjork on their knees, hair chopped, pendulous breasts hanging, with a second self rising up between the legs of another person. It’s feral and carnal. And they like it.",
-    "Bjork’s first solo exhibition with J. Rinehart Gallery in 2022, Swimming Naked , offers imagery at its most explicit, fleshy, and decidedly queer. It depicts scenes of lovers under the covers, gay friends and queens (there’s a cameo of Betty Wetter), and even an ass getting eaten out. Of course, the ass is eaten tenderly, as only Bjork can paint it. “Jump in, swim naked, the water is fine,” the statement beckons.",
-    "For their second show with J. Rinehart, titled Lunacy , Bjork has exited the temperature-controlled wading pools of queer joy to plunge into the deep end of some danker waters, as they reckon with disorientation, dissociation, and new connections forming in a new chapter of their life, on the cusp of perimenopause. Just when you think you’ve gotten to know your truest self, another side emerges.",
-    "Your work has charted personal transformations over the past 15 years. How do you describe your gender and sexuality now? (Or is that important?) BJORK: I do claim being queer, nonbinary, and trans. It does feel important to establish representation.",
-    "Do you think of your practice as more exhibitionist or diaristic? BJORK: I would say diaristic since it really is me documenting my life. Some of that may feel exhibitionistic at times, but that has felt necessary to paint the full picture (pun intended lol).",
-    "What does painting the full picture accomplish? BJORK: I feel that it allows my audience to fully connect with me. They may not have the same experiences and the work may not have the same meaning to them as it does to me, but I am so often told that it makes them feel something, and that is a very special way I can connect with people.",
-    "How do you choose what to depict in your images, and what remains private? BJORK: You know, I really don’t choose for anything to be private.",
-    "You don’t have images tucked away that will never see the light of day? BJORK: I don’t! I put it all out there!",
-    "What does “lunacy” mean to you? BJORK: The definition: “intermittent periods of insanity, such as were believed to be triggered by the moon’s cycle” was what really struck me in relating to this work. Experiencing perimenopause and the mental and physical struggles that come along with that truly do feel like pure insanity at times. And having a cycle that so often is tied to the moon just resonated. Lunacy also means foolishness to me, in relation to art making—I can feel in a state of madness when creating, and I have to be in it to fully feel myself, and I think that is an insanity in itself.",
-    "Has your definition of intimacy—or the way you think of it in your imagery—shifted over the years? BJORK: Yes, I think intimacy started out in my work meaning relationships with my loved ones, and that continued but changed focus on more of my relations to the queer community. In Lunacy, I feel like intimacy is shown by allowing the viewer to see me fumble through experiencing my body changing, my struggles with mental health, my coping mechanisms, and also through what I grasp and seek to find hope and keep going.",
-    "Who is this work for? Previously, the work has been focused on making that tender, safe moment for viewers. This is a departure from that. BJORK: Lunacy is for people struggling, and letting them know that they’re not alone. So hopefully this work can also offer a space for those people to find belonging.",
-    "Let’s talk about perimenopause as a character in Lunacy . Is there any part of perimenopause that is exciting for you? BJORK: Oh lord, at this point? No. HAH! But what could feel exciting is the necessity of continuing to get to know yourself, especially now that I feel I have more understanding of what is going on, and also the letting go—and how this will change again…and again… and again. I don’t know what’s to come, or what else is to change or become off-kilter again, but I have seen the strength in myself to go on and keep trying to figure that out, and continuing to find help outside of myself for support—whether that is therapy, acupuncture, Western meds, or, importantly, my community.",
-    "I’ve heard people describe perimenopause as a time when raw feelings like rage become more unfiltered, maybe because we’re shedding expectations around nurturing and keeping the peace. Have you experienced some kind of shedding like that, and has it shaped your current imagery? BJORK: I have felt the shedding of another mask, of truly letting people know how I am feeling and what I am going through no matter how “ugly” society may deem that. Perimenopause is a part of our experience, one that 51 percent of the population will go through, and I think everyone should know more about that and be able to support those going through it. And I think we are at a point now where many of those people will be nonbinary/trans, and with that, those experiences should also be documented, supported, and understood.",
-    "You’ve said that you consider your work both documentation and manifestation. How does that manifestation work? BJORK: At times, drawing what I don’t understand or want to seek (i.e., spiritual growth), helps me move towards those things, and sometimes when the work is done I realize that I have done just that.",
-    "Something else you mention about this body of work is how it’s responding to the current hostility to queer communities. How has making work in a hostile climate changed you and what you chose to depict in your work? BJORK: What I depict in Lunacy feels like a departure from past themes—letting out more of my shadow self, the darker side, and being vulnerable in that way. Showing coping mechanisms to deal with the devastating reality we’re living in, regarding the hostility towards queer communities, and all minoritized communities, and being honest about the things I do to deal.",
-    "Is there anything you learned through making this show? BJORK: That I am able to continue to create what I want and that doesn’t have to be for anyone else, but hopefully it will offer something to others.",
-    "Does lunacy equal freedom? BJORK: I think yes, lunacy equals freedom, in a way of letting it all hang out there, being seen no matter what, and hopefully that leads to understanding.",
-    "Kelly Bjork: Lunacy is on view at J. Rinehart Gallery through Oct. 28, with an artist talk on Oct. 17.",
-    "The post The Devil You Know appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/COPING-WITH-DEMONS-WEB.jpg?fit=1024%2C1024&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-ionwhatmeganneedsyoutoknowaboutcandycorn",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Bonus Slog/Slog Mid-AM: Trump’s Approval Rating Reaching All-Time Low, Hey Bagel Plans Second Location, What Megan Needs You to Know About Candy Corn",
-   "author": "Megan Seling",
-   "date": "2026-09-24",
-   "url": "https://www.thestranger.com/news/bonus-slog-slog-mid-am-trumps-approval-rating-reaching-all-time-low-hey-bagel-plans-second-location-what-megan-needs-you-to-know-about-candy-corn/",
-   "paras": [
-    "Editor’s note: A series of unfortunate events — sickness, logistical nightmares, emergencies (we’re fine) — struck the Stranger this week, which made reshuffling the Slog AM schedule necessary. Well, a certain fool editor dropped the fucking cards, and two people wrote Slog AM this morning. So, for the first and last time, we’re proud to present Bonus Slog and/or Slog Mid-AM. We haven’t given much thought to the name because, with any luck, we won’t have to.",
-    "You love to see it: “It is clear the MAGA base is now deserting [Trump] in record numbers,” writes the Hill , citing a poll showing Trump’s approval rating has reached an all-time low of 29 percent. Of course, none of that matters if the fasc-hole locks himself in the new bunker ballroom and refuses to leave come January 2029, but it’s nice to see people are continuing to turn on him, especially before the midterms .",
-    "Washington wants your babies : Wait, that sounds creepy. What I mean to say is that Governor Bob Ferguson’s office announced Monday that the state is expanding the Early Childhood Education and Assistance Program to provide free preschool for thousands more children from low-income families.",
-    "Here comes the dark. The last 7 p.m. sunset of the year will be Friday.",
-    "Big news in Bagel Land : Hey Bagel (coincidentally founded and owned by Andrew Rubinstein, who founded Rubinstein Bagels, which closed its Capitol Hill location this week) will open a second location in West Seattle next year. He posted the, ahem, hole story on Instagram .",
-    "Your Move, Mayor Wilson : New York’s Mayor Zohran Mamdani announced this morning that the city is giving away 70,000 tickets to the Metropolitan Opera House. Just look at this charismatic fuck .",
-    "More Starbucks closures coming : The company is closing 250 “underperforming cafes,” though they’re not saying exactly which ones and where. Earlier this year, five Seattle locations closed, four of them unionized . In related news: Starbucks Workers United are still asking people to boycott .",
-    "The Mariners’ post-season dreams aren’t shattered yet!?",
-    "If you feel like screaming today , you can watch the Senate question Trump’s FDA nominee Dr. Heidi Overton about her plans for vaccines and abortion pills. Here’s a little taste, featuring Bernie Sanders:",
-    "There’s no statute of limitations on genocide. A 105-year-old man is being investigated in Germany for “being an accessory to multiple murders at a Nazi prisoner of war camp,” according to The Guardian . Prosecutors say the man “is thought to have been a guard at the prisoner of war camp Stalag 326 VI K in the Senne region of western Germany.”",
-    "CDs are so back : Have you read this week’s installment of Pop Loser ? Not only does Stranger arts writer Audrey Vann pay her respects to birthday girl Joan Jett, but she also breaks down this week’s important music-related news, including the latest on Macklemore and Ed Sheeran, and CD sales, which are up! Up! In this economy! It’s 2000 all over again.",
-    "In Macklemore news : He announced a Free Palestine Tour.",
-    "I want to leave you with one last thought. CANDY! CORN! IS! GOOD!",
-    "The post Bonus Slog/Slog Mid-AM: Trump’s Approval Rating Reaching All-Time Low, Hey Bagel Plans Second Location, What Megan Needs You to Know About Candy Corn appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/09/IMG_0097-2.jpg?fit=1024%2C576&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-rcomfreewillastrologyfreewillastrology16",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Free Will Astrology",
-   "author": "Rob Brezsny",
-   "date": "2026-09-24",
-   "url": "https://www.thestranger.com/free-will-astrology/free-will-astrology-16/",
-   "paras": [
-    "ARIES (March 21-April 19): In the practice of niwaki , Japanese gardeners shape trees so they look both natural and artfully composed. They prune and style the branches to dramatize the tree’s inherent character. Their goal is to collaborate. I recommend you experiment with a similar approach in the coming weeks, Aries. Try partnering with the living processes in your sphere rather than simply imposing your will on them. Ask yourself: What is trying to flourish here? Can I coax out some useful beauty? How can I coordinate my own intelligence with nature’s intelligence?",
-    "TAURUS (April 20-May 20): Your spirit creatures for the coming weeks are the slow-moving giant tortoises of the Galápagos Islands. They can live for more than a century. They conserve energy, move deliberately, and carry their protection with them. I believe you will benefit from embracing their ways in the coming weeks, Taurus. Refuse to be rushed or pressured, either by others or yourself. Proceed at the precise rate you need to. Your natural strength will thrive through your incremental steadiness. PS: Consider giving yourself a tortoise nickname.",
-    "GEMINI (May 21-June 20): A master perfumer composes a fragrance in three layers. The top notes are what you smell first. They’re vivid and volatile. The next layer blooms gradually, unfurling the heart notes of the fragrance. Underneath everything are the deep, resinous base notes, which don’t fully reveal themselves for hours and cling longest to the skin. Let this be a metaphor to guide your joys and pleasures in the coming weeks, Gemini. Relish the bright top notes that flare and vanish, but persist long enough for the heart to open, and longer still for the deep base notes to emerge. Gather all the rich delights, not just some.",
-    "CANCER (June 21-July 22): It’s hard, scary work for a crab to molt its shell and grow a bigger one. As it waits for its new protection to grow, its soft, tender body is exposed and vulnerable. That’s why it often hides in rock crevices, neither moving nor eating until its armor returns. Your situation, dear Cancerian, isn’t nearly as dire as the poor, defenseless crab’s. But as you power through your own personal molting season, I urge you to enhance your psychic protection. You need to feel extra safe and secure.",
-    "LEO (July 23-Aug. 22): Bats navigate by echolocation. They send out sounds and interpret the echoes. But when competing for food, they may also jam each other’s sonar, generating acoustic interference that makes navigation harder for rivals. A similar phenomenon occurs in human populations. Some of the noisy talk we hear is other people’s jamming signals. Consciously or unconsciously, they’re creating interference that may make it harder for us to navigate. Now is a good time for you to learn better how to distinguish between real information and meaningless hubbub. Refine your filters.",
-    "VIRGO (Aug. 23-Sept. 22): Jan Tschichold (1902–1974) was a brilliant typographer who revolutionized graphic design. He left his mark on millions of books. But later in life, he rejected some of his own rules, returning to classical typography and critiquing his earlier work as too rigid. In this spirit, dear Virgo, I will ask you if some of your long-standing rules no longer serve you. Is it possible that some of your own “best practices” may have calcified into unexamined dogma? The coming months will invite productive heresy against your past selves. You’re allowed to contradict your earlier convictions. Hint: Your vigorous evolution requires it.",
-    "LIBRA (Sept. 23-Oct. 22): In the 18th century, Libran philosopher Denis Diderot was instrumental in creating the Encyclopédie . It wasn’t the first compendium of the world’s knowledge, but it was the most ambitious and comprehensive. In 28 volumes, it assembled contributions from a large number of writers, including leading figures of the French Enlightenment. Robust collaboration was key to its enduring influence. In the coming weeks, Libra, I’m hoping that you, like Diderot, will be an initiator and facilitator of rich cooperation. Conversations, partnerships, and shared projects could generate insights that none of the participants would have discovered alone. By inviting multiple perspectives into the discussion, you will help cultivate a fertile weave of ideas.",
-    "SCORPIO (Oct. 23-Nov. 21): In the volcanic seas around Iceland, underwater eruptions sometimes build entirely new islands that rise from the waves as bare, black rock. During the ensuing years, wind and waves and seabirds seed them with life. Mosses, lichens, hardy plants, and nesting birds slowly transform the raw lava into a living shore. I’m rooting for you to instigate a similar process, Scorpio. My prediction: A development that initially seems stark or unfinished could become fertile ground for growth. Your perceptive instincts will recognize possibilities before they are obvious to others. Be patient with beginnings that look raw.",
-    "SAGITTARIUS (Nov. 22-Dec. 21): I invite you to achieve minor miracles that will enable you to brag at parties about how you created something out of nothing. Not in a loud, egotistical way, but with a sly glimmer in your eye, as if you’re sharing secrets about how reality can be coaxed into generosity if you approach it with imagination and chutzpah. Yes, dear Sagittarius, I’m ecstatic to inform you that now is a favorable moment to turn scraps into usefulness, boredom into invention, and vague hunches into tangible results. Be alert! Be on the lookout! Scout around for raw materials that have been overlooked or dismissed. Half-abandoned projects? Mercurial inclinations? Fugitive fantasies? Seemingly idle conversations that reveal marvelous glints and gleams? These are examples of the “nothings” you can turn into treasures.",
-    "CAPRICORN (Dec. 22-Jan. 19): I’ve got a rough, tough assignment for you: Dare yourself to be startled by your own exquisite beauty. Be bold and even brazen in appreciating what a marvelous creature you are. Can you summon the necessary audacity? I think you can. Please notice the ways you have underestimated your gifts, minimized your impact, or edited out your brilliance to make others comfortable. Allow yourself to feel the tender shock of recognizing that you’re more interesting and mysteriously compelling than you’ve been trained to believe. PS: This will help you call on even deeper inner resources in the coming weeks.",
-    "AQUARIUS (Jan. 20-Feb. 18): Aquarian writer Virginia Woolf was a fount of interesting ideas. Sometimes she pushed her active mind to track them down and capture them, but on other occasions, she enjoyed gathering gems that arrived as her imagination wandered and drifted. These “moments of being” provided her with small treasures while she was walking in nature, taking a bath, or doing nothing in particular. I believe that you are now primed to experience many such pleasurable eruptions of insight. In the coming weeks, pauses and lulls and intermissions will open unexpected portals.",
-    "PISCES (Feb. 19-March 20): For the low price of $199, I could expertly dispel that annoying curse you’ve been lugging around. But I would feel sleazy taking your cash when you are fully capable of zapping the curse yourself. So instead I will recommend that you perform the banishing ritual, then write yourself a check for $199. Here’s how. Step 1: Visualize an object that represents the curse. Imagine hurling it into a beach bonfire and watching it burn. Step 2: Bring to mind a person you believe contributes to the curse. Envision a rope that ties the two of you together, waist to waist. Then imagine yourself revving up a chainsaw, slicing through the binding, and declaring, “You have no power over me!” Step 3: Roll on the floor as you laugh and cry tears of giddy release.",
-    "Homework: Find out about my new book, Enlightenment for Rebels .",
-    "The post Free Will Astrology appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/06/free-will-astro-scaled.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-dCaXFaLURHSVpuTXR1bGVZN3RKNmFCT0xQX1Eoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1544,7 +1611,7 @@
    "date": "2026-09-24",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU0RtaURVN3JSakhpRkJEazRHRGxqWGxfYnNyZ01pSjVzOV9xTU1XUkRSRzRmWHFESTdKZWJnWDF2UmpzbldMWmwyMF9aV1loZVllR0tXZkhib3RyZlVCZkVPVDk5b2hPT3NId2JOR0pZeTdyaUtNeTQ0OHhIWlh6TEU2aEFSaVF6N3pZQXYwcG1sXzdCaXFaLURHSVpuTXR1bGVZN3RKNmFCT0xQX1E?oc=5",
    "paras": [
-    "Man accused of stabbing UW student had history of psychosis, schizophrenia kuow.org"
+    "Man accused of stabbing UW student had history of psychosis, schizophrenia KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1553,32 +1620,15 @@
    "annos": null
   },
   {
-   "id": "f-grist-FdhRHlEdUt3YkhEWlg3T2lNTUw5Z3dTaHNIZgoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "Gas, solar, and tech companies all want this bill. Will Congress pass it?",
+   "id": "f-kuow-VpYdTUxUHJjdmVsdS1RUXhSZzc0ZFRLSFM3cwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "What should be done about Seattle's Aurora Ave? District 5 council candidates debate public safety",
    "author": "",
    "date": "2026-09-24",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbDVZbXJ4blVXY2lraTJCUURMWWtpS0w3RlpUM3NzVTBhYkhkbDVVeGYtRzE0SEtCZ296Z3NXa2pkVFpnTEN4Z0hYUEtmVmNNOWh3NWpWaUozeXBIWmp1N2t3YUFzMFdhRHlEdUt3YkhEWlg3T2lNTUw5Z3dTaHNIZg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamRJdWhmZklIN1h2cGlHSmxlcXNmVkdhb1lMTXIyb3piRFhKaEtqTUtOUUNvYzBFZDdpOWJaZ2JaS0hRZFd4c2x3NGtHVUpuZDl3TnpUSnozY3NPaFVTa01EQnppOXJ4amNNY0Z2SGJJX3Jzdkk5Z3pjemRuT1ZkUXRXRU13eUtQeGk0NW5jblNWNmFyNy1Wc0ZsOUxESzlIMEFieHJiTEs3LXdBTG53OFZDY0tqQzJ1YVpYdTUxUHJjdmVsdS1RUXhSZzc0ZFRLSFM3cw?oc=5",
    "paras": [
-    "Gas, solar, and tech companies all want this bill. Will Congress pass it? grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-SV0VHTHZNVG5lMzF1aEJ0N0NiMFdsWkF3ZjBBoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "Trump cut their climate jobs. This secretive network found them new ones.",
-   "author": "",
-   "date": "2026-09-24",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNeklzN2NPOUduVGtUd3pRSzR3SEFXQnpqd2pFdVZZQnlUVklBLWVJanFJaWNBMFpXbE0xMS10Ujd6RWthWk1fdUtWTjJBMmhDVjgtOVlCRFdSVzZQUTFSV0VHTHZNVG5lMzF1aEJ0N0NiMFdsWkF3ZjBB?oc=5",
-   "paras": [
-    "Trump cut their climate jobs. This secretive network found them new ones. grist.org"
+    "What should be done about Seattle's Aurora Ave? District 5 council candidates debate public safety KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1617,78 +1667,6 @@
    "img": "",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-lsondeliversnewgunviolencepreventionplan",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Wilson Delivers New Gun Violence Prevention Plan",
-   "author": "Amy Sundberg",
-   "date": "2026-09-23",
-   "url": "https://www.theurbanist.org/wilson-delivers-new-gun-violence-prevention-plan/",
-   "paras": [
-    "Last week, Mayor Katie Wilson introduced a plan to reduce gun violence in Seattle that is designed to improve coordination between departments and agencies while implementing the strategy of focused deterrence that has been successful in reducing gun violence in several other American cities.",
-    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
-    "Having been in development since Wilson took office less than nine months ago, the plan takes its cues from last year’s Seattle Office of the City Auditor’s recommendations .",
-    "Notably, all of Seattle’s community violence intervention (CVI) work will be moved to the Community Assisted Response and Engagement (CARE) Department, a move that was recommended by the auditor’s office last year and was envisioned as one of the roles CARE would fulfill in the City Charter. Two new positions have been created – a Director and Coordinator of Gun Violence Reduction – to oversee the implementation of Wilson’s plan within CARE.",
-    "“The plan’s purpose is to fix the lack of coordination that has limited our impact and to put new programs in place that strengthen our response to ending gun violence,” Alex Hudson, a spokesperson for the Mayor’s Office, told The Urbanist . “Our city hasn’t ever in its history dedicated staff outside of law enforcement to shooting response. Placing this coordination in the same department as 9-1-1, with immediate access to real-time shooting information, is a huge step for our City’s ability to respond to gun violence events with both intervention and accountability.”",
-    "Through the 2027 budget, $5 million of Community Violence Intervention (CVI) contracts with nine organizations will be transferred from the Human Services Department (HSD) to CARE. This move will more closely link the City’s CVI work to the Seattle Police Department (SPD), which has been developing its own Community Violence Task Force in order to begin implementation of a focused deterrence strategy to reduce gun violence.",
-    "“Moving CVI contracts to CARE will facilitate tighter coordination with SPD and enable Chief Barden’s and Sayles’ teams to identify, track, and coordinate information sharing about accountability metrics for the service providers,” Hudson said. “Moving the work into CARE will also avail 9-1-1 dispatchers and first responders of more information about who is under case management or has an active safety plan in place. This represents an important shift toward a coordinated care environment that supports safe and effective service delivery.”",
-    "The City will be collaborating with the University of Washington's Center for Firearm Injury Prevention to perform a citywide mapping of related programs and data, otherwise known as a landscape analysis. Hudson said this process is expected to take three to six months and is starting immediately.",
-    "Finally, with help from Johns Hopkins Center for Gun Violence Solutions, the City will be beginning its first Violence Reduction Council (VRC), a public health model that brings together public health, social service agencies, and criminal legal system partners to review every homicide in order to identify systemic improvements. The auditor’s report last year said that Johns Hopkins researchers had offered free technical assistance to implement this framework.",
-    "In addition, more than $8 million will be invested through HSD in programs to prevent violence through support to young people and their families. At the same time, SPD will be increasing bicycle patrols in Belltown, North Aurora Ave N, Little Saigon, and Rainier Beach and better coordinate its Narcotics Unit operations with its Community Response Group and Gun Violence Reduction Unit.",
-    "Wilson’s plan has received sharp criticism from certain councilmembers, particularly from Councilmember Maritza Rivera, who introduced a competing plan via a non-binding resolution that passed last Tuesday, with two councilmembers – Alexis Mercedes Rinck and Dionne Foster – abstaining.",
-    "Rivera’s plan consists of hiring consulting services from the National Network of Safe Communities (NNSC), a research center at the John Jay College of Criminal Justice. The consulting contract would cost the City $417,000 over two years.",
-    "“There is no downside to bringing the National Network for Safe Communities here and to implement this strategy with fidelity, in the hopes that we too will see the same results in gun violence reductions that these other cities have seen,” Rivera said at the full council meeting last week. “The only downside is not acting.”",
-    "The audit with recommendations on how the City could improve its gun violence prevention efforts was released last March during Mayor Bruce Harrell’s administration, but it wasn’t until Wilson took office this year that Rivera sprung into action. In June, she held a symposium on the topic and introduced her own resolution shortly thereafter.",
-    "At the meeting last Tuesday, Rivera objected to Wilson’s gun violence prevention plan, saying that it doesn’t focus on the focused deterrence strategy that the founder of the NNSC had initially developed.",
-    "“[The Mayor’s Office is] not interested in doing actual focused deterrence because it involves police. I mean, that's just the bottom line,” Rivera said.",
-    "CARE Chief Amy Barden, who will now be overseeing the City’s gun violence prevention work, has been studying the best evidence-based strategy since her arrival at CARE, and disagreed with this characterization.",
-    "“I don't think people understand that SPD developed a very effective Community Violence Task Force in 2023 (the same time the CARE ordinance was articulated), using world class research methodology under the leadership of Cambridge-educated PhD Loren Atherley, which explains the precipitous drop in local gun violence outpacing the national trend since 2023,” Barden told The Urbanist .",
-    "“However, the [task force] was half of the equation,” Barden continued. “The focused deterrence model centers community-based supports and interventions, and we never connected those services to the accountability component in SPD. The CVI contracts housed in HSD were not coordinated with the larger strategy, and that is the significance of the Mayor's proposal.”",
-    "Barden is eager to begin the work outlined in the new violence prevention plan.",
-    "“It would be a dereliction of duty to not move as quickly as possible to save lives; it is our young people who are most vulnerable to gun violence in Seattle,” Barden said.",
-    "The Mayor’s Office also stated their support for a focused deterrence strategy but thinks they can implement the strategy without spending the money on the NNSC contract.",
-    "“Focused deterrence is a core component of the Mayor’s plan, and SPD is already laying the groundwork for this work,” Hudson said. “Focused deterrence is an academic theory and strategy not owned by any one organization, implemented in different ways by different cities, and studied extensively.”",
-    "Baltimore, the American city most often held up as an example of the success of focused deterrence, saw a significant drop in shootings and homicides within 18 months of their latest attempt at the strategy. Long a city with a high murder rate, Baltimore recorded 133 homicides in 2025, its lowest homicide total and rate in nearly 50 years. That historic year still put the Charm City at five times the homicide rate of Seattle, which tallied 37 homicides in 2025, even with a population that is about 250,000 residents greater.",
-    "Despite its recent success, the City of Baltimore had two previous attempts that weren’t as effective. During the second attempt, The Trace reported that the City didn’t follow through on the promised services to the program’s participants. The NNSC was the consultant on Baltimore’s first two unsuccessful attempts, but not on its heralded third try that did appear to break through, as PubliCola ’s Erica Barnett noted .",
-    "“It took several tries for Baltimore to get it quite right, and I believe on the third try they might have had multiple consultants,” Councilmember Eddie Lin said during the council discussion of Rivera’s proposal. “And so for me, it's less about a particular consultant.”",
-    "Lin, who voted in favor of the resolution, said he saw it as a first step.",
-    "Councilmember Debora Juarez spoke directly against Wilson’s plan.",
-    "“This is not a plan,” Juarez said. “It's a picture, a window, if you will, a rearview window. It's not forward-looking. There's no vision, and we're already doing these things.”",
-    "There are several components to Wilson’s plan that are already in place, including existing investments in resources for youth and the new attorney in the Seattle City Attorney’s Office charged with filing Extreme Risk Protection Orders to try to prevent gun access to high-risk individuals that was announced in June .",
-    "However, the improved coordination provided by moving the violence intervention work and contracts into CARE, the two new leadership positions for gun violence prevention efforts within CARE, the work with the University of Washington to prepare a landscape analysis, and setting up a Violence Reduction Council are all new. Wilson’s plan also includes funds to start a new pilot afterschool program at Rainier Beach High School and a new Teen Late Night pilot at High Point Community Center, as well as hiring two new HSD employees to better coordinate Seattle’s Community Safety Network for school-related violence interruption work.",
-    "Juarez also objected to partnering with the University of Washington, saying that “sometimes I think when people are too local, they're too political, and they're too close to it to actually give us a solid and somber assessment of what we need to do.”",
-    "Quibbles aside, UW’s Center for Firearm Injury Prevention is one of the top research centers on the topic in the nation.",
-    "Beyond the dustup over focused deterrence, the mayor’s plan includes a few other elements that are likely to face scrutiny.",
-    "Harrell oversaw a deal between the Department of Education and Early Learning (DEEL) and the online mental health provider Talkspace at the end of 2024. The City signed a contract with Talkspace to provide virtual mental health services to Seattle’s students in the wake of a decision by City Council to make a slight increase in the JumpStart tax in order to provide funding for students to have more mental health support.",
-    "In early 2025, reporting by Gizmodo uncovered online tracking pixels on Talkspace’s web pages for teen mental health services for the cities of New York City, Baltimore, and Seattle. The trackers sent information about who was visiting the Talkspace site to an array of social media firms such as TikTok, Meta, SnapChat, and Google. DEEL was not aware of this issue until Gizmodo ’s reporting.",
-    "Earlier this year, when The Urbanist asked DEEL why the contract with TalkSpace was continued after this discovery, a spokesperson for the department said, “DEEL continued our contract with TalkSpace because they addressed our data privacy concerns. Additionally, youth were actively using the service and we did not want to disrupt their care.”",
-    "However, data privacy experts say there are still concerns around using the service.",
-    "In addition, recent reporting in The Seattle Times found that the Talkspace service has been vastly underutilized compared to its cost, with only 442 students being provided therapy when the expected number had been 2,200 to 4,400, an issue of which City officials were aware.",
-    "A new contract with Talkspace was signed this summer."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Katie_Wilson_at_Hope_Factory_SoDo_-_Trumm_20260304_brylbo-1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-XJHN2tmQ1pzMWVKZWx5Q25zWjFJOTNnMldWawoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle barely enforces its drug-free zone law. Did it ever have a chance to work?",
-   "author": "",
-   "date": "2026-09-23",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUE5iZmpSSmdvSmpBU2hGMjhsNldnTzNCeHgwTzd3NUVQUzhwaHBGX29uMW1Jd3RjclZUNzVuY3V4NFVGTnFWZ3Vvd0dlOXBfbkJ2M3hNR2hsLVZrNEZZZEJ6SFNKQ0p1NFNxdkJoMTN5WWc4dTlndVdSVk5YTWpOeWMxdWJGTURNYnBEaWxMSkZKSTRnRG1PMDBSdXNqOEp2WGR2LXJHN2tmQ1pzMWVKZWx5Q25zWjFJOTNnMldWaw?oc=5",
-   "paras": [
-    "Seattle barely enforces its drug-free zone law. Did it ever have a chance to work? kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1734,41 +1712,7 @@
    "date": "2026-09-22",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMzZmODlUQm12ZlZUTVhKNnlJbjBNdTR3TTVhcEdYNmF4X2VfdGtXNDZqNGlkNHZtTWdla3pVM2VHY01xeUdHcVNtNWY0U0tfQzRuVGNTM3NJMTVrbEczQTJIdGp0QWhlbUV4cDJGVlE4UF8wT2g4SzNpN2pLZVZidFpkYzBrZ1V6THFJc3VFbHg3M3VFU2hFc1dJeENGUzFlSkhpeVB3?oc=5",
    "paras": [
-    "Trump administration’s Washington voter roll lawsuit dismissed kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-9pYmZqNjBoV1NJeV9RRGxEOEpQMEx0V0N6bFEoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Microsoft lays off 268 Xbox employees in Washington state",
-   "author": "",
-   "date": "2026-09-22",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd3JUUHpKOEdpc1hPMWFjczRXeTBRTmdCSm0yUmVmNGIyY211VHl0TThfOTZmR2ZqdTJpUUZNdUhmWnRmTWdlOGlJb0lQMTVnYlB6WmZpaG5FZWVySGhjZUdicEVPcGJYc19oZFZueENIWTJ1VmF5amttOVVnb0VJTFA3bE5TM1FQXzExSjF0WUo2NUlkb000eXZnZzFUck9pYmZqNjBoV1NJeV9RRGxEOEpQMEx0V0N6bFE?oc=5",
-   "paras": [
-    "Microsoft lays off 268 Xbox employees in Washington state kuow.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-TU0tXLVh0V0k5TWdzYjNaTVprd1AycklZdklFoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle Mayor Wilson’s first budget proposal adds cops, trims departments with no new taxes",
-   "author": "",
-   "date": "2026-09-22",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVW4wdDhzeUhCMzBLLS1ZRFJGV2NDaTJVM3hMVnNkZU9aSTExbjI0UmE5VXpNT3p1XzRnV1JGUW1KUWVBWjk1NS1NdmhndjlGOFdjdjVtbkdrbzB4R01ZZTBOVUtocUFHeWlJUGgtcTJ1c2pkVmlWQnpIRUcyb2RYaW8zZV9pS3kxbmlyRDdNQjVlWEpmMEJnbHM1eG5QNnFXLVhpLWJjSjRVR0NXaUtQU2hTeEh2OThTU0tXLVh0V0k5TWdzYjNaTVprd1AycklZdklF?oc=5",
-   "paras": [
-    "Seattle Mayor Wilson’s first budget proposal adds cops, trims departments with no new taxes kuow.org"
+    "Trump administration’s Washington voter roll lawsuit dismissed KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1785,7 +1729,7 @@
    "date": "2026-09-22",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHhRaVZvRFhKd09XcnEyVEF1ZDk5YXlHQl9lUGJKc2JsS0R0aTJ5Wm9hT3lUajN6NE54Tl9BOFNIYlJ4U1p1cW9FOEJkcUpwcngwNzFuM0xsb01fbUtQeVkxRE5yMno0MlNQZGduZGFmRnYydmhLRHhiRDhuUXdPcDJxWGNMTGdObG5zZlgwS2hYTHdCREFPYm1zd1BqZnhQeXpjVXE1bEQ2dUozUkFfdzBSeDJQckE?oc=5",
    "paras": [
-    "Seattle had record-breaking bike traffic over the summer. What’s behind the numbers? kuow.org"
+    "Seattle had record-breaking bike traffic over the summer. What’s behind the numbers? KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1803,23 +1747,6 @@
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmZBNDFCSlFHbC1STUtoa0U2UWRPM1V2UG4wLWNjOTJNRGU2MGdPdWJyeXBBalhkT2tkZ0UtRXJWUUJXRkJfeElDWXhxcWNsYmVTRWY4Z3VEWm56aFVYWkdNNmFvcVd4Wi1JdVRXVGZjZHR4TDZ1aGZURGhWQ2hlT3VPU3pmZkNlV3JpakNiZTY2X0pyZ1dLRA?oc=5",
    "paras": [
     "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-5qNFNKZDY5Q3EzNE5ZRXFHRXM5TWRidWpDZUkoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "Has the farm bill hit a dead end?",
-   "author": "",
-   "date": "2026-09-21",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NcVVCT1lYOEE5NS1ERUhSTUlYNU5odXV4YTg5UzVkWkRBTno2V3ZBd2J6MmtNcDl2Tm8zWlhPX2o4eElrdDExRldqN0twV1c2UWgwcmluVXZOSm1fNFpieW5qNFNKZDY5Q3EzNE5ZRXFHRXM5TWRidWpDZUk?oc=5",
-   "paras": [
-    "Has the farm bill hit a dead end? grist.org"
    ],
    "img": "",
    "fetched": true,
@@ -1876,23 +1803,6 @@
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/IMG_3341.jpg?resize=525%2C394&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-xWlBrd3IteGFIb1gweHIzU04zcTZEQjI5d21Toc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The fate of the Endangered Species Act rests on 2 simple words",
-   "author": "",
-   "date": "2026-09-18",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RWTZGbmRTZWxNdUx4U3owR0piLTdnT1NlbkU5VGVjNTJoVjVCRlBOUE1wd0JOblhnZ20yWkI4WnoyS0c2eEwzM3J1R3RQWVhXYVc3WTBrRk9xWlBrd3IteGFIb1gweHIzU04zcTZEQjI5d21T?oc=5",
-   "paras": [
-    "The fate of the Endangered Species Act rests on 2 simple words grist.org"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -2049,23 +1959,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/SELECT-Eater_Seattles_Best_Restaurants_Wayland_Mill_Brooke_Fitts037.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-3FMUTMwZXM1aGhpWEhSUU5fUzRHcVN3ZV8yeAoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Kids in Oregon’s rural counties more likely to spend time in foster care",
-   "author": "",
-   "date": "2026-08-27",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdS1zZ3ZlT3lrdFk4bTdGVUlWTmVBNXJqX3dva28wTWVNVndmZmFuYlloZ1dOZm1CbG5jQ1VwemxZbDdROXRDY0pFX3JWY2drUHJoNktsUUhUSG1PakxyVlVZdEU5Zm5fMXN1bWhERlBsS3FMUTMwZXM1aGhpWEhSUU5fUzRHcVN3ZV8yeA?oc=5",
-   "paras": [
-    "Kids in Oregon’s rural counties more likely to spend time in foster care InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
