@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-09-26T18:51:52.045Z",
- "builtFor": "2026-09-26",
- "builtHour": "11",
- "count": 79,
+ "builtAt": "2026-09-27T19:24:50.607Z",
+ "builtFor": "2026-09-27",
+ "builtHour": "12",
+ "count": 80,
  "sources": [
   {
    "source": "bbc",
@@ -56,7 +56,7 @@
   },
   {
    "source": "kuow",
-   "count": 4,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,397 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20260920",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Sept. 20, 2026",
+   "author": "GeekWire",
+   "date": "2026-09-27",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-09-20/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Sept. 20, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Amazon says it has cut off Meta’s new Muse personal AI agent from shopping on Amazon.com, citing data security and other concerns. It’s part of a larger industry fight over who controls the shopping experience and customer relationship in agentic commerce. Read More … Read More",
+    "Microsoft is moving communications out of its marketing group and under Vice Chair and President Brad Smith, as CEO Satya Nadella calls for a fundamentally new approach that makes employees a bigger part of how the company tells its story. Read More … Read More",
+    "The cuts total about 600 globally, including about 300 in Washington state, and 268 worldwide in Xbox Game Studios. The restructuring folds some existing studios under Activision, Bethesda and King, and leaves Ninja Theory, the studio behind the Hellblade series, facing a potential closure. Read More … Read More",
+    "Former Seattle City Council President Sara Nelson has launched CivicTide, a website that tracks City Council legislation, publishes policy briefs and opinion pieces, and gives readers tools to contact councilmembers. The site runs on a custom AI-powered system built by Seattle tech communications executive Viet Nguyen. Read More … Read More",
+    "Microsoft’s revamped Copilot app adds AI coding, always-on agents and full versions of Word, Excel and PowerPoint as the company competes with OpenAI and Anthropic and shifts more of its AI pricing to usage-based billing. Read More … Read More",
+    "Impacted positions span across technology, product, and corporate roles — including data scientists, software engineers, finance managers, and senior leadership. Read More … Read More",
+    "Amazon announced new AI tools for its independent sellers, led by a plugin that lets them run their Amazon businesses from Anthropic’s Claude or Amazon’s own Quick assistant. Read More … Read More",
+    "Bungie, the Bellevue-Wash.-based video game studio behind Destiny and Marathon, began its week with an apology from its new studio head, as it tries to win back its audience after several recent missteps. Read More … Read More",
+    "Shankar Sundaram, a former Boeing engineer and enterprise sales leader, said the ultimate goal of East West Club is to create a “third place” in the city that’s centered around genuine connection rather than corporate networking or status. Read More … Read More",
+    "Mayor Katie Wilson’s proposed budget closes a $175 million deficit through spending cuts and leaves the JumpStart payroll tax untouched, offering big tech employers a period of tax stability. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/09/muse-stroller-200x113.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-60927sundaymovieeastlinkstationareasmore",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: East Link Station Areas & More",
+   "author": "Mike Orr",
+   "date": "2026-09-27",
+   "url": "https://seattletransitblog.com/2026/09/27/sunday-movie-east-link-station-areas-more/",
+   "paras": [
+    "CityNerd (Ray Delahanty) analyzes East Link and its station areas. He also visits Lynnwood Link, and discusses the transit sagas and urban potential in West Seattle and Ballard."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-rbanistspinehurststationareatouronsept30",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Join The Urbanist's Pinehurst  Station Area Tour on Sept. 30",
+   "author": "Diego Batres",
+   "date": "2026-09-27",
+   "url": "https://www.theurbanist.org/join-the-urbanists-pinehurst-station-area-tour-on-sept-30/",
+   "paras": [
+    "On September 30th, we are hosting a walking tour of the new Pinehurst Link Station during the infill station's grand debut ! Join The Urbanist for a tour of the neighborhood with speakers from the Complete Communities Coalition , Jackson Park for All , and local organizer Renee Staton , along with The Urbanist's own Doug Trumm. Topics will include how the infill station came to be, station access street upgrades , a pending Pinehurst rezone , which will add an urban center near the station once Seattle's delayed growth plan is enacted, and the opportunity to adapt a portion of the publicly owned 27-hole Jackson Park Golf Course to a different park use with broader appeal – or even housing .",
+    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
+    "The route will be less than two miles long and includes some stairs in the Jackson Park Trail section. The tour begins and ends at Pinehurst Station. Sound Transit is hosting activity booths and live music at the station from 2pm to 6pm.",
+    "What : Join The Urbanist as we explore the new Pinehurst Station and explore and discuss the surrounding Pinehurst neighborhood's land use and zoning. Where : Meet outside Seasmith Coffee at 5:30pm to ride up, or at Pinehurst Station at 6pm sharp at the north end of the station near the crosswalk to the Jackson Park Trail. When : Walking from 6 pm - 7:15pm. Transit Stops : Pinehurst Link Station (Line 1, 2) Route 77. RSVP : RSVP here ."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/20260630_Pinehurst_Drone-PB-0005_Sound_Transit_vjomxy-1-.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-lture20260927pongopoetryeverytimeiwakeup",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "PONGO POETRY | Every Time I Wake Up",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://southseattleemerald.org/arts-culture/2026/09/27/pongo-poetry-every-time-i-wake-up",
+   "paras": [
+    "Every time I wake up I feel like I f***** up",
+    "I feel like I let my family down I feel like I let myself down It feels worse without my family around",
+    "Every time I wake up I feel like I f***** up",
+    "I tell myself I can do this But no matter what I’m gonna keep myself focused",
+    "I just do what I gotta do By changing how I move But still hanging with the crew",
+    "Every time I wake up I feel like I f***** up",
+    "Anxiety Anxiety Anxiety Anxiety, Anxiety, Anxiety",
+    "Anxiety Being around big crowds Being judged at You don’t really be yourself You don’t talk as much You just stand still",
+    "Clouded mind Sometimes I get stuck thinking Sometimes I can’t think It’s just clouded I just can’t think of anything Being stuck in one spot Being stuck in here in detention You can’t go out and experience The life you want When the clouds have parted I see a clear pathway What my future holds for me Me living with my family Attending school Going to work I might go work at Chipotle or Costco",
+    "I’m ready to go home I’m missing my family I’ve been here for way too long Excited and nervous I’m nervous because I have court on the 19th To see if I can go home On house arrest or not I don’t know how to feel Court before, it was nervous It looks scary because I’m in adult court Up to King County every time I go My heart feels scared My community and my family And the other family The fear of the way they judge me I fear the judgment of hatred I am human too, like they are I want other people to know That I’m kind and respectful I like to help others I like to go to the studio with my homies And help them make beats I like to help my mother with rent I used to work and gave my mom Half my paycheck so that she could pay rent I also like to help my sister watch my niece When she has to go to work",
+    "Pongo Poetry Project’s mission is to engage youth in writing poetry to inspire healing and growth. For over 20 years, Pongo has mentored poetry with youth at the Clark Children & Family Justice Center (CCFJC), King County’s juvenile detention facility.",
+    "Many CCFJC residents are youth of color who have endured traumatic experiences in the form of abuse, neglect, and exposure to violence. These incidents have been caused and exacerbated by community disinvestment, systemic racism, and other forms of institutional oppression. In collaboration with CCFJC staff, Pongo poetry writing offers CCFJC youth a vehicle for self-discovery and creative expression that inspires recovery and healing.",
+    "Through this special monthly column in partnership with the South Seattle Emerald, Pongo invites readers to bear witness to the pain, resilience, and creative capacity of youth whose voices and perspectives are too often relegated to the periphery. To learn more about Pongo’s work of inspiring healing and relief among youth coping with mental and emotional turmoil, register for its upcoming event, What Words Can Hold, on Oct. 8 ."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-09-27/yhcsb9wg/Shutterstock-1717782502-via-Benjavisa-Ruangvaree-Art.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc85ydnwqpzyzoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "What we know about RAF base counter-terror investigation",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd84/live/8e4ffde0-ba90-11f1-bd21-bdf910f2cec6.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescrwyzd3gv519oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Burnham proposes NHS-style social care system for England",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c144/live/7dc7def0-ba65-11f1-b1d1-571ed4d7ff2c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesckx2zq7x32wroatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Orange Order march row goes to heart of ongoing divisions in Northern Ireland",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2zq7x32wro?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The dispute over the controversial parade is a reminder that the peace process is not over."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf2e/live/10d4e110-ba76-11f1-8d03-cba75b2c1d34.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmqjkk55qg25oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Ten NHS staff removed over Noah Woods data breach",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "East Suffolk and North Essex NHS Foundation Trust says it has launched an \"urgent\" investigation."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0867/live/18be96e0-ba36-11f1-a238-613d75ce6f97.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6r7dy2yyx2xoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "No handshakes between Republic of Ireland and Israel",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6r7dy2yyx2xo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Republic of Ireland and Israel players do not shake hands with each other before Sunday's controversial Uefa Nations League game in Hungary."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/2ebf9bd0-baa7-11f1-bc1f-3f186ca4140c.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqrl6y38wez3oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "England win series as Banton delivers on potential",
+   "author": "",
+   "date": "2026-09-27",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cqrl6y38wez3o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Tom Banton delivers on all of his potential by crashing a brilliant first international century as England wrapped up their summer with an ODI series win over Sri Lanka."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e59/live/32202790-ba89-11f1-8b67-d15ca96e4c99.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-2488southafricamassshootingskilled38week",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+   "author": "Kate Bartlett",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+   "paras": [
+    "On Saturday night, there were separate mass shootings near South Africa's two largest cities."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5198x3465+0+0/resize/5198x3465!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2Fc1%2Feda1dc9c4621a61891b03e6b3fb7%2Fap26270463217392.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-outraceinthecensuswelookbackatthehistory",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump wants to remove a question about race in the census. We look back at the history",
+   "author": "Hansi Lo Wang",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+   "paras": [
+    "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5966883",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-3protectcollegesportsactsenatorsathletes",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+   "author": "Becky Sullivan",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+   "paras": [
+    "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2240+0+0/resize/3000x2240!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6c%2F47%2F2523993d4246b70e381ef216d272%2Fgettyimages-77431049.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-onclashinraredemocraticpickupopportunity",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Ohio governor's race: Ramaswamy and Acton clash in rare Democratic pickup opportunity",
+   "author": "Sarah Donaldson",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5976743/ohio-governors-race-ramaswamy-and-acton-clash-in-rare-democratic-pickup-opportunity",
+   "paras": [
+    "The Ohio governor's race pits former presidential candidate Vivek Ramaswamy against Democrat Amy Acton, a former state health advisor. Democrats see a chance to win a state that usually votes Republican."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5976743",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-20260927nxs15973237labambamexicofandango",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Playing 'La Bamba' for an hour? Must be a Mexican fandango!",
+   "author": "John Burnett",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/nx-s1-5973237/la-bamba-mexico-fandango",
+   "paras": [
+    "A 300-year-old Mexican musical tradition is finding new life around the world — one sweaty, joyous, all-night fandango at a time."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4022x2681+0+0/resize/4022x2681!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7f%2F87%2F15ad2677400dad94ad2cadcd065e%2Ffandango-2.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-0927gs1143582nightschoolshepherdslesotho",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Photos: This may be the most inspirational night school on Earth",
+   "author": "Julie Bourdin",
+   "date": "2026-09-27",
+   "url": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
+   "paras": [
+    "Many thousands of boys and men in Lesotho take up the vital profession of herding but have to give up their education. A small network of schools on a shoestring budget is teaching them the ABCs."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6240x4160+0+0/resize/6240x4160!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F76%2F8c3ef0e44c1cbce3b20fea03b1b2%2Flesotho-shepherds-73.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-omcommentisfree2026sep27trumptvcablenews",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I spent a full hour watching Trump TV. It’s a digital pathway to hell | Dave Schilling",
+   "author": "Dave Schilling",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/27/trump-tv-cable-news",
+   "paras": [
+    "The streaming channel was full of the president’s vanity and myopia. It was also deeply, deeply dull",
+    "Are you currently at an airport? Strapped to a hospital bed, with various tubes protruding from your body? Maybe you’re on a treadmill or visiting an elder care facility? Chained to a radiator in the basement from the Saw movies?",
+    "If you said yes to any of these questions, you might be watching cable news while reading this column. Or maybe you’re one of the hundreds of people currently watching Donald Trump’s answer to cable news, Trump TV – a YouTube streaming channel that airs nothing but White House-sanctioned content 24 hours a day, seven days a week.",
+    "Dave Schilling is a Los Angeles-based writer and humorist"
+   ],
+   "img": "https://i.guim.co.uk/img/media/552473cba47e0910fe47272e880c458cb1c69095/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=875cfbfd5d52a6e6612c1121e4f0c7e0",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-errepublicansdemocratsusmidtermelections",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Who cares about Hasan Piker?",
+   "author": "Rachel Leingang in Los Angeles, California",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
+   "paras": [
+    "The popular Twitch streamer has been vilified by Republicans, but the socialist commentator has a large audience that some Democrats have courted",
+    "It’s only 9am and the latest media shitstorm is well under way. Hasan Piker scrolls through his social media feeds as he comes down the stairs of his home in West Hollywood.",
+    "An interview with Axios, in which Piker said the US had committed more atrocities than al-Qaida, is blowing up his phone. Requests from reporters are streaming in. Comments on the interview flood his replies."
+   ],
+   "img": "https://i.guim.co.uk/img/media/419244b35c6e7029267875ddcd5e9d7be0765757/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=3b51b88774b1f9c18df79d1e604c7d0c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-7surrogacypregnancydiscoursecontroversey",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I wanted to help another family’: four surrogates on how they feel about the surrogacy discourse",
+   "author": "Sara Braun",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey",
+   "paras": [
+    "The Guardian spoke with surrogates across the US about what they think of the controversy surrounding the practice",
+    "Surrogacy has been thrust into the national spotlight in recent weeks, with both the announcement of Lena Dunham using a surrogate to start a family and the ongoing legal battle surrounding McKenna West , a gestational surrogate who fled to Texas to avoid having an abortion that was requested by the child’s biological parents.",
+    "With a renewed public interest on commercial, or compensated, surrogacy, the Guardian spoke with surrogates across the US who shared their experiences and how they feel about surrogacy being part of a global, public conversation."
+   ],
+   "img": "https://i.guim.co.uk/img/media/cd15129391b9bf6c46bc088dee89e836ff715d2f/971_708_4410_3527/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=00b5ab55337531ff45bbe9354ec22e9a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-urdaynightliveseasonpremierejalenbrunson",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Saturday Night Live: Jalen Brunson makes for stiff host in underwhelming season premiere",
+   "author": "Zach Vasquez",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/sep/27/saturday-night-live-season-premiere-jalen-brunson",
+   "paras": [
+    "There are some promising moments from newer cast members, but the show’s return, after a politically tumultuous period, was lacking in bite",
+    "The 52nd season of Saturday Night Live opens inside the New York City mayor’s office. Mayor Zohran Mamdani (Ramy Youssef, reprising the role from last season) gets a surprise visit from Donald Trump (James Austin Johnson). The president, who “for some reason that no one can figure out” loves Mamdani , has braved the big El Niño storm to visit his “day one”.",
+    "Trump unloads about his busy week – banning members of the press from the White House pool, delivering apocalyptic threats to Iran at the UN, consulting with AI leaders including Sam Altman, Elon Musk and Mark Zuckerberg (“It made me think, wow, RFK Jr’s probably right about those vaccines, I mean, the ‘tizz in that room …”) – before being interrupted by his assistant Natalie Harp (Ashley Padilla). Acting like “the girl from Obsession, but blond”, the dangerously jealous Harp threatens Mamdani. Trump eventually convinces the mayor to let him stay and hang out in New York in exchange for $20bn for a housing project in Queens."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9207d3675592aacf6c33e3179cdcb51e81371a6c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6f5ecb4b8a3f878025fd922f2a8c66aa",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-edejectwhycouplesaregettingdivorcedlater",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I turbocharged my career then pressed eject’: why couples are getting divorced later",
+   "author": "Amelia Hill",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/27/i-turbocharged-my-career-then-pressed-eject-why-couples-are-getting-divorced-later",
+   "paras": [
+    "Financial pressures, legal changes and shifting attitudes may help explain why couples are staying married for longer",
+    "“We don’t know anyone whose marriage hit the skids after just a few years,” Celia said, reflecting on her divorce. “Everyone seemed to cling on to their relationships for as long as they possibly could.”",
+    "It took Celia two years to initiate divorce after realising her 12-year marriage wasn’t going anywhere – and the latest figures show this experience is increasingly common, with marriages that end in divorce now lasting longer than at any point since records began."
+   ],
+   "img": "https://i.guim.co.uk/img/media/a9f5194973b7e37c2ec66a3fea77e683d28f01de/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=eb344d8a3d9ce94842396b9d0fb6b66d",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-tive2026sep27democracyaidatacenterspower",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+   "author": "Eduardo Porter",
+   "date": "2026-09-27",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+   "paras": [
+    "‘The push against datacenters speaks to the frustration of people who don’t feel they are making the choices in their lives’",
+    "The Stanford ethicist Rob Reich was once invited to a dinner organized by a Silicon Valley mogul to discuss what a state designed to maximize science and tech powered by commercial models might look like. The gathered technologists were drawn to the idea of building a small nation-state dedicated to the endeavor, Reich recalls in “ System Error : Where Big Tech Went Wrong and How We Can Reboot it”.",
+    "When Reich asked whether this state would be a democracy, he got a cool no. “Democracy is too slow, and it holds science back,” he was told. “To optimize for science, we need a beneficent technocrat in charge.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/a73845d038c028e7ce80f3593fcc5023a3e9f17e/0_369_1638_1310/master/1638.jpg?width=140&quality=85&auto=format&fit=max&s=69b0c28ae9753677f90e06c9258d2dbd",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-ureofaiplusisseattlestilltheplacetobuild",
    "srcKey": "geekwire",
@@ -171,52 +562,6 @@
     "Now that Pinehurst Station is opening and once challenges to the One Seattle Plan are resolved, I hope that we can move forward on the rezone and engage both market-rate and affordable housing providers to make room for more neighbors."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Pinehurst-Station-from-130th-Street---Trumm-_20260923.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-heroundupwhatsupanddownwithwilsonsbudget",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: What's Up (and Down) With Wilson's Budget?",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://southseattleemerald.org/newsletters/2026/09/26/the-roundup-whats-up-and-down-with-wilsons-budget",
-   "paras": [
-    "We had a big week in local politics. Mayor Katie Wilson announced her 2027–28 budget, and there were a few surprises.",
-    "First, though some tied Wilson to the \"defund the police\" movement during her campaign, this proposal increases police spending nearly 14% and includes funding for 1,250 SPD positions, 66 more than the current budget.",
-    "In fairness, the bulk of the new spending is due to money tied to things like salary increases, which come from the last Seattle Police Officers Guild contract, which was signed under Mayor Bruce Harrell's administration.",
-    "But the budget also accounts for $100 million in upstream investments related to public safety, which covers the items in Wilson's recently proposed plan to address gun violence .",
-    "Big picture, Wilson's $9 billion budget proposal is aimed at closing a $175 million general fund deficit — and it does it without raising any major new taxes.",
-    "While these are the items that caught my eye, there's plenty more to discuss. And I happen to know the perfect person for the conversation: Contributing politics reporter Connor Nash, a former economist, was at the meeting where Wilson announced the budget.",
-    "This week, I spoke with Connor about the budget and what it means for the South End.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: You were in the room when the mayor announced this budget. Can you give me a quick overview of what's in it?",
-    "CN: Essentially, what the mayor's budget proposal is doing is closing a budget deficit that's been going on for the past six years. That's the easiest way to describe it, but this deficit has been here since the Durkan and Harrell administrations. The reasons the mayor gave for the deficit are rapid growth and the increased need for government services. That’s the spending side of it. And so the mayor wanted to have a budget surplus, even though her office didn’t like the term \"budget surplus,\" they wanted reporters to call it a \"rightsizing of the budget,\" and that’s a quote.",
-    "But what they did was move things around and did cuts to a lot of different departments in order to go from negative $175 million, which is what they were projected to have, to positive $15 million. So that was a lot of cuts, mostly into the Department of Transportation. But then there's also places that are getting more money. The police department is getting more money. They got a cut of $9 million, but somehow will also get an increase of $68 million.",
-    "Overall, most of the cuts are to staff, and most of those are to vacant positions. Those are the kinds of things that she had to do to right the ship, as she said, and to rightsize the budget.",
-    "MD: I want to go straight to our neighborhood. I've seen plenty of overall coverage, but what does this budget mean for the South End?",
-    "CN: On top of the speech itself, I attended a technical briefing, and the mayor did have slides that named Rainier Beach. I also went through the 754-page budget proposal and searched for South End neighborhoods. And one of the big things coming our way is $600,000, which is not new money, it's a reallocation of money, to create a new after-school program in Rainier Beach High School.",
-    "There's also an additional $300,000 that's going to go to increasing the sites for the Teen Late Night program. There's going to be $108 million for new bathrooms at parks, and one of those parks is going to be Cheryl Chow Park, just off of Rainier Avenue. We're also getting money for cultural districts in Columbia City and Georgetown. And lastly, the South Precinct is getting $8 million more, and that is one of the larger increases for police precincts.",
-    "MD: Can we do rapid-fire with a few issues that I know are important to the South End? Public safety, housing, and transit are always top of mind. Starting with public safety, the mayor increased the police budget and set aside $100 million for community investments in public safety. How do these ideas coincide, and what is her big-picture plan for safety?",
-    "CN: When it comes to the police, I will say that it's a nearly 14% increase in the police budget, which is bigger than what Bruce Harrell did, and it funds Mayor Wilson's recent gun-violence plan. I asked in the technical meeting if Maritza Rivera’s plan was getting funded in this budget, and for an answer, [Wilson's team] actually read a script. They said a lot, in the end; they mentioned $300,000 for any other priorities anyone has.",
-    "But essentially, the gun-violence plan the mayor released and everything in it is included. I found it very interesting that we're going to 1,250 SPD positions, but we are cutting some civilian positions, like three civilian police accountability positions are being cut. But I will say, and this is a quote from the meeting: \"This does not translate to any human beings being fired.\"",
-    "MD: Rapid-fire — what did you hear on housing and homelessness?",
-    "CN: With housing, and this is from the mayor's speech, there is no reduction to rental assistance or tenant services. Unlike the police items, this one does fit into her campaign strategy: preserving no reductions to services, and she is proposing a fee for the rental junk fee ban as well, like the fee for landlords. There’s also going to be $183 million toward homelessness services, which involves building out shelters, and $37 million is for shelter expansion.",
-    "One part that is interesting, and that I'm going to dig into more, is that she’s cutting $8 million to the shelters that we're losing because we no longer need to fund them. But I was like, What shelters are we talking about? That's something I'll be looking into.",
-    "And finally, I'll just say, I know we're talking about housing, but there's also $55 million for food security and access. That adds $6 million to Fresh Bucks and makes sure that universal meals are funded as well.",
-    "MD: Last, but certainly not least, what's in there on transit?",
-    "CN: From Wilson's speech, she said, and I'm paraphrasing, \"I will not pretend that SDOT cuts are not painful.\" That was the biggest part of the deficit that Wilson was trying to deal with. So anything that was part of the transit levy: untouched. And that's in its own bucket of money. And she also said the things that involve her Vision Zero goal will be untouched. All of those will be funded, and they include traffic calming and safety projects on Rainier Avenue and MLK.",
-    "We're three months into Mayor Wilson's safety plan for the CID. Have we seen results?",
-    "What do you think Hillman City's \"Best Day Ever\" would be like? These neighbors have an answer, and it includes both community building and service.",
-    "Do you have ideas on how to reduce pollution in Georgetown and South Park? If so, this new city of Seattle program wants to hear from you .",
-    "After settling an $18 billion lawsuit, Meta has new guidelines for teen use of social media. One problem: It didn’t consult any teens when crafting the plan.",
-    "A new Afrofuturist film imagines a world without prisons and police.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-09-26/u43owlvo/Whats-Up-and-Down-With-Wilsons-Budget.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -395,306 +740,6 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lescv8e33gdw17noatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5b/live/b607d7b0-b9c1-11f1-a430-4d16ee157c41.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescrx2zz401935oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Heathrow Airport warns third runway could be delayed by four years",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/news/articles/crx2zz401935o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The UK's busiest airport cautions it may miss the government target of 2035 as ministers say the deadline has \"always been ambitious\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb83/live/ca71b050-a6f6-11f1-97e2-55b9ef1865bd.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqgmrr9ekr7koatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The US president says Tehran had only put forward the proposal because it is losing the war."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adf9/live/6f8e27d0-b9c1-11f1-9190-07b6ee147cf1.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescwn8mn0rzkzloatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "How long can Labour's feel-good factor last?",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/news/articles/cwn8mn0rzkzlo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The party’s spirits have been transformed since Burnham became PM, but what's coming down the tracks, asks Laura Kuenssberg."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec45/live/9eecaf70-b8bc-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc60m334grx9voatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Met to re-examine CCTV from Jill Dando murder case",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/news/articles/c60m334grx9vo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Police are reviewing footage of a man at Putney Bridge station after the Crimewatch presenter was shot in 1999."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2241/live/f2176e40-b99a-11f1-bc1f-3f186ca4140c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesckddvv5dn4eyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Republic of Ireland to wear black armbands for Israel game",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-979openaiusgovernmentwebsitesmisbehavior",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-   "author": "The Associated Press",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
-   "paras": [
-    "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2667+0+0/resize/4000x2667!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F18%2Ffc%2F1d5e6422446f958a5ac01b18bc20%2Fap26260139104766.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-swwwnprorg20260926nxs15974096essay092626",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
-   "author": "Scott Simon",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
-   "paras": [
-    "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
-    "(Image credit: Chip Somodevilla/Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5055x3370+0+0/resize/5055x3370!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2F0f%2Fabbe9b1a4d8f851c217c528e2a34%2Fgettyimages-2296575054.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-landcoastlineshurricanenolotargetshawaii",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Powerful nor'easter brings winds, floods to East Coast",
-   "author": "Ava Berger",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
-   "paras": [
-    "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3409x2273+0+0/resize/3409x2273!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5b%2F46%2F8bcbf1fd46c6a6fdec4fdb1dfbcf%2Fap26268625826647.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-60926gs1144667hivcrystalmethepidemicfiji",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
-   "author": "David Cox",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
-   "paras": [
-    "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffb%2Fdf%2F43ea1eee4821ab65e5f43991df81%2Ffiji-hiv-06220.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-usingheresourguidetothedifferentfactions",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The AI safety debate is confusing. Here's our guide to the different factions",
-   "author": "Katie McQue",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
-   "paras": [
-    "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3000+0+0/resize/5333x3000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2Fe9%2F740a82844c44bf409fd71dd0fcba%2F2026-09-ai-factions-final.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-icallytailoredmealdeliveriesmedicaidcuts",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
-   "author": "Priyanka D McCluskey",
-   "date": "2026-09-26",
-   "url": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
-   "paras": [
-    "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2001+0+0/resize/3000x2001!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1c%2F34%2Fbd43844c40e9baa979397c5faa99%2Fcommunityservings-01.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-colinkaepernickinterviewnfltakingtheknee",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Refusing to meet Trump was an easy no’: Colin Kaepernick on being ‘blackballed’ for taking the knee, racism, and why he’s still ready to play",
-   "author": "Steve Rose",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/26/colin-kaepernick-interview-nfl-taking-the-knee",
-   "paras": [
-    "Ten years ago, the San Francisco 49ers quarterback refused to stand for the national anthem. He was accused of disrespecting the flag, the game, and America. In a rare interview, he talks about inspiring a global gesture of civil rights",
-    "Colin Kaepernick still gets up at 4.30am every morning to train. “Strength training, speed training, position training – still do all of the same type of workouts I did while I was playing,” he says cheerily. “And then go about the rest of my day.” It is almost 10 years since Kaepernick last played a game of top-flight football. His career was abruptly and cruelly cut short just as it was peaking, after the National Football League (NFL) effectively closed ranks and shut him out for being too political. Now, at 38 years old, he is well aware that his chances of a return are dwindling by the day, but he remains as game-ready as ever. “I stay relentless at it,” he continues in his easy drawl. “I look at it from the perspective of, ‘What are the things that I can control?’ And what I know I can control is being prepared for when opportunity knocks, and to also continue knocking, on my end, looking for ways and opportunities … just staying resilient and focused and disciplined – that is what’s gotten me to this point in my life.”",
-    "Kaepernick’s story is defined by the events of late 2016, when he repeatedly refused to stand for the pre-game national anthem – resulting in a chorus of booing on the pitch, insults and outrage off it, and exclusion from the sport he still loves. He was one of the biggest names in the game at the time; quarterback for the San Francisco 49ers, a national celebrity, sponsored by major brands, and looking back, his actions fed into so much that has happened since: the rise of Donald Trump, the Black Lives Matter protests and a global reckoning with racism, then the backlash against what is now being called “Woke 1.0”, and the resurgence of a white nationalism that the US complacently assumed was in the past."
-   ],
-   "img": "https://i.guim.co.uk/img/media/818facf101edc9066f46a9aefed318667905f613/0_219_2880_2304/master/2880.jpg?width=140&quality=85&auto=format&fit=max&s=5ed8cce93fe1d22751645494c7e8837e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-p26kamalaharrisprogressivesarabamericans",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Kamala Harris is belatedly courting progressives. Is it too little, too late? | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/commentisfree/2026/sep/26/kamala-harris-progressives-arab-americans",
-   "paras": [
-    "As she mulls another presidential run, the former VP is building bridges with progressive and Arab American leaders",
-    "Does Donald Trump secretly want Republicans to get annihilated in the midterms? Because he’s certainly acting that way . He continues to brush off concerns about the cost of living, saying last week that high gas prices are a very “inexpensive price to pay ” for the war on Iran.",
-    "And, of course, the president seems to have no plans to end that disastrous war, apart from making vague threats about blowing the entire country up. Trust me, he keeps saying, everything will get better after the midterms . But by the looks of his dismal polling numbers, not many people are swallowing his empty promises anymore."
-   ],
-   "img": "https://i.guim.co.uk/img/media/5a36bdcd57cb098cfa8cc5891c3ce7dc62a751d0/498_0_4955_3966/master/4955.jpg?width=140&quality=85&auto=format&fit=max&s=abf18bb8bbe15846b37ceb6b8ab73c39",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-odiplomaticgiftsmeanandhowdoyouchooseone",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "France gave the Statue of Liberty. China sends pandas. What do diplomatic gifts mean – and how do you choose one?",
-   "author": "Kim Willsher",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/world/2026/sep/26/france-statue-of-liberty-china-pandas-what-do-diplomatic-gifts-mean-and-how-do-you-choose-one",
-   "paras": [
-    "France’s offer to the American people was a point made on a colossal scale, and world leaders’ exchange of tokens remains a complex art",
-    "It was one of the most potent political gifts of modern times: the Statue of Liberty, a colossal neoclassical sculpture made in France and offered to the American people in the late 19th century.The size and symbolism of Liberty Enlightening the World (the statue’s original name) was intended as a mark of friendship to commemorate the centenary of the 1776 US declaration of independence. Delivered a decade late, it was also a reminder – perhaps a pointed one – of France’s critical role in helping the US break free from Britain.",
-    "The Statue of Liberty is now one of the world’s most recognised monuments, its creator, Frederic Auguste Bartholdi, less so – a state of affairs Paris’s Musée d’Orsay is seeking to remedy with an exhibition highlighting the sculptor’s life and career."
-   ],
-   "img": "https://i.guim.co.uk/img/media/0427030f0122583d8172438742ac95cf71079ea9/0_575_2001_1600/master/2001.jpg?width=140&quality=85&auto=format&fit=max&s=3aafdae7de449de1546c17493c75466d",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-feandstyle2026sep26blinddatemiklosminnie",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Blind date: ‘I do wish I hadn’t stepped on that dog – but she assured me it was OK’",
-   "author": "Guardian Staff",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/sep/26/blind-date-miklos-minnie",
-   "paras": [
-    "Miklos, 25, a PhD student, meets Minnie, 23, who works in film production",
-    "What were you hoping for? To take a step outside my comfort zone. To meet the love of my life."
-   ],
-   "img": "https://i.guim.co.uk/img/media/553e8ea07f51e9001afa5e7a49513853b2b82b1d/0_0_3000_2400/master/3000.png?width=140&quality=85&auto=format&fit=max&s=76faa273bc1ff9babc949e927fbb2f33",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-emichelinmeatfluencervenisonchillirecipe",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Cooking with Tom Kerridge, the Michelin ‘meatfluencer’",
-   "author": "Zoe Williams",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/food/2026/sep/26/cooking-with-tom-kerridge-the-michelin-meatfluencer-venison-chilli-recipe",
-   "paras": [
-    "The star chef demystified the restaurant scene with his love of a welcoming pub. Now he explains why hospitality is in crisis – and how to make a sublime venison chilli",
-    "Tom Kerridge is the king of meat: first as a chef, transforming pub classics like pork belly into Michelin-starred fare at The Hand and Flowers in Marlow 20 years ago, and later opening The Butcher’s Tap and Grill in the same village; then as a cookery writer: his Outdoor Cooking – The Ultimate Modern Barbecue Bible of 2021 is well named, being both as comprehensive and as worshipful as a holy book; and recently as a “meat-fluencer”, making gorgeous skills videos on Instagram and YouTube .",
-    "That was just destiny, he says (more or less). “When you’re cooking in a classic brigade system, the sections are like a larder: you’ve got starters, you’ve got garnish, you’ve got meat and fish, you’ve got pastry. The meat is the lead section, where the most experienced chef is, because that’s where you land when you’ve learned to treat vegetables with love and respect. If you fuck up cabbage, it doesn’t cost a lot.” It’s true, it doesn’t, but if you saw the care Kerridge puts into dicing an onion – peeling its layers apart like he’s making a mosaic, assiduous even about half an inch of waste – of an onion – you’d know that love and respect aren’t really about money."
-   ],
-   "img": "https://i.guim.co.uk/img/media/43a3c6273c3f22dbbded7696ec550b3f939f5504/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=ee60aae59d27bf1679101c143606542e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-otballspecialsparkspainworldcupbarcelona",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
-   "author": "Sid Lowe",
-   "date": "2026-09-26",
-   "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
-   "paras": [
-    "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career",
-    "Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began, but it might have been. “We’re in a World Cup final and I wanted to carry on,” he says, and there’s the smile again, the braces. Really? “Yes”. No nerves? “No. I never thought: ‘Just blow the whistle’. I was enjoying it.” No fear, just fun: 19 July, New Jersey and he knew: this 19-year-old who had happily been asleep on the bus to the biggest match of his life.",
-    "And now he sits in a first-floor office in Las Rozas, surrounded by tactics boards and stats sheets. There’s a Spain keyring hanging from the door and a second star on his shirt. In the corridor, crates loaded for London. Son of Mounir and Sheila, named after the family friends who helped them, “ touched by God’s wand ” in the words of the coach whose office is next door, there’s something about Lamine Yamal. He turned 17 the day before the final of Euro 2024 , a schoolboy sitting exams, and 19 the day before the semi-final of the World Cup. Asked what he wanted, he said a trip to New York, so there he was, about to be a champion again."
-   ],
-   "img": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&quality=85&auto=format&fit=max&s=bbcbdde100a7361f2fbd313287b79ca6",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-propublica-DVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNxoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -704,23 +749,6 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTF5Ui1kelpxZEUtZjBLOEJJM3NSVWtCZHhCY3JVcWFQc0otTVhqQXoyVFQ3c1dPQUhTTGpyNzR2N3VodEhXZkpQNGpCcmhxZzI0YVN5Vl9ScUpvV290U01Ebi1ZMVFXQk1wRGJDVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNx?oc=5",
    "paras": [
     "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-dHV0JBSktuSkc2UGNWS180SDlsOFRTNEZobmMoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Help ProPublica Report on Sports Betting by Sending Us Your App Data",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hd2JjUmRmeEZjeThRLXA4ZWpEcWZMVHBOdW1sR08yRVJtWWs2RkZ5bHZpMGY3Ny00VWlaRTR5RXg4Z2FVWm9kYWt3c0dHV0JBSktuSkc2UGNWS180SDlsOFRTNEZobmM?oc=5",
-   "paras": [
-    "Help ProPublica Report on Sports Betting by Sending Us Your App Data ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -875,28 +903,6 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-dasmicrosoftcuts277jobsinwashingtonstate",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Artists, game designers and producers hit hard as Microsoft cuts 277 jobs in Washington state",
-   "author": "Todd Bishop",
-   "date": "2026-09-25",
-   "url": "https://www.geekwire.com/2026/artists-game-designers-and-producers-hit-hard-as-microsoft-cuts-277-jobs-in-washington-state/",
-   "paras": [
-    "Microsoft cut 277 jobs in the Seattle region as part of its latest round of layoffs, with artists, game designers and producers making up a large share of the affected roles, a new filing shows.",
-    "The filing was made public Thursday afternoon under the Worker Adjustment and Retraining Notification (WARN) Act. Microsoft gave approximate numbers earlier this week when it announced the cuts , which included the latest stage in the company’s ongoing Xbox restructuring .",
-    "Art, game production, game design, technical art and audio design account for 77 of the 277 positions listed in the filing. Software engineering is the largest single category, totaling 60 roles.",
-    "Other positions are in functional areas including product marketing, technical writing, product management, data science, business management, finance and legal.",
-    "The filing says 252 of the positions impacted in the state are based at Microsoft’s Redmond campus, with 25 held by remote employees in the region, adding up to the 277 total. Microsoft had previously said about 300 of the cuts were in Washington state, out of fewer than 600 globally.",
-    "Out of that global total, 268 were in Xbox Game Studios, part of a restructuring designed to return the games division to growth and profitability. Halo Studios in Redmond faced a substantial reduction, and the company said work on the next Halo game is moving to its Activision subsidiary.",
-    "Microsoft cut 605 Washington jobs in July as part of 4,800 layoffs worldwide at the time. The company eliminated more than 15,000 positions globally across two rounds in 2025."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2025/05/microsoft-logo-build-1-1260x819.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-ogcom20260925fridayroundtablenewtrainday",
    "srcKey": "stb",
    "cat": "transit",
@@ -912,11 +918,82 @@
     "Beginning September 30, Amtrak Airo trains will be used on the following Amtrak Cascades trips.",
     "Between Seattle and Eugene: Train 503: Seattle to Eugene at 7:10am – 1:48pm Train 508: Eugene to Seattle at 4:30pm – 10:50pm",
     "Between Seattle and Vancouver: Train 516: Seattle to Vancouver, B.C. at 8:30am – 12:30pm Train 519: Vancouver, B.C. to Seattle at 4:45pm – 9:10pm",
-    "Seattle Transit Blog will share a first look at the Amtrak Airo trains next week, including pictures and videos from a trip on the train. Let us know in the comments if there are any specific features or amenities you would like to learn more about.",
+    "Seattle Transit Blog will share a first look at the Amtrak Airo trains on Tuesday, including pictures and videos from a trip on the train. Until then, check out this Bluesky thread with highlights from the media tour on Saturday.",
     "Also on September 30, Sound Transit will begin service at Pinehurst station. Pinehurst station is the agency’s first Link in-fill station and is located between Northgate and Shoreline South/148th stations. This the second piece of the ST3 measure to be completed (after Downtown Redmond Link) and will be the last Link station to open until Graham Street station in 2031. Pinehurst station is served by the new Metro Route 77 which connects the station with Bitter Lake and Lake City. 1 Line and 2 Line trains will begin stopping at Pinehurst station at 5am on September 30. The very first train to serve Pinehurst is a 2 Line train that departs Wilburton at 4:04am and arrives at Pinehurst at 5:05am.",
     "To celebrate the new station, Sound Transit is hosting an event from 2pm-6pm on Wednesday. The event will include live music, local organizations, sponsors, food, an interactive activity with station artist Romson Bustillo, and the ST Shop merchandise booth."
    ],
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image-35.png?resize=525%2C224&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-kensstarbirdchickeniscomingtocapitolhill",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "The flock thickens: Starbird Chicken is coming to Capitol Hill",
+   "author": "Justin Carder",
+   "date": "2026-09-25",
+   "url": "https://www.capitolhillseattle.com/2026/09/the-flock-thickens-starbird-chicken-is-coming-to-capitol-hill/",
+   "paras": [
+    "$5 A MONTH TO HELP KEEP CHS PAYWALL-FREE Subscribe to CHS to help hire writers and photographers to cover the neighborhood. CHS is a pay what you can community news site with no required sign-in or paywall. To stay that way, we need you. Become a subscriber to help us cover the neighborhood for $5 a month -- or choose your level of support (Image: Starbird Chicken)",
+    "The mystery of new commercial life hatching in the failed 10,000-square-foot Amazon grocery on E Pike has been revealed. The arrival of Starbird Chicken on Capitol Hill will mark new energy for a block that has been darkened for two and a half years.",
+    "It will also be an example of what happens when highly optimized, fully leveraged, and fluidly designed corporate strategies cross lines, overlap, and push all their eggs into the same basket in a neighborhood with finger lickin good demographics and spending habits.",
+    "“Starbird has built something truly special by reimagining what a chicken restaurant can be, from the bold flavors and hospitable, modern restaurant design to the overall guest experience,” Vin Mehta , the Portland-based entrepreneur and franchisee leading a 17 location expansion of the chicken chain into the Pacific Northwest, said in a company press release quoted by industry tracker FastCasual.com . “Together, we’ll combine Starbird’s innovative approach with our team’s operational experience and passion for building lasting connections.”",
+    "CHS reported this summer on signs of new life in the Pike at Belmont space in the AVA Capitol Hill mixed-use redevelopment of the neighborhood’s old Mercedes-Benz dealership where the massive Amazon Go was abruptly shuttered in 2024 as part of what would become a nationwide retreat for the global giant.",
+    "This week, Starbird’s construction team filed new paperwork with details of their plans for a new 3,000-square-foot restaurant to serve the company’s tenders, wings, and sandwiches in a major chunk of the former cashier-less, tech-powered grocery space. An ambitious $620,000 base construction budget is attached.",
+    "The expansion has already been on the burner. A West Seattle Starbird is scheduled for its ribbon cutting on Fauntleroy Way SW on Monday .",
+    "Starbird is a Northern California-born, premium fast-casual restaurant chain founded in 2016 by culinary incubator The Culinary Edge , a company that operates as a gun for hire in revamping menus and operations for large national chains while also establishing its own brands.",
+    "Starbird specializes in “fresh, scratch-made food” and “always antibiotic-free, never frozen” fried chicken including tenders, sandwiches, wings, and “house-made sauces,” positioning itself around “reinventing the fast-food experience” with “feel good crispy chicken.” With an emphasis on “tech-enabled, omnichannel dining” and virtual kitchens alongside brick-and-mortar restaurants, the brand has expanded beyond California through multi-unit franchise partnerships.",
+    "The name also has a familiar ring. Yes, it sounds like Starbucks . And, hey, we’re not sure what the folks at the 1910-era Starbird Apartments around the block on Boylston will think.",
+    "One of the most recent Starbird openings was in Colorado (Image: Starbird Chicken)",
+    "The first Starbird opened in 2016 in Sunnyvale, California, on W El Camino Real a few miles from Apple Park and a shorter drive from the LinkedIn headquarters. The Silicon Valley debut served as the pilot location for the concept, testing their app-based curbside pickup model alongside standard dine-in service. Like most big chains, in-store ordering is heavily automated via digital kiosks and integrated mobile app check-ins.",
+    "Starbird’s traditional real estate footprint favors car-oriented, suburban-style corridors over dense, pedestrian neighborhoods but there a few different formats of stores. In San Francisco, Starbird developed a commercial ghost kitchen hub in SoMa, serving the area through bike and scooter couriers and delivery apps.",
+    "Capitol Hill, circa 2026 and 2027, is up to its ears in chicken joints. And the flock is growing even with the now permanent loss of neighborhood favorite Bok a Bok .",
+    "This month, CHS reported plans from Puget Sound-based Conscious Hospitality Group for a re-start of its 11th Ave restaurant space with a new roasted chicken venture fronted by celebrity influencer chef Matt Broussard . The Seattle Times gushed over the prospects but didn’t report that the plan is a re-heat. The 11th Ave space was originally the flagship location of the company’s scuttled “1,000 location,” sustainable, and tech-optimized chicken sandwich chain concept Mt. Joy.",
+    "Starbird, meanwhile, has pushed past the 20 location mark and is on a skyward trajectory.",
+    "“From day one, we saw something special in Starbird. This innovative concept is in a league all its own,” investor Greg Dollarhyde said in an announcement five years ago as the company raised $12 million in funding. “Starbird continues to beat every expectation.”",
+    "Starbird Capitol Hill is under construction at 600 E Pike. Learn more at starbirdchicken.com ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-orsproposaltoovercomeseattles175mdeficit",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Here are your chances to speak up on the mayor’s proposal to overcome Seattle’s $175M deficit",
+   "author": "CHS Staff",
+   "date": "2026-09-25",
+   "url": "https://www.capitolhillseattle.com/2026/09/here-are-your-chances-to-speak-up-on-the-mayors-proposal-to-overcome-seattles-175m-deficit/",
+   "paras": [
+    "The Seattle City Council has launched its review of Mayor Katie Wilson’s proposed $9.1 billion 2027–2028 budget, scheduling multiple hearings and public comment opportunities over the next two months before adopting a final plan.",
+    "Councilmember Dan Strauss , chair of the Select Budget Committee, emphasized community participation as the council evaluates funding priorities. Residents can weigh in during six regular comment sessions and two dedicated public hearings featuring both remote and in-person testimony.",
+    "CHS reported here on the Wilson proposal which would wipe out an inherited $175 million deficit without tax increases or withdrawals from city reserves. The proposal would cut roughly $50 million annually in General Fund spending by eliminating 128 positions and aligning departmental budgets with historical costs, pairing these cuts with $50 million in shuffled funding — primarily leveraging JumpStart payroll tax revenues to cover core services and homelessness programs — and enabling the city, Wilson says, to project balanced budgets through 2030 without drawing on reserves.",
+    "The council’s announcement invites the public to review the council’s Budget Basic webpage to “learn more about how they can make their voice heard.”"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-lseattlecom202609925itsdollydayinseattle",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "9-2-5 — It’s Dolly Day in Seattle",
+   "author": "Justin Carder",
+   "date": "2026-09-25",
+   "url": "https://www.capitolhillseattle.com/2026/09/9-2-5-its-dolly-day-in-seattle/",
+   "paras": [
+    "The city officially proclaimed September 25th as “Dolly Parton Day” to celebrate the legendary artist and philanthropist’s contributions to music, culture, and childhood literacy following her passing in August.",
+    "City Councilmember Alexis Mercedes Rinck presented the proclamation during a tribute story hour at the Queen Anne Library branch.",
+    "In August , the AIDS Memorial Pathway Plaza above Capitol Hill Station was the gathering place for a vigil following Parton’s death at age 80.",
+    "The September 25th date serves as a nod to Parton’s iconic hit “9 to 5.” Citywide celebrations also feature a silent disco and a screening of 9 to 5 at Denny Park, honoring Parton’s program that has provided nearly 4.5 million free books to Washington children."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -990,77 +1067,6 @@
     "Transit riders and residents will be able to weigh in on the proposed merger at a public hearing at the Everett City Council on October 28, and at the Community Transit board on October 29. Votes would come one week later."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/IMG_8035.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-kensstarbirdchickeniscomingtocapitolhill",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "The flock thickens: Starbird Chicken is coming to Capitol Hill",
-   "author": "Justin Carder",
-   "date": "2026-09-25",
-   "url": "https://www.capitolhillseattle.com/2026/09/the-flock-thickens-starbird-chicken-is-coming-to-capitol-hill/",
-   "paras": [
-    "$5 A MONTH TO HELP KEEP CHS PAYWALL-FREE Subscribe to CHS to help hire writers and photographers to cover the neighborhood. CHS is a pay what you can community news site with no required sign-in or paywall. To stay that way, we need you. Become a subscriber to help us cover the neighborhood for $5 a month -- or choose your level of support (Image: Starbird Chicken)",
-    "The mystery of new commercial life hatching in the failed 10,000-square-foot Amazon grocery on E Pike has been revealed. The arrival of Starbird Chicken on Capitol Hill will mark new energy for a block that has been darkened for two and a half years.",
-    "It will also be an example of what happens when highly optimized, fully leveraged, and fluidly designed corporate strategies cross lines, overlap, and push all their eggs into the same basket in a neighborhood with finger lickin good demographics and spending habits.",
-    "“Starbird has built something truly special by reimagining what a chicken restaurant can be, from the bold flavors and hospitable, modern restaurant design to the overall guest experience,” Vin Mehta , the Portland-based entrepreneur and franchisee leading a 17 location expansion of the chicken chain into the Pacific Northwest, said in a company press release quoted by industry tracker FastCasual.com . “Together, we’ll combine Starbird’s innovative approach with our team’s operational experience and passion for building lasting connections.”",
-    "CHS reported this summer on signs of new life in the Pike at Belmont space in the AVA Capitol Hill mixed-use redevelopment of the neighborhood’s old Mercedes-Benz dealership where the massive Amazon Go was abruptly shuttered in 2024 as part of what would become a nationwide retreat for the global giant.",
-    "This week, Starbird’s construction team filed new paperwork with details of their plans for a new 3,000-square-foot restaurant to serve the company’s tenders, wings, and sandwiches in a major chunk of the former cashier-less, tech-powered grocery space. An ambitious $620,000 base construction budget is attached.",
-    "The expansion has already been on the burner. A West Seattle Starbird is scheduled for its ribbon cutting on Fauntleroy Way SW on Monday .",
-    "Starbird is a Northern California-born, premium fast-casual restaurant chain founded in 2016 by culinary incubator The Culinary Edge , a company that operates as a gun for hire in revamping menus and operations for large national chains while also establishing its own brands.",
-    "Starbird specializes in “fresh, scratch-made food” and “always antibiotic-free, never frozen” fried chicken including tenders, sandwiches, wings, and “house-made sauces,” positioning itself around “reinventing the fast-food experience” with “feel good crispy chicken.” With an emphasis on “tech-enabled, omnichannel dining” and virtual kitchens alongside brick-and-mortar restaurants, the brand has expanded beyond California through multi-unit franchise partnerships.",
-    "The name also has a familiar ring. Yes, it sounds like Starbucks . And, hey, we’re not sure what the folks at the 1910-era Starbird Apartments around the block on Boylston will think.",
-    "One of the most recent Starbird openings was in Colorado (Image: Starbird Chicken)",
-    "The first Starbird opened in 2016 in Sunnyvale, California, on W El Camino Real a few miles from Apple Park and a shorter drive from the LinkedIn headquarters. The Silicon Valley debut served as the pilot location for the concept, testing their app-based curbside pickup model alongside standard dine-in service. Like most big chains, in-store ordering is heavily automated via digital kiosks and integrated mobile app check-ins.",
-    "Starbird’s traditional real estate footprint favors car-oriented, suburban-style corridors over dense, pedestrian neighborhoods but there a few different formats of stores. In San Francisco, Starbird developed a commercial ghost kitchen hub in SoMa, serving the area through bike and scooter couriers and delivery apps.",
-    "Capitol Hill, circa 2026 and 2027, is up to its ears in chicken joints. And the flock is growing even with the now permanent loss of neighborhood favorite Bok a Bok .",
-    "This month, CHS reported plans from Puget Sound-based Conscious Hospitality Group for a re-start of its 11th Ave restaurant space with a new roasted chicken venture fronted by celebrity influencer chef Matt Broussard . The Seattle Times gushed over the prospects but didn’t report that the plan is a re-heat. The 11th Ave space was originally the flagship location of the company’s scuttled “1,000 location,” sustainable, and tech-optimized chicken sandwich chain concept Mt. Joy.",
-    "Starbird, meanwhile, has pushed past the 20 location mark and is on a skyward trajectory.",
-    "“From day one, we saw something special in Starbird. This innovative concept is in a league all its own,” investor Greg Dollarhyde said in an announcement five years ago as the company raised $12 million in funding. “Starbird continues to beat every expectation.”",
-    "Starbird Capitol Hill is under construction at 600 E Pike. Learn more at starbirdchicken.com ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-orsproposaltoovercomeseattles175mdeficit",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Here are your chances to speak up on the mayor’s proposal to overcome Seattle’s $175M deficit",
-   "author": "CHS Staff",
-   "date": "2026-09-25",
-   "url": "https://www.capitolhillseattle.com/2026/09/here-are-your-chances-to-speak-up-on-the-mayors-proposal-to-overcome-seattles-175m-deficit/",
-   "paras": [
-    "The Seattle City Council has launched its review of Mayor Katie Wilson’s proposed $9.1 billion 2027–2028 budget, scheduling multiple hearings and public comment opportunities over the next two months before adopting a final plan.",
-    "Councilmember Dan Strauss , chair of the Select Budget Committee, emphasized community participation as the council evaluates funding priorities. Residents can weigh in during six regular comment sessions and two dedicated public hearings featuring both remote and in-person testimony.",
-    "CHS reported here on the Wilson proposal which would wipe out an inherited $175 million deficit without tax increases or withdrawals from city reserves. The proposal would cut roughly $50 million annually in General Fund spending by eliminating 128 positions and aligning departmental budgets with historical costs, pairing these cuts with $50 million in shuffled funding — primarily leveraging JumpStart payroll tax revenues to cover core services and homelessness programs — and enabling the city, Wilson says, to project balanced budgets through 2030 without drawing on reserves.",
-    "The council’s announcement invites the public to review the council’s Budget Basic webpage to “learn more about how they can make their voice heard.”"
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-lseattlecom202609925itsdollydayinseattle",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "9-2-5 — It’s Dolly Day in Seattle",
-   "author": "Justin Carder",
-   "date": "2026-09-25",
-   "url": "https://www.capitolhillseattle.com/2026/09/9-2-5-its-dolly-day-in-seattle/",
-   "paras": [
-    "The city officially proclaimed September 25th as “Dolly Parton Day” to celebrate the legendary artist and philanthropist’s contributions to music, culture, and childhood literacy following her passing in August.",
-    "City Councilmember Alexis Mercedes Rinck presented the proclamation during a tribute story hour at the Queen Anne Library branch.",
-    "In August , the AIDS Memorial Pathway Plaza above Capitol Hill Station was the gathering place for a vigil following Parton’s death at age 80.",
-    "The September 25th date serves as a nod to Parton’s iconic hit “9 to 5.” Citywide celebrations also feature a silent disco and a screening of 9 to 5 at Denny Park, honoring Parton’s program that has provided nearly 4.5 million free books to Washington children."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1444,6 +1450,74 @@
    "annos": null
   },
   {
+   "id": "f-propublica-W1kX0NlUDlfYk1iMkhWTWZGWjI1clFUMnI1dwoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays",
+   "author": "",
+   "date": "2026-09-25",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeWpKdjlvanAyR20zcWFfMFhpZVVsZXB4ZEhoVXhmd1dpMEUyMVBhVFBRNlBpQXV3anREZHI5a1FvUS1CZkZoMDZuV1o0dzg0bWZqRHQ4cGZCcmJKYUx4RGx2Tm1OVHRfa3JlY0RDVVpKUWdNSU5RcW1kX0NlUDlfYk1iMkhWTWZGWjI1clFUMnI1dw?oc=5",
+   "paras": [
+    "Colorado Marijuana Company Voluntarily Recalls Dozens of Contaminated Products Amid State Regulatory Delays ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-mitforadvocatecommunitygroupsstreetparty",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Amid ‘SDOT KILLS SMALL BUSINESS’ signs, city denies permit for advocate community group’s street party",
+   "author": "Justin Carder",
+   "date": "2026-09-24",
+   "url": "https://www.capitolhillseattle.com/2026/09/amid-sdot-kills-small-business-signs-city-denies-permit-for-advocate-community-groups-street-party/",
+   "paras": [
+    "Pictures of the rogue signs that appeared earlier this month on E Pike were sent to CHS by an area business — “This has been a nightmare,” they said of the city’s sewer work at 12th and Pike",
+    "A new group planning a business-friendly street party to try to give the neighborhood a boost around a much longer than expected street and utilities project has had its event permit denied by the Seattle Department of Transportation .",
+    "“This permit application was not approved because there will still be active construction happening at this intersection on proposed event date,” a spokesperson tells CHS. “Seattle Public Utilities is replacing sewer infrastructure at 12th Ave and E Pike St. The intersection is closed for public safety.”",
+    "CHS shared this Capitol Hill Community Post inviting people to join the Thursday night event from the group Destination Pike , a new community group that says it spun off from Central Seattle Streets for All in partnership with the Capitol Hill Community Council .",
+    "The group said it was planning the popsicle party on Pike between 11th and 12th with music, tables and discounts for takeout at local restaurants.",
+    "But the city nixed the plan, citing the nearby construction that has shut down 12th Ave and knotted driving access to the area for weeks. CHS reported here in August on the city’s approach to sewer work that tips things into emergency territory in a neighborhood with a busy history of development like Capitol Hill. The construction timeline on the project had to be doubled to six weeks of closures after excavation crews ran into unmapped wiring, old concrete, and tangled utility lines.",
+    "The city tells us SPU’s contractor is working to finish up major construction and reopen the intersection as soon as the end of this week. “However, construction will continue through October as crews return to build accessible curb ramps at the corners of this intersection,” a spokesperson said.",
+    "Area shops, cafes, and bars have said the longer than expected project has been a drain on business. Two weeks ago, guerilla “SDOT KILLS SMALL BUSINESS” signs appeared in the neighborhood but were quickly cleared away over the weekend.",
+    "Destination Pike, meanwhile, is hoping to become a neighborhood presence and advocate as the city shapes a new “Low Pollution Neighborhood” initiative here that could remake streets as part of a $9.2 million effort across Capitol Hill, Lake City, and South Park/Georgetown."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/unnamed-7.jpg?resize=264%2C340&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-gtocapitolhillwithanewshopandcafeonepike",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Charlie’s Queer Books is expanding to Capitol Hill with a new shop and cafe on E Pike",
+   "author": "Justin Carder",
+   "date": "2026-09-24",
+   "url": "https://www.capitolhillseattle.com/2026/09/charlies-queer-books-is-expanding-to-capitol-hill-with-a-new-shop-and-cafe-on-e-pike/",
+   "paras": [
+    "A recent Charlie’s author event (Image: @grandmajoysroadtrip )",
+    "A neighborhood tragedy that left a valued Pike/Pine business space critically damaged is giving way to a happy new story.",
+    "Charlie’s Queer Books will open a second location on Capitol Hill this November, expanding to E Pike to join a community of businesses including the Wildrose and Elliott Bay Book Company , The Stranger was first to report .",
+    "The new Capitol Hill Charlie’s is under construction just west of 12th and Pike in the building where the Post Options business center and mailbox service was damaged in a destructive 2025 electrical fire .",
+    "Just over a year later, work on the new Charlie’s Queer Books is creating a new space, fully ADA accessible and roughly double the size of the Fremont original. Plans include a 50-seat event space, a coffee shop, and a wine bar, with robust plans for open mics, silent book clubs, and author readings.",
+    "Owners Charlie Hunts and Madeline Burchard told The Stranger adding a second store addresses shelf and event space limits at the flagship while expanding access to LGBTQ+ literature during a national surge in book bans and restrictive legislation. The couple noted that serving as a queer community anchor on Capitol Hill brings real responsibility, particularly for young trans patrons looking for a welcoming third space, while crediting Stephen Romano at 12th & Pike St. Associates with offering manageable lease terms.",
+    "Hunts started Charlie’s in 2023 as a mobile pop-up, hauling curated queer titles in a “disco”-tiled cart across Seattle Pride events. Later that year, the operation established its brick-and-mortar storefront on N 43rd N 36th in Fremont.",
+    "Inside the original Charlie’s (Image: Charlie’s Queer Books)",
+    "Charlie’s Queer Books sells books by LGBTQ+ authors and featuring LGBTQ+ themes and characters. For Capitol Hill longtimers, its shelves will bring reminders of the special sections at long gone at Bailey/Coy Books on Broadway or the Beyond the Closet Bookstore that also made E Pike home.",
+    "As for Post Options, the mailbox and small business center that served Capitol Hill restaurants, bars, shops, salons, tattoo parlors, etc., and an amazingly diverse roster of B corps, C corps, S corps, LLCs, and more for 13 years, its story also had an eventually satisfying if not fully happy resolution. CHS talked with owners Veti Cmoesongrsi and Nongnuch Paungpornsri agonizing about the hard but ultimately best decision to close permanently after the fire, buoyed with financial support from customers who contributed to a community fundraiser.",
+    "Now, the old Post Options space is also moving on to a satisfying new chapter.",
+    "Charlie’s Queer Books will open later this year at 1122 E Pike. Learn more at charliesqueerbooks.com ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-billionquestionsoundtransithasneverasked",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1499,90 +1573,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-adoesntwantyoutoknowabouti645i001andi638",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Op-Ed: What MAGA Doesn’t Want You to Know About I-645, I-001, and I-638",
-   "author": "Joe Mizrahi",
-   "date": "2026-09-24",
-   "url": "https://www.theurbanist.org/op-ed-what-maga-doesnt-want-you-to-know-about-i-645-i-001-and-i-638/",
-   "paras": [
-    "As a father, Seattle School Board member, and long-time advocate for working families, I am furious that a hedge fund multi-millionaire, Brian Heywood, is trying to force a national MAGA agenda on Washington’s schools. His three initiatives on our ballots will negatively impact parents, teachers, school counselors, school sports, and of course children from pre-school through college.",
-    "The Urbanist's Fall Member Drive is in full swing! Support our work, read ad-free, and help us hit our goal for the member drive!",
-    "Many of you know Heywood has given millions to right-wing causes at the state and national levels, including to Donald Trump. His sidekicks include trucking heir and venture capitalist Steve Gordon, nonagenarian Lawrence “Pat” Hughes who writes checks from his seven-bedroom, $22 million palace in Medina, and now-Coloradan Phil Schlaepfer who famously gave $1 million to Trump the day after the then ex-president was convicted of 34 felony counts of falsifying business records.",
-    "Together, through their PAC, Let’s Go Washington, they are using the MAGA playbook to distract voters from the real problems caused by MAGA politicians and CEOs, like exorbitant groceries, escalating rents, and disappearing health care.",
-    "They are spending millions to mislead voters and hide the true impacts of their initiatives. Here’s what they don’t want you to know:",
-    "IP26-645: Heywood tried to hide the true impacts of this initiative from voters, but lost . He wanted to cover up that I-645’s tax cut for himself and his buddies would result in taking away $13 billion in funding for education and child care, and eliminate free school meals for many K-12 students. Losing the revenue from the millionaires tax would also cause healthcare costs to go up (even more than they already are), increase taxes on working families and small businesses, and take away tax rebates for working families.",
-    "Heywood is pretending to care about working people. But he’s forgotten that most of us pay 3 to 4 times greater state tax rates than he and his buddies do, and I-645 will make things even worse by increasing costs for everyone.",
-    "IL26-001: Heywood doesn’t want you to know that he copied much of his initiative from Louisiana. This sloppy mess, under the guise of “parents rights,” would actually weaken parents’ rights and remove long-standing protections child abuse victims. The Washington State PTA, the state’s largest parents organization, released a lengthy statement opposing Initiative 001, and they are not alone. Law enforcement officers like former Snohomish Sheriff John Lovick have weighed in to oppose I-001 because it would “remove parents’ rights to be immediately notified if their child is the victim or target of sexual abuse, sexual misconduct, or assault” at school.",
-    "Here’s the true MAGA motivation behind I-001: It forces schools to knowingly “out” vulnerable LGBTQ+ kids to abusive families, putting kids who already face adversity at greater risk of beatings and homelessness. It’s part of the right-wing agenda to take over our schools and drive LGBTQ+ kids back into hiding, where they face higher rates of self harm and suicide.",
-    "IL26-638 : Commonly known as a measure to ban an estimated 5 to 10 transgender girls, out of 1.2 million students, from participating in school sports, I-638 is the most extreme MAGA initiative of its kind in the U.S. The WA State Nurses Association, League of Women Voters, WA State PTA, Planned Parenthood, teachers, parents and more than 100 family doctors and medical care providers are among nearly 1,000 groups, cities, and leaders opposing this initiative.",
-    "Here’s the secret Heywood tries to deny: I-638 requires all girls ( but not boys) to be sex inspected to play sports. Requiring sex inspections of elementary, middle, and high school girls - including invasive genital exams or costly genetic or hormone testing - not only interferes with parents, doctors and their patients, it will drive girls away from sports. As a parent of three student athletes, I am horrified at the invasive reality my daughters will face next school year if this initiative passes.",
-    "Targeting female student athletics may be the whole point, since Heywood says Title IX is “brute force legislation” that “destroyed or decimated some boys sports,” a position that overlaps with the conservative Heritage Foundation’s goal of repealing Title IX.",
-    "If you need another reason to vote No on these initiatives, how about Heywood’s total disregard for political spending disclosure laws and ethical standards in campaigns. Let's Go Washington is under formal investigation by the PDC for failing to report more than $1 million in political promotion and advertising for I-638 and I-001.",
-    "The organization was also caught lying in its voter guide statement, falsely implying support from the American Academy of Pediatrics for I-638 by misrepresenting the associations’ guidelines. Conservative Blogger Benjamin Ryan revealed that the Washington Chapter of the AAP asked Let’s Go Washington to remove their name saying “the statement does not accurately portray AAP guidance regarding pre-sports participation exams.” Heywood refused .",
-    "I’m proud the Seattle School Board will vote on resolutions to oppose these harmful initiatives. We’re in good company, joining Tacoma City Council, Shoreline City Council, Mountlake Terrace City Council, MomsRising, the Washington State Labor Council and dozens of other organizations representing parents, children and workers in saying no to the MAGA millionaire agenda in Washington state.",
-    "Washington state is known for many of our progressive policies. We have one of the highest minimum wages in the country (still too low for too many to afford housing, groceries, gas and healthcare), robust protections for abortion and LGBTQ+ rights, and tax credits for working families. We were one of the first states to legalize gay marriage, and have strong protections for voting rights and equitable representation, to name just a few.",
-    "No matter what your political party affiliation is, most of us want our state to be a safe haven for people who value and respect each other, no matter where we are from, our race, religious beliefs, sexuality or gender identity. Voting no on these initiatives will powerfully refute the MAGA agenda’s attack on Washington’s way of life.",
-    "Joe Mizrahi is former Secretary-Treasurer at UFCW 3000, and currently represents District 4 as an at-large member of the Seattle School Board and lives with his wife and three children in Seattle’s Fremont neighborhood."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Garfield-High-playfields-with-ballot-dropbox---Trumm-PXL_20250325.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-mitforadvocatecommunitygroupsstreetparty",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Amid ‘SDOT KILLS SMALL BUSINESS’ signs, city denies permit for advocate community group’s street party",
-   "author": "Justin Carder",
-   "date": "2026-09-24",
-   "url": "https://www.capitolhillseattle.com/2026/09/amid-sdot-kills-small-business-signs-city-denies-permit-for-advocate-community-groups-street-party/",
-   "paras": [
-    "Pictures of the rogue signs that appeared earlier this month on E Pike were sent to CHS by an area business — “This has been a nightmare,” they said of the city’s sewer work at 12th and Pike",
-    "A new group planning a business-friendly street party to try to give the neighborhood a boost around a much longer than expected street and utilities project has had its event permit denied by the Seattle Department of Transportation .",
-    "“This permit application was not approved because there will still be active construction happening at this intersection on proposed event date,” a spokesperson tells CHS. “Seattle Public Utilities is replacing sewer infrastructure at 12th Ave and E Pike St. The intersection is closed for public safety.”",
-    "CHS shared this Capitol Hill Community Post inviting people to join the Thursday night event from the group Destination Pike , a new community group that says it spun off from Central Seattle Streets for All in partnership with the Capitol Hill Community Council .",
-    "The group said it was planning the popsicle party on Pike between 11th and 12th with music, tables and discounts for takeout at local restaurants.",
-    "But the city nixed the plan, citing the nearby construction that has shut down 12th Ave and knotted driving access to the area for weeks. CHS reported here in August on the city’s approach to sewer work that tips things into emergency territory in a neighborhood with a busy history of development like Capitol Hill. The construction timeline on the project had to be doubled to six weeks of closures after excavation crews ran into unmapped wiring, old concrete, and tangled utility lines.",
-    "The city tells us SPU’s contractor is working to finish up major construction and reopen the intersection as soon as the end of this week. “However, construction will continue through October as crews return to build accessible curb ramps at the corners of this intersection,” a spokesperson said.",
-    "Area shops, cafes, and bars have said the longer than expected project has been a drain on business. Two weeks ago, guerilla “SDOT KILLS SMALL BUSINESS” signs appeared in the neighborhood but were quickly cleared away over the weekend.",
-    "Destination Pike, meanwhile, is hoping to become a neighborhood presence and advocate as the city shapes a new “Low Pollution Neighborhood” initiative here that could remake streets as part of a $9.2 million effort across Capitol Hill, Lake City, and South Park/Georgetown."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/09/unnamed-7.jpg?resize=264%2C340&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-gtocapitolhillwithanewshopandcafeonepike",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Charlie’s Queer Books is expanding to Capitol Hill with a new shop and cafe on E Pike",
-   "author": "Justin Carder",
-   "date": "2026-09-24",
-   "url": "https://www.capitolhillseattle.com/2026/09/charlies-queer-books-is-expanding-to-capitol-hill-with-a-new-shop-and-cafe-on-e-pike/",
-   "paras": [
-    "A recent Charlie’s author event (Image: @grandmajoysroadtrip )",
-    "A neighborhood tragedy that left a valued Pike/Pine business space critically damaged is giving way to a happy new story.",
-    "Charlie’s Queer Books will open a second location on Capitol Hill this November, expanding to E Pike to join a community of businesses including the Wildrose and Elliott Bay Book Company , The Stranger was first to report .",
-    "The new Capitol Hill Charlie’s is under construction just west of 12th and Pike in the building where the Post Options business center and mailbox service was damaged in a destructive 2025 electrical fire .",
-    "Just over a year later, work on the new Charlie’s Queer Books is creating a new space, fully ADA accessible and roughly double the size of the Fremont original. Plans include a 50-seat event space, a coffee shop, and a wine bar, with robust plans for open mics, silent book clubs, and author readings.",
-    "Owners Charlie Hunts and Madeline Burchard told The Stranger adding a second store addresses shelf and event space limits at the flagship while expanding access to LGBTQ+ literature during a national surge in book bans and restrictive legislation. The couple noted that serving as a queer community anchor on Capitol Hill brings real responsibility, particularly for young trans patrons looking for a welcoming third space, while crediting Stephen Romano at 12th & Pike St. Associates with offering manageable lease terms.",
-    "Hunts started Charlie’s in 2023 as a mobile pop-up, hauling curated queer titles in a “disco”-tiled cart across Seattle Pride events. Later that year, the operation established its brick-and-mortar storefront on N 43rd N 36th in Fremont.",
-    "Inside the original Charlie’s (Image: Charlie’s Queer Books)",
-    "Charlie’s Queer Books sells books by LGBTQ+ authors and featuring LGBTQ+ themes and characters. For Capitol Hill longtimers, its shelves will bring reminders of the special sections at long gone at Bailey/Coy Books on Broadway or the Beyond the Closet Bookstore that also made E Pike home.",
-    "As for Post Options, the mailbox and small business center that served Capitol Hill restaurants, bars, shops, salons, tattoo parlors, etc., and an amazingly diverse roster of B corps, C corps, S corps, LLCs, and more for 13 years, its story also had an eventually satisfying if not fully happy resolution. CHS talked with owners Veti Cmoesongrsi and Nongnuch Paungpornsri agonizing about the hard but ultimately best decision to close permanently after the fire, buoyed with financial support from customers who contributed to a community fundraiser.",
-    "Now, the old Post Options space is also moving on to a satisfying new chapter.",
-    "Charlie’s Queer Books will open later this year at 1122 E Pike. Learn more at charliesqueerbooks.com ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stranger-ercomianonymousianonymousiwasjustlikeyou",
    "srcKey": "stranger",
    "cat": "arts",
@@ -1629,6 +1619,23 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPamRJdWhmZklIN1h2cGlHSmxlcXNmVkdhb1lMTXIyb3piRFhKaEtqTUtOUUNvYzBFZDdpOWJaZ2JaS0hRZFd4c2x3NGtHVUpuZDl3TnpUSnozY3NPaFVTa01EQnppOXJ4amNNY0Z2SGJJX3Jzdkk5Z3pjemRuT1ZkUXRXRU13eUtQeGk0NW5jblNWNmFyNy1Wc0ZsOUxESzlIMEFieHJiTEs3LXdBTG53OFZDY0tqQzJ1YVpYdTUxUHJjdmVsdS1RUXhSZzc0ZFRLSFM3cw?oc=5",
    "paras": [
     "What should be done about Seattle's Aurora Ave? District 5 council candidates debate public safety KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-NQVlJSMGY1cVE2WlpYd2M0TUYyVEhKWUk0a0Eoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Washington's got game: Sec. of State Hobbs rolls the dice for tabletop overseas",
+   "author": "",
+   "date": "2026-09-24",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHlZNmwwOG1ZR3BjVU5kd1IxVk9tRkU1MlotdXdXd1lHNmkzd21oeGxvLTNjMGp1SEtidzRLd3VSNVRpVlNCVjhIdFJqLWs5UTRydXlmT0M5aWMxZ1JlclA5NVZ2MXhiaEJrWHhDd0FxclRFUlRFNGg4QThVY3JrRHlHcGxZamxnRXBJZU9veThSd3lUNHpGVVB3NkpzN3NQVlJSMGY1cVE2WlpYd2M0TUYyVEhKWUk0a0E?oc=5",
+   "paras": [
+    "Washington's got game: Sec. of State Hobbs rolls the dice for tabletop overseas KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1820,25 +1827,6 @@
     "Seattle Creates ‘Do Not Solicit’ List to Curb Predatory Real Estate Outreach (South Seattle Emerald). Wilson slows homelessness plan including shelter goals in roll-out of 2027 budget proposal (Capitol Hill Seattle Blog). Miscellaneous: In 2025, there were many fewer reported crimes in Seattle’s central business district, but increases in surrounding neighborhoods (The Seattle Times, $).",
     "Note: Seattle Times’ analysis does not consider per-capita rates. Seattle Youth Mentorship Program brings young people’s voices to the forefront on transportation equity issues (SDOT Blog). Op-Ed: Building Toward a Greener, Housing-Abundant Seattle (The Urbanist).",
     "Greater Seattle: Third Places (PubliCola) This is an Open Thread."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-0260915linkeveningclosuretuesdaythursday",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Link Evening Closure Tuesday-Thursday",
-   "author": "Mike Orr",
-   "date": "2026-09-15",
-   "url": "https://seattletransitblog.com/2026/09/15/link-evening-closure-tuesday-thursday/",
-   "paras": [
-    "The downtown tunnel will close early at 11 pm September 15-17 for planned maintenance. This is only in the evenings and won’t affect daytime service. The last Link trains through the tunnel each direction will be:",
-    "1 Line shuttle buses will run every 10-15 minutes between Capitol Hill and SODO stations. 2 Line shuttle buses will run every 10-15 minutes between Capitol Hill and Judkins Park stations. An earlier announcement said the shuttle buses would start earlier at 9pm, but Monday’s announcement doesn’t mention this,. so they may or may not start that early.",
-    "Check Sound Transit’s service alerts for the latest updates. A multilingual translation like is available at 800-823-9230 for passengers with limited English proficiency.",
-    "The reason for this is to extend Link’s after-hours maintenance period this month to make the system more resilient. I’m eager for Link to get more reliable someday so I’m glad for this maintenance."
    ],
    "img": "",
    "fetched": true,
