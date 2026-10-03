@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-10-02T20:15:18.643Z",
- "builtFor": "2026-10-02",
- "builtHour": "13",
- "count": 85,
+ "builtAt": "2026-10-03T18:53:47.200Z",
+ "builtFor": "2026-10-03",
+ "builtHour": "11",
+ "count": 84,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 3,
-   "via": "google-news"
+   "count": 2,
+   "via": "feed"
   },
   {
    "source": "geekwire",
@@ -86,6 +86,662 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-iscobigtechpoliticalbacklashandtheaiboom",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Seattle and San Francisco: Big tech, political backlash and the AI boom",
+   "author": "Todd Bishop",
+   "date": "2026-10-03",
+   "url": "https://www.geekwire.com/2026/seattle-and-san-francisco-big-tech-political-backlash-and-the-ai-boom/",
+   "paras": [
+    "Tech remade Seattle and San Francisco over the past three decades, bringing jobs and wealth along with soaring housing costs and a political backlash. Now the AI boom is hitting both cities, before either has resolved the tensions that have repeatedly divided their communities.",
+    "That’s the subject of this week’s GeekWire Podcast, a live joint taping with the Blue City Blues podcast at the National Nordic Museum in Seattle. GeekWire co-founder John Cook joins historian Margaret O’Mara, author of “ The Code ,” and San Francisco journalist Jonathan Weber, author of “ City on the Edge ,” with Blue City Blues hosts David Hyde and Sandeep Kaushik.",
+    "Here are some of the key takeaways from the conversation.",
+    "The tech industry’s conflicts in Seattle and San Francisco began when the industry moved out of the suburbs and into the middle of both cities.",
+    "Silicon Valley grew up 30 to 40 miles south of San Francisco, and Microsoft built a suburban campus in Redmond that O’Mara called “its own kind of bubble far away from the city.”",
+    "When Weber arrived in San Francisco in 1990 to cover Silicon Valley for the Los Angeles Times, he said, “there was essentially no tech in the city at all.” That changed with the dot-com boom, which brought the first backlash in San Francisco’s Mission District in the late 1990s.",
+    "In Seattle, a similar shift happened with Amazon’s move to South Lake Union, starting in 2010. John said Amazon was “most perfectly positioned” at its earlier headquarters on Beacon Hill, southeast of downtown Seattle, “completely isolated from the rest of the city.”",
+    "“When things really shifted for Amazon is when they decided to plant themselves in the middle of the city,” John said. “Then things accelerate, and then these problems start to come in, and Amazon starts to get blamed.”",
+    "The tech industry grew up in an era of low taxes and light regulation, and that’s baked into its business model.",
+    "O’Mara pointed to 1978, when California voters passed Proposition 13, which capped property taxes and “essentially starved localities of revenue,” she said. Personal computers and video games were taking off in that same era. “Silicon Valley’s kind of grown up in that world,” she said.",
+    "In Seattle, John said, Amazon’s view was that it was doing enough by bringing jobs to the city, while the city’s progressive leaders wanted more as prices rose. “Those two philosophies just collided in Seattle in real time,” he said.",
+    "Cities have limited leverage, Weber said. “A company can move two miles and avoid whatever taxes the city wants to impose.”",
+    "Seattle’s tech and business leaders, unhappy with the city’s political leadership, are organizing to fill the gap themselves.",
+    "Asked whether tech leaders think they’ve been getting good leadership from Seattle’s mayors, John said, “Short answer: No.” Businesses feel they’re paying a growing list of new taxes, he said, without seeing results on basics like potholes and clean streets.",
+    "In recent months, business figures including Microsoft’s Brad Smith, former Gov. Chris Gregoire and Joe Nguyen of the Seattle Metropolitan Chamber of Commerce have started forming coalitions and pooling their resources. “They’re going on offense,” John said. “They feel there’s a vacuum and a gap here based on this lack of political leadership.”",
+    "John said one of a mayor’s big jobs is to be “the chief cheerleader of the region and the city,” and Seattle’s recent mayors haven’t done it.",
+    "Weber said San Francisco Mayor Daniel Lurie has made that role a big part of his success: “Even though he’s a billionaire, he comes across as kind of a regular San Francisco guy.”",
+    "“That’s kind of a regular San Francisco guy these days,” O’Mara quipped.",
+    "San Francisco is the center of the AI boom, but Seattle and the Bay Area have always depended on each other more than they’ve competed.",
+    "Weber called San Francisco the undisputed capital of AI, as the home of OpenAI and Anthropic. The boom has brought so much wealth to the city, he said, that “there’s a mansion shortage.”",
+    "John said the gap between the two regions in venture funding for AI is “an astronomical difference.” But OpenAI and Anthropic have both opened engineering centers in the Seattle area, he said, hiring people who don’t want to leave.",
+    "Microsoft and Amazon both raised early money from Bay Area venture capitalists, O’Mara said.",
+    "John cited the longtime advice for Seattle founders: “Start your company and build your company in Seattle, raise your money in the Bay Area.” But Seattle has always run second to the Bay Area, John said, and that’s OK. “Who cares?” he said. “They are their own thing. We’re our own thing.”",
+    "The Gilded Age offers a precedent for putting guardrails on AI.",
+    "O’Mara compared the moment to the era of Carnegie and Rockefeller, when fast-growing industries overwhelmed a small U.S. government, and the regulation that followed still left room to make a lot of money.",
+    "Overemphasizing the novelty of AI, she said, “becomes a very convenient excuse not to regulate it.”",
+    "Weber said the AI debate is hard to read because most of the people in it are “talking their book,” with a business interest in the positions they take. The issue is arising, he said, at a time when “we essentially don’t have any national political leadership that’s able to deal with it.”",
+    "“So many things are indeed new,” O’Mara said, “but it doesn’t mean that nothing can be done.”",
+    "Both cities need to protect their quality of place, and tech itself can undermine it.",
+    "O’Mara said building a tech hub comes down to three things: capital, institutions such as research universities, and quality of place. Asked what Seattle and San Francisco should do differently over the next decade, she picked the third.",
+    "“This is not just making things nice for Amazon engineers getting paid $300,000 a year,” O’Mara said. “It is making the city safe, vital and fun.”",
+    "Weber said tech threatens that sense of place, because people who can shop, meet and find entertainment online don’t need the city in the same way. In San Francisco’s traditional nightlife districts, he said, there’s little going on after 9 p.m., while the city’s caterers and party planners are busy. “A lot of social life has moved indoors into private spaces,” he said.",
+    "To which John joked, “I just want to enjoy San Francisco in the metaverse.”",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/P1724519-1260x841.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-pedfillinthespringboulevardgapwithatrail",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Fill in the Spring Boulevard Gap with a Trail",
+   "author": "Eastside Urbanism",
+   "date": "2026-10-03",
+   "url": "https://www.theurbanist.org/op-ed-fill-in-the-spring-boulevard-gap-with-a-trail/",
+   "paras": [
+    "Do arterial roads belong in city parks? That is one of the key questions the Bellevue City Council will need to consider during its October 6 budget deliberations on transportation projects. The staff has presented an option to give full funding (for the first time) of $74.8 million to the one-third-mile, two-lane Spring Boulevard “gap” with a new 0.1% sales tax . But this \"Zone 3\" plan is colliding with another emerging project on the same land: the BelRed Neighborhood Park .",
+    "We believe roads like that do not belong in a park. The City should instead plan a pedestrian/bicycle-only trail. But before we make that case, let’s step back to understand the historical precedents and the reasons the City wants to build the road.",
+    "Bellevue, the self-described “City in a Park,” has many beautiful parks, such as Bannerwood, Crossroads, Downtown, Highland, Lake Hills, Lakemont, Mercer Slough, Meydenbauer, Robinswood, Surrey Downs, Weowna, and Wilburton Hill. The fact that none of these parks have arterial roads going through them shows Bellevue residents have been prioritizing parks over cars for as long as the city has existed.",
+    "Wilburton Hill Park presents a particularly enticing cut-through opportunity to extend 124th Ave south of Main St to the Lake Hills Connector. The City considered this project many years ago, but it was so forcefully rejected by residents that the policy to not do it is now cemented as S-WI-15 in the Wilburton subarea plan .",
+    "Downtown Park is another interesting case to examine. Before building that park in the mid 1980s, the City removed a large section of 102nd Avenue, which had bisected the site for decades. As a video from the time makes clear, the City wanted to create a big, green meadow that would last forever, and it would have been unthinkable to compromise that vision for a few seconds of driver convenience.",
+    "Downtown Bellevue of the 1980’s, like BelRed today , was a mostly commercial district just beginning its journey to the mixed-use, high-rise urban center it is now. The successful Downtown Park strategy of prioritizing urban green space provides a model worthy of replication in BelRed.",
+    "So if Bellevue has never allowed arterials in parks in the past, then why is it planning to do so now? The City laid out the purpose of Spring Boulevard's Zone 3 in an application for a federal grant in 2024. According to the City, the project would:",
+    "We dispute the 2-3 minute reduction for drivers. Google Maps estimates the total driving time for the existing route along BelRed Road at just two minutes , so the reduction in driving time would be even less. Also, cars on the new route would often need to yield at crosswalks in the busy park, further eroding any small improvement in driving times.",
+    "Apart from that exaggerated driving time reduction, all of the other justifications for the project would also apply to a trail. In fact, if the City wants to reduce greenhouse gas emissions, a trail would be better than a road because it would be more effective at encouraging travel by bicycle without creating the infamous induced traffic demand associated with new roads. And if the City wants to attract investment, a park without an arterial would be more appealing to residents, and therefore more attractive for housing developers and employers.",
+    "The Spring Boulevard plan was initially presented to the City Council in 2011. At that time, there were plans for another large park in BelRed . It was tentatively called Northup Meadows, and it would have been on the site of what instead became Sound Transit’s train base . Since the plan for that park fell apart, the other BelRed park (in Spring Boulevard’s path) has gained a new degree of importance as the only park in the rapidly-growing area. It is only appropriate to re-evaluate the need for Spring Boulevard (Zone 3) in light of the significantly changed conditions.",
+    "To put our case simply: BelRed Park is a wonderful idea and letting drivers cut through would wreck it.",
+    "Parents visiting the park would need to constantly worry about safety as distracted drivers speed by. Their kids couldn’t roam freely and play. Picnicking families would have to put up with constant road noise and backfiring car exhausts. Green grass would cede to hot asphalt. Even with a crosswalk or two, people would try to cross the road everywhere, a recipe for pedestrian injuries. Being close to light rail stations could make BelRed Park one of the best outdoor event spaces in the city, but nobody wants a bunch of loud cars cutting through their event.",
+    "Now let’s talk about money. Spring Boulevard's Zone 3 project would cost about $75 million . Last year, Bellevue staff estimated a trail cost at $18-20 million ( on page 12 of these minutes ). In other words, about 75% of the project budget would be directed exclusively at the goal of trying to save drivers a few seconds of travel time.",
+    "With a trail, all of the City’s other goals could be achieved at 25% the cost. (Since most of that cost is for land acquisition, and the land owner is Sound Transit , who has been supportive of parks and pedestrian infrastructure around their stations, we might be able to save even more money by making a deal with Sound Transit to put a trail on their land without buying it.)",
+    "Think about your favorite park. Now imagine what it would be like with an arterial road going directly through it. That’s what the Spring Boulevard Zone 3 project would do to BelRed Park, before it even has a chance to show how great it can be."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/BelRed-Park-trail-rendering-from-2010ish-City-of-Bellevue.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-oncommunitypassagewayssafepassageprogram",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Rainier Beach Public Safety Forum Provides Update on Community Passageways Safe Passage Program",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://southseattleemerald.org/news/2026/10/03/rainier-beach-public-safety-forum-provides-update-on-community-passageways-safe-passage-program",
+   "paras": [
+    "At a recent public safety meeting in Rainier Beach, attendees learned that while several City of Seattle contracts with Community Passageways will sunset in several months, one centered on providing neighborhood safety services will run through the 2026–2027 school year. Attendees also received information on how parents and guardians can respond when schools ask students to shelter in place.",
+    "The meeting, held on Sept. 30 in the Rainier Beach High School library, brought together parents, neighborhood residents, politicians, and representatives from the Seattle Police Department (SPD). It occurred a week after Mayor Katie Wilson introduced her first budget proposal for 2027–2028 , including $45 million in funding for the Human Services Department (HSD), which contracts with community-based organizations like Community Passageways for both violence prevention and community-violence intervention (CVI) services.",
+    "Wilson's budget proposal doubled down on the end of direct funding for community-led CVI programs, stating the City's nine CVI contracts will be transferred to the Community Assisted Response and Engagement (CARE) department . \"HSD will maintain contracts for violence prevention including supportive services and school-based safety services, including for safe passage to and from school,\" according to the proposed budget overview and Wilson's gun-violence plan .",
+    "Community Passageways currently has five contracts with the City, four of which will end on Dec. 31. Those four contracts cover the CVI work that will be absorbed by the CARE department.",
+    "The remaining contract , set to expire on June 30, 2027, addresses \"school based safety services and safe passages.\" It represents $350,000 in one-time funding . The City's contracts with Community Passageways can be viewed on the City's contract search portal .",
+    "\"We are in budget season right now,\" said District 2 Councilmember Eddie Lin, who spoke at the forum, \"and you've probably heard the budget's tight, but that doesn't mean that we shouldn't be prioritizing safety [in Rainier Beach]. So I was very thankful that the mayor's office had money for teen programming and other public safety efforts down here. We're still going to need to fight to defend that as part of the budget process.\"",
+    "Lin also said that the community violence efforts by organizations like Community Passageways is \"really hard work,\" and that \"we will continue to fight to defend that and to fund it as much as we can.\"",
+    "District 2 King County Councilmember Rhonda Lewis spoke about priorities during the budgeting season. \"My mantra is 'A budget is a moral document.' A budget tells people what you care about,\" she said.",
+    "With the funds from Wilson's office, Community Passageways will continue to facilitate supportive services for a safe-passage program alongside Rainier Beach Action Coalition (RBAC). Brandon Hill, Community Passageways Southeast co-director who oversees the safe passage and street teams, discussed shared coverage routes. He also presented a map of gun-violence \"hot spots\" in the Rainier Beach neighborhood and the groups' plans to canvass those areas.",
+    "\"After school, you will see us right here at Rainier and Henderson, and you'll also see us at South Shore [PK-8 School]. We'll start at South Shore first because they let out earlier than the high school,\" Hill said, detailing information about plans to also address safety issues for RBHS students. Thomas Jackson, guardianship coordinator at RBAC, followed Hill's presentation and briefly went over RBAC's routes, which were similar to routes maintained by Community Passageways.",
+    "SPD South Precinct Captain Heidi Tuttle shared data that showed shootings and shots fired from January to September 2026 were down 44% compared with January to September 2025. The total number of fatal shootings during both periods was one.",
+    "Tuttle also provided data that from September 2025 to September 2026, five juveniles were suspected shooters (11.3% of total suspects), and seven juveniles were shooting victims (18.4% of total victims).",
+    "A public safety forum in July ended in a heated discussion regarding City funding for CVI programs after the City's contract with Community Passageways' work in Rainier Beach came to an end , with no plans to renew funding as the school year approached. The contract's end precipitated the laying off of 13 Community Passageways staff members.",
+    "After two months of organizing among concerned Rainier Beach residents, parents, and community organizations, Wilson announced on Aug. 29 that the city would provide $350,000 to fund Community Passageways' safe-passage efforts in the neighborhood.",
+    "At the most recent meeting, parents asked about shelter-in-place and lockdown drills, in the wake of a shooting on Sept. 24 that left a man wounded on 42nd Avenue South. One parent expressed concerns about reunification sites and the possibility of a shelter-in-place order occurring when children were outside while the shooter was inside.",
+    "\"I know that [with] shelter in place, if kids are on the playground at lunchtime, they do the drill there, but what happens if a bunch of kids are on the bus? And if the lockdown situation is happening because there's a call for a firearm inside the building, is it the best plan to go into the building?\" the parent asked.",
+    "Jesse O'Quinn, emergency management specialist at Seattle Public Schools, said he would review the school's campus to provide an answer. \"You can reach out to your staff at the school, and they will also help you know where, in case something happens, we are going to reunify. And we even have secondary reunification sites,\" said O'Quinn.",
+    "At the start of the school year, every school must provide a site plan for reunification sites. According to Justin Hendrickson, executive director of K-8 schools at Seattle Public Schools, Rainier Beach has submitted its site plan."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-10-03/d5zi7mtj/2026-10.03-Public-Safety-Meeting-Rainier-Beach-by-Lauryn-Bray.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-whatarethebigissuesfacingsmallbusinesses",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: What Are the Big Issues Facing Small Businesses?",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://southseattleemerald.org/newsletters/2026/10/03/the-roundup-what-are-the-big-issues-facing-small-businesses",
+   "paras": [
+    "Budget season is here. Last week, we did a deep dive into what the mayor's budget proposal means for the South End . Public safety was top of mind, and we also recently interviewed Wilson on her plan to address gun violence .",
+    "This week, I want to look at budget season from a different angle: small business.",
+    "With Tutta Bella closing its Columbia City location Friday, and with the shifts and changes we've seen in Columbia City and all around the South End recently, I'm curious. What is the current state of small businesses in our neighborhood, and what can city officials do during budget season to assist?",
+    "Laura Clise is the founder and CEO of Intentionalist , a nonprofit dedicated to supporting small businesses in Seattle.",
+    "Intentionalist recently published a survey of 174 small businesses in Seattle that found what Clise describes as a \"small business recession.\"",
+    "I spoke with Clise about what this means, what the survey said about South End small businesses, and what officials can do this budget season to support small biz in our community.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: Y'all recently did a survey. It covers small biz in Q1 and Q2 of this year. Can you give me a little bit of background about what this survey is?",
+    "LC: This is a follow-up to a survey we did last year. It was prompted by a growing feeling we had that small businesses were in crisis, and yet there didn't seem to be a lot of data to quantify the magnitude and the nature of the struggles that main-street brick-and-mortar small businesses were experiencing.",
+    "For the Q1 survey, we heard back from 136 businesses, and two-thirds of them indicated that they were experiencing greater financial stress now than during the peak pandemic. For Q2, we were curious if we would see a change with summer and the World Cup. We heard from 174 businesses and didn't see a significant change.",
+    "MD: A term I saw in your survey was \"small business recession.\" Can you explain what that means and what in your findings led you to that conclusion?",
+    "LC: Admittedly, I'm taking some liberties with the word recession, which many people likely know is most accurately associated with an assessment of macroeconomic conditions. But I think that it's important to try to convey the severity of the hardship and challenges that small businesses face. As we looked at the responses around the acute financial strain, around decrease in how long small businesses expect they can continue to operate if conditions remain the same, as well as a growing number of business owners who reported that they either cut their own wages or were not paying themselves at all in order to keep their businesses afloat — the reality on the ground is that small businesses continue to struggle to survive. They aren't bouncing back. They aren't seeing relief.",
+    "We chose the word \"recession\" because it's provocative, but also because it's something people can wrap their minds around. It is also used to indicate cause for real concern and thoughtful intervention.",
+    "MD: Your data set is citywide, but I noticed representation from a few South End neighborhoods. What stood out to you in responses from South End businesses?",
+    "LC: Of the 174 businesses represented, 44 were from the South End. What I think is important to point out here is that 84% of the South End respondents are grossing less than a million dollars a year. So when we say small-business owners are cutting their own pay, these are not folks who have a lot to begin with.",
+    "What South End businesses have in common with the overall population is that it's a struggle and it isn't getting easier. What is a little bit distinct for South End businesses is what they say they need most. Citywide, the biggest ask is cost relief — taxes and fees. In the South End, the top priority is foot traffic, marketing, and more customers.",
+    "MD: That makes sense. We don't get tourists or the downtown lunch crowd. What can be done to support these businesses? And, like the rest of the city, taxes and fees are impacting South End businesses too. What can city officials do to alleviate those stressors?",
+    "LC: We have to start with awareness. Just because a business appears to be OK doesn't mean it actually is. During the pandemic, we rallied around our small businesses, then when it was over, we went back to our lives, and the businesses never recovered. We need intentional mobilization to support businesses in our communities.",
+    "As for fees, there are four things bubbling to the top. The first is the tip credit . It is understood that this administration is not likely to engage on that front, and yet I mention it because it was mentioned repeatedly in the response to the survey. That aside, the sales tax increases affect local businesses. Other permits and fees, which I know is something that the mayor and the Office of Economic Development are taking a look at. In addition, small businesses have raised what utility cost relief could look like. Also, looking for ways to have tax relief associated with small businesses that are providing healthcare for their employees.",
+    "MD: If there was one thing city officials could do this budget season to significantly support small businesses, what would it be?",
+    "LC: Affordability. I know it is a priority for this administration, and it has become increasingly unaffordable for main-street brick-and-mortar small businesses to survive. But it's so hard to point to just one thing. When you get small businesses talking, they're able to identify a death by 100 cuts.",
+    "You can read the full report from Intentionalist here.",
+    "The wait is finally over: The Graham Street light rail station has been fully funded. Now, we party.",
+    "The mayor and City Council have new safety plans on the table. But local artists believe activating public spaces, and financial support for the arts, should be part of the plan.",
+    "The process of finding a new police chief is underway. Here's what South End residents said in a recent listening session.",
+    "This Georgetown exhibit by Iranian artist Nahal Entezam Nia connects Persian plant life with cultural memories.",
+    "Oct. 3, 11 a.m. to 3 p.m., at the corner of Martin Luther King Jr. Way and South Eddy Street. Come say hi to the Emerald and get some swag at our table!",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-10-02/dbwmv17c/What-Are-the-Big-Issues-Facing-Small-Businesses.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-tthingstodoinseattlethismonthoctober2026",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Best Things To Do in Seattle This Month: October 2026",
+   "author": "EverOut Staff",
+   "date": "2026-10-03",
+   "url": "https://www.thestranger.com/everout/the-best-things-to-do-in-seattle-this-month-october-2026/",
+   "paras": [
+    "Seattle takes the season of ghouls and gourds very seriously, but October isn’t all Halloween events —the calendar is also filled with concerts, festivals, food & drink events, and tons more. As we do every month, we’ve compiled the biggest events you need to know about in every genre, from Doja Cat to Kacey Musgraves and from GeekGirlCon to Rick Steves and Reverend Shelley M. Bryan Wee: The Traveler and the Bishop .",
+    "James “Murr” Murray Impractical Jokers feels strangely nebulous: like it’s somehow always been on TV. In reality, the series premiered in 2011, but 15 years is practically an eternity in television—long enough for kids who grew up watching four Staten Island friends publicly humiliate one another to now be adults still laughing along. It’s also, arguably, one of the most uniquely bizarre comedy productions of the past two decades, turning lifelong friendship and an astonishing tolerance for embarrassment into an enduring franchise. Now, you can see one of its weirdest and, in my opinion, most lovable personalities in the flesh. James “Murr” Murray will bring Impractical Jokers off-screen with an interactive stand-up show featuring stories, never-before-seen footage from the series, and live audience participation. LANGSTON THOMAS Emerald City Comedy Club, Capitol Hill (Oct 22–24)",
+    "The post The Best Things To Do in Seattle This Month: October 2026 appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/kaceyballs.jpg?fit=1024%2C770&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip1xnrro5",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Trump makes himself main character of GOP midterm campaign",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip1-xnrro5/",
+   "paras": [
+    "Trump makes himself main character of GOP midterm campaign"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/65ed0aaa-8bc0-4e49-9e44-6f7da45cb213.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2qwrjiu",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "As setbacks mount, Trump turns his anger toward the media",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-qwrjiu/",
+   "paras": [
+    "As setbacks mount, Trump turns his anger toward the media"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/9920eb34-9346-41b3-9ec2-4b628e11d76b.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-uschinabattletoleadtheairevolutionkh11dl",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Inside the U.S.-China battle to lead the AI revolution",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/compass-points/episode/inside-the-us-china-battle-to-lead-the-ai-revolution-kh11dl/",
+   "paras": [
+    "President Trump wants artificial intelligence companies to police themselves, all in the name of winning the race with China. Are the U.S. and China on a path of unstoppable AI competition? Or should the world’s AI leaders collaborate? Compass Points moderator Nick Schifrin discusses that with Dmitri Alperovitch, Chris McGuire, Samm Sacks and Melanie Sisson."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/3379c226-d55e-44a3-8fc6-844fcbc4e3a9.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-eekwiththeatlanticfullepisode10226zcpebz",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Washington Week with The Atlantic full episode, 10/2/26",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/washington-week/episode/washington-week-with-the-atlantic-full-episode-10226-zcpebz/",
+   "paras": [
+    "Full Washington Week with the Atlantic broadcast from October 2, 2026."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/913b8473-1710-4423-b555-27c0e663ddef.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasoneonone1790977804",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Martina Navratilova on Chris Evert and their rivalry",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/one-on-one-1790977804/",
+   "paras": [
+    "Martina Navratilova was a high-profile force on the tennis court in the 1970s and 80s with 59 Grand Slam titles. She has remained a big presence in the tennis world, commentating and mentoring, and is using her platform to weigh in on issues off the court as well. Amna Nawaz sat down with Navratilova for our culture of sport coverage, part of our CANVAS series."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/9952d37b-3eea-4f48-b8cd-639148898a71.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ewshourextrasbrooksatkinsstohr1790972944",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Brooks and Atkins Stohr on GOP vulnerabilities in midterms",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-03",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/brooks-atkins-stohr-1790972944/",
+   "paras": [
+    "David Brooks of The Atlantic and Kimberly Atkins Stohr of The Boston Globe join Geoff Bennett to discuss the week in politics, including President Trump hitting the campaign trail in a string of reliably Republican states, GOP vulnerabilities heading into the midterms and the administration's strategy on artificial intelligence."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/1aed2de3-690a-47ae-b7aa-0e71b7a59860.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc61wv7lgex13oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6d095ygggv1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "UK-Iranian dual national arrested over RAF Fairford released on bail",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The 25-year-old man was arrested in the London borough of Westminster on Thursday."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8zxl62yzxzxoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmn8e887716voatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Conservative leader is expected to set out a return to core conservative principles at the party’s annual conference."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/744c/live/14270b40-be45-11f1-a64c-550be9e3c66b.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescm2kej47095noatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccbd/live/53de63b0-bf48-11f1-bc2e-018d645d8d21.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc3zxjl2pp49zoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Man shot dead as families gather for memorial in London",
+   "author": "",
+   "date": "2026-10-03",
+   "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a624/live/bfe929d0-bf4a-11f1-a84d-81c67bc2828e.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-981300opinionahawkisnotthesameasahawkeye",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Opinion: A Hawk is not the same as a Hawkeye",
+   "author": "Scott Simon",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+   "paras": [
+    "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6948x4632+0+0/resize/6948x4632!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F5c%2F42f0b82e4b518d8487c405a62fee%2Fap26272643375937-2.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-aksdownthegendergapinrecenthiringreports",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+   "author": "Scott Simon",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+   "paras": [
+    "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5989546",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-3443warhbodivorcedominicwestsiennamiller",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
+   "author": "Linda Holmes",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+   "paras": [
+    "HBO's War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1209+0+0/resize/1920x1209!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2F47%2Fd122ddd94efaa3cc64d5b835aab1%2Fsienna-miller-dominic-west.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-lphiaacademynaturalsciencesmuseumclosure",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+   "author": "Andrew Stelzer",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+   "paras": [
+    "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4080x3060+0+0/resize/4080x3060!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F63%2Fd4ea684b40f88cfb28c1fe8b05f7%2Fstaff-talking-dino-in-back.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rttermreligiongunsenvironmentimmigration",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The Supreme Court faces another term jam-packed with controversy",
+   "author": "Nina Totenberg",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+   "paras": [
+    "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F08%2Feca9b3374b0d8fb37f66f272cf74%2Fgettyimages-2294936548.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs15987816popeleoamericanpopebookexcerpt",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
+   "author": "Scott Detrow",
+   "date": "2026-10-03",
+   "url": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
+   "paras": [
+    "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here's a look behind the scenes."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3335+0+0/resize/5000x3335!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F57%2F72da0adf49f3bf2128c04f80dcdc%2Fgettyimages-2212121081.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-vedmostthisyearandifwestillrecommendthem",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "It’s the Filter’s first birthday! 25 things readers loved most this year – and if we still recommend them",
+   "author": "Filter editors",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/thefilter-us/2026/oct/03/its-the-filters-first-birthday-25-things-readers-loved-most-this-year-and-if-we-still-recommend-them",
+   "paras": [
+    "In the course of a year, we’ve tested products ranging from instant coffees and cat toys to towels and sleep masks. These are the ones you loved most",
+    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
+    "The Filter US is turning one. Over the past year, we have cooked, cleaned, hiked and generally put our homes and bodies through a lot in pursuit of things actually worth buying. We have tested packing cubes on 14 trips, spent 63 nights testing sleep masks , recruited 84 coffee drinkers to taste instant coffee and put thousands of products through their paces (and called out ones which we don’t recommend ).",
+    "And we have gone deeper: asking a food lab to test the best non-toxic pans , blind-tasting everything from protein bars to nonalcoholic beer and getting the tea on Padma Lakshmi’s favorite kitchen tools . Across hundreds of articles, we have covered everything from a satisfyingly bouncy $1,600 organic mattress to a small but mighty $9 cleaning brush . We have found the legitimately best deals on our favorite things too."
+   ],
+   "img": "https://i.guim.co.uk/img/media/d86ac82d1b0519d7b424230249ec7e07e3cce151/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a196c421eec68cd8d29e796bbf79b1ef",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ree2026oct03cornellrapecasemalesupremacy",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "We live in a rape-prone society. The horrific Cornell case reveals what that looks like | Rebecca Solnit",
+   "author": "Rebecca Solnit",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/03/cornell-rape-case-male-supremacy",
+   "paras": [
+    "Public outcry to punish the alleged perpetrators in the Cornell case misses the point – the only solution is political, legal and cultural equality of women",
+    "Sometimes a story is so so appalling, it captures the public’s attention, including the attention of people who don’t focus on the issue otherwise. Such is the case with the alleged 2024 gang rape at Cornell University.",
+    "For feminists who focus on violence against women or anyone who has ever cared about campus rape, the claims made in Jane Doe’s civil lawsuit against the alleged perpetrators may be unusual in its severity – but we know the statistics that show that somewhere between 20% and 25% of women college students will be the victim of a sexual assault (no statistics tell us what percentage of men students will be rapists)."
+   ],
+   "img": "https://i.guim.co.uk/img/media/39b573f72da01cf7d753c80a2bb8b4ddda9116e6/269_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=021cc14b2a9d17c6f750212e48c1f838",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-t03fridaynightlightsussportsdrama20years",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Brave from the beginning’: 20 years of Friday Night Lights – the sports drama that dared to be different",
+   "author": "Michael Hann",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/03/friday-night-lights-us-sports-drama-20-years",
+   "paras": [
+    "It launched the careers of Jesse Plemons and Michael B Jordan, and let its stars improvise in a way that was fresh and new. This show about smalltown US football was confident, trailblazing – and wonderful",
+    "I’ve been around the south of the US enough to have seen the importance of football: little burgs where the high-school football field has stands that wouldn’t disgrace a League Two soccer club in the UK. Friday Night Lights, which was first broadcast 20 years ago, is set in the most fervent edges of that world, smalltown Texas, where what happens under the floodlights at the end of the working week defines the mood of the place for days to come.",
+    "Britt Daniel, the frontman of the Texas band Spoon, grew up in one such town, Temple. “Friday Night Lights is based on Odessa, and Odessa and Temple are very, very similar,” he told me in 2017. “The high schools used to play each other at football, and they’re the kind of towns where everything happens on Friday because it’s the football game. I didn’t really think about it until many years later, but you really risked being beaten [up]. Not just harassed, but beaten. Everywhere you went, you really had to look over your shoulder. If you were at the mall, if you were at the parking lot, if you were at a party – people really wanted to fight.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/12238f65a31ab1c3227f1d1d011b6ebc7a5a732f/0_133_4833_3867/master/4833.jpg?width=140&quality=85&auto=format&fit=max&s=a6368d7286260ec8c3f06e9c6689475e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-lsapprovaluntilmylittleponybrokethespell",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I craved a mean girl’s approval until My Little Pony broke the spell",
+   "author": "Fatimah Merchant",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/culture/2026/oct/03/i-craved-a-mean-girls-approval-until-my-little-pony-broke-the-spell",
+   "paras": [
+    "I didn’t realise my school infatuation was just making fun of me, but then an episode of the cartoon series taught me the attributes of true companionship",
+    "When I was seven, I was obsessed with one particular classmate. She was the only girl taller than me and she never let me forget it. She was allowed to wear colourful nail polish and had shiny Lelli Kelly shoes, while I had short, plain nails and had to make do with classic black Clarks. I craved her approval.",
+    "That spring she got an iPhone, and deliberately shunned me for a while afterwards. I cried for hours, but I wasn’t confused. I understood, and even respected it. Why would she grace me with her aura? I was lucky she let me sit at her table at all, even if it was only to taunt me for still bringing in a packed lunch. She was my best friend – I was always holding out hope that one day I would be hers."
+   ],
+   "img": "https://i.guim.co.uk/img/media/deab09c14d7525b35be8e92008b14de017d0a41f/91_76_2619_2095/master/2619.jpg?width=140&quality=85&auto=format&fit=max&s=da5647740f791003257d8d35f61e2d4a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-oct03manchestercityguiltyverdictfootball",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+   "author": "David Conn",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+   "paras": [
+    "On the day Andy Burnham spoke of the wrong turn Britain took under Thatcher, football was facing a day of reckoning over its own story of corporate acquisition",
+    "It was somehow fitting that Tuesday’s damning ruling against Manchester City landed in the heart of the Labour party conference, in the afterglow of Andy Burnham’s rapturously received prime minister’s speech.",
+    "I was there, and read the astonishing 40 pages of findings – that City created “sham” contracts to boost income artificially by £900m – on my phone during a long meeting of the Socialist Campaign Group, where people were celebrating Keir Starmer’s ousting and Burnham’s more leftwing direction."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8c1c0550c4c6eb321703bfc2955f03118113bbea/0_625_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=968d4fde0431c9ec2d111ed0f2c4e20f",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ywildlifephotographyawards2026inpictures",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Comedy wildlife photography award finalists 2026 – in pictures",
+   "author": "Matt Fidler",
+   "date": "2026-10-03",
+   "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/comedy-wildlife-photography-awards-2026-in-pictures",
+   "paras": [
+    "A caiman wearing a wig, two brown bears laughing and a leopard doing a handstand feature in the selection of finalists from this year’s Nikon Comedy Wildlife awards . Winners will be announced on 8 December"
+   ],
+   "img": "https://i.guim.co.uk/img/media/bb12d2f4ffbb5fb99d74094540c5e114a047bbc5/534_290_2590_2072/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=09cbb19086102e7384f8bf52bd7485b7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-litybuttherealityismorecomplicated289009",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "Hunter-gatherer societies are often put on a pedestal as paragons of equality – but the reality is more complicated",
+   "author": "<name>Duncan Stibbard Hawkes, Assistant Professor of Anthropology, Baylor University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/duncan-stibbard-hawkes-2748866\"/>",
+   "date": "2026-10-03",
+   "url": "https://theconversation.com/hunter-gatherer-societies-are-often-put-on-a-pedestal-as-paragons-of-equality-but-the-reality-is-more-complicated-289009",
+   "paras": [
+    "On the shores of Lake Eyasi in Northern Tanzania, a small number of people still hunt and gather their food. Today a Hadza hunter has taken down an animal – a kudu . He can’t carry it by himself, so he cuts his poisoned arrow from its flank, covers the carcass in dry grass to hide it from hyenas and heads home to enlist help.",
+    "News spreads like wildfire across the camp. Everybody rushes to the kill. They divide up the carcass, carry it back, then divvy it up some more. Every family gets some, and after the meat is cooked, there’s more sharing still. On a good day like today, the hunter and his family retain half, but sometimes they keep much less. People may even walk from other camps, and almost everyone, from miles around, is entitled to a share.",
+    "The post-hunt scene above is idyllic. It paints a quintessential picture of egalitarianism and equality. But our experience as anthropologists working with the Hadza people of Tanzania and with the Tsimane people of Bolivia’s Amazon rainforest is that inequalities are part of even the most equal of societies. Furthermore, the equalities that do exist often emerge from selfish motives.",
+    "Insights like ours are revising researchers’ understanding of both the past and how people operate today, as inequality grows globally . Hunter-gatherers are often at the center of heated academic battles about what it means to be human, including debates over gender , war and peace and whether humans are, by nature, egalitarian or hierarchical .",
+    "Sometimes these debates oversimplify. So we pulled together hundreds of different sources covering more than a century of ethnography to find out just how egalitarian hunter-gatherer and other subsistence societies really are.",
+    "Anthropologists have called hunter-gatherers such as the Hadza “egalitarian societies,” with equalities of power, wealth and social status . And it’s true that the traditional subsistence communities we work with successfully limit many inequalities.",
+    "Most families have similar, modest possessions and store little material wealth . When leaders do emerge, they are highly constrained in how they can direct other people . People often make decisions via consensus, and, if they cannot reach agreement, families will move away.",
+    "While the same anthropologists also emphasize that some hunter-gatherers are very unequal and that equality takes deliberate effort , the prevailing impression is that equality characterizes hunter-gatherers, past and present.",
+    "A quick trip to your local bookshop will reveal grand claims, including that past hunter-gatherer societies had no permanent leadership and no hierarchy , inequality only spread with the development of agriculture , and humans are noble by nature .",
+    "Some scientists are pushing back against these utopian portrayals. The popular bestseller, “ The Dawn of Everything ,” calls egalitarianism a “Garden of Eden narrative” that lacks substance. Other scholars have called egalitarian societies a scientific origin myth .",
+    "So where does the truth lie? Probably somewhere in between.",
+    "In our recent wide-ranging review of the evidence from the early 20th century onward, we found that no society lacked inequality.",
+    "Like the Hadza, the Ju/’Hoansi of the Kalahari desert in southern Africa had little property and widespread food-sharing, yet certain families controlled valuable hunting territory surrounding waterholes . The Bayaka of the central African rainforest had little material inequality, yet they bought, sold and hoarded ritual knowledge . The Philippine Agta controlled and arranged their children’s marriages, hugely discriminating against orphans .",
+    "Gender inequalities were commonplace. The Tanzanian Hadza keep certain cuts of meat exclusively for older men , and give more respect to better hunters . Across societies, women have universally done more direct parenting , and men have participated more frequently in community-level decision-making .",
+    "No society lacks informal leadership . Age was another source of inequality. In many Australian societies, older men controlled ritual secrets and had power over the marriage choices of younger relatives .",
+    "Our study also found that although hunter-gatherers are frequently generous , the processes limiting inequality often do not require any generosity. Instead, equality often results from people’s self-interested motives to acquire resources, status and autonomy.",
+    "A great example of this is food-sharing. Although each Hadza family gets a cut of kudu meat, it often happens not because the hunter’s family prioritizes total equality, but because other families request it vociferously. It can involve more taking than giving , often through strongly stated demands or complaints .",
+    "Another example is ridicule and mockery of stingy or braggadocious individuals, which keeps greed and bravado in check . Paradoxically, status-seeking can also promote equality, when cooperating to gain status diffuses status throughout the community .",
+    "Many of these inequality-reducing processes are familiar to people everywhere.",
+    "Ridicule and mockery are ubiquitous in industrialized societies, from political cartoons to social media. Lampooning authority is even common in autocratic societies where governments spend large sums of money suppressing speech . Demands and complaints form the basis of strikes and collective bargaining. And key to social mobility is cooperation among people of different social strata .",
+    "Like many great debates, the truth is complex: Our ancient hunter-gatherer ancestors didn’t reach the giddy heights of inequality seen in other societies over the last 6,000 years, but putting hunter-gatherers on a pedestal as paragons of equality is a mistake. Sweeping statements about equality in the past blind us to the tools that probably allowed ancient hunter-gatherers to combat inequality, just as they and people in all societies do today.",
+    "Egalitarianism, then, is best seen not as perfect equality but as a set of tools that people use to secure their own autonomy and access to resources. Equality along one dimension or another might be the outcome, but it doesn’t rely on people being amazingly noble or completely lacking in greed or status-seeking. If you consider egalitarianism as equality-creating processes, you can see that it is a widespread reality among hunter-gatherer societies, and beyond.",
+    "Duncan Stibbard Hawkes receives funding from the Leverhulme trust, the Canadian Institute for Advanced Research, and the Baylor University School of Arts and Sciences.",
+    "Christopher von Rueden received funding from the Jepson School of Leadership Studies at the University of Richmond. He is President of One Pencil Project ( www.onepencilproject.org ), a non-profit that funds educational opportunites for indigenous youth."
+   ],
+   "img": "https://images.theconversation.com/files/763725/original/file-20261002-60-8lnm30.jpg?ixlib=rb-4.1.1&rect=0%2C618%2C3680%2C2453&q=45&auto=format&w=1050&h=700&fit=crop",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-owandmoretakeawaysfrommadronasia40summit",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "The biggest unresolved question in AI right now, and more takeaways from Madrona’s IA40 Summit",
+   "author": "Todd Bishop",
+   "date": "2026-10-02",
+   "url": "https://www.geekwire.com/2026/the-biggest-unresolved-question-in-ai-right-now-and-more-takeaways-from-madronas-ia40-summit/",
+   "paras": [
+    "Executives from companies such as Microsoft, Amazon, Anthropic and Stripe agreed on a lot this week about where AI is headed. But one big question was left unresolved: who keeps the relationship with the customer, and the data that comes from it, once an AI agent is in the middle?",
+    "That question was a recurring theme at Madrona’s IA40 Summit , the venture capital firm’s annual gathering of AI startups, investors and tech executives, held Wednesday at the Four Seasons Hotel on the downtown Seattle waterfront.",
+    "As Madrona Managing Director Matt McIlwain said in his closing remarks, the question of who gets to use the data that comes from people’s engagement with AI systems came up “over and over and over again” during the day.",
+    "GeekWire attended the entire day and came up with these takeaways, reducing our own human bottleneck (see below) with lots of back-and-forth with Anthropic’s Claude and other AI tools.",
+    "AI agents are coming between companies and their customers: Charles Lamanna , the Microsoft executive vice president who oversees Microsoft 365 and the platform behind Copilot, predicted most business software will end up being used by AI assistants on a person’s behalf, leaving software makers with less power to set prices.",
+    "Jean-Denis Greze , CEO of Town, a startup that makes an AI assistant for work, went further. Since about July, he said, AI has been able to operate a browser or a computer almost as well as a person, at a reasonable cost. That means an AI assistant can work through an app’s user interface the way a person does, without needing an API from the software maker, he said.",
+    "“Everything is going to become a thin app because the better the AI gets at using the computer, the less the app matters as a unit of software,” Greze said, echoing the term Lamanna had used that morning for software that people open only briefly.",
+    "The same shift is under way in retail. Maia Josebachvili , Stripe’s chief revenue officer for AI, said commerce by AI agents on Stripe was roughly flat for eight or nine months and then rose sharply in the past six weeks.",
+    "Many merchants make their money by getting shoppers to add to their orders at checkout and by showing them ads, she said, and they lose those chances when an agent does the buying. That won’t work over the long term, Josebachvili said.",
+    "That conflict is playing out in real time in a high-profile dispute between two tech giants. Amazon blocked Meta’s Muse assistant from shopping on its site last month.",
+    "The data side of the question came up in a session with Anthropic Chief Technology Officer Rahul Patil . Moderator Raphaëlle d’Ornano asked who owns the record of an AI agent’s work, including its mistakes and corrections, and whether it belongs to the customer. She said she has never gotten a clear answer.",
+    "Patil didn’t answer directly. He said each company that supplies the software for running agents will work to improve them, and “will use every data that’s available to them to make it better.”",
+    "“It’s good for the ecosystem if the agents actually improve,” he said.",
+    "Swami Sivasubramanian , Amazon Web Services’ vice president of Agentic AI and Emerging Technologies, said one of the least appreciated parts of making AI agents work is getting them the right company data for the task.",
+    "AWS in June announced a service for that purpose, called AWS Context, which maps the relationships in a company’s data for agents to use. Sivasubramanian said it’s meant to work across platforms and cloud providers, and he expects this kind of service to be a basic building block for the next 20 years, as cloud storage and databases were two decades ago.",
+    "Most companies aren’t keeping up with the technology: Patil said Anthropic writes about 200 times as much code as it did 18 months ago. Some customers have doubled or tripled their output, he said, but almost none have seen gains like Anthropic’s.",
+    "“The bottleneck is actually not AI. The bottleneck is human,” said Archana Vemulapalli , global head of AI product management at Goldman Sachs. A company’s roles and processes were built before AI, she said.",
+    "Sivasubramanian said teams inside Amazon were showing him impressive AI agents they had built in two or three weeks. When he asked when the agents could be rolled out, he said, almost every team told him it still had to work out security, identity and monitoring.",
+    "McKinsey senior partner Lari Hamalainen said about 40% of companies say AI has increased their profits, but only 6% describe the increase as substantial.",
+    "Even as AI becomes more and more capable, there’s still lots of work to do to close the gap between “the goals, the capabilities, and what we all are aspiring to do,” McIlwain said.",
+    "Companies are split on depending on a single AI provider: Anthropic’s Patil, notably, argued that large companies are spending too much effort preserving the ability to switch between AI providers. To keep that option open, he said, they end up building for the least common denominator, limiting themselves to the features every AI model shares. That effort also takes their engineers away from the work that sets their own company apart.",
+    "Carlos Guestrin , co-CEO of the AI startup Noeri, offered an alternative take on the same panel. Intelligence shouldn’t be controlled by one or two companies that own the models, he said, and every company should be able to build and own its own AI systems.",
+    "Guestrin is a Stanford computer science professor and former University of Washington professor who founded the Seattle machine learning startup Turi, which Apple acquired in 2016 .",
+    "Eno Reyes , co-founder and chief technology officer of Factory, a startup that makes AI coding tools, said on a later panel that many businesses don’t see a way to build their future without ceding control to one AI lab. Thomas Dohmke, the former GitHub CEO who now leads the startup Entire, said developers always want choice.",
+    "Amazon works with more than one AI lab. It is a major Anthropic investor and partner, and Dan Grossman , Amazon’s vice president of business and corporate development, pointed out on an investor panel that Amazon had launched a managed agents product with OpenAI that week.",
+    "Amazon also sells its own product for running AI agents, AgentCore, which overlaps with Anthropic’s Managed Agents.",
+    "Companies don’t yet trust AI with important decisions: Zico Kolter , the Carnegie Mellon professor who chairs the safety and security committee of OpenAI’s board, said the ability to control AI systems has to keep pace with their capabilities, which might mean developing them more slowly than is possible.",
+    "Sivasubramanian said executives worry about whether an AI agent will always follow their company’s rules and regulations. Companies can keep the creativity of AI models, he said, by pairing them with separate systems that check a model’s work against the company’s rules and catch violations.",
+    "The money is concentrated in a few companies: The companies on this year’s IA40 list have raised $410 billion since they were founded, according to Madrona’s data. OpenAI, Anthropic and Databricks account for 92% of it.",
+    "Anthropic raised $143 billion of its $161 billion total in the 12 months ending Aug. 15, a figure that includes debt. The company has filed confidentially for an initial public offering and is seeking a valuation of about $2 trillion, Reuters reported this week . Bloomberg reported that it could go public as early as mid-November .",
+    "Capital spending by Amazon, Alphabet, Microsoft, Meta and Apple is projected to rise 74% this year to about $742 billion, according to PitchBook figures Madrona presented.",
+    "Lamanna said Microsoft’s heaviest AI users among its software developers are each on track to spend more than $1 million a year on AI usage, even with the company’s internal discount.",
+    "Madrona’s closing slide said returns on AI are still early for most of the companies using it but look inevitable based on what the earliest adopters are seeing."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/P1724708-edit-1260x841.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-voxformerlyknownasfixieacquiredbyinworld",
    "srcKey": "geekwire",
@@ -406,97 +1062,23 @@
    "annos": null
   },
   {
-   "id": "f-cascade-trailerspreviewsavingtangierislandaazdkh",
-   "srcKey": "cascade",
+   "id": "f-stranger-laintthestrangersnoisecomplaintberingsea",
+   "srcKey": "stranger",
    "cat": "arts",
-   "title": "Preview | Saving Tangier Island",
-   "author": "Cascade PBS Staff",
+   "title": "The Stranger’s Noise Complaint: Bering Sea",
+   "author": "Stranger Staff",
    "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/secrets-of-the-dead/trailers/preview-saving-tangier-island-aazdkh/",
+   "url": "https://www.thestranger.com/noise-complaint/the-strangers-noise-complaint-bering-sea/",
    "paras": [
-    "Welcome to tiny Tangier Island in the Chesapeake Bay. Pivotal in the War of 1812, it's where Francis Scott Key was inspired to write \"The Star-Spangled Banner\" and where hundreds of self-emancipated men joined the British to take up arms against their former masters. Now, rising sea levels threaten the island, and the race is on to ensure Tangier will remain a witness to American history."
+    "Welcome to Noise Complaint, The Stranger ‘s new audio and video music podcast featuring live performances right here at The Stranger HQ. Streamed live and released every other Friday, we invite a great band, musician, or wonderfully weird act to perform. Tune in, discover something new, and support art in your city.",
+    "This week’s episode features Bering Sea !",
+    "Bering Sea is an instrumental rock trio from Seattle, Washington, blending post-rock and metal, influenced by the wilderness, beauty, and sometimes brutality of the Pacific Northwest. Or maybe it’s sailor metal, or smooth metal. Who knows?",
+    "On Apple, you can subscribe to the video podcast here.",
+    "Get our email newsletter and episode alerts at thestranger.com/noisecomplaint . Thanks to Reanimated Music for the backline!",
+    "For Noise Complaint band submissions, email us at podcasts@noisycreek.com .",
+    "The post The Stranger’s Noise Complaint: Bering Sea appeared first on The Stranger ."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/cf59d621-1162-4c13-b68e-d17555188016.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-rdevansmithepisodejenniferpalmieriuxdrvw",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Jennifer Palmieri",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/overheard-evan-smith/episode/jennifer-palmieri-uxdrvw/",
-   "paras": [
-    "Palmieri discusses her new docuseries Long Play, which is about the politics of the American South."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/b44cfddc-ccc7-487f-866d-f121ecbdf701.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-pecialsmikefaistembracestheunknown5pbypo",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Mike Faist Embraces the Unknown",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/american-masters/specials/mike-faist-embraces-the-unknown-5pbypo/",
-   "paras": [
-    "Actor Mike Faist explores the creative process behind his work on East of Eden."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/9a7cce76-b90d-4292-b804-fd7739d1f30c.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-hownaturetrailersabouttigerislandparttwo",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Preview of Tiger Island: Part Two",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/nature/trailers/about-tiger-island-part-two/",
-   "paras": [
-    "Following tigers after dark reveals surprise encounters and a hidden world of family life."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/7de40cde-1899-4b7c-ba01-a4a83d4a81ad.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-erdaughtersschoolingmissesthepointmdpxzq",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Nikole Hannah-Jones: Why Backlash Over Daughter’s Schooling Misses the Point",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/nikole-hannah-jones-why-backlash-over-daughters-schooling-misses-the-point-mdpxzq/",
-   "paras": [
-    "Journalist and 1619 Project founder Nikole Hannah-Jones has spent her career reporting on inequality. She and her husband enrolled daughter Najya in a segregated Brooklyn elementary school, a decision she wrote about in The New York Times Magazine. At 12, Najya confronted them about its cost to her education. Now a young adult, Najya reflects on the choice with her mother."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/a7561f5c-0be8-4e48-8c7f-2ecf993aef93.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-gshowamanpourcoepisodeoctober12026izdqbj",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "October 1, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-02",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/october-1-2026-izdqbj/",
-   "paras": [
-    "Sen. Chris Coons discusses Iran, Russia’s war in Ukraine and the U.S.-China AI race. Senior Analyst for the Andes Region at the International Crisis Group Phil Gunson discusses the Trump administration’s major oil deal with Venezuela. The New York Times Magazine correspondent Nikole Hannah-Jones reflects on choosing a segregated Brooklyn school for her daughter and the impact of her decision."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/fb6778c8-8d87-4c1f-9480-3a0d322a1b5c.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/NC_261001_S1E7-Bering-Sea_Thumbnail-scaled.jpg?fit=1024%2C576&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -620,145 +1202,15 @@
    "annos": null
   },
   {
-   "id": "f-stranger-appointsattorneygeneraltocornellrapecase",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Fred Meyer Sued for Pregnancy Discrimination, Amazon Wants to Buy Your Support for Data Centers, New York Governor Appoints Attorney General to Cornell Rape Case",
-   "author": "Nathalie Graham",
-   "date": "2026-10-02",
-   "url": "https://www.thestranger.com/slog-am/slog-am-fred-meyer-sued-for-pregnancy-discrimination-amazon-wants-to-buy-your-support-for-data-centers-new-york-governor-appoints-attorney-general-to-cornell-rape-case/",
-   "paras": [
-    "Kruse control: When the current interim Seattle police chief Andre Sayles was still deputy police chief, he filed a misconduct complaint against veteran detective Beth Wareing for speaking at a press conference denouncing the conservative, anti-trans initiatives bound for November’s ballot. Wareing, who worked on child sex abuse cases, had explained how the genital exams required by the initiative banning trans girls in girls’ sports could threaten girls’ safety. Sayles complained about Wareing’s “accuracy” and “stance.” An Office of Police Accountability (OPA) interview with Sayles revealed his complaint was prompted by an email from right-wing podcaster Brandi Kruse, a booster for the anti-trans sports initiative. According to Publicola, Sayles did not read the initiative himself and only formed his opinion from Kruse’s characterization of it, reports PubliCola .",
-    "Wareing retired because of the complaint: She called it “poorly considered, unprofessional, and an attempted violation of my First Amendment rights.” Part of Sayles’s complaint alleged misconduct on Wareing’s behalf because she spoke politically as an SPD officer. In the OPA interview, Sayles admitted he had not read SPD’s policy on political advocacy.",
-    "Fred Meyer let go its prego employees: In 2023, a Vancouver, Washington Fred Meyer store allegedly penalized— and later fired —two pregnant employees for pregnancy-related absences. Before that, according to a lawsuit, the store did not make accommodations to make working easier for the women, like refusing to move one of them to a position closer to a bathroom. This all happened right around when the Pregnant Workers Fairness Act became law in 2023. Under it, employers with more than 15 people must “make reasonable accommodations to help pregnant employees stay on the job.” The US Equal Employment Opportunity Commission is suing the store on behalf of the women.",
-    "Paine Field crash: The pilot of a small plane was killed in a crash at Everett’s Paine Field on Thursday.",
-    "Hold on: Did you see former Pittsburgh Steelers coach Mike Tomlin showcase his Minecraft world this week? He’s been working on it for over 12 years.",
-    "Poppers anyone? A garbage truck driver was hospitalized after “potentially hazardous materials were released” as the garbage truck compacted a load of Capitol Hill trash. The “vapors” were Isobutyl Nitrate, a spokesperson told the Capitol Hill Seattle Blog. CHS suspects they might be a letter off; Isobutyl Nitrate is “a heavy industrial additive and chemical reagent,” while flipping the “a” to an “i” makes “isobutyl nitrite,” the “over-the-counter recreational inhalant” more commonly known as poppers. So, which is more likely to have been in a Capitol Hill trash can?",
-    "US attorney drama continues: Who is going to be the federal government’s top attorney in Western Washington? Earlier this year, the district’s 17 sitting judges appointed Roger Rogoff as the new US attorney after Trump failed to nominate his own pick. Trump had appointed an interim US attorney, but had failed to get the guy confirmed by the Senate, as precedent dictates. As a “stopgap measure,” the judges stepped in and appointed Rogoff. He had the job for an hour before Trump fired him. Now, a US district judge has reinstated Rogoff.",
-    "The weather: Hm. Well, it’s going to be partly cloudy and not too cold seemingly… forever? When will the rain return?",
-    "A good read for your Friday: I enjoy everything this guy writes . Writer John Paul Brammer went to a psychic to get answers about why he was so unlucky in love.",
-    "Jobs: In September, US employers added just 29,000 jobs . Not ideal! That’s a sharp decline from August’s 133,00 new jobs. Unemployment ticked up to 4.2 percent.",
-    "Ebola is still ravaging Congo: An Ebola outbreak has killed 4,000 people in Congo since the outbreak was declared in mid-May. Health workers serving on the frontline say they haven’t been paid in months, and many have gone on strike since the outbreak began, further complicating containment efforts.",
-    "Amazon really wants these data centers: Local bookseller Amazon plans to throw its financial weight around and invest $1 billion in the local communities where it builds its new data centers. That will include investing in “education, job training, water preservation projects, and other local priorities.” Word, so that’s just because of the backlash, right? Do not let up on these freaks. Amazon Web Services CEO Matt Garman also stressed “the dangers” of the over 100 data center moratoriums being considered across the country. I presume he is primarily concerned about the dangers to his bottom line.",
-    "Gov. Kathy Hochul says police “failed” Cornell victim: New York’s governor has stepped in to mitigate the handling of the alleged Cornell gang rape case. Hochul said she had lost faith in the local district attorney and instead appointed the office of Attorney General Letitia James as special prosecutor on the case. Hochul said, “At every turn, she was failed by people and institutions with an obligation to protect her… The young woman at the center of this case deserves to know that every fact will be examined and justice pursued.” The so-called “Cornell Seven” must be shitting their pants right now.",
-    "Don’t forget: We owe the renewed attention in this 2024 rape case to dogged student journalism. The student reporters at the Cornell Daily Sun never let this case go .",
-    "ICYMI: The Seattle Times Union picketed outside their newsroom on Wednesday. The Stranger ’s Hunter Pauli wrote about what they’re asking for : better wages and promises that they won’t be replaced with AI. Robots are scabs!",
-    "No vacancy at the Bay County Pet Cemetery: Nobody owns what’s believed to be the second-largest pet cemetery in Michigan (behind the Michigan War Dog Memorial in South Lyon, of course). The cemetery’s neighbor, 63-year-old truck driver Jim Giffin, has become the begrudging caretaker. His biggest issue is people are burying their pets —often holding middle-of-the-night freelance funerals for their fur babies—when there’s no more room. They’re burying them on top of other pets. State law doesn’t allow pet cemeteries to have more than 100 dead pets per acre. Bay County Pet Cemetery exceeded that number long ago.",
-    "It is October: The weather may have its doubts about the arrival of fall, but I do not. Here you go:",
-    "The post Slog AM: Fred Meyer Sued for Pregnancy Discrimination, Amazon Wants to Buy Your Support for Data Centers, New York Governor Appoints Attorney General to Cornell Rape Case appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/PXL_20260825_145351492.RAW-01-2-scaled.jpg?fit=1024%2C771&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-8germanypoliticscenterafddielinkecdumerz",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Germany's political center fights for relevance after far-right and far-left gains",
-   "author": "Esme Nicholson",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
-   "paras": [
-    "Centrist politicians are soul-searching after electoral gains by the far right and the far left. Today's weak coalitions, political fragmentation and dire economy echo a past that led to the rise of fascism."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3558x2400+0+0/resize/3558x2400!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F61%2Fce%2Fa3c4e61844c191f71b542f62b12d%2Fgettyimages-2295879496.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nnyjohnsondefamationlawsuiticeprotesters",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Pro-Trump Influencer Benny Johnson is being sued for defamation by ICE protesters",
-   "author": "Lisa Hagen",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/nx-s1-5989413/benny-johnson-defamation-lawsuit-ice-protesters",
-   "paras": [
-    "The lawsuit says the prominent conservative podcaster falsely claimed the protesters were assaulting ICE officers during demonstrations at an ICE facility in Illinois last year."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe9%2Fda%2F5abc94a446be9f722eea345ee8d9%2Fgettyimages-2243829061.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ignaidunitedstateshealthcareamericafirst",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "October 1 ushered in a new era in U.S. foreign aid. What's the plan? Will it work?",
-   "author": "Fatma Tanis",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
-   "paras": [
-    "The America First strategy asks for a Memorandum of Understanding as a condition for healthcare and development aid. It's been praised for promoting self-reliance but criticized for its conditions.",
-    "(Image credit: U.S. Office of Foreign Assistance)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2934x1762+0+0/resize/2934x1762!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fbc%2Fe022d62a4f859ff4c48649b85df9%2Fmou-23.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-1002nxs15987714nazareviewisraelpalestine",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Cloaked in anonymity, Israeli soldiers describe mass civilian killings in 'NAZA'",
-   "author": "Justin Chang",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
-   "paras": [
-    "NAZA is an acronym for nezek agavi , Hebrew for \"collateral damage.\" It refers to the number of civilian casualties the Israeli military deems acceptable. The documentary is made by Israeli filmmakers."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3569x2006+0+86/resize/3569x2006!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2Fb9%2Ffc602b504c2492145b2d4bd9c99d%2Fnaza-still-credit-naza-the-guardian.tiff",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-2nxs15989140jobslaborwagesfederalreserve",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
-   "author": "Scott Horsley",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
-   "paras": [
-    "U.S. employers added 29,000 jobs in September as the unemployment rate inched up to 4.2%. Job gains for July and August were revised down by a total of 60,000 jobs, extending a lackluster run for the job market."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5346x3900+0+0/resize/5346x3900!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F11%2Ffbb8f99343aa89932751e3c1595a%2Fgettyimages-2280053681.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ssaultcasechristapikejobsreportreneegood",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Cornell rape case gets special prosecutor. And, Renee Good's family sues the government",
-   "author": "Brittney Melton",
-   "date": "2026-10-02",
-   "url": "https://www.npr.org/2026/10/02/g-s1-146075/up-first-newsletter-cornell-assault-case-christa-pike-jobs-report-renee-good",
-   "paras": [
-    "New legal action in two closely watched cases: one at Cornell, the other over Renee Good's death. We take a closer look."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-invw-hGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlcoc5",
-   "srcKey": "invw",
+   "id": "f-kuow-4SzUtc3NBbTJCOXRYV0djaU55MkpRcjhVSjNRoc5",
+   "srcKey": "kuow",
    "cat": "local",
-   "title": "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt",
+   "title": "Candidates in tight state Senate race diverge on expanding WA’s new income tax",
    "author": "",
    "date": "2026-10-02",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjJuSm1CdWNkRkpidl9nWDhBZW9TLUZER0FiUU41TlpkeWNNamFpWk9rTEF3S0RwS2xZMDRKVE5KbmVadE9lelZUV2ZYOXBnNWhfaHVJUHhIcTA4cVFPcnNQM3VUa2Z5bFJveW1sRERTNjBvdkhGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNamxZWHFETlo3eHU4NkoxYzJmNW9kamJ3S2wxVWNzNjlyUVZaSTFQRDM1VkR6eDNJc0lLdmtZaUYxck5hWm5BcC12S1FzZTllUC15Um1Ranlsc0xwbGdkaDJWWGVBR2x2TW11RFpFT0VsRVF3NmtrZ2JRNVlxbjVoeXFmblc2elFxcmxrMHlXclUtTUIwOThEVlZWQmtPY1pNQVgzNC1vdUR4SzUtc3NBbTJCOXRYV0djaU55MkpRcjhVSjNR?oc=5",
    "paras": [
-    "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt InvestigateWest"
+    "Candidates in tight state Senate race diverge on expanding WA’s new income tax KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -767,15 +1219,15 @@
    "annos": null
   },
   {
-   "id": "f-invw-1T29PNXN2Qm9WbHRpdk1Ndmp3V1F6Qjg3NkVQoc5",
-   "srcKey": "invw",
+   "id": "f-kuow-E5uTGlBNkJWTHNsNThrZWNuaWNRX3dUd3RTOQoc5",
+   "srcKey": "kuow",
    "cat": "local",
-   "title": "Daisy Zavala Magaña / RANGE",
+   "title": "Seattle University latest school to drop diversity question from admissions application",
    "author": "",
    "date": "2026-10-02",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KWUM4eUVydWlPQWRaWENQcldQMHk2Ny1ENnhXamxYTzRPWTBDWVR2YWxBU3ZEbDFBbkZRQjFBX3U2NThSbVAwS04tcXR1T29PNXN2Qm9WbHRpdk1Ndmp3V1F6Qjg3NkVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHhYRjFheVMzZUY5NnFERmpsS0c2OHVNeDI2X1JKWkhCQmVtOUFldlZKSnloU0dFdHdxMy0wVjlMYVd0MWNPRXpJYW9QTl9UemhaWXdlcXNHWXhsMDdZYTZGajBqUXpXdnRqU09PYUdkWTZBMERzcldvSTdld1lIeFJwZFdkVElBbl9rRThWMEpJcEcxWi1reVAtaTI0ZkFnZm9YSXFQLVpBNGJaZE5uTGlBNkJWTHNsNThrZWNuaWNRX3dUd3RTOQ?oc=5",
    "paras": [
-    "Daisy Zavala Magaña / RANGE InvestigateWest"
+    "Seattle University latest school to drop diversity question from admissions application KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -839,206 +1291,20 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lescv1j3lgrl6gkoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Widdecombe suspect charged with planning terror act against Farage",
+   "id": "f-invw-hGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlcoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt",
    "author": "",
    "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjJuSm1CdWNkRkpidl9nWDhBZW9TLUZER0FiUU41TlpkeWNNamFpWk9rTEF3S0RwS2xZMDRKVE5KbmVadE9lelZUV2ZYOXBnNWhfaHVJUHhIcTA4cVFPcnNQM3VUa2Z5bFJveW1sRERTNjBvdkhGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlc?oc=5",
    "paras": [
-    "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
+    "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt investigatewest.org"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3808/live/888bd6f0-be90-11f1-9f15-2f9dbc671f7d.png",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosc6m2d3mpm7r8oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Watch: Why has UK diesel price hit an all time high?",
-   "author": "",
-   "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/videos/c6m2d3mpm7r8o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Diesel has now hit an average of £2 a litre in the UK, the RAC motoring group says, with petrol prices also rising."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbe/live/4ab2f710-be80-11f1-babe-4199b0e7ccea.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck3r5dxxwqzpoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Riot police clash with students as education protests rage in France",
-   "author": "",
-   "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "More than 600 schools have faced disruption as protests over standards and lack of teachers continue."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7437/live/50e72320-be8c-11f1-babe-4199b0e7ccea.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqx29nke55knoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Two Iranian nationals charged with terrorism offences",
-   "author": "",
-   "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/articles/cqx29nke55kno?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The pair were arrested in the Northern Quarter area of the city on the eve of Yom Kippur."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887a/live/a540b210-b5b3-11f1-8d1d-a985658d9d3a.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc3kgqw7zvz47oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-   "author": "",
-   "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1017/live/8fe9fdb0-be94-11f1-bc2e-018d645d8d21.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6wyv44y4ywjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-   "author": "",
-   "date": "2026-10-02",
-   "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b383/live/9bf9c6a0-be8d-11f1-bc2e-018d645d8d21.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ingwiredthetruthaboutnervoussystemresets",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Feeling wired? The truth about ‘nervous system resets’",
-   "author": "Hannah Coates",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/02/feeling-wired-the-truth-about-nervous-system-resets",
-   "paras": [
-    "The internet is full of warnings about our ‘dysregulated’ nervous systems. But, experts say, you don’t need to reset yours – you might just need to make it more flexible. Here’s how (and no, you don’t need an acupressure mat)",
-    "Whether it’s tapping the side of your hand or standing on a vibrating plate, suggestions on how to “reset” your nervous system are saturating the internet. Cold water plunges, humming, gargling, yawning and spiky acupressure mats are all being touted as ways to help us “regulate” and return to calm. If you’re still talking about feeling “stressed”, you’re behind the times; now, says the internet, you are “dysregulated”.",
-    "The nervous system is an integral part of being human. “It’s essentially the body’s communication and control network,” says Dr Serena Lai, consultant psychiatrist and associate medical director at London Psychiatry Clinic. “Made up of the brain and spinal cord, it communicates with the entire body through nerves, helping us to sense what is happening around and inside us. When we have that information, we can process it and coordinate a response.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/d906d906e5677192f566f3d81a0ede0cce9d84ab/0_370_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=c9b36b04d1dac4fabebe3fea33dc3370",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-midtermracescontrolcongresschartsvisuals",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The US midterm races that will decide control of Congress – mapped",
-   "author": "Chris Stein, Alex Clark, Andrew Witherspoon and Ashley Kirk",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
-   "paras": [
-    "These graphics explain what the Democrats would need to do to flip the Senate and House of Representatives",
-    "A turning point in Donald Trump’s second term will soon arrive. On 3 November, voters across the US will decide whether to keep the president’s Republican allies in control of Congress, or return Democrats to the majority.",
-    "Many indicators of voter sentiment suggest the Democrats are favored to take back control of the House of Representatives, and potentially the Senate. Winning either would be a significant victory for the party and give it the power to block Trump’s legislative agenda and more aggressively investigate his administration."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d794cdad9b60a5c01e5609c16a65f2b7760f2241/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=79efdcfaca70beb5341c9da90a1710df",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-fulthe2026dogphotographyawardsinpictures",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Barking beautiful: the 2026 Dog Photography awards – in pictures",
-   "author": "Guardian Staff",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/artanddesign/gallery/2026/oct/03/barking-beautiful-the-2026-dog-photography-awards-in-pictures",
-   "paras": [
-    "The 18 winning images from the annual contest that seeks to showcase the world’s most exceptional dog photographs while highlighting their subjects’ diversity and charm. These photos were selected from about 1,900 entries that came from 50 countries across the globe",
-    "Scaring monkeys? Detecting bedbugs? Meet the elite working dogs – in pictures"
-   ],
-   "img": "https://i.guim.co.uk/img/media/3603e1c1b847ec18ff16a0e003434de28b8b1d21/0_216_1723_1377/master/1723.jpg?width=140&quality=85&auto=format&fit=max&s=8647811c024bb2f708413f12149f9714",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-t02terrorkyivrussiarampsupattacksukraine",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-   "author": "Pjotr Sauer in Kyiv",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
-   "paras": [
-    "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge",
-    "Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded. Staff hurried the children and parents into the shelter, where the frightened lawyer spent the next two hours with her son.",
-    "“I’m scared to death all day about what could happen to my son,” she said as she emerged from the shelter, already late for work."
-   ],
-   "img": "https://i.guim.co.uk/img/media/0eba75cbafc78d8b34af5c819eddd173481a8421/425_0_3541_2832/master/3541.jpg?width=140&quality=85&auto=format&fit=max&s=18a04d797308f926f33befc35aa3d3fa",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ews2026oct02ohio16childrenstatewideissue",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘A persistent crisis’: the 16 children removed from an Ohio family are part of a statewide issue",
-   "author": "Stephen Starr in Dayton, Ohio",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/us-news/2026/oct/02/ohio-16-children-statewide-issue",
-   "paras": [
-    "The case of the Siders family illustrates major shortcomings among Ohio’s political and administrative authorities",
-    "In June 2025, Jody Walker stood in front of Ohio lawmakers at a senate finance committee meeting in Columbus. As the head of South Central Ohio Job and Family Services, he was desperate for help.",
-    "“I have been a county director since 1999, yet I have not seen such a challenging time in the child welfare system as I do today,” he said, “specifically in terms of the needs of our children.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/dda64310dc236f959bbffeefd64618781f4751a7/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d929ec824842593a33d50075a314c35a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ct02christapiketennesseeexecutionattempt",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Christa Pike survived her execution attempt. Tennessee must not try again | Austin Sarat",
-   "author": "Austin Sarat",
-   "date": "2026-10-02",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/02/christa-pike-tennessee-execution-attempt",
-   "paras": [
-    "What happened to Pike was gruesome. No one deserves what she went through, not even those who commit horrible crimes",
-    "Botched executions are nothing new in US history . In the era when hangings were common, some condemned people were decapitated. Later, when the electric chair was in vogue, every now and again, someone would catch fire during an electrocution. And nitrogen hypoxia, the US’s newest execution method, has already proven notoriously unreliable .",
-    "But, of all of the ways we have tried to execute people, lethal injection has the worst track record. More than 8% of all lethal injection executions have been botched . Most of them resulted when those charged with carrying them out could not find a usable vein."
-   ],
-   "img": "https://i.guim.co.uk/img/media/056503b3330f83acb40e306776bb7a3255d8f6bd/0_307_1200_959/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=c73327fc11a9574cb938483aec0b9324",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1201,7 +1467,7 @@
     "Surprisingly, many of the school censorship cases today still focus on the same old issues affecting “Slaughterhouse-Five” over 50 years ago – profanity, sexual content and violence. John Green’s “ Looking for Alaska ” has been the most frequently banned book in schools since 2021, mostly because of a brief, awkward sexual encounter between two main characters.",
     "But fiction and memoirs focusing on gender identity and LGBTQ+ issues have increasingly become targets of censorship, abetted by right-wing parental rights groups like Moms for Liberty . George M. Johnson’s memoir “ All Boys Aren’t Blue ” and Maia Kobabe’s autobiographical graphic novel “ Gender Queer ” are among the most banned books in schools in recent years.",
     "And like the majority of the books banned in the Pico case, books by Black authors remain high on the list of school censorship cases. Nobel Prize-winning author Toni Morrison’s first novel, “The Bluest Eye,” appears among the top 10 banned books since 2021, and her Pulitzer Prize-winning “ Beloved ” comes in at No. 26. Ironically, “Beloved” was also named the single best work of American fiction since 1980 in a 2006 poll of writers and literary critics .",
-    "Kurt Vonnegut believed in and argued for First Amendment rights his whole career. In 1976 he told students at Connecticut College that language and literature were “holy” to him. He thought schools should resolve to expose children to all sorts of opinions and information, to make better citizens.",
+    "Kurt Vonnegut believed in and argued for First Amendment rights his whole career. In 1976 he told students at Connecticut College that language and literature were “holy” to him. He thought schools should make a point of exposing children to all sorts of opinions and information to make them better citizens.",
     "But he wasn’t too hopeful. Arguing against book banning, he wearily concluded , was like “attempting to explain America at its bravest and most optimistic to orangutans.”",
     "Susan Farrell does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
    ],
@@ -1255,103 +1521,6 @@
     "Alex H. Poole does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
    ],
    "img": "https://images.theconversation.com/files/763189/original/file-20260930-50-w0jnuk.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-conversation-proveyourworkhaveitdisagreewithyou291760",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Want to use AI to improve your work? Have it disagree with you",
-   "author": "<name>Monideepa Tarafdar, Professor of Information Systems, UMass Amherst</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/monideepa-tarafdar-185896\"/>",
-   "date": "2026-10-02",
-   "url": "https://theconversation.com/want-to-use-ai-to-improve-your-work-have-it-disagree-with-you-291760",
-   "paras": [
-    "Knowledge workers such as scientists, teachers, lawyers and business leaders are increasingly using generative artificial intelligence applications for tasks that demand imagination, creativity and problem-solving. Ironically, perhaps, recent research shows that people who interact with generative AI for work tasks can end up not thinking critically. They can surrender to AI’s quick and confident answers, which can lead to speedy but low-quality solutions.",
-    "Scholars refer to this increasingly prevalent problem as cognitive offloading . And they are showing that it can erode the very skills that make knowledge workers valuable .",
-    "My research at the intersection of artificial intelligence and knowledge work provides a different view, however. In one study , my colleagues and I interviewed 45 knowledge workers at a U.S. public university. They all were using generative AI applications in their core tasks: generating new ideas, solving complex problems and designing novel solutions. We also analyzed the prompts and outputs from their iterative AI chats.",
-    "We found that when knowledge workers intentionally use AI to challenge their ideas – to generate friction – they can significantly improve their performance. Previous research on human-AI collaboration for loan evaluations had similar results.",
-    "Using AI to find information that contradicts your own can reveal unlikely perspectives that disrupt your familiar logic and spark new insights. This is particularly important because AI models quickly become familiar with how a user prompts the model and interprets its output, and the model presents information according to these patterns .",
-    "For example, a marketing professional in our study asked AI to create virtual customers with personas that would lead them to dislike a product under development, which was an accounting certificate program. The contrary feedback from the AI model revealed customer preferences that the accounting professional designing the program had not considered, such as using multiple cases from different industries to illustrate a principle, rather than cases from the same industry.",
-    "An attorney used AI to find obscure legal loopholes and to consider how companies might exploit them. That exposed surprising but realistic scenarios of hard-to-detect unethical behavior in employees.",
-    "Exploring unlikely and opposing ideas presented by AI can feel disorienting. To help, knowledge workers should lean on their own expertise to question surprising information that an AI system might provide.",
-    "An operations research scientist who works with supply chains described adapting unfamiliar computing programs from other fields suggested by AI, such as signal processing and wireless communication, which helped him create a stronger program of his own. Although the programs were new to him, his strong understanding of supply network modeling helped him see how he could apply them.",
-    "A study I was not involved with found that creative writers produce better copy when they use AI as a sounding board rather than to ghostwrite.",
-    "Knowledge workers can also use AI’s outputs to examine topics from multiple viewpoints, deepening their knowledge.",
-    "A research scholar in our study probed an AI system for journal papers that used a concept he was using, but in contrasting settings, which helped him understand the concept from different angles. A lawyer followed up on legal citations suggested by an AI model by asking for different types of illustrative cases. That helped her fully understand the original case and write a strong legal brief.",
-    "Leaders of organizations can encourage knowledge workers to develop friction-generating queries of AI models.",
-    "A straightforward approach is to use prompts that challenge rather than agree with a person’s thinking . People can also draw on their own knowledge, work experiences and professional ethics to scrutinize AI outputs. Sometimes people realize that a response lacks originality, even if it is factually correct.",
-    "Organization leaders can also create programs for knowledge workers to share their experiences and insights. Regular sessions – led by cross-functional AI task forces or AI champions – can also help knowledge workers keep up with rapidly evolving AI tools.",
-    "Providing resources for knowledge workers is important as well. Internal AI boot camps and workshops led by AI experts or experienced users can help workers understand what AI tools can and cannot do.",
-    "A professor leading an initiative about AI use in teaching described how she developed internal competitions with prizes for professors who successfully completed AI boot camps. Organizations can also offer AI sandboxes – safe, private environments where employees can experiment and learn how to use AI tools.",
-    "In these efforts to support knowledge workers, an important detail is pointing out that adding friction can appear to make an AI system work against you, but – as new research shows – it actually helps it work for you.",
-    "The data collection site is the university I current work in (UMass Amherst). The project is an academic research project done as part of my own research as a scholar/professor. There is no monetary/consulting aspect. I have clicked no for the first question because this is not a consulting project with no monetary benefits to anyone. All data are anonymized."
-   ],
-   "img": "https://images.theconversation.com/files/763224/original/file-20260930-50-c8jewk.jpg?ixlib=rb-4.1.1&rect=0%2C395%2C3000%2C2000&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-26spacexridesharestarfishspacefirstotter",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "SpaceX’s rideshare launch kicks off milestone mission for Starfish Space’s first Otter space vehicle",
-   "author": "Alan Boyle",
-   "date": "2026-10-01",
-   "url": "https://www.geekwire.com/2026/spacex-rideshare-starfish-space-first-otter/",
-   "paras": [
-    "Starfish Space’s first full-scale Otter satellite servicing vehicle went into orbit today, marking a major milestone for the Tukwila, Wash.-based startup.",
-    "The Otter spacecraft was among 130 payloads launched from Vandenberg Space Force Base in California aboard a SpaceX Falcon 9 rocket. Otter is roughly the size of a kitchen oven, with solar arrays that were folded up for launch.",
-    "Other payloads on the satellite rideshare mission, known as Transporter-18, included Cowboy Space’s first power-beaming satellite, a prototype for Google’s AI data-center constellation, and a NASA-funded probe that will track the energy released by galaxies and supernovas.",
-    "Today’s liftoff through surface-level fog — and the return of the Falcon 9’s first-stage booster to a nearby landing pad — proceeded like clockwork. A little more than an hour after launch, Otter separated from the rocket’s upper stage and powered up for orbital operations.",
-    "Once Otter is fully commissioned, it will rendezvous with and inspect a series of inoperable satellites for a $15 million NASA mission known as Small Spacecraft Propulsion and Inspection Capability , or SSPICY for short. The capabilities demonstrated by SSPICY could be used during future missions to check the health of active satellites, or dispose of defunct satellites.",
-    "SSPICY may not be the only mission that Otter takes on during its operating lifetime.",
-    "“Success in the mission is to actually go and provide this commercial inspection service on a number of these different spacecraft, and that will be a huge win in and of itself,” Starfish co-founder Trevor Bennett told GeekWire last week . “But we’re also bringing Otter along to provide servicing well beyond that, so we could go and inspect more spacecraft, or potentially do some additional docking past the initial mission.”",
-    "This inaugural Otter mission follows up on two orbital flight tests involving smaller-scale Otter Pup prototypes. The first test fell short of linking up with its target satellite but was able to demonstrate Starfish’s satellite-tracking system . The second Otter Pup went into orbit last year and is currently closing in on its target.",
-    "Starfish Space is already preparing for future Otter missions — including a satellite disposal job for the Pentagon’s Space Development Agency, two commercial satellite servicing missions in geostationary Earth orbit, and two servicing missions for the U.S. Space Force ."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/261001-spacex2.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-itohelpfosterhumanconnectioninseniorcare",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Startup Spotlight: Porchlight uses AI to help foster human connection in senior care",
-   "author": "Kurt Schlosser",
-   "date": "2026-10-01",
-   "url": "https://www.geekwire.com/2026/startup-spotlight-porchlight-uses-ai-to-help-foster-human-connection-in-senior-care/",
-   "paras": [
-    "When a new caregiver walks into an assisted living room for a shift, they usually hold a chart with a room number and a list of medical needs — and almost no background about the human being in the bed. They might be caring for a former machinist, a retired dancer, or a veteran, but in the rush of daily care, those life stories are often left behind.",
-    "Seattle-area software engineer Patrick Donahue wants to bridge that gap.",
-    "Donahue is the founder and sole builder of Porchlight , a newly launched life-story and reminiscence tool designed for assisted living and memory care communities. With the tap of a single button on a device, a resident hears a prompt, records their memories, and lets the platform automatically generate a concise “Know Your Resident” briefing for care staff, as well as a private audio feed for family members.",
-    "The goal is to give busy aides immediate context on a resident’s history, turning routine care into meaningful human connection.",
-    "The project stems from Donahue’s own history — both as a veteran backend developer who spent years scaling web platforms and as the son of medical professionals exposed to hospice care. Seeing how easily personal histories disappear without deliberate recording, he set out to build a tool that makes daily storytelling effortless for residents and care teams alike.",
-    "Donahue shared his inspiration, the realities of early-stage software development, and the power of asking the right questions is this edition of GeekWire’s Startup Spotlight.",
-    "In 50 words or less, what’s your elevator pitch?",
-    "Porchlight is a life-story tool for assisted living and memory care. A resident taps one button, hears a question, and talks about their life. Porchlight turns the answers into a briefing so every caregiver knows the person in the room, and a private page where family can listen and reply.",
-    "What problem are you obsessed with solving?",
-    "The first shift. The aide walking into a room tonight often knows a room number and a care plan and nothing else. The resident might have been a machinist, a dancer, a veteran, and nobody has had time to find out.",
-    "It’s personal for me. Both of my parents worked in medicine, and hospice care was part of our family’s life. When my father died, I understood how much of a person’s story goes with them unless someone asks while there’s still time. I’ve also kept a journal my whole life, and I know what putting your life into words does for you. Porchlight is the tool I wish had existed.",
-    "What surprised you after talking to customers?",
-    "I don’t have paying customers yet, and I’ve had fewer conversations with activity directors than I’d like. The surprise in the ones I have had: the first question wasn’t about the technology. It was what does it cost, and who has time to set it up. That pushed me to make setup a printed QR card and nothing else, and to make it free while communities try it.",
-    "How has AI changed the way you build your company?",
-    "It changed what’s possible. Transcription can now handle older voices, and language models can turn an hour of rambling memories into a one-page briefing or a family highlight. Our whole vision is to use that to strengthen human connection, never to replace it. There are three ways it does that:",
-    "What we’re after is a better quality of life, more dignity, and a way for residents to pass their wisdom on to the people they love. The resident talks and real people listen. Nothing in it pretends to be a person.",
-    "On the build side, I’ve spent ten years as a software engineer helping startups scale. AI coding tools are the reason a bootstrapped company can build and run something this careful at this pace.",
-    "What’s one thing people misunderstand about your startup?",
-    "People hear “AI for seniors” and picture a companion chatbot, or a product only for people who are losing their memory. It’s neither. Reminiscence, meaning simply inviting someone to talk about their own life, is one of the oldest and most loved practices in eldercare, and it works for anyone with a life behind them. Porchlight makes it possible to do every day and keep what gets said. It isn’t a medical or therapy product, and I don’t claim it is.",
-    "What was the toughest decision you made in the past year?",
-    "Pulling claims off my own website. When I checked the marketing against the code, some of it described features that were planned, not built. Cutting that felt like making the product look smaller right when I needed it to look bigger. But I’m asking communities to trust me with their residents’ stories, so the copy has to match what the software actually does.",
-    "What’s one piece of advice for other entrepreneurs?",
-    "Make sure what you say matches what you’ve built. It’s tempting to describe the version in your head. Early on, trust is most of what you have to sell, and it’s easy to spend it without noticing.",
-    "A new aide walks into a room on their first day, asks a resident about the dance where he met his wife, and watches him light up. And the community pays for Porchlight because that moment is worth it to them."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/patrick-donahue-headshot.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1570,83 +1739,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-mFpZFQyWVdETTI3SjR4RjB0WE5iOWpzSDBqMAoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle lost 18,000 jobs last year as labor force in Tacoma, Bellevue grew",
-   "author": "",
-   "date": "2026-10-01",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTHN6ZDFmMkhpZU1laG9tcW8yb19Cbmo2U1BTdEVpS3dSODF2aC1WeFlKd3A3UE9vWHludENaek1iNnZ3T3d1SGxSNzRPWW5odEdKOGFvanpOZzd2c01SZy0xRlhhMFI3RVpOZGVTc3drdVdPMEIyRjVaeXZtUUFFVkJvMzlwbUEyWTNXUlQyLTFXanN5NHVuNmFpZFQyWVdETTI3SjR4RjB0WE5iOWpzSDBqMA?oc=5",
-   "paras": [
-    "Seattle lost 18,000 jobs last year as labor force in Tacoma, Bellevue grew KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-RQZmxoYi1UeUFYTVd0ejZOdml0WUJ3YnludHgoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "New light rail station rolls into Seattle’s Pinehurst neighborhood",
-   "author": "",
-   "date": "2026-10-01",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQllvQnh3d01HUGhXY3pTRXA4NHFNRGdfakhEbElvWDB5Vi1IQUNGUHp2bFQ4RHRTcHo2UFVHUjA2N20taUFtb2hwem5kdkZheGJIdDRUYThqb0x6cWZfYnM3NkxXTzJROWpHUmF4SXVMOHA4VVpFcFh1VTF4akRfeGhBd0lIc2wtbGl4eWRQZmxoYi1UeUFYTVd0ejZOdml0WUJ3YnludHg?oc=5",
-   "paras": [
-    "New light rail station rolls into Seattle’s Pinehurst neighborhood KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-moverlowpayandthreatsofbeingreplacedbyai",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Seattle Times Journalists Picket Newsroom Over Low Pay and Threats of Being Replaced by AI",
-   "author": "Hunter Pauli",
-   "date": "2026-10-01",
-   "url": "https://www.thestranger.com/news/seattle-times-journalists-picket-newsroom-over-low-pay-and-threats-of-being-replaced-by-ai/",
-   "paras": [
-    "Dozens of unionized Seattle Times workers picketed near the newsroom on Denny Way yesterday after they say the newspaper’s owners refused to satisfactorily raise wages or agree not to replace workers with AI during contract negotiations.",
-    "The picket is the Seattle Times’ first big labor action in decades, and a sign that disagreements between those who make the newspaper and the company that profits off them has reached an inflection point.",
-    "One main point of contention in ongoing contract negotiations is something any working Seattleite can understand: Seattle Times journalists say the company doesn’t pay them enough to live in our expensive city.",
-    "According to the Seattle Times Union, which is repped by the Pacific Northwest Newspaper Guild, as are Noisy Union workers at The Stranger , the company’s most recent offer would raise wages for the more than 160 represented employees by only $1,250 a year, or $48 per paycheck before taxes—that’s two quarters and a dime per hour. That’s a less than 2 percent raise for most union members, which alongside the region’s high 4.4 percent inflation (per the Seattle Times own reporting) means the company is offering workers a pay cut to their real wages.",
-    "For contrast, Seattle’s minimum wage is tied to inflation and set to increase by 3.9 percent in 2027, meaning Seattle Times workers have been offered percentage raises below what Seattle is required to pay its poorest workers.",
-    "Ryan Nguyen, an education reporter who has been at the Seattle Times for 5 years, says affordability has been one of the newsroom’s main pillars of coverage for the past year. He recently reported on the Seattle teachers union’s struggles with wages that didn’t keep up with costs, a topic that can feel strange to cover as an important issue when the company doesn’t deem its own employees underpayment noteworthy.",
-    "“There is a lot of cognitive dissonance between the topics that we cover and our day-to-day lives,” he says.",
-    "Nguyen says while the company touts its strong financial position relative to other metro dailies as a result of its focus on quality journalism, the Seattle Times has been unwilling to invest profits back into those who produce that value for readers in the first place.",
-    "When he first started at the Times back in 2021 Nguyen made $51,000, which he says was “extremely difficult to live on in.” While his wages have since increased, the wage floor at the Times is still below what many other news outlets in Seattle maintain, and makes it hard to stick around as employees grow older.",
-    "He says it’s scary to see people who have dedicated so much to the company for years struggling with whether or not they can put down long term roots in the community.",
-    "“For a lot of my colleagues who want to start a family, the wages are particularly pernicious,” he says.",
-    "Concerns over low wages are nothing new for journalists (or most Seattle workers) but it’s only one of the issues the Seattle Times Union has with the company. To get into the others, we’ll need to discuss the elephant in the room. Or rather, the giant rat outside the newsroom.",
-    "In time honored labor union tradition, the Seattle Times Union deployed Scabby the Rat on their picket line Wednesday, the giant inflatable rodent meant to call attention to employers using non-union labor or “scabs” during strikes. While there’s no strike at the Seattle Times , Scabby’s presence serves to illustrate another major concern Times workers have with management: the company’s refusal to pledge not to replace newsroom workers with artificial intelligence software.",
-    "According to the union, while the company has agreed not to use AI to interview sources or write articles—protecting the jobs of reporters—they’ve so far refused to agree to contract language protecting other journalists on staff such as photographers, copy editors, illustrators, page designers, and more. That’s roughly half the newsroom.",
-    "While the public might have a good idea of what replacing a reporter with AI will look like—slop sentences, manufactured facts, and an overuse of emdashes—the essential work of editors and designers is less visible, and its replacement with AI harder to imagine. The Stranger’s readers often remind us of the typographical errors resulting from cutting copy editors (thank you), but there’s more to it than just that.",
-    "Brandon Foster, a copy editor who has been with the Seattle Times for 5 years, says while people often think copy editors are just spellcheckers (and therefore easily replaceable by AI), in actuality they wear a lot more hats than that.",
-    "“Something that can’t be replaced is putting ourselves in the position of a reader,” he says.",
-    "Beyond checking spelling and grammar, a professional copy editor is a professional storyteller. They can see where a story might trip up a reader, or if the lede is buried, or if there’s a factual error or logical problem that means a story needs to go back to a reporter for more work before running. Software can’t make calls like that.",
-    "“You are sort of that last line of defense if there’s a huge hole in the story and you have to send it back,” Foster says.",
-    "Foster says reader trust in the Seattle Times would diminish with AI in the mix, and that while the copy desk might not be the most visible part of a news organization, its absence certainly is.",
-    "As a former sports reporter, he compares copy editors to a good offensive line in football: the best one is the one you don’t even notice is there.",
-    "Despite not agreeing to the same AI moratoriums common to other newsroom contracts, the Seattle Times has tried to present the organization to the public as opposed to AI in journalism. In a September 27 message to readers that reads like they got some angry subscriber emails, Executive Editor Michele Matassa Flores spelled out for readers the company’s policy on AI in the newsroom, including that the paper is suing OpenAI and Microsoft for mass copyright infringement ( so are we! )",
-    "“The Seattle Times does not publish news stories produced by artificial intelligence. Full stop,” Flores wrote.",
-    "Compare that to the company’s language during contract negotiations, according to the Seattle Times Union: “What if you had an AI that could design pages? And someone is leaving. We need to look at positions and make decisions and keep the health of the company in mind.”",
-    "The Pacific Northwest Newspaper Guild responded to Flores’ piece in the story’s comments: “The Seattle Times Co. has refused to guarantee that no newsroom jobs will be replaced by AI. The company has only agreed to protect reporters, leaving scores of other Seattle Times jobs — including photographers, graphic artists, copy editors, producers and more — unprotected. And yet, executive editor Michele Matassa Flores in this column lists photographers and editors among the human relationships that are required in journalism. Union members agree, and we would like to see the company show that it is as committed to human journalism — done by reporters, photographers and editors — as Flores claims in this column.”",
-    "The Stranger reached out to the Seattle Times for comment and they only got back to us after publication. In a statement, Seattle Times President and CEO, Alan Fisco said, “We are aware of the Guild’s informational picket, and we respect that our employees want to share their concerns with the public. We understand the Guild’s concerns regarding the development of AI in the workplace, and especially its potential impact on journalism. These are complex issues that require a thoughtful, deliberate approach. To that end, we remain committed to negotiating with the Guild toward mutually acceptable contract language regarding AI use at the Seattle Times, as well as resolution of all other outstanding issues.”",
-    "This story has been updated to include comment from the Seattle Times, which , we’d like to point out, they got to us after the deadline we gave them .",
-    "The post Seattle Times Journalists Picket Newsroom Over Low Pay and Threats of Being Replaced by AI appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/093026-seattle-times-strike2-credit-Seattle-Times-Union-scaled.jpg?fit=1024%2C704&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-W5uVHZvMmJEdkJwVlJzS25ac0x2eXR4R2c5awoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1737,55 +1829,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-httpswwwtheurbanistorgpinehurststation",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Pinehurst Station Bursts into Action, as Upzones Trail Behind",
-   "author": "Doug Trumm",
-   "date": "2026-09-30",
-   "url": "https://www.theurbanist.org/pinehurst-station/",
-   "paras": [
-    "Today, Pinehurst Station is officially a stop on both the 1 Line and 2 Line, bringing another Seattle neighborhood into the fold of the region's growing light rail system. Trains began stopping at Pinehurst bright and early at the start of service: 4:57am to be exact.",
-    "The Urbanist's Fall Member Drive is in final stretch! Support our work, read ad-free, and help us blow past our goal!",
-    "Pinehurst's opening day arrived five years sooner than the Sound Transit 3 (ST3) ballot measure pledged in 2016. The station's arrival and accelerated timeline is thanks to a concerted push from Seattle activists and leaders. Local organizer Renee Staton recounted that journey in a recent guest piece in The Urbanist .",
-    "The infill light rail station had been left on the cutting room floor as ST2 plans were formulated in 2008, but ST3 secured funding for the project with a 2031 opening targeted. Pinehurst ended up coming in at a cost of $240 million.",
-    "\"Now, 2016, the region approved this station as part of Sound Transit 3, and we, at that time, operated 21 stations across 22 miles of track,\" Constantine said Tuesday. \"Well, this station will be the 30th station we have opened since then. While almost tripling the track mileage, we'll now have 51 stations and 63 miles of track. That is a phenomenal pace of growth, and this is a system that our region has embraced wholeheartedly.\"",
-    "Sound Transit board members were convinced of the wisdom of opening the station shortly after the Lynnwood Link extension grand opening, voting to accelerate the timeline in 2020 and finalizing that decision a year later. Beyond simply wanting to deliver the station to North Seattle communities sooner, a practicality and cost-effectiveness argument swayed some votes. Construction costs tend to only climb with time, while fitting in construction windows becomes more difficult as ridership grows.",
-    "Lynnwood Link construction laid the track and the basic structure of the station, and some additional work happened before Lynnwood Link officially opened, though there were also significant disruptions to existing riders to get the station fully built after service commenced.",
-    "With the extension of the 2 Line across Lake Washington in March, regional light rail ridership has taken a big leap. Daily ridership exceeded 160,000 in April and continued to grow over the summer, spiking at a one-day record of 309,000 during Seattle's last World Cup match in July. This growth appears to have made Sound Transit the most-ridden light rail system in America – though several heavy rail metros have higher ridership.",
-    "The agency hosted a ribbon-cutting ceremony for its new infill station Tuesday afternoon, featuring a smorgasbord of speeches from local officials. Seattle Mayor Katie Wilson gave a nod to the leadership from transit advocates and Councilmember Debora Juarez (who wasn't in attendance) to make the station happen, and to the work ahead to make Graham Street infill station happen in Southeast Seattle.",
-    "\"This is South Transit's first infill station, but it certainly will not be the last, and it happens because the people fought for it,\" Wilson said. \"So thank you to Councilmember Juarez and all of the community advocates who made sure that Pinehurst did not get left behind. And thank you to the Sound Transit Board and agency for listening and delivering.\"",
-    "To the south in the Rainier Valley, Graham Street very nearly did not survive Sound Transit's \"Enterprise Initiative\" expansion plan overhaul in May. Board Chair Dave Somers proposed tabling the project indefinitely, but Wilson spearheaded a push to keep it on track to open around 2031. It ended up taking the pledge of $30 million in last-in funding from the City of Seattle to avoid the chopping block.",
-    "Located between Northgate and South Shoreline, Pinehurst Station is projected to attract 2,600 to 4,200 boardings daily boardings – at least once the system and surrounding neighborhood matures. That ridership would be on par with Mountlake Terrace (also near a golf course) and Beacon Hill. The late September opening coincides with the start of classes at the University of Washington and meets the agency's goal of opening the station in the third quarter of the year.",
-    "The station happened on a faster timeline than Seattle's rezoning process for the surrounding neighborhoods. The city had almost looked ready to advance its overdue Comprehensive Plan update until legal appeals derailed the process , forcing additional analysis on top of an environmental study that was already 1,300 pages long.",
-    "As a result, Pinehurst Station is surrounded by single family homes, a fenced-off City-owned golf course, and of course an obligatory gaping freeway trench spewing noise and pollution in the general vicinity. While the Comprehensive Plan declined to tackle the latter two issues, it had queued up rezones allowing five- to eight-story apartment buildings and ground-floor retail in several swaths of Pinehurst and some more limited areas of Haller Lake, replacing some broad areas of low-density Neighborhood Residential zoning.",
-    "Wilson acknowledged the delay and her resolve to see the rezones though, which she has also sought to augment with her Taller Faster Denser Plan .",
-    "\"This is not just a station; it is a spark – a spark for long-term transformation in the newly designated Pinehurst-Haller Lake Urban Center, where we will see more homes, shops, services, parks, and walkable streets, all connected to great transit. That's what it's all about,\" Wilson said. \"Sometimes we build transit where lots of density already exists, and sometimes we build transit, and we're able to welcome people around them.\"",
-    "Councilmember Dan Strauss – who like Wilson sits on the Sound Transit Board – upped the ante and declared Pinehurst a prime candidate for a freeway lid to create more developable land near the station and reconnect the street grid. As it stands, the west side of the station is cut off by I-5, with no safe bike facility and an unpleasant experience for those walking and rolling. Shoreline is building a pedestrian bridge at its 148th Street Station, but Seattle has no such facility planned.",
-    "\"As we pass the Comprehensive Plan, there is more density. And when we are looking to reconnect across I-5, I talked today with Office of Planning and Community Development about the needing to lid I-5,\" Strauss said. \"We can do so without any public funds. It recreates the grid. It increases the property tax that King County and Seattle has, and we had it done in Washington D.C. for zero public financing. This is a perfect candidate, and I'll tell you, it would not have the oomph if it weren't for this station.\"",
-    "Councilmember Eddie Lin, who chairs the land use committee, told the Seattle Times that he thinks it might be 2028 before the council is fully able to enact zoning changes, due to the need for additional time-consuming environmental studies to resolve the legal challenges.",
-    "While the Growth Management Hearings Board threw out the environmental complaints levied against Seattle's waylaid growth plan, it did find that the document failed to sufficiently study a higher growth scenario than the 120,000 new housing units over 20 years that was the upper echelon of Harrell's proposal. This is much to the chagrin of housing advocates who specifically pushed the Harrell administration to include a higher growth scenario in the plan. Over the last decade, Seattle has often exceeded the 6,000 homes per year production pace in the growth plan.",
-    "The upshot of this planning snafu is that Pinehurst likely waits a few more years for the blanket ban on new apartments to be lifted across much of its walkshed. At that point, perhaps an infusion of new housing will happen if interest from builders is there.",
-    "The Seattle Department of Transportation did deliver a number of street upgrades in time for the opening, including a new roundabout, protected bike lanes connecting Lake City to the station, new greenways, and a shared-use path to James Baldwin Elementary. The roundabout at Roosevelt and 125th is the first full-sized roundabout ever built inside city limits.",
-    "\"About 90% of riders are expected to arrive without a car,\" Wilson said. \"That is remarkable, and it's exactly why we have been investing in safer streets, new sidewalks, protected bike lanes, upgraded bus stops, and better buses. And for the real transportation wonks out there, we are excited to open the first roundabout in Seattle at Roosevelt Way NE and NE 125th Street.\"",
-    "King County Metro added Route 77 in its last service change providing a feeder route for the station that finally offers a direct bus connection between Lake City and Bitter Lake. Route 77 features 15-minute frequencies from 7am to 8pm, before dropping to half-hour headways thereafter. Other neighborhoods are feeling shortchanged by the adjustments Metro has been making around light rail openings, after losing direct connections that they once had.",
-    "Similar to other Sound Transit stations, artwork has been a major focus when it comes to potential placemaking. Pinehurst's prominent station art was designed by Seattle-based artist Romson Bustillo , who was born on the island of Mindanao in the Philippines. Human and animal figures brightly patterned in red, yellow, and green give the station a South Pacific vibe.",
-    "The station opening today will mark the last light rail opening in the region for quite some time. Sound Transit will roll out its Stride bus rapid transit network in 2028 and 2029. For light rail openings, Graham Street is next on deck in 2031. West Seattle Link has slipped to 2035 , which is also when Sound Transit is expecting to open Tacoma Dome Link . The agency is hoping to launch the first leg of the Everett Link extension (as far as Paine Field) in 2037.",
-    "Ballard Link, meanwhile, has considerable uncertainty, with 2042 for the whole line the best case scenario, which would require closing a huge budget gap of around $8 billion. The less-rosy scenario would be opening only the downtown portion in the 2040s and delaying the Interbay and Ballard section to the 2060s , pending enough funding accruing in Sound Transit coffers.",
-    "Another looming cloud on the horizon is labor strife. A half dozen picketers turned out to the ribbon-cutting with signs demanding a fair labor deal. One of those picketing Sound Transit workers, Brian Vierela, said a group currently exempt from collecting bargaining and working in project control, environmental permitting, community outreach, and systems engineering are seeking to unionize under Protec17, but they say they are being given the run around from a CEO that just got a lucrative extension himself .",
-    "\"We're very happy that [Pinehurst] is opening,\" Vierela told The Urbanist . \"We want to come here and show support for all of the workers that made this possible. But we're also very frustrated at the negotiating table with Dow. Recently Dow was able to have his contract renewed in about you know a handful of hours of the board deliberating. We have been at the negotiating table for over 18 months at this point, and we're here to essentially ask Dow to get us a deal and respect our union, and let's just move forward.\"",
-    "Ballard Congratulates Golf Course on Its New Light Rail Station: tinyurl.com/yncw9jep [image or embed]",
-    "The struggle to get light rail to Ballard while many less populous and popular destinations are added to the system led the satire site The Needling to write the headline \"Ballard Congratulates Golf Course on Its New Light Rail Station.\"",
-    "While rezones bringing density are inbound eventually, for now the satirical headline isn't far off. Mike Lindblom's station opening preview in the Seattle Times wasn't much more sanguine, framing the station as a potential boondoggle. Lindblom noted that if the land use around the station isn't able to improve by leaps and bounds, ridership could skew toward the low end of Sound Transit's projections – with as few as 1,100 daily riders hopping on trains.",
-    "King County Councilmember Rod Dembowski took the opportunity to respond directly to those claims Tuesday.",
-    "\"I know, Mr. Lindblom, that you know based on your reporting, there are some doubts about ridership, whether this should have been built, whether the investment was worth it,\" Dembowski said. \"I'm here to tell you, we are here, and it was worth it. This station is going to deliver on riders. It's going to deliver on housing. It's going to deliver for Lake City that needed this investment, and I encourage everyone to do what I did: take the 77, a beautiful, brand new bus that adds east-west connections to this part of the city.\""
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/09/Pinehurst-train-pulls-up-with-ribboncutting-marching-band---Trumm-PXL_20260930.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-Udm9RdEV1Q1d4ZkNfZzZCcjdKWi1STDNLSkdZoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1795,6 +1838,23 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSHByMlFtUkpQOGNkUUFxTXZmcURTS2hWLTc4NEliOEFQRmpuZ0hfV2Z4X2lxOHVqanhPTHlwMWdfbTR4NW91cm9rbTVwRC13dWhONUtxZVpiYi1BRS1ZZFFIOXJ3STR0QWlTR3lEOGlWQ1o0eUlvWW9Udm9RdEV1Q1d4ZkNfZzZCcjdKWi1STDNLSkdZ?oc=5",
    "paras": [
     "11,000 WA residents expected to lose Medicaid Oct. 1 KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-1JjUk5STVVWcXIxSW96NldmNjZQVy1Wei1Hdwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "WA Rep. Adam Smith says constituent feedback turned him against Israeli war efforts, US support",
+   "author": "",
+   "date": "2026-09-30",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRmNMRklhVUhQbVVFZ2p5SThrbEJ3WTFSMU5oclhjb1RxZjF4VkNpVHZfOVh0MVVSQk5kMEExMGIxQnFLZTdua01DSk5CRWZZeHRta29NS3pTWnFTeHA3WmN3NlRIeVU2TDJIQzA3S19FMVVVUTc3c0Q5ZEUzU0ljMkNhcDRVRTZTdndzbjNYTHY2VUpvTUsxeHBrNEhzTU9DSnlqRklpQ3lDcnotcWNDVXE1SDV5SmlmYmdyZjFZX1JjUk5STVVWcXIxSW96NldmNjZQVy1Wei1Hdw?oc=5",
+   "paras": [
+    "WA Rep. Adam Smith says constituent feedback turned him against Israeli war efforts, US support KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1828,7 +1888,7 @@
    "date": "2026-09-30",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTWhQWlVJa1lpUnVqRndkQjdGcVUzMDlpV1BpZE55QVJ4c1BVSktWWTdrV01kN2Zxd2syUl9yYW5tZmV3R1BHQnhnY2p4dnhqTmQ2MWx2cXpMMFVpQ1NEQi1NTml1ZmJfekJNeG16M3pfTU9mWDNKaHBEQkpycFRaY3ZmSU0yQmFWVVhESVFPS21sbllveTd3bDJIelRabkRkYV93NUVmSnlINXpCYVE?oc=5",
    "paras": [
-    "Former residents of Oregon Christian ranch call for closure InvestigateWest"
+    "Former residents of Oregon Christian ranch call for closure investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -1867,15 +1927,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-I4R1U2aXU4VjV3OXZzV3hrWEdiMmFNTkNiRUUoc5",
-   "srcKey": "kuow",
+   "id": "f-invw-LUjZOVC1mNFpIUmdwUlgtRm9memxPQ1hFcGl3oc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "Western Washington shaken by 4.2 magnitude earthquake",
+   "title": "The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’",
    "author": "",
    "date": "2026-09-29",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMEQ1Y2dMT21BOHdyQzE0UUdLQU9DaUpza0VzQWl6a3VCbmFFclM1NEZkTVB6T2x1RVZVUVM0VTA1eGQtOTNtejBUYlI2d2xzcXVZRG5OTW9KNE11U0syQVY0Z2ExdVNKYVFoVWd0ZHNnYjZOSl8zdlZYaGsyUHZCMkRVUDI4R1U2aXU4VjV3OXZzV3hrWEdiMmFNTkNiRUU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcHdUZlRRNHRCZE5PWVpocmlMMXV1b0ZZbkVyRk8waFR6Qm8xcXJXMjVLekJqYms3WEpHcXNna3VpYkE0eEs4VEJOTldhR3NfbVhFV2hINnBSOW5uVVBXbERKWDV0YTJBS1VkbmFPR0o5Zl9pTWl6YmpqOF9VTEI0VkhxTnJNdFJqVkM2eEJLSGwzbTEyX3F2ZENUWGJVT2ZILXBYUnMxYnBWMXRSdGNLUjZOVC1mNFpIUmdwUlgtRm9memxPQ1hFcGl3?oc=5",
    "paras": [
-    "Western Washington shaken by 4.2 magnitude earthquake KUOW"
+    "The Trump Administration’s Critical Minerals Agenda Comes for America’s ‘Forgotten Wildlife Corridor’ investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -1892,7 +1952,7 @@
    "date": "2026-09-29",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zWGJ1ZFFKd2FVd19TNmh6ZzhLZm1KeE5ncDVlVk5Jam1jQ3VONEtsRDJRVXBXOVVFUHBHVndxbW5VZEN3aEhJZkhnZmtRRTFKZjhBLVpCS2c?oc=5",
    "paras": [
-    "Carla Samon Ros / Columbia Journalism Investigations InvestigateWest"
+    "Carla Samon Ros / Columbia Journalism Investigations investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -1994,7 +2054,7 @@
    "date": "2026-09-28",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTlJjWmV1cFowTkpsUGNNc1p2LWlIMjA5QjFMQklCY2RqMFpZM2Zyai1XQXBieHVsTUxOblZJR0M0c2l4c3hIOGdqbm1ib0JHWDc2WlJJeUhici1RRktVV1ZWdzcxTEF3TWdZSElFbkJ4WGVXVlV3MGFhVFFQNm5VMUdwT1RzWVJYa0Y4Z3daS0JOLXZCT0lyOGh3Yw?oc=5",
    "paras": [
-    "How InvestigateWest sparks change across the Pacific Northwest InvestigateWest"
+    "How InvestigateWest sparks change across the Pacific Northwest investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -2011,24 +2071,7 @@
    "date": "2026-09-28",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGdqdkpSMXR4dURDNURyY213SFEzVUpLSWdoTXNrcTNETERBS3ZLMXpEcmt1MndqSkoySW5NVUhRZldKS3NmQVhscGFLSFRsVjNLTjJyQVJ1OE02bm8wbk1NQUQ5REptZU5PcUVNQl94OWJRbWdnMmJaQzRwcE5UOVYtTnZaN3hEYkFnS0VReXFqSzlQMUozQ3Zic3pwLUJsa3BFSmd0WUpxUDdIZVVvZm5n?oc=5",
    "paras": [
-    "Guarded by Predators | Inside Idaho’s Prisons, Where Guards Get Away With Sex Abuse InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-1YVVY3X3VBci1TdmNPcDBnb2JqNUZ1cFZsdS0oc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Graham Street Station Is Fully Funded. Now Comes a Block Party",
-   "author": "",
-   "date": "2026-09-28",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObHN4N0lNQVhFQUpjelF1MGYzczk1NU9UcXFqcm1vRlkyU3ZKMG9JQlpsdlg3NTM5dU9PcnRmRnVxUGdnQlRrUUROZVg4QmpXMkJlTk9feXF6eWd6QV9CUGlScFpsLTFiRDAxRFBrZjlyMEdYU09Ec2RKRGhIaXdCNzBpdGFTNk56OTRETHdkZTIxeWtyQTVLZGlqTmU3T0Q3VVlDWDdiNlZPNm1RTU93TmdrRdIBwAFBVV95cUxOUEhRdzFKUllpR2dnOXIyTDNTYWxjT0hXY2tfdi1xdm1WaHRPQ0g2TjhSUWc5T2pSWlhrR0Juc2t1U081cEhqNUtORzNIWHJSZnhmOTdHZWFoUlVSVjVUbTRTVUpscmY1X1pHMTI4NkpESUtjaUhpQU10MDg1d1NoNFNTS2lUYWRNXzIyQjFDdjdYenluZ3FReU1FYkZuSjVZUTZTYi1YVVY3X3VBci1TdmNPcDBnb2JqNUZ1cFZsdS0?oc=5",
-   "paras": [
-    "The Graham Street Station Is Fully Funded. Now Comes a Block Party South Seattle Emerald"
+    "Guarded by Predators | Inside Idaho’s Prisons, Where Guards Get Away With Sex Abuse investigatewest.org"
    ],
    "img": "",
    "fetched": true,
@@ -2050,23 +2093,6 @@
    "img": "",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-5zckQtOXZrZS1xOHZiLXFSbHZBeGhTZUxzekwoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: Smart Growth Plan",
-   "author": "",
-   "date": "2026-09-27",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRXNrLW9ZUS05ajBheGV5NmJwOHZWbU1nbHFLdVVDWFpRN2JLU0xmM1lXTklwY0VSeWxoU2N4aVNsX1hPRGFFb1VhQ01rbF9fTC1OUVlrLUpVZ1IxRXhvWl9BRlIzc2xva282OFVleXBYUkFpSzVpcGEwVDRVV1dFbDAtSdIBkAFBVV95cUxNWklDLWZRQ1lDRndacll4eWtsUUEyWkxFQlVTLXA5clJQc1VDcV9WOC1mN0xSYjJZdk1vX29nd2pab19ROEV0WTFqYm43REdFM2lEd3hzMzdiTHhHUmJhZ1FfREx2SmZ2SWdfRUtnMFFyOU9BV25zckQtOXZrZS1xOHZiLXFSbHZBeGhTZUxzekw?oc=5",
-   "paras": [
-    "DOOM LOOP: Smart Growth Plan South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -2166,23 +2192,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/SELECT-Eater_Seattles_Best_Restaurants_Wayland_Mill_Brooke_Fitts037.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-WktZHpudmM3cGlINGxrV2hvS3dfdE9NZy1lUQoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "South End Artist Malia Peoples Makes Kapa for a New Generation",
-   "author": "",
-   "date": "2026-08-06",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZm5BUzcwSC1QUTRJeE54Q2xuV0pWYUFSRWppU0lOcnB2RFBxS1p3eWZWV3FjY0c5UGZhV3lPSXQxbDR5cmx4eTEzWU1XLWJsbk4wUDhaZXFna2NCZzNHTDI3RGRfU0NxUldraUVJeExJUTNqV3pyMmpQbnlhOUpMbHZUUDRlNE9XYlpLNTNTUFhTNWItakRRV0lRbEk2TXRLSjA1SDh1RWNfQkpmNG1iLVdIYm1zN0NiQmfSAccBQVVfeXFMUG1VN3BLZWxNV0UtRFo2WWM0dzlmcjg5RkQ4SVEwQnFzLTY5WF9TVWIwUm5zb1FTSkV3RjF4SkxGRjhRSWdnUFhSVFJhZUM3X0lVMEFfdS1QNU9QX1YzS1E5aWNlYTFjU0Y4Z1owcXdUdk1QOE1TcGFPM2xqc1F4a2lJemZDc0JIQ1VSUHJWZ0ZTUENPVzF2ZWhsbl9iMmQ3NGVBTTRWbUJIQXB5UWktZHpudmM3cGlINGxrV2hvS3dfdE9NZy1lUQ?oc=5",
-   "paras": [
-    "South End Artist Malia Peoples Makes Kapa for a New Generation South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
