@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-10-10T19:38:20.836Z",
- "builtFor": "2026-10-10",
+ "builtAt": "2026-10-11T19:48:28.960Z",
+ "builtFor": "2026-10-11",
  "builtHour": "12",
- "count": 88,
+ "count": 87,
  "sources": [
   {
    "source": "bbc",
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 6,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,519 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-aidoomermaxtegmarkandwhereithinkheswrong",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Etzioni on AI: Where I agree with AI ‘doomer’ Max Tegmark, and where I think he’s wrong",
+   "author": "Oren Etzioni",
+   "date": "2026-10-11",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-where-i-agree-with-ai-doomer-max-tegmark-and-where-i-think-hes-wrong/",
+   "paras": [
+    "Regular readers of this column may have wondered about the long gap since my Sept. 4 column, “ What kids tell chatbots, but not you .” Well, it’s hard to write business-as-usual AI columns during the great AI freakout . I’ve realized that I won’t be able to do justice to this topic in one column, and that life goes on. As the economist Antoine Levy pointed out , OpenAI employees warn that we may all die within a few years yet still fund their 401(k) accounts.",
+    "I’m easing into the topic of AI risks by sharing a recent debate I had with Max Tegmark , an MIT professor and a leading AI doomer. The New York Post set this up as optimist against doomer, but I consider myself an AI realist.",
+    "Tegmark noted that Bernie Sanders and Steve Bannon have converged on AI, and took it as good news. It terrified me. AI needs rules written by people who understand it, not by demagogues. Tegmark said that AI is less regulated than a sandwich shop, but we have plenty of sandwich shops and zero superintelligence (so far). I believe that we should address what exists: the hackers who already use AI to break into companies for the price of lunch.",
+    "A condensed version of the debate follows. Words in quotation marks are verbatim, and the rest is paraphrased. You can view the debate on YouTube . Several exchanges refer to this summer’s incident , in which OpenAI test agents got out of their sandbox and hacked Hugging Face.",
+    "Tegmark: Loss of control used to be a forecast, and “now suddenly it’s in the past.” This summer “1,200 rogue bots broke out of this American company,” and “humans didn’t even find out until weeks later.”",
+    "Etzioni: The agents weren’t rogue . The people “setting the configurations of their sandbox” at OpenAI “failed to put the boundaries on them appropriately.” People made that mistake, and people can fix it.",
+    "Etzioni: Cyberattacks and attempts to make bioweapons are “a clear and present danger.” Extinction-level risks are different: “We haven’t seen those yet. We hypothesize, and usually pretty vaguely, on how these will come about.”",
+    "Tegmark: The risks Etzioni wants to separate are “connected in their cause.” “If there were some safety standards like there are for other industries, so many of these problems would go away.”",
+    "3. Government regulations vs. technical fixes",
+    "Tegmark: Do what the auto and pharma industries do, and “have some binding safety standards that the government requires before people can make money off of products.” Companies would have to show that their AI won’t harm kids and won’t slip out of their control. If they can’t show that terrorists won’t use it to make bioweapons, “well, come back when you can, buddy.”",
+    "Etzioni: Regulation is necessary, but it has its own risks. “The road to regulatory hell is paved with the EU’s good intentions.” And “we should not underestimate the power of technical solutions.” The author Dan Wang says China is run by engineers and America is run by lawyers, so we naturally talk about regulation and they naturally talk about technical fixes. For bioweapons, the fix may lie “in the transitions from what’s called bits to atoms,” where we can block the physical materials an attacker needs.",
+    "Tegmark: “We don’t have to trust China.” The Chinese Communist Party wants to stay in control, so “they will not want to let a Chinese company build uncontrollable superintelligence.”",
+    "Etzioni: I don’t trust China. “Nothing would make them happier than us hamstringing ourselves.”",
+    "Tegmark: “There’s been more political change in a good direction in the last few months than in the past decade.” It’s like a ketchup bottle: “nothing, nothing, nothing, and then all of it at once.” At my convention I introduced Bernie Sanders and Steve Bannon back to back, “which had not been in my bingo card.”",
+    "Etzioni: “Can you imagine two worse demagogues?” And “we need to have good solutions, not popular ones.”",
+    "Etzioni: “I foresee over time something quite negative happening, and to me the question is whether it’s Hiroshima or the Cuban Missile Crisis.” The Cuban Missile Crisis was a threat averted. Hiroshima was a catastrophe that came before the better rules did.",
+    "Tegmark: Self-interest is the fix. Make safety the way companies get rich, and “we’re going to see all the creativity and entrepreneurship of private industry racing to the top to do this instead of racing to the bottom.”",
+    "Etzioni: The AI CEOs are self-interested. “When you are on the path to a trillion-dollar-plus IPO, that exerts a gravitational force on your mind.”",
+    "Tegmark: “I completely agree with Oren that we need to take what the AI CEOs say with a grain of salt.” Listen to AI pioneers Geoffrey Hinton and Yoshua Bengio instead: “I don’t think we can dismiss them as just doing it for some money reasons.” The whistleblowers gave up stock options potentially worth $1 million or more to speak out.",
+    "Etzioni: I was an AI optimist and I’m now an AI realist. The things I thought were many years away “are either right here, right now, or coming soon at a pace that we may not be able to anticipate.” I’ve learned from Tegmark, and “I was wrong.”",
+    "Tegmark: I was wrong too. “I never imagined that the people in America with the most power would let companies get so close to things that one could lose control over without intervening.”",
+    "Tegmark: “The idea of corporate self-regulation is a joke in this case.” It “didn’t work out so well for the tobacco industry or for the pharma industry.”",
+    "Etzioni: I agree. Social media showed us how self-regulation goes: “This is the big tobacco moment for high tech.” “We don’t want to spend another 20 years to find out that AI companies didn’t exercise the appropriate level of self-discipline.”",
+    "Etzioni: A self-driving car will save your life, but “it doesn’t decide where to go. That’s a completely different system in the car than the thing that controls the brakes.” When I tell my car to head to Dunkin’ Donuts, the car doesn’t respond that it’s taking me to the gym instead because “it’s the second time you’ve gone to Dunkin’ Donuts this week.” We should box in other AI systems the same way.",
+    "Tegmark: “By default, machines should be given the least amount of access and power that they need to do their job.” “You don’t give every janitor in the Pentagon the nuclear codes.”",
+    "Etzioni: “We agree on off switches for AI. I’ve been advocating that since at least 2017 . We agree on labeling, on liability, on cyber standards, protecting kids.” The time to do that work is now.",
+    "Tegmark: “I agree with Oren: the time to actually act on this is now.”",
+    "Look back at these disagreements. Where Tegmark blames the machine, I blame a person. An engineer left a hole in the sandbox. A hacker typed the prompt. A politician found a new fear to run on. That’s why I’d box AI systems in rather than count on how they were raised.",
+    "Anthropic’s Amanda Askell compared getting Claude to behave to raising a child. But those of us with kids know how that goes. As I said in the debate, “the three-year-olds don’t listen to us, but the teenagers certainly don’t listen to us.”"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/murphys-law-of-AI-2-150x150.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261004",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Oct. 4, 2026",
+   "author": "GeekWire",
+   "date": "2026-10-11",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-10-04/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Oct. 4, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Customer service, selling partner support and retail engineering teams were among those hit in Amazon’s latest layoffs. The cuts came during Prime Big Deal Days, which ran Tuesday and Wednesday. Read More … Read More",
+    "Microsoft’s Satya Nadella followed the path from a temporary work visa to permanent residency to U.S. citizenship. On Thursday, President Trump honored him with a national medal, hours after the administration blocked Microsoft from sponsoring its foreign workers for permanent residency. Here’s how the programs work, and what the numbers show about Microsoft’s practices. Read More … Read More",
+    "Opinion: Venture capitalist Matt McIlwain of Madrona urges Washington voters to pass Initiative 645 and repeal the state’s new income tax. He argues the tax is written to expand beyond high earners and that employers and residents are already leaving. Read More … Read More",
+    "The Labor Department suspended Microsoft from the federal program it uses to help foreign workers stay in the U.S. permanently, and won’t process the company’s pending applications. The announcement came hours before President Trump was scheduled to give Microsoft CEO Satya Nadella the National Medal of Technology and Innovation. Read More … Read More",
+    "Microsoft CVP Ravi Vedula retires; former Amazon SVP Rohit Prasad is now the CEO of Boston Dynamics; and Qualtrics, Overland AI and Fred Hutch name new executives. Read More … Read More",
+    "Seattle Mayor Katie Wilson has assembled a new task force of business, labor and industry leaders to tackle the city’s economic challenges, with a focus on diversifying the economy, attracting and retaining companies, and making it easier to do business in Seattle. Read More … Read More",
+    "A new joint report from the Downtown Seattle Association and the Seattle Metro Chamber shows city tax collections nearly tripling since 2013, surging far past population and job growth as the tax burden shifts heavily onto a small pool of major employers. Read More … Read More",
+    "Pedram Rezaei, a 20-year Microsoft veteran, will work on the Kiro coding tool and the Quick workplace assistant at AWS. He’s the latest Microsoft executive to make the move this year. Read More … Read More",
+    "Wizards of the Coast plans to revisit the Star Wars universe as its next big cross-company collaboration for Dungeons & Dragons. … Read More",
+    "Former tech leader Sally Revell has launched The SWELL, a downtown Seattle hub designed to give female entrepreneurs an in-person community, flexible programming, and support tailored for bootstrapping. Operating out of SURF Incubator, the new community has signed up 53 members in less than 10 weeks. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/20250915_160253-200x150.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-moviewestseattlelinkconservativeurbanism",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: West Seattle Link & Conservative Urbanism",
+   "author": "Mike Orr",
+   "date": "2026-10-11",
+   "url": "https://seattletransitblog.com/2026/10/11/sunday-movie-west-seattle-link-conservative-urbanism/",
+   "paras": [
+    "An animated rendering of West Seattle Link. (Sound Transit)",
+    "A conservative vision for urbanism. (The Atlantic) David From interviews Reihan Salam. I’ve been following Frum since he was on Left, Right, and Center in the 2000s; I consider him the most thoughtful conservative analysist nowadays. They discuss housing, education, street parking, blue cities, and their non-Trump conservatism vs Trumpism."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-sinsaturdaynightpikepinenightlifegunfire",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "No injuries in Saturday night Pike/Pine nightlife gunfire",
+   "author": "Justin Carder",
+   "date": "2026-10-11",
+   "url": "https://www.capitolhillseattle.com/2026/10/no-injuries-in-saturday-night-pike-pine-nightlife-gunfire/",
+   "paras": [
+    "Thanks to a CHS reader for the picture of the scene",
+    "There were no reported injuries as shots were fired Saturday night in a dispute amid Pike/Pine nightlife crowds.",
+    "Callers reported gunfire in the area just after 7:15 PM. According to East Precinct radio updates, police were called to 10th Ave between Pike and Union where a caller reported bullet damage to a window.",
+    "Arriving officers recovered shell casings but found no signs of injuries.",
+    "Police were looking for a suspect reported as a black male wearing a red jacket and blue jeans.",
+    "The gunfire comes as community groups have called for more public safety resources from the city in the area around Cal Anderson Park and the Pike/Pine nightlife core as 2027 budget deliberations begin. District 3 representative and Council President Joy Hollingsworth has been critical of Mayor Katie Wilson’s public safety approach and has spoken against any cuts to police recruitment spending. Wilson’s budget also calls for the CARE Department t o grow its resources as a command center in a new gun violence plan. The Seattle City Attorney is also adding new prosecuting resources for drug dealing and gun violence cases.",
+    "Stats show some glimmers of 2026 improvement as crime on Capitol Hill has grown over the past decade amid efforts to improve public safety downtown."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-tchroniclesseattlegrungehistoryinnewbook",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Capitol Hill music journalist chronicles Seattle grunge history in new book",
+   "author": "Todd Matthews",
+   "date": "2026-10-11",
+   "url": "https://www.capitolhillseattle.com/2026/10/capitol-hill-music-journalist-chronicles-seattle-grunge-history-in-new-book/",
+   "paras": [
+    "Much has been written about Seattle’s music scene during the 1980s and 1990s, but music journalist Gillian G. Gaar’s account in her new book, Grunge! The Story of the Music That Redefined Rock (Motorbooks, 2026), is uniquely first-hand, documenting an important period in Seattle music between 1986 and 1996.",
+    "A Capitol Hill resident for more than 40 years , Gaar worked at The Rocket (the music and culture magazine launched on Capitol Hill ) from 1983 to 1997 (three years before Sub Pop Records’ founding and three years after the death of Nirvana’s Kurt Cobain). She interviewed members of Alice in Chains , Hole , Mudhoney , Nirvana , Pearl Jam , Screaming Trees , Sleater-Kinney , Soundgarden , and so many other grunge-era notables. She’s written books about Sub Pop Records and the history of women in rock ‘n’ roll and covered local music for Rolling Stone , The Seattle Times , Seattle Weekly , The Stranger , and dozens of other publications.",
+    "Having interviewed Gaar for CHS in 2022, I will be in conversation with her on Weds., Oct. 14, at 7 p.m. at Elliott Bay Book Company (1521 10th Avenue) to mark the publication of her new book. The event is free and open to the public. More information is online here . She will also appear at Unplugged at The Music Project in Cobain’s hometown of Aberdeen, Washington, on Sat., Oct. 24 , at 1 p.m. More info here .",
+    "After reading Gaar’s book, I was reminded how much local music history she witnessed over the course of her 40-year (and counting) career. Here are a few highlights:",
+    "Courtney Love Interview (Oct. 4, 1992) — One month after a controversial profile of Kurt Cobain and Courtney Love appeared in Vanity Fair , Gaar landed an interview with Love. “I’d sent in a pitch to Courtney’s management, asking for an interview with her for The Rocket ,” Gaar writes. “She unexpectedly called me at home one Sunday evening and agreed to talk. We met at the Garden Court at Seattle’s posh Four Seasons Hotel for tea and cucumber sandwiches, with [daughter] Frances sleeping in a baby carrier on a chair beside us.” Gaar found Love to be intelligent, savvy, loquacious, and even good-humored while the rocker took aim at the Vanity Fair piece. “That evening,” Gaar adds, “we went to the Crocodile Café to watch Nirvana open for Mudhoney in a secret show that hadn’t been announced to the public. They didn’t play ‘Teen Spirit.’”",
+    "Nirvana’s MTV Unplugged Performance (Nov. 18, 1993) — Gaar landed a spot on the guest list thanks to friend and cellist Lori Goldston, who was touring with Nirvana. “The heavy drapes, the candles, and the profusion of stargazer lilies gave an autumnal glow to the room,” Gaar writes. “The atmosphere was relaxed; I saw Dave Grohl casually wandering around with a beer. Though Lori later told me everyone had been nervous (they hadn’t done a complete dress rehearsal), that wasn’t apparent in the performance. Between numbers, the band chatted amiably with the audience; when Kurt asked for requests, one wag called out ‘Jeremy!’ The most spine-tingling moment was the last song, a chilling rendition of Lead Belly’s ‘Where Did You Sleep Last Night’ that remains seared in one’s memory.”",
+    "Pearl Jam’s Self-Pollution Radio Broadcast (Jan. 8, 1995) — Gaar dropped in on this live broadcast hosted by Eddie Vedder and picked up by stations in Seattle and beyond. “ The Rocket had been invited to send a reporter, and I was the lucky one tapped to make my way to an inconspicuous house on Aurora Avenue North (a house I’d never pass by again without wondering what was going on inside),” Gaar writes. “There was a relaxed, casual vibe to the event; that of friends hanging out, drinking beers. The Fastbacks, Mudhoney, and Soundgarden all performed short sets. Mad Season made a rare live appearance. Krist Novoselic read from a book he was working on. A few tracks were previewed from Dave Grohl’s upcoming Foo Fighters project. Pearl Jam naturally played, performing many of the tracks from Vitalogy for the first time.”"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/02_Gaar-will-appear-at-Elliott-Bay-Books-on-Oct.-14-1.jpg?resize=400%2C400&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-ttlenegativecovenantlawjoebarsaysgoodbye",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Deadly shooting at Broadway/Pike, Seattle ‘negative covenant’ law, Joe Bar says goodbye",
+   "author": "CHS Staff",
+   "date": "2026-10-11",
+   "url": "https://www.capitolhillseattle.com/2026/10/this-week-in-chs-history-deadly-shooting-at-broadway-pike-seattle-negative-covenant-law-joe-bar-says-goodbye/",
+   "paras": [
+    "Amid Capitol Hill’s growing set of shuttered spaces, Seattle considers ban on agreements that block new groceries and pharmacies",
+    "A third victim and city council rep public safety plan as 18-year-old victim in deadly Broadway and Pike shooting identified",
+    "Stateside, Mamnoon, the Roastery — Plans for Blue Willow hoped to fill one of the recent holes in Capitol Hill food and drink",
+    "‘Hey, what should go in this space?’ — Calls from neighborhood to fill empty Kaiser Permanente Capitol Hill campus spaces being answered along 15th Ave",
+    "The Plant Store moves to Capitol Hill, bringing a green thumb to the ‘Voodoo pink’ block of Pine",
+    "Knitting together crochet, coffee, and community, Stitch Cafe now open on Capitol Hill",
+    "City’s latest rate adjustments show nightlife crowds apparently willing to pay anything to park in Pike/Pine",
+    "Broadway Business Improvement Area says no Hilloween kids carnival this year",
+    "Man shot, learning center hit but kids safe in 23rd and Jackson driveby — UPDATE",
+    "‘I’m at a 1’ — Questions of crime and just how safe Seattle really is loom over District 3 race",
+    "Black Star Farmers holds community gathering to save garden in Cal Anderson — UPDATE",
+    "Pikes/Pines | That sound you heard over Capitol Hill in the middle of the night might have been a bird",
+    "Should Washington fight the Bolt Creek Fire to protect Seattle’s air? — UPDATE",
+    "Starbucks abandoned this expensive and hard to maintain Capitol Hill cafe — Now it’s covered in plywood",
+    "Joe Bar closing after 25 years of community, coffee, crepes, and art on Capitol Hill — UPDATE",
+    "With more than 40% of city’s homeless population living in vehicles, Seattle will restore enforcement of 72-hour parking rule — UPDATE",
+    "Rubinstein Bagels ready for grand opening on Capitol Hill’s 15th Ave E",
+    "The next time you find yourself in Bangkok, stop by Pike/Pine",
+    "‘The carpenters’ fight is our fight to make Seattle affordable for all’ — Sawant unveils construction worker parking reimbursement bill",
+    "Maps cause neighborhood stir over Seattle encampment protections",
+    "City says legendary ad space at 12th and Pine needs to come down",
+    "Black ownership, Black identity, Black residents: Liberty Bank Building’s one-of-a-kind ‘memorandum of understanding’",
+    "Capitol Hill’s The Sanctuary, once a church, now townhouses, fixes its ‘window problem’",
+    "Helicopter heads-up — Why you might see choppers over Madison",
+    "Car service start-up Uber opens Seattle office on Capitol Hill",
+    "Old Broadway Hollywood Video space still empty — once Scientologists are done with it"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-011doomloopthesecrettribunalofnicethings",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: The Secret Tribunal of Nice Things",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://southseattleemerald.org/voices/2026/10/11/doom-loop-the-secret-tribunal-of-nice-things",
+   "paras": [
+    "DOOM LOOP is a serialized fictional cartoon from South End author and comic Brett Hamil.",
+    "Check in every Sunday for a new installment!",
+    "You can now buy the latest DOOM LOOP collection, \"The Haunting of Rob Saka,\" featuring all the weekly cartoons published in the Emerald from October 2025 to August 2026, at BrettHamil.BigCartel.com.",
+    "Follow Hamil on Instagram at @bretthamilcomix .",
+    "The South Seattle Emerald is committed to holding space for a variety of viewpoints within our community, with the understanding that differing perspectives do not negate mutual respect amongst community members.",
+    "The opinions, beliefs, and viewpoints expressed by the contributors on this website do not necessarily reflect the opinions, beliefs, and viewpoints of the Emerald or official policies of the Emerald.",
+    "Brett Hamil is a writer, cartoonist, and performer living on the South End of Seattle."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2025-10-03/q5lun8pr/Doom-Loop-Hero-Image-002-by-Brett-Hamil.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-27popeleoxivtoundergolungsurgerythisweek",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Pope Leo XIV to undergo lung surgery this week",
+   "author": "Ava Pukatch",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+   "paras": [
+    "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3313x2208+0+0/resize/3313x2208!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa0%2Fdd%2Fd344f84343b7a9cbfcdb4fb6243f%2Fap26284369740018.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-simonnearsmexico155mphwindsfloodingfears",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+   "author": "The Associated Press",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+   "paras": [
+    "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F6f%2Fc55fee1044bfb4ebd6865b275f29%2Fap26283701498998.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-networksforsuspendingpoolcoverageoftrump",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+   "author": "David Folkenflik",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+   "paras": [
+    "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5262x3508+0+0/resize/5262x3508!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5f%2F67%2F41db4eea4773be58f06b14e0c2f2%2Fap26284021705014.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-edbeingafraidisoutrightfunandmaybeuseful",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+   "author": "Ryan Benk",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+   "paras": [
+    "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1367x911+0+0/resize/1367x911!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff4%2Fee%2F536942a74e5586c426d8b455bb3e%2Fmarkoffs-gate.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-011gs1147267bicycleteenagerindiapandemic",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?",
+   "author": "Kamala Thiagarajan",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+   "paras": [
+    "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x1200+0+0/resize/1600x1200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2F97%2F9a5f653442b6832c364132286e60%2Fjyoti-and-father-2.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-erapysaunathermoregulationhealthbenefits",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Sweating the details: Sauna's potential health benefits draw scientists' interest",
+   "author": "Will Stone",
+   "date": "2026-10-11",
+   "url": "https://www.npr.org/2026/10/11/nx-s1-5996655/heat-therapy-sauna-thermoregulation-health-benefits",
+   "paras": [
+    "A group of international researchers is pushing to rigorously study the potential health benefits of sauna and other heat therapies. They hope to bring scientific legitimacy to the age-old practices."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6300x4200+0+0/resize/6300x4200!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc9%2F3c%2F2e0513c846a39e7557ea290be8aa%2Fthe-well18.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescr93znyk44e1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Saudi capital airport hit by second Houthi strike in two days",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6jdm3zggl0koatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "PM says it is 'clear' Russia interfered with Brexit vote",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b37c/live/b4b0e8c0-c57e-11f1-80f2-5bd1e5df7ada.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmgr8221v4x1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Wildlife park remains closed after fatal tiger attack",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/cmgr8221v4x1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Yorkshire Wildlife Park remains closed after a man entered the tiger enclosure and was fatally attacked on Saturday."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/724c/live/745b4a10-c563-11f1-bd33-db1f7eaf2b30.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6n9rvynl5p5oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Poland detains man suspected of planning assassination of PM Tusk",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Police received credible information about possible attacks against Donald Tusk and his defence minister."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/187d/live/a4be0650-c592-11f1-9d5a-23156cc094cf.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescm79pd2zzl59oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "DUP MP says her party could help remove O'Neill as first minister over Drumcree row",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b3/live/5c382440-c4f9-11f1-a4b9-bbb80bd65c1a.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwvgde0m2d73oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Orangutans released back into Borneo forest after devastating fires",
+   "author": "",
+   "date": "2026-10-11",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e90/live/35c07920-c5a8-11f1-9a39-31b474234113.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-1losangelesmosquitoeswestnileviruselnino",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
+   "author": "Roque Planas in Los Angeles",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
+   "paras": [
+    "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade high",
+    "Los Angeles might be best known for blue skies, beaches and film premiers — but for the last several years it’s held another, unenviable distinction: the most mosquito-infested city in America .",
+    "And this year has been especially nightmarish, thanks to a series of heatwaves and an extra-powerful El Niño . Locals have called it a summer of “ living hell ” as clouds of mosquitoes swarm backyards and leave diners at open air patios scratching their ankles."
+   ],
+   "img": "https://i.guim.co.uk/img/media/2daf4d3a60bdaa7b30513928d422bd9f40ae64a8/156_0_1736_1388/master/1736.jpg?width=140&quality=85&auto=format&fit=max&s=2670d53a8aaa3ffabdcbe8e244a2894a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ess2026oct11hipsholdtensionstressscience",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Do we really ‘hold tension’ in our hips?",
+   "author": "Keren Landman",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/wellness/2026/oct/11/hips-hold-tension-stress-science",
+   "paras": [
+    "The idea is popular in wellness circles, but experts say there’s no evidence that trauma uniquely affects the hips. Here’s what causes hip tightness and what can help",
+    "In yoga classes, on TikTok and throughout other wellness spaces, you’ve probably heard the saying: your hips hold tension. These joints have a reputation of being emotional storage units of sorts – but is it true that they are affected by old traumas and painful memories?",
+    "Pain and muscle tension hit harder when you’re going through a difficult time. But should tight hips make you question your mental health? And what can you do to reduce hip tightness? Here’s what you need to know."
+   ],
+   "img": "https://i.guim.co.uk/img/media/cbf08579dbc4eea4212db9e7693b589766b2ae73/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=d438ec4bedf7b66775d7d5f7939da158",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-bdulelsayedmichigansenateraceblackvoters",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Why Abdul El-Sayed might not be winning Black voters in Michigan",
+   "author": "Charles M Blow in Flint Michigan",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-michigan-senate-race-black-voters",
+   "paras": [
+    "The Michigan candidate for US Senate seat is running without directly acknowledging specific constituent groups",
+    "Abdul El-Sayed has an impressive résumé: Rhodes scholar, professor of epidemiology at Columbia University, executive director of the Detroit health department. And, at 41, the Michigan Democratic senatorial candidate represents a new generation of politicians, a shift that he also embodies sartorially. Whereas casual dress for many politicians is a tieless dress shirt with rolled up sleeves, El-Sayed has embraced a post-corporate, digital nomad-ish uniform: fitted black T-shirt, slim jeans and sneakers.",
+    "His progressive politics are having a moment among liberals, and he remains unswervingly disciplined about his message: “Money Out of Politics, Money in Your Pocket, Medicare for All.” On paper he appears well-aligned to Democratic sensibilities in this moment, and he is competitive in the polls. But his support is softer than overall Democratic sentiment would dictate, especially among Black voters."
+   ],
+   "img": "https://i.guim.co.uk/img/media/56268e8659606e12c1602c9d3a78f4b7dae29578/333_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=a3fdcd1cbae92f6a654174f8d06b0cd5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ct11aiannihilationadvancednuclearweapons",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+   "author": "Simon Tisdall",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+   "paras": [
+    "This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the day",
+    "Humankind has fearfully and sometimes joyfully anticipated the end of the world ever since it began. The Bible’s Book of Revelation speaks of “end times”, a period of tribulation, war, famine, plague, floods and environmental catastrophe that may seem a less absurd prospect today than perhaps it once did. Islam, too, posits a fateful day of judgment or day of reckoning. Christian evangelicals believe that, in the final rapture, a chosen few – the righteous or the “elect” – will be saved while sinners burn. It’s a minority view. Matthew’s gospel predicts most people will defy, ignore or ridicule warnings of imminent Armageddon. Peter, another of Jesus’s disciples, agreed: “In the last days, scoffers will come, scoffing and following their own evil desires.” Yet such worldly scepticism does not mean a universal cataclysm is less likely. It may make it more probable.",
+    "Donald Trump’s blanket denials of the dangers ostensibly posed by artificial intelligence, whose uncontrolled development is seen by some as the latest harbinger of apocalypse , could be interpreted as fulfilling Peter’s prophecy. This US president, the nearest thing the world has to a one-man doomsday machine, is a great one for scoffing and evil desires. In Robert Harris’s 2019 novel, The Second Sleep, a worried scientist lists half a dozen ways the world might end. They include devastating climate change, pandemic disease, a giant asteroid collision with Earth, or some other overwhelming calamity. Few heed the fictional scientist’s fears. In the event, what destroys him and almost everybody else is a disturbingly plausible cyber crash – a global digital and internet meltdown.",
+    "Simon Tisdall is a Guardian foreign affairs commentator"
+   ],
+   "img": "https://i.guim.co.uk/img/media/603ece70d9015d3f39bcf155098c10c864112098/192_528_1858_1487/master/1858.jpg?width=140&quality=85&auto=format&fit=max&s=d07bf9a67f3cf7241663c6ada77c859f",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-mworld2026oct11physiciansgrouprawmilkban",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Physicians’ group calls for ban on raw milk – as it’s becoming increasingly popular in the US",
+   "author": "Eric Berger",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/world/2026/oct/11/physicians-group-raw-milk-ban",
+   "paras": [
+    "As raw milk industry experiences record growth, experts say it might contain pathogens that can sicken people",
+    "As raw milk becomes increasingly popular among Americans, there have been several recent disease outbreaks tied to the product, alarming public health officials.",
+    "Last week, the American Academy of Pediatrics called for a ban on sales of unpasteurized milk in the United States."
+   ],
+   "img": "https://i.guim.co.uk/img/media/b6e5ec815c66d2797a857f5af6060007f997bb22/0_0_3334_2667/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=2e78f7c5fb8bc564b64a9b280fdddd1c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-uraninterviewpopmusichalloweenfreetolove",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘We look like soft, made-up blokes, but we’re really tough’: Duran Duran on 80s excess, tabloid scrutiny and their Halloween glow-up",
+   "author": "Alexis Petridis",
+   "date": "2026-10-11",
+   "url": "https://www.theguardian.com/music/2026/oct/11/duran-duran-interview-pop-music-halloween-free-to-love",
+   "paras": [
+    "They spent their heyday on yachts, then rolled up their sleeves in the wilderness years. Ahead of a Halloween show at the O2, pop’s great survivors explain their staying power",
+    "In 2022, Duran Duran were inducted into the Rock & Roll Hall of Fame. It felt like a big deal, a sweet moment of acknowledgment for the band’s five-decades-long career, the 100m records sold, the string of bulletproof hits: Save a Prayer, Rio, Hungry Like the Wolf, Girls on Film. They were inducted by actor Robert Downey Jr; Drew Barrymore, Naomi Campbell and Gwen Stefani were on hand to pay heartfelt tribute and, as keyboard player Nick Rhodes points out, “It’s a big national live TV broadcast in America that goes out to millions of people,” so the band booked some warm-up shows. “And it so happened that there was a date that came up in Las Vegas on 31 October,” says Rhodes. “And I looked at everyone and said: ‘Well, we can’t do a normal show. Las Vegas on Halloween – surely that’s the opportunity for a little bit of fun?’”",
+    "They worked up a set of suitably themed material, including covers of Billie Eilish’s Bury a Friend and Talking Heads’ Psycho Killer. There were, of course, costumes involved, because, as Rhodes drily notes, “When have Duran Duran ever not dressed up?”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/86ea37bd3480b26d678d82d3454f7d89dec8f155/0_1916_5379_4303/master/5379.jpg?width=140&quality=85&auto=format&fit=max&s=a7a0f6c55ecd37232a55fe8ac48030be",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-gsundayvideopiercetransitgoestotheballot",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sunday Video: Pierce Transit Goes to the Ballot",
+   "author": "Doug Trumm",
+   "date": "2026-10-11",
+   "url": "https://www.theurbanist.org/sunday-video-pierce-transit-goes-to-the-ballot/",
+   "paras": [
+    "Pierce County voters have a big decision to make this November. Bus funding is on the ballot , with Pierce Transit seeking a 50% boost in funding that would boost local bus service by more than 40% by the early 2030s. Tacoma transit advocate Cameron Johnson breaks down what the measure entails and what it could mean for bus service across Pierce County.",
+    "Last month, transit advocates kicked off the Keep Pierce Moving campaign , hoping to make 2026 the year that Pierce County voters finally vote to give their transit agency the resources that it needs to scale up and meet the need for increased mobility across some of the state's fastest-growing areas."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/3.31.24-Stream-photos096--1-.webp",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-toastartupfoundersseattlerecordingstudio",
    "srcKey": "geekwire",
@@ -128,74 +641,6 @@
     "Watch the full interview below where Bezos also discusses the impact of AI on jobs, the need to beat China in the race to the moon and orbital data centers in space. The portion of the interview where Bezos notes that “success is not villainy” starts in minute 16."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-5.13.19-PM-1260x707.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-vervideoshowslatestwestseattlelinkdesign",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "New Flyover Video Shows Latest West Seattle Link Design",
-   "author": "Ryan Packer",
-   "date": "2026-10-10",
-   "url": "https://www.theurbanist.org/new-flyover-video-shows-latest-west-seattle-link-design/",
-   "paras": [
-    "Sound Transit has officially reached the 30% design milestone on the West Seattle Link project, celebrating the occasion by releasing a new flyover video that shows renderings of the entire 3.9 mile planned light rail line between SoDo and Alaska Junction. Set to open by 2035 , the 3 Line is the next light rail project planned for construction in the wake of a feverish pace of grand openings over the past two years.",
-    "The new images, which reflect the project's design as of this past July, provide an illustration of the significant amount of value engineering that Sound Transit conducted on the line – work that likely saved the project from the chopping block this past spring as the agency grappled with a major budget gap.",
-    "From a slimmed-down SoDo station – which will be the northern terminus of the line until the Ballard Link project opens as early as 2042 (or as late as 2060) – to a more compact Alaska Junction, Sound Transit was able to drive down the cost of the line by more than $2 billion between 2024 and 2026.",
-    "That work to cut costs has come with real trade-offs for riders. The video shows the new plan for the 3 Line to enter a tunnel near Nucor Steel's West Seattle plant at SW Yancy Street, bypassing a planned station under Avalon Way SW that would have served a growing section of the neighborhood. Without that station, Sound Transit was able to redesign the location of the planned guideway and tunnel portal to avoid having to displace several high profile properties, including a portion of the West Seattle Health Club.",
-    "But in contrast with the infill station that opened in North Seattle late last month, it will not be possible to come back later and build Avalon Station down the road if Sound Transit's finances somehow turn around, or voters approve a Sound Transit 4.",
-    "On August 13, Sound Transit and the City of Seattle announced another major design refinement for West Seattle Link, one that would be hard to notice in a flyover rendering. A major transmission line that is currently located next to the dedicated busway through SoDo will be relocated closer to the planned light rail guideway, avoiding major disruptions on a nearby street.",
-    "\"The new SODO segment design will relocate major City infrastructure, Seattle City Light’s 230 kilovolt and 26 kilovolt transmission poles and lines, entirely within the light rail project footprint in the SODO Busway,\" a City announcement noted at the time. \"This means that Sound Transit will not need to move massive powerlines onto 6th Ave S, which significantly reduces construction and lasting impacts on adjacent properties and businesses. The new design is expected to save the project over $100 million and remove the risk of damage to other critical City transportation and water infrastructure.\"",
-    "Since the May 28 board vote that rebalanced the larger Sound Transit 3 (ST3) plan and kept West Seattle Link on track, Sound Transit officials have been touting how swiftly the agency has been moving and heading toward construction. In August, the board unlocked an additional $765 million in budget authorization, setting up a construction support services contract that includes preparations for the Duwamish River crossing.",
-    "Just last week, the board's system expansion committee approved another set of property acquisitions, including the West Seattle Corporate Center (the former Bartell Drugs corporate headquarters), which will become a major truck staging point for tunneling work to Alaska Junction. If approved by the full board later this month, that will mark the fifth set of property acquisition approvals that the agency has received, getting the agency's real estate team to work.",
-    "This week's flyover video makes work that is often happening behind the scenes more tangible for future riders, even if an opening date nine years in the future seems incredibly distant. Once the 3 Line is fully connected with the rest of the light rail network with the opening of Ballard Link, travelers getting from Westlake Station to Alaska Junction will see their travel times cut by 50%, a major upgrade from current C Line service. But there's a lot standing in the way of that benefit becoming reality.",
-    "For now, transit fans will have to live vicariously through YouTube."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/Screenshot-2026-10-09-5.27.40-PM.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-0261010theroundupwhywouldwereplaceroute7",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Why Would We Replace Route 7?",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://southseattleemerald.org/newsletters/2026/10/10/the-roundup-why-would-we-replace-route-7",
-   "paras": [
-    "When I was growing up, I had the key to the city.",
-    "Anywhere I needed to go, the 7 had my back. I remember when a ride cost less than a dollar. Basketball practice, teen dances at Rainier Vista Boys & Girls Club, Teen Late Night — back when you could run a few games at Rainier Community Center, then hop the 7 and get games in at Rainier Beach.",
-    "Then I grew up. My first job was at NikeTown downtown. Guess which bus I used to get there? That's right, the 7.",
-    "And it's not just me. The 7 is the second-most-used bus route in King County.",
-    "When I learned from Emerald contributor Jacquelyn Jimenez Romero that there were plans on the table to end Route 7 in favor of a RapidRide line in 2032 , I was confused. Who would this serve? Who asked for this?",
-    "The proposal would eliminate over 20 stops — in the South End — and would make the bus come less frequently.",
-    "My mind goes to the seniors, the students, the workers in our community who are not simply commuting downtown, but using transit to get to places within the neighborhood. How can that happen if 20 stops disappear? Are the elderly or differently abled folks supposed to walk a mile to access a bus stop?",
-    "The 7 is more than a bus line; for many in our community, it's a lifeline.",
-    "This week, I spoke with Jacquelyn about this proposal. She went on a ride-along on the 7 , with elected officials and community members, to see the stops that would be eliminated and speak with some of the South Enders who would be impacted.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: You've been following this proposal to replace the 7. Can you briefly tell us what has happened and where we are in the process?",
-    "JJR: The proposal essentially has the goal of making buses faster and more reliable, and comes from King County's intention to improve bus services overall. So RapidRides are becoming more and more popular in King County. The South Seattle RapidRide line was proposed in 2019 and delayed due to the pandemic. The project picked back up in August. Right now, we're at the phase where King County Metro is presenting it to King County Council. So, essentially, they're going to go to the Council and present what's called an alignment ordinance, and they're briefing the Council on the most updated project that they have. It'll also be an opportunity for community members to go to King County Council and share their thoughts on what they think about the project, and there could potentially be a vote in November about whether King County Council actually fully approves this project or not.",
-    "MD: I heard the RapidRide line does two things simultaneously — runs less frequently than the 7 and has 20 less stops. This true? If so, how can Metro call this more efficient?",
-    "JJR: Yes. I think that's the question that a lot of community members have. I think that's the big question on whether this project actually makes sense for the South End, and community members certainly don't think so. I think these are part of the concerns that community members and advocacy organizations are bringing up to the Council. Everyone appreciates the investment, but they're not sure it makes sense.",
-    "MD: I saw the video of you on this ride-along. Can you tell me who organized it, who attended, and what you learned from community members?",
-    "JJR: It was organized by the Nondrivers Alliance and the Transit Riders Union. Community members showed up, like people who ride the bus, leaders from a few community organizations, and a few current and potential politicians. Rebecca Saldaña and Toshiko Hasegawa came; they're candidates for the King County Council seat that represents the South End. Kelabe Tewolde was there; he's running for the 37th Legislative District, the House seat. And then City Councilmember Alexis Mercedes Rinck [was there].",
-    "I personally got to see which stops could potentially be eliminated, and I think for people who don't take the bus a lot, it's hard to imagine how long of a distance the potential stops could be. For someone who has a disability or is older, or even a family who has a stroller, walking those longer distances can be really challenging, especially along Rainier Avenue, because there are a lot of infrastructure improvements that need to happen. The sidewalks are uneven, and it can really be hard for a lot of people to navigate.",
-    "A lot of what I'm hearing from people is that they're confused about this proposal. It's a very important line, and even aside from the nostalgia aspect, it's the second-most-used bus line in the entire county. Over 11,000 people use it every day. So people were confused about why this was happening.",
-    "MD: Why can't we have the RapidRide line and the traditional 7? Why is this an either-or situation?",
-    "JJR: That is a question a lot people have for the Executive and the Council. Why can't we have both? A lot of people mentioned the importance of the 7 in terms of navigating Rainier Valley and getting to important places, like grocery stores, pharmacies, and businesses. A lot of people use it in the South End without going downtown.",
-    "Budget season is here. Proposals are being presented. And the community is coming out in full force for input.",
-    "Developers want to axe a beloved weeping willow tree on South Brandon Street. Neighbors say “No way.” Can we have housing density and trees?",
-    "Is the U.S. government complicit in the war in Gaza? On Oct. 10, organizers from around the country will meet in Seattle for a tribunal to determine the answer.",
-    "Businesses in Rainier Beach are focused on two things: safety and service.",
-    "On Oct. 10, the Emerald will host a forum to introduce the community to the two candidates looking to represent the South End on the King County Council.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-10-09/mtcwr6y5/Why-Would-We-Replace-Route-7-.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -368,305 +813,6 @@
    "annos": null
   },
   {
-   "id": "f-npr-ennedycenterrickcannynewartisticdirector",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The Kennedy Center names new artistic director, amid concerns",
-   "author": "Anastasia Tsioulcas",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
-   "paras": [
-    "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8101x5401+0+0/resize/8101x5401!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc2%2F3b%2F9e69e9c54a8abaf6460c597bf61b%2Fgettyimages-2297491934.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-iasafterhurricanebashesfloridaandalabama",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-   "author": "Bill Chappell",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
-   "paras": [
-    "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8124x5416+0+0/resize/8124x5416!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff6%2F42%2F04e44b504ab1a96d22c59d2a7b51%2Fgettyimages-2298960624.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-5982500opinioncanikeepthebaseballicaught",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Opinion: Can I keep the baseball I caught?",
-   "author": "Scott Simon",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5982500/opinion-can-i-keep-the-baseball-i-caught",
-   "paras": [
-    "What would you do if you caught a baseball during the MLB playoffs? Give it to a kid nearby or keep it? This very scenario played out this week, with a fan deciding to keep the ball."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F08%2F68%2F1884dab84d7aafb22dc23149203f%2Fap26281086247695.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-s15996652glp1fdanaionblindlawsuitozempic",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often",
-   "author": "Yuki Noguchi",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5996652/glp1-fda-naion-blind-lawsuit-ozempic",
-   "paras": [
-    "Scant data about serious adverse effects makes it harder to answer scientific and legal questions about how often the drugs might cause serious harm like blindness or pancreatitis."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe8%2F9c%2Fb51836a743e1982e21ce159b9d5a%2Ftodd-engel3.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-7democratslatinovotersinfluencersboldpac",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "After losing ground with Latino voters, Democrats are turning to influencers for help",
-   "author": "Claudia Grisales",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5991897/democrats-latino-voters-influencers-bold-pac",
-   "paras": [
-    "Democrats are hoping to win back Latino voters who have soured on both parties. They hope Latino content creators will bridge the gap."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5472x3648+0+0/resize/5472x3648!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff0%2F7b%2F899029124ad2a5817177479815ae%2Fap24304669006483.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-6cozyactivitiestoaddtoyourfallbucketlist",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "16 cozy activities to add to your fall bucket list",
-   "author": "Malaka Gharib",
-   "date": "2026-10-10",
-   "url": "https://www.npr.org/2026/10/10/nx-s1-5993688/16-cozy-activities-to-add-to-your-fall-bucket-list",
-   "paras": [
-    "Carve a pumpkin? You can do better than that. Fun and unusual ways to celebrate the season, from writing a gratitude letter to making an ancestral altar."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1920x1080+0+0/resize/1920x1080!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9a%2F9e%2F68995f5746ce8ae1e4caa775343a%2Fcozy-illustration-16-9.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6n9r3n7858zoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Man dies after tiger attack at wildlife park",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9r3n7858zo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "It was reported the man entered the tiger enclosure at the attraction near Doncaster, police say."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a351/live/9ceda390-c4cf-11f1-92df-35160a6c9392.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqe8r5l7n92joatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmlyle97pqd7oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmje5x80yg70oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfd2/live/7e8f55f0-c4df-11f1-9a39-31b474234113.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqdjvdpxmvn3oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Sara Sharif's grandfather granted guardianship of her siblings in Pakistan",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjvdpxmvn3o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "All five children have been living with him in Pakistan since 2023, when 10-year-old Sara was murdered."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3c2/live/adc04a90-c4ae-11f1-ac13-6da90f5ff039.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc3y0e871rk4voatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-chesterunitedvtottenhampremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Manchester United 1-1 Tottenham: Premier League – as it happened",
-   "author": "Scott Murray",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/football/live/2026/oct/10/manchester-united-v-tottenham-premier-league-live",
-   "paras": [
-    "Dominic Solanke earned a deserved point for Spurs despite Rodrigo Bentancur’s red card",
-    "Spurs get the ball rolling. They’re kicking towards the Stretford End in this first half.",
-    "The teams are out. Manchester United in their famous red, white and black, Tottenham in second-choice dark blue with diagonal multi-coloured neon nonsense. Meanwhile here’s the first line of a song ringing out loud from all four corners of Old Trafford: “You know what you are.” No prizes for guessing the rest of the lyrics, or which club they’re serenading. Don’t look back in anger? Good luck with that! We’ll be off in a minute."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c9dbb64d4b3832d53196d80fe96f9938c5ead389/447_129_1571_1256/master/1571.jpg?width=140&quality=85&auto=format&fit=max&s=40705ff243c8e32d5adb8142f5e91f43",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-nfluencermodelactormotherfournottradwife",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘There is no secret agenda’: Nara Smith on home-making absolutely everything, raising four kids at 25 – and why she’s definitely not a tradwife",
-   "author": "Charlotte Edwardes",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/media/2026/oct/10/nara-aziza-smith-influencer-model-actor-mother-four-not-tradwife",
-   "paras": [
-    "The model, actor and influencer is known for making her own frozen yoghurt, bubblegum or even toothpaste while dressed in immaculate haute couture. But she insists she is not who the internet thinks she is",
-    "Nara Smith is not a tradwife, she wants you to know that. Nor is she an ex-tradwife – pace the New York Times who included her in a feature on how ex-tradwives are as popular a movement now as the tradwives were in the first place. Nor was she peddling a tradwife-adjacent lifestyle choice by marrying at 18, having four children by 24, and devoting hours to cooking and documenting it online. Nor is she Mormon, by the way. Although, yes, her husband, the model and former teen heart‑throb Lucky Blue Smith, was raised Mormon, but we’ll get to that. Nor was she telegraphing subliminal religious messages in her content: “There is no secret agenda.” Nor was she abandoning her biracial heritage by wearing her hair in a sleek little bob. Nor was she leaning into a 1950s housewife archetype – even when dressed in a pink and red polka-dot minidress to batch-cook sourdough.",
-    "Smith wants you to scrap everything you think you know about her and start again. She also doesn’t care if you don’t. As with her content: “Those that get it, get it. Those that don’t, don’t. And that’s totally fine. I tell people: ‘If you don’t like my content, I won’t see you scroll past me.’ ‘If you need to block me for your own sanity, please do. I promise I won’t know.’ And if you want to stick around, that is beautiful, I’m grateful, welcome.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/a23f910645a0ecf1e4855246127ebd5d5122b2a0/869_120_3855_3084/master/3855.jpg?width=140&quality=85&auto=format&fit=max&s=cabdaaa5422af1998cf80323e8e36a1f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ct10freeleonardpeltiernetflixdocumentary",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I just wasn’t going to give up’: the fight to free the longest-serving political prisoner in the US",
-   "author": "Adrian Horton",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/film/2026/oct/10/free-leonard-peltier-netflix-documentary",
-   "paras": [
-    "Leonard Peltier was imprisoned for 49 years before his sentence was commuted. A new Netflix documentary exposes the ‘corrupt’ system that allowed it to happen",
-    "On 20 January 2025, with 14 minutes remaining in his term as president, Joe Biden commuted the life sentence of Leonard Peltier , after years of pressure to release a figure seen by many as the longest-serving political prisoner in the US. The Indigenous activist, a leader within the American Indian Movement (Aim) and an icon of Native American resistance, served nearly 50 years in prison for allegedly killing two FBI agents during a shootout on the Pine Ridge reservation in South Dakota, in 1975 – killings he has always denied, prosecuted in a railroaded trial widely seen as corrupt.",
-    "Outside the Florida prison where Peltier was being held that morning were several of the many activists and lawyers who fought for his release, as well as film-makers David France and Jesse Short Bull. The two directors’ long-gestating documentary on Peltier’s fight for justice was set to premiere just a week later at the Sundance film festival with a very different ending, the octogenarian still awaiting a chance to return home to the Turtle Mountain Band of Chippewa reservation in North Dakota. That morning, there was “a sinking feeling that it wasn’t going to happen”, France said."
-   ],
-   "img": "https://i.guim.co.uk/img/media/a816b941fa1b37932e208913aa79c7e33555c38c/0_182_1536_1229/master/1536.jpg?width=140&quality=85&auto=format&fit=max&s=6cf2169f12aca79b5e6736f4c3a84c30",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026oct10havanasyndromemysteryciarussia",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-   "author": "Shaun Walker",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-   "paras": [
-    "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has there been a cover-up?",
-    "Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced. His body was soaked with sweat and he felt like his eyes were spinning in their sockets. He manoeuvred his way out of bed, hoping to make it to the bathroom to vomit, but found his sense of balance had deserted him. Eventually, he fell back into a fitful, shallow sleep.",
-    "The next day, arriving at the work meeting he had travelled for, the officer found he could not remember the names of colleagues in the room, people he knew well. As the meeting got under way, he could barely follow the discussion. Initially, he chalked it up to a terrible – if rather odd – case of food poisoning. But over subsequent weeks, worrying symptoms persisted: brain fog, loss of balance and increasingly harsh tinnitus."
-   ],
-   "img": "https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=dcbac9d21302f6a21158f1ade6bee80d",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ifeandstyle2026oct10blinddatehollygraeme",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Blind date: ‘Most awkward moment? When she squished an insect that was on my forehead’",
-   "author": "Guardian Staff",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/10/blind-date-holly-graeme",
-   "paras": [
-    "Holly, 42, a horticulturist, meets Graeme, 47, a forest manager",
-    "What were you hoping for? Really, just a fun night with minimal awkwardness was my fairly low expectation before the meeting. First impressions? A very positive, engaging lady with a beautiful smile. What did you talk about? Growing food, the joys of seeds, birdwatching, the failings of young people when it comes to proper raving, epigenetics and breaking generational cycles."
-   ],
-   "img": "https://i.guim.co.uk/img/media/476ccc9160225bbf6bf54c7d1fccae29bdfc7fd9/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=9647fdeeca3b6c39d05ffda3a305f875",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-uralawakeningamelieautismneurodivergence",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Amélie allowed me to embrace my neurodivergence",
-   "author": "Lillian Crawford; as told to Olivia Ladanyi",
-   "date": "2026-10-10",
-   "url": "https://www.theguardian.com/culture/2026/oct/10/my-cultural-awakening-amelie-autism-neurodivergence",
-   "paras": [
-    "Watching a DVD of the French film alone in my room, I saw for the first time a character who moved through the world like I do",
-    "Amélie likes the sound of cracking creme brulee with a teaspoon, plunging her hand into a sack of grain, and turning around in the cinema to watch people’s faces in the dark. I like the smell of books and I love cinema, but I hate the sound of people eating popcorn.",
-    "Amélie was not the first neurodivergent-coded woman I’d seen depicted in film. There had been Margot Tenenbaum in The Royal Tenenbaums and Suzy Bishop in Moonrise Kingdom – two Wes Anderson characters in whom I’d recognised myself. But Amélie was the first who was at the centre of the story; she’s the titular character and we see things through her eyes. It was the first time I’d seen a woman on screen move through the world as I did: overstimulated, a bit lonely and afraid of the unknown, comfortable in her own company, with firm likes and dislikes and a powerful sense of social justice."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3468d0e0e75cdc801e9affdea0a2bb0cf3855a3c/21_0_2807_2245/master/2807.jpg?width=140&quality=85&auto=format&fit=max&s=d736af3b6a7aa28054bcbb1c107c9c0c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-propublica-yNGxZZ05lR0hKdzM0cWZBVlVjRXA4azk5QkFnoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -681,6 +827,32 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-vervideoshowslatestwestseattlelinkdesign",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "New Flyover Video Shows Latest West Seattle Link Design",
+   "author": "Ryan Packer",
+   "date": "2026-10-10",
+   "url": "https://www.theurbanist.org/new-flyover-video-shows-latest-west-seattle-link-design/",
+   "paras": [
+    "Sound Transit has officially reached the 30% design milestone on the West Seattle Link project, celebrating the occasion by releasing a new flyover video that shows renderings of the entire 3.9 mile planned light rail line between SoDo and Alaska Junction. Set to open by 2035 , the 3 Line is the next light rail project planned for construction in the wake of a feverish pace of grand openings over the past two years.",
+    "The new images, which reflect the project's design as of this past July, provide an illustration of the significant amount of value engineering that Sound Transit conducted on the line – work that likely saved the project from the chopping block this past spring as the agency grappled with a major budget gap.",
+    "From a slimmed-down SoDo station – which will be the northern terminus of the line until the Ballard Link project opens as early as 2042 (or as late as 2060) – to a more compact Alaska Junction, Sound Transit was able to drive down the cost of the line by more than $2 billion between 2024 and 2026.",
+    "That work to cut costs has come with real trade-offs for riders. The video shows the new plan for the 3 Line to enter a tunnel near Nucor Steel's West Seattle plant at SW Yancy Street, bypassing a planned station under Avalon Way SW that would have served a growing section of the neighborhood. Without that station, Sound Transit was able to redesign the location of the planned guideway and tunnel portal to avoid having to displace several high profile properties, including a portion of the West Seattle Health Club.",
+    "But in contrast with the infill station that opened in North Seattle late last month, it will not be possible to come back later and build Avalon Station down the road if Sound Transit's finances somehow turn around, or voters approve a Sound Transit 4.",
+    "On August 13, Sound Transit and the City of Seattle announced another major design refinement for West Seattle Link, one that would be hard to notice in a flyover rendering. A major transmission line that is currently located next to the dedicated busway through SoDo will be relocated closer to the planned light rail guideway, avoiding major disruptions on a nearby street.",
+    "\"The new SODO segment design will relocate major City infrastructure, Seattle City Light’s 230 kilovolt and 26 kilovolt transmission poles and lines, entirely within the light rail project footprint in the SODO Busway,\" a City announcement noted at the time. \"This means that Sound Transit will not need to move massive powerlines onto 6th Ave S, which significantly reduces construction and lasting impacts on adjacent properties and businesses. The new design is expected to save the project over $100 million and remove the risk of damage to other critical City transportation and water infrastructure.\"",
+    "Since the May 28 board vote that rebalanced the larger Sound Transit 3 (ST3) plan and kept West Seattle Link on track, Sound Transit officials have been touting how swiftly the agency has been moving and heading toward construction. In August, the board unlocked an additional $765 million in budget authorization, setting up a construction support services contract that includes preparations for the Duwamish River crossing.",
+    "Just last week, the board's system expansion committee approved another set of property acquisitions, including the West Seattle Corporate Center (the former Bartell Drugs corporate headquarters), which will become a major truck staging point for tunneling work to Alaska Junction. If approved by the full board later this month, that will mark the fifth set of property acquisition approvals that the agency has received, getting the agency's real estate team to work.",
+    "This week's flyover video makes work that is often happening behind the scenes more tangible for future riders, even if an opening date nine years in the future seems incredibly distant. Once the 3 Line is fully connected with the rest of the light rail network with the opening of Ballard Link, travelers getting from Westlake Station to Alaska Junction will see their travel times cut by 50%, a major upgrade from current C Line service. But there's a lot standing in the way of that benefit becoming reality.",
+    "For now, transit fans will have to live vicariously through YouTube."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/Screenshot-2026-10-09-5.27.40-PM.png",
+   "fetched": true,
+   "fullText": true,
    "annos": null
   },
   {
@@ -732,120 +904,18 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-hepaththeusjustcutoffformicrosoftworkers",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "From H-1B to CEO: How Satya Nadella traveled the path the U.S. just cut off for Microsoft workers",
-   "author": "Todd Bishop",
-   "date": "2026-10-09",
-   "url": "https://www.geekwire.com/2026/from-h-1b-to-ceo-how-satya-nadella-traveled-the-path-the-u-s-just-cut-off-for-microsoft-workers/",
-   "paras": [
-    "Satya Nadella arrived in the U.S. from India in 1988 to study computer science. Over the next three decades, he went from a temporary work visa to permanent residency to American citizenship, and rose up the ranks at Microsoft to become only the third CEO in its history.",
-    "“I don’t think my story would be possible anywhere else,” Nadella wrote in his 2017 book, “Hit Refresh.” “I am proud today to call myself an American citizen.”",
-    "On Thursday, President Trump personally handed the Microsoft CEO the National Medal of Technology and Innovation. The award cited his “transformative leadership of a critical American technology company, which led to its rejuvenation for a new era of cloud computing.”",
-    "Nadella thanked Trump on X , writing that he was “humbled to stand alongside so many giants of American innovation.” The other honorees were Dell Technologies CEO Michael Dell, who also received the technology medal; and Elon Musk, Google co-founder Sergey Brin, Nvidia CEO Jensen Huang and AMD CEO Lisa Su, who received the National Medal of Science.",
-    "Five of the six were born outside the country.",
-    "Hours earlier, the Trump administration had suspended Microsoft from the federal program it uses to help foreign workers take the same path to permanent residency. Vice President JD Vance said the company had abused the system by laying off American workers while hiring foreign workers, and called H-1B workers “foreign indentured servants.”",
-    "“Our message to Microsoft is you’re a great American company, but you’ve got to hire great American workers,” Vance said at a White House news conference .",
-    "Two different programs: The suspension doesn’t stop Microsoft from hiring foreign workers on H-1B visas. Those are temporary work visas, typically granted for three years at a time and generally limited to six years, with some exceptions. They’re overseen by U.S. Citizenship and Immigration Services.",
-    "Amazon is the bigger user of H-1B visas. It received more than 19,000 approvals for H-1B petitions in fiscal 2025, about three times Microsoft’s total, according to an analysis of USCIS data by the National Foundation for American Policy. The totals include renewals and extensions, so they don’t represent individual workers.",
-    "The program to which Microsoft lost access comes later in the process.",
-    "Known as PERM , it’s run by the Labor Department and is usually the first step when a company sponsors an employee to stay in the U.S. permanently. The employer has to advertise the job and show that no qualified, available U.S. worker can fill it. Most applications are for people already working in the U.S. on H-1B visas.",
-    "Microsoft is the biggest user of PERM. The Labor Department ruled on 3,161 of its applications in the fiscal year that ended in September 2025, more than for any other employer in the country, according to a GeekWire analysis of the agency’s data . Microsoft also led in the first nine months of fiscal 2026, with 1,683 applications decided through June.",
-    "Amazon and Google filed thousands of PERM applications in 2022 and early 2023, then largely stopped. The Labor Department ruled on 39 applications from Amazon and its subsidiaries last fiscal year, including Whole Foods, Audible and Zappos, and three from Google.",
-    "The suspension could hit hardest for Microsoft employees already on H-1B visas. Many count on the company to start the permanent residency process in time to extend their visas past the usual six-year limit, and the Labor Department says it won’t process Microsoft’s pending applications either.",
-    "Some Microsoft employees on H-1B visas were surprised by the news and unsure whether it would affect them, The Seattle Times reported . The paper noted that the White House hasn’t provided evidence of fraud by Microsoft.",
-    "Microsoft’s response: In a statement posted Thursday , Microsoft pushed back on criticism of its hiring and said it looks forward to “providing the Administration with additional information.” The statement focused on H-1B visas and didn’t address the PERM suspension specifically.",
-    "The company said about 80% of the roughly 6,000 H-1B applications it filed last fiscal year were to extend or change the status of people who already work at Microsoft. “These were not to hire new people,” it said.",
-    "The rest were for new hires already living in the U.S. legally, a group equal to about 1% of Microsoft’s U.S. workforce. “They are not new arrivals to our country,” the company said.",
-    "Microsoft also said it files H-1B petitions only for workers who meet “the rigorous standards of this visa category,” pays them “the same as any other employees doing comparable work,” and offers wages “among the highest of all H-1B filings.”",
-    "The vast majority of its U.S. employees are Americans, the company said.",
-    "Nadella’s own path: Nadella’s route to citizenship wasn’t a straight line, as he described in “Hit Refresh.” He was working at Microsoft when he married his wife, Anu, in India in December 1992. The next summer, her application for a visa to join him in the U.S. was rejected because she was married to a permanent resident.",
-    "Spouses of permanent residents faced long waits, and Microsoft’s immigration lawyer told Nadella it could take five years or more to bring her to the U.S.",
-    "Nadella considered quitting Microsoft and moving back to India. Then the lawyer suggested a different approach: give up his permanent residency and go back to a temporary H-1B visa, which would let his wife join him right away.",
-    "In June 1994, Nadella went to the U.S. embassy in New Delhi, past the long lines of people hoping to get visas, and told a clerk he wanted to give up his permanent residency. The clerk was dumbfounded, Nadella wrote. The plan worked, and Anu joined him in Seattle, where they started a family. Nadella eventually got back on the path to permanent residency and later became a U.S. citizen.",
-    "But in the meantime, back in Redmond, Nadella became known around the Microsoft campus as the guy who gave up his green card. Colleagues called him for advice. One, Kunal Bahl, later left Microsoft when his H-1B ran out before his permanent residency came through. He returned to India and founded the e-commerce company Snapdeal.",
-    "“Such is the perverse logic of this immigration law,” Nadella wrote."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/potus.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-eonstitchingthedeveloperuniversetogether",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Microsoft 2.5: GitHub COO Kyle Daigle on stitching the developer universe together",
-   "author": "Mary Jo Foley",
-   "date": "2026-10-09",
-   "url": "https://www.geekwire.com/2026/microsoft-2-5-github-coo-kyle-daigle-on-stitching-the-developer-universe-together/",
-   "paras": [
-    "GeekWire is profiling over the next few weeks some of the people and teams that are shaping the evolution of Microsoft in what we’re calling its “Microsoft 2.5” era .",
-    "A delicate dance: In August 2025, Microsoft moved to integrate GitHub into the mothership, under its CoreAI division, after having allowed it to run as a quasi-independent entity since acquiring it in 2018. At the same time, GitHub CEO Thomas Dohmke announced he would leave the company at the end of the year.",
-    "A number of developers feared the worst: GitHub would become just another arm of Microsoft and lose the community-mindedness that had made it attractive to developers of all stripes, and especially open-source ones.",
-    "GitHub Chief Operating Officer Kyle Daigle — a 13-plus-year GitHub veteran — had been one of the main champions of the need to “keep GitHub GitHub.” He maintained that stance even after he added the “Chief Marketing Officer of Developer” title for all of Microsoft to his COO role in January 2026.",
-    "So, how has Microsoft done this past year with managing GitHub? In an interview with GeekWire , Daigle acknowledged that GitHub’s relationship with Microsoft has changed since the end of the standalone CEO era. But the goal is no longer just “don’t break GitHub.” It’s to export GitHub’s community, developer-first ethos and learnings across Microsoft.",
-    "GitHub has influence beyond just the GitHub product set now, Daigle said. And the fact that Microsoft opted to consolidate its developer-facing messaging and community outreach under Daigle, someone who came from GitHub, not from Microsoft’s traditional DevDiv organization, gives weight to his claim.",
-    "“Bringing teams together — engineering teams and marketing teams and everyone that wasn’t talking to each other before — has been a really big part of the work,” Daigle said. “I see all these opportunities for GitHub to directly help and impact the overall mission of Microsoft versus keeping it cloistered in a way that isn’t helping either GitHub’s mission or Microsoft’s mission.”",
-    "These days, developer teams across Microsoft and GitHub are sharing foundations and the GitHub Copilot software development kit across organizations “in a way that would have seemed improbable before,” he said.",
-    "As Microsoft historians know, “Microsoft’s challenge isn’t creating products. It’s connecting them,” Daigle said.",
-    "Growing pains: At the same time, the rise of AI agents has strained GitHub’s infrastructure. Over the past few months, GitHub has experienced some significant outages, including one in August that lasted nearly eight hours .",
-    "GitHub officials have said they are migrating from their own datacenters to Azure to try to ease some of the capacity issues. Daigle said it’s not a simple lift-and-shift process; rather, it’s a major re-architecture for the platform.",
-    "GitHub is roughly 60% through its Azure migration as of early October, he said.",
-    "It’s working with Azure storage teams on separating compute and storage for the Git distributed version control system to help alleviate bottlenecks caused by developers and agents working concurrently in the same repositories. Developers and agents made 7.38 billion commits on GitHub in September alone, according to the company.",
-    "GitHub’s recent growth would not have been manageable without Microsoft scaling expertise and Azure support, Daigle said. GitHub is in a unique position of being able to request major additional capacity, such as millions of CPUs, and work with Microsoft teams to provision it, he said.",
-    "The GitHub app and agent store: GitHub got its start as a platform for source control and collaboration. But its role is evolving as part of its Microsoft integration. In addition to developing and supporting Microsoft’s most successful Copilot, GitHub Copilot, GitHub has an important place in Microsoft’s agent-centric strategy.",
-    "GitHub is becoming “the store for anything that needs to be coded and needs some verification,” Daigle said. “We’ll connect you to whatever the right tool inside of Microsoft is for you to run that or whatever tool you’re using, not just (from) the Microsoft product suite.”",
-    "In the new world order, GitHub isn’t just the store for apps. Increasingly, it’s also the store for agents, which means GitHub is acting as the developer layer for Microsoft’s “agent factory” strategy.",
-    "(Microsoft co-founder Bill Gates envisioned Microsoft as a “software factory” that could produce software at scale. These days, CEO Satya Nadella and team talk about Microsoft as an “ agent factory,” helping customers create agents at scale.)",
-    "GitHub currently serves more than 200 million developers, plus an unknown but quickly growing number of agents.",
-    "Developers need to be thinking in new ways when it comes to agents, Daigle said. They need to consider ideas such as scaling application programming interfaces (APIs) for agents separately from humans, creating APIs designed specifically for agents, rewriting documentation and tooling so agents can consume GitHub efficiently, and treating agent access as a fundamentally different workload from human access.",
-    "In the longer term, Daigle said he expects AI to make software economically viable for smaller audiences, such as a family, an individual or a single team. The app-store model may change substantially in the coming years, as people create highly specialized applications. GitHub could help like-minded users discover software for specific interests, such as a narrowly focused household or community use case.",
-    "GitHub historically has considered anyone who has seen or touched code to be part of the developer community. Daigle’s vision is for GitHub and Microsoft to let both professional developers and newer builders create and run software and agents without needing to manage token costs, uptime, monitoring or operational overhead.",
-    "GitHub will have more to say about its plans at the GitHub Universe conference in San Francisco, Oct. 28-29. The event won’t focus on code generation alone; it will include information on tools covering the full lifecycle, proactive security approaches and how to determine whether software is working well after deployment.",
-    "“We’re looking to solve the core parts of the platform, like Git, like Actions, in a way that I hope will make people excited and feel like they can absolutely trust GitHub for the next decade to come,” Daigle said."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/2025-10-28_GithubUniverse_SRP12465.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ewtransportationfundingheatsupinbellevue",
-   "srcKey": "urbanist",
+   "id": "f-stb-ogcom20261009fridayroundtablefallfoliage",
+   "srcKey": "stb",
    "cat": "transit",
-   "title": "Tug-of-War Over New Transportation Funding Heats Up in Bellevue",
-   "author": "Ryan Packer",
+   "title": "Friday Roundtable: Fall Foliage",
+   "author": "Michael Smith",
    "date": "2026-10-09",
-   "url": "https://www.theurbanist.org/tug-of-war-over-new-transportation-funding-heats-up-in-bellevue/",
+   "url": "https://seattletransitblog.com/2026/10/09/friday-roundtable-fall-foliage/",
    "paras": [
-    "The Bellevue City Council is on the cusp of approving a pair of new funding sources to bolster transportation infrastructure later this fall, but the fight over what exactly those new dollars should fund is far from settled. The debate playing out now is set to decide which transportation projects the Eastside's largest city prioritizes over the next decade, as it prepares to accommodate significant housing growth around public transit.",
-    "This week city officials formally presented a set of scenarios that outlined how Bellevue would use projected revenue from a potential 0.1% increase in the city's sales tax rate as well as a $20 car tab fee, unlocked from a transportation benefit district that the city has been considering tapping into since 2023. The sales tax bump would be expected to generate around $100 million for transportation infrastructure over 10 years, with the car tab only bringing in $20 million over the same period.",
-    "Sustainable transportation advocates in Bellevue have been pushing for a major infusion of resources to help reduce deaths and serious injuries, and that push has been backed up by a bloc of councilmembers standing behind the idea of prioritizing safety investments. But many of Bellevue's business interests are pushing for more investments in \"underperforming\" intersections to make it easier to drive around the city.",
-    "If the Council decides to adopt both the sales tax hike and the car tab next month, Bellevue would be poised to invest an additional $35 million over a decade in bike and pedestrian improvement projects, as well as $16.4 million more in neighborhood traffic calming. Combined, those two categories would amount to 41% of the city's total transportation spending, roughly aligning with levels proposed by Bellevue Transportation Director Andrew Singelakis during an initial budget discussion this spring.",
-    "The \"major projects\" category would amount to a full 35% of spending and 33% of new dollars, with the majority of that new spending devoted to completing the next phase of Spring Boulevard (Zone 3) through the BelRed neighborhood. Framed as a multimodal project, the $74.8 million connection would create an alternative for pedestrian-hostile Bel-Red Road – which the Council decided against making safer for people on bikes in 2024 . But with two general purpose lanes beefing up the need for property acquisition, the benefits of the project for people who walk and bike in Bellevue won't really align with its cost.",
-    "There's also the fact that the road cuts right through what is intended to be a new park for the future residents of BelRed.",
-    "The scenarios laid out on Tuesday do invest plenty in vehicle capacity in their own right. Scenario two, which includes only the sales tax increase, includes $18.9 million in new funding for projects specifically intended to address driver travel times on top of $49.3 million under the status quo. That includes $10 million to widen two intersections to improve traffic flow. With scenario three, which includes the new car tab fee, that would increase to $25 million, getting another intersection widening across the finish line.",
-    "There's also the issue of the Grand Connection Crossing , Bellevue's plan to build a pedestrian bridge over I-405 between Downtown and Wilburton and create a brand new multimodal connection as well as an opportunity for placemaking. Under either scenario 2 or 3, the $265 million project would receive a $10 million investment, freeing up dollars that had been set to go to the crossing from the general fund – dollars that could potentially go to any other city spending. Recently the City of Bellevue received buy-in from several regional governments to tap into tax-increment financing to pay for a much bigger share of that project's total cost.",
-    "These potential funding sources recently won over a major Bellevue stakeholder. Three years ago, the Bellevue Chamber of Commerce had initially opposed the idea of tapping into the unutilized transportation benefit district, which cities like Seattle have long been using to fund infrastructure. But now they've come around, officially conveying support for the move Tuesday night. But the business group, which has convened a Bellevue Mobility Coalition to weigh in on transportation issues, has conditions.",
-    "The group has framed an intense desire to see the sales tax revenue generated by the 0.1% increase – \"paid largely by businesses\" – serve the city's high-growth areas like Downtown, Wilburton, Factoria, and Eastgate. The smaller tranche of car tab funding, the group said in an October 6 letter, should \"primarily benefit neighborhoods.\"",
-    "In comments Tuesday night, a Chamber representative also told councilmembers they want to see any additional funding that comes in beyond projections get devoted to vehicle infrastructure – namely intersections that are considered \"deficient\" in terms of how much delay drivers experience getting through them. The group also made clear that they don't support the idea of repurposing traffic lanes to create bicycle facilities, one of the most cost-effective ways for cities to make streets safer.",
-    "\"Our support depends on four things. First, funding for Spring Boulevard Zone 3, 120th Avenue NE Stage 4, and the Grand Connection stays sufficient to complete the projects,\" Tony Sprague, Public Policy Manager for the Bellevue Chamber of Commerce, told councilmembers. \"Second, the underperforming intersections fund is increased and focused on growth corridor arterials with the first $10 million of any surplus sales tax collections dedicated. Third, vehicular capacity is not reduced for bicycle facilities except as a last resort. Fourth, sales tax revenue is not shifted to neighborhood programs that the car tab should fund.\"",
-    "Mariya Frost, Vice President of Government Affairs for Kemper Development Company (a member of the Bellevue Mobility Coalition), went even further than the Chamber, requesting that the Council put the revenue sources to a public vote and suggesting the proposals invest too much in walking and biking. The company, which recently announced an intention to sell its holdings in Bellevue, has been actively involved in transportation decisions in the city going back decades.",
-    "\"If council decides to move forward without a public vote, project funding must prioritize traffic congestion relief and accommodating vehicular travel associated with Bellevue's growth,\" Frost said. \"The rationale I've heard is that we need to balance the system across all modes, but it makes little sense to disproportionately pour millions of dollars into lower demand infrastructure while the roadway network carrying nearly 70% of our workers and residents is actively breaking down.\"",
-    "But so far Councilmember Jared Nieuwenhuis has been the lone voice on council framing either scenario as investing too much in walking and biking.",
-    "\"Throughout the different scenarios, there's substantially more funding for bikes and pedestrians than vehicles,\" Nieuwenhuis said. \"You're looking for that balanced approach, [a] multimodal approach. I totally agree with that, but I'm also cognizant of the fact the vast majority of people that who come into our city do so in a vehicle, in their car.\"",
-    "Other councilmembers have only expressed frustration that the investments the city has planned aren't able to be implemented sooner, but also haven't signaled a willingness to rebalance any of the funding scenarios by prioritizing safety projects over intersection widenings.",
-    "\"Every year at this time, we have the Walk and Roll to School Day commitment proclamation. And I always think to myself, is it really safe to expect that our families are going to ask their kids to walk or roll to school?,\" Councilmember Lynne Robinson said. \"And I know every year it gets a little safer, but we have so many holes in our infrastructure that most families I don't think do feel comfortable having their kids get to school independently, and that just creates a huge line of cars and congestion in our neighborhoods.\"",
-    "Councilmember Naren Briar made similar remarks, echoing comments she made back in April about wanting to see more funding devoted to neighborhood traffic calming and safety upgrades.",
-    "\"If a seven-year-old has no sidewalks or a crosswalk to rely on when waiting for the bus in the dark at 7am, those children are our top concern for me, and their safety and their well-being, as opposed to prioritizing one mode over the other,\" Briar said. \"I think neighborhood improvement is what I would really like to see. I understand that if we get to a place where taxes have to be raised, I do firmly believe that it needs to prevail through the scenario that benefits the neighborhoods the most.\"",
-    "While the attempt to strike a \"balanced approach\" illustrates Bellevue's current state as formerly car-oriented suburb trying to find a path toward being a more cosmopolitan place, there are signs that the reality of trying to keep planning around cars is starting to sink in.",
-    "\"As we grow over the next 20 years, there will be limited capacity for additional vehicle facilities,\" Deputy Transportation Director Mark Poch said. \"Right of way is limited. We have really good regional transportation we need to connect to, a lot of people connect to that by foot or by bike, as you know. Trying to find that balance so that we're able to meet that growth is really the key objective and making sure that we were aligned with what the community thinks – not one for one, but in the same ballpark, I think was important.\"",
-    "Bellevue's budget deliberations are set to continue throughout this month, with major decisions coming at November 3 and 10 meetings ahead of a final vote on November 17.",
-    "This story has been corrected to clarify the percentage of total spending set to go to pedestrian & bicycle and neighborhood traffic calming."
+    "The leaves are finally starting to fall and there is no better place to admire King County’s incredible scenery than from a historic Metro bus. The annual Metro Employees Historic Vehicle Association (MEHVA) Fall Foliage Tour is back this year on October 25. Ride on one of the historic buses in MEHVA’s fleet through the Cascade foothills. Buses depart from 6th Ave S & S Royal Brougham Way (one block from Stadium station) at 11am and will return around 3pm. Tickets cost $10 and the group will stop for lunch along the way.",
+    "If you prefer to stay in Seattle, the Washington Park Arboretum is incredible this time of year. The arboretum is located just west of Madison Park, near stops for routes 8, 11, 43, 48, and the G Line. UW station is the closest Link station, about a 20 minute walk from the park."
    ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/20261006_174306.jpg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_2077-2-edited.jpg?resize=525%2C325&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -893,23 +963,6 @@
     "The Halloween Pet Parade organized by the Volunteer Park Trust has already kicked off the season on Capitol Hill. Here are some pictures from this year’s parade. Happy Hilloween!"
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/vptpetparade20269.jpg?fit=72%2C96&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-ogcom20261009fridayroundtablefallfoliage",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Fall Foliage",
-   "author": "Michael Smith",
-   "date": "2026-10-09",
-   "url": "https://seattletransitblog.com/2026/10/09/friday-roundtable-fall-foliage/",
-   "paras": [
-    "The leaves are finally starting to fall and there is no better place to admire King County’s incredible scenery than from a historic Metro bus. The annual Metro Employees Historic Vehicle Association (MEHVA) Fall Foliage Tour is back this year on October 25. Ride on one of the historic buses in MEHVA’s fleet through the Cascade foothills. Buses depart from 6th Ave S & S Royal Brougham Way (one block from Stadium station) at 11am and will return around 3pm. Tickets cost $10 and the group will stop for lunch along the way.",
-    "If you prefer to stay in Seattle, the Washington Park Arboretum is incredible this time of year. The arboretum is located just west of Madison Park, near stops for routes 8, 11, 43, 48, and the G Line. UW station is the closest Link station, about a 20 minute walk from the park."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_2077-2-edited.jpg?resize=525%2C325&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1034,6 +1087,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-udURabC00WEJvUE9Bekh6akN1b0NTTmk5c3BRoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "The feds are using AI to deny care to WA seniors, Sen. Murray says",
+   "author": "",
+   "date": "2026-10-09",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFFFdnJyTUZiaU8xd3FpQ3ZRUENUV2ltNkFJZWtLeDhNSGxjSjdZMmNTNmJvOUdzanV3ajZONjUwbFdLV2lCdTZCVnRJNmladm95OWhDMHRFcFpZMHhRc1Z1aE9vRDJ6XzRoN3o0TmlCM1R5T09lXzBBNkFnazNnVnk5clZXRDZGZ0JudURabC00WEJvUE9Bekh6akN1b0NTTmk5c3BR?oc=5",
+   "paras": [
+    "The feds are using AI to deny care to WA seniors, Sen. Murray says KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-conversation-ncientgreekliteratureandmodernlife294020",
    "srcKey": "conversation",
    "cat": "national",
@@ -1131,7 +1201,7 @@
     "Isaias organized rapidly in this environment.",
     "But, as is often true with late-season hurricanes approaching the U.S., the jet stream is not far away. While Isaias strengthened, vertical shear also started increasing – not due to El Niño, but because the jet stream tends to dip farther south as autumn sets in.",
     "Isaias grew into a dangerous storm, but it could have been even stronger without the effects of wind shear.",
-    "The rapid emergence of Isaias is a reminder that a slow start to the hurricane season doesn’t mean a quiet end. The season does not end officially until November 30.",
+    "The rapid emergence of Isaias is a reminder that a slow start to the hurricane season doesn’t mean a quiet end. The season does not end officially until Nov. 30.",
     "Atmospheric conditions often change considerably in October from what they were in July through September as temperatures fall. So coastal regions can’t let their guard down yet – the season could bring more surprises.",
     "This article, originally published Oct. 9, 2026, has been updated with the storm making landfall.",
     "Christopher Davis works for the University of Massachusetts Amherst, and the NSF National Center for Atmospheric Research. He receives funding from the State of Massachusetts, NASA and the State of California."
@@ -1267,6 +1337,167 @@
    "annos": null
   },
   {
+   "id": "f-urbanist-ewtransportationfundingheatsupinbellevue",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Tug-of-War Over New Transportation Funding Heats Up in Bellevue",
+   "author": "Ryan Packer",
+   "date": "2026-10-09",
+   "url": "https://www.theurbanist.org/tug-of-war-over-new-transportation-funding-heats-up-in-bellevue/",
+   "paras": [
+    "The Bellevue City Council is on the cusp of approving a pair of new funding sources to bolster transportation infrastructure later this fall, but the fight over what exactly those new dollars should fund is far from settled. The debate playing out now is set to decide which transportation projects the Eastside's largest city prioritizes over the next decade, as it prepares to accommodate significant housing growth around public transit.",
+    "This week city officials formally presented a set of scenarios that outlined how Bellevue would use projected revenue from a potential 0.1% increase in the city's sales tax rate as well as a $20 car tab fee, unlocked from a transportation benefit district that the city has been considering tapping into since 2023. The sales tax bump would be expected to generate around $100 million for transportation infrastructure over 10 years, with the car tab only bringing in $20 million over the same period.",
+    "Sustainable transportation advocates in Bellevue have been pushing for a major infusion of resources to help reduce deaths and serious injuries, and that push has been backed up by a bloc of councilmembers standing behind the idea of prioritizing safety investments. But many of Bellevue's business interests are pushing for more investments in \"underperforming\" intersections to make it easier to drive around the city.",
+    "If the Council decides to adopt both the sales tax hike and the car tab next month, Bellevue would be poised to invest an additional $35 million over a decade in bike and pedestrian improvement projects, as well as $16.4 million more in neighborhood traffic calming. Combined, those two categories would amount to 41% of the city's total transportation spending, roughly aligning with levels proposed by Bellevue Transportation Director Andrew Singelakis during an initial budget discussion this spring.",
+    "The \"major projects\" category would amount to a full 35% of spending and 33% of new dollars, with the majority of that new spending devoted to completing the next phase of Spring Boulevard (Zone 3) through the BelRed neighborhood. Framed as a multimodal project, the $74.8 million connection would create an alternative for pedestrian-hostile Bel-Red Road – which the Council decided against making safer for people on bikes in 2024 . But with two general purpose lanes beefing up the need for property acquisition, the benefits of the project for people who walk and bike in Bellevue won't really align with its cost.",
+    "There's also the fact that the road cuts right through what is intended to be a new park for the future residents of BelRed.",
+    "The scenarios laid out on Tuesday do invest plenty in vehicle capacity in their own right. Scenario two, which includes only the sales tax increase, includes $18.9 million in new funding for projects specifically intended to address driver travel times on top of $49.3 million under the status quo. That includes $10 million to widen two intersections to improve traffic flow. With scenario three, which includes the new car tab fee, that would increase to $25 million, getting another intersection widening across the finish line.",
+    "There's also the issue of the Grand Connection Crossing , Bellevue's plan to build a pedestrian bridge over I-405 between Downtown and Wilburton and create a brand new multimodal connection as well as an opportunity for placemaking. Under either scenario 2 or 3, the $265 million project would receive a $10 million investment, freeing up dollars that had been set to go to the crossing from the general fund – dollars that could potentially go to any other city spending. Recently the City of Bellevue received buy-in from several regional governments to tap into tax-increment financing to pay for a much bigger share of that project's total cost.",
+    "These potential funding sources recently won over a major Bellevue stakeholder. Three years ago, the Bellevue Chamber of Commerce had initially opposed the idea of tapping into the unutilized transportation benefit district, which cities like Seattle have long been using to fund infrastructure. But now they've come around, officially conveying support for the move Tuesday night. But the business group, which has convened a Bellevue Mobility Coalition to weigh in on transportation issues, has conditions.",
+    "The group has framed an intense desire to see the sales tax revenue generated by the 0.1% increase – \"paid largely by businesses\" – serve the city's high-growth areas like Downtown, Wilburton, Factoria, and Eastgate. The smaller tranche of car tab funding, the group said in an October 6 letter, should \"primarily benefit neighborhoods.\"",
+    "In comments Tuesday night, a Chamber representative also told councilmembers they want to see any additional funding that comes in beyond projections get devoted to vehicle infrastructure – namely intersections that are considered \"deficient\" in terms of how much delay drivers experience getting through them. The group also made clear that they don't support the idea of repurposing traffic lanes to create bicycle facilities, one of the most cost-effective ways for cities to make streets safer.",
+    "\"Our support depends on four things. First, funding for Spring Boulevard Zone 3, 120th Avenue NE Stage 4, and the Grand Connection stays sufficient to complete the projects,\" Tony Sprague, Public Policy Manager for the Bellevue Chamber of Commerce, told councilmembers. \"Second, the underperforming intersections fund is increased and focused on growth corridor arterials with the first $10 million of any surplus sales tax collections dedicated. Third, vehicular capacity is not reduced for bicycle facilities except as a last resort. Fourth, sales tax revenue is not shifted to neighborhood programs that the car tab should fund.\"",
+    "Mariya Frost, Vice President of Government Affairs for Kemper Development Company (a member of the Bellevue Mobility Coalition), went even further than the Chamber, requesting that the Council put the revenue sources to a public vote and suggesting the proposals invest too much in walking and biking. The company, which recently announced an intention to sell its holdings in Bellevue, has been actively involved in transportation decisions in the city going back decades.",
+    "\"If council decides to move forward without a public vote, project funding must prioritize traffic congestion relief and accommodating vehicular travel associated with Bellevue's growth,\" Frost said. \"The rationale I've heard is that we need to balance the system across all modes, but it makes little sense to disproportionately pour millions of dollars into lower demand infrastructure while the roadway network carrying nearly 70% of our workers and residents is actively breaking down.\"",
+    "But so far Councilmember Jared Nieuwenhuis has been the lone voice on council framing either scenario as investing too much in walking and biking.",
+    "\"Throughout the different scenarios, there's substantially more funding for bikes and pedestrians than vehicles,\" Nieuwenhuis said. \"You're looking for that balanced approach, [a] multimodal approach. I totally agree with that, but I'm also cognizant of the fact the vast majority of people that who come into our city do so in a vehicle, in their car.\"",
+    "Other councilmembers have only expressed frustration that the investments the city has planned aren't able to be implemented sooner, but also haven't signaled a willingness to rebalance any of the funding scenarios by prioritizing safety projects over intersection widenings.",
+    "\"Every year at this time, we have the Walk and Roll to School Day commitment proclamation. And I always think to myself, is it really safe to expect that our families are going to ask their kids to walk or roll to school?,\" Councilmember Lynne Robinson said. \"And I know every year it gets a little safer, but we have so many holes in our infrastructure that most families I don't think do feel comfortable having their kids get to school independently, and that just creates a huge line of cars and congestion in our neighborhoods.\"",
+    "Councilmember Naren Briar made similar remarks, echoing comments she made back in April about wanting to see more funding devoted to neighborhood traffic calming and safety upgrades.",
+    "\"If a seven-year-old has no sidewalks or a crosswalk to rely on when waiting for the bus in the dark at 7am, those children are our top concern for me, and their safety and their well-being, as opposed to prioritizing one mode over the other,\" Briar said. \"I think neighborhood improvement is what I would really like to see. I understand that if we get to a place where taxes have to be raised, I do firmly believe that it needs to prevail through the scenario that benefits the neighborhoods the most.\"",
+    "While the attempt to strike a \"balanced approach\" illustrates Bellevue's current state as formerly car-oriented suburb trying to find a path toward being a more cosmopolitan place, there are signs that the reality of trying to keep planning around cars is starting to sink in.",
+    "\"As we grow over the next 20 years, there will be limited capacity for additional vehicle facilities,\" Deputy Transportation Director Mark Poch said. \"Right of way is limited. We have really good regional transportation we need to connect to, a lot of people connect to that by foot or by bike, as you know. Trying to find that balance so that we're able to meet that growth is really the key objective and making sure that we were aligned with what the community thinks – not one for one, but in the same ballpark, I think was important.\"",
+    "Bellevue's budget deliberations are set to continue throughout this month, with major decisions coming at November 3 and 10 meetings ahead of a final vote on November 17.",
+    "This story has been corrected to clarify the percentage of total spending set to go to pedestrian & bicycle and neighborhood traffic calming."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/20261006_174306.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-eater-rcommapsbestnewrestaurantsseattleheatmap",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "The Best New Restaurants in the Seattle Area",
+   "author": "<name>Sophie Grossman</name>",
+   "date": "2026-10-08",
+   "url": "https://seattle.eater.com/maps/best-new-restaurants-seattle-heatmap",
+   "paras": [
+    "Seattle’s dining landscape is constantly evolving with new fusions, revamps, and sister concepts to make reservations for. Thankfully, the Eater Seattle Heatmap helps answer the question “Where should I book my next dinner?”",
+    "This October brings in new additions to the list, including Waca Maya , a Venezuelan restaurant specializing in arepas; Girdie’s Cafe , a green Spanish-influenced cafe in Madison Valley; and Doris , a cocktail bar from Seattle restaurant veteran chef Neil Duncanson.",
+    "Find all these restaurants and more on the Eater app for iOS , where you can build and share your own custom dining guides.",
+    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
+    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
+   ],
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/05/260322-CafeLolo0576.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-np5WnFJVzJGdWpub1l5cGNFM2lneFBqYy1Rdwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "What we know about underlying labor issues that halted WA’s ferry system",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0U0SW5MUkx2NG92cm9oM2wxb29Vc1huU29uNWJEVmdLanJMY1hFT1J0eVQzZjFzUVUycXRqMzhhN250Yy16Yk9kNEtRNkpVdEhKZUxGQnJfRGR1Z0xyVTNVS1ZRUXBLVzdzdlNabU9Vb1oyeUJNdDJsN3ZQSjFSZzViLTZJVjVHMHJSQ0s4SXlrY1dSSnp5WnFJVzJGdWpub1l5cGNFM2lneFBqYy1Rdw?oc=5",
+   "paras": [
+    "What we know about underlying labor issues that halted WA’s ferry system KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-YT01MWFkycXRvYXBYYWhIdlg4TWQzVU1nTWFJoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "The millionaires tax is on the WA ballot this fall. Both sides make their case",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2JSVF9TV1Vac3kxZEtmemNxcVoyVmhleDZlOTM2MWUzQXFSY05ZZmJnZ1hESF85YnU5aWhOV0RkaExpQWtiOXJnaGEyenR0QWd3bmJhb2RKMTJrUlpxVThCMmpOOWRTSlQ0dDVFTkV3ZmttdlQ1Ni1uQzZoYThwRGo2X1VVMnRYOGIta0dDTEpNd0ZnNW9WOVRPUnZpYkhYT01MWFkycXRvYXBYYWhIdlg4TWQzVU1nTWFJ?oc=5",
+   "paras": [
+    "The millionaires tax is on the WA ballot this fall. Both sides make their case KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-Hc5WXBZWmVubmZOQnd3WVBkZWcxRE5Jd2pRLQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Japanese Americans in Seattle embark on 4-day pilgrimage to immigrant detention sites",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmFFUVBVZzJjdXBERV80T3RQOC1TLUJCTjAyQ1A1TEJtWG1fM2Z3YUpTWkIzQWR4WUJzNF9IZmdkdk1GUUNKNjYtYkxjUDNoRW9NMVB3NGVFdVBTakdGTjdNalU1cG0tdFI0eWZZN2RwNVNWQm9GX0prTUI2Mm5iNHR2Q0QxX2hZNVJaMnQxRmljQkxobi1BUzNuMVBQSno1a2MzWG1MU19OM3VaaHc5WXBZWmVubmZOQnd3WVBkZWcxRE5Jd2pRLQ?oc=5",
+   "paras": [
+    "Japanese Americans in Seattle embark on 4-day pilgrimage to immigrant detention sites KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-grist-yODRZcW52TEhNX2FuOW5sdDlpODBXLXJieHlBoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "Trump is gutting the Endangered Species Act. These 10 species show what’s at stake.",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHFCaFlzWVllSmpXREEyV2FhaUVZOUNMSmNhWHdSMTBMVERoSVQ3V2ViOUlNOGQzU0xYM1JWNmxXdmJWN2ZJMUwyR0huUlpDSmRkeUVtQ3Z4aElKMVdkWVI2Z2MzNXZTQUpHNHlCSXI2eEQySFJiLWdWZWlsQ3RHOWRGTFE3a1MxZXZyODRZcW52TEhNX2FuOW5sdDlpODBXLXJieHlB?oc=5",
+   "paras": [
+    "Trump is gutting the Endangered Species Act. These 10 species show what’s at stake. Grist"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-grist-yd2dJSDNqR1lZOWFuQVlMVmRCX0FlZ2dUT0x3oc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "The bipartisan energy bill tearing the climate movement apart",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEhNYjVvdjlrMGRkd3U1SkpiRWJhTzdUdGFrckZHamVXQUZjM3E1Uml5a2JHelk5ZUVaRkxVRmE3TmFiRFlBZmptM29jOHBUM3FRU0dGYzVYb2hhUkQtcFI0dFZHV2JoS2JGM3hDWThkcVdyUzVLTmo5MVgyd2dJSDNqR1lZOWFuQVlMVmRCX0FlZ2dUT0x3?oc=5",
+   "paras": [
+    "The bipartisan energy bill tearing the climate movement apart Grist"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-zJCakRHbGI4dDlVRjk1QzI1S0VWWWQ3V0xzUQoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
+   "author": "",
+   "date": "2026-10-08",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTJCV0hqdmhWd1hTVHZOUkhqdzZTMmVtZnd1bWJZd3NCNnNDX0U3QlU5VV9fYlVLRFB3VXRKcmItYnQ5MTVPQTdqUC1WVWNiSlZubWNZdDBpb0RyVVhHcGZDc3BhQVNRZm5Gb01IMFh4eXNWTXdkSU9fN2h4TkZrM19JNFZHcmV6Q1I1TUxPenZ6clpRZFBrOGdJTzJCakRHbGI4dDlVRjk1QzI1S0VWWWQ3V0xzUQ?oc=5",
+   "paras": [
+    "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-urbanist-reherhonetheirpitchtourbanistsinld46race",
    "srcKey": "urbanist",
    "cat": "transit",
@@ -1322,197 +1553,31 @@
    "annos": null
   },
   {
-   "id": "f-chs-tingafurrystoreasfureshsetsupshoponepike",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Capitol Hill is getting a furry store as Furesh sets up shop on E Pike",
-   "author": "Justin Carder",
-   "date": "2026-10-08",
-   "url": "https://www.capitolhillseattle.com/2026/10/capitol-hill-is-getting-a-furry-store-as-furesh-sets-up-shop-on-e-pike/",
+   "id": "f-stb-nsitblogcom20261007midweekroundupsickout",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Midweek Roundup: Sick Out",
+   "author": "Nathan Dickey",
+   "date": "2026-10-07",
+   "url": "https://seattletransitblog.com/2026/10/07/midweek-roundup-sick-out/",
    "paras": [
-    "Furry folks celebrating Pride on Broadway last summer",
-    "The Furesh crew at work (Image: Furesh.Shop)",
-    "What will happen when a wolf and hyena open a shop in Seattle dedicated to furry artists and creators? E Pike will find out in 2027 when Furesh opens its new Capitol Hill store.",
-    "The costume design and fabrication studio has grown as a specialist in custom fursuit craftsmanship, with an emphasis on tailored bodysuits engineered for mobility, durability, and comfort, as well as standalone parts like paws and tails.",
-    "Now it is building out a furry den of creative retail along E Pike just east of 12th Ave. The grand opening is planned for January 7th, 2027.",
-    "Furesh.Shop is taking the E Pike space where men’s fashion boutique Sergius & Bacchus debuted in 2023 . The store has moved a few blocks west and is now open in the transformed cafe space where Shikorina Bakeshop shuttered early in 2026 .",
-    "The venture is led by Austin Solid , founder and lead maker of Furesh whose @aiko_thewolf has grown into a popular character of the Seattle scene. In addition to his collaborations with local costume fabricators and pattern designers to grow Furesh, Solid is also a dedicated auto mechanic and building the Sad Dog Club as an automotive lifestyle brand.",
-    "Ownership includes Miles Jonard who transplanted The Plant Store to lower Pike/Pine in 2024 and will bring retail experience to the new Furesh headquarters.",
-    "The 2027 opening will be part of an exciting duo of upcoming Pike/Pine retail debuts. CHS reported here on the expansion of Charlie’s Queer Books to Capitol Hill with a new store, cafe, and event space on E Pike.",
-    "E Pike’s coming Furesh project will create a new home for the furry-focused group that has grown with work on design commissions, refurbishments, minor repairs, and specialized suit cleaning and maintenance serving the Pacific Northwest cosplay and anthropomorphic art community.",
-    "Right now, their working materials are mostly drywall and painter’s tape as the furry crew gets their paws dirty busting out walls , ripping up carpet, and preparing the new space for its 2027 debut.",
-    "Furesh.Shop will open in 2027 at 1209 E Pike. Follow @furesh.shop for updates.",
-    "We have some VERY exciting news to share!",
-    "We are partnering with a local hyena to open a brick and mortar store in Capitol Hill! Think of it like a permanent Dealers Den right in the heart of Seattle!",
-    "This is something we have been dreaming about for a while, and we are so excited to finally make it happen!",
-    "Opening soon! Stay tuned for more details! :3"
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/06/CapitolHillPride26-14.jpg?resize=584%2C388&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-itnessequipmentforpeopleanddogslookslike",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "What the Seattle Parks ‘Healthy Capitol Hill Hike’ fitness equipment for people and dogs looks like",
-   "author": "CHS Staff",
-   "date": "2026-10-08",
-   "url": "https://www.capitolhillseattle.com/2026/10/what-the-seattle-parks-healthy-capitol-hill-hike-fitness-equipment-for-people-and-dogs-looks-like/",
-   "paras": [
-    "Seattle Parks and Recreation has officially debuted the Healthy Capitol Hill Hike , an outdoor fitness initiative allowing neighborhood residents and their dogs to work out together across Capitol Hill.",
-    "CHS reported here on the initiative touted earlier this year by the city as part of activation efforts to help address public safety issues in parks across Capitol Hill and the Central District.",
-    "Seattle Parks has not said what the total budget for the installations tallies up to but said it was planned to keep costs minimal and draw on existing resources. Infrastructure ranges from heavy duty parks-style human workout equipment seen in public spaces across the country to a row of poles now installed in the middle of Broadway Hill Park as a dog agility station.",
-    "The low-budget project adds human- and dog-friendly fitness equipment alongside bodyweight workout stations to eight neighborhood green spaces, including Broadway Hill , Tashkent Park, Seven Hills Park, Summit Slope Park, and Williams Place . Designed through local community feedback, the effort aims to boost park safety and neighborhood accessibility.",
-    "Starting at Cal Anderson Park , visitors can choose between a 1.6-mile loop featuring upper-body exercise recommendations or a 1.5-mile loop focused on lower-body movements. Walkers and runners can also link both paths together for a complete 5K course. Digital route maps and suggested workouts are available online from seattle.gov ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/Seattle-Parks-and-Recreation5.jpg?fit=72%2C96&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-romhiringmorecopstospendingmoreonartists",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "19 Capitol Hill and Central District organizations and businesses join call for Seattle to move $8M in budget from hiring more cops to spending more on artists",
-   "author": "CHS Staff",
-   "date": "2026-10-08",
-   "url": "https://www.capitolhillseattle.com/2026/10/19-capitol-hill-and-central-district-organizations-and-businesses-join-call-for-seattle-to-move-8m-in-budget-from-hiring-more-cops-to-spending-more-on-artists/",
-   "paras": [
-    "More than 600 artists and 116 organizations have delivered an open letter to Mayor Katie Wilson and the Seattle City Council urging amendments to the 2027 budget that would reallocate police hiring funds toward cultural infrastructure.",
-    "Amid a looming $175 million deficit, the mayor’s proposal slates a $68 million increase for the Seattle Police Department to recruit 66 officers. The coalition requests council members redirect $8 million from that proposed increase directly into the Office of Arts and Culture .",
-    "“By paying local artists to bring life to our streets, parks, and business districts, the city fostered deep community engagement,” the letter reads. “These activations increased positive foot traffic, built relationships among neighbors, and created a vibrant cultural presence everywhere from North of Downtown to the South End.”",
-    "Capitol Hill and Central District Organizations and Businesses",
-    "Signatories argue that placemaking serves as vital public safety infrastructure, pointing to a $3.6 million investment in 2025 that funded 120 grants and 80 public activations ahead of the World Cup summer.",
-    "The letter credits that initiative with curbing violence and yielding a “murder-free June.”",
-    "The requested $8 million would more than double the 2025 cultural investment to establish year-round community programming citywide.",
-    "CHS reported here on Wilson’s proposal which would wipe out a $175 million deficit without tax increases or withdrawals from city reserves. The proposal would cut roughly $50 million annually in General Fund spending by eliminating 128 positions and aligning departmental budgets with historical costs, pairing these cuts with $50 million in shuffled funding by leveraging JumpStart payroll tax revenues to cover core services and homelessness programs.",
-    "Starting next week, budget chair Dan Strauss will lead the process as council members are briefed on policy considerations before officially proposing potential amendments to the mayor’s proposal.",
-    "District 3 representative Council President Joy Hollingsworth has signaled her support for continued police and anti-crime investments, joining a call for the mayor to strengthen her public safety plan .",
-    "A final “all-day” public hearing is scheduled for November 5th ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/chs-1224.jpg?resize=400%2C336&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-rcommapsbestnewrestaurantsseattleheatmap",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "The Best New Restaurants in the Seattle Area",
-   "author": "<name>Sophie Grossman</name>",
-   "date": "2026-10-08",
-   "url": "https://seattle.eater.com/maps/best-new-restaurants-seattle-heatmap",
-   "paras": [
-    "Seattle’s dining landscape is constantly evolving with new fusions, revamps, and sister concepts to make reservations for. Thankfully, the Eater Seattle Heatmap helps answer the question “Where should I book my next dinner?”",
-    "This October brings in new additions to the list, including Waca Maya , a Venezuelan restaurant specializing in arepas; Girdie’s Cafe , a green Spanish-influenced cafe in Madison Valley; and Doris , a cocktail bar from Seattle restaurant veteran chef Neil Duncanson.",
-    "Find all these restaurants and more on the Eater app for iOS , where you can build and share your own custom dining guides.",
-    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
-    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/05/260322-CafeLolo0576.jpg?quality=90&strip=all&crop=0,0,100,100",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-yODRZcW52TEhNX2FuOW5sdDlpODBXLXJieHlBoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "Trump is gutting the Endangered Species Act. These 10 species show what’s at stake.",
-   "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUHFCaFlzWVllSmpXREEyV2FhaUVZOUNMSmNhWHdSMTBMVERoSVQ3V2ViOUlNOGQzU0xYM1JWNmxXdmJWN2ZJMUwyR0huUlpDSmRkeUVtQ3Z4aElKMVdkWVI2Z2MzNXZTQUpHNHlCSXI2eEQySFJiLWdWZWlsQ3RHOWRGTFE3a1MxZXZyODRZcW52TEhNX2FuOW5sdDlpODBXLXJieHlB?oc=5",
-   "paras": [
-    "Trump is gutting the Endangered Species Act. These 10 species show what’s at stake. Grist"
+    "Reminder: Buses replace Link trains between Westlake and Northgate after ~10pm from Oct. 6-8 as part of Sound Transit’s rotating monthly maintenance program."
    ],
    "img": "",
    "fetched": true,
-   "fullText": false,
-   "gnews": true,
+   "fullText": true,
    "annos": null
   },
   {
-   "id": "f-grist-yd2dJSDNqR1lZOWFuQVlMVmRCX0FlZ2dUT0x3oc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The bipartisan energy bill tearing the climate movement apart",
-   "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeEhNYjVvdjlrMGRkd3U1SkpiRWJhTzdUdGFrckZHamVXQUZjM3E1Uml5a2JHelk5ZUVaRkxVRmE3TmFiRFlBZmptM29jOHBUM3FRU0dGYzVYb2hhUkQtcFI0dFZHV2JoS2JGM3hDWThkcVdyUzVLTmo5MVgyd2dJSDNqR1lZOWFuQVlMVmRCX0FlZ2dUT0x3?oc=5",
-   "paras": [
-    "The bipartisan energy bill tearing the climate movement apart Grist"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-np5WnFJVzJGdWpub1l5cGNFM2lneFBqYy1Rdwoc5",
+   "id": "f-kuow-c0LVVULXl4Nkd3SjV2Y3FiSzUyY3Q5SWFRajQoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "What we know about underlying labor issues that halted WA’s ferry system",
+   "title": "Another grieving orca mom carries dead calf on her nose off Washington state",
    "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0U0SW5MUkx2NG92cm9oM2wxb29Vc1huU29uNWJEVmdLanJMY1hFT1J0eVQzZjFzUVUycXRqMzhhN250Yy16Yk9kNEtRNkpVdEhKZUxGQnJfRGR1Z0xyVTNVS1ZRUXBLVzdzdlNabU9Vb1oyeUJNdDJsN3ZQSjFSZzViLTZJVjVHMHJSQ0s4SXlrY1dSSnp5WnFJVzJGdWpub1l5cGNFM2lneFBqYy1Rdw?oc=5",
+   "date": "2026-10-07",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazFjTmlKRWR2aURDbGY3eGVTRlNkTHVaUVk1X1c0a0RjVkcxSjVTTkdndDlVcWFJbEU3eFd0TC1mcFFhZEdpV0htcWpraU9GLUQ5OHpXa3lya3lJdHphNHg5TVJVeDNYRTFicTdqLVRSZWVVZi1SR2NkT2QzZnRPanFUbzV0SnVRSklaX2tsWGJrR3ZqLXVUVVRPdkc0LVVULXl4Nkd3SjV2Y3FiSzUyY3Q5SWFRajQ?oc=5",
    "paras": [
-    "What we know about underlying labor issues that halted WA’s ferry system KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-Hc5WXBZWmVubmZOQnd3WVBkZWcxRE5Jd2pRLQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Japanese Americans in Seattle embark on 4-day pilgrimage to immigrant detention sites",
-   "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmFFUVBVZzJjdXBERV80T3RQOC1TLUJCTjAyQ1A1TEJtWG1fM2Z3YUpTWkIzQWR4WUJzNF9IZmdkdk1GUUNKNjYtYkxjUDNoRW9NMVB3NGVFdVBTakdGTjdNalU1cG0tdFI0eWZZN2RwNVNWQm9GX0prTUI2Mm5iNHR2Q0QxX2hZNVJaMnQxRmljQkxobi1BUzNuMVBQSno1a2MzWG1MU19OM3VaaHc5WXBZWmVubmZOQnd3WVBkZWcxRE5Jd2pRLQ?oc=5",
-   "paras": [
-    "Japanese Americans in Seattle embark on 4-day pilgrimage to immigrant detention sites KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-YT01MWFkycXRvYXBYYWhIdlg4TWQzVU1nTWFJoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "The millionaires tax is on the WA ballot this fall. Both sides make their case",
-   "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPM2JSVF9TV1Vac3kxZEtmemNxcVoyVmhleDZlOTM2MWUzQXFSY05ZZmJnZ1hESF85YnU5aWhOV0RkaExpQWtiOXJnaGEyenR0QWd3bmJhb2RKMTJrUlpxVThCMmpOOWRTSlQ0dDVFTkV3ZmttdlQ1Ni1uQzZoYThwRGo2X1VVMnRYOGIta0dDTEpNd0ZnNW9WOVRPUnZpYkhYT01MWFkycXRvYXBYYWhIdlg4TWQzVU1nTWFJ?oc=5",
-   "paras": [
-    "The millionaires tax is on the WA ballot this fall. Both sides make their case KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-zJCakRHbGI4dDlVRjk1QzI1S0VWWWQ3V0xzUQoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU",
-   "author": "",
-   "date": "2026-10-08",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTJCV0hqdmhWd1hTVHZOUkhqdzZTMmVtZnd1bWJZd3NCNnNDX0U3QlU5VV9fYlVLRFB3VXRKcmItYnQ5MTVPQTdqUC1WVWNiSlZubWNZdDBpb0RyVVhHcGZDc3BhQVNRZm5Gb01IMFh4eXNWTXdkSU9fN2h4TkZrM19JNFZHcmV6Q1I1TUxPenZ6clpRZFBrOGdJTzJCakRHbGI4dDlVRjk1QzI1S0VWWWQ3V0xzUQ?oc=5",
-   "paras": [
-    "U.S. Lawmakers Launch Sexual Abuse Probe of Youth Sports Giant AAU ProPublica"
+    "Another grieving orca mom carries dead calf on her nose off Washington state KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1606,77 +1671,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-nsitblogcom20261007midweekroundupsickout",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Midweek Roundup: Sick Out",
-   "author": "Nathan Dickey",
-   "date": "2026-10-07",
-   "url": "https://seattletransitblog.com/2026/10/07/midweek-roundup-sick-out/",
-   "paras": [
-    "Reminder: Buses replace Link trains between Westlake and Northgate after ~10pm from Oct. 6-8 as part of Sound Transit’s rotating monthly maintenance program."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-c0LVVULXl4Nkd3SjV2Y3FiSzUyY3Q5SWFRajQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Another grieving orca mom carries dead calf on her nose off Washington state",
-   "author": "",
-   "date": "2026-10-07",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOazFjTmlKRWR2aURDbGY3eGVTRlNkTHVaUVk1X1c0a0RjVkcxSjVTTkdndDlVcWFJbEU3eFd0TC1mcFFhZEdpV0htcWpraU9GLUQ5OHpXa3lya3lJdHphNHg5TVJVeDNYRTFicTdqLVRSZWVVZi1SR2NkT2QzZnRPanFUbzV0SnVRSklaX2tsWGJrR3ZqLXVUVVRPdkc0LVVULXl4Nkd3SjV2Y3FiSzUyY3Q5SWFRajQ?oc=5",
-   "paras": [
-    "Another grieving orca mom carries dead calf on her nose off Washington state KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-0U1M0c05IZFJhM253c01vRGtxUUF1cWFTLUQwoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Bellingham resident arrested, charged with aiding Canadian school shooter",
-   "author": "",
-   "date": "2026-10-07",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeUdCb2pRNlZhVnVvUFJKMmpWLXNGVVBVZDBydTJGWnQ0ejlkTzJuNEE1VGl5QWo4eDBTWVBBcWNXMk9TcVRrQjF3VDRKV0JnTGE4SHpLRDZMZE4zSEFsdmtjcnhTT0s2bHk1TVNGcXFGcFBOVm9QcW1NNktHMTRJSlBPZ2tCX05XbUtHaGtnSGdna0F0U1M0c05IZFJhM253c01vRGtxUUF1cWFTLUQw?oc=5",
-   "paras": [
-    "Bellingham resident arrested, charged with aiding Canadian school shooter KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-nisteventorhostasocialinyourneighborhood",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Join an October Urbanist Event, or Host a Social in Your Neighborhood",
-   "author": "Diego Batres",
-   "date": "2026-10-06",
-   "url": "https://www.theurbanist.org/join-an-october-urbanist-event-or-host-a-social-in-your-neighborhood/",
-   "paras": [
-    "This month, in addition to our standard Seattle social ( October 22), we're hosting a Northshore Social in Bothell on October 13 . Come by and say hello, get connected, and enjoy some like-minded company!",
-    "This social series will launch at the McMenamins Tavern in Downtown Bothell and rotate through locations in the Northshore area (Kenmore, Bothell, and Woodinville). Come chat about Northshore urbanism issues, celebrate local wins, and meet your neighbors. Everyone in the Puget Sound region is welcome to join and chat all things urbanism.",
-    "We're partnering with Eastside Urbanism and Urbanist Shoreline to put on the series. Interested in getting involved with Eastside Urbanism? Join their Discord server . Urbanist Shoreline is also inviting folks to join their Discord .",
-    "Additionally, we are looking for volunteers to host their own Urbanist socials! If you are someone who is unable to make it to our regular socials, want to meet urbanists in your area, or just want an excuse to grab some drinks, consider hosting your own Urbanist social in your neighborhood or city! Reach out to Diego@theurbanist.org for help getting set up.",
-    "What : Join your friends from Eastside Urbanism , Urbanist Shoreline , and The Urbanist for the inaugural Northshore Urbanism Social. Is there a particular way that your city is failing you? Are you unable to find housing that meets your needs where you want to live? Is your commute miserable? Do you bike, take transit, or wish you could? Want to figure out how you can do something about it? Let's talk about it! Where : McMenamins Tavern on the Square 18607 Bothell Way NE, Bothell 98011 When : Tuesday, October 13th, 7pm - 9pm Transit Stops : Routes 106, 120, 230, 331, 522 (not an exhaustive list) RSVP : RSVP here .",
-    "What : A social gathering with urbanists and like-minded people to network, build community, and enjoy the evening. Where : Teku Tavern, 552 Denny Way, Seattle, WA 98109 When : Thursday, October 22nd, 6pm - 8pm Transit Stops : Near stops for Routes 4, 5, 8, 28, 62, or the E Line (not an exhaustive list). RSVP : RSVP here ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/Urb-Shore-Social.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-eservicesandcommuterroutetruncationagain",
    "srcKey": "stb",
    "cat": "transit",
@@ -1706,6 +1700,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-GZBUHFPVlowWEJsLTQwRWRrUHVUVGJTcGFUSQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Polling shows ban on trans girls in girls' sports could pass in November",
+   "author": "",
+   "date": "2026-10-06",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnJpdlQxaExmUkJMcmlmNTNSb0dKZUNiU0Q2dzZsNFRmSDdtOGhheGt3VXVYbkxuN0NmUS14YUpuQmU1aHVSc19hb0ZkeVNubWtmOGlHblVxbHBxYjJFVG9wSE9IdjMxa01TNWlUMXA3SGJjQzhOUTQ3Rmg0aVgzU01FSlBQYWl4UWlQR0NoMlZGNTRXLWFXeGZBUHFPVlowWEJsLTQwRWRrUHVUVGJTcGFUSQ?oc=5",
+   "paras": [
+    "Polling shows ban on trans girls in girls' sports could pass in November KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-grist-TNKOHgtLVA0dmVfcHpuV0NCc3k5TTVFWll6SQoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1732,23 +1743,6 @@
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVFsNjhQSnhlOVk3a3M2TDdoWXhyZUZEN2lZZ2tNVFFheFpkQVZGOXF6aHdUZ1d3VktvbGxhdFdHY1BwX0FLcjJrMEF0M3V5VjI2V1R6cU1OS2hMUkdzQnUteDk1d1haNW14anlMSGdWLUlQTVM3X1NtZ0hqZEZPWHZ2VExYRS1YVkVsT3pFM1dlWUxiTWF5OUVYaGFuc0pEM2I0bWZLR1JCbXVfM2EwcGMwWThHZF9HdmlhSg?oc=5",
    "paras": [
     "Prison overcrowding is keeping Idaho women behind bars even after they’re granted parole InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-GZBUHFPVlowWEJsLTQwRWRrUHVUVGJTcGFUSQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Polling shows ban on trans girls in girls' sports could pass in November",
-   "author": "",
-   "date": "2026-10-06",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONnJpdlQxaExmUkJMcmlmNTNSb0dKZUNiU0Q2dzZsNFRmSDdtOGhheGt3VXVYbkxuN0NmUS14YUpuQmU1aHVSc19hb0ZkeVNubWtmOGlHblVxbHBxYjJFVG9wSE9IdjMxa01TNWlUMXA3SGJjQzhOUTQ3Rmg0aVgzU01FSlBQYWl4UWlQR0NoMlZGNTRXLWFXeGZBUHFPVlowWEJsLTQwRWRrUHVUVGJTcGFUSQ?oc=5",
-   "paras": [
-    "Polling shows ban on trans girls in girls' sports could pass in November KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1812,23 +1806,6 @@
    "annos": null
   },
   {
-   "id": "f-propublica-FWbXlFdGxLWGtwaTM0SDRhLVgxMzcwM2duT0Uoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City’s Drinking Water",
-   "author": "",
-   "date": "2026-10-05",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43Nk52ckJBOUFybEdqalNBNmplMHN3NXlTY3pmOWQtc19YX0dzbDdtSFg2aWFqbzZ6OTFQTHJDQUdHUHpXY3lEWi1fWkp6eEZGS2U0RnpwUVBqQUtuM3Q0Sm5XM2FWbXlFdGxLWGtwaTM0SDRhLVgxMzcwM2duT0U?oc=5",
-   "paras": [
-    "Oklahoma Oil Company Plugs Disposal Well That Posed Threat to City’s Drinking Water ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-daymoviewhyaretherenofreewaysinvancouver",
    "srcKey": "stb",
    "cat": "transit",
@@ -1845,24 +1822,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-gcom20261002fridayroundtablesalmonseeson",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Salmon SEEson",
-   "author": "Michael Smith",
-   "date": "2026-10-02",
-   "url": "https://seattletransitblog.com/2026/10/02/friday-roundtable-salmon-seeson/",
-   "paras": [
-    "Every year, thousands of salmon travel though creeks, rivers and lakes in King County on their return trip from the ocean. These adult salmon return to fresh water to spawn the next generation. The county’s Salmon SEEson program, now in its 20th year, highlights the habitat restoration, stormwater management, and community stewardship that ensure the fish can complete their journey. The program also highlights some of the best locations for watching the great salmon migration. An interactive map is available here .",
-    "One of the primary dangers to coho salmon in King County’s streams and rivers is a chemical from car tires . A chemical called 6PPD is used in almost all tires to protect them from ground-level ozone. When ozone reacts with 6PPD, it creates a toxic chemical called 6PPD-quinone. 6PPD-quinone is left on the roadway and washed into nearby waterways during the next rain. Some locations have a stormwater filter to prevent 6PPD-quinone from entering a waterway, but these systems cannot be built for every road.",
-    "To avoid adding more 6PPD-quinone to the salmon’s habitat, do not drive to see the salmon migration. Instead, ride the bus! EcoCity Action has organized a few transit trips to see salmon. Join them on a trip to Issaquah (Oct 4), Renton (Oct 11), or Carkeek Park (Nov 21). Below is a list of 20 salmon spotting locations and the bus routes that will get you there."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/09/image-41.png?resize=525%2C566&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-hGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlcoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1872,6 +1831,23 @@
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjJuSm1CdWNkRkpidl9nWDhBZW9TLUZER0FiUU41TlpkeWNNamFpWk9rTEF3S0RwS2xZMDRKVE5KbmVadE9lelZUV2ZYOXBnNWhfaHVJUHhIcTA4cVFPcnNQM3VUa2Z5bFJveW1sRERTNjBvdkhGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlc?oc=5",
    "paras": [
     "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-1T29PNXN2Qm9WbHRpdk1Ndmp3V1F6Qjg3NkVQoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Daisy Zavala Magaña / RANGE",
+   "author": "",
+   "date": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1KWUM4eUVydWlPQWRaWENQcldQMHk2Ny1ENnhXamxYTzRPWTBDWVR2YWxBU3ZEbDFBbkZRQjFBX3U2NThSbVAwS04tcXR1T29PNXN2Qm9WbHRpdk1Ndmp3V1F6Qjg3NkVQ?oc=5",
+   "paras": [
+    "Daisy Zavala Magaña / RANGE InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1931,23 +1907,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-BmNkpYWVIwUHBiQTNiMVBCby1GbkJfYWY5aWUoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Wyatt Myskow / Inside Climate News",
-   "author": "",
-   "date": "2026-09-29",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5oc0NWZVJVcTRneHRybF8zWFNtX25nM3BjRHEyTEE4aHR4SlNLaXZmbUZBS0lPWFMzT2p1XzBmNkpYWVIwUHBiQTNiMVBCby1GbkJfYWY5aWU?oc=5",
-   "paras": [
-    "Wyatt Myskow / Inside Climate News InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-UdwT1RzWVJYa0Y4Z3daS0JOLXZCT0lyOGh3Ywoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1965,15 +1924,15 @@
    "annos": null
   },
   {
-   "id": "f-propublica-2hlT3VPU3pmZkNlV3JpakNiZTY2X0pyZ1dLRAoc5",
+   "id": "f-propublica-DVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNxoc5",
    "srcKey": "propublica",
    "cat": "local",
-   "title": "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way",
+   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
    "author": "",
-   "date": "2026-09-22",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmZBNDFCSlFHbC1STUtoa0U2UWRPM1V2UG4wLWNjOTJNRGU2MGdPdWJyeXBBalhkT2tkZ0UtRXJWUUJXRkJfeElDWXhxcWNsYmVTRWY4Z3VEWm56aFVYWkdNNmFvcVd4Wi1JdVRXVGZjZHR4TDZ1aGZURGhWQ2hlT3VPU3pmZkNlV3JpakNiZTY2X0pyZ1dLRA?oc=5",
+   "date": "2026-09-26",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTF5Ui1kelpxZEUtZjBLOEJJM3NSVWtCZHhCY3JVcWFQc0otTVhqQXoyVFQ3c1dPQUhTTGpyNzR2N3VodEhXZkpQNGpCcmhxZzI0YVN5Vl9ScUpvV290U01Ebi1ZMVFXQk1wRGJDVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNx?oc=5",
    "paras": [
-    "The FBI Anti-Corruption Squad Was Circling Susan Collins — Until Trump Got in the Way ProPublica"
+    "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. ProPublica"
    ],
    "img": "",
    "fetched": true,
