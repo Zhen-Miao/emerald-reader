@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-10-16T19:08:40.078Z",
- "builtFor": "2026-10-16",
- "builtHour": "12",
- "count": 86,
+ "builtAt": "2026-10-17T18:02:52.713Z",
+ "builtFor": "2026-10-17",
+ "builtHour": "11",
+ "count": 85,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 3,
-   "via": "google-news"
+   "count": 1,
+   "via": "feed"
   },
   {
    "source": "geekwire",
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 4,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,622 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-kyardandlinkedinsnotsoseattlestartuplist",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Amazon’s AI wearable, Booking’s return to Expedia’s backyard, and LinkedIn’s not-so-Seattle startup list",
+   "author": "Todd Bishop",
+   "date": "2026-10-17",
+   "url": "https://www.geekwire.com/2026/amazons-new-ai-wearable-bookings-return-to-expedias-backyard-and-linkedins-not-so-seattle-startup-list/",
+   "paras": [
+    "This week on the GeekWire Podcast, we start by opening the listener mailbag, highlighting some recent comments that set a new standard for critical feedback, in different ways.",
+    "We discuss Vayo , the AI travel venture Booking Holdings is launching in Seattle, home of its biggest rival, Expedia. Led by recent guest Mike Fridgen, Vayo uses AI agents to manage your trips. It’s an example of the broader push to build personalized AI agents, even as more companies wall off their sites from rival agents.",
+    "Then we take on LinkedIn’s list of the top Seattle startups , where four of the top 10, including No. 1 Anthropic, aren’t headquartered in the region.",
+    "And finally, we talk about Amazon’s new Bee AI wearables , which can turn things you say into shopping suggestions on Amazon.com if you opt in and pay $12 a month. That leads into the GeekWire Trivia Challenge, about an earlier Amazon wristband that listened to you.",
+    "Edited and produced by Curt Milton; Music by Daniel L.K. Caldwell."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-rtonshouldfullypedestrianizequincysquare",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Bremerton Should Fully Pedestrianize Quincy Square",
+   "author": "Travis Merrigan",
+   "date": "2026-10-17",
+   "url": "https://www.theurbanist.org/op-ed-bremerton-should-fully-pedestrianize-quincy-square/",
+   "paras": [
+    "The City of Bremerton is debating how to use the newly completed, $4 million Quincy Square, located at the heart of downtown. As with Seattle’s Pike Place Market, Bremerton Public Works proposed closing the ‘Q Square’ about half the days of the year. At a Sept 3rd City Council meeting, councilors were split 3-to-3 between supporting the 182-day closure and seeking more car-access days. It’s just the latest debate in an on-going tug of war as the city tries to carve out safe multimodal spaces from Bremerton’s thoroughly car-dominated streets and neighborhoods.",
+    "Completed in 2025, Quincy Square is a half-block of 4th Street in the heart of downtown. It features a permanent stage, seating and tables, and interactive music installations honoring the late, great music impresario Quincy Jones, who spent his middle school years in Bremerton, before moving to Seattle.",
+    "Q Square was designed as a hybrid street, transforming via mid-block, removable bollards between pedestrian-oriented plaza and a one-way street with 14 parking spots. The debate this fall at Bremerton City Council is about how many days the plaza should be open to cars.",
+    "The Public Works plan attempts to split the baby, via middle-of-the-road Resolution No. 3417. The resolution would change Bremerton city code to create ‘pedestrian mall’, under a little used Washington state law from the 1960s. On September 3, City Council voted 5-1 to create a pedestrian mall, but a major rift formed over whether Q Square should be primarily a pedestrian street closed to cars or just a regular street which closes sometimes for events.",
+    "Public Works’ initial proposal offered a vision of Quincy Square offering economic, safety and social benefits of a predictable schedule and community gathering space. It also cited the costs of the current, on-again off-again street closures, including resource drain and overtime required to replace signage and bollards at odd hours. The administration’s plan also cited confused drivers, forced into awkward u-turns on a street that might be open the day before.",
+    "Public Works is seeking guidance on a separate, administrative decision, to set the calendar which designates which days Q Square is open to traffic. The initial proposal was for about 182 days closed, concentrated in the summer and between Thanksgiving and New Years, with the plaza open to traffic the other 183 days.",
+    "During its September 3rd deliberations, Council was split 3-3 (with one councilmember absent) between closing Q Square to cars for at least 182-days per year, and three councilors who sought more car-access days.",
+    "Opponents of more pedestrianization of Q Square have understandable and sincere concerns about the downsides of closing the street. People who park or drive on the street are being asked to shoulder a disproportionate burden of an amenity that benefits the entire city.",
+    "Those opposing more pedestrianization of Q Square have three primary complaints:",
+    "Every multimodal project that restricts automobile access faces backlash from those who would otherwise have unfettered usage of a given space. Q Square is home to four dozen businesses, including a theater, corner store, skate shop and over 30 professional offices in a mid-rise tower. For those people, it’s more convenient to get dropped off right in front of the door than walk from a parking garage or street parking 200 feet away.",
+    "And opponents argue that, with the exception of City-sponsored events, the Square is little-used. That too few people - or the wrong kinds of people (e.g., unhoused) - hang out in the Square to justify the loss of parking and car traffic. This echoes a common criticism of ‘empty’ bike lanes; if somebody isn’t constantly in them, the space should be available for cars.",
+    "Bremerton must decide if the creation of a central, community gathering space is worth forcing inconvenience on a few dozen drivers every day. This half block of 4th St is probably downtown’s lowest-traffic street, and the 14 parking stalls are just 0.2% of downtown’s 6,300 public parking spaces. And many city amenities - parks, free street parking, park benches, and schools - sit empty most hours of the year. These amenities are valuable because they are available when needed. Nobody tears down a church because it’s empty on a Tuesday afternoon.",
+    "The status quo of random 4th Street closures leads to confused motorists making awkward half-block u-turns on a street not fit for purpose. The street could be reconfigured as a u-shaped drop-off site for cars and shuttle buses, with short-term, off-hour parking for deliveries. Resolution 3417 allows acquisition of right of way, and the affected hotel would likely welcome an improvement to the chaotic turn-arounds.",
+    "Leaving Q Square closed for long blocks of time allows drivers and businesses to adjust and find new hacks to efficiently navigate and do commerce downtown. Meanwhile, designating Q Square for pedestrians will, over time, attract more people downtown, and delight visitors who stumble across the open space.",
+    "Great cities have great plazas. Plazas are where poems are written, friends meet for lunch and kids first learn to ride bikes. The $4 million Quincy Square is brand new and, if left open for people to gather, will become the beating heart of thriving downtown Bremerton. Q Square will help downtown recover from the suburban flight of the 80s and 90s which pulled commerce out of the city, off to distant strip malls outside the city.",
+    "In modern-day Bremerton, virtually every inch of downtown street is maximized for vehicles. Among downtown’s 6,300 public parking spots are four, city-owned, multistory parking garages. Most downtown streets host two-way traffic plus dual-side on-street parking. Pedestrians are shunted aside onto narrow sidewalks, with few benches to sit on or places to linger. Street eateries that granted street life to downtown during the pandemic are nearly all swept away, to make room for street parking. The nearest playground swing is 0.75 miles away.",
+    "Revitalization of downtown requires people to get out of their cars, window shop and spend money in downtown businesses. A lovely, welcoming square that encourages people to linger will benefit many businesses downtown, even if the lost parking affects some more than others.",
+    "Bremerton could take action to reduce the hyperlocal problems caused by vehicle restrictions. Additional short-term and ADA parking could be created very near Q Square. The City could designate the four Pacific Avenue parking stalls nearest Q Square as ADA and place 2-hour parking limits on the bottom two floors of its 4th and Washington parking garage. Also, an improved turn-around and drop-off spot could be created in collaboration with the hotel immediately east of the half-block vehicle barriers.",
+    "More people would use Q Square if the city offered very low-cost rental of the space for bike polo matches, band rehearsals and mass outdoor Dungeons and Dragons tournaments (Bremerton’s nerd game is strong). The burden of filling the square need not fall on the City funding big events.",
+    "Opponents of closing Q Square predict terrible outcomes. But outcomes will probably be less dire than they predict, especially if Bremerton makes adjustments. Besides, unexpected upsides are just as likely as miserable downsides. Cities have always thrived because of spontaneous interaction in public places, which sparks ideas, creates new commerce and builds community. Q Square is unique in all of Bremerton, but common across the world: a safe, inviting, central plaza where people go just because, and where interesting and unexpected things can happen.",
+    "Great cities have great plazas. Quincy Square is Bremerton’s once-in-a-generation shot to create Bremerton’s first great plaza. Let’s not throw away our shot.",
+    "The Bremerton City Council will debate the Mayor’s proposal at an upcoming council meeting this fall."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/data-src-image-524ad788-78e8-4211-87c4-3601ef945032-1.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-tblogcom20261016linkreductionthisweekend",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Link Reduction This Weekend",
+   "author": "Mike Orr",
+   "date": "2026-10-17",
+   "url": "https://seattletransitblog.com/2026/10/16/link-reduction-this-weekend/",
+   "paras": [
+    "The 2 Line will be replaced by shuttle buses Saturday and Sunday between South Bellevue and Chinatown/International District. The shuttles will run every 10-15 minutes and serve every station. The link has the bus stop locations; the Judkins Park stops are on Rainier Avenue under I-90. The 1 Line will increase to every 8 minutes to mitigate the loss of westside 2 Line service. The shuttles will run every 10-15 minutes and serve every station. The link has the bus stop locations; the Judkins Park stops are on Rainier Avenue under I-90.",
+    "Mike Lindblom in the Seattle Times got some background information on the work:",
+    "Sound Transit has operated at reduced speeds of around 40 mph at Mercer Island…, spokesperson Henry Bendon said.",
+    "This weekend, crews will install additional supports for overhead power rails, that are attached to the underside of Mercer Island lids (commonly called tunnels), to make those parts more stable. Last winter in test runs, electric arcing appeared between power rails — which serve the same purpose as the familiar overhead catenary wires throughout the network — and the trains at high speed, Bendon said.",
+    "Despite that anomaly, project staff chose to open the cross-lake and Mercer Island tracks on schedule, and finally they’re reinforcing the overhead equipment.",
+    "“We would like to get the speed back up to a full 55 mph,” Bendon said. He cautioned it probably will take one more weekend of work to get the job done.",
+    "I-405 will also be closed in downtown Bellevue, so expect more traffic on I-5 and the bridges.",
+    "No Kings will march on Saturday at 1:15pm from Cal Anderson Park to Seattle Center. The focus this time is on increasing voter turnout. This will likely fill Link trains between noon and 3pm, with only a few standing spaces available if that. A lot of people come from the Eastside: they’ll have to take the shuttle or other bus routes like Metro 255 or 270, or ST Express 542 or 545. (Yes, the 542 runs on Saturdays.) Hint: from Judkins Park station you can transfer to Metro route 8 to both endpoints of the march.",
+    "There will also be the usual sports and events events like the Sounders on Saturday at 7:30pm."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-erounduproute7orrapidridezahilayweighsin",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "The Roundup: Route 7 or RapidRide? Zahilay Weighs In",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://southseattleemerald.org/newsletters/2026/10/17/the-roundup-route-7-or-rapidride-zahilay-weighs-in",
+   "paras": [
+    "Last week , we talked about potential changes to bus Route 7.",
+    "We got plenty of feedback from concerned community members, so I wanted to do a follow-up.",
+    "This week, I interviewed King County Executive Girmay Zahilay.",
+    "We spoke about the proposed changes to Route 7, the feedback the Emerald has heard from the community, and the current status of the proposal.",
+    "This interview has been lightly edited for length and clarity.",
+    "MD: After running our article last week, we've heard plenty of feedback from the community. What are your thoughts on the proposed changes? Do you support changing Route 7 to RapidRide R?",
+    "GZ: I definitely support RapidRide R and upgrading Route 7 because I think the South Seattle community deserves an upgrade, deserves the best possible transit service and the better overall rider experience that RapidRide brings. I think there's a lot of work to do to make sure that we're incorporating community feedback and being as accessible to all of our communities as possible. And so I want to continue working with our community to make this the best possible investment for the neighborhoods that I grew up in and care about.",
+    "MD: A question that keeps coming up is why we can't have both Route 7 and the RapidRide. Why does it have to be either or?",
+    "GZ: I think in a universe where we had unlimited resources, maybe it could be. But when you take finite resources and divide them between two projects, two different sets of buses, two different operators, two different systems that could end up with us having less of both, I don't think that's something anybody wants. And they might also interfere with each other. You know, the benefits of RapidRide are the reliability, the frequency, and having a local bus that is competing with that bus lane could present problems too.",
+    "MD: I get that. But what I'm hearing from the community is concern over the loss of 20 stops in our neighborhood. That makes it feel like a shift toward a commuter bus for getting downtown that will replace a route that has traditionally been a lifeline for people in the community traveling within the South End. A lot of people say this will make daily life harder. So I ask: Who does this serve? Is it primarily for people commuting to work downtown?",
+    "GZ: It can and should serve everyone. No one should be left behind. Not our seniors. Not people with disabilities. Not people who want local access. And not commuters. And that is a conversation that's ongoing to make sure that it does serve all of our communities.",
+    "I would not be supporting this if I didn't think it was going to be a better experience for everyone. A RapidRide R is going to have more dependable buses. It's going to have safer ways to reach the bus because of all of the infrastructure improvements that come with RapidRide. We know that a lot of parts of Rainier are treacherous, and so the better lighting, better sidewalks, better access is something that's going to be better for everyone. We're going to have more comfortable places to sit and wait. We're going to have signals that tell people when the bus is coming. The bus timing between each bus is going to be more reliable because it's going to be managed through a better system.",
+    "And, in terms of stop consolidation, I definitely hear people are wanting to preserve stops that they rely on. And because of that feedback, we've already added back in a couple of stops to the updated proposal , and I want to continue hearing from people.",
+    "I would also note that the stop consolidation piece really resonates with me, and that's why we've taken certain actions, and then we will continue to take actions. But the kind of blanket Route 7 romanticization that is happening is also not fair or accurate, in my view. You know, this is the route that I grew up taking, and until this RapidRide conversation started happening, it wasn't this kind of blanket romanticizing that was happening. Route 7 has had its fair share of issues.",
+    "MD: I also grew up taking the 7 and agree it has its issues. But I know there are still a lot of people who depend on it, many of whom have reached out with concerns about the proposals, and I know plenty of people who've voiced these concerns since 2019. It would be great to be able to communicate to them that they can have their voices heard.",
+    "GZ: Mike, can I ask you a question? When people are reaching out, are they telling you which specific stops that they are most concerned about, or are they giving you a vague concern about RapidRide in general? Because the people who are reaching out are not telling us specific stops. So the more they can tell you specific stops, the more we can be helpful.",
+    "MD: Our reporter Jacquelyn Jimenez Romero recently did a ride-along with a few community orgs and neighbors who pointed out the stops that would potentially be eliminated. She said people mentioned stops by schools and pharmacies.",
+    "GZ: Maybe that refers to Franklin. One of the stops we're adding back is on Rainier and Bayview near Mount Baker Station. Another one is on Rainier and Grand near Judkins Park Station. But again, the sense that I've been getting is that people, when they hear the number, you know, 20 stops being consolidated, that number, understandably, is making people feel like it's not going to be as accessible as it used to be. But I would really, really encourage people to sit with the map and see which ones are going to affect their lives most consequentially and then share that with us.",
+    "I think this is going to be a massive improvement for South Seattle. It's going to also be better connected to the light rail network. Right now, the 7 doesn't connect directly to the Rainier Beach Station, and the RapidRide is going to be better connected to Rainier Beach Station, Judkins Park Station, the International District, Mount Baker, and all of the downtown stations.",
+    "MD: Where exactly do we stand in this process? What are the next steps, and for the people who still want their voice to be heard before a final decision is made, how can they do so?",
+    "GZ: Today, I'm going to be transferring the alignment ordinance to the King County Council. That's going to be the ordinance that shows the stops for the RapidRide, and the Council continues to have the authority to review and add stops back in. So I would encourage the community to find out the King County Council's review schedule through the TrEE Committee — Transportation, Economy, and Environment Committee — come and testify and share again the specific stops that you're most concerned about.",
+    "Also, Metro will continue to have more community forums as we continue the design process of RapidRide, and there is a specific segment of the 7 that's going to experience the most consolidation, and those are what's called the Prentice Loop south of Henderson, and for those communities south of Henderson, Metro and myself will do a separate service process to make sure that we don't leave that community behind and make sure that they have the options that they need to connect to our transit networks, and that's going to be a commitment from me and Metro to make sure that we continue serving that community.",
+    "After the shooting at the Bite, interim Police Chief Andre Sayles said SPD can't prevent shootings. If they can't, who, or what, can? Looks like we've known the answer for a long time.",
+    "Even if you've never entered the funeral home on Rainier and Alaska, chances are you've gone by it a million times. It recently burned down, but now, it's coming back.",
+    "Election season is upon us. Here's what you need to know heading into November.",
+    "A Native-owned birthing center is coming to Columbia City. Here's why it's such a big deal.",
+    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
+    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-10-17/dkytgz2q/Route-7-or-RapidRide-Zahilay-Weighs-In.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-otorweekepisode2026astonmartindbxs22l1xv",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "2026 Aston Martin DBX S",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/motor-week/episode/2026-aston-martin-dbx-s-22l1xv/",
+   "paras": [
+    "Come ride with us in the Aston Martin DBX S and the Kia Telluride Hybrid!"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/4c78186f-1da5-44fa-8961-2ece650e05d1.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ekwiththeatlanticfullepisode1016269fwx82",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Washington Week with The Atlantic full episode, 10/16/26",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/washington-week/episode/washington-week-with-the-atlantic-full-episode-101626-9fwx82/",
+   "paras": [
+    "Full Washington Week with the Atlantic broadcast from October 16, 2026."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/e1d7bbbc-a680-4716-9f8b-d9d001014d90.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2wfmoaa",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Is a blue wave coming, and how will Trump react?",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-wfmoaa/",
+   "paras": [
+    "Is a blue wave coming – and how will Trump react?"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/afd4860e-14af-4436-9f47-c9fce1eaa242.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip3eoa2ey",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Who will emerge as the GOP's 2028 nominee?",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip3-eoa2ey/",
+   "paras": [
+    "Who will emerge as the GOP's 2028 nominee?"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/348c349c-4a78-4ed7-b48c-3654ed01a079.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-newshourextrasnewswrapzacharia1792182488",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: Zacharia out as White House press secretary",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-zacharia-1792182488/",
+   "paras": [
+    "In our news wrap Friday, White House Press Secretary Katie Zacharia is “transitioning out” of her role after less than a week on the job, three large brush fires in Southern California are forcing people to flee their homes and dozens of Israeli settlers set cars and trees ablaze across the West Bank and attacked Palestinians as they gathered for their autumn olive harvest."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/c0aa47a0-7907-4517-9ff0-ae86eaf1898b.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-hourextrasoregonschoolshooting1792178231",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Oregon shooter attacked special ed classroom, police say",
+   "author": "Cascade PBS Staff",
+   "date": "2026-10-17",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/oregon-school-shooting-1792178231/",
+   "paras": [
+    "Police in Bend, Oregon, are still investigating the motive behind the deadly shooting at Silver Rail Elementary School. Four people were killed, including three young children and a teacher. Police identified the shooter as a 16-year-old who previously attended the school. They said he attacked a special education classroom before being killed at the scene. William Brangham reports."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/10/e329fbaa-3793-4978-aba5-4ae971311142.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-20261017nxs16006773studentprotestsfrance",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Scuffles and fires break out as protesters rally across France, joining students",
+   "author": "The Associated Press",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
+   "paras": [
+    "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Feb%2F568abeb84af6bbb784b8ce305682%2Fap26290464234778.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-leaveshospitaldaysafterlungcancersurgery",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Pope Leo XIV leaves hospital days after lung cancer surgery",
+   "author": "Willem Marx",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+   "paras": [
+    "The Pope left Rome's Gemelli Hospital Saturday, days after surgery for lung cancer removed the lower lobe of his right lung. He is currently scheduled to travel to Latin America in November."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3792x2528+0+0/resize/3792x2528!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5e%2Fae%2Faa9d542c4b2680f6aa607bf717dc%2Fap26290494298005.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rorg20261017nxs16006745ussanctionsrussia",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+   "author": "The Associated Press",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+   "paras": [
+    "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4b%2F96%2Fd6b29b774dbcbbb820e6e569974b%2Fap26290438386008.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs15997474perspectivemidtermmoneymadness",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Perspective: Midterm money madness",
+   "author": "Scott Simon",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+   "paras": [
+    "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+    "(Image credit: Gregory A. Rec/Pool Portland Press Herald)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F4c%2Fb89c448144728942306083376993%2Fap26289076401711.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-prorg20261017nxs16004910minnussenaterace",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+   "author": "Peter Cox",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+   "paras": [
+    "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004910",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-orangutansrescuedfromindonesianwildfires",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Dozens of critically endangered orangutans rescued from Indonesian wildfires",
+   "author": "Dhanika Pineda",
+   "date": "2026-10-17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6004881/dozens-of-critically-endangered-orangutans-rescued-from-indonesian-wildfires",
+   "paras": [
+    "Rescuers in Indonesia have saved dozens of orangutans from wildfires. The critically endangered species is fighting for their lives and habitats during this deadly wildfire season."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6004881",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-icmovieflopmeansfortomcruiseandhollywood",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
+   "author": "Catherine Shoard",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+   "paras": [
+    "Unprecedented folly of misjudgment, bad timing and spectacular hubris is predicted to lose $245m. How did this happen?",
+    "The fanfare at Digger’s world premiere in London four weeks ago was literal. As the Prince and Princess of Wales took to the stage, their arrival was heralded by the band of the Irish guards’ fanfare team – bugles gleaming, epaulets shining, bearskin bonnets rippling under the lights.",
+    "Given the occasion, the band were not overdressed. Joining William (velvet tux) and Kate (chiffon gown, the late Diana’s earrings) to introduce the film was cinema’s longest-reigning monarch, Tom Cruise (Armani), along with a retinue including director Alejandro González Iñárritu and co-stars Sandra Hüller, Riz Ahmed, John Goodman, Jesse Plemons and Michael Stuhlbarg. Loyal courtiers filled the front rows: Salma Hayek, Hannah Waddingham and no fewer than three Beckhams (David, Cruz and Romeo)."
+   ],
+   "img": "https://i.guim.co.uk/img/media/dbf003ce0f05bc9ac077f2ee0fc4e961455945a6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=2dc256e2983b6ca0eaf7994ed65bef15",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-oct17elizabethholmesdocumentarywhywecare",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
+   "author": "David Smith in Washington",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
+   "paras": [
+    "The entrepreneur turned fraudster is the subject of an Oscar-tipped new documentary that takes an unusual look at her strange legacy",
+    "David Agus’s first encounter with Elizabeth Holmes at a health conference came as a shock. The Holmes he met in the green room was personable and pleasant. The Holmes he interviewed on stage was altogether different.",
+    "“The accent changed: this deep voice, very serious,” Agus, a medical oncologist , recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person. That transition from the green room to the stage – I had never experienced something like that before.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-norensportsbettinggamblinginvestigations",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The ESPN producer who quit over gambling – and the stories she says went untold",
+   "author": "Jane McManus",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/sport/2026/oct/17/espn-producer-nicole-noren-sports-betting-gambling-investigations",
+   "paras": [
+    "Nicole Noren says ESPN sidelined investigations into sports betting companies as gambling partnerships reshaped the network’s priorities",
+    "Earlier this week, investigative journalist Nicole Noren did something almost impossible for someone who has spent her career behind the scenes."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9276cb289d60f0bc6fde220e38879f40ef0acf86/334_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e383bbc02b0e277e7ace1c2258c752a8",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-hatchangedthewayweseemenforgoodandforbad",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Muscles, metrosexuals and male tears: the 39 pictures that changed the way we see men (for good and for bad)",
+   "author": "Captions by Gabrielle Schwarz and Felix Bazalgette",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
+   "paras": [
+    "From a body-building Arnie to a weeping Frenchman, these 39 groundbreaking images have upended assumptions about how men behave, dress and project power. Introduction by Luke Kennard",
+    "I have an image of myself in 2011, pushing my newborn son in a big red buggy because he would only nap when in motion. As I traversed the streets of suburban Birmingham, I felt observed, glanced at, commented on in a manner that ranged from pity to reproach to disproportionate admiration. Daft that it should be a remarkable sight, I thought, but there we go. Probably I’d have felt less self-conscious if I’d followed David Bowie’s example and – as in one of the images showcased here – worn what looks like a dress.",
+    "On depictions of men and women in art history, John Berger famously stated that “men act, women appear”. Men were portrayed demonstrating their physical power and readiness for action; to assert their dominance. Just turning that gaze around and using the lens to capture masculinity feels subversive, maybe even a little undermining."
+   ],
+   "img": "https://i.guim.co.uk/img/media/acbd3c1bded289d5556c65d2b91333af312a5ef3/89_0_2939_2351/master/2939.jpg?width=140&quality=85&auto=format&fit=max&s=5ae4370ae1322f7d875c9611ca7e39d9",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-iolentcriminalsshamefulconditionsschools",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "French schoolchildren have been treated like enemies to be crushed – for telling the truth | Rokhaya Diallo",
+   "author": "Rokhaya Diallo",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/17/french-schoolchildren-treated-like-violent-criminals-shameful-conditions-schools",
+   "paras": [
+    "To protest against shameful conditions in schools is entirely legitimate. The government’s response is not",
+    "As a secondary school pupil in 1994, I took part in protests against a reform that would have allowed French employers to pay young people below the minimum wage. Our campaign was successful, but if we had had to face the terrifying police response unleashed on student protesters in France over recent weeks, I would have stayed at home.",
+    "A 14-year-old boy, Eden, suffered a fractured jaw and had teeth knocked out after a police teargas grenade struck him in the face. Sixteen-year-old Maël lost the sight in one eye allegedly after being struck by a shot from an LBD, a form of rubber-bullet launcher. Evan, 15, had his hand blown off in an explosion involving a police stun grenade. And in Dunkirk, a police SUV is alleged to have driven repeatedly at groups of secondary school pupils, as an officer could be heard saying: “Come closer, we’ll smash their fucking faces in.” Accounts from children left terrified by brutal treatment in police custody describe traumatic experiences with severe psychological and physical consequences.",
+    "Rokhaya Diallo is a French journalist, film-maker, activist and Guardian Europe columnist",
+    "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here ."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8c96c1e1422fe30bc536ddd713c04bd044ccf569/251_0_5334_4268/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=3c2ab3a9b936bdcdc98da49ba0e6ddb2",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-eandstyle2026oct17blinddatemichellejames",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Blind date: ‘Most awkward moment? When I accidentally called her Melissa’",
+   "author": "Guardian Staff",
+   "date": "2026-10-17",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/17/blind-date-michelle-james",
+   "paras": [
+    "James, 34, a researcher, meets Michelle, 30, a radio presenter",
+    "What were you hoping for? An unforgettable evening."
+   ],
+   "img": "https://i.guim.co.uk/img/media/f3f07d85206497e9dcacd339b3265054b12a342f/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=9dbe0ae48708b3b61755e94957f19f31",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eosc6vg08xlr8g3oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4971/live/07261b40-ca23-11f1-bc2e-018d645d8d21.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmd7q8ld3dd3oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "More NHS staff sacked over attacks victims' records",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42a7/live/0ba95eb0-8762-11f1-b2ab-0dd01740f9f6.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmze4y9rjeproatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c3/live/a1eb45a0-ca24-11f1-9a39-31b474234113.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmx2844n7nepoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Scotland 'not like Manchester', Swinney says in dig at PM Burnham",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2844n7nepo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The first minister also used his SNP conference speech to announce plans for Scotland's bus network to be brought under public control."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ea2/live/af19baa0-ca41-11f1-a64c-550be9e3c66b.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc5x2vkddrkrkoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Pope discharged from hospital days after lung cancer surgery",
+   "author": "",
+   "date": "2026-10-17",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c6c/live/9aad8f70-ca31-11f1-9ab2-b325ce61f9d2.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-nderproblemsaysformerawssecurityengineer",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Amazon’s new Bee AI devices have a bystander problem, says former AWS security engineer",
+   "author": "Todd Bishop",
+   "date": "2026-10-16",
+   "url": "https://www.geekwire.com/2026/amazons-new-bee-ai-devices-have-a-bystander-problem-says-former-aws-security-engineer/",
+   "paras": [
+    "Amazon’s new Bee AI devices ask the wrong person for consent, according to a privacy and security veteran who previously worked as a senior principal security engineer at Amazon Web Services.",
+    "In a LinkedIn article , Jeff Williams writes that Bee’s consent safeguards are aimed at the wearer, while the people being recorded have no practical way to say no.",
+    "Amazon unveiled the devices Thursday , the first new Bee hardware since it acquired the San Francisco startup last year. The $74.99 Bee Frontier goes on the wrist or clips to clothing, and the $99.99 Bee Eclipse snaps onto the back of a phone.",
+    "Both turn conversations into summaries and to-do lists, with connections to Amazon.com and Alexa+ for paid subscribers.",
+    "How Bee handles consent: Amazon says users are prompted to get permission from call participants each time they start a recording, and the devices show an indicator light while in use.",
+    "The problem, Williams says, is that neither one reliably tells the other people in a conversation that they’re being recorded. He writes that the prompt appears only on the wearer’s phone, and nothing enforces it.",
+    "“A prompt instructing the user to obtain permission is a liability allocation,” he wrote, arguing that Amazon is shifting responsibility for obtaining consent onto the wearer.",
+    "The light is easy to hide under a sleeve or in a pocket, he notes, and a device on the wrist or phone sits outside the frame on a video call.",
+    "Williams points to Meta’s Ray-Ban glasses as an example. In September, the data protection authority in Hamburg , Germany, found the glasses’ recording light hard to see outdoors and concluded that a recording indicator alone doesn’t establish informed consent under Europe’s GDPR.",
+    "In the U.S., about a dozen states, including Washington state and California, generally require consent from everyone before a private conversation can be recorded.",
+    "Whose data is protected: Williams gives Amazon credit for Bee Private Compute, which processes audio in an isolated, encrypted environment built on AWS Nitro and then deletes it. Amazon says only the customer can access the resulting data, not Amazon or Bee.",
+    "But that protects the wearer. The words of the people around the wearer still end up in transcripts and summaries they can’t see or remove. Amazon says those speakers aren’t identified by name unless they complete a voice training exercise with the device’s owner.",
+    "Williams notes that Amazon has changed comparable privacy commitments before, such as ending the “Do Not Send Voice Recordings” option on some Echo devices last year.",
+    "Williams also advises companies to keep the devices out of client meetings and privileged discussions, since the transcripts end up in an employee’s personal account, where the company can’t see or manage them.",
+    "A proposed fix: Williams says Bee should leave other people’s voices out of transcripts by default, unless they’ve enrolled their voices and agreed to be recorded. Before the acquisition, Bee indicated plans to record only the voices of people who had verbally consented, according to TechCrunch .",
+    "“I know first-hand that Amazon has the engineering talent to ship it,” he wrote.",
+    "Amazon’s response: The company didn’t comment directly on the critique but pointed to safeguards built into the devices.",
+    "One is an automatic shutoff: the devices turn off if they don’t detect the owner’s voice for 5, 15, 30 or 60 minutes, depending on the user’s setting. Amazon says that reinforces that Bee is “a personal AI assistant, not a device designed to passively pick up audio throughout the day.”",
+    "The company says it educates customers about responsible use in the Bee app, and that Eclipse will send push notifications encouraging users to let people around them know they’re using Bee and to ask for permission.",
+    "Williams, now chief information security officer at Sigma360, worked at AWS from 2023 to 2025 and spent more than 12 years at Microsoft before that, including as a privacy officer for its services business. Read his full article on LinkedIn. Read his full article on LinkedIn."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/bee-frontier-lead-1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-ndcrankylanguageoftheaierafromsloptoslap",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Etzioni on AI: The colorful and cranky language of the AI era, from slop to slap",
+   "author": "Oren Etzioni",
+   "date": "2026-10-16",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-the-colorful-and-cranky-language-of-the-ai-era-from-slop-to-slap/",
+   "paras": [
+    "We’ve all encountered the phrase AI slop, but what’s an AI slap ? A meat proxy? Chatfishing? Or agentsomnia? Following up on my glossary of AI , which demystified AI jargon, Prof. Dan Weld is joining me to shine a light on the nontechnical lingo of the AI era. We also sneak in a few phrases that should exist to capture the AI zeitgeist, circa 2026.",
+    "We introduce more than 35 phrases, so we’ve divided them into sections to keep the broligarchy from crowding enshittification.",
+    "“Digital content of low quality that is produced usually in quantity by means of artificial intelligence,” which is how Merriam-Webster defined slop, its 2025 word of the year. Shrimp Jesus is the specimen, Christ fused with crustaceans, posted to Facebook by the thousands.",
+    "AI cream is our name for the rare opposite, superb writing authored with the help of AI. We hope that over time the cream will rise to the top and the slop will sink.",
+    "Until that happens, we have the meat proxy , “a person who forwards AI-generated text, code, or other output without reading, understanding, or validating it.” We call the action of sending AI-generated text blindly an AI slap . It stings.",
+    "Your AI Slop Bores Me is a website where you type a prompt and a randomly chosen human answers it while pretending to be a chatbot. Fifty million views in a week , which tells you how badly people wanted to say something back.",
+    "AI suspicion is our name for the nagging feeling that what you’re reading was AI generated. You could also call it Turing tingle or AI-dar .",
+    "AI shaming is the accusation that follows, attacking someone’s work by insinuating a machine wrote it. The paper that named it is subtitled “Birth of a Classist Slur in Knowledge Work,” and it argues that the accusations fall hardest on racial minorities and on writers whose first language isn’t English.",
+    "See also: tasteslop , workslop , slopaganda .",
+    "A video or recording altered by machine learning so that a real person appears to say or do something they never said or did. Named in late 2017 for the Reddit user who called himself deepfakes. The word we all use for AI deception descends from one anonymous pornographer’s handle.",
+    "The liar’s dividend is the payoff a real wrongdoer collects once any authentic recording can be waved off as a fake. The damage isn’t the fake video. It’s that real video stops counting.",
+    "Counterfeit people was Daniel Dennett’s last argument, that machines able to pass as human are “the most dangerous artifacts in human history, capable of destroying not just economies but human freedom itself.” He wanted them outlawed and watermarked like banknotes.",
+    "Tilly Norwood is one of them, an AI actress unveiled at the Zurich Film Festival in September 2025. Her makers said talent agents wanted to sign her. Emily Blunt, shown a picture, said “Good Lord, we’re screwed” and told the agencies to stop.",
+    "Most of the damage doesn’t need AI at all. A cheapfake is manipulation made with cheap software or none at all. Chatfishing is using AI to write your messages on a dating app, where the con used to be a fake photo and is now a rented personality.",
+    "A name for the Silicon Valley billionaires and venture capitalists who think democracy is finished and want corporate rule in its place. Gil Durán’s book, subtitled Silicon Valley Fascism and the War on Democracy, traces the idea to a 1997 book, The Sovereign Individual, and to Peter Thiel’s circle, which Durán says believes “technology means democracy is an obsolete software system.”",
+    "Durán didn’t coin the phrase. Someone in the crypto world told him they’d been using it for years.",
+    "Durán’s target is the broligarchy , “a small group of extremely wealthy men, particularly those in technology, who wield significant political and economic power.” The word sat on Twitter from 2009 and went nowhere until Carole Cadwalladr wrote about “a new super-class of broligarchs” in July 2024.",
+    "The mental deterioration that comes from consuming too much junk online, chosen by Oxford University Press as its 2024 word of the year. Thoreau got there first, in Walden in 1854, complaining that England was busy curing the potato-rot while nobody was curing the brain-rot.",
+    "Dead internet theory is the supply side, “a theory that a lot of the internet is no longer created by real people but rather by bots and other AI tools.” It started as a forum post in January 2021 and is quietly turning into a description.",
+    "Enshittification is Cory Doctorow’s three-stage decay: “first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves.”",
+    "AI fatigue is what’s left over, “the exhaustion or the sense of being overwhelmed by the rapid proliferation and constant engagement with artificial intelligence technologies.” The phrase has been drifting through the trade press since 2023 with no author attached; the definition above comes from Route Fifty, a trade publication for state and local government.",
+    "Andrej Karpathy’s February 2025 coinage, crowned Collins Dictionary’s word of the year for 2025, is “fully giving in to the vibes, embrac[ing] exponentials, and forget[ting] that the code even exists”—accepting whatever diff the AI hands you without reading it.",
+    "Promptatory is our word, styled on “purgatory,” for the state of being trapped in an unending edit-and-re-prompt loop with an AI system. You fix the bug the AI introduced, and in fixing it, the AI introduces two more, each smaller and more absurd than the last. Progress is hard earned: you close in on “done” like the runner in Zeno’s paradox, forever eating the remaining distance in half. Promptatory is vibe coding’s hangover: the vibe wears off, and the rereading begins.",
+    "A related condition we dub agentsomnia is the chronic inability to rest or disconnect from work, driven by the haunting feeling that your autonomous software or AI agents are stalled without your feedback. The Wall Street Journal calls it agent FOMO .",
+    "An OpenAI rallying cry. AGI is the point where a machine can do any intellectual task a person can, and the phrase became a general exclamation for the moment a model does something that rearranges your sense of what’s coming. Ilya Sutskever used it inside the company and posted it publicly in 2022. It works as celebration and as diagnosis.",
+    "P(doom) runs in the other direction: “your personal probability that AI ends the world, stated as a number so the vibe feels like math.” It started as shorthand among a small online community in 2022 and now gets asked at dinner parties.",
+    "Talk that outruns the technology comes in other flavors too.",
+    "Bragawatts , a unit of measurement for boasting, is “the practice of AI companies boasting about very large projects to create excitement and attract investment, even though many of these projects are never completed,” as Britain’s Cambridge Dictionary put it in January 2026.",
+    "Vibe revenue does the same thing to the income statement, “money or funding that an AI company is given because people are excited about the potential of AI, rather than because the company’s products are already successful.”",
+    "A one-sided relationship with someone who doesn’t know you exist. Donald Horton and Richard Wohl coined it in 1956 about television viewers, and Britain’s Cambridge Dictionary made it the 2025 word of the year , citing celebrities, influencers, and chatbots. A seventy-year-old term about Ed Sullivan turns out to describe your relationship with ChatGPT.",
+    "AI addiction is what happens when the one-sided relationship takes over. A 2026 study sorted it into three kinds: escapist roleplay, where people come to prefer the world the chatbot builds; pseudosocial companionship, where it replaces the relationships; and the epistemic rabbit hole, compulsive question-asking that crowds out everything else.",
+    "The researchers blame the design and call the chatbot an AI genie, a thing that gives you exactly anything you want with minimal effort.",
+    "AI psychosis is the far end, “a phenomenon wherein individuals reportedly develop or experience worsening psychosis, such as paranoia and delusions, in connection with their use of chatbots.” The Danish psychiatrist Søren Dinesen Østergaard suggested the term in a 2023 editorial in the journal Schizophrenia Bulletin. It isn’t a recognized clinical diagnosis, and we should say so.",
+    "Nearly every phrase above names a problem. Slop, shaming, deepfakes, brain rot, psychosis: what the AI era has added to English so far is a vocabulary of complaint. There’s still no common word for AI doing something well. We’ve offered AI cream. If you have a candidate for a phrase we’re missing, please send it to us."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/ai-slap-1260x828.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-dbyallstatesarityaftermorethantwodecades",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Traffic data pioneer Inrix to be acquired by Allstate’s Arity after more than two decades",
+   "author": "Lisa Stiffler",
+   "date": "2026-10-16",
+   "url": "https://www.geekwire.com/2026/traffic-data-pioneer-inrix-to-be-acquired-by-allstates-arity-after-more-than-two-decades/",
+   "paras": [
+    "Inrix, the Bellevue, Wash.-based traffic data company that spun out of Microsoft in 2004 and became one of the Seattle region’s longest-running independent tech companies, has agreed to sell substantially all of its assets to Arity, the mobility data subsidiary of insurance giant Allstate.",
+    "The deal, announced Friday, would end Inrix ‘s 22-year run as a standalone company. Inrix has raised more than $288 million and flirted with an IPO multiple times over its lifetime. Terms were not disclosed. The companies expect the acquisition to close later this year.",
+    "Founded in 2016, Chicago-based Arity analyzes driving behavior for insurers, marketers and public-sector customers. It says it has amassed more than 3 trillion miles of driving data. The acquisition would pair that information with Inrix’s analytics on traffic, road conditions and transportation networks.",
+    "“By combining Arity’s predictive insights on driving behavior and risk with Inrix’s transportation intelligence and mobility analytics, we will be uniquely positioned to deliver more robust intelligence and insights into how people, vehicles, goods, and roads interact,” Gary Hallgren, president of Arity, said in a statement .",
+    "While the companies are touting the benefits of combining their data and analytics, Arity’s data practices have faced legal scrutiny. In January 2025, Texas sued Allstate and Arity, alleging they collected and sold consumers’ driving and location data without adequate consent. Responding to a separate consumer privacy lawsuit in March, Allstate told Reuters that users receive clear notice and explicitly opt in to sharing their driving data.",
+    "The proposed acquisition charts an alternate course to Inrix’s earlier plans for going public. In 2012 , Inrix hired Goldman Sachs and JPMorgan Chase with an eye toward a 2013 IPO that was expected to raise up to $100 million. The company looked to go public again in 2022 but backed out amid economic uncertainty stemming from Russia’s invasion of Ukraine and other factors.",
+    "“We were about two weeks away from filing our documents with the SEC,” Inrix CEO Bryan Mistele said in an August 2022 GeekWire story . “We’re on standby right now, waiting to see when the markets and economy improve, in which case we’ll take another run at it.”",
+    "Inrix serves corporate, automotive, technology and public-sector customers including Amazon, IBM, General Motors, Windermere Real Estate and state departments of transportation.",
+    "The company got its start selling traffic and transportation-related data. In recent years, it moved beyond supplying raw traffic data into subscription software that helps customers interpret it, including tools for traffic-signal timing, road safety and retail site selection.",
+    "Recent public releases include its first Parking Scorecard, which ranks the availability and cost of parking in major cities in the U.S. and Europe.",
+    "Inrix has about 277 employees, based on LinkedIn data. The companies did not say whether all of them would remain or whether Inrix would keep its Bellevue headquarters.",
+    "The story will be updated with additional information as it becomes available."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2019/06/bryan-mistele.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-elopersgarageturnedworkingcomputermuseum",
    "srcKey": "geekwire",
@@ -298,17 +914,104 @@
    "annos": null
   },
   {
+   "id": "f-stranger-veloperannouncesfirstconstructionproject",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Seattle Social Housing Developer Announces First Construction Project",
+   "author": "Guy Oron",
+   "date": "2026-10-16",
+   "url": "https://www.thestranger.com/news/seattle-social-housing-developer-announces-first-construction-project/",
+   "paras": [
+    "At a chilly morning press conference today, Seattle Social Housing Developer (SSHD) Interim CEO Tiffani McCoy announced plans for the agency’s first original construction project, a five-story apartment building in the Central District on the lot that used to belong to the late housing advocate Rep. Frank Chopp. Scheduled to open in 2028, the development will provide 20 units of housing, leased at a mix of affordable and market rate rents.",
+    "The Central District site is SSHD’s second official housing project, following the May acquisition of the 150-unit Elara at the Market in Belltown. The two are part of a rapidly expanding housing portfolio—the agency hopes to reach 1,000 units owned or in the pipeline by the end of 2027. McCoy says the SSHD has a third yet-to-be-announced acquisition that will bring the total to 300 units by the end of this year.",
+    "The announcement comes in the midst of SSHD’s herculean expansion effort—it’s looking to nearly triple its staffing over the next 14 months. All this is funded by a surprisingly large windfall from Seattle’s social housing tax on big corporations. But to keep the momentum, the agency needs to maintain its careful balancing act to keep our fickle local politicians on its side.",
+    "Established by two ballot initiatives, SSHD operates on a model that is relatively unique for public housing in the US. Instead of only serving poor households, residents from a broad range of class backgrounds are allowed to live in social housing, with wealthier tenants subsidizing the rents of their lower income neighbors.",
+    "As part of its mission SSHD is trying to be better than your average for-profit (or even non-profit) landlord. With the Elara, SSHD provided free ORCA transit cards to all residents, froze the rent for two years, and is working to end previous landlord Greystar’s practice of distributed utility building , which divides costs equally among tenants instead of based on usage. It has also hired a restorative justice manager to address intra-tenant conflicts.",
+    "SSHD spokesperson Lilly Ana Fowler says the efforts are already yielding results, with the building’s monthly turnover rate plummeting to below 2 percent, well below the average for market rate apartments. According to Fowler, 16 new low-income renters have moved into the Elara, and the agency plans for a total of 60 units in the building to be dedicated to households making less than 50 percent of the area median income.",
+    "The agency also wants to be a top-notch developer, pledging to use union labor for its constructions and follow green passive house and universal design standards. But these efforts don’t come cheap—at a total budgeted cost of $15 million, the new Central District apartments will cost roughly $750,000 a unit.",
+    "Part of this cost is also due to the mixture of units: The majority of homes in the building will be geared toward families, with 2 or 3 bedrooms. (Less than a third of all Seattle area rentals have two or more bedrooms, according to Zillow listing data ).",
+    "But, unlike most government agencies, SSHD is working with what could be considered a bounty of resources. Its primary source of revenue—the voter-approved 5 percent corporate surcharge on salaries above $1 million—delivered $136 million in tax revenue last year and an additional $59 million in the first half of 2026. This is about two and a half times more than was expected, and has put the agency under pressure to deliver.",
+    "Earlier this year, SSHD increased its 2027 year-end production goal by 70 percent. It currently has at least six additional new projects planned for the next year. In addition to the social housing tax money and rental income, the developer plans to issue a $270 million bond to pay for the portfolio expansion.",
+    "The SSHD will have to carefully navigate the choppy waters that are Seattle politics and rebuff politicians’ innate tendency to appropriate money for their own goals. To this end, the JumpStart payroll tax serves as a cautionary parable; Once upon a time most of its revenues was supposed to go to affordable housing, but now it’s mainly used to fill the budget deficit. Seattle City Council members are already circling the SSHD’s pot of money. At a September 29 budget committee meeting, Councilmember Bob Kettle floated the idea of diverting social housing tax money for other affordable housing projects. He can’t actually do that. Not yet, at least. The two-year period in which council members are not allowed to amend the tax expires in February 2027.",
+    "Several notable political allies stood with the SSHD at the press conference, including state legislators, Councilmember Alexis Mercedes Rinck and a staff member from Councilmember Dionne Foster’s office. Seattle Mayor Katie Wilson did not send a representative, but she has previously shown strong support for the developer.",
+    "One notable absence was Council President Joy Hollingsworth, who represents the Central District and is rumored to be considering a mayoral run when Wilson’s term is up.",
+    "That hesitance may foreshadow a lukewarm reception to the neighborhood. The dynamics of development in the Central District are complicated and painful, with urban renewal policies displacing the majority of residents from the historic heart of Seattle’s Black community over the last 30 years. This adds a layer to the typical “NIMBY” concerns of having a new five-story building show up down the block.",
+    "At the press conference, Reverend Dr. Robert L. Jeffrey, Sr. of New Hope Missionary Baptist Church spoke supportively of the project, saying that SSHD’s community preference policy will give people with ties to the Central District “an opportunity to return home.”",
+    "“This type of initiative is what the Central District and the greater Seattle city needs,” Jeffrey said.",
+    "McCoy has indicated that SSHD will not shy away from pursuing taller developments in the future to maximize economies of scale and increase the number of people who can live in social housing.",
+    "One of the main pathways for SSHD to achieve this is by entering into housing cooperation agreements with the City, which allow it to bypass virtually all zoning requirements with a vote from the council. So to realize its ambitious goals, the SSHD will need to continue to thread the political needle.",
+    "The 7,800-square-foot Central District lot slated for development is a special case. It’s the home of former Washington State House Speaker Frank Chopp. During his time in the legislature, Chopp—who passed away last year—was a strong advocate for affordable housing. He also secured $200,000 in seed funding for the SSHD.",
+    "Chopp’s widow Nancy Long told The Stranger that due to high taxes, it didn’t make financial sense for her family to keep the property, but selling to a for-profit developer was off the table. The SSHD made a good prospective buyer, with its quick two-year development cycle, and cemented another brick in Chopp’s legacy.",
+    "“He would be very proud, I think, for this to be used for affordable housing,” Long says.",
+    "McCoy says the SSHD is talking with the City about relocating Chopp’s old blue heron-shaped tiny home and preserving it as a landmark.",
+    "Correction: An earlier version of this story stated that the agency plans for 60 units in the Elara to be dedicated to households making less that 80 percent median income. The units are for those making less than 50 percent of the area median income. We regret the error.",
+    "The post Seattle Social Housing Developer Announces First Construction Project appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/LotPhoto-photo-by-Guy-Oron-scaled.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-thestrangersnoisecomplaint4ustcollective",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Stranger’s Noise Complaint: 4UST Collective",
+   "author": "Stranger Staff",
+   "date": "2026-10-16",
+   "url": "https://www.thestranger.com/music/the-strangers-noise-complaint-4ust-collective/",
+   "paras": [
+    "Welcome to Noise Complaint, The Stranger ‘s new audio and video music podcast featuring live performances right here at The Stranger HQ. Streamed live and released every other Friday, we invite a great band, musician, or wonderfully weird act to perform. Tune in, discover something new, and support art in your city.",
+    "Is 4UST Collective Seattle’s Next Big Hip-Hop Export?",
+    "Hip-hop typically hits harder when rappers are backed by actual ace musicians, as performances by the Roots and Shabazz Palaces (among others) prove. Seattle’s fast-rising 4UST (pronounced “forest”) uphold that claim with a grip of riveting live sets and recordings such as TR4IL MIX and All About the Growf . Led by MCs Webb Wavvy, D. Mikey, and Tyler Soze, they’re a tight crew in which all of the many moving parts smoothly click into place with a satisfying inevitability: intricate vocal arrangements, strong, fluid flows, clever wordplay, and instrumentation that expresses gritty funkiness, gripping suspense, or chill bluntedness from producer Qreepz, drummer/vocalist Mr. Hendrixxx, guitarist Aaron Lusher, bassist Palmer McDaniel, and others. Sure, 4UST have plenty of songs about weed, but the lyrics are cleverer than most about its importance to the (agri)culture—e.g., “All I need is some indica and I’m in da cut” from “Potluck.” With every track and gig, 4UST refute the common belief that pot induces laziness. DAVE SEGAL",
+    "On Apple, you can subscribe to the video podcast here.",
+    "Get our email newsletter and episode alerts at thestranger.com/noisecomplaint . Thanks to Reanimated Music for the backline!",
+    "For Noise Complaint band submissions, email us at podcasts@noisycreek.com .",
+    "The post The Stranger’s Noise Complaint: 4UST Collective appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/NC_261016_S1E8_4ust-Collective_Thubnail-scaled.jpg?fit=1024%2C576&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-traderjoesandblowingbubblesfromyourporch",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "I Saw U: Driving a Vintage BMW in Northeast Seattle, Staring at Cheese at Trader Joe’s, and Blowing Bubbles From Your Porch",
+   "author": "Anonymous",
+   "date": "2026-10-16",
+   "url": "https://www.thestranger.com/isawu/i-saw-u-driving-a-vintage-bmw-in-northeast-seattle-staring-at-cheese-at-trader-joes-and-blowing-bubbles-from-your-porch/",
+   "paras": [
+    "Man in Vintage Red BMW Wearing Hot 70s-style Glasses We made brief eye contact at a 4-way stop in NE Seattle on 9/19. I smiled & looked away. Let’s ride into the sunset? Sincerely, gal in a Blue Honda.",
+    "Cheese at Trader Joes We met staring at the cheese at the Ballard TJ’s. I was impressed by your expertise and wit. And then you told me you are from WI, and I understood.",
+    "Gone fishing on the Link (the one that got away) Morning train: I asked about your fish earrings, you said Fairhaven & popped one out. You waved & vanished. Wish I caught your name—coffee?",
+    "Spreading whimsy and bubbles in Fremont You created an enchanting cloud of bubbles off your porch, bright and early on a Sunday morning; I watched, entranced from the bus stop.",
+    "Buddy at the Meridian, tattoos and black/white striped shoes Saturday the 5th, 3pm, back row. Wanted to talk to you about that insane movie but couldn’t figure out how to do so without seeming like a creep.",
+    "You used my binoculars to look at the eclipse In Capitol Hill. I let you and your friends use my binoculars to look at the eclipse. You showed me a picture of your sunburn. You’re cute! Drinks?",
+    "Cutie with the “Oobi” Ring Chatted @ Ballard Seafood Fest; you had blue eyeshadow & Oobi eyes on your finger. I was the volunteer w/ the Jaws shirt & septum piercing. Coffee?",
+    "KEXP BBQ Cutie You: a volunteer with a kind smile. Me: in a white baseball cap, eating a tamale. Tried to chat but we were interrupted. Coffee sometime?",
+    "Is it a match? Leave a comment here or on our Instagram post to connect!",
+    "Did you see someone? Say something! Submit your own I Saw U message here and maybe we’ll include it in the next roundup!",
+    "The post I Saw U: Driving a Vintage BMW in Northeast Seattle, Staring at Cheese at Trader Joe’s, and Blowing Bubbles From Your Porch appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/03/isawuhorizontal.webp?fit=1024%2C769&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-stranger-uckeventsinseattlethisweekendoct19252026",
    "srcKey": "stranger",
    "cat": "arts",
-   "title": "The Best Bang for Your Buck Events in Seattle This Weekend: Oct 19–25, 2026",
+   "title": "The Best Bang for Your Buck Events in Seattle This Weekend: Oct 16–18, 2026",
    "author": "EverOut Staff",
    "date": "2026-10-16",
    "url": "https://www.thestranger.com/everout/the-best-bang-for-your-buck-events-in-seattle-this-weekend-oct-19-25-2026/",
    "paras": [
     "We’re here to help you make the most of your weekend by suggesting low-fuss events from the Goblin Guild Bazaar to Ounces’ Fresh Hop Fest & Fall Beer Showcase and from the Columbia City Night Market to the Carnation Farms Harvest Market . For more ideas, check out our top picks of the week .",
     "TITTY.99 Fundraiser Show This month, BOOTY.99 gets a Breast Cancer Awareness Month makeover. That’s right, it’s all about the titties! For its first-ever TITTY.99 fundraiser, the party crew is trading booty for boobs and asking attendees to show up in as much pink as humanly possible. Pink wigs, pink makeup, pink ‘fits, pink nails, pink shoes: pink whatever! DJs flotussin and Exis will keep the dance floor moving, while a portion of the proceeds will benefit Sisters Network Inc., a national organization working to improve breast cancer outcomes in the Black community through education, health equity, and support. If you don’t shake what your mama gave you for a good cause, who will? LANGSTON THOMAS (Cherry Nightclub, Downtown, $10-$15)",
-    "The post The Best Bang for Your Buck Events in Seattle This Weekend: Oct 19–25, 2026 appeared first on The Stranger ."
+    "The post The Best Bang for Your Buck Events in Seattle This Weekend: Oct 16–18, 2026 appeared first on The Stranger ."
    ],
    "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/goblinguildbazaar.jpg?fit=1024%2C762&ssl=1",
    "fetched": true,
@@ -346,416 +1049,53 @@
    "annos": null
   },
   {
-   "id": "f-cascade-uideepisodewhitenosesyndromeinbatswy7nkc",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "White-Nose Syndrome in Bats",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/show/oregon-field-guide/episode/white-nose-syndrome-in-bats-wy7nkc/",
-   "paras": [
-    "The fungus causing this wildlife disaster is making its way towards Oregon, quickly."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/5ea621cc-2395-45b5-b200-55e54d2d0097.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-saccidentallysolvedaphysicsmysteryfdwwfm",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Cats Accidentally Solved a Physics Mystery",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/show/nova/extras/cats-accidentally-solved-a-physics-mystery-fdwwfm/",
-   "paras": [
-    "Falling cats seem to break the rules of motion, but the real explanation is stranger than it looks."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/5da1a7cb-7bfe-453b-8c66-ee365b8f387e.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-pbsorgeventscrimeandpunishmentinamerica2",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Crime and Punishment in America",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/events/crime-and-punishment-in-america-2/",
-   "paras": [
-    "Join celebrated director Lynn Novick for a preview of her new landmark PBS documentary, Crime and Punishment in America, followed by a post-show discussion with Ear Hustle podcast hosts, Earlonne Woods and Nigel Poor.",
-    "The new four-part, eight-hour series, executive produced by Ken Burns and Sam Pollard, tells the consequential story of criminal justice in America as it has never before been told — from the colonial era to today. The PBS extended trailer is available here , and a first look from the film is available here .",
-    "Narrated by Keith David, Crime and Punishment in America is the first documentary project to comprehensively explore the arguments Americans have had over the problem of crime, the purpose of punishment, and the meaning of justice for more than 250 years. The film offers a sweeping look at the American criminal justice system, from the origins of prisons and policing to our continued fascination with crime, and traces the contours of our imperfect system and how it influences nearly all parts of our society: the media, economics, and politics. Through the voices and testimony of those who have committed crimes, experienced incarceration, enforced the law, or lost loved ones to violence, the series explores the cost of America’s choices and the enduring tension between crime and punishment, vengeance and mercy, justice and redemption. Crime and Punishment in America will air over four consecutive nights on PBS beginning November 16, 2026, and will stream on all PBS digital platforms for four weeks.",
-    "After sharing a curated selection of clips from the eight-hour series, Novick will sit down with the hosts of the Pulitzer finalist podcast Ear Hustle , Earlonne Woods and Nigel Poor, to discuss the film’s making and perspectives on the American carceral system.",
-    "Cascade PBS is a proud sponsor of this event."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/1c76e0a2-72d1-14b4-288a-bc3d37059a04.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-as3rd4thand5thdistrictcongressionalraces",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "A look at WA’s 3rd, 4th and 5th District Congressional races",
-   "author": "Paris Jackson",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/10/a-look-at-was-3rd-4th-and-5th-district-congressional-races/",
-   "paras": [
-    "The midterm election is less than 3 weeks away. This year all voters in Washington will vote on their members of Congress, with each of the state’s 10 U.S. House Seats on the ballot.",
-    "We’re reviewing congressional races in the 3rd, 4th and 5th Districts in the state – including one that is one of the closest in the nation. Longtime Washington State Standard political reporter, Jerry Cornfield says all seats have varied political significance.",
-    "In the southwestern portion of the state, is the 3rd Congressional District. The race with the most attention, money and national implications.",
-    "Incumbent U.S. Rep. Marie Gluesenkemp Perez, a Democrat who often sides with Republicans, is clawing to keep her seat against Republican state senator and businessman, John Braun.",
-    "“When I last looked Republicans held a four-seat advantage over Democrats in the U.S. House. There's less than two dozen races around the country that are even considered competitive. This is one of them. So, the winner of this race will help determine who's going to have the majority in the U.S. House next year,” Cornfield said.",
-    "Cornfield says if this seat flipped, it would be a huge boost for Republicans.",
-    "“Washington state is heavily Democratic in its congressional delegation. So, if Senator John Braun, the Republican, is able to take the seat back, as Republicans did hold it for more than a decade prior to a Democrat Marie Glusenkemp-Perez winning, it would be a big win for the party. They've been suffering losses in the state legislative races and the congressional races, and this is one that will be a good barometer of just where is the Republican Party, at least in the southwest part of the state,” Cornfield said.",
-    "In the central part of Washington, including Yakima and the Tri-Cities, voters are weighing the open seat for District 4. Republican congressman Dan Newhouse is not seeking re-election. The race is between Republican Amanda McKinney, and Democrat John Duresky.",
-    "“Amanda McKinney, a Yakima County commissioner, is running with the endorsement of President Donald Trump. And she is all-in after a recent debate, with the Trump MAGA agenda and is 100% in line with him. John Duresky has got a long history in the community... but he's not as well-funded. The Democrats are not lined up to push him through, but there is a “blue wave” that's on the East Coast, and it's making its way to the West Coast. And this is one of those races where you just wonder, are Democrats and the Independents ready to walk away and do something they haven't done in a long time, and that's elect a Democrat to this district,” Cornfield said.",
-    "The 5th Congressional district includes Spokane, the largest city in eastern Washington. This is the other seat in Washington currently held by a Republican, Michael Baumgartner, but in this case, he’s running for re-election.",
-    "“Michael Baumgartner is in his first term, and he too has the support of President Donald Trump. Carmela Conroy, the Democrat, ran against him. You know, they fought against each other two years ago on the ballot. So, it is a kind of a rematch of sorts. On paper, again, like the 4th Congressional District it looks pretty one-sided for the Republican. However, just in recent weeks, the Democratic Congressional Campaign Committee said, ‘we think that blue wave is going to wash ashore in that district, and we can bring Carmela Conroy over to a victory and turn it from red to blue.’ I think that's a long shot,” Cornfield said.",
-    "While the 7 other races all feature a Democrat and Republican, analysts expect them all to stay in Democratic control."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/20261016-hero.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-cascadepbsorgshowvocesspecialshairxlwcof",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Hair",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/show/voces/specials/hair-xlwcof/",
-   "paras": [
-    "It’s just another day in Mari’s salon until Christina comes in late with a truly terrible dye job."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/8b6e8eb0-84a0-4bb6-8f91-acd7ef62aefa.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-columbiaprincetonprofessorsexplainzums4s",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Why Does Campus Sexual Assault Persist? Columbia & Princeton Professors Explain",
-   "author": "Cascade PBS Staff",
-   "date": "2026-10-16",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/why-does-campus-sexual-assault-persist-columbia-princeton-professors-explain-zums4s/",
-   "paras": [
-    "A former Cornell student is suing seven fraternity members, alleging that they sexually assaulted her in 2024. Prosecutors reopened the case after massive public outcry in support of the plaintiff, known as Jane Doe. As her suit reignites a conversation about rape culture on campuses, Profs. Jennifer Hirsch and Shamus Khan, authors of “Sexual Citizens,” say it isn't enough simply to teach consent."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/10/05e0ca5a-e942-472d-b878-861b571a7a53.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-17trumpcastsdoubtonpresssecretarysfuture",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Katie Zacharia is 'transitioning out' as press secretary, White House says",
-   "author": "NPR Washington Desk",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/nx-s1-6005317/trump-casts-doubt-on-press-secretarys-future",
-   "paras": [
-    "Katie Zacharia's first official day was on Monday."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4531x3021+0+0/resize/4531x3021!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F56%2Fad%2Fd9e0aa32477197e43fcb5ad9365a%2Fgettyimages-2300010311.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-mentmenopausehotflashnightsweatsinsomnia",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment",
-   "author": "Shannon Firth",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/nx-s1-6005201/health-treatment-menopause-hot-flash-night-sweats-insomnia",
-   "paras": [
-    "For the first time since 2014, the American College of Obstetricians and Gynecologists has updated its guidelines for the treatment of symptoms commonly associated with menopause.",
-    "(Image credit: BSIP/Universal Images Group)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3630x2420+0+0/resize/3630x2420!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2F34%2Fd9c3bde94f53b06e88c7599041d1%2Fgettyimages-151055685.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-148404publicopinionexecutiondeathpenalty",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Amid talk of public execution, public opinion on death penalty is split",
-   "author": "Nate Perez",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/g-s1-148404/public-opinion-execution-death-penalty",
-   "paras": [
-    "A majority of Americans support the death penalty for people convicted of murder, but support becomes more divided when questions vary."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4200x2472+0+0/resize/4200x2472!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff1%2F8e%2Ff69a25a94e7297a73a52cd730396%2Fgettyimages-2298257785.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-tusphotojournalistwashingtonpostwestbank",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
-   "author": "Hadeel Al-Shalchi",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/nx-s1-6004904/israeli-settlers-beat-us-photojournalist-washington-post-west-bank",
-   "paras": [
-    "Masked Israeli settlers attacked Palestinians as they were harvesting olives in the occupied West Bank on Friday, injuring several people including a photojournalist working for The Washington Post ."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F64%2F6b%2F6f80e95a4323b7a2bf0a3456ca30%2Fgettyimages-2299901273.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-andwaveindianflagsamidescalatingprotests",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
-   "author": "The Associated Press",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
-   "paras": [
-    "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3707x2471+0+0/resize/3707x2471!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2F22%2F24a18ad34ab9afaeee9c49b78d39%2Fap26289462666677.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-llyrooneybooksukpalestinianactionsupport",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Sally Rooney's books will no longer be sold in U.K. after Palestinian Action support",
-   "author": "Kate Bartlett",
-   "date": "2026-10-16",
-   "url": "https://www.npr.org/2026/10/16/nx-s1-6004838/sally-rooney-books-uk-palestinian-action-support",
-   "paras": [
-    "The Irish author said her books can no longer be sold in the UK after she pledged the royalties to a banned pro-Palestinian group."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7603x5068+0+0/resize/7603x5068!/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe7%2Fd1%2F2a294d7b449d824a76e4ab2dec8c%2Fap26288402306967.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc58jz174w89roatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+   "id": "f-kuow-F0LXFJeHRJSFFfX2V6NEo5LTVIQjRia2tUUTMoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "New UW report shows how feds gather WA driver data to make ICE arrests",
    "author": "",
    "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUXZSclpGWXhKQ1RsRVREU001X1hadDRfOVZXNVBrS1ZMenkwOXdyVEl3MVJKamxSY1hvU3RQTTBmQ0txazloU1FHR0FTbkJkMjhBWDVJYXd2VlBUaTZTWU9uVHMxeTk0MXQyZ1czS3Y1MXVaQ01YSXRvd2YyTEJZTzctQThnVXRTODRfTWswdDFXMFlFNV92eDF0LXFJeHRJSFFfX2V6NEo5LTVIQjRia2tUUTM?oc=5",
    "paras": [
-    "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+    "New UW report shows how feds gather WA driver data to make ICE arrests KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbf/live/43dba350-c98f-11f1-9a39-31b474234113.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
-   "id": "f-bbc-eoscm1ex06026e8oatmediumRSSatcampaignrss",
+   "id": "f-bbc-lescrn4ej7vdwdnoatmediumRSSatcampaignrss",
    "srcKey": "bbc",
    "cat": "national",
-   "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
+   "title": "Not sure what to wear for Halloween? These outfits are set to be the most popular this year",
    "author": "",
    "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&at_campaign=rss",
    "paras": [
-    "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months"
+    "Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year."
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b1b/live/eaf3be50-c982-11f1-a64c-550be9e3c66b.jpg",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8723/live/31d18950-c7e5-11f1-a64c-550be9e3c66b.png",
    "fetched": true,
    "fullText": false,
    "annos": null
   },
   {
-   "id": "f-bbc-lesc875prd12vkqoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Man killed by tiger may have had medical records breached by NHS staff",
+   "id": "f-propublica-GZWWlBYVkpiR2dSZzFtdHc4ejE2U2ZZbzAxdwoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits",
    "author": "",
    "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBucVJBeFdLZWxQOWp4bmpHZXAwZ2VmQ3owTmpmdzBkWEh5Ym5veG41dFI2U1YzUklmVTlmeEhzN283WDh3b1UtZFhQQXAxYjA5QW5JbGZWWlBYVkpiR2dSZzFtdHc4ejE2U2ZZbzAxdw?oc=5",
    "paras": [
-    "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday."
+    "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits ProPublica"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d0/live/f5971c60-c7c2-11f1-993a-152cbb068da1.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc65ynk7212vqoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-   "author": "",
-   "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm9qzx43rlzjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
-   "author": "",
-   "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12b7/live/45d84a90-c977-11f1-8791-fbfa2cae660f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosckly4mj1g3n9oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Watch: Did Tesla really just unveil a flying car?",
-   "author": "",
-   "date": "2026-10-16",
-   "url": "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ncomcommentisfree2026oct16nazaisraelfilm",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I’ve debated with Israel’s most fervent defenders – NAZA debunks their talking points | Mehdi Hasan",
-   "author": "Mehdi Hasan",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/16/naza-israel-film",
-   "paras": [
-    "The film’s testimonies from Israeli soldiers and intelligence officers expose years of baseless propaganda. Don’t take my word – take theirs",
-    "I watched the extraordinary new Guardian-produced documentary from Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor the other night, and I have struggled to stop thinking about it ever since. The film’s title comes from a Hebrew military term for collateral damage, and it consists of eye-opening interviews with two dozen Israeli soldiers and intelligence officers sitting in darkness, often on the rooftops of Tel Aviv, their voices “digitally altered to disguise their identities”.",
-    "At one point, Abraham asks one of the soldiers a remarkably blunt question."
-   ],
-   "img": "https://i.guim.co.uk/img/media/962a5c1ada7f0e3ce4aef2db2d44d4394e9eeaa0/925_0_2528_2023/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=80c7ca2ddfa707adee3fc8e8dda3a525",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-guardiancomthefilterusbestcarryonluggage",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I travel 200,000 miles a year. These are the five carry-on suitcases I actually trust",
-   "author": "Tim Stevens",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/thefilter-us/best-carry-on-luggage",
-   "paras": [
-    "In an endless sea of suitcase options, these are the best to save you time and money",
-    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
-    "There are few worse feelings than climbing off an all-day flight, shambling on down to baggage claim, and then watching each and every one of your fellow passengers gleefully grab their bag and disappear, while yours is nowhere to be found. The devastating realization that your checked suitcase didn’t make it is a strong enough blow to turn the sweetest of vacations sour.",
-    "I’ve been there, and that’s just one of the many reasons I never check a bag unless I absolutely have to. But living the carry-on life requires having the right suitcase, and there are hundreds and hundreds of choices out there. We tested 15 models and considered dozens more to find the perfect one for you."
-   ],
-   "img": "https://i.guim.co.uk/img/media/9d86ac64ca8e0a7b81ce8af0df52e3943f4fbfc1/0_0_2698_2158/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=ad68725f6ed7bd9b5053a5673af4ec36",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ironment2026oct16restaurantpandemicloans",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "For restaurants Covid-19 was a crisis – pandemic loans are proving a disaster",
-   "author": "Adam Reiner",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/environment/2026/oct/16/restaurant-pandemic-loans",
-   "paras": [
-    "Low-interest loans kept many eateries afloat. But the industry never recovered enough for them to repay the debt",
-    "For almost 20 years, Jai Mazumdar has served vegetarian curries, samosas, gulab jamun and other Indian delicacies at Spice N Curry, a cafe and grocery nestled inside a modest strip mall near Florida International University (FIU) in Miami. When the Covid-19 pandemic devastated his business, as it did with so many restaurants, Mazumdar took out a $370,000 economic injury disaster loan (EIDL) from the federal government in early 2021.",
-    "At the time, it provided a desperately needed lifeline. He was confident that once business returned to normal he could begin repaying the 30-year loan, which came with a low 3.75% interest rate and a 30-month deferment period. But when his business didn’t recover, the disaster loan turned out to be a disaster of its own."
-   ],
-   "img": "https://i.guim.co.uk/img/media/67da7dc3427c3a82fc8f1531770d52b8cac9ee9c/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=88942ae292f2a9399f9c71db7a35b011",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ntsshowrussiahasgivenuponmilitaryvictory",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable",
-   "author": "Andrew Roth in Kyiv",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/world/2026/oct/16/attacks-on-ukraine-power-plants-show-russia-has-given-up-on-military-victory",
-   "paras": [
-    "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen",
-    "As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a supposed Russian blueprint to destroy life in major Ukrainian cities seen by the Guardian.",
-    "Even as Donald Trump unilaterally declared an “energy ceasefire” last week between Moscow and Kyiv, Russia continued with its methodical and devastating strikes on Ukraine’s power grid, in particular in Kyiv, in a strategy meant to punish Ukraine’s population and drive the country to capitulation."
-   ],
-   "img": "https://i.guim.co.uk/img/media/31cf026c415926e42b92bfec42453b9b849d4c23/0_451_2147_1717/master/2147.jpg?width=140&quality=85&auto=format&fit=max&s=2971865cd5bb3b1e0438b3afd12a20ad",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026oct16jonossoffgeorgiasenatemidterms",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Jon Ossoff’s rise to US Senate was meteoric – how high can he go?",
-   "author": "George Chidi in Atlanta",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms",
-   "paras": [
-    "The media-savvy Democratic senator is defying predictions of a tight re-election battle. But he insists he has ‘zero interest’ in a presidential run in 2028",
-    "Jon Ossoff has “zero interest” in running for president in 2028, he declared during a debate this week. Jon Ossoff has “zero interest” in running for president in 2028, he told a local TV station last month. Jon Ossoff has “zero interest” in running for president in 2028, he told MS Now – twice – in August.",
-    "The Democratic US senator for Georgia said as much to CNN. And the Atlanta Journal-Constitution. And MS Now, again . And in his second Senate debate on Tuesday night."
-   ],
-   "img": "https://i.guim.co.uk/img/media/a2630541c1324c86bd7f740d1fa9493dc3abebf1/0_0_1771_1418/master/1771.png?width=140&quality=85&auto=format&fit=max&s=185985cd940a9ac5b386f7d5f09fd120",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-t16deathcareindustryburialcostscremation",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The last thing I did for my mother was illegal",
-   "author": "Jasmine Desiree",
-   "date": "2026-10-16",
-   "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/16/death-care-industry-burial-costs-cremation",
-   "paras": [
-    "An urn cost more than my rent. So I scattered my mother’s ashes at Yosemite from a Ziploc bag, without the federal permit I couldn’t afford to wait for",
-    "My mother is in a Ziploc bag on my lap, wedged between a half-eaten bag of trail mix and my purse.",
-    "My stomach is queasy from the switchbacks up to Yosemite, where I’ve come to spread her ashes, and I’m having an existential crisis."
-   ],
-   "img": "https://i.guim.co.uk/img/media/50ba220a12a4dc7dd13b0139d2e23b58c595980e/0_810_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=00af02869f02a5b54181430378c7a8bb",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -995,23 +1335,6 @@
    "annos": null
   },
   {
-   "id": "f-propublica-GZWWlBYVkpiR2dSZzFtdHc4ejE2U2ZZbzAxdwoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits",
-   "author": "",
-   "date": "2026-10-16",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBucVJBeFdLZWxQOWp4bmpHZXAwZ2VmQ3owTmpmdzBkWEh5Ym5veG41dFI2U1YzUklmVTlmeEhzN283WDh3b1UtZFhQQXAxYjA5QW5JbGZWWlBYVkpiR2dSZzFtdHc4ejE2U2ZZbzAxdw?oc=5",
-   "paras": [
-    "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-geekwire-ireplaysthatflythecamerathroughtheaction",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -1034,120 +1357,6 @@
     "The programming is included with a Prime membership , which costs $139 a year or $14.99 a month. Games stream in English and Spanish on the Prime Video app and the web."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/prime360-lead-art.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-einventenergyhungrychipssuitableforspace",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "A two-person Seattle startup lands $1M to reinvent energy-hungry chips suitable for space",
-   "author": "Lisa Stiffler",
-   "date": "2026-10-15",
-   "url": "https://www.geekwire.com/2026/a-two-person-seattle-startup-lands-1m-to-reinvent-energy-hungry-chips-suitable-for-space/",
-   "paras": [
-    "Seattle-based TriMagnetix has landed new funding and commitments totaling $1 million to continue developing a semiconductor chip that, according to initial lab testing, consumes 800 times less energy than a traditional chip to process the same amount of data.",
-    "The startup uses nanomagnetic technology that requires only electrical pulses rather than the constant power stream traditional chips need, dramatically reducing electricity consumption and heat generation. The design also makes the chip resistant to radiation, and it’s built to integrate with existing computing infrastructure.",
-    "The startup has made additional progress beyond the new funding:",
-    "Earthbound data centers struggling to curb energy use and heat output are seeking more sustainable chips, but the startup is particularly interested in satellite applications.",
-    "The Pacific Northwest, home to companies including Starcloud and SpaceX, is the “satellite capital of the world,” said Lucas Hahn , co-founder, president and chief strategic officer of TriMagnetix.",
-    "Satellite companies have told him they want semiconductors that are energy efficient and resistant to the radiation experienced in space, Hahn said. That makes TriMagnetix’s devices “a no-brainer.”",
-    "In addition to Hahn, the startup’s other employee is Madison Hanberry , who launched the TriMagnetix in 2023. Hanberry, who has served as chief of research and development, is transitioning to CEO. His sister, Aspen White , is also a co-founder.",
-    "The chips made so far by TriMagnetix are not the high-performance graphics processing units, or GPUs, used for applications such as AI and 3D animation. Nor are they simpler central processing units, or CPUs.",
-    "“It’s replacing specific compute in certain devices at a very low level,” Hahn said. “So not quite CPU yet, but it is at the core level doing similar things.”",
-    "TriMagnetix has contracted with the Washington Nanofabrication Facility at the University of Washington to use the site’s fabrication equipment. It aims to have a product available for commercial sales within the next year.",
-    "The round was led by Acequia Capital with participation from Athenaeum Ventures . Actuate Ventures has also committed to the round. The combined total from the three firms is $1 million. Last year, the startup received a $200,000 investment from climate venture fund SNØCAP ."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/image-1260x945.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-hgiantsaregivingforthewhitehouseballroom",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom",
-   "author": "Todd Bishop",
-   "date": "2026-10-15",
-   "url": "https://www.geekwire.com/2026/leaked-list-shows-what-microsoft-amazon-and-other-tech-giants-are-giving-for-the-white-house-ballroom/",
-   "paras": [
-    "Microsoft committed $10 million to President Trump’s White House ballroom project, and Amazon and T-Mobile each chipped in $5 million, according to an internal donor list obtained by the Washington Post and reported by the newspaper Thursday morning .",
-    "The commitments are drawing scrutiny because the ballroom donations aren’t subject to campaign finance limits or disclosure requirements. The money goes through a nonprofit, the Trust for the National Mall, into a White House account the president directly controls.",
-    "Of the $333 million raised so far, the vast majority came from companies and wealthy people with interests before the federal government, the Post found, raising concerns among experts that companies could be buying influence with the administration, or feeling pressured to give.",
-    "The White House publicly named Microsoft, Amazon and T-Mobile among the ballroom’s donors last October but didn’t disclose the amounts. Other donors asked to keep their names out of it entirely, the Post found, including a subsidiary of mortgage lender Rocket, which committed $10 million weeks after a federal agency approved its acquisition of Mr. Cooper.",
-    "The Seattle-area companies have a wide range of dealings with the government as suppliers, regulated businesses and targets of federal scrutiny. Microsoft and Amazon are two of the federal government’s largest technology providers, and T-Mobile requires regulatory approval across its business, from wireless spectrum to acquisitions.",
-    "Amazon is facing an FTC antitrust trial next year, focused on its treatment of third-party sellers on its online marketplace. The FTC and 22 states also sued Amazon in August, accusing it of rigging ad auctions to overcharge advertisers.",
-    "Microsoft is at odds with Vice President JD Vance and the Labor Department over claims that the company laid off American workers while sponsoring foreign workers for permanent residency, leading the department to suspend the company from the program .",
-    "Apple and Nvidia were among the top contributors at $25 million each, according to the list of 67 donations above $10,000. Microsoft’s $10 million puts it in the next tier with Palantir and Lockheed Martin, while Amazon and T-Mobile joined Meta, Cisco and ServiceNow at $5 million.",
-    "White House spokesman Davis Ingle told the Post that the donors are “a wide array of great American companies and generous individuals, all of whom are contributing to make the People’s House better for generations to come.”",
-    "A Microsoft spokesperson said the company didn’t have a comment beyond what has been publicly reported. We’ve contacted Amazon and T-Mobile for comment."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/55295173575_d164cd7060_k-1260x840.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-icepresidentjdvancesvisafraudaccusations",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Microsoft’s Brad Smith pushes back on Vice President JD Vance’s visa fraud accusations",
-   "author": "Todd Bishop",
-   "date": "2026-10-15",
-   "url": "https://www.geekwire.com/2026/microsofts-brad-smith-pushes-back-on-vice-president-jd-vances-visa-fraud-accusations/",
-   "paras": [
-    "Microsoft President Brad Smith says someone apparently “failed to inform the vice president accurately about our numbers” before the Trump administration cut off the company’s ability to sponsor foreign workers for permanent residency.",
-    "In an interview with Politico , published Thursday, Smith rejected Vice President JD Vance’s accusations of fraud and called his claim that Microsoft replaced laid-off Americans with foreign workers “completely off base.” He said Microsoft has “always been committed to a high integrity and high compliance” approach to immigration.",
-    "“We will stand by our record,” Smith said. “And I hope that folks at the White House might look again and look at what we think is a more accurate picture.”",
-    "At a White House news conference last week, Vance said Microsoft laid off 6,000 American workers last year while receiving 6,300 H-1B visas and nearly 3,000 green cards.",
-    "“If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants,” Vance said, after asserting that there “has been no company in the United States, unfortunately, that has abused the system more than Microsoft.”",
-    "Critics of the visa programs say tech companies have used them to displace U.S. workers, and that the job ads companies must run before sponsoring workers for green cards often appear in places few American job seekers will see. Labor Department records show Microsoft’s required print ads ran mostly in The Seattle Times.",
-    "Smith said most of Microsoft’s recent visa and green card applications were for people already working at the company, many of them for years, because of long green card backlogs. He also said Microsoft hired 9,200 American workers in its last fiscal year, a number he said was “left out of the narrative.”",
-    "The Microsoft executive also rejected the idea that the company pays visa holders less. “It doesn’t matter whether you came on a visa or you’re an American worker,” he said. “Everybody has the same compensation system.”",
-    "He warned that the crackdown could send “the most talented next wave” of engineers to other countries. Five of the six tech leaders President Trump honored with national medals last week, including Microsoft CEO Satya Nadella , came to the U.S. as immigrants, Smith noted, and their companies together account for more than 25% of the value of the S&P 500.",
-    "The suspension doesn’t stop Microsoft from hiring foreign workers on H-1B visas. Those are temporary work visas, typically granted for three years at a time and generally limited to six.",
-    "Amazon led in H-1B approvals for new employment in fiscal 2025, with 4,644, followed by Meta with 1,555 and Microsoft with 1,394, according to an analysis of USCIS data by the National Foundation for American Policy.",
-    "What Microsoft lost is access to a key step toward permanent residency. The program, known as PERM , is run by the Labor Department. Companies use it to sponsor foreign employees for permanent residency, also known as a green card. The employer has to advertise the job and show the department that no qualified, available U.S. worker can fill it.",
-    "PERM is commonly used for employees already working in the U.S. on temporary visas, including H-1Bs.",
-    "The interview didn’t address Microsoft’s outsized use of PERM. The company had more PERM cases decided than any other employer in fiscal 2025 and the first nine months of fiscal 2026, according to a GeekWire analysis of Labor Department data. Other big tech companies, including Amazon and Google, sharply reduced their PERM filings after early 2023."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/06/1-brad-smith.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-sitevisitorsintobuyerswithaipoweredvideo",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Startup Spotlight: Zeacon aims to turn website visitors into buyers with AI-powered video",
-   "author": "John Cook",
-   "date": "2026-10-15",
-   "url": "https://www.geekwire.com/2026/startup-spotlight-zeacon-aims-to-turn-website-visitors-into-buyers-with-ai-powered-video/",
-   "paras": [
-    "Businesses spend heavily to attract visitors to their websites, but traffic doesn’t necessarily translate into sales. Bellevue, Wash.-based Zeacon is building AI tools to help companies connect their marketing content with customer behavior and understand what actually drives conversions.",
-    "Co-founded by Kris Naidu and Jay Gounder , Zeacon uses AI to generate videos, personalize website content and track how visitors interact with it. The platform is also designed to identify bot traffic and analyze how both people and AI agents navigate websites — an increasingly important capability as AI changes how people discover and interact with businesses online.",
-    "Zeacon’s goal is to help companies move beyond traffic and content creation to understand what turns visitors into customers. As Naidu and Gounder see it, the real measure of success isn’t how many visitors a website attracts, but how many convert.",
-    "We caught up with Kris Naidu for our latest Startup Spotlight.",
-    "In 50 words or less, give us your elevator pitch :",
-    "We help businesses deploy AI agents that optimize their entire digital funnel, with an initial focus on video. Our AI agents can autonomously generate video content without prompting, publish it across social media and websites, personalize the experience for each website visitor and identify bots, while continuously analyze and optimize performance.",
-    "What problem are you obsessed with solving?",
-    "We are obsessed with helping businesses turn the attention they already paid for into sales. Brands invest in advertising and great video content, but the website where customers actually buy often doesn’t connect with those investments. Zeacon brings that content onto the website, personalizes it to the visitor, and connects engagement to buying behavior. We can also create new videos from product photos and website data based on what converts. The question driving us is simple: How can we help this business sell more while taking work off its team?",
-    "What surprised you after talking to customers?",
-    "How much opportunity exists in what they already have. Businesses have videos, product photos, website traffic, and customer data. What’s missing is the connection between them. A marketing team wants to know: Which content helps people buy? Where are we losing customers? What should we create next? That reinforced our belief that the real value is turning information into a decision they can act on which we can provide with our platform.",
-    "How has artificial intelligence changed the way you build your company?",
-    "AI changed what we could take off the customer’s plate. Zeacon can understand website and product information, generate video from pictures without prompting, choose relevant content for a visitor, and help teams ask questions about performance in plain English. We’re building those capabilities together: create, personalize, measure, and learn. Each result can inform the next decision. That’s a much bigger opportunity than making content faster which we can also do but it means helping a business continuously improve how it sells.",
-    "What’s one thing people misunderstand about your startup?",
-    "That revenue alone does not tell you how valuable an AI company is. Revenue matters it proves customers will pay. But data deserves equal attention because it determines what the system can learn and how useful it becomes. At Zeacon, we care about the connection between visitor behavior, content, and conversion. The advantage comes from the quality of that data and our ability to turn it into better customer outcomes. Investors should ask what a company is learning with every deployment, alongside what it earns that will help them understand the true growth value. Upfront value without long term vision effects companies and we were always focused on the end goal which was delivering a product that adds value not only in the near term but cannot be easily replaced.",
-    "What’s the toughest decision you’ve made in the past year?",
-    "Deciding what to say no to. When your technology opens up several opportunities, it’s tempting to pursue all of them. But customers need you to solve their problem well. Our focus is helping businesses use video and data to improve their website experience and grow sales. We have to judge opportunities against that purpose, even when they’re exciting. The data helped us understand the entire flow of users for our customers that when we had our moment. We realized it just was not about providing outcomes for sales but helping the customers fix issues within their website journey and using the content to help fill gaps for the desired outcomes.",
-    "What’s the one piece of advice you give to other entrepreneurs?",
-    "Focus. Get close to your customers, understand the problem they will pay you to solve, and keep delivering against it. Do not confuse more features with more value. Make something customers use, trust, and want to keep. It is hard but being focused is the key to winning.",
-    "Zeacon is recognized for creating a new business science on relating content and user behavior to actual business outcomes."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Kris-and-Jay-4-1260x713.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1366,79 +1575,20 @@
    "annos": null
   },
   {
-   "id": "f-stranger-anonymousianonymousbumpertobummertraffic",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "I, Anonymous: Bumper-to-Bummer Traffic",
-   "author": "Anonymous",
+   "id": "f-kuow-kppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "WA foster parents no longer have to support LGBTQ+ kids in their care",
+   "author": "",
    "date": "2026-10-15",
-   "url": "https://www.thestranger.com/i-anonymous/i-anonymous-bumper-to-bummer-traffic/",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkVDelZlVm1oSmpkbE9lLWtMOUNReUpMUmRROWFDSVBfUjdSeXRqb1BBOXZZUHpBUFNoRWhkM2tfV2VqYW0zSVJRMnJDQTNjenhQaGpVVEV0aVpmdzhBMzQ1b3R5NGtyNzZLVzA4TWVSVk5EcklHdWxyQ2RvQ20zMUtqM0lkRlVCdVFkNkppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQ?oc=5",
    "paras": [
-    "I have noticed a disturbing tendency for cars to leave plenty of space between themselves and the car in front of them when waiting at a red light, as if out of politeness. This is not polite; it is thoughtless. This is absolute disregard for any other cars that might want to get through an intersection without being stuck when the light changes.",
-    "Nor can it be called a safety focus, because people don’t need space to protect them from a collision when they’re at a halt. As I recall from driver’s ed, it was recommended to have one car length of space per 10 miles an hour of speed. When your speed is 0 mph, I don’t think you need a full—or even half-car length—for safety. It seems like the gaps actually invite pedestrians to cross between cars. Not to mention that not using space may inspire someone to rear-end you.",
-    "Do you need to get something off your chest? Submit an I, Anonymous, and maybe we’ll illustrate it! Send your unsigned rant, love letter, confession, or accusation to ianonymous@thestranger.com . Please remember to change the names of the innocent and the guilty.",
-    "The post I, Anonymous: Bumper-to-Bummer Traffic appeared first on The Stranger ."
+    "WA foster parents no longer have to support LGBTQ+ kids in their care KUOW"
    ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/ANON101426.jpg?fit=1024%2C1024&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-videos2026psychotronicchallengeweekthree",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Scarecrow Video’s 2026 Psychotronic Challenge: Week Three",
-   "author": "Julianne Bell and Audrey Vann",
-   "date": "2026-10-15",
-   "url": "https://www.thestranger.com/scarecrow-psychotronic-challenge/scarecrow-videos-2026-psychotronic-challenge-week-three/",
-   "paras": [
-    "Welcome to October! It’s the most wonderful time of the year, when I mitigate my seasonal depression by going all in on gothic literature and horror films. The good people at the world’s best video store, Scarecrow Video, have put together their 2026 Psychotronic Challenge , which contains 31 prompts for a movie each day throughout the month. The rules are simple: watch at least one film each day that falls under the psychotronic category “in whatever order suits you,” and “have fun and get weird.” Scarecrow defines “psychotronic” as “denoting or relating to a genre of films that typically have a science fiction, horror, or fantasy theme and were made on a low budget.” But the staff also notes that they don’t necessarily subscribe to the “low budget” definition in order to allow more diversity in the selection. “That being said,” they write, “we do like an underdog more often than not” so “you might as well have a lot of fun pushing yourself to new lows.” My colleague Audrey Vann and I compiled a list of our picks for the second week, which includes horny parasites, creepy clown dolls, and killers in baby masks. Stay tuned for our final post next week, and catch up on week one and week two if you haven’t already. Support your local video store, and happy viewing! –Julianne Bell",
-    "15. WORKPLACE WHOOPSIE: “O.S.H.A. inspectors are gonna need a whole case of red tape for this day.” Julianne’s pick: The Faculty (1998)",
-    "This 1998 high school sci-fi horror movie has a bonkers cast: Clea DuVall, Josh Hartnett, The Pitt star Shawn Hatosy, Jordana Brewster, Elijah Wood, Salma Hayek, and Jon Stewart, just to name a few. It’s also directed and edited by Robert Rodriguez ( From Dusk Till Dawn , Once Upon a Time in Mexico ) with a screenplay by Scream writer Kevin Williamson. The plot revolves around a group of six teens who begin to suspect their teachers are being replaced by parasitic aliens. It’s a fun take on the high school movie, with quick banter, a soundtrack ranging from Garbage to Oasis, and a grotesque alien queen. Duvall’s loner goth girl character, Stokely, is supposed to be straight—yeah, sure.",
-    "More ideas: Annihilation (2018), Sunshine (2007), Pontypool (2008), Alien (1979), Bloodsucking Bastards (2015)",
-    "16. STAPH ONLY: “Why doesn’t anyone read the warning signs at the biology lab anymore?”",
-    "Lauded as “phallic, gruesome, deranged, forbidden and…funny (or was that just me?)” by Charli XCX on Letterboxd, this early David Cronenberg film follows the residents of a luxury high-rise apartment infected by parasites that turn them into sex maniacs. Think about this the next time you have bed bugs and be grateful.",
-    "More ideas: The Island of Dr. Moreau (1996), Panic in the Streets (1950), Invasion of the Body Snatchers (1978), Variola Vera (1982), The Andromeda Strain (1971), The Last Man on Earth (1964)",
-    "17. VIDEO STORE DAY: “This is the big one. Watch something physically rented or bought from an actual video store. If you live in a place that is unfortunate enough not to have one of these archival treasures then watch a movie with a video store scene in it at least. #vivaphysicalmedia” Audrey’s pick: Frankenhooker (1990)",
-    "Frank Henenlotter’s Frankenhooker brings together a few of my favorite things: Mary Shelley’s Frankenstein , models who act (the film stars Penthouse ’s August 1986 Pet of the Month, Patty Mullen), and camp icon Shirley Stoler (of The Honeymoon Killers and Seven Beauties ). The lore of this film runs deep—a ratings body representative reportedly told Henenlotter that the film should be rated “S for shit.” And, when it was released on VHS, it mortified rental customers with a sound chip that exclaimed, “Wanna date?” when it was picked up. Needless to say, it’s taken a few decades for this gem of a movie to be appreciated. RENT IT. More ideas: MaXXXine (2024), The Last Video Store (2003), Benny’s Video (1992), Stan Helsing (2009), Scream (1996)",
-    "18. CREEPETITION: “Rewatch the first movie you ever saw that really made your skin crawl. Don’t be scared, we got you.”",
-    "Julianne’s picks: The Sixth Sense (1999) or The Tooth Fairy (2006)",
-    "When I was far too young, I saw a clip on TV of the scene from The Sixth Sense when the ghost of the dead bicyclist with a broken neck from a car accident is standing outside Toni Collette’s car, and it haunted me for years, so I’d probably choose that for this prompt. I was terrified whenever I saw an ambulance after that. The other contender would be 2006’s direct-to-DVD The Tooth Fairy , which I watched at a Halloween party when I was 15. It was very bad, and I mocked it mercilessly, but I was still scared to turn the lights off alone in my room afterward.",
-    "Attention parents: Just because Poltergeist is rated PG does not mean it won’t haunt your children for the rest of their lives. I first saw the film—upon the recommendation of my dad—when I was seven years old, and when that ghost-hunting assistant peeled his face off in the bathroom mirror, the image was burned into my memory and kept in a special compartment of my brain along with Large Marge ( Pee Wee’s Big Adventure ) and Martian Girl ( Mars Attacks! ). Is there swearing in Poltergeist? No. Is there excessive gore? Also no. But there is a creepy clown doll that giggles and moves sometimes, and for that reason, it should be rated R.",
-    "19. DISCHARGE: “Hey hey, ho ho, that nasty ooze has got to go! *You see, the only truly great jokes are the ones that have to be over-explained right? Check it out… In addition to being a less than flattering name for bodily fluid secretions, Discharge is also the name of a 1970’s/80’s minimalistic UK punk band with intense drone-like rhythms who sing short sharp protest songs, mostly about the fears and horrors of nuclear war and the fallout from it. Some have described their sound as a “grave-black aural acid assault.” How is that for information leakage? Haha. We suppose you could opt for a film about nuclear fallout, war, punk stuff, or just plain ol’ seepage of some sort.” Julianne’s pick: Green Room (2015)",
-    "In A24’s critically acclaimed horror-thriller Green Room , the fictional punk band the Ain’t Rights, composed of bassist Pat (the late Anton Yelchin), guitarist Sam (Alia Shawkat), drummer Reece (Joe Cole), and singer Tiger (Callum Turner), are touring the Pacific Northwest when a series of misadventures leads them to grudgingly perform at a neo-Nazi bar outside Portland. After the members witness a stabbing committed by a member of the Nazi metal headliner in the venue’s green room, they find themselves locked in a grim battle for their lives, fighting a gang of “red lace” skinheads tooth and nail alongside the murder victim’s friend Amber (Imogen Poots). Everyone in the main ensemble delivers powerful performances, but Patrick Stewart is particularly chilling as the aloof white supremacist bar owner, Darcy.",
-    "More ideas: Slime City (1988), The Blob (1988), The Stuff (1985), The Blob (1958), The Fly (1986), The Substance (2024)",
-    "20. MAN, YOU GOT SOME ‘SPLAINING TO WATCH: “Characters, or even whole movies, who feel compelled to explain everything. ‘Educate’ yourself with one of those.”",
-    "For a long time, I misjudged the Scream franchise as a cheesy batch of jump-scare cash grabs. Now, I see the truth: the films strike a perfect balance of astute horror satire and camp high school drama. The first Scream film remains my favorite, as it has the incredible outfits (Rose McGowan’s psychedelic miniskirt is everything to me), queer subtext (Billy and Stu 4ever",
-    "More ideas: It Follows (2014), The Cabin in the Woods (2011), Nosferatu (2024), Happy Death Day 2U (2019), Heretic (2024)",
-    "21. BACK TO THE FUTURE DAY: “Really though, any time travel flick will do the trick.”",
-    "What’s better than a time loop movie? A horror time loop movie! Happy Death Day is the ideal mix of comedy and slasher and a great comfort watch (if you’re a sicko like me who finds horror movies soothing). After superficial sorority girl Tree Gelbman (played flawlessly by Jessica Rothe) is stabbed on her birthday by a killer in a creepy baby mask, she is forced to live the last day of her life over and over until she can solve the mystery of her own murder.",
-    "More ideas: Triangle (2009), The Final Girls (2015), The Girl Who Leapt Through Time (2006), Time Masters (1982), Lost Highway (1997)",
-    "The post Scarecrow Video’s 2026 Psychotronic Challenge: Week Three appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/TP2_04878-scaled.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-dandmoreseattleeventsgoingonsalethisweek",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Ticket Alert: Leon Bridges, Giggly Squad, and More Seattle Events Going On Sale This Week",
-   "author": "EverOut Staff",
-   "date": "2026-10-15",
-   "url": "https://www.thestranger.com/everout/ticket-alert-leon-bridges-giggly-squad-and-more-seattle-events-going-on-sale-this-week/",
-   "paras": [
-    "Ready for a fresh batch of tickets? Smooth soul singer Leon Bridges takes his vibrant record Happiness Anytime on the road next summer. Hannah Berner and Paige DeSorbo keep it real with the Giggly Squad podcast live tour, covering pop culture and sharing personal anecdotes. Plus, Rock and Roll Hall of Fame inductees Def Leppard and alternative pop-rock legends the Goo Goo Dolls team up to co-headline an arena tour. Read on for details on those and other newly announced events, plus some news you can use.",
-    "Def Leppard and Goo Goo Dolls Climate Pledge Arena (May 9, 2027)",
-    "Dogs In A Pile Neptune Theatre (Jan 8, 2027)",
-    "The post Ticket Alert: Leon Bridges, Giggly Squad, and More Seattle Events Going On Sale This Week appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/leonbridges2.jpg?fit=807%2C583&ssl=1",
-   "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1451,23 +1601,6 @@
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRVJfY2t1SXE0Tm5uREtHMDRxUmhUc05VWnRHalNRNV9GUGd2VVdfSjdjcFFFVVRWaEUyUGVGTU1uUjFXTW0ydTVTTkt6NUJKNVN6TEFFTzVqeUhHNk9WclFfaFdDUXd6U3JoeG5kYkZ6d1h2T1ZsMXkySi0zSDNXdnRFNE9wOENDVHE1NFVzQS1RQnR5bVYzZVh2VjZUaW9UN0tnekVESW5ZZWFUUl9IM3BUekd4R1hSUkdaVjY3MA?oc=5",
    "paras": [
     "Seattle inflation outpaces most West Coast peers, national average. What's driving it? KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-kppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "WA foster parents no longer have to support LGBTQ+ kids in their care",
-   "author": "",
-   "date": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkVDelZlVm1oSmpkbE9lLWtMOUNReUpMUmRROWFDSVBfUjdSeXRqb1BBOXZZUHpBUFNoRWhkM2tfV2VqYW0zSVJRMnJDQTNjenhQaGpVVEV0aVpmdzhBMzQ1b3R5NGtyNzZLVzA4TWVSVk5EcklHdWxyQ2RvQ20zMUtqM0lkRlVCdVFkNkppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQ?oc=5",
-   "paras": [
-    "WA foster parents no longer have to support LGBTQ+ kids in their care KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1598,72 +1731,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-1NXdWdkpxZGd3S21ESkhobzhVQ3FQLWs0UVJNoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "2 million invasive green crabs captured along Washington state shorelines",
-   "author": "",
-   "date": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNekRmOGdWV2ZKNW53NzRJdjVHUzEta05uUGJEOTFONW9KeTlySE0tVnUydVozOG9PNmpXR2xpRmVYa3REZ0hxaUduRTllR0lRX1puVXFmdlNra0pxSEt0SHVrR2dDb2V1TXhZSFF0bTBFUzZMSkZVQXJLY1lscEVpTDNwM1l5S3BYQ1R6eFNJb0tuZTIxMWI0TjJBQThqcWo1NXdWdkpxZGd3S21ESkhobzhVQ3FQLWs0UVJN?oc=5",
-   "paras": [
-    "2 million invasive green crabs captured along Washington state shorelines KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-lFWk0yZFdtTi1haG9fRXB2YTB6djdRcFdXckEoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Columbia Funeral Home Owners Plan to Rebuild After Last Year's Fire",
-   "author": "",
-   "date": "2026-10-14",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR2FWM1g4ODBKNDZaODFBTC1DV0RNTWs0LWI0YV9ieEdDRmpyRS1pV0hFWnlxUktabUVGWTBXd3FGd05QOEpjU09icXZCVmtsRU14MFI0Tm1PTWVWNTB5MWNNSV9URGVkYkpKR2FuOUVnajZZRThic0hrZHFvQXhYV1F5RFNoYzZ6WkFDYkdMSWZPY3pWU3FqaXJnSWFWdTFTQ192RTZEa29iZnJJRDMtLVhPcnHSAcIBQVVfeXFMT1hqZ1QtWWo4b2dLWUlKd0VNWlNIS1ppYkV6SklYRnYzbU9FN1h1Snc1eGtYaHZmYjlJSElUbWQxa0wyVmJaMGxmUEZiTzViMi1sUUJnQk5RVC1jbnFJUXZESFgtTUdjckJDeGdqaXVDWDZSNXFLNHR6ZEZPQ0VtRFV0UU93eFNjaDB1cUoyOWV1MmZIY3dvbFYyem9PSVRKRkZiRDBOV2lFWk0yZFdtTi1haG9fRXB2YTB6djdRcFdXckE?oc=5",
-   "paras": [
-    "Columbia Funeral Home Owners Plan to Rebuild After Last Year's Fire South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-ralltransformsudistrictsmainthoroughfare",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "'The Ave for All' Transforms U District's Main Thoroughfare",
-   "author": "Ryan Packer",
-   "date": "2026-10-13",
-   "url": "https://www.theurbanist.org/the-ave-for-all-transforms-u-districts-main-thoroughfare/",
-   "paras": [
-    "Seeing a street festival take over University Way NE through the heart of the U District is a common sight throughout most of the year. But this past Saturday, the attraction wasn't food vendors or craftspeople – it was the street itself. Visitors to one of the city's most beloved shopping districts were treated to a fully pedestrianized street as part of \" The Ave for All \", which continues this upcoming Saturday, October 17 for a second weekend.",
-    "An idea advanced by the placemaking group U District Advocates, The Ave for All gives pedestrians breathing room to enjoy a leisurely Saturday without being crammed onto University Way's narrow sidewalks. Tables and chairs turned the periphery of the street into a patio that wasn't tied to any specific businesses, prompting more folks to stick around and linger... but also grab a bite nearby.",
-    "Games, including a large chess board, provided activation and a pair of buskers livened the mood. It didn't hurt that storm clouds, spitting rain in the early afternoon, cleared away and left a beautiful autumn day.",
-    "For event organizer L. Harrison Jerome, the Ave for All is a glimpse of how a neighborhood like the University District can better use one of its biggest stretches of real estate – the street.",
-    "\"In this neighborhood, you see how thin the sidewalks are. Now people actually have the ability to move out into the space, and they're actually filling it,\" Jerome told The Urbanist. \"They're doing chalk art, they're hanging out with each other, they're playing games, they're having off street dining. It's really, really nice weather today, and people are just enjoying the street in a different way than they had before.\"",
-    "As a broader city, Seattle is taking small steps toward creating more pedestrian-oriented spaces out of underutilized stretches of roadway, with the Seattle Department of Transportation's People Streets and Public Spaces program at the forefront of that work. Potential public plazas are being eyed in the Admiral District, Delridge, and on Upper Queen Anne, projects that will ultimately be demonstrations of the idea of creating a pedestrian plaza at the heart of every neighborhood.",
-    "But The Ave for All is presenting a bolder vision of how a street at the heart of a business district can truly transform.",
-    "U District Advocates has pointed out that they are not the first group to dream of a fully pedestrian-oriented Ave, with storied Seattle architect Victor Steinbrueck putting the idea forward in 1955. The idea got closest to becoming a reality in the early 1970s, with the University District Development Council established specifically to advance the idea.",
-    "\"The plan basically calls for a pedestrian mall on University Way NE to run from NE 47th to NE 42nd streets,\" a February 1972 story in the Seattle Post-Intelligencer noted. At that time, outgoing UDDC Executive Vice President David Rowlands touted the proposal for a U District pedestrian mall as creating \"what Ghirardelli Square is to San Francisco, what the French Quarter is to New Orleans and what George-town is to Washington, D.C.\"",
-    "The year before in 1971, UDDC surveyed participants at the U District Street Fair finding 90% general support for the idea of a pedestrian mall ( sound familiar? ). But the proposal fell apart when property owners on the Ave were required to provide their stamp of approval. An alternative proposal put forward by neighborhood real estate broker Don Kennedy included a pedestrian plaza in front of what is now the UW tower connected to a \"tremendous\" parking garage with shops on top. That idea never came to fruition either.",
-    "Everything old is new again. Earlier this summer, the U District Advocates had a false start after the City of Seattle declined to approve an initial request to open up the Ave in late May and early June , with a number of nearby business owners opposing the plan.",
-    "As the Seattle Times reported at the time, the push back was orchestrated by Lois Ko and Emily Scully, owners of Sweet Alchemy and Shultzy’s Bar & Grill respectively. But after other business owners in the neighborhood found they'd been added to a list of opponents of the event without their knowledge, a cloud of animus and uncertainty grew up around the entire project that threatened to sour the spirit of The Ave for All.",
-    "While that's not exactly ancient history at this point, it did seem to be put in the rearview mirror this weekend. For the autumn re-do, U District Advocates was asked to jump through a few more hoops to show they'd conducted community outreach, a bar they were ultimately able to clear.",
-    "\"One thing I learned from that it's sort of difficult for community groups to do things like this,\" Jerome said. \"We know that there's a huge amount of support for reprioritizing a ton of our streets back toward people rather than cars, but it's really difficult for people to voice those wants.\"",
-    "What the future holds for The Ave is impossible to know. But based on the turnout this past weekend, there's clear demand for something to draw people out into the street, even without a food festival.",
-    "\"We'd love to do this event again,\" Jerome said. \"We want to work with the City and the businesses and the local community, the residents, the students, get everybody in the conversation to actually talk about what a city pilot of this could actually look like, where we do it day-to-day or on weekends, sometime in the spring or the summer.\"",
-    "U District residents and visitors will have one more chance to visit The Ave for All this Saturday from 11am to 8pm."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/IMG_9091.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-0JUXzQ0bUQ1MHFoVG5tcDZsUTVtM2l4Zlc2bwoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1673,6 +1740,23 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkJhblpYRDQxYU9JcXNQUDgzQzk4c0E0VURJRDktZVloZDVhTlNwQVNEdWhqdThLN0xYZGZfV1p4cjYwU0ZvemtOMVpBZWYzdDVJaVB4UGhSNlB3ZUNvS0VXX0p5SDhsRUg0MUJEZ3FGNmRTVHhWRU1CQTUyTHVWQzMwOGRNUEh6UGt4SG94b2NWZHdNSU5ob19tRENXd0gxTm9TSGllLVBvcDRyV3h6LW1XVEJ2V0NOV0JUXzQ0bUQ1MHFoVG5tcDZsUTVtM2l4Zlc2bw?oc=5",
    "paras": [
     "Will Seattle's proposed RV rules help people living in them? Critics have doubts KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-PVmh5cXFwS1NCWWdFVk53bHdpekRUV3JxdTR3oc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There’s No Rule Against It.",
+   "author": "",
+   "date": "2026-10-13",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUXBBemtlcHBJbFNuVzIzVmVpdjlwdEN6NTB5LWFZODZZcDFZVnhtaEhIT0JqMXFvTzRpZEluTjJFMU5mWXlKdG56eUh4eWxWWUZ1N3YwS3piUzlMM0V5YWEwYUlqNHFPVmh5cXFwS1NCWWdFVk53bHdpekRUV3JxdTR3?oc=5",
+   "paras": [
+    "He Waited Nine Years in Prison for His Lawyer to File a Single Brief. In This State, There’s No Rule Against It. ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1695,40 +1779,6 @@
    "img": "",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-tS1FVVHZRM0toY090dWRVTnJjQ29hcHNGRm4woc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: The Secret Tribunal of Nice Things",
-   "author": "",
-   "date": "2026-10-11",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeFdOeW1tZU5TYkZoMkhzMUh6R0RzMk1KUFlsbHJMTG01NzllZkpGY1NqVUpSVndEYkczazA2dUJkbDRKcWdwQmoyWDBndVFlemZ6Uk82WnN1U3dOUG16Y0FiTVUzX0ZZRFBiSmRQUmJxQW01bHpTV1diWDkwMXBRNWllVVQ3UWNVQlRBaC1pME1WRlgxazBrVkJn0gGnAUFVX3lxTE1abmpaN3dZN3R4dWUzUlpYdmV5aEpFS0ZmNzI1S25KaUZrVkdGLTAtTGIzMlo1RndZeWdhSUlobFBqN2JfZVA0QVlOV3RhV0R4OFV0dlhYRW4zZGQwbkg5eTdvMU85cWh6cjRUNUVMd2JFSDJhMklCZm5rWktUUnIzWlg2TDhtSmNyR1ItS1FVVHZRM0toY090dWRVTnJjQ29hcHNGRm4w?oc=5",
-   "paras": [
-    "DOOM LOOP: The Secret Tribunal of Nice Things South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-A1UExEMDhTS3cwZG9QbmEwd21HLVVoNWNhSHQoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Why Would We Replace Route 7?",
-   "author": "",
-   "date": "2026-10-10",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnZtbFgtQmprRHkxeGgyT3BoLS11YTNld3hKVWFkbGI5dFFxemxaajg5NWlFYnRXd0FHTWRfeGNmOHctamtfZXd5MWFad3BEM2M4OTdRbTljdW9ETWZhSGJoLTRmbjJrWW51ZEhjeWcxeGJpYmlqRGJlaTU5dzRCU1k0Q1FYVGktMnR6dWNZUXFia2FxQ3hZVVFSa9IBqAFBVV95cUxQcjR4bjJKSkJVWGQtMlBTUV9kRl9rSWtGVUFiRTlqdkxCQmVmdTFLNkJPRDNsYWVPMm12YTJoVG9hUUgtWjMzeC1nNnVaWUIxeVhiY29qQmlXeUFJYlFrZW5JclAxdWpKeUdlSkZ5WGViQmFXMlVZSjNzNER1WjA4blRWc1RUVWY2RE9wc3A1UExEMDhTS3cwZG9QbmEwd21HLVVoNWNhSHQ?oc=5",
-   "paras": [
-    "The Roundup: Why Would We Replace Route 7? South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1814,35 +1864,6 @@
     "Reminder: Buses replace Link trains between Westlake and Northgate after ~10pm from Oct. 6-8 as part of Sound Transit’s rotating monthly maintenance program."
    ],
    "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-eservicesandcommuterroutetruncationagain",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Duplicative services and commuter route truncation, again",
-   "author": "Sherwin Lee",
-   "date": "2026-10-06",
-   "url": "https://seattletransitblog.com/2026/10/06/duplicative-services-and-commuter-route-truncation-again/",
-   "paras": [
-    "We’re about a month into the Fall shakeup, where a substantial number of service changes were implemented to improve connections to Link. This is a recurring playbook that Metro has used ever since light rail service began: identify duplicative services and restructure existing bus routes to connect to Link stations rather than running all the way into downtown Seattle.",
-    "When Northgate Link opened, Sound Transit truncated many of its 510 series routes to connect at Link instead. After Lynnwood Link, all of Community Transit’s direct services to downtown Seattle were restructured . And with the August changes , both Metro and Sound Transit no longer offer any one-seat rides from Bellevue or Issaquah to Seattle, save for the 2 Line.",
-    "Critics of this approach generally lament the loss of the one-seat ride, that trip times generally increase when factoring in wait times, and that Link is not necessarily faster point-to-point than express routes. The Sound Transit subreddit and other various community forums feature countless examples of riders testifying to that end. There is even now a “Restore 554” petition circulating among Issaquah residents, urging the restoration of a direct Issaquah-Seattle route.",
-    "The planning justifications for this type of restructuring are quite straightforward: Link provides a frequent high-capacity serve to major regional centers; instead of running costly peak-directional bus service, reinvest the hours into boosting local connecting service. This implementation aligns with Jarrett Walker’s “frequency is freedom” mantra and is generally a position this blog has supported.",
-    "In practice, however, real-world conditions can muddy the picture. Take, for example, the 554’s successor: the 556, which now provides frequent all-day service between Issaquah and Bellevue. Those previously using the 554 (or the 550 local stops along Bellevue Way) to get to Seattle must now connect at South Bellevue Station for the same trip.",
-    "These transfer conditions can greatly deteriorate due to local northbound congestion on Bellevue Way just in the short span between the I-90 off-ramp and the station bus stops. Riders agonizingly wait for traffic to crawl up Bellevue Way only to see Seattle-bound trains glide past over their heads. Even in the southbound direction, buses have to yield to northbound traffic in order to turn into the station bays, which adds travel time variability.",
-    "The physical infrastructure in between the connecting services is important too. Jarrett Walker touches on this point in one of his foundational articles on transferring:",
-    "… the unpleasantness of the connection experience depends on many details of how the connection works. If two buses or trains arrive on opposite sides of a platform, facing one another five meters apart, with their doors open at the same time, walking out of one and into the other is a pretty low level of inconvenience for most passengers. If the connection involves getting off a bus, crossing a busy street, and waiting for another bus not knowing when it will arrive, the inconvenience is much greater.",
-    "As it were, the connecting infrastructure at South Bellevue and Mercer Island stations is less than ideal. Both settings require a moderate walk (across a signalized intersection in the latter case, largely thanks to Mercer Island’s opposition to an 80th Ave transfer point) and ascending or descending to the train platform. This can add a lot of variability, particularly for those with limited mobility, on top of the wait for the connecting service.",
-    "Negative feedback is often amplified over positive feedback, as human beings are far more likely to complain about things that hurt them rather than praise the things that help them. But in many ways, what is often seen as a degradation in one part of the network typically means an improvement in another part.",
-    "554 riders, for example, might glowingly reminisce about the quick travel times across I-90, but forget about the frequent outbound reliability issues inflicted by 2nd Avenue congestion (as I so often personally experienced). And although not quite a zero sum game, the changes have meant a substantially better commute for Issaquah-Bellevue riders, among other parts of the system.",
-    "Big restructures in the regional network will invariably result in system-wide tradeoffs, but that doesn’t mean agencies’ hands are tied. Barring a miraculous way of sending buses congestion-free right up (or down) to the Link platforms, transfer penalties can be offset by improving frequency and reliability across all segments.",
-    "Making the 556 a frequent all-day route that connects to frequent 2 Line service is certainly an excellent start, but continued work on reliability improvements are always in order. This might mean more attentive maintenance to ensure fewer breakdowns of Link trains. Or it could mean stronger partnerships with WSDOT and local jurisdictions to give signal or lane priority to buses.",
-    "Whatever the solution, transit agencies cannot go it alone here. Route 8’s dramatic reliability leaps were only possible by some repainting (and other minor infrastructural improvements) from SDOT. In the same way, local jurisdictions owe it to the taxpaying public to squeeze out the full return on our massive regional investment in transit. Helping create reliable well-connected services is a small, but important step to get there."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/Screenshot-2026-10-04-at-3.26.14-PM.png?resize=525%2C400&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
