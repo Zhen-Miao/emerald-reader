@@ -1,6 +1,6 @@
 {
- "builtAt": "2026-10-24T18:27:22.459Z",
- "builtFor": "2026-10-24",
+ "builtAt": "2026-10-25T18:37:45.548Z",
+ "builtFor": "2026-10-25",
  "builtHour": "11",
  "count": 81,
  "sources": [
@@ -87,6 +87,397 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261018",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Oct. 18, 2026",
+   "author": "GeekWire",
+   "date": "2026-10-25",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-10-18/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Oct. 18, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Rosie, founded by two Amazon veterans, sells monthly memberships that families use to book vetted caregivers for childcare and household work. The company says it reached seven-figure annual recurring revenue within eight months of launch. Read More … Read More",
+    "A University of Washington task force recommends splitting the Allen School of Computer Science & Engineering from the College of Engineering. UW leaders will decide in spring 2027. Read More … Read More",
+    "Microsoft is winding down The Garage, the 17-year-old program behind its Global Hackathon and employee maker spaces, according to an internal FAQ. Some Garage spaces could be restricted to employees as early as Friday, and Microsoft says the hackathon team is reimagining the event. Read More … Read More",
+    "Microsoft has nominated Stripe co-founder and President John Collison to its board, according to the company’s annual proxy statement, filed Wednesday. The proxy also shows that Disney CFO Hugh Johnston, chair of the board’s audit committee, won’t seek re-election, joining LinkedIn co-founder Reid Hoffman in leaving the board in December. Read More … Read More",
+    "Two former Amazon real estate managers have resolved their six-year legal fight with the company, acknowledging they received personal payments tied to data center deals they handled and apologizing for violating its ethical standards. Amazon’s case against the developer accused of paying the kickbacks continues. Read More … Read More",
+    "Satellite communications company Kymeta added a former CIA deputy director to its C-suite; Alaska Airlines named its first chief information technology officer; and Microsoft saw three departure and the return of a former leader. Read More … Read More",
+    "New features in Microsoft 365 E7 and Project Perception will assess each agent’s risk, with the ability to block it from making changes, require human intervention or shut it down. Read More … Read More",
+    "Seattle’s prosperity isn’t guaranteed. As the region confronts economic uncertainty and the next wave of tech growth shifts toward AI, Cleveland offers a cautionary tale — and a reminder that the city’s future depends on attracting people, retaining talent and creating room for the next generation of business builders. Read More … Read More",
+    "The company did not disclose the total number of layoffs, but confirmed that the cuts affected employees across multiple departments both in the U.S. and internationally. Read More … Read More",
+    "UW’s Institute for Protein Design and Nvidia have released their first jointly developed AI model for creating proteins with specific jobs. The release follows a computing grant from Nvidia CEO Jensen Huang’s foundation that IPD director and Nobel laureate David Baker says has been “transformational” for the institute’s work. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/crop-FoundersPhoto-200x150.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-0261025sundaymovieballardlinkcontroversy",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Ballard Link Controversy",
+   "author": "Mike Orr",
+   "date": "2026-10-25",
+   "url": "https://seattletransitblog.com/2026/10/25/sunday-movie-ballard-link-controversy/",
+   "paras": [
+    "A recap of the Ballard Link controversy that boiled over at the forum Monday . These videos are from three months ago.",
+    "Light rail to Ballard shouldn’t be this hard. (The House of Transit)",
+    "Why is building transit so expensive anyway? (Yet Another Urbanist)",
+    "I’m reaching the end of the video backlog again. Do you have suggestions for other videos or channels to feature?"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ingoverwashingtonvotenooni645i001andi638",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Stop MAGA from Taking Over Washington, Vote No on I-645, I-001, and I-638",
+   "author": "Suresh Chanmugam",
+   "date": "2026-10-25",
+   "url": "https://www.theurbanist.org/op-ed-stop-maga-from-taking-over-washington-vote-no-on-i-645-i-001-and-i-638/",
+   "paras": [
+    "I was born and raised in Baton Rouge, Louisiana to immigrant parents. I moved to Seattle in 1999 to work as a software engineer in large part due to the progressive values cultivated by Washington State. My wife and I are grateful to the communities and culture here, where we’ve been able to raise three children who attend public schools in diverse communities. One of the reasons we are raising our kids here is Washington’s commitment to inclusion. Our state was one of the first to pass marriage equality, and we have strong laws against discrimination.",
+    "I deeply appreciate that the tech industry in Washington is considered a safe, welcoming place for LGBTQIA+ people, particularly our transgender friends and colleagues, who face escalating threats to their very right to existence. More parents, including many of our tech colleagues, say they are moving here to protect their children from draconian laws that are linked to increases in suicide rates.",
+    "But, near-trillionaire Elon Musk is fanning the flames against the transgender community by spending hundreds of millions of dollars through his “America PAC” (political action committee) running anti-trans political ads in elections around the country to try to drive swing voters to vote Republican. Most voters agree that this strategy is using hate to try to distract us from the high cost of groceries, gas, housing, and healthcare.",
+    "Now, right here in blue Washington State, multi-millionaire hedge fund manager Brian Heywood, through his PAC Let’s Go Washington, is using the same MAGA playbook. Heywood and his posse of right-wing uber rich supporters are bankrolling three harmful ballot measures before Washington voters this election, and two of them put a target on the backs of LGBTQIA+ children, a particularly malicious tactic.",
+    "Initiative 638 (IL26-638 on your ballot) is the most extreme policy of its kind in the country, and that’s saying a lot when red states like Idaho, Florida, Tennessee, Kansas, Utah, and Iowa have passed dozens of laws restricting civil rights, freedoms and access to care for transgender people. To exclude and humiliate trans girls from sports, I-638 would require all girls to undergo sex inspections to play elementary, middle, or high school sports.",
+    "Doctors say to be in compliance with this new rule, they will have to conduct invasive genital exams on young girls or expensive genetic and hormone testing that is unlikely to be covered by insurance because it is not medically-necessary. (And in blatant discrimination, only girls would be required to undergo potentially harmful sex inspections because the initiative exempts boys.)",
+    "Initiative 001 (IL26-001) is an anti-parents rights, anti-LGBTQIA+ measure. As a parent of three Seattle Public Schools teenagers, I know the facts: parents already have the right to information about their child, including the right to opt them out of certain curriculum or programs, and to talk to teachers, school counselors or nurses about their concerns.",
+    "While most kids have a safe loving home, sadly not all do. There were more than 115,000 reports of child abuse in Washington state in 2024 alone. As someone deeply involved with work to address our housing crisis, I have seen that the majority of homeless youth are LGBTQIA+ kids who have been kicked out or left their home because they didn’t feel safe there. I-001 will make this crisis worse, and is a direct threat to the safety of vulnerable young children who need confidential access to trusted, trained professionals like school counselors.",
+    "Initiative 645 (IP26-645) is an extension of Musk and the billionaire bros who successfully lobbied the Trump administration for policies that benefit themselves, Heywood is also trying to buy a tax cut for himself and other extremely wealthy individuals by repealing Washington’s new millionaires tax. The tax itself is very popular with the majority of voters in part because it pays for B&O tax cuts for small businesses (including small tech startups) and cuts the regressive sales taxes that impact working families. It raises billions for schools, childcare, free meals for K-12 students, and tax rebates for working families.",
+    "Having grown up in Louisiana, a state notorious for underfunded public schools, it’s appalling to me that Washington’s public school system isn’t much better. Our schools are chronically underfunded due to our state’s upside down tax code and I-645 will make it worse.",
+    "I’m tired of the false narrative that workers and businesses are leaving the state because of the millionaires tax. Skilled workers don’t want to leave Washington and move to Tennessee or Texas where they could face jail time and even death because they had a miscarriage. In fact, Starbucks, Oracle, and others have struggled to convince their employees to leave Washington. Over 100 Seattle Starbucks employees chose to have their job eliminated rather than move their family to a red state. Oracle moved its headquarters to Nashville and added only seven net new employees there last year. Austin is declining as a tech hub.",
+    "The Seattle metro region is the second largest tech hub in the country, but passing these initiatives would risk a tech talent flight to communities with stronger human rights protections like the Bay Area, New York City, Boston, and Northern Virginia. Political initiatives like I-645, I-001, and I-638 aren't just harmful to marginalized members of our community; they're also bad for business.",
+    "I urge my tech colleagues to say no to Brian Heywood and his attempt to distract us from the real problems caused by MAGA politicians, like exorbitant groceries, escalating rents, disappearing health care, and a reckless war that has killed innocent civilians and caused permanent destruction of business data that was supposed to have 99.999999999% (11 nines) of durability . Rejecting Heywood’s initiatives is one way we can protect all children’s rights, health, safety, educational, and economic opportunities.",
+    "Suresh Chanmugam has worked as a software engineer in Seattle since 1999 and is a steering committee member of Tech 4 Housing .",
+    "Editor's note: The Urbanist Elections Committee also endorsed a \"no\" vote on Initiatives 001, 638, and 645 ."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/JUL26-Brian-Heywood-Adjusts-Mic-by-Andrew-Villeneuve-NPI.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-sculture20261025pongopoetrywhenwillidrop",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "PONGO POETRY | when will i drop?",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://southseattleemerald.org/arts-culture/2026/10/25/pongo-poetry-when-will-i-drop",
+   "paras": [
+    "by a young person at the Echo Glen Children’s Center",
+    "do you love me or do you hate me? like a rose there is a gorgeous side and a bad side bright like the red petals but ugly like the spiky thorn",
+    "every day that my petals fall i wonder when they're all gonna drop blooming into birth of promised death",
+    "when will be my last day sitting in the sun and standing in the rain? when the sun goes away i can't sleep but when the sun comes back my growth continues growing with death on my mind",
+    "if i lost all of my petals of life would everybody look at me the same or would they step all over my roots?",
+    "by a young person at the Echo Glen Children’s Center",
+    "Like an animal in a zoo imprisoned, scared, sad, lonely too like an animal in a zoo. this is just my point of view I've got feelings too.",
+    "I miss my mom I miss my dad I'm hurting so bad",
+    "but it's ok I'm writing a poem about my lifestyle. tell me how I'm supposed to be I tried loving, healing, but you took it all away from me.",
+    "by a young person at the Echo Glen Children’s Center",
+    "I used to think freedom was being able to do, say what you wanted, and go whenever you wanted. I used to think I wouldn't be able to be free until I no longer had to press a button to use the bathroom. Ask for doors to be unlocked or finally having a choice in what food I ate. I was wrong in so many ways. I discovered freedom when I let go of the rope connected to all my anger. When I finally let go and allowed the burns to heal. I discovered freedom when I didn't allow the pain I hid to continue to drown me in silence. When I finally came up for air. I discovered freedom when I unlocked the shackles bonded by childhood trauma When I finally allowed the weight to disappear. When I finally allowed my wings to spread mentally When I allowed my mind to soar. So while I'm still physically behind these walls and confined in these buildings. I'm as free as ever. I've learned freedom is a mindset and that mindset is something that no one can ever take away. I've finally set myself free.",
+    "Pongo Poetry Project's mission is to engage youth in writing poetry to inspire healing and growth. The Echo Glen Children's Center, a juvenile institution for youth serving criminal sentences, is one of Pongo's flagship program sites in the Seattle area. Studies of incarcerated youth indicate that up to 70% suffer from a mental health disorder and that many have experienced childhood trauma. Youth at Echo Glen have endured significant mental and emotional challenges in the last two years, including increased rates of depression, anxiety, sleep issues, and behavioral challenges.",
+    "Pongo believes there is power in creative expression, and articulating one’s pain to an empathetic audience. Through this special monthly column in partnership with the South Seattle Emerald, Pongo invites readers to bear witness to the pain, resilience, and creative capacity of youth whose voices and perspectives are too often relegated to the periphery. To learn more about Pongo’s work of inspiring healing and relief among youth coping with mental and emotional turmoil, register for its upcoming event , Envisioning Voices, on Dec. 10."
+   ],
+   "img": "https://media.assettype.com/southseattleemerald/2026-10-25/fmj6r4im/Shutterstock1301996239-via-AKO-LAMBLE1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-kingalaskasenateresultsifrepublicanloses",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+   "author": "Willem Marx",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+   "paras": [
+    "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4247x2832+0+0/resize/4247x2832!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fce%2F4f%2Ff29bb039483ea9e51572e8f660d8%2Fap26294709681244.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-uelamariacorinamachadoleaderreturnsexile",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+   "author": "Carrie Kahn",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+   "paras": [
+    "Machado announced her arrival on social media, writing \"I am here. With you.\""
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8127x5418+0+0/resize/8127x5418!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2Fe3%2F62c605ef41b1a3e06cbf2c0635ef%2Fap26295737413336.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-61025gs1149563israelelectionwarnetanyahu",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Israelis have changed. Will they change their leadership?",
+   "author": "Daniel Estrin",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+   "paras": [
+    "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5007x3338+0+0/resize/5007x3338!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F69%2Ffa%2F7b23b0984f658a11dcb117c174a6%2Fgettyimages-2300594386.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rstephengrahamjonessaysitsallintheending",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+   "author": "Ryan Benk",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+   "paras": [
+    "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/432x576+0+36/resize/432x576!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F25%2Fd6%2Fe7ec61a94def81a6137061c1dee0%2Fheadshot-stephen-graham-jones-credit-to-alina-art.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-9magicmagicianssouthafricaschoolstudents",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "This College of Magic turns ordinary kids into cool magicians",
+   "author": "Julie Bourdin",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+   "paras": [
+    "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5374x3583+0+0/resize/5374x3583!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F47%2Fe2%2F9fe8cd294f2f8e01cfd1568a33db%2Fmagic-school-2-2.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-190metafacebooksettlementbeautyfiltersai",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+   "author": "Chloe Veltman",
+   "date": "2026-10-25",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+   "paras": [
+    "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4682x2748+0+0/resize/4682x2748!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2Fcd%2F89f311684aeb9a7165e09833dc99%2Fgettyimages-1303145700.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8e36kyk1qx5oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Burnham open to 'honest discussion' on EU free movement",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescq8ez592pp0eoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116f/live/8cce05e0-d096-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc623drpx31xzoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Couple were celebrating anniversary before Bahamas tragedy",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescrgj9wnpd1lvoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Carrick future under major threat - can he survive?",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Michael Carrick's future as Manchester United manager is under major threat following the home loss to Bournemouth on Sunday."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e80/live/e11e5170-d08e-11f1-92f6-357f3b0f345f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesckx2qyd17eqvoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Board of Deputies of British Jews declares Greens to be racist party",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e509/live/27badc80-d098-11f1-b7fd-31adcdf71225.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26oct25sunderlandvleedspremierleaguelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Sunderland 0-0 Leeds: Premier League – live reaction",
+   "author": "Rob Smyth",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/football/live/2026/oct/25/sunderland-v-leeds-premier-league-live",
+   "paras": [
+    "Sunderland stay bottom of the Premier League table after a hard-fought goalless draw played in horrible conditions",
+    "1 min Peep peep! Leeds, in their yellow change strip, kick off from left to right as we watch.",
+    "Prokofiev is on the tannoy at the Stadium of Light , which means the teams are about to take the field."
+   ],
+   "img": "https://i.guim.co.uk/img/media/f8a1b440b740372a42112a6ad61abcea472a74f1/325_0_3314_2652/master/3314.jpg?width=140&quality=85&auto=format&fit=max&s=1a7366eafcd22ca1d8ccde5ef1d1eba5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ct25democratscaliforniashastacountytrump",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+   "author": "Dani Anguiano in Shasta county",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+   "paras": [
+    "Shasta has embraced the Maga movement with gusto – can Democrats ever win back the rural, working-class voters they once relied upon?",
+    "A crucial election was approaching and the country was desperate. Despite promises that economic conditions were improving, nearly a quarter of the US was out of work as voters headed to the polls in 1932.",
+    "It was the darkest time since the civil war, a period so dire that in California’s capital people fought each other for work. In early 1931, a crowd of 200 men scuffled over a handful of temporary jobs moving back-breaking loads of granite, the Sacramento Bee reported."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8d482c44395d172442eaf5ae72440571139c5812/0_917_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=1caed0e7631f4f26ae3920fceb79b655",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-larrydavidsnewbiographynearlydidnthappen",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘There’s nothing interesting about me – and no interest in me’: how Larry David’s new biography nearly didn’t happen",
+   "author": "Darren Richman",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/theres-nothing-interesting-about-me-and-no-interest-in-me-how-larry-davids-new-biography-nearly-didnt-happen",
+   "paras": [
+    "He point-blank refused, begged the author not to talk to people who knew him … and eventually relented. Making the first authorised biography of the Seinfeld and Curb creator was no mean feat",
+    "Emperor of Nothing: The Making of Larry David might be the most begrudgingly authorised biography ever written. The story of how author Blake J Harris convinced the comedy titan to “tolerate” him begins, of all places, at Fox News.",
+    "It was 2020 and Harris’s second book, The History of the Future: Oculus, Facebook, and the Revolution That Swept Virtual Reality, had been published the previous year. Palmer Luckey, the Oculus founder, was “fired for being a Trump supporter” and Harris, anything but a Trump fan, simply reported the facts. Speaking on the phone from his home in Colorado, he explains: “My book ended up doing well because I was all over rightwing media, as they loved having me on. I was the liberal journalist who exposed the truth about how conservatives were treated in Silicon Valley.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/797c4c06bd1796d5769a2f6272db9c2f944acc33/219_0_2563_2051/master/2563.jpg?width=140&quality=85&auto=format&fit=max&s=4d8f14368d0182ca54836b3b9491976e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-eractive2026oct25insidetrumpsheadpodcast",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "They wallow in Trump gunk 24/7. They say it’s necessary",
+   "author": "Ed Pilkington with photographs by Dina Litovsky",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast",
+   "paras": [
+    "Joanna Coles and Michael Wolff spend most of their days thinking about the president’s follies for their podcast, Inside Trump’s Head. Someone’s gotta do it",
+    "For a couple of journalists who spend such an inordinate amount of time sloshing around the putrid inner recesses of Donald Trump’s mind, they come across as remarkably chipper.",
+    "Michael Wolff, chronicler of the 45th and 47th president, and Joanna Coles, chief creative and content officer of the Daily Beast, are just about to record the 168th episode of their runaway podcast, Inside Trump’s Head . Now in its 15th month, the thrice-weekly show is attracting an expanding audience as it digs down into Trump’s unique blend of megalomania, narcissism and insatiable lust for fame."
+   ],
+   "img": "https://i.guim.co.uk/img/media/faddd28993ee6746fd5d3a361975b6ef24eb485d/214_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=72630ecbabce106a89f7b1ca95d8f9a8",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-mentisfree2026oct25influencerslosangeles",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Influencers have taken over my city. If you can’t beat ’em, join ’em | Dave Schilling",
+   "author": "Dave Schilling",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/25/influencers-los-angeles",
+   "paras": [
+    "I can’t say I’m enjoying my new gig as a would-be creator. But these days, I don’t have much choice",
+    "I recently started posting videos on Instagram. Like, actual videos.",
+    "Reels, as they call them. Where I say things, with one of those obnoxiously tiny microphones with the fuzzy head on top. I remember when microphones were gigantic tubular monstrosities that you couldn’t accidentally swallow without a pretty substantial effort and a handful of God-given talent.",
+    "Dave Schilling is a Los Angeles-based writer and humorist"
+   ],
+   "img": "https://i.guim.co.uk/img/media/8ead1b8cfdba4581133040085d3fdf4d5cfff4a1/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=0d6d963c3e10c2d24635f785ddcfdfd4",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-orkplacesthedrughasbecomeaneverydayhabit",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit",
+   "author": "Robyn Vinter",
+   "date": "2026-10-25",
+   "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit",
+   "paras": [
+    "Previously considered a middle-class drug, price drops have made cocaine more widely available, and created a new set of problems",
+    "Cocaine-linked crimes on the rise in Britain as consumption surges",
+    "Ageing users and record deaths – the data behind Britain’s £9.8bn-a-year cocaine habit",
+    "Lisa* is watching Scissor Sisters at a festival in the Lake District, a can of cider in hand, dancing along to the music on a sunny afternoon.",
+    "The 30-year-old has a few days off from her job as a veterinary nurse in Gateshead, where she lives with her fiance. She loves going to festivals, especially as “I love meeting new people,” she says."
+   ],
+   "img": "https://i.guim.co.uk/img/media/59954386324df73a35c61fcd9c94405799dd0d14/0_774_3438_2750/master/3438.jpg?width=140&quality=85&auto=format&fit=max&s=5adf80e857689023b216950451371fe1",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-porterswhathegotwrongandstoriesthatstuck",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -169,52 +560,6 @@
     "Prosecutors added that they had declined to prosecute the other alleged co-conspirators, including Nelson."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2024/04/aws-sign-1260x894.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-ingingyourvoicesonboardforourbuscoverage",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: Bringing Your Voices On Board for Our Bus Coverage",
-   "author": "",
-   "date": "2026-10-24",
-   "url": "https://southseattleemerald.org/newsletters/2026/10/24/the-roundup-bringing-your-voices-on-board-for-our-bus-coverage",
-   "paras": [
-    "We've been talking about the potential changes to bus Route 7 for a few weeks now.",
-    "In The Roundup, we've heard from Emerald contributing reporter Jacquelyn Jimenez Romero , who's been following this story for months. Last week, we heard from King County Executive Girmay Zahilay , who supports the proposed plan to replace Route 7 with a RapidRide line.",
-    "Jacquelyn reported earlier this week that King County's Transportation, Economy, and Environment Committee could vote on the proposal at the Nov. 17 committee meeting.",
-    "After hearing about this issue from so many angles, here's my take : I'm against the transition to RapidRide. There are too many people in the community using the 7 to get to school, church, the pharmacy, the grocery store, a friend's house — this route serves more people than downtown commuters.",
-    "I understand that RapidRide routes open the door to federal funding. But the 7 is the second-most-used route in the county. That alone should lead to local government funding crucial infrastructure improvements.",
-    "I agree with Executive Zahilay that the 7 should connect to the Link. And I love that the new plan would connect the bus running along Rainier Avenue to the Rainier Beach Station. But I don't agree with sacrificing so many bus stops along Rainier to make it happen.",
-    "People in our community have been asking for upgrades to bus stops, sidewalks, and bus frequency for Route 7 for many years. What no one has asked for is fewer stops.",
-    "The South End is not a pass-through neighborhood for downtown workers. It's a community where people study, work, shop, and live . Why must we be asked to sacrifice bus stops for infrastructure improvements?",
-    "Now that we've heard from our reporter, an elected official, and myself, there's another voice that I think is important to add before the upcoming vote: yours .",
-    "A lot of y'all have reached out during this reporting, so I want to bring you into the debate.",
-    "Here are some of the responses sent to the Emerald by readers and community members.",
-    "These responses have been lightly edited for length and clarity.",
-    "\"RapidRide is great in some areas where many residents are going to jobs, Seattle Center, et al.; but that's not the case with the Rainier corridor. Since I ride the #7 all the time, I have some observations about the proposed changes:",
-    "2. Many elderly and disabled use the route.",
-    "Bottom line, one size doesn't fit all, and there's no consideration for the differences. I'm guessing Rainier Avenue riders care more about timely service and more wheelchair slots (during rainy days, the bus has to often pass up wheelchair riders because there's already two wheelchair riders on board and there's no more room to lock them in place), rather than speed in getting downtown.\"",
-    "\"It's a lifeline for people, and the infrequent stops typical of RapidRide would be really difficult for a lot of people, myself included.\"",
-    "\"I live near the 'loop' around Rainier/Seward Park Avenue that would be lopped off by the new alignment, so I was pretty disappointed to see the details of the proposed line — what good is a faster bus if you have to walk 10 to 20 minutes or transfer to use it?\"",
-    "\"Eight years ago, I moved from downtown Washington, D.C., to Spinnaker Bay condos at 9500 Rainier Ave. S. I got along fine in downtown D.C. without a car, and selected this location for its proximity to three vital sites:",
-    "1. The 7 bus stop at nearby Seward Park Market, to take me downtown, as well as several useful stops along the way.",
-    "2. Safeway supermarket, where I can easily shop for my food and other needs, including my prescriptions.",
-    "Eliminating my nearby 7 bus stop takes away my easy access to Safeway and the Rainier Beach Library. Sometimes Metro Flex is available to take me to and from the Rainier Beach light rail station, but I can't depend upon this service.",
-    "Rather than eliminating the vital #7 bus, provide more frequent #7 Prentice that brings me closer to home, especially necessary when it gets dark early. Help me and the many others south of Henderson Avenue who depend upon the 7 bus. I am now an active 81 year old with incurable cancer. I depend upon access to these vital resources.\"",
-    "\"Rainier is no place for high-speed bus service. Rainier connects to light rail at multiple locations. But Metro never wanted poor people or people of color on Metro. I was very involved in getting light rail to Rainier Valley. Metro did everything possible to locate the first light rail line anywhere but Rainier Valley.",
-    "RapidRide on Rainier is an effort to keep poor people off Metro, not an effort to improve service. Metro should be connecting people to light rail, not proposing high-speed buses that skip 50-year-old stops on narrow street right-of-ways that parallel light rail.",
-    "We MADE Metro serve Rainier Valley. Four decades later I'm shocked Metro thinks they can get away with treating Rainier Valley as a slum population to be disrespected rather than a neighborhood of citizens like any other.\"",
-    "It's election season, y'all. We know it's hard to be informed on all the races and candidates. We've got your back. Connor Nash sat down with candidates from two races to help y'all prepare to vote.",
-    "Starbucks didn't last long in Rainier Beach. But what does the coffee giant's quick exit mean for the community?",
-    "The proposed changes to Route 7 are the talk of the town. Here's an update.",
-    "When you put food scraps in the compost bin, you ever wonder where it goes? This family-owned business has the answer.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-10-24/ar2kdibx/Bringing-Your-Voices-On-Board-for-Our-Bus-Coverage.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -379,303 +724,36 @@
    "annos": null
   },
   {
-   "id": "f-npr-82ukrainestarlinkworkingafterdisruptions",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Ukraine says Starlink is back to normal after disruptions",
-   "author": "Ava Pukatch",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-   "paras": [
-    "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7961x5307+0+0/resize/7961x5307!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F09%2F79%2F14a4a3fb4f37b1a0b1432ccf6fa9%2Fap26295629655124.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-24nxs16004258perspectivethenextjamesbond",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Perspective: The next James Bond",
-   "author": "Scott Simon",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-   "paras": [
-    "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5254x3493+0+0/resize/5254x3493!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd7%2Fa0%2F7a32d87c4f46b3d5cf81ac7274e1%2Fgettyimages-651905941.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-g20261024nxs16015414shootingchurchjordan",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-   "author": "The Associated Press",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-   "paras": [
-    "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F54%2F65e65442429790eaf3f08a065edd%2Fap26296557878703.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-careadvantageopenenrollmentcancelledplan",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-   "author": "Emily Pisacreta",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-   "paras": [
-    "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8256x5504+0+0/resize/8256x5504!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F32%2F0a4ebbfe4f2dbabf8c9657e981f6%2Fgettyimages-2297178413.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-0261024nxs16012804birthratepopulationcdc",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "U.S. birth rate drops to record low, but older women are having more babies",
-   "author": "Brian Mann",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-   "paras": [
-    "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5684x3789+0+0/resize/5684x3789!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8c%2F29%2F6861f1194bd8997988121c97f379%2Fgettyimages-2206454176.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-6014811midtermelectionhistoryhousesenate",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "This decade has been missing its big-impact midterm",
-   "author": "Ron Elving",
-   "date": "2026-10-24",
-   "url": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-   "paras": [
-    "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F1a%2F2d05c4ac4f62901f6a888b8b18e2%2Fgettyimages-1076708612.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc39wz740e0nyoatmediumRSSatcampaignrss",
+   "id": "f-bbc-lesc6kg50nnj0x4oatmediumRSSatcampaignrss",
    "srcKey": "bbc",
    "cat": "national",
-   "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+   "title": "Why the charts are full of old songs - and so are your playlists",
    "author": "",
    "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
    "paras": [
-    "The Met said it passed information to the duchess but did not share it with other law enforcement agencies."
+    "The chart is full of old music and classic songs are dominating streaming services. But why?"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb37/live/1f328a50-cfa7-11f1-aadb-297fd0a130b9.jpg",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/cc5e7710-ce04-11f1-bc2e-018d645d8d21.jpg",
    "fetched": true,
    "fullText": false,
    "annos": null
   },
   {
-   "id": "f-bbc-lescmr4ydglq9r3oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+   "id": "f-kuow-0bndJN1llMUE1b3h2VVZjMW8xSjhHaFRiUWdvoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Redmond-based startup develops new robot weeder using AI technology",
    "author": "",
    "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODNTeENwZWZSNzZIOUZDZUFKOFFFN0tZMWd4cWxsdlp1WUhrb0RkSmVoV2JtMnhEYUd5VGlEYTE2UmE0UVFrMGY2R2gyVy05eEFOcEJhV0g5eERQTTJrWVJ2RGlldGtEYmpQa2w0QkUxRlJ2MlJidXl3QXo0M1VVWEJMdjQxZGpIOUhob3RncHpNcnJ0bndJN1llMUE1b3h2VVZjMW8xSjhHaFRiUWdv?oc=5",
    "paras": [
-    "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days."
+    "Redmond-based startup develops new robot weeder using AI technology KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7559/live/33cbd240-cfb2-11f1-9012-0172b9f73a72.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescwq6n09qpy90oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Between quick wins and big dreams lies Burnham's biggest test",
-   "author": "",
-   "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm86z5n0yvy6oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
-   "author": "",
-   "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqd09k1k7532oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-   "author": "",
-   "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6q8nd9g9n72oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Infantino tells BBC Sport he is backed by 'vast majority' of world football",
-   "author": "",
-   "date": "2026-10-24",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World Cup sell-off debacle."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-6oct24chelseavtottenhampremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Chelsea v Tottenham: Premier League – live",
-   "author": "Scott Murray",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
-   "paras": [
-    "⚽ Premier League updates from the 5.30pm BST kick-off ⚽ Aston Villa 2-1 Man City | Live scores | Table | Mail Scott",
-    "The teams take to the pitch. Chelsea in blue, Spurs in white, and it won’t be long before every shirt is soaking wet. Has the signature work of the Harry J All Stars ever been so apposite? We’ll be off in a couple of minutes.",
-    "Roberto De Zerbi also speaks to Sky. “James Maddison is a very important player … he brings personality, qualities, experience … a different position on the pitch … he’s a different player to Conor Gallagher or [Omar] Marmoush as a number ten … we have to find him in the right moment in the best position … [Dominic Solanke] felt fatigue after Coventry … I am lucky to have a big squad with many different solutions … so I took the decision [to rest him] but the game is 90 minutes.”"
-   ],
-   "img": "https://i.guim.co.uk/img/media/57b3f124f1643c01a8a220abe3518bbba03640d1/378_57_2816_2253/master/2816.jpg?width=140&quality=85&auto=format&fit=max&s=4e9ad7813b7e314d376f55f37fbdc514",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ginteractive2026oct24bodydonationscience",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
-   "author": "Meaghan O'Connell",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
-   "paras": [
-    "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfect",
-    "When my mother, Erin O’Connell, was diagnosed with a rare and aggressive cancer in late 2022, one of her first thoughts was: “What will I do if I can’t work?”",
-    "At the time, she was 62 years old and working as a physical therapist in Portland, Oregon, where she had recently moved to live closer to me and my family. Reluctantly, she filed for short-term disability from her job and paused her training to become a volunteer search and rescue EMT."
-   ],
-   "img": "https://i.guim.co.uk/img/media/7ded8f9847cf7dc0b75e7509d8a78433bb660379/0_437_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d659a787daf488470a8f30bdd1d0cd3d",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-e2026oct24jdvancetrumpmidtermswhitehouse",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
-   "author": "Robert Tait",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
-   "paras": [
-    "Vice-president’s visibility has risen as Trump’s popularity wanes, but path to inherit Maga throne is more complicated than it may seem",
-    "A day after JD Vance suggested Donald Trump would endorse him if he runs for president, the vice-president shifted awkwardly in the Oval Office as his boss was asked about the remark.",
-    "“He’s a very talented person, and he’s a very good person,” Trump said of the man standing behind him, with a forced smile this week. “But we’ve literally – I don’t think we’ve ever talked about,” the president claimed, leaving the assertion unconfirmed."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c644a0871c76102cddb303d63fdfe9d61cd01e79/421_0_3113_2491/master/3113.jpg?width=140&quality=85&auto=format&fit=max&s=5e6abeeaf108061366a6e4e19a15192f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-snewgolfingshowbutitsextremelyfuntobinge",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "A Course Called Ireland: Bill Murray clearly hated making his new golfing show – but it’s extremely fun to binge",
-   "author": "Rhik Samadder",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/24/a-course-called-ireland-bill-murray-clearly-hated-making-his-new-golfing-show-but-its-extremely-fun-to-binge",
-   "paras": [
-    "In his rogue new travelogue, the Hollywood star tees off, has drunken pub singalongs – but mostly just proves how tired he is of fame",
-    "I’m suspicious of travelogues, which often feature celebrities in contrived situations, serving up a sentimental postcard of a place that is tantamount to a lie. I also hate how famous people are inexorably drawn to golf: a boring game historically predicated on a rancid mix of social exclusivity and extensive land ownership. So it was perverse of me to watch a show in which author Tom Coyne drives around Ireland playing various courses with his friend, actor Bill Murray. It’s the perfect intersection of none of my interests.",
-    "I was, however, hooked by a strange promise in A Course Called Ireland’s introductory sequence. “This is not a show about golf,” it says. “It’s not even a show about Bill Murray.” This was immediately followed by a scene in which an Irish woman standing by the roadside misidentified the actor as Bill Cosby. OK, I thought. What are they teeing up here?"
-   ],
-   "img": "https://i.guim.co.uk/img/media/5f817c71b4e8d94203aa84957030a785148de3d3/574_0_3010_2410/master/3010.jpg?width=140&quality=85&auto=format&fit=max&s=078374883513d5fd38e675cfcd00d702",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-inebreedinterviewswimcaliforniacoastline",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘It was so magical’: the 33-year-old who made history swimming the length of California",
-   "author": "Lois Beckett in Los Angeles",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
-   "paras": [
-    "Ultra-endurance swimmer Catherine Breed navigated waves, wildlife and pollution to become the first person to swim from state’s northern-most tip to Mexico border",
-    "Nearly four months ago, Catherine Breed, a 33-year-old from the San Francisco Bay Area, set out to become the first person to swim the entire coastline of California – from its northern-most tip to the border with Mexico. She and her support team prepared for encounters with sharks and storms. They hadn’t anticipated completing the marathon swim during a year of historic super El Niño weather .",
-    "But after dodging hurricanes, wildlife and 8ft waves in an unusually volatile Pacific Ocean, Breed finally celebrated the end of her journey on a beach in San Diego on Monday."
-   ],
-   "img": "https://i.guim.co.uk/img/media/5bed77934c14056d07ee7a73522d12d901cbfa97/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=e1ee51b0664bf1beff9ed70d9afe3ce6",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ree2026oct24lameloballavoidingdiaperduty",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Attention LaMelo Ball: only losers boast about avoiding diaper duty | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-10-24",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/24/lamelo-ball-avoiding-diaper-duty",
-   "paras": [
-    "The basketball star seems proud to leave the job to his partner. That’s so last century",
-    "Nobody can accuse the basketball star LaMelo Ball of being bad at his job. That said, the Minnesota Timberwolves point guard doesn’t seem to be a huge fan of dribbling .",
-    "Ball has a nine-month-old son, LaOne, with his partner Ana Montana (real name: Analicia Chaves) and is apparently uninterested in dealing with all the body fluids that come with a baby."
-   ],
-   "img": "https://i.guim.co.uk/img/media/c0d4ef8d20e136382bff896ea7839202b9b3503d/349_0_3492_2794/master/3492.jpg?width=140&quality=85&auto=format&fit=max&s=7cc36a20a5b56ad4becdaf9f7d307d9c",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -781,40 +859,6 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-antronikacquirestechconsultancycloudmoyo",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Icertis veterans reunite as AI startup HumanTronik acquires tech consultancy CloudMoyo",
-   "author": "Todd Bishop",
-   "date": "2026-10-23",
-   "url": "https://www.geekwire.com/2026/icertis-veterans-reunite-as-ai-startup-humantronik-acquires-tech-consultancy-cloudmoyo/",
-   "paras": [
-    "HumanTronik, an AI startup co-founded by Icertis co-founder Monish Darda, has acquired CloudMoyo , the Bellevue tech services firm that Darda helped spin out of Icertis in 2015.",
-    "The deal keeps two of CloudMoyo’s co-founders in charge: Darda, who co-founded its new parent company, and Manish Kedia, who continues to run CloudMoyo day to day. The family of the late Samir Bodas , CloudMoyo’s other co-founder and the longtime CEO of Icertis, sold its stake in CloudMoyo as part of the transaction, Kedia said.",
-    "Darda co-founded HumanTronik earlier this year with Singapore-based investor and early Icertis backer Kabir Narang. The company is developing what it calls “human language models,” its phrase for AI that learns how specific executives make decisions and work with others. Those models power AI agents inside Microsoft Outlook, Teams and other workplace software.",
-    "Financial terms of the deal weren’t disclosed. CloudMoyo, as part of HumanTronik, will keep its name and existing customer contracts, and will sell and implement HumanTronik’s technology in addition to its existing lines of business.",
-    "The business model: Kedia calls the approach “Service as Software.” Customers pay for software, he said, with ongoing support from CloudMoyo built into the subscription. Pricing is shifting from per-user fees toward fees based on results.",
-    "It’s part of a broader blurring of the lines between software and services across the industry, including the rise of forward-deployed engineers who work inside customers’ businesses to put AI to use.",
-    "CloudMoyo has more than 300 consultants. Over the past two years, its work has expanded from mostly implementing Icertis contract software to building AI tools on Microsoft’s Fabric data platform, for customers including Seattle-based Expeditors and Mexican railroad Ferromex. That AI business is growing at about 100%, outpacing the company’s more traditional work, Kedia said.",
-    "Kedia gave the example of a procurement director trying to cut spending by two points this year. HumanTronik’s agents would draw on conversations with suppliers and internal discussions, along with the company’s business data, to help the director and their team reach that goal.",
-    "How the deal came together: The acquisition moved quickly, Kedia said. He and Darda met in the Bay Area three to four months ago to talk about CloudMoyo’s AI work, and Darda showed him what HumanTronik was building. Negotiations took about two months.",
-    "Because Darda was a major shareholder in both companies and on the CloudMoyo board, he was not directly involved in the negotiations, according to Kedia, who noted that each side had its own legal counsel.",
-    "The founders have known one another for years, which made the talks easier, Kedia said. “We are staying within the families,” he said.",
-    "The Icertis connection: Darda co-founded Icertis with Bodas in 2009 and served as its CTO for about 17 years before stepping back in April to start HumanTronik. His title at Icertis is now chief mentor.",
-    "Kedia, who at one point led business development for Microsoft’s SQL Server database software, was president of Icertis for several months before leading the CloudMoyo spinout in 2015.",
-    "Icertis has no financial stake in HumanTronik or CloudMoyo, Kedia said, though the companies continue to work together. Icertis has been led by interim co-CEOs Rajat Bahri and Jim Moffatt since Anand Subbaraman departed in July, less than a year after succeeding Bodas. Bloomberg reported in February that Icertis was working with Goldman Sachs to explore a potential sale.",
-    "Narang led Icertis’s Series A funding round in 2015 while at Fidelity’s venture arm, Eight Roads, and later became a founding partner at B Capital.",
-    "Headquarters and headcount: HumanTronik is headquartered in San Francisco, where it plans to open an engineering center. Darda is based in Pune, India, where CloudMoyo has an engineering center, and HumanTronik is setting up a subsidiary in Singapore.",
-    "Nearly all of CloudMoyo’s employees are becoming HumanTronik employees, joining a few HumanTronik engineering leaders in the Bay Area, Kedia said. The combined company has about 20 people in the Seattle area, where CloudMoyo has had an office in Bellevue for the past decade. Kedia, who lives in the region, said the company plans to hire engineering, product and sales staff here.",
-    "That’s up from about 15 in 2016, when GeekWire last wrote about CloudMoyo . At the time, most of its roughly 200 employees were in Pune.",
-    "The name CloudMoyo came from a word the founders picked up while traveling: “moyo” means heart or spirit in Swahili. After the HumanTronik deal, Kedia said, the company’s new motto is “human with a heart.”"
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/humantronik-founders-composite.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-idayroundtablevoteyesonprop1formorebuses",
    "srcKey": "stb",
    "cat": "transit",
@@ -828,6 +872,39 @@
     "The Route 36 success story is not an isolated one. Passengers on routes around Seatttle have benefited from additional service funded by the Seattle Transit Measure. Vote Yes to continue and expand the additional bus trips. Fill out your ballot soon and drop it off at one of the many ballot drop boxes in King County."
    ],
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_4891.jpg?resize=525%2C394&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-tstillunderfireasdesigngetsrevisedtaller",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Downtown Highrise Project Still Under Fire as Design Gets Revised Taller",
+   "author": "Ryan Packer",
+   "date": "2026-10-23",
+   "url": "https://www.theurbanist.org/downtown-highrise-project-still-under-fire-as-design-gets-revised-taller/",
+   "paras": [
+    "The property owners behind a potential cross-laminated timber highrise project in Downtown Seattle aren't shirking away in response to considerable pushback against their project – they're going taller. Plans shown this week to the Seattle Landmarks Board would still add a residential tower above a retrofitted Doyle Building at 2nd Avenue and Pine Street, but include six more floors than a proposal initially floated last year .",
+    "That change is only likely to intensify opposition to the project, with preservation advocates wary of seeing significant changes to the landmarked 1920 structure joining forces with nearby condo owners not happy about seeing a new tower creep up next door. If built, the new structure would extend 23 stories up alongside its neighbor, the 39-story 1521 2nd Avenue building.",
+    "Fana Group, which owns the Doyle Building, has enlisted a team that calls itself Buildings Reimagined – made up of the design firm Clark/Barnes and general contractor BN Builders – to rethink the future of the four-story structure. The Doyle would be converted into a concrete structure capable of supporting a mass-timber tower above, retaining only the north and east facades. A one-story gasket level would accommodate the transition to 18 stories above.",
+    "Thanks to a 2025 change in state law , Washington cities can no longer require facade modulation or upper level setbacks with mass-timber developments projects or redevelopments that convert commercial space into residential. That means Seattle's existing tower spacing rules do not apply here, with an average distance to the 1521 2nd Avenue building of just under 21 feet. It also means that there are no variances being proposed by Clark/Barnes that could add additional red tape, with the landmarks approval process one of the only remaining barriers standing in the way of potential approval.",
+    "\"By combining the preservation, the sustainable materials, innovative design, and construction talent, we're going to be able to add more housing downtown,\" W. Scott Clark of Clark/Barnes told the landmarks board Wednesday. \"This is why we created Buildings Reimagined, to help distressed properties that are really challenged and also difficult to entitle, to demonstrate that preservation and financially viable development are not mutually exclusive, and that that they can benefit one another.\"",
+    "Historic preservation advocates apparently disagree. A group called \"Save the Historic Doyle Landmark\" has already sprouted up to oppose the project as presented, and the advocacy non-profit Historic Seattle sent out an action alert in advance of this week's meeting.",
+    "\"While not a large or tall structure, the Doyle building has stood out through the decades as downtown has evolved, bearing witness to and surviving the boom-and-bust nature of this city. This human-scale, right-size, mixed-use building stands today due to its original high quality of design, construction, materials, condition, and integrity,\" Historic Seattle's email stated. \"The proposal is to demolish most of the building, leaving only two facades standing, and erecting 23-stories of new residential construction behind the two facades. Let’s be clear. This is NOT an addition to a landmark. This is NOT adaptive reuse. This is NOT historic preservation. This IS facadism. If approved, this would be a demolition of most of the landmark.\"",
+    "But Clark pushed back on claims that they would be demolishing the Doyle this week, framing that as misinformation.",
+    "\"We are not demolishing the building. We are keeping the two historic featured elevations on the two streets. [...] We are demolishing the alley facade and the roof, and we are going in and we're completely restructuring the interior of this building,\" Clark said. \"Whether you're doing a one-story addition or a taller addition, you would need to reinforce the building to meet seismic. But given the loads that we're going to be subject to, we are going in and we're completely restructuring the internal of the building with a concrete structure.\"",
+    "One point of contention at the Landmarks Board is likely to be the massing of the upper story additions, which are only set back from the Doyle Building's cornices by about three-and-a-half feet. Multiple board members expressed concerns about this, especially as it relates to criteria set by the U.S. Secretary of the Interior on rehabilitation of historic structures. Criteria #9 states that new additions \"will be differentiated from the old and will be compatible with the historic materials, features, size, scale and proportion, and massing\" compared to the existing structure.\"",
+    "\"What I've heard is that this has been scaled and designed to work with economics and making finances work. So as it stands, I have a lot of trouble supporting the project moving forward based on criteria number nine, and seeing that none of that has been applied to this project,\" board member Matthew Zinski said, referencing the gasket floor intended to be a break between the two segments of building. \"Landmarks Board member Matthew Zinski said. \"I struggle to see the design logic or what's being used there to help differentiate what's going on between the new addition and the existing building.\"",
+    "Clark defended the choice to extend the addition as far out as it's proposed, noting the limitations that are inherent on the site.",
+    "\"I do have to say that we were dealing with the reality of a small [floor]plate. It's 8,900 square feet, and secondly, we had to deal with the condition of an eccentric core location, just given the overall dimensions and depths of the plate,\" Clark said. \"We wanted to ensure that our unit layouts had the depth necessary to make comfortable living units, and so all of those things, all those very practical things, in conjunction with the vertical load path that we're trying to run through the building, in coordination with the structure, the existing structure of the landmark building really started to describe the overall mass and form of the building.\"",
+    "Board member Dan Sloat echoed concerns around the addition being too bulky.",
+    "\"I really appreciate your discussion about the attempt to keep the the new tower structure visually quiet to create that contrast, and I think for me, the kind of equal proportioning of two parts fights against that a little bit,\" Sloat told Clark. \"I'm having a hard time reading the visual quietness of the superstructure because it is so dimensionally similar to the structure below.\"",
+    "Wednesday's briefing, coming more than a year after the firm's first discussion with the Landmarks Board, still represents the early stages of the project. But the design team is heading toward applying for a Master Use Permit with the city, and is advancing forward. In the months ahead it will become clear just how much of an uphill battle getting final approval of the Landmarks Board will be.",
+    "But Clark clearly sees the project as a major benefit to downtown Seattle as a whole.",
+    "\"[The Doyle building] really is at a crossroads, and we think what we're proposing is a very strong, responsible, and reasonable approach to revitalize the building and provide the needed housing downtown,\" Clark said."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/20261021_150835.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -901,59 +978,6 @@
     "The council will review the proposals during budget briefings starting October 27th, with a public hearing on the 2027-2028 budget scheduled for November 5th."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-tstillunderfireasdesigngetsrevisedtaller",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Downtown Highrise Project Still Under Fire as Design Gets Revised Taller",
-   "author": "Ryan Packer",
-   "date": "2026-10-23",
-   "url": "https://www.theurbanist.org/downtown-highrise-project-still-under-fire-as-design-gets-revised-taller/",
-   "paras": [
-    "The property owners behind a potential cross-laminated timber highrise project in Downtown Seattle aren't shirking away in response to considerable pushback against their project – they're going taller. Plans shown this week to the Seattle Landmarks Board would still add a residential tower above a retrofitted Doyle Building at 2nd Avenue and Pine Street, but include six more floors than a proposal initially floated last year .",
-    "That change is only likely to intensify opposition to the project, with preservation advocates wary of seeing significant changes to the landmarked 1920 structure joining forces with nearby condo owners not happy about seeing a new tower creep up next door. If built, the new structure would extend 23 stories up alongside its neighbor, the 39-story 1521 2nd Avenue building.",
-    "Fana Group, which owns the Doyle Building, has enlisted a team that calls itself Buildings Reimagined – made up of the design firm Clark/Barnes and general contractor BN Builders – to rethink the future of the four-story structure. The Doyle would be converted into a concrete structure capable of supporting a mass-timber tower above, retaining only the north and east facades. A one-story gasket level would accommodate the transition to 18 stories above.",
-    "Thanks to a 2025 change in state law , Washington cities can no longer require facade modulation or upper level setbacks with mass-timber developments projects or redevelopments that convert commercial space into residential. That means Seattle's existing tower spacing rules do not apply here, with an average distance to the 1521 2nd Avenue building of just under 21 feet. It also means that there are no variances being proposed by Clark/Barnes that could add additional red tape, with the landmarks approval process one of the only remaining barriers standing in the way of potential approval.",
-    "\"By combining the preservation, the sustainable materials, innovative design, and construction talent, we're going to be able to add more housing downtown,\" W. Scott Clark of Clark/Barnes told the landmarks board Wednesday. \"This is why we created Buildings Reimagined, to help distressed properties that are really challenged and also difficult to entitle, to demonstrate that preservation and financially viable development are not mutually exclusive, and that that they can benefit one another.\"",
-    "Historic preservation advocates apparently disagree. A group called \"Save the Historic Doyle Landmark\" has already sprouted up to oppose the project as presented, and the advocacy non-profit Historic Seattle sent out an action alert in advance of this week's meeting.",
-    "\"While not a large or tall structure, the Doyle building has stood out through the decades as downtown has evolved, bearing witness to and surviving the boom-and-bust nature of this city. This human-scale, right-size, mixed-use building stands today due to its original high quality of design, construction, materials, condition, and integrity,\" Historic Seattle's email stated. \"The proposal is to demolish most of the building, leaving only two facades standing, and erecting 23-stories of new residential construction behind the two facades. Let’s be clear. This is NOT an addition to a landmark. This is NOT adaptive reuse. This is NOT historic preservation. This IS facadism. If approved, this would be a demolition of most of the landmark.\"",
-    "But Clark pushed back on claims that they would be demolishing the Doyle this week, framing that as misinformation.",
-    "\"We are not demolishing the building. We are keeping the two historic featured elevations on the two streets. [...] We are demolishing the alley facade and the roof, and we are going in and we're completely restructuring the interior of this building,\" Clark said. \"Whether you're doing a one-story addition or a taller addition, you would need to reinforce the building to meet seismic. But given the loads that we're going to be subject to, we are going in and we're completely restructuring the internal of the building with a concrete structure.\"",
-    "One point of contention at the Landmarks Board is likely to be the massing of the upper story additions, which are only set back from the Doyle Building's cornices by about three-and-a-half feet. Multiple board members expressed concerns about this, especially as it relates to criteria set by the U.S. Secretary of the Interior on rehabilitation of historic structures. Criteria #9 states that new additions \"will be differentiated from the old and will be compatible with the historic materials, features, size, scale and proportion, and massing\" compared to the existing structure.\"",
-    "\"What I've heard is that this has been scaled and designed to work with economics and making finances work. So as it stands, I have a lot of trouble supporting the project moving forward based on criteria number nine, and seeing that none of that has been applied to this project,\" board member Matthew Zinski said, referencing the gasket floor intended to be a break between the two segments of building. \"Landmarks Board member Matthew Zinski said. \"I struggle to see the design logic or what's being used there to help differentiate what's going on between the new addition and the existing building.\"",
-    "Clark defended the choice to extend the addition as far out as it's proposed, noting the limitations that are inherent on the site.",
-    "\"I do have to say that we were dealing with the reality of a small [floor]plate. It's 8,900 square feet, and secondly, we had to deal with the condition of an eccentric core location, just given the overall dimensions and depths of the plate,\" Clark said. \"We wanted to ensure that our unit layouts had the depth necessary to make comfortable living units, and so all of those things, all those very practical things, in conjunction with the vertical load path that we're trying to run through the building, in coordination with the structure, the existing structure of the landmark building really started to describe the overall mass and form of the building.\"",
-    "Board member Dan Sloat echoed concerns around the addition being too bulky.",
-    "\"I really appreciate your discussion about the attempt to keep the the new tower structure visually quiet to create that contrast, and I think for me, the kind of equal proportioning of two parts fights against that a little bit,\" Sloat told Clark. \"I'm having a hard time reading the visual quietness of the superstructure because it is so dimensionally similar to the structure below.\"",
-    "Wednesday's briefing, coming more than a year after the firm's first discussion with the Landmarks Board, still represents the early stages of the project. But the design team is heading toward applying for a Master Use Permit with the city, and is advancing forward. In the months ahead it will become clear just how much of an uphill battle getting final approval of the Landmarks Board will be.",
-    "But Clark clearly sees the project as a major benefit to downtown Seattle as a whole.",
-    "\"[The Doyle building] really is at a crossroads, and we think what we're proposing is a very strong, responsible, and reasonable approach to revitalize the building and provide the needed housing downtown,\" Clark said."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/20261021_150835.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-ttleeatercommapsbestrestaurantsseattle38",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "The 38 Best Restaurants in Seattle",
-   "author": "<name>Sophie Grossman</name>",
-   "date": "2026-10-23",
-   "url": "https://seattle.eater.com/maps/best-restaurants-seattle-38",
-   "paras": [
-    "“Where should I eat in Seattle?” Whether you’re a first-time visitor or a lifer, that question is seemingly simple but the answers are infinitely complex. Some of the main factors to consider are the type of food, price point, neighborhood, and occasion. That’s why Eater’s map of the 38 best restaurants in Seattle exists. This curated list of suggestions attempts to capture the diversity of the food scene in the Seattle metro area, from English pubs serving cumin-y lamb neck meat pies to Indian street food takeout spots, from classic French bistros to modern sushi bars, and so much more. Every place on the list has been open for at least six months, proving its merit.",
-    "Like many menus, this map updates every quarter — removal from the Eater 38 doesn’t mean a restaurant isn’t still awesome and won’t return in the future. New to the map as of October 2026: tamale and specialty coffee haven Cafetal Quilombo Cafe, Thai dumpling hotspot E-Jae Pak Mor, and Dim Sum King, which reigns supreme in counter-service dim sum.",
-    "A note on pricing: $ means entrees are mostly under $15; $$ means entrees are mostly under $25; $$$ means entrees are priced under $35; and $$$$ means entrees are more expensive than that, or it is primarily a tasting menu restaurant. (Prices are always subject to change.)",
-    "If your favorite isn’t on here, email seattle@eater.com . For the newest places that food obsessives are flocking to, check out the Eater Seattle Heatmap . Download the Eater app to discover your next favorite Seattle restaurant, create your own maps, and trade notes with fellow diners.",
-    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/10/Cafetal-Quilombo.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1059,20 +1083,23 @@
    "annos": null
   },
   {
-   "id": "f-kuow-3dDNIWFA0MmVnQV9mcWlKeVk4bFpUd0JlNTFNoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "As mayor considers signing RV restrictions, people living in RVs consider their futures",
-   "author": "",
+   "id": "f-eater-ttleeatercommapsbestrestaurantsseattle38",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "The 38 Best Restaurants in Seattle",
+   "author": "<name>Sophie Grossman</name>",
    "date": "2026-10-23",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHZ0ZHk0R1RmRWN2SG5ORzZ0TGZ1M0xiOElvUkZ5QmRTc0w5bEZfUzByWHlmOVBsd2FQZnhTRU9sNVNibWtmQ19FQjNHVi1oelZIeTRKQnQ3bTdJMTFxV3YxblVuY01ZV0ZMNDZjVjRXbEs5M004Vl90LVE5QkhCclM1OHQ1SUhDZkpab3l3VFlwWmI5YlRDNGROZjZkUEpneENpVkoxbFlXTVc3dDNIWFA0MmVnQV9mcWlKeVk4bFpUd0JlNTFN?oc=5",
+   "url": "https://seattle.eater.com/maps/best-restaurants-seattle-38",
    "paras": [
-    "As mayor considers signing RV restrictions, people living in RVs consider their futures KUOW"
+    "“Where should I eat in Seattle?” Whether you’re a first-time visitor or a lifer, that question is seemingly simple but the answers are infinitely complex. Some of the main factors to consider are the type of food, price point, neighborhood, and occasion. That’s why Eater’s map of the 38 best restaurants in Seattle exists. This curated list of suggestions attempts to capture the diversity of the food scene in the Seattle metro area, from English pubs serving cumin-y lamb neck meat pies to Indian street food takeout spots, from classic French bistros to modern sushi bars, and so much more. Every place on the list has been open for at least six months, proving its merit.",
+    "Like many menus, this map updates every quarter — removal from the Eater 38 doesn’t mean a restaurant isn’t still awesome and won’t return in the future. New to the map as of October 2026: tamale and specialty coffee haven Cafetal Quilombo Cafe, Thai dumpling hotspot E-Jae Pak Mor, and Dim Sum King, which reigns supreme in counter-service dim sum.",
+    "A note on pricing: $ means entrees are mostly under $15; $$ means entrees are mostly under $25; $$$ means entrees are priced under $35; and $$$$ means entrees are more expensive than that, or it is primarily a tasting menu restaurant. (Prices are always subject to change.)",
+    "If your favorite isn’t on here, email seattle@eater.com . For the newest places that food obsessives are flocking to, check out the Eater Seattle Heatmap . Download the Eater app to discover your next favorite Seattle restaurant, create your own maps, and trade notes with fellow diners.",
+    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
    ],
-   "img": "",
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/10/Cafetal-Quilombo.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
-   "fullText": false,
-   "gnews": true,
+   "fullText": true,
    "annos": null
   },
   {
@@ -1144,7 +1171,7 @@
     "Also, we counted deceased persons based on how many relatives they have in the living population. For example, if a deceased 60-year-old man is survived by a spouse, an adult child, a grandchild and a sibling, we count him in the deceased relative population four times, reflecting his being remembered by four living individuals. As such, the deceased relative population we quantified is really a count of how many direct relative ties remain to those who are dead.",
     "And finally, we classified deceased relatives according to their age at death. We believe this represents the age many people will most clearly remember their deceased loved ones. Of course, we categorize the living population by their current age.",
     "Our results included several key findings.",
-    "First, the deceased relative population is large. Our model estimated that the living Black and white populat,ion representing about 217 million people , had 755 million ties to deceased close relatives . That’s a population more than three times the size of the living population. For every under-15-year-old out trick-or-treating on Halloween, there are about 21 deceased relatives remembered.",
+    "First, the deceased relative population is large. Our model estimated that the living Black and white population representing about 217 million people , had 755 million ties to deceased close relatives . That’s a population more than three times the size of the living population. For every under-15-year-old out trick-or-treating on Halloween, there are about 21 deceased relatives remembered.",
     "Second, our model shows that, on average, the deceased relatives died 25 years ago. That the average deceased relative has been remembered for a quarter of a century makes it clear that loved ones are often suspended in memory for years, even decades, after their deaths.",
     "Third, over half of the deceased relative population was born more than 100 years ago – even before the term “trick-or-treating” took hold in the U.S . Around 10% of the deceased relatives were born before 1900, with 140,000 of them born before the Civil War – these are the remembered grandparents of today’s oldest individuals. These results speak to how generations of the seemingly long ago past still have a direct tie to the living.",
     "The Halloween season reminds us of ghosts, spirits and ancestors. Whatever their beliefs, many Americans also carry relationships with people who are no longer alive: grandparents whose recipes they still make, parents whose advice they still hear, spouses whose absence shapes their days.",
@@ -1327,6 +1354,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-3dDNIWFA0MmVnQV9mcWlKeVk4bFpUd0JlNTFNoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "As mayor considers signing RV restrictions, people living in RVs consider their futures",
+   "author": "",
+   "date": "2026-10-23",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUHZ0ZHk0R1RmRWN2SG5ORzZ0TGZ1M0xiOElvUkZ5QmRTc0w5bEZfUzByWHlmOVBsd2FQZnhTRU9sNVNibWtmQ19FQjNHVi1oelZIeTRKQnQ3bTdJMTFxV3YxblVuY01ZV0ZMNDZjVjRXbEs5M004Vl90LVE5QkhCclM1OHQ1SUhDZkpab3l3VFlwWmI5YlRDNGROZjZkUEpneENpVkoxbFlXTVc3dDNIWFA0MmVnQV9mcWlKeVk4bFpUd0JlNTFN?oc=5",
+   "paras": [
+    "As mayor considers signing RV restrictions, people living in RVs consider their futures KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-22route545doesntsaveasmuchtimeasyouthink",
    "srcKey": "stb",
    "cat": "transit",
@@ -1376,73 +1420,6 @@
     "Dan Strauss reaffirmed to the audience that failure is not an option."
    ],
    "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-pitolhillclubviceseattlehasdaytimeenergy",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "New ownership taking over Capitol Hill club Vice Seattle has daytime energy",
-   "author": "Justin Carder",
-   "date": "2026-10-22",
-   "url": "https://www.capitolhillseattle.com/2026/10/new-ownership-taking-over-capitol-hill-club-vice-seattle-has-daytime-energy/",
-   "paras": [
-    "A Capitol Hill dance club that joined the scene with a red carpet launch two years ago is undergoing a change in ownership.",
-    "State records show that new owners have filed to assume operations at Vice Seattle , the music and dance venue that opened beneath the Melrose Market in the summer of 2024.",
-    "According to the paperwork, the group includes Jack Cheung , owner of Fremont sports bar fixture LTD Bar and Grill, investor Jesse Perbix , and Andrea Wolfe , the operator behind the Brunch SZN daytime party series.",
-    "SZN has already put the Vice venue to use during weekend daytime hours to host ticketed brunch parties and DJ sets, drawing daytime crowds with bottle service, dining, and the space’s full audio and LED wall production.",
-    "The change will move Vice out from under its founders and the ownership behind the Forum Social House , an activities and club space in Bellevue’s Lincoln Square mall.",
-    "CHS reported here in August 2024 on the launch of Vice by Seattle nightlife veteran Guy Godefroy and Noah Garoutte , the managing partner at Forum Social Group.",
-    "“We’ve built a nightlife environment that is intentional and by design, so we can put on a really good show,” Godefroy told CHS back then about the club they built in the basement level of Melrose Market.",
-    "Vice Seattle celebrated its two-year anniversary this summer with a set by DJ Miles Medina .",
-    "The club was part of a new wave of activity around the Melrose Market development after the market’s 2019 purchase by Regency Centers , the same real estate investment trust that owns the Broadway Market shopping center.",
-    "Vice opened as part of a new generation of club activity on the Hill. Massive debuted in the old R Place building to end 2023 as part of a new wave of nightlife investments around the neighborhood including the opening of Cultura on E Pike and new ownership at Neighbours .",
-    "The new partnership behind Vice Seattle is bringing new names to Capitol Hill nightlife. Cheung adds veteran operational footing through LTD Bar and Grill, an established sports bar and Fremont nightlife fixture on N 36th, while Wolfe’s SZN is already active in the neighborhood’s growing daytime party scene.",
-    "Department of Revenue records show the updated nightclub endorsement at the address is currently pending. Neither Vice’s founders nor the incoming principals have announced the deal and neither has responded to our questions about the change. The club remains open — and partying — in the meantime.",
-    "Vice is located at 1532 Minor Ave. Learn more at viceseattle.com ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-bouncersremaintheultimateclubgatekeepers",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Despite ID scanners and tech, Capitol Hill bouncers remain the ultimate club gatekeepers",
-   "author": "CHS",
-   "date": "2026-10-22",
-   "url": "https://www.capitolhillseattle.com/2026/10/despite-id-scanners-and-tech-capitol-hill-bouncers-remain-the-ultimate-club-gatekeepers/",
-   "paras": [
-    "By Brenna Gauchat For teenagers ordering fake IDs online, a plausible back story and a barcode that scans are usually the main selling points. On busy weekend nights along E Pike, underage revelers put those IDs to the test.",
-    "Meanwhile, club lines can run deep at venues where the ID check doesn’t get a technological boost.",
-    "Many popular Capitol Hill clubs and bars have held off on adopting electronic ID scanners. At most neighborhood venues, seasoned bouncers relying on traditional visual checks remain the ultimate authority on who gets in.",
-    "“We don’t use them because we have people who are competent enough and trained to not have to use them,” a manager for one prominent Pike/Pine nightlife venue told CHS.",
-    "Electronic ID scanners are devices that read barcodes on driver’s licenses or passports to confirm a guest is 21 or older. Designed to speed up entry lines outside high-volume venues, advanced models can also save visitor profiles, log entry frequency, scan photo IDs, manage capacity limits, and maintain internal ban or VIP lists. Commercial hardware typically ranges in price from $700 to $1,100.",
-    "Michael Hallman , security manager at Comet Tavern, Lost Lake Cafe, and Big Mario’s Pizza at Pike and 10th Ave, said Comet staff have used electronic ID scanners for nearly a year.",
-    "Hallman noted the main benefit of the handheld device is straightforward: “It’s faster, plain and simple.”",
-    "When Comet’s line wraps around the corner onto Lost Lake’s patio on a Saturday night, Hallman values speed to handle the volume. Even so, staff double-check the device’s accuracy.",
-    "Because many bouncers on Capitol Hill are extensively trained to catch fake IDs, the trade-off between speed and accuracy seems fair to Hallman. “I like the old school, just looking at [the ID]. But this is quick, especially because we get busy.”",
-    "Nick Paul , a bouncer at Unicorn with over seven years of experience, said training and blacklight flashlights remain a bouncer’s most reliable tools, particularly because many modern fake IDs easily pass electronic scans.",
-    "Local security personnel agree that checking under UV light for hidden logos, asking quick questions, inspecting card weight and texture, and cross-checking visual features against ID details remain the best defense against counterfeit or expired cards.",
-    "For other venues, the hesitation is about tone and hospitality. Hula Hula general manager Joe Zara believes electronic scanners feel unwelcoming at his tiki-themed karaoke bar on lower E Olive Way.",
-    "Zara wants guests to feel welcomed at the entrance, noting that digital scanners can create an intimidating atmosphere. At Hula Hula, bouncers check IDs, inspect bags, and direct patrons straight to the lounge.",
-    "For the neighborhood’s queer venues and gay bars, ID scanning technology carries even greater friction.",
-    "While there is no formal neighborhood-wide audit of door policies across Capitol Hill’s LGBTQ+ bars, door practices indicate that operators generally avoid electronic ID verification systems. Instead, venues rely on traditional visual checks, ultraviolet light, and tactile inspection by bouncers.",
-    "That reluctance reflects concerns that have triggered pushback in queer nightlife hubs across the country. Automated scanners read raw, unencrypted barcode data on state IDs, which risks exposing the deadnames and legal gender markers of transgender and nonbinary patrons. Commercial platforms like Patronscan can retain data and power cross-venue ban lists, stoking community surveillance fears. For spaces historically rooted in sanctuary, privacy, and discretion, maintaining an electronic database of who walks through the door presents operational and community risks most queer operators avoid.",
-    "While area bars and clubs take varied approaches, cannabis dispensaries like The Reef or Uncle Ike’s on E Olive Way scan IDs at entry and again at the register.",
-    "The Washington State Liquor and Cannabis Board strictly audits all sales. Dispensaries and distributors rely on seed-to-sale tracking systems to monitor every plant and transaction. This system maintains an audit trail and ensures sales comply with state limits, such as restricting customers to one ounce of usable marijuana per transaction. Dispensaries face harsh penalties for violations, including potential license revocation or criminal charges. At The Reef and Uncle Ike’s, a second check at the register also connects purchases to customer profiles for loyalty rewards and order histories.",
-    "Outside of cannabis retail, Washington has no specific law limiting how private businesses collect, store, or retain data scanned from driver’s licenses. Unlike states like California and Oregon, which restrict scanning strictly to age verification and mandate quick deletion, Washington leaves retention policies entirely to individual business discretion and vendor defaults.",
-    "Electronic scanners extract unencrypted barcode data including full names, dates of birth, and home addresses, which venues can use for ban lists or loyalty tracking. However, scanners provide zero legal protection. Under Washington State Liquor and Cannabis Board rules, scanning a counterfeit ID does not grant an establishment an affirmative defense if a minor is served.",
-    "Venues that choose to store customer records remain subject to Washington’s standard consumer protection and data breach notification laws. If unencrypted patron data is compromised, businesses face mandatory state reporting and full legal liability.",
-    "The risk is not theoretical. IDscan , a prominent verification vendor, reported a major data breach in September involving over 150 million North American driver’s license records.",
-    "With each Capitol Hill venue setting its own door rules, privacy protections vary widely from one entrance to the next.",
-    "“Only about one in 500 people express concern about privacy, but the scanner only displays age verification—it doesn’t store personal info,” Hallman said of Comet’s handheld setup."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/IDcheck2026-4.jpg?resize=584%2C389&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1598,6 +1575,73 @@
    "annos": null
   },
   {
+   "id": "f-chs-pitolhillclubviceseattlehasdaytimeenergy",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "New ownership taking over Capitol Hill club Vice Seattle has daytime energy",
+   "author": "Justin Carder",
+   "date": "2026-10-22",
+   "url": "https://www.capitolhillseattle.com/2026/10/new-ownership-taking-over-capitol-hill-club-vice-seattle-has-daytime-energy/",
+   "paras": [
+    "A Capitol Hill dance club that joined the scene with a red carpet launch two years ago is undergoing a change in ownership.",
+    "State records show that new owners have filed to assume operations at Vice Seattle , the music and dance venue that opened beneath the Melrose Market in the summer of 2024.",
+    "According to the paperwork, the group includes Jack Cheung , owner of Fremont sports bar fixture LTD Bar and Grill, investor Jesse Perbix , and Andrea Wolfe , the operator behind the Brunch SZN daytime party series.",
+    "SZN has already put the Vice venue to use during weekend daytime hours to host ticketed brunch parties and DJ sets, drawing daytime crowds with bottle service, dining, and the space’s full audio and LED wall production.",
+    "The change will move Vice out from under its founders and the ownership behind the Forum Social House , an activities and club space in Bellevue’s Lincoln Square mall.",
+    "CHS reported here in August 2024 on the launch of Vice by Seattle nightlife veteran Guy Godefroy and Noah Garoutte , the managing partner at Forum Social Group.",
+    "“We’ve built a nightlife environment that is intentional and by design, so we can put on a really good show,” Godefroy told CHS back then about the club they built in the basement level of Melrose Market.",
+    "Vice Seattle celebrated its two-year anniversary this summer with a set by DJ Miles Medina .",
+    "The club was part of a new wave of activity around the Melrose Market development after the market’s 2019 purchase by Regency Centers , the same real estate investment trust that owns the Broadway Market shopping center.",
+    "Vice opened as part of a new generation of club activity on the Hill. Massive debuted in the old R Place building to end 2023 as part of a new wave of nightlife investments around the neighborhood including the opening of Cultura on E Pike and new ownership at Neighbours .",
+    "The new partnership behind Vice Seattle is bringing new names to Capitol Hill nightlife. Cheung adds veteran operational footing through LTD Bar and Grill, an established sports bar and Fremont nightlife fixture on N 36th, while Wolfe’s SZN is already active in the neighborhood’s growing daytime party scene.",
+    "Department of Revenue records show the updated nightclub endorsement at the address is currently pending. Neither Vice’s founders nor the incoming principals have announced the deal and neither has responded to our questions about the change. The club remains open — and partying — in the meantime.",
+    "Vice is located at 1532 Minor Ave. Learn more at viceseattle.com ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-bouncersremaintheultimateclubgatekeepers",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Despite ID scanners and tech, Capitol Hill bouncers remain the ultimate club gatekeepers",
+   "author": "CHS",
+   "date": "2026-10-22",
+   "url": "https://www.capitolhillseattle.com/2026/10/despite-id-scanners-and-tech-capitol-hill-bouncers-remain-the-ultimate-club-gatekeepers/",
+   "paras": [
+    "By Brenna Gauchat For teenagers ordering fake IDs online, a plausible back story and a barcode that scans are usually the main selling points. On busy weekend nights along E Pike, underage revelers put those IDs to the test.",
+    "Meanwhile, club lines can run deep at venues where the ID check doesn’t get a technological boost.",
+    "Many popular Capitol Hill clubs and bars have held off on adopting electronic ID scanners. At most neighborhood venues, seasoned bouncers relying on traditional visual checks remain the ultimate authority on who gets in.",
+    "“We don’t use them because we have people who are competent enough and trained to not have to use them,” a manager for one prominent Pike/Pine nightlife venue told CHS.",
+    "Electronic ID scanners are devices that read barcodes on driver’s licenses or passports to confirm a guest is 21 or older. Designed to speed up entry lines outside high-volume venues, advanced models can also save visitor profiles, log entry frequency, scan photo IDs, manage capacity limits, and maintain internal ban or VIP lists. Commercial hardware typically ranges in price from $700 to $1,100.",
+    "Michael Hallman , security manager at Comet Tavern, Lost Lake Cafe, and Big Mario’s Pizza at Pike and 10th Ave, said Comet staff have used electronic ID scanners for nearly a year.",
+    "Hallman noted the main benefit of the handheld device is straightforward: “It’s faster, plain and simple.”",
+    "When Comet’s line wraps around the corner onto Lost Lake’s patio on a Saturday night, Hallman values speed to handle the volume. Even so, staff double-check the device’s accuracy.",
+    "Because many bouncers on Capitol Hill are extensively trained to catch fake IDs, the trade-off between speed and accuracy seems fair to Hallman. “I like the old school, just looking at [the ID]. But this is quick, especially because we get busy.”",
+    "Nick Paul , a bouncer at Unicorn with over seven years of experience, said training and blacklight flashlights remain a bouncer’s most reliable tools, particularly because many modern fake IDs easily pass electronic scans.",
+    "Local security personnel agree that checking under UV light for hidden logos, asking quick questions, inspecting card weight and texture, and cross-checking visual features against ID details remain the best defense against counterfeit or expired cards.",
+    "For other venues, the hesitation is about tone and hospitality. Hula Hula general manager Joe Zara believes electronic scanners feel unwelcoming at his tiki-themed karaoke bar on lower E Olive Way.",
+    "Zara wants guests to feel welcomed at the entrance, noting that digital scanners can create an intimidating atmosphere. At Hula Hula, bouncers check IDs, inspect bags, and direct patrons straight to the lounge.",
+    "For the neighborhood’s queer venues and gay bars, ID scanning technology carries even greater friction.",
+    "While there is no formal neighborhood-wide audit of door policies across Capitol Hill’s LGBTQ+ bars, door practices indicate that operators generally avoid electronic ID verification systems. Instead, venues rely on traditional visual checks, ultraviolet light, and tactile inspection by bouncers.",
+    "That reluctance reflects concerns that have triggered pushback in queer nightlife hubs across the country. Automated scanners read raw, unencrypted barcode data on state IDs, which risks exposing the deadnames and legal gender markers of transgender and nonbinary patrons. Commercial platforms like Patronscan can retain data and power cross-venue ban lists, stoking community surveillance fears. For spaces historically rooted in sanctuary, privacy, and discretion, maintaining an electronic database of who walks through the door presents operational and community risks most queer operators avoid.",
+    "While area bars and clubs take varied approaches, cannabis dispensaries like The Reef or Uncle Ike’s on E Olive Way scan IDs at entry and again at the register.",
+    "The Washington State Liquor and Cannabis Board strictly audits all sales. Dispensaries and distributors rely on seed-to-sale tracking systems to monitor every plant and transaction. This system maintains an audit trail and ensures sales comply with state limits, such as restricting customers to one ounce of usable marijuana per transaction. Dispensaries face harsh penalties for violations, including potential license revocation or criminal charges. At The Reef and Uncle Ike’s, a second check at the register also connects purchases to customer profiles for loyalty rewards and order histories.",
+    "Outside of cannabis retail, Washington has no specific law limiting how private businesses collect, store, or retain data scanned from driver’s licenses. Unlike states like California and Oregon, which restrict scanning strictly to age verification and mandate quick deletion, Washington leaves retention policies entirely to individual business discretion and vendor defaults.",
+    "Electronic scanners extract unencrypted barcode data including full names, dates of birth, and home addresses, which venues can use for ban lists or loyalty tracking. However, scanners provide zero legal protection. Under Washington State Liquor and Cannabis Board rules, scanning a counterfeit ID does not grant an establishment an affirmative defense if a minor is served.",
+    "Venues that choose to store customer records remain subject to Washington’s standard consumer protection and data breach notification laws. If unencrypted patron data is compromised, businesses face mandatory state reporting and full legal liability.",
+    "The risk is not theoretical. IDscan , a prominent verification vendor, reported a major data breach in September involving over 150 million North American driver’s license records.",
+    "With each Capitol Hill venue setting its own door rules, privacy protections vary widely from one entrance to the next.",
+    "“Only about one in 500 people express concern about privacy, but the scanner only displays age verification—it doesn’t store personal info,” Hallman said of Comet’s handheld setup."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/IDcheck2026-4.jpg?resize=584%2C389&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-stranger-wvideos2026psychotronicchallengeweekfour",
    "srcKey": "stranger",
    "cat": "arts",
@@ -1664,6 +1708,23 @@
    "annos": null
   },
   {
+   "id": "f-invw-VlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Mercer Island School District settles sex abuse claim for $1.5M",
+   "author": "",
+   "date": "2026-10-22",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0N0ekRyLU5WQU5yRUcxVGxwUml2T2EzeTVZa3Utcnljc1JOZHhZYzM2eUhiOFI4d3pUQTB6eDJqaVNMX1JaRmQyVW1iU1BKQmNwWi0zX3JGbXNudS1JYU1lZWJaNmRRQnpRN08wb19LaTB0ck1pRzJfQ0dEemdfcVlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQ?oc=5",
+   "paras": [
+    "Mercer Island School District settles sex abuse claim for $1.5M InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-propublica-dnuclearworkerscompensationwashingtondoe",
    "srcKey": "propublica",
    "cat": "local",
@@ -1719,15 +1780,15 @@
    "annos": null
   },
   {
-   "id": "f-invw-VlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQoc5",
-   "srcKey": "invw",
+   "id": "f-kuow-kN2OHRWR3hZeEE2aXZJaFRDdmlJeXZRSVd3QQoc5",
+   "srcKey": "kuow",
    "cat": "local",
-   "title": "Mercer Island School District settles sex abuse claim for $1.5M",
+   "title": "Why some Seattle restaurant owners dream of Boise",
    "author": "",
    "date": "2026-10-22",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0N0ekRyLU5WQU5yRUcxVGxwUml2T2EzeTVZa3Utcnljc1JOZHhZYzM2eUhiOFI4d3pUQTB6eDJqaVNMX1JaRmQyVW1iU1BKQmNwWi0zX3JGbXNudS1JYU1lZWJaNmRRQnpRN08wb19LaTB0ck1pRzJfQ0dEemdfcVlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3BkUDdBVkZuSDZvVVN3Zkw2VXU4V3lGaVFRYU1BSGhHZ2UzQndYSzNxSDNrUDFyUDVyNWxBeGhydElkbC1oSDNNOG1JSkxvQjlsUnRCUFRid0pyZERJX2hUYVZ0MnRZMDNxeTRSMjQ3V1NHMEZxMi02UEY1cXlSWnI5MkN2OHRWR3hZeEE2aXZJaFRDdmlJeXZRSVd3QQ?oc=5",
    "paras": [
-    "Mercer Island School District settles sex abuse claim for $1.5M InvestigateWest"
+    "Why some Seattle restaurant owners dream of Boise KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1753,23 +1814,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-kN2OHRWR3hZeEE2aXZJaFRDdmlJeXZRSVd3QQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Why some Seattle restaurant owners dream of Boise",
-   "author": "",
-   "date": "2026-10-22",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3BkUDdBVkZuSDZvVVN3Zkw2VXU4V3lGaVFRYU1BSGhHZ2UzQndYSzNxSDNrUDFyUDVyNWxBeGhydElkbC1oSDNNOG1JSkxvQjlsUnRCUFRid0pyZERJX2hUYVZ0MnRZMDNxeTRSMjQ3V1NHMEZxMi02UEY1cXlSWnI5MkN2OHRWR3hZeEE2aXZJaFRDdmlJeXZRSVd3QQ?oc=5",
-   "paras": [
-    "Why some Seattle restaurant owners dream of Boise KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-com20261021midweekroundupclashoveraurora",
    "srcKey": "stb",
    "cat": "transit",
@@ -1782,27 +1826,6 @@
     "Survey: Community Transit wants your input on Swift Gold by November 15."
    ],
    "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-assforurbanistendorsedcandidatenilujenks",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Upcoming Urbanist Socials and Canvass for Urbanist Endorsed Candidate Nilu Jenks",
-   "author": "Diego Batres",
-   "date": "2026-10-21",
-   "url": "https://www.theurbanist.org/upcoming-urbanist-socials-and-canvass-for-urbanist-endorsed-candidate-nilu-jenks/",
-   "paras": [
-    "In addition to our standard Seattle social tomorrow ( October 22 ), we're joining Nilu Jenks ( who we endorsed ) for a canvass on November 1st in Northgate . Come show your support for an urbanist city council candidate!",
-    "Eastside Urbanism is also having a social on the 29th , which includes an appearance by King County Executive Girmay Zahilay. Head over and meet some urbanists on the Eastside, and hear what Executive Zahilay has to say on urbanist issues around the county.",
-    "Additionally, we are looking for volunteers to host their own Urbanist socials! If you are someone who is unable to make it to our regular socials, want to meet urbanists in your area, or just want an excuse to grab some drinks, consider hosting your own Urbanist social in your neighborhood or city! Reach out to Diego@theurbanist.org for help getting set up.",
-    "What : A social gathering with urbanists and like-minded people to network, build community, and enjoy the evening. Where : Teku Tavern, 552 Denny Way, Seattle, WA 98109 When : Thursday, October 22nd, 6pm - 8pm Transit Stops : Near stops for Routes 4, 5, 8, 28, 62, or the E Line (not an exhaustive list). RSVP : RSVP here .",
-    "What : Eastside Urbanism will be hosting a conversation with King County Executive Girmay Zahilay! They hope to cover a lot of ground, so if you have specific topics you want included, share them in advance in their Discord server . Where : Jack Sprat, 2808 Calder Ave NE on, NE Turing St, Redmond, WA 98052 When : Thursday, October 29th, 6pm - 8pm Transit Stops : 2 Line (Overlake Village), B Line, 221, 245, 542, 545 (not an exhaustive list) RSVP : RSVP here .",
-    "What: The Urbanist is joining the Nilu Jenks campaign for a canvass in Northgate! Bring some walking shoes, a charged phone, and dress for the weather as we support one of our endorsed candidates. Where: Northgate Community Center , 10510 5th Ave NE, Seattle When: Sunday, November 1st, 2-5pm Transit Stops: 1 and 2 Line (Northgate Station), Routes 40, 61, 67, 75, 348 (not an exhaustive list). RSVP: RSVP Here ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/Kirkland-Tour-Post-Photo.jpeg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1842,23 +1865,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-khmcGZVVXJzbU11WkN4SUdlUm50b19Od0xoQgoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle Mayor Wilson wants to expand World Cup homeless plan to entire city",
-   "author": "",
-   "date": "2026-10-21",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejAtWnNHQnhkVmhYNjNIYlBaMjRnTGlVLURJeGVMTjVZSjhqdXJaWDJWV2hoQ1pvblBwRzZ6ZVB2SGtkanZrN2Q4c1Y3eFdkbFVMUktEeWFOSVZZWGNsbVJua2RRZ0tlMVp3NGJpdEVZeXMwVXFCQUNfd2pGdHh5VVZZZmR2bkE5VUViX3JRYjlxVV8xbkhmcGZVVXJzbU11WkN4SUdlUm50b19Od0xoQg?oc=5",
-   "paras": [
-    "Seattle Mayor Wilson wants to expand World Cup homeless plan to entire city KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-0261020changingthezoningformostofseattle",
    "srcKey": "stb",
    "cat": "transit",
@@ -1882,41 +1888,6 @@
    "img": "",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-ymovieserviceledplanningincaliforniarail",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sunday Movie: Service-Led Planning in California Rail",
-   "author": "Mike Orr",
-   "date": "2026-10-18",
-   "url": "https://seattletransitblog.com/2026/10/18/sunday-movie-service-led-planning-in-california-rail/",
-   "paras": [
-    "In 2004 California released an excellent service-led plan to expand its state rail network, both the high-speed rail projects and other corridors and a few BRT connectors. This video by nandert goes in-depth on why service-led planning is an important paradigm all agencies should use (5:33), the benefits of California’s plan, and how the governing boards would need major structural changes and reforming their priorities to actually make it happen this well.",
-    "He defines service-led planning as “Start by determining where the transit demand and need is, and tailor the plan to meet that demand.” In other words, determining how much of what kind of service each corridor needs. Then draw up cost estimates for the resulting lines to operators (agencies). The California plan specifies the rail/bus mode and frequency, but you could also leave the mode for a later step before assigning them to agencies, as Jarrett Walker does.",
-    "The difference between this and most transit planning is, corridors are chosen to meet the bulk of mobility/trip needs, without certain city/county jurisdictions having undue influence to override these for demands that contradict them. It also puts frequency first in the spec rather than leaving is as an afterthought, so the public can see what minimum frequency the entire network or each project will have so that they can see what their experience will be like."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-GlWc1puR3g2dE1UY3FuWl9hS1hlUDNjTWMxdwoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "A new gas line or cash to electrify? California lets households choose.",
-   "author": "",
-   "date": "2026-10-18",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNmhsaTc1NVloTFU5V0lXejBROEh6a0Qwb3lhRFoxeGhhenViT1BPOGhBTjBCOHF4U0pacWYxY2tQeUVKQ2tNREhpd3JYSkZzeUhYNzlJRThUdFRXNUcwd3FRZ0ZXbmlsWnpyLWxSY1hBZHBSeTRUclZpbERoUTE2aGlWc1puR3g2dE1UY3FuWl9hS1hlUDNjTWMxdw?oc=5",
-   "paras": [
-    "A new gas line or cash to electrify? California lets households choose. Grist"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1954,15 +1925,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-kppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQoc5",
+   "id": "f-kuow-TJoOTB1YkRsbzV0OVNGVnU0NDlwd2tBVUh3RQoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "WA foster parents no longer have to support LGBTQ+ kids in their care",
+   "title": "'Everything I do is intentional.' Why Ku Klux Klan robes are displayed in downtown Seattle",
    "author": "",
    "date": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVkVDelZlVm1oSmpkbE9lLWtMOUNReUpMUmRROWFDSVBfUjdSeXRqb1BBOXZZUHpBUFNoRWhkM2tfV2VqYW0zSVJRMnJDQTNjenhQaGpVVEV0aVpmdzhBMzQ1b3R5NGtyNzZLVzA4TWVSVk5EcklHdWxyQ2RvQ20zMUtqM0lkRlVCdVFkNkppMWFVangxRzI1bDJsOTB3cFBUS3IwNWJKVQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYnZwZjFkdGlha1gtRFg4dGFnZDFlbjFORHB5amUtUUNUT3QyUE85WFFMcS1Kc0RLNEVMM3VlV0o5YWZLb1pXV0pPY2NsNzQyeUg0OU1zdDNvejlnMHlLOXRaZk0yVEFaTl9vZXpDLUtKcHpxWXdhZGxORXdxaHJGVDJ6SmFfeUxrQmYwWTZKdEZzMjlJVmhxcjdoMkx1NERzX0ZWN2lBRnNwZUN6LTJoOTB1YkRsbzV0OVNGVnU0NDlwd2tBVUh3RQ?oc=5",
    "paras": [
-    "WA foster parents no longer have to support LGBTQ+ kids in their care KUOW"
+    "'Everything I do is intentional.' Why Ku Klux Klan robes are displayed in downtown Seattle KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1991,15 +1962,15 @@
    "annos": null
   },
   {
-   "id": "f-invw-2I0bWZLR1JCbXVfM2EwcGMwWThHZF9HdmlhSgoc5",
+   "id": "f-invw-hGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlcoc5",
    "srcKey": "invw",
    "cat": "local",
-   "title": "Prison overcrowding is keeping Idaho women behind bars even after they’re granted parole",
+   "title": "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt",
    "author": "",
-   "date": "2026-10-05",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVFsNjhQSnhlOVk3a3M2TDdoWXhyZUZEN2lZZ2tNVFFheFpkQVZGOXF6aHdUZ1d3VktvbGxhdFdHY1BwX0FLcjJrMEF0M3V5VjI2V1R6cU1OS2hMUkdzQnUteDk1d1haNW14anlMSGdWLUlQTVM3X1NtZ0hqZEZPWHZ2VExYRS1YVkVsT3pFM1dlWUxiTWF5OUVYaGFuc0pEM2I0bWZLR1JCbXVfM2EwcGMwWThHZF9HdmlhSg?oc=5",
+   "date": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYjJuSm1CdWNkRkpidl9nWDhBZW9TLUZER0FiUU41TlpkeWNNamFpWk9rTEF3S0RwS2xZMDRKVE5KbmVadE9lelZUV2ZYOXBnNWhfaHVJUHhIcTA4cVFPcnNQM3VUa2Z5bFJveW1sRERTNjBvdkhGWVh4NG9XOVB2d2FiUEoxdldOa0UyYkZWVlc?oc=5",
    "paras": [
-    "Prison overcrowding is keeping Idaho women behind bars even after they’re granted parole InvestigateWest"
+    "How Rob Curley’s plan to make the Spokesman-Review ‘The People’s Paper’ ended in a newsroom revolt InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -2080,6 +2051,23 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/08/Cafe-Lolo_pasta_Kat-Thompson.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-grist-HZVS2pDVktyZ05tM1c1UUlxa19LRDY4SkhKQQoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "All aboard Amtrak’s sleeker, cleaner new trains",
+   "author": "",
+   "date": "2026-08-19",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXBfc2JKazVEVFB5QjZ2TVB0MS1TM2lyZlF1SEVza1g0dmtZRllvcXI0UlRFbkRXM2JzQmctUVVaMDlCUXpNOXBOMVhQUmlmY3FOZVp3QlZNV1NVNHNHR2pSSy1vNHJMZGRCbHZVS2pDVktyZ05tM1c1UUlxa19LRDY4SkhKQQ?oc=5",
+   "paras": [
+    "All aboard Amtrak’s sleeker, cleaner new trains Grist"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
