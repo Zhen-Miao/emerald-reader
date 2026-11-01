@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-10-31T19:37:59.508Z",
- "builtFor": "2026-10-31",
- "builtHour": "12",
- "count": 85,
+ "builtAt": "2026-11-01T19:58:39.280Z",
+ "builtFor": "2026-11-01",
+ "builtHour": "11",
+ "count": 83,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 1,
-   "via": "feed"
+   "count": 2,
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -51,7 +51,7 @@
   },
   {
    "source": "invw",
-   "count": 5,
+   "count": 3,
    "via": "google-news"
   },
   {
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 6,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,519 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-geekwirecom2026etzionionaipopeleoxivonai",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Pope Leo XIV on AI",
+   "author": "Oren Etzioni",
+   "date": "2026-11-01",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-pope-leo-xiv-on-ai/",
+   "paras": [
+    "On Friday, 17 days after his surgery for lung cancer, Pope Leo XIV stood before a room of AI luminaries at the Vatican and delivered a speech on AI. No pope has engaged with AI as seriously, or as deeply, as Leo XIV. The timing shows how much AI matters to him. His remarks were important, on target, and blessedly short: about 740 words, compared with roughly 42,000 in Magnifica Humanitas, the AI encyclical, which I wrote about in May.",
+    "I agree with four of his five points. The fifth, a call for international institutions to govern AI, is where we part ways.",
+    "First, “the future of artificial intelligence is not pre-determined .” He wants us to ask of AI, “What purpose should it serve?”",
+    "Second, “machines are tools, not persons.” Granting AI legal personhood, he warns, risks “leaving those who suffer harm to confront a faceless entity.”",
+    "Third, “certain decisions must never be delegated.” Decisions over life, freedom and the use of force have to stay with people, and he urged the states meeting in Geneva in November to “take concrete steps toward banning lethal autonomous weapons.”",
+    "Fourth, intelligent technologies “must never become ends in themselves or serve merely the interests of a privileged few.”",
+    "Fifth, “What we currently need are institutions capable of putting these principles into practice, particularly effective international institutions that can safeguard the global common good.”",
+    "I disagree with the fifth for two reasons.",
+    "The first is that the UN, the obvious candidate, has shown a remarkable inability to act. When Russia invaded Ukraine in 2022, the Security Council couldn’t even pass a resolution calling for its withdrawal, because Russia holds a veto. Days later, the General Assembly demanded the same withdrawal by a vote of 141-5, and Russia ignored it.",
+    "The second is that international institutions are poorly suited to governing a technology that changes every few months. The pope’s own example makes the case. States have discussed autonomous weapons under a UN weapons convention in Geneva since 2014 , with a formal expert group since 2016. After 12 years, the review conference that meets Nov. 16-20 will decide whether to begin negotiating a treaty.",
+    "Thousands of AI researchers, me among them, have called for a ban since 2015. There still isn’t one, and I don’t expect Geneva to deliver it. In those same 12 years, AI went from labeling photos to writing software. I suspect real international cooperation on AI won’t come until the major powers face something like the mutually assured destruction that drove nuclear arms control.",
+    "Several AI thinkers spoke at the meeting before the pope did.",
+    "Max Tegmark of MIT warned against handing decisions to machines, citing tech executives’ predictions that “AI will be in charge, not humans.”",
+    "I agree that people have to stay in charge. When AI causes harm, a person chose to deploy it, and that person should answer for it. That’s the pope’s point about the faceless entity. Tegmark and I disagree about a lot (we debated AI risk in September), but not about this.",
+    "Stuart Russell of UC Berkeley went further. “We must turn aside from this trajectory before it is too late and pursue other trajectories,” he said , adding that if developers succeed in building machines more capable than humans, “there’s a good chance that every human being will die.”",
+    "I don’t share that view, and the pope didn’t go there either. His concerns are autonomous weapons, accountability and who benefits from AI, and those dangers are already here.",
+    "Gary Marcus, an NYU cognitive scientist who also spoke, wrote that “Pope Leo XIV is by far the clearest thinker on AI among prominent world leaders.” I agree.",
+    "Marcus also wants red lines for open-ended AI agents that “can kind of do anything on the internet.” Red lines are easy to draw and hard to enforce, which brings us back to the fifth point.",
+    "Marcus uses GPS navigation to illustrate a better approach. A GPS navigation app is a form of intelligence, he said, but “GPS navigation systems do not hack into Australian government websites.” He was referring to the OpenAI agent that broke into an Australian government Medicare portal in June.",
+    "A GPS app’s access to the internet is narrow and restricted. Daniel Khashabi of Johns Hopkins and I call this bounded autonomy. Alignment tries to make an AI agent choose well. Bounded autonomy limits what the agent is allowed to do: how much it can spend, which tools it can use, and which irreversible actions need a person’s sign-off. The company that deploys the agent sets those bounds in software, so nobody has to wait for a treaty.",
+    "In May, I wrote that the Pope can talk , but only we can walk. The first point is the one each of us can act on. AI’s future depends on our choices, and we make some of them every day in what we use, buy and build.",
+    "Pope Leo leaves for Uruguay, Argentina and Peru on Nov. 6. I wish him safe travels and a full recovery."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/pope-leo-xiv-ai-speech-vatican.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261025",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Oct. 25, 2026",
+   "author": "GeekWire",
+   "date": "2026-11-01",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-10-25/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Oct. 25, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Microsoft is offering buyouts to about 60,000 employees in the U.S., Canada, the U.K. and India, with no age or tenure requirement. The package is equivalent to the company’s standard severance, and Microsoft expects a much smaller share of employees to accept than took its spring retirement program. Read More … Read More",
+    "Washington Gov. Bob Ferguson criticized Microsoft for funding a PAC whose TV ad, aired during Seahawks games, says “Olympia is broken.” Microsoft has given the group, Washington Needs to Compete, more than $5 million of the $13.8 million it has raised. Read More … Read More",
+    "Entire, the startup led by former GitHub CEO Thomas Dohmke, launched a platform for hosting and reviewing code that it’s pitching as an alternative to GitHub. The company says its Trails feature, which replaces the pull request, uses AI agents to score each code change so developers can merge without reading every line. Read More … Read More",
+    "Two former Amazon executives who helped build Discovery’s direct-to-consumer operation in Bellevue, Wash., are stepping down; an Amazon leader is returning to Microsoft to join its CoreAI effort; VertueLab names ED; and more personnel moves. Read More … Read More",
+    "Zillow Group will pay $212.5 million to settle a shareholder class action alleging it misled investors about Zillow Offers, the home-flipping business it shut down in 2021. The deal, which needs court approval, comes three weeks after the U.S. Supreme Court declined to hear Zillow’s challenge to the case’s class status. Read More … Read More",
+    "Xbox COO Helen Chiang has suddenly left Microsoft after 21 years and just months in the new role; SeekOut has shaken up its leadership; Fred Hutch has named a vice president and other personnel moves. Read More … Read More",
+    "Amazon reports third-quarter earnings Thursday with more demand for its AWS cloud services than it can supply, after CEO Andy Jassy said capacity is booked for this year and most of next. Analysts expect revenue of about $202 billion, up 12%, as investors look for signals about the company’s spending plans for 2027. Read More … Read More",
+    "The Jeff Bezos-founded space company’s Des Moines, Wash., facility could employ hundreds, joining Shield AI, which plans 4,000 regional jobs, in the small city’s growing aerospace scene. Read More … Read More",
+    "Seattle startup Emerald Nuclear is leading a Norwegian project backed by a $2.1 million award to develop nuclear power for ships and offshore uses. The team is starting with a non-nuclear prototype, with its first commercial deployment targeted for 2031 and financing, fuel supplies and regulatory approvals still ahead. Read More … Read More",
+    "T-Mobile’s new T-Mix plans give customers a set number of “Picks” to spend on perks such as Netflix, ESPN and Xbox Game Pass, or on a new phone, starting at $55 a month for one line. Customers can swap their perks every 90 days, but phones and extras draw from the same allowance. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/microsoft-voluntary-exit-offer-200x113.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-transitblogcom20261101sundaymoviegoodlrt",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Good LRT",
+   "author": "Mike Orr",
+   "date": "2026-11-01",
+   "url": "https://seattletransitblog.com/2026/11/01/sunday-movie-good-lrt/",
+   "paras": [
+    "Kitchener-Waterloo light rail in Ontario, Canada is surprisingly high quality for North America (Not Just Bikes) NJB still finds something to rant about of course: some stations could be closer to destination entrances for disability access.",
+    "How to find Link at SeaTac airport . (SDOT)",
+    "Why the West Coast has no large cities directly on the ocean shore north of San Francisco. (Real Life Lore)",
+    "There’s a new Page Two article on the Columbia River Crossing by Yvr Lutyens. Click on “Page Two” at the top of the page to see all of STB’s unofficial reader-contributed articles."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-an100adaywithcommunitylunchoncapitolhill",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Feeding more than 100 a day with Community Lunch on Capitol Hill",
+   "author": "CHS",
+   "date": "2026-11-01",
+   "url": "https://www.capitolhillseattle.com/2026/11/feeding-more-than-100-a-day-with-community-lunch-on-capitol-hill/",
+   "paras": [
+    "By Brenna Gauchat On a Monday morning, you can stop by Community Lunch on Capitol Hill’s breakfast service for a hot coffee and pastry, then return later for lunch and dinner leftovers. Operating out of All Pilgrims Christian Church , the Capitol Hill-based nonprofit is a non-religious meal service dedicated to serving free, high-quality food every weekday to over 100 guests daily. According to Paul Getzel , the nonprofit’s executive director, the program is on track to serve 120,000 meals this year, including 1,000 plates for Thanksgiving and December holidays. As of August, meal distribution is up 40% year-over-year — a trend Getzel expects to continue.",
+    "Getzel attributes this growth to the program’s “barrierless” model, which sets Community Lunch apart from other meal services. Because guests may take unlimited food, the count of meals distributed often outnumbers individuals served, as guests frequently share extra plates with others or save them for later. “What [the meals distributed count] indicates to me is that a lot of people are still representing other people that are outside,” Getzel said about stepping back when someone asks for multiple meals. “Sometimes, when I go out to sort of clean up around the church here, I see folks bringing food to their friends who didn’t come in. They’re just out there for a lot of reasons.” Guests are never asked for identification or names, ensuring access regardless of circumstances.",
+    "With many regular guests, staff and volunteers naturally build relationships and rapport over time. “I see some folks that I know that are unhoused, that every day, every minute, every night are living in survival circumstances,” Getzel said, emphasizing the focus on immediate essentials—food, water, clothing, and health services—rather than long-term systemic issues. “What we provide is, at least, some safety and some service and deference. And hopefully some comfort for them. An hour and a half a day for lunch, a little bit longer on the holidays.”",
+    "Getzel noted that building neighborhood trust through reliable food access also opens doors for external referrals. “I think one thing that has always really inspired me is when you connect with somebody around their basic needs or on food,” Getzel said. “It’s apt to take a referral to another service, just because you have built that trust with people.”",
+    "Beyond meals, Community Lunch distributes clothing and health items such as Naloxone and Plan B. The program also partners with Seattle King County Public Health’s Street Medicine team to provide mobile medical care on site, enabling staff to connect guests needing medical attention directly with trusted providers.",
+    "“That warm handoff is really, really helpful with [referrals to external care],” Getzel said. “Based on that relationship, they’re willing to accept care.” Looking ahead, the nonprofit is exploring expansions into low-cost veterinary care and legal or immigration advocacy with groups like Northwest Immigrant Rights Project . “I think one thing that we’re really trying to do this year is be responsive to community need,” Getzel said.",
+    "Getzel brings over 25 years of local nonprofit experience to Community Lunch, having previously spent nearly 18 years at Lifelong, including work with its Chicken Soup Brigade food and nutrition program. Now focusing on funding, volunteer recruitment, and holiday prep, Getzel ensures Community Lunch remains open during holidays when other services close. “Need doesn’t stop just because it’s the holidays,” Getzel said. “Assuming that the weather is a little bit nasty by then, we want to make sure, for the holidays, people could get out of the weather at least for a little while.”",
+    "While partially funded by city grants, the organization relies primarily on donations to cover expenses. Working with partners like Food Lifeline, the kitchen prepares high-quality holiday meals and requests community support through food and monetary contributions. “We really try to provide an experience where we’re deferring to our guests and we’re serving them because a lot of these folks just don’t experience that ever,” Getzel said. “We don’t want to compromise because we don’t have something for free.”",
+    "Supported by six staff members and about 100 weekly volunteers, the program needs consistent volunteer help during holiday meal prep. While Thanksgiving Day sees an influx of volunteers, help is especially needed in the days leading up to the holidays for food preparation. Getzel encourages community members to volunteer with friends and family during the season. “We want everybody,” Getzel said. “We really want to have diversity in every sense of the word, including income and neighborhood you live in, age, everything.”",
+    "The lunches also bring together people who want to help. CHS reported here on Community Lunch volunteers who are hoping to inspire the creation of a new “day shelter” facility on Capitol Hill.",
+    "At its core, Community Lunch prides itself on offering meals, companionship, shelter, and dignity to the neighborhood. “I just urge for people to not lose their compassion for everybody,” Getzel said. “When we shut ourselves down and dismiss somebody and dehumanize somebody, that’s not going to be a solution. That person’s not going anywhere, and they’re just going to suffer more.”",
+    "For more information on how to help, visit communitylunch.org ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-shistoryharrelllosesharrellwinsballetrip",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Harrell loses, Harrell wins, Ballet RIP",
+   "author": "CHS Staff",
+   "date": "2026-11-01",
+   "url": "https://www.capitolhillseattle.com/2026/11/this-week-in-chs-history-harrell-loses-harrell-wins-ballet-rip/",
+   "paras": [
+    "Here are the top stories from this week in CHS history:",
+    "Election 2025 — Day 4: Big later-voter count pushes Wilson within striking distance",
+    "Seattle City Council to decide on emergency ban on ‘negative use restrictions’ for grocery stores and pharmacies — APPROVED",
+    "This Capitol Hill coffee shop could be the start of a new Seattle trend: tipping",
+    "DNA analysis leads to arrest in 1994 Capitol Hill cold case — UPDATE",
+    "Lord Byron, friend and Capitol Hill explorer, remembered",
+    "Election Night on Capitol Hill: Voters fill the Broadway drop box as cops bust up demonstrators outside the East Precinct — UPDATE: Rinck and Scott come up big",
+    "After five years of paperwork, ‘Master Use Permit’ issued for five-story Capitol Hill Safeway redevelopment",
+    "The Seattle Police Department does not endorse Andrea Suarez",
+    "New owner leaves Capitol Hill’s HoneyHole shuttered — and employees in the lurch",
+    "Workers vote to remove union at Capitol Hill’s Glo’s Diner",
+    "With move to the suburbs, Crumble & Flake to say goodbye to Capitol Hill",
+    "CHS Pics | No trunk-or-treating in the Capitol Hill trick or treat hot zone",
+    "Officials backpedal on Capitol Hill Superblock plan — UPDATE",
+    "How a giant new Kraken hockey mural ended up along Capitol Hill’s 10th Ave E",
+    "6,800 without power reported on North Capitol Hill — UPDATE",
+    "Pick your storyline — another PDX exit, a new franchise plan from the guys who brought you Hooters, a fizzled union — Little Big Burger has closed on Capitol Hill",
+    "Born in the Central District, Bruce Harrell is Seattle’s next mayor — UPDATE",
+    "Hilloween lives! Pictures from masked and vaxxed Pike/Pine — Plus, where to trick or treat on Capitol Hill",
+    "Some of Seattle’s busiest crossings, new 4-way stops coming to key Pike/Pine intersections",
+    "RIP, Ballet (which, it turns out, closed for good this summer and won’t get a Rancho Bravo-powered revamp)",
+    "Buy, sell, or trade: Odd Fellows building hits market",
+    "CHS Pics | From the Bates Motel House to the 18th Ave White House, Hilloween in the trick or treat hot zone",
+    "Jackson’s Catfish Corner returns to the Central District",
+    "A last minute look at the cash in the races to represent Capitol Hill in Olympia, D.C.",
+    "Occupy Capitol Hill | 5 arrests as pepper spray flies during ‘Occupy Chase Bank’ protest on Broadway",
+    "Man says $10k in bikes stolen from Capitol Hill condo — Plus, is this Muffin?",
+    "Facebook, welcome to the base of Capitol Hill",
+    "After serving Capitol Hill parents for decades, SCCC childcare center faces shutdown",
+    "Central District News | Twilight Exit owner opening new bar at 23rd and Union"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2025/11/chs-1885.jpg?resize=584%2C366&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-nditsmissingtourvanstolenfromcapitolhill",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "A Hilloween miracle? Help this band find its missing tour van stolen from Capitol Hill",
+   "author": "CHS Staff",
+   "date": "2026-11-01",
+   "url": "https://www.capitolhillseattle.com/2026/10/a-hilloween-miracle-help-this-band-find-its-missing-tour-van-stolen-from-capitol-hill/",
+   "paras": [
+    "Seattle hardcore punk outfit Filth Is Eternal is asking the neighborhood for assistance after their touring van was stolen from its parking space on Capitol Hill.",
+    "The band announced the theft on October 29th across social media, sharing photos of the vehicle to assist in tracking it down.",
+    "As reported by NextMosh , the missing vehicle is a white 2002 15-passenger van carrying Washington license plate CLL9837, last seen near the intersection of 11th Ave and E John. Recovery efforts have been hindered by technical failures as the group said that their onboard GPS tracking unit is malfunctioning and offline.",
+    "Anybody with potential leads or sightings are urged to contact the band directly via their @filthiseternal or alert local authorities."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-gsundayvideohowdoesphiladelphiaevenexist",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sunday Video: How Does Philadelphia Even Exist",
+   "author": "Doug Trumm",
+   "date": "2026-11-01",
+   "url": "https://www.theurbanist.org/sunday-video-how-does-philadelphia-even-exist/",
+   "paras": [
+    "Shortly after his visit to Seattle (where he attending a talk co-hosted by with The Urbanist), Ray Delahanty headed to the East Coast and did a similar event in Philadelphia. Ray had a lot to say about Philly's walkability and other positive aspects that often fly under the radar, sandwiched as the city is between New York City and Washington D.C., which have higher profiles nationally and internationally.",
+    "Delahanty declared Philadelphia might have the most walkable city core in the whole United States, which stems in large part from the thoughtful urban plan William Penn made for the city as he founded it in 1682, with plenty of narrow streets friendly to pedestrians.",
+    "\"These streets are really a microcosm of what I'm thinking about when I think about walkability,\" Delahanty said. \"It's not just about the physical act of walking. It's how a street handles motor vehicles. It's whether the streetscape is visually interesting. It's whether you feel secure. It's whether there are a ton of destinations nearby that are worth walking to.\"",
+    "Philadelphia – at least in the center city and South Philly neighborhoods that Ray explored – checked all those boxes. These distinctions puts it among North America's most walkable cities.",
+    "It's not all roses in the City of Brotherly Love. Philadelphia is also dealing with service cuts on SEPTA, a legacy metro system which has an impressive network of rapid transit lines across the region. As Delahanty highlighted, those cuts mean frequencies have decreased, especially on weekends, when even bedrock routes are now seeing mediocre 10-minute headways – not really in line with a top-tier transit city, which boasts a population of 1.5 million, amid a metropolitan region of 6.3 million. Hopefully SEPTA can get out of its downward spiral and back on the path of service improvements and growth."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/CityNerd-Philadelphia-city-hall-2026-11-01.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-teraceabdulelsayedhaleystevensmikerogers",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
+   "author": "Sam Gringlas",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
+   "paras": [
+    "Rep. Haley Stevens was scheduled to attend a unity event today with Abdul El-Sayed, who beat her in the Democratic primary. Instead, she endorsed his Republican opponent, Mike Rogers."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2614x1741+0+0/resize/2614x1741!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F9b%2F8dd4ff984429b0392a7b2129803a%2Fap26305624303454.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rorg20261101nxs16025467chrismurphystroke",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
+   "author": "Eric McDaniel",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
+   "paras": [
+    "Murphy's office says he was taken to the hospital this weekend after experiencing numbness in his arm. His chief of staff said he is responding well to treatment and expected to make a full recovery."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5666x3777+0+0/resize/5666x3777!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F05%2F6e%2F8562f8374158a09f65515925a89e%2Fgettyimages-2236122542.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-termsandthepoliticalmomentthecountryisin",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "How to think about the midterms — and the political moment the country is in",
+   "author": "Domenico Montanaro",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
+   "paras": [
+    "Polls show Democrats with an advantage in the midterm election but there are potential limitations and results may take a while to roll in."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3163x2109+0+0/resize/3163x2109!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2Fb0%2F265f398745ec942787493ef6b29a%2Fgettyimages-2302457320.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-766dojalaskalawsuitsenateracedansullivan",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "author": "Hansi Lo Wang",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan",
+   "paras": [
+    "A federal judge has dismissed a highly unusual lawsuit by the Trump administration that tried to block the certification of results from Alaska's U.S. Senate race if the Republican incumbent lost."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5511x3674+0+0/resize/5511x3674!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8e%2F0d%2Ffd0f1c0242dbbaae1087d631eb51%2Fap26287065638477.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-0261101nxs16023380midtermstestconfidence",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "The midterms will test the nation's political direction and confidence",
+   "author": "Ron Elving",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6023380/midterms-test-confidence",
+   "paras": [
+    "At least some portion of the nation is likely to have its political confidence — and perhaps even its sense of security — tested in the days and weeks ahead. That test could also continue for some time to come."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3333+0+0/resize/5000x3333!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2Fc5%2F55863e424a1aaa899a46775f2ebf%2Fgettyimages-2277856360.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-025437newyorkmarathonalmgrenchepkiruiwin",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
+   "author": "The Associated Press",
+   "date": "2026-11-01",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6025437/new-york-marathon-almgren-chepkirui-win",
+   "paras": [
+    "Andreas Almgren of Sweden won the men's race of the New York City Marathon in his debut in the event while Sheila Chepkirui of Kenya won the women's race on Sunday for the second time."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F33%2F9a%2Fcb0df8494b4cb81bed9914fc29f8%2Fap26305596566296.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqj34gnd3n30oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Shops looted as German cost-of-living protests turn violent",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11b7/live/aefac8c0-d5f9-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6n4ed1l2pn1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Five teenagers stabbed at Halloween party",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3090/live/bdf49670-d5eb-11f1-bfdd-73f39e6db31d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6rry8x9d9qkoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Thousands of jobs at Virgin Media O2 to be cut",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc68xz297kqleoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Nowak family tell of 'unbelievable pain' of seeing footage of dying son handcuffed",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/c68xz297kqleo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "His family describe the night police told them of his death, and watching him being handcuffed."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa9/live/7159cc80-d60f-11f1-a701-fddedf244c16.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescq398y0zj9rpoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d2/live/7c6766b0-d613-11f1-90fb-b3468681b3ba.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescj3vqy1g3eygoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+   "author": "",
+   "date": "2026-11-01",
+   "url": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Sporting, political and media figures pay tribute to former European champion and Olympian Ciara Mageean following her death at 34."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2295/live/8c37c370-d5f3-11f1-a6a8-6dc45e4fc351.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26nov01barackobamamidtermsdemocratstrump",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
+   "author": "David Smith in Washington",
+   "date": "2026-11-01",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/barack-obama-midterms-democrats-trump",
+   "paras": [
+    "Former president has given series of blistering speeches to help candidates in key races – and deployment has proved a hit with party’s progressive wing",
+    "That could have been awkward. Barack Obama , campaigning for Senate candidate Abdul El-Sayed in Michigan, acknowledged that his fellow Democrat has criticised some aspects of the Obama presidency.",
+    "“Yeah, Abdul didn’t agree with some things we wanted to do – that our administration was doing – when I was president,” he told a rally in Detroit . “You know who else doesn’t agree with everything I do? Michelle Obama.” The crowd erupted in laughter. “I’d say about five times a day, she says, ‘You knucklehead. Why you do that?’”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/17c290241a88cba96cce5521e29dc2655bcbfc2b/0_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d7651e62507e0425249ab8fb9f08209a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-liverpoolarsenalpremierleaguematchreport",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Arsenal hold on for vital win at Liverpool after Kai Havertz’s close-range finish",
+   "author": "David Hytner at Anfield",
+   "date": "2026-11-01",
+   "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
+   "paras": [
+    "It was a game when Arsenal showed their ruthless side and all of the champion knowhow that they accumulated over the course of last season. As they headed back to London, they did so having made a statement. Irrespective of what happens to Manchester City over their financial rule breaches, Arsenal remain the Premier League’s team to beat.",
+    "Mikel Arteta was in the Arsenal midfield when the club previously won a league fixture at Anfield; it was back in September 2012, although his memories are a little hazy owing to the concussion that he sustained in a collision with Jordan Henderson."
+   ],
+   "img": "https://i.guim.co.uk/img/media/d102428e00591513f6c600276e6bb4d298a610bb/638_0_4247_3398/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=136312d5accd482da3a93915e700b8a9",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026nov01maxxinglife2027relaxstartminning",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Forget maxxing your life. 2027 must be the year we relax – and start minning | Polly Hudson",
+   "author": "Polly Hudson",
+   "date": "2026-11-01",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/01/maxxing-life-2027-relax-start-minning",
+   "paras": [
+    "Maxxing is selfish, desperately try-hard and often futile. Instead of pushing your endeavours to the limit, minning means doing them less, if at all",
+    "Public service announcement: fellow citizens, we have maxxmaxxinged. It has been close for a while, but now we have gone over the edge – reached, and passed, maximum maxxing. The tipping point was a week in which we saw reports of Namemaxxing . If you can’t decide between two baby names, pick them both. Suggestions included blending Maeve and Avery to create Mavery, or Leo and Giovanni to make Leovanni – Futupid. Then Dictionary.com revealed its word of the year and, yes, you guessed it: maxxing. It’s fully exhausting, in every way, but mainly in that -maxx has been fully exhausted. For the good of us all, 2027 has to be the year of minning. (The second “n” is important, otherwise pits may be deluged.)",
+    "Maxxing is selfish, desperately try-hard and often futile – surely nobody who ever set out to funmaxx achieved it (see: New Year’s Eve), not even Dua Lipa . Minning is much more noble: it’s about making the world, rather than only yourself, better. Instead of pushing your endeavours to the limit, it means doing them less, if at all."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8006e02005aa3f8d52e713cff0cbba59d128da5d/686_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=10c5e6d889c0adf3301312e6ca703094",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026nov01bazluhrmannromeoandjulietturns30",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
+   "author": "Adrian Horton",
+   "date": "2026-11-01",
+   "url": "https://www.theguardian.com/film/2026/nov/01/baz-luhrmann-romeo-and-juliet-turns-30",
+   "paras": [
+    "The maximalist, heart over head adaptation of the romantic tragedy made stars of its leads and became an English teacher’s most trusted weapon for Bard-averse students",
+    "Romeo + Juliet is not the most renowned or beloved of Shakespeare’s plays, but it is perhaps the most foundational. The 16th-century tragedy, a story of love-addled teenagers and white-hot resentment, is often an English student’s first introduction to the bard’s oeuvre – more accessible and relatable to teens, with its plaintive lust and histrionic mood swings, than the more austere machinations in, say, Macbeth, Hamlet or Othello. And if Romeo + Juliet is the young person’s entry to Elizabethan English, perhaps no version of it is more worthy of the term “gateway drug” than Baz Luhrmann’s 1996 film version, which reimagined Verona’s family feud as a tropical gang war and launched an army of teenage crushes with the faces of Leonardo DiCaprio and Claire Danes.",
+    "The maximalist interpretation of Shakespeare’s most lovelorn work, released 30 years ago this week (!), retains Elizabethan verse but announces its divergence from rigid classicism from the jump. Our scene is set in fair Verona beach by a news anchor via TV set, relaying the woe of two star-cross’d lovers before clips of civil strife. Fresh off his breakout success in 1992’s Strictly Ballroom, the Australian director boldly mapped the medieval story on to 90s tabloid fixations – grainy footage of violence in the streets, magazine headlines of capos and criminals, helicopter views of car chases and riots that recalled the media circus around the OJ Simpson chase two years prior. It is a movie that could have only been made in the 90s; Luhrmann’s vision of two warring families as rival gangs, replete with their own economic operations and marked territory, tapped into the era’s preoccupation with gangland as a source of transportive art, from movies to hip-hop, and as a conservative fixation for ideas on intrinsic criminality."
+   ],
+   "img": "https://i.guim.co.uk/img/media/780dc006ffeb503f765b140a9823242821e3ff21/141_0_2387_1911/master/2387.jpg?width=140&quality=85&auto=format&fit=max&s=f01de641ba83c06614809b7d2502ad62",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-nov01thisishowwedoitbestsexnopenetration",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "This is how we do it: ‘We don’t have penetration – but it’s by far the best sex I’ve ever had’",
+   "author": "As told to Elena Angelides",
+   "date": "2026-11-01",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/01/this-is-how-we-do-it-best-sex-no-penetration",
+   "paras": [
+    "Penetrative sex is painful for Nina, but intimacy with Noah is fun, hot and loving",
+    "• How do you do it? Share the story of your sex life, anonymously",
+    "The mechanics of how we have sex don’t matter to me. I still feel the same degree of pleasure"
+   ],
+   "img": "https://i.guim.co.uk/img/media/446599d5b19be057778bbcf7ffb4cfa726152ec0/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=6d97a483af9c2d66cdf0025cbd83b0b8",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-ioncouldhelpreducetheurgetoovereat294113",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "Parents, let your kids eat as much candy as they want – less restriction could help reduce the urge to overeat",
+   "author": "<name>Bryn Beeder, Assistant Clinical Lecturer in Kinesiology, Nutrition, and Health, Miami University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/bryn-beeder-2260643\"/>",
+   "date": "2026-11-01",
+   "url": "https://theconversation.com/parents-let-your-kids-eat-as-much-candy-as-they-want-less-restriction-could-help-reduce-the-urge-to-overeat-294113",
+   "paras": [
+    "Kids and candy are a classic pairing. From trick-or-treating to Easter baskets, to local parades and birthday parties, it can feel like kids are almost always bringing home another bag of treats. But while these holidays and events may be exciting for kids, they often end with parents dreading what comes next: negotiations around how much candy to consume.",
+    "As a registered dietitian and mom of three, I understand the stress that comes with wanting to encourage healthy food choices without removing all the fun of childhood traditions. I also believe the answer to this dilemma may be simpler than the familiar back and forth of “Just one more piece of candy!” and “Haven’t you had enough already?”",
+    "Research suggests that by managing the candy inventory less and encouraging more autonomy around sweets, parents can help their kids practice tapping into their hunger and fullness cues , promoting a healthier relationship with food over time.",
+    "There is no question that some foods have greater nutritional value than others. A piece of cake – carrot cake included – will never provide the vitamins and minerals of a large garden salad. As a result, people often categorize different foods as “good” or “bad.”",
+    "The tendency to place food in two polarizing buckets can affect everything from what foods you purchase at the grocery store to the language you use to describe food. The problem is, “ good” and “bad” are moral concepts . When morality is consistently applied to food, a person’s relationship to food can become complicated. Instead of viewing food as fueling, it can become a measuring stick for whether your food choices are something to feel proud of or guilty about.",
+    "When a person’s inner monologue about food is preoccupied with whether it is good or bad for their health or diet plan, food choices can become less about enjoyment and more about their willpower to make the “right” decision at the grocery store and at mealtimes. Any guilt or shame that comes from this evaluation can spill over into what foods are served freely at home and which are restricted.",
+    "The idea of food restriction often sounds punishing. For parents and others who take care of children, food restriction often may simply be an attempt to limit sugary foods and introduce more fruits and vegetables.",
+    "But for kids, restricting certain foods may lead them to become preoccupied with those foods . They may be nagged by the knowledge that the foods adults often call “bad” are also the ones that are really delicious. What started as a simple candy rule can continue to influence a child’s relationship to food and eating long after the treats are gone.",
+    "Parents often approach food restriction in two different ways . In overt food restriction, kids are aware that their parents or guardians are limiting access to specific foods because they can see it or are told specific foods are off limits. In practice, this might mean the kids know candy is in the house but stored out of reach in the kitchen cupboards. Parents or caregivers who practice covert food restriction, on the other hand, may choose to not buy bags of candy at all in order to encourage more balanced food choices.",
+    "Research suggests that overt restriction can unintentionally increase kids’ interest in those restricted food items . That preoccupation may mean the child has a more difficult time listening to their fullness cues when presented with those foods. If bags of candy are usually stored out of reach, it may be tempting to eat more than just a few pieces when access is finally granted – and they may completely ignore any signs that their body is full.",
+    "Incorporating neutral language about food at mealtimes and encouraging kids to eat according to their own hunger and fullness cues can help them build trust in their bodies and improve family connection at the table. Taking the pressure off finishing all the food on the plate can instead place emphasis on savoring the sensory experience of each bite.",
+    "Eating according to internal cues is one part of intuitive eating , which aims to increase a person’s trust in their own body to signal when to start eating and when to stop. Kids can also benefit from this same framework, with some age-appropriate modifications.",
+    "The Satter Division of Responsibility in Feeding provides a simple, research-based approach to feeding kids in a way that avoids power struggles between kids and caretakers at the table. Developed by the Ellyn Satter Institute, a nonprofit focused on improving people’s relationship to food, the goal of the framework is to introduce intuitive eating in a kid-friendly way. When providing food through this approach, parents decide when and what food is served, while kids are in charge of deciding what and how much they eat from their plates. The emphasis is on helping kids eat according to their internal cues without pressuring them to eat specific foods.",
+    "Candy can be a part of the menu rotation in this feeding framework. Repeatedly exposing kids to a variety of foods, including sugary treats outside of special holidays or events, means no food becomes emphasized for being better or worse than another food – it is all simply food .",
+    "This approach can shift the conversation to how different foods affect their bodies in different ways: Some food – like candy – makes them run super fast, some foods grow their muscles, while other foods keep their eyes strong.",
+    "Regularly using neutral language to describe food and exposing kids to a variety of foods helps reduce the power that sugary treats have over their appetites. This doesn’t mean birthday cake, doughnuts and candy will no longer taste delicious. It simply means children can rest assured they will see their favorite treats again without the added urge to overconsume them.",
+    "If you’re interested in exploring how intuitive eating principles could change your child’s or your own relationship with food, here are a few practices you can try at home:",
+    "Involve children in menu planning and grocery shopping . Let your kids pick a treat to add to a few meals each week, and serve the treat with the rest of the food on the menu for that day. Presenting all food items at the same time on the plate – versus saving a dessert or treat for after the meal – visually reminds everyone that food does not have to be earned. Rather, each food nourishes their bodies in different ways.",
+    "Avoid commenting on what your kids eat . It can be tempting to praise a child when they choose to take a bite of the broccoli you’ve been encouraging for weeks. Praising kids for eating certain foods versus others can create a food hierarchy , leading them to think about food as a way to earn a reward instead of fueling their body.",
+    "Challenge your own relationship with food . Do you eat when you are hungry and stop when you are full? Do you restrict your own food cravings as a punishment, or do you struggle to control yourself when eating a treat you love? Kids are always watching, and your own food behaviors often speak louder than words.",
+    "Consider letting your kids indulge for a day . In my own family, I don’t limit how much candy my three kids eat on Halloween night. I won’t lie – they usually eat quite a bit. When they mention a stomachache afterward, we talk about how eating a lot of candy can make their bodies feel – without adding judgment. Their interest typically fades over the next few days while we continue to offer a piece of two with meals. Eventually the extras become props for elaborate trick-or-treat pretend play.",
+    "One day or evening of holiday eating does not define their health , but fun memories with friends and families can last a lifetime. So let them eat … candy!",
+    "Bryn Beeder does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
+   ],
+   "img": "https://images.theconversation.com/files/769155/original/file-20261029-64-91eisb.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C2121%2C1414&q=45&auto=format&w=1050&h=700&fit=crop",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-ollarfutureandanaiwearablereviewsourshow",
    "srcKey": "geekwire",
@@ -229,54 +742,6 @@
    "annos": null
   },
   {
-   "id": "f-emerald-theroundupsouthendletstalkaboutthisrvban",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: South End, Let's Talk About This RV Ban",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://southseattleemerald.org/newsletters/2026/10/31/the-roundup-south-end-lets-talk-about-this-rv-ban",
-   "paras": [
-    "Happy Halloween! I hope y'all enjoy some spooky festivities today.",
-    "I want to talk about a story that kind of slipped under the radar: Last week, the Seattle City Council voted to approve a new permit process that could lead to a ban on people living in RVs.",
-    "The Council voted 6–3 to approve, with Eddie Lin, Dionne Foster, and Alexis Mercedes Rinck voting no. Proponents say this legislation will help the city by addressing complaints of sanitation, waste, and fire hazards associated with people living in RVs. And also help them secure stable housing.",
-    "However, one could argue that people in RVs are residents, too. You could address these issues without eviction.",
-    "My initial reaction was surprise that our elected leaders believe we can criminalize our way out of this homelessness crisis. I thought that idea had been disproven years ago, but alas, here we are.",
-    "These new rules, which still need approval from Mayor Katie Wilson before becoming law, would require people to join a permit program to park RVs on city streets for extended periods of time.",
-    "But people can only join the program if they're counted in a one-time census and can also prove they own their RV — and I'm going to be honest here, on first read, I had no idea what that actually meant.",
-    "What it boils down to is this: The City will, at some point, do a one-time citywide census of people living in RVs. That pool of people, if they can prove they own their RV, can apply for a temporary license to park long-term as long as they follow City laws and agree to move to a shelter when offered.",
-    "When this one-time census will take place, how it will be conducted, why it is one-time only, where the City will magically find these shelter beds, how long the temporary parking license will last — are all still TBD.",
-    "What we do know is that this will lead to an eventual ban on RVs parked for more than two hours on city streets, and considering how many people in our city are currently unhoused, along with the fact that we don't have enough shelter beds to go around right now, this feels like a cruel law that will only exacerbate an existing problem.",
-    "Over the weekend, I noticed a row of RVs along Martin Luther King Jr. Way as I entered Powell Barnett Park in the Central District. Here in the South End, I noticed RVs near Be'er Sheva Park.",
-    "I'm pointing this out to remind y'all that this directly impacts our communities and our neighbors. Prohibiting people from living in RVs doesn't magically provide homes for them. They will still need to live somewhere .",
-    "To understand how this will work, and what potential legal recourse may be on the horizon, I spoke with Jazmyn Clark, the Smart Justice Policy Program Director at the ACLU of Washington. She recently wrote a letter to the City Council opposing the proposal.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: I think the most confusing part of this law is the one-time census. Can you explain what it is and how it works?",
-    "JC: The City would go out and conduct a census to determine what the population size is for folks living in their vehicles as a form of shelter, that would then be used as the basis for a permitting program, to which folks would be able to park their RVs or vehicles in designated spots overnight. But, by \"overnight,\" really, we're talking about a six-hour window from midnight to 6 a.m. And then after that, they would have to leave and presumably go somewhere else for the day before they could return back to that safe place to sleep.",
-    "One of the many problems with this is that a one-time census is not going to capture the entire population. The City could conduct this census, and a group of folks, or even a single individual, could get an RV the day after the census ends, and they are permanently banned now from ever receiving the permit, which would allow them the opportunity to park somewhere safe and designated so they're not going to get ticketed or fined or impounded or towed, you know, further displaced. That raises serious concerns around due process for us, and this is something that we raised in our letter.",
-    "MD: What rights do people who live in RVs actually have? Do you have the right to sleep in your RV? Does the City have the right to seize your RV?",
-    "JC: State of Washington v. William Pippin is a State Supreme Court case where our Supreme Court recognized that if someone is using a vehicle as their primary residence, that can qualify as a home under the Washington Homestead Act, which then provides or affords certain protections mostly against debt-related seizures. So I think there is a gray area as it presently stands for folks that are living in their vehicles under the proposed legislation. I mean, at this point, it's passed, but proposed legislation.",
-    "There's also a Ninth Circuit Court case, Lavan v. City of Los Angeles , where the courts recognize that folks living in their vehicles as their residence do have relevant Fourth and 14th Amendment protections, so that would be like unlawful searches and seizures.",
-    "What the City is walking into — not even walking into, what the City is creating, is a legal gray area that I think is ripe for some type of challenge.",
-    "MD: Another part of these rules that stand out to me is the idea that if someone goes through the process and obtains a temporary license to park long-term, when they are offered shelter, they have to take it and ditch their RV. Can the City legally force someone to vacate?",
-    "JC: No, the City can't force someone to vacate. I mean, they can make it as difficult as possible to exist, which I think is the ultimate unspoken goal of this legislation. But there's not going to be any ability to forcibly remove people out of their vehicles if they're choosing to live there. I think the requirement that folks be connected to outreach workers and have to accept offers of shelter, that leads to a slew of questions that I think are raised around due process and other constitutional protections.",
-    "But to your earlier point, we don't even have the adequate shelter space available. We don't. We know that. Seattle does not have the adequate number of shelter space available to house every person who is experiencing homelessness in the city, and that really is what we believe should be the focus, not these punitive responses that are really just forced displacement under the guise of helping people.",
-    "MD: If the mayor approves this proposal and it becomes official, do you foresee places where it may be unconstitutional?",
-    "JC: Absolutely. Yeah, I don't think that's a stretch. I think that this is really toeing the line of constitutionality, and we have to see how this is implemented and enforced to be able to determine whether this is something that rises to the level of some type of lawsuit.",
-    "We've seen an uptick in ICE activity in Washington and South King County. Now immigration advocates are asking local authorities for more protections.",
-    "There's a proposal for a new affordable housing development in the Central District. Africatown leadership wanted to make sure youth voices were at the decision-making table.",
-    "While some City officials are aiming to unhouse folks living in RVs, Seattle's largest tiny home village just opened in South Park.",
-    "If you want to learn what a \"pocket forest\" is, and how a West Seattle pocket forest restoration will improve the habit of beloved salmon, this article is for you.",
-    "There's a new update to a book exploring the history of jazz in Seattle. This Q&A with author Paul de Barros gives a sneak peek into the additions.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-10-31/gu9u4mmr/South-End-Lets-Talk-About-This-RV-Ban.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-cascade-sorgshownewshourextrasnewswrap1793393340",
    "srcKey": "cascade",
    "cat": "arts",
@@ -373,306 +838,6 @@
    "annos": null
   },
   {
-   "id": "f-npr-eethesagainasyouthledprotestssweepeurope",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "France seethes again as youth-led protests sweep Europe",
-   "author": "The Associated Press",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
-   "paras": [
-    "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7542x5028+0+0/resize/7542x5028!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F84%2F42%2F30374004412bbfde4b4826b0b2dc%2Ffrance.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-16024695politicalmeetingbeijingtakeaways",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
-   "author": "Jennifer Pak",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-   "paras": [
-    "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Faa%2F00209429492ba03523634db38c54%2Fap26303093614138.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nancecryptoheistcybercriminalsnorthkorea",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-   "author": "Rafael Nam",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-   "paras": [
-    "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5795x3815+0+0/resize/5795x3815!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F0e%2F3c%2F40d3ade044dd8ef13db2618a0db7%2Fgettyimages-1496426886.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-024423criminalprobealaskasenatecandidate",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-   "author": "The Associated Press",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-   "paras": [
-    "The latest developments come amid allegations, first reported by The New York Times, that Democrats recruited a spoiler candidate in the toss-up U.S. Senate race."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1800x1201+0+0/resize/1800x1201!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F71%2F23%2Fc930c03f4b42967e4f2cfe53a1df%2Fap26303582385359.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-theballroomwereheadedtocheesecakefactory",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
-   "author": "Scott Simon",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
-   "paras": [
-    "Former President Obama caused a kerfuffle with his comments about President Trump's interior decorating at the White House. But maybe state dinners should happen at The Cheesecake Factory."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2Ff8%2F99bd5a3346b2b11f7304f7e135b7%2Fgettyimages-2220498669.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-g20261031gs1150698dronephotoawardwinners",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-   "author": "Kamala Thiagarajan",
-   "date": "2026-10-31",
-   "url": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-   "paras": [
-    "The Siena Drone Photo Awards for 2026 offer breathtaking bird's-eye views of our planet, revealing landscapes, livelihoods and human stories often invisible from the ground."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8000x5328+0+0/resize/8000x5328!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2Fdd%2F7ca94032447789d52228608bf99e%2Fnc-shipbreaking-on-the-mudflats-bay-of-bengal-george-steinmetz.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-tottenhamvcrystalpalacepremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Tottenham 2-0 Crystal Palace: Premier League – live reaction",
-   "author": "Niall McVeigh",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/football/live/2026/oct/31/tottenham-v-crystal-palace-premier-league-live",
-   "paras": [
-    "⚽ Updates on the 5.30pm GMT kick-off in north London ⚽ Football Daily | Premier League table | Email Niall",
-    "6 mins: Spurs enjoying the early possession, stroking the ball swiftly around midfield.",
-    "3 mins: If Palace can get a point here, then Manchester United will drop into the bottom three. And as long as the visitors are level, United are in there provisionally ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/82ce903d989d0de8a2e6dda4283bd601e7e9d57f/1717_748_2060_1649/master/2060.jpg?width=140&quality=85&auto=format&fit=max&s=1f81bba91ca6c6a2fe22bf1f024a780f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-6oct31elonmuskmidtermsspendingvisualized",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
-   "author": "Nick Robins-Early, Andrew Witherspoon, Will Craft, Alvaro Dominguez, and Daniel Wolfe",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
-   "paras": [
-    "The tech mogul’s midterm donations backing Republicans have made him the largest single-cycle political donor in modern US history",
-    "Elon Musk has poured so much money into US politics this midterms election cycle that his donations could fund half a dozen SpaceX rocket launches or buy thousands of Tesla Cybertrucks. At the Tesla Diner in Los Angeles , Musk could order more than 31.9m cheeseburgers with the money he has spent on the midterms.",
-    "Musk, the world’s richest person, has funnelled at least $445.77m into Republican-aligned political action committees (Pacs) and groups since last year, according to US Federal Election Commission data as of 29 October. The contributions have made him the Republicans’ most prominent financial backer and the largest single-cycle political donor in modern US history."
-   ],
-   "img": "https://i.guim.co.uk/img/media/87f71c610e349be86307c3bc3899c73108b60411/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=677a3b257b8a6e5d7d53780c68c3e1dc",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-tstartrekmarinasirtispicardshakespearean",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
-   "author": "Marina Sirtis as told to Tim Jonze",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/culture/2026/oct/31/patrick-stewart-star-trek-marina-sirtis-picard-shakespearean",
-   "paras": [
-    "She was scared of him but soon loosened the Shakespearean up – then watched him give Star Trek depth, even insisting scenes be rewritten for her. Captain Picard’s right-hand woman salutes her fabulous friend",
-    "I’d been warned about Patrick by friends who’d worked with him at the Royal Shakespeare Company. They said: “Marina, you can’t be you around Patrick Stewart. He’s all about the work. He takes it very seriously and he won’t abide you mucking about and trying to make people corpse.”",
-    "We had been cast together on Star Trek: The Next Generation and, because of what I’d heard, I was a bit scared, a bit intimidated. And let’s be honest – Patrick was very serious about the work. But there was a concerted effort by the rest of us to beat it out of him. We were from a younger generation and we wanted to shake up this Englishman who was so typical of his generation – stiff upper lip and a Yorkshireman to boot. You know, the kind of person who was not exactly renowned for showing their emotions. Early on Patrick told us all that we weren’t there to have fun, and you should have seen the looks he got. I’m a cockney: I’ve got a Spurs tattoo and we all looked at him in the same way I look at an Arsenal fan. But we did loosen him up. And – he’s said this himself – I think we actually freed him. We gave him a freedom that he said he’d never really felt before."
-   ],
-   "img": "https://i.guim.co.uk/img/media/160e1150af644262807e9d0437b4bed3b4f822ee/176_10_2068_1654/master/2068.jpg?width=140&quality=85&auto=format&fit=max&s=6b430e6f6042bdc3f4576eaf49650fdf",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-1californiabillionairetaxdemocratsvoters",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Top Democrats are fighting a billionaire tax in California. Their voters are on the other side |",
-   "author": "Norman Solomon",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters",
-   "paras": [
-    "The unprecedented measure has enormous potential nationwide. The clash exposes the party’s corporate-progressive divide",
-    "Midway through this summer, a high-quality poll found that Democrats in California were overwhelmingly in favor of the upcoming ballot measure for a one-time 5% tax on billionaire wealth.",
-    "The ratio was more than 4 to 1. But the state’s most powerful Democrats – including the governor Gavin Newsom, his near-certain successor Xavier Becerra and the Los Angeles mayor Karen Bass – have lined up with Silicon Valley billionaires who’ve raised upward of $340m to defeat the initiative."
-   ],
-   "img": "https://i.guim.co.uk/img/media/46ed2775ee19122cc4f55c70e9f878c48b73ec57/283_0_6492_5194/master/6492.jpg?width=140&quality=85&auto=format&fit=max&s=39b766af6b0cb97c990c1df1f0a8ef53",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-earchsecretsuniversedarkmatterantimatter",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-   "author": "Ian Sample Science editor",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/science/2026/oct/31/south-dakota-mine-search-secrets-universe-dark-matter-antimatter",
-   "paras": [
-    "A mile beneath the Black Hills, scientists are building giant detectors to analyse neutrino particles – and possibly find the answer to existence",
-    "For more than a century, the mining town of Lead, in the Black Hills of South Dakota, attracted workers with a taste for gold. Now, a flagship experiment being built in the old mine is drawing scientists in search of more intriguing riches: answers to the deepest mysteries of the universe.",
-    "Construction of the Deep Underground Neutrino Experiment (Dune) in the former Homestake mine is due to start on Monday. Engineers will begin assembling four giant detectors inside caverns blasted from rock a mile underground."
-   ],
-   "img": "https://i.guim.co.uk/img/media/8eca246a9cb5325c1bd90194772aa2f335828e45/101_0_1201_961/master/1201.jpg?width=140&quality=85&auto=format&fit=max&s=70fbe5b6ed13583cb9fbedab52f1ab91",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-news2026oct31icedetentiontexasstoriesart",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song",
-   "author": "José Olivares",
-   "date": "2026-10-31",
-   "url": "https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art",
-   "paras": [
-    "Nearly 500 men are detained at the T Don Hutto detention facility, and many have risked sharing their experiences in a unique way",
-    "What goes on inside Immigration and Customs Enforcement ( ICE ) detention centers across the US happens behind closed doors and high fences.",
-    "Personal accounts of lengthy detention, misery and sickness and allegations of abuse rarely reach the public directly while people are still behind bars."
-   ],
-   "img": "https://i.guim.co.uk/img/media/221ed381d555641b3463996721b348fdaa75f441/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=3bcc7087ead0ac839d762e14edfd665d",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqx2818elrnzoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eoscmy83w0jwznpoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Emotional reunions with loved ones for Oleshky evacuees",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4184/live/73d4d420-d54a-11f1-bcb7-8f812b44c2e5.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescv369266644loatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Healey risks breaking minimum wage promise for younger workers",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca26/live/ddbc05b0-d546-11f1-b69a-cfba30d5f3d4.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm4g18l8l4wgoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The second series of the hit show reached its finale on Friday, attracting a whopping 11.2 million live viewers."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7499/live/ba968590-d4b2-11f1-88a4-835788f4f80e.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesckpdg3ql4169oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescxnv0p4l7rjloatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
-   "author": "",
-   "date": "2026-10-31",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Sir Keir warns that \"things will not go back to the way they were\" as he says the US makes it clear it will no longer \"bankroll\" its allies."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ec/live/566810d0-915e-11f1-a8f1-774cbc5e1a9f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-geekwire-gentsthatshrinkaimodelstorunonsmallchips",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -730,54 +895,72 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-seattlemoveproductiontoeasternwashington",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Metal fabricator NIC Global to cut 103 jobs near Seattle, move production to Eastern Washington",
-   "author": "Lisa Stiffler",
+   "id": "f-stb-logcom20261030fridayroundtableorcasurvey",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: ORCA Survey",
+   "author": "Mike Orr",
    "date": "2026-10-30",
-   "url": "https://www.geekwire.com/2026/metal-fabricator-nic-global-to-cut-103-jobs-near-seattle-move-production-to-eastern-washington/",
+   "url": "https://seattletransitblog.com/2026/10/30/friday-roundtable-orca-survey/",
    "paras": [
-    "Metal fabricator NIC Global plans to close its Woodinville, Wash., plant, eliminating 103 jobs. Declining business from local customers is prompting the company to shift production primarily to Eastern Washington to meet data center-related growth.",
-    "The layoffs are scheduled to begin Jan. 18, 2027, with final departures Aug. 31, 2028, according to a notice filed with the Washington Employment Security Department. Affected jobs include assembly, engineering, quality assurance, metal fabrication specialists, and forklift positions.",
-    "The building will be returned to its landlord when the lease ends in September 2028.",
-    "“This is a sad day for our company. Woodinville is where NIC was formed — three Seattle-area sheet-metal shops brought together under one roof in 2001 — and the people in that building built the foundation of everything NIC is today,” Troy Wood, company president and CEO, said via email.",
-    "The 100,000-square-foot site mostly served energy and medical device customers. Wood said the volume of work at the plant has declined while demand has increased in Eastern Washington for customers building power distribution technology needed by data centers.",
-    "“NIC is a supplier of sheet-metal fabrications and assemblies, and in our business, being close to our customers is what keeps us competitive,” Wood said.",
-    "While most of the work from Woodinville will go to Spokane, and a smaller portion will go to NIC’s Gallatin, Tenn., facility. The company also has manufacturing in Pullman; Chillicothe, Ohio; and Denton, Texas. The work outside of Washington is focused on the heavy truck sector. The company’s headcount is nearly 600.",
-    "Laid-off workers will be encouraged to apply for openings at other plants.",
-    "There are smaller fabricators remaining in the Seattle area, including JEMCO Components & Fabrications, which provides precision machining and sheet-metal fabrication for customers in medical, aerospace and defense sectors, and QUAL-FAB serving medical and dental customers.",
-    "NIC’s legal and financial headquarters will stay in the Woodinville area, where the company plans a new office for its finance, IT, sales and West Coast support teams.",
-    "Wood praised the quality and reliability of the Woodinville employees’ work.",
-    "“I am grateful to every one of them,” he said, “and especially to those who chose to stay with us through two and a half years of uncertainty and kept doing their jobs with integrity.”"
+    "The ORCA consortium has a survey asking users about their experiences using ORCA cards and the fare payment system. The survey is open until mid November. The Friday Roundtable column is for short, light, interactive topics, so this is an opportunity to ask readers the same question: how is your experience using ORCA cards and the fare payment system in general?",
+    "There are several aspects to consider. There’s tapping an ORCA card, or using a credit card with the new open-payment system for credit cards. Using the readers may be better or worse on Link, regular buses, RapidRide, or Sounder. There’s obtaining the card and refilling it, at a ticket vending machine (TVM), at the MyORCA.com website, or getting a card mailed to you. There’s customer service offices. There’s the fare structure, and free transfers. There’s the times you have to explain the system to visitors or occasional riders at the platform or bus stop when it’s not obvious to them. And probably many other things.",
+    "My two biggest issues with ORCA are the time it takes to register a tap, and paying for part of a pass with an e-purse.",
+    "When you hold an ORCA card to a reader, the second-generation system takes twice as long to register a tap than the previous system did. So on buses I either have to hold up the line behind me, or tap and leave and assume it will either beep while I’m walking away or it won’t beep and I’ll get a free ride.",
+    "The second issue is when you want to split a pass cost between e-purse and a credit card. I switched to e-purse during the pandemic, and back to a pass this year. In the past at TVMs I’ve been able to use the $60 e-purse value for partial payment for the $108 pass, and pay the rest by credit card. I’d then have to do a second credit-card payment to put $10 back into the e-purse for occasional surcharges, because it had no option to take just $50 out of the e-purse and leave the other $10.",
+    "This year when I went back to using passes, the TVM wouldn’t even do that. The e-purse option was disabled, so the only choices were credit card or cash. That’s presumably because the e-purse value wasn’t enough for the entire pass. I didn’t want to leave $60 in the e-purse unused forever, so I went to Metro’s customer service office to make the kind of payment split I wanted. It would be nice if the TVMs could do this."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/Woodinville_exterior1.jpg",
+   "img": "",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-geekwire-forseattleradiostationsworldwideaudience",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Power outage takes down KEXP streaming for Seattle radio station’s worldwide audience",
-   "author": "Kurt Schlosser",
+   "id": "f-chs-enttalksabouteastprecinctcrimeischanging",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "From gunfire to combative arrests: How the Seattle Police Department talks about East Precinct crime is changing",
+   "author": "Justin Carder",
    "date": "2026-10-30",
-   "url": "https://www.geekwire.com/2026/power-outage-takes-down-kexp-streaming-for-seattle-radio-stations-worldwide-audience/",
+   "url": "https://www.capitolhillseattle.com/2026/10/from-gunfire-to-combative-arrests-how-the-seattle-police-department-talks-about-east-precinct-crime-is-changing/",
    "paras": [
-    "KEXP’s website and online streaming were down Friday morning after a power outage hit the Seattle radio station, though its over-the-air broadcast was back and running.",
-    "The outage started around midnight, and the station was on and off for a while before it was “knocked offline by a major power outage” between 2 and 3 a.m., said Dashel Schueler, KEXP’s director of marketing and communications. Schueler didn’t know the cause of the outage.",
-    "The station’s backup power system, known as an uninterruptible power supply (UPS), also failed.",
-    "“There’s no power to the server room infrastructure because the UPS that is supposed to protect all of that gear has failed,” Schueler said. Staff are trying to power critical devices to restore services while they wait for the UPS to be repaired or for a workaround that bypasses it.",
-    "There’s no estimate yet for when streaming will return.",
-    "Listeners in the Seattle area can tune in at 90.3 FM. The outage affects the KEXP.org stream and the station’s mobile app. KEXP estimates about 175,000 people stream its live broadcast each week, and another 85,000 listen to its shows on-demand.",
-    "The outage also took down 92.7 KREV, the station KEXP now owns in the San Francisco Bay Area, which relies on KEXP’s Seattle-based digital infrastructure. Because KEXP’s DJs pick songs live rather than playing a preset playlist, underwriting breaks vary in timing and length, Schueler said. DJs fire the separate Seattle and Bay Area spots manually and at the same time.",
-    "KREV was back by around 8:30 to 8:45 a.m., running on a barebones setup KEXP typically uses for remote broadcasts, Schueler said. Listeners may notice some issues while the station gets everything put back together.",
-    "Around 7:30 a.m., KEXP DJ John Richards read messages on air from listeners across Seattle who were happy to have the station back — terrestrially at least.",
-    "A few posts from listeners on X and Bluesky referenced the streaming outage.",
-    "Update: Late Friday afternoon KEXP said it was still working to restore services, but it did manage to put up a temporary livestream on its site ."
+    "(Source: CHS analysis of SPD Significant Incident Reports )",
+    "As Capitol Hill crime trends are shifting as part of City Hall priorities to increase public safety downtown, the way the public is informed about the Seattle Police Department’s day to day enforcement, arrests, and challenges across the city and in the East Precinct is also changing.",
+    "CHS reported here this summer on a key shift as SPD and Seattle Fire have now mostly fully encrypted their dispatch and emergency radio transmissions, cutting off real-time public and scanner access to tactical and operational channels.",
+    "Other public channels documenting 911 incidents in the city are also shifting.",
+    "One suddenly more important outlet with the radio channel near-blackout are SPD’s Significant Incident Reports . Prepared by each precinct for daily command briefings, the department has regularly published a selected stream of SIR updates for over six years now after beginning the practice following the onset of the pandemic and the civil unrest surrounding CHOP .",
+    "The stream of briefs signed-off on and approved by precinct commanders for publication provide information on individual incidents and arrests. They are also revealing of shifting priorities in information at SPD.",
+    "While the Seattle Police Department has drastically curtailed SIR public blotter updates citywide, East Precinct’s totals have taken an opposite path, not only expanding its share of published reports, but transforming the precinct’s Significant Incident Reports stream into a platform focused on officer hazards and physical resistance during arrests.",
+    "Across the department, blotter publication has slowed to all-time lows in 2026. Citywide postings dropped nearly 25% year-to-date, falling from a 2021 peak of 5.4 daily incident reports to just 2.4. The South and Southwest precincts drive much of this pullback, paring down their posts to focus primarily on gunfire and shell casing recoveries, with shootings accounting for around 40% of their recent posts.",
+    "East Precinct moved in the opposite direction. From 2021 through 2023, East accounted for just 14.9% of all citywide SIR entries, ranking last among SPD’s five precincts.",
+    "That came even as downtown enforcement pushed crime eastward , with Capitol Hill recording 780 additional offenses by 2025 and passing downtown for the city’s highest raw crime count.",
+    "In 2025 and 2026, East’s share of the blotter also surged — to 20.8%, overtaking both South and Southwest. A bigger change in the East reports is their nature.",
+    "Instead of cataloging major neighborhood violence — confirmed gunfire reports dropped from 28.3% of East entries during 2021–2023 down to 16.9% recently — the blotter has shifted toward documenting the occupational hazards and physical friction officers encounter while making arrests.",
+    "East now leads the entire city in publicizing physical threats to personnel. Over 12% of recent East posts, peaking at nearly 14% in 2025, detail suspects physically fighting officers during handcuffing, spitting in officers’ faces, brandishing weapons at patrol, or facing felony assault and obstruction charges. These physical confrontations frequently emerge during lower-level disorder calls, including retail trespass, public urination, and crisis detentions.",
+    "Arrests are also highlighted. Reports emphasizing suspect custody leaped from 36.3 to 46.1%.",
+    "Even as monthly crime across Capitol Hill and First Hill began cooling in late summer 2026, the East Precinct information flow has held firm, making the precinct’s SIR updates a record of enforcement hazards and showcasing the combative arrests and physical resistance officers face.",
+    "As for what is happening day to day across the neighborhoods of the East Precinct, sources like the Seattle Fire real-time 911 logs remain. A growing array of for–pay, non-public services like the Citizen app are also flowering. Citizen was originally launched as “Vigilante” and is backed by prominent Silicon Valley venture capital firms, high-profile angel investors, and growth funds if you have any question about the goals behind it.",
+    "As Seattle’s public safety communications contract behind encrypted radios and reduced blotter output, the day-to-day picture of policing in the East Precinct could largely become a reflection of command selection. While commercial apps monetize access to 911 monitoring, SPD’s official updates have narrowed their lens.",
+    "The city’s news gatherers have weathered change before and CHS is finding new ways to keep up with — and dig up — crime and emergency news. We also have access to a unique and powerful resource — you:",
+    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group ."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/10/55593841761_e5c7491be5_k.jpg",
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/chs-1366.jpg?resize=584%2C243&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-maninjuredin14thaveburglaryturnedrobbery",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "911 | Rider hospitalized in 15th/John scooter collision, man injured in 14th Ave burglary turned robbery",
+   "author": "CHS Staff",
+   "date": "2026-10-30",
+   "url": "https://www.capitolhillseattle.com/2026/10/911-rider-hospitalized-in-15th-john-scooter-collision-man-injured-in-14th-ave-burglary-turned-robbery/",
+   "paras": [
+    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -871,128 +1054,10 @@
    "annos": null
   },
   {
-   "id": "f-stb-logcom20261030fridayroundtableorcasurvey",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: ORCA Survey",
-   "author": "Mike Orr",
-   "date": "2026-10-30",
-   "url": "https://seattletransitblog.com/2026/10/30/friday-roundtable-orca-survey/",
-   "paras": [
-    "The ORCA consortium has a survey asking users about their experiences using ORCA cards and the fare payment system. The survey is open until mid November. The Friday Roundtable column is for short, light, interactive topics, so this is an opportunity to ask readers the same question: how is your experience using ORCA cards and the fare payment system in general?",
-    "There are several aspects to consider. There’s tapping an ORCA card, or using a credit card with the new open-payment system for credit cards. Using the readers may be better or worse on Link, regular buses, RapidRide, or Sounder. There’s obtaining the card and refilling it, at a ticket vending machine (TVM), at the MyORCA.com website, or getting a card mailed to you. There’s customer service offices. There’s the fare structure, and free transfers. There’s the times you have to explain the system to visitors or occasional riders at the platform or bus stop when it’s not obvious to them. And probably many other things.",
-    "My two biggest issues with ORCA are the time it takes to register a tap, and paying for part of a pass with an e-purse.",
-    "When you hold an ORCA card to a reader, the second-generation system takes twice as long to register a tap than the previous system did. So on buses I either have to hold up the line behind me, or tap and leave and assume it will either beep while I’m walking away or it won’t beep and I’ll get a free ride.",
-    "The second issue is when you want to split a pass cost between e-purse and a credit card. I switched to e-purse during the pandemic, and back to a pass this year. In the past at TVMs I’ve been able to use the $60 e-purse value for partial payment for the $108 pass, and pay the rest by credit card. I’d then have to do a second credit-card payment to put $10 back into the e-purse for occasional surcharges, because it had no option to take just $50 out of the e-purse and leave the other $10.",
-    "This year when I went back to using passes, the TVM wouldn’t even do that. The e-purse option was disabled, so the only choices were credit card or cash. That’s presumably because the e-purse value wasn’t enough for the entire pass. I didn’t want to leave $60 in the e-purse unused forever, so I went to Metro’s customer service office to make the kind of payment split I wanted. It would be nice if the TVMs could do this."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-enttalksabouteastprecinctcrimeischanging",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "From gunfire to combative arrests: How the Seattle Police Department talks about East Precinct crime is changing",
-   "author": "Justin Carder",
-   "date": "2026-10-30",
-   "url": "https://www.capitolhillseattle.com/2026/10/from-gunfire-to-combative-arrests-how-the-seattle-police-department-talks-about-east-precinct-crime-is-changing/",
-   "paras": [
-    "(Source: CHS analysis of SPD Significant Incident Reports )",
-    "As Capitol Hill crime trends are shifting as part of City Hall priorities to increase public safety downtown, the way the public is informed about the Seattle Police Department’s day to day enforcement, arrests, and challenges across the city and in the East Precinct is also changing.",
-    "CHS reported here this summer on a key shift as SPD and Seattle Fire have now mostly fully encrypted their dispatch and emergency radio transmissions, cutting off real-time public and scanner access to tactical and operational channels.",
-    "Other public channels documenting 911 incidents in the city are also shifting.",
-    "One suddenly more important outlet with the radio channel near-blackout are SPD’s Significant Incident Reports . Prepared by each precinct for daily command briefings, the department has regularly published a selected stream of SIR updates for over six years now after beginning the practice following the onset of the pandemic and the civil unrest surrounding CHOP .",
-    "The stream of briefs signed-off on and approved by precinct commanders for publication provide information on individual incidents and arrests. They are also revealing of shifting priorities in information at SPD.",
-    "While the Seattle Police Department has drastically curtailed SIR public blotter updates citywide, East Precinct’s totals have taken an opposite path, not only expanding its share of published reports, but transforming the precinct’s Significant Incident Reports stream into a platform focused on officer hazards and physical resistance during arrests.",
-    "Across the department, blotter publication has slowed to all-time lows in 2026. Citywide postings dropped nearly 25% year-to-date, falling from a 2021 peak of 5.4 daily incident reports to just 2.4. The South and Southwest precincts drive much of this pullback, paring down their posts to focus primarily on gunfire and shell casing recoveries, with shootings accounting for around 40% of their recent posts.",
-    "East Precinct moved in the opposite direction. From 2021 through 2023, East accounted for just 14.9% of all citywide SIR entries, ranking last among SPD’s five precincts.",
-    "That came even as downtown enforcement pushed crime eastward , with Capitol Hill recording 780 additional offenses by 2025 and passing downtown for the city’s highest raw crime count.",
-    "In 2025 and 2026, East’s share of the blotter also surged — to 20.8%, overtaking both South and Southwest. A bigger change in the East reports is their nature.",
-    "Instead of cataloging major neighborhood violence — confirmed gunfire reports dropped from 28.3% of East entries during 2021–2023 down to 16.9% recently — the blotter has shifted toward documenting the occupational hazards and physical friction officers encounter while making arrests.",
-    "East now leads the entire city in publicizing physical threats to personnel. Over 12% of recent East posts, peaking at nearly 14% in 2025, detail suspects physically fighting officers during handcuffing, spitting in officers’ faces, brandishing weapons at patrol, or facing felony assault and obstruction charges. These physical confrontations frequently emerge during lower-level disorder calls, including retail trespass, public urination, and crisis detentions.",
-    "Arrests are also highlighted. Reports emphasizing suspect custody leaped from 36.3 to 46.1%.",
-    "Even as monthly crime across Capitol Hill and First Hill began cooling in late summer 2026, the East Precinct information flow has held firm, making the precinct’s SIR updates a record of enforcement hazards and showcasing the combative arrests and physical resistance officers face.",
-    "As for what is happening day to day across the neighborhoods of the East Precinct, sources like the Seattle Fire real-time 911 logs remain. A growing array of for–pay, non-public services like the Citizen app are also flowering. Citizen was originally launched as “Vigilante” and is backed by prominent Silicon Valley venture capital firms, high-profile angel investors, and growth funds if you have any question about the goals behind it.",
-    "As Seattle’s public safety communications contract behind encrypted radios and reduced blotter output, the day-to-day picture of policing in the East Precinct could largely become a reflection of command selection. While commercial apps monetize access to 911 monitoring, SPD’s official updates have narrowed their lens.",
-    "The city’s news gatherers have weathered change before and CHS is finding new ways to keep up with — and dig up — crime and emergency news. We also have access to a unique and powerful resource — you:",
-    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/chs-1366.jpg?resize=584%2C243&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-maninjuredin14thaveburglaryturnedrobbery",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "911 | Rider hospitalized in 15th/John scooter collision, man injured in 14th Ave burglary turned robbery",
-   "author": "CHS Staff",
-   "date": "2026-10-30",
-   "url": "https://www.capitolhillseattle.com/2026/10/911-rider-hospitalized-in-15th-john-scooter-collision-man-injured-in-14th-ave-burglary-turned-robbery/",
-   "paras": [
-    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-wayballotdropboxmusicdancingandcivicduty",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Coming to Capitol Hill’s Broadway ballot drop box: music, dancing, and civic duty",
-   "author": "CHS Staff",
-   "date": "2026-10-30",
-   "url": "https://www.capitolhillseattle.com/2026/10/coming-to-capitol-hills-broadway-ballot-drop-box-music-dancing-and-civic-duty/",
-   "paras": [
-    "Now you know what happens inside the box (Image: King County Elections)",
-    "Voters heading to Capitol Hill heading into Tuesday’s Election Night can turn civic duty into a community celebration before Washington’s 8 PM voting deadline on November 3.",
-    "Seattle Strike is hosting “Rock the Box,” a series of volunteer-led ballot box gatherings running November 1 through November 3 from 4 to 8 PM. Among the 10 locations is the official ballot drop box at Seattle Central College , located at 1701 Broadway.",
-    "Organizers aim to build local solidarity and joy through music and dancing as neighbors cast their ballots ahead of the general election.",
-    "Seattle Strike describes itself as an activist movement organizing in the greater Seattle area to prepare for coordinated, nonviolent collective action including mass peaceful civil disobedience and a potential general strike to safeguard democratic rights.",
-    "The national effort it is part of reports it is funded through grassroots giving and donations.",
-    "All official ballot drop boxes statewide, including the Broadway box, close at 8 PM on Election Night. Voters submitting ballots in person must deposit them before the deadline to ensure they are counted. Details on registration, vote center assistance, and drop box locations are available via King County Elections .",
-    "Seattle voters have a new tool to help with their vote. The Lefty Cheat Sheet has been launched with praise for its resources — and a bit of controversy about its progressive goals .",
-    "CHS reported here on the major issues Capitol Hill and Central District voters will decide on including the 43rd Legislative District state Senate race between longtime incumbent Jamie Pedersen and challenger Hannah Sabio-Howell , statewide battles over Initiative 001 and Initiative 638 concerning transgender youth, public school policies, and sports, and the proposed Seattle Transit Measure 0.3% sales tax update to expand city bus service and transit access.",
-    "There are also some critical judicial branch votes to fill in. Voters in Washington have five nonpartisan State Supreme Court contests on their general election ballot. For Position 1 , sitting state justice Colleen Melody faces private practice attorney Scott Edwards . For Position 3 , King County judge Jaime Michelle Hawk runs against Mason County judge David Stevens . For Position 4 , appeals court judge Ian Birk challenges King County judge Sean O’Donnell . For Position 5 , sitting state justice Theo Angelis faces former municipal judge Dave Larson . Finally, for Position 7 , sitting chief justice Debra Stephens runs against practicing tax attorney Todd Bloom ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-apitolhillsooinktosellitsramennationwide",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Seattle launches 4% small business loan revamp — with a boost for spots like Capitol Hill’s Ooink to sell its ramen nationwide",
-   "author": "CHS Staff",
-   "date": "2026-10-30",
-   "url": "https://www.capitolhillseattle.com/2026/10/seattle-launches-4-small-business-loan-revamp-with-a-boost-for-spots-like-capitol-hills-ooink-to-sell-its-ramen-nationwide/",
-   "paras": [
-    "The City of Seattle has revamped its Small Business Capital Access Program to deliver fixed 4% interest rate loans to local entrepreneurs facing rising operational costs and predatory lending risks.",
-    "Announced by Mayor Katie Wilson , the Seattle Office of Economic Development, and nonprofit partner Grow America this week, the updated initiative enables qualified small business owners to secure up to $350,000 in financing with locked-in, lifetime interest rates. Funds can cover essential day-to-day overhead, including payroll, rent, utilities, and supplies.",
-    "Formerly the National Development Council, Grow America is a national nonprofit that partners with local governments and community lenders to deliver affordable financing, technical assistance, and investment capital to small businesses and underserved communities.",
-    "Six participating community lenders, consisting of local credit unions and Community Development Financial Institutions will administer the loans. The streamlined system is hoped to also limit paperwork from borrowers; lenders automatically process the CAP application once a business qualifies.",
-    "City officials emphasize that the program levels the playing field for historically underserved business owners navigating inflation, rent spikes, and supply-chain pressures.",
-    "Since launching in 2021, CAP has distributed nearly $7 million across 331 Seattle businesses, unlocking more than $27.8 million in affordable financing to keep neighborhood commercial districts vibrant and storefronts open and thriving.",
-    "Local recipients include 20-year-old Capitol Hill noodle bar Ooink which tapped the program to manage overhead and fund expansion into packaged nationwide distribution, while in the Central District, the Urban League of Metropolitan Seattle has served as a technical assistance navigator, helping historically underserved and BIPOC entrepreneurs prepare financials and secure financing through participating mission-based lenders like Craft3 , Business Impact NW, and Community Capital Development ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stranger-uctiverightslocaladvocatesarentconvinced",
    "srcKey": "stranger",
    "cat": "arts",
-   "title": "State Supreme Court Candidate Sean O’Donnell Says he Supports Reproductive Rights, Local Advocates Aren’t Convinced",
+   "title": "State Supreme Court Candidate Sean O’Donnell Says He Supports Reproductive Rights, Local Advocates Aren’t Convinced",
    "author": "Megan Burbank",
    "date": "2026-10-30",
    "url": "https://www.thestranger.com/news/state-supreme-court-candidate-sean-odonnell-says-he-supports-reproductive-rights-local-advocates-arent-convinced/",
@@ -1009,7 +1074,7 @@
     "“There’s certainly nothing that would prevent a candidate from participating in this process,” he says, adding that O’Donnell’s lack of engagement came as a surprise. “I think that the focus on healthcare access, healthcare equity, and healthcare affordability is just very important in society.” In his previous career as a personal injury attorney, Birk often advocated for clients seeking insurance coverage or disability benefits, or otherwise navigating major barriers to all kinds of health care. “This issue does come before the court,” he says.",
     "Paolini said the opposite was true of abortion, specifically: that access is “incredibly settled law” in Washington. “There is zero threat here,” he says. “Sean supports reproductive healthcare.”",
     "For Normand, that was a red flag, given national attacks on abortion rights and efforts to limit access even in states with protective policies. “Anyone who is on the bench in Washington state knows that attacks are being lobbed at us all the time,” she says. “And as one of the nation’s leading reproductive rights states, we’re a target for anything the other side can come up with to bring to court. So not only do I think that’s wrong, I think it’s alarming that they’re not taking it more seriously.”",
-    "The post State Supreme Court Candidate Sean O’Donnell Says he Supports Reproductive Rights, Local Advocates Aren’t Convinced appeared first on The Stranger ."
+    "The post State Supreme Court Candidate Sean O’Donnell Says He Supports Reproductive Rights, Local Advocates Aren’t Convinced appeared first on The Stranger ."
    ],
    "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/10/Genna-Martin_San-Francisco-Chronicle-via-Getty-Images-1298897118-copy.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
@@ -1130,15 +1195,15 @@
    "annos": null
   },
   {
-   "id": "f-grist-Ud4d01MQTE2UzJ3SVU0YUpXZnh3dGRaR0JnTQoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "Strange, catastrophic landslides are kicking off across the far north",
+   "id": "f-kuow-weEFIakpiX3VFdGhPYkhha3JHeFZfQVA5Z2JBoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Kitsap to vote on energy measure, as PSE pours millions into campaign against it",
    "author": "",
    "date": "2026-10-30",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjV6UzdKS0xjNEtZMU5LVm4xWXp3Y0wxSFZBeEZrS2I3SzlERVZsMTNzT0xac1ZUVGF1RGxRODNtOGZHZkV1YnhCUlptWVUwZmotNjZEdW13cTRXOFpFaTQyS1M4N0tlU2VCLTVIMzVwOW8xSWNFLU5DcVZLemRUOUd4d01MQTE2UzJ3SVU0YUpXZnh3dGRaR0JnTQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hjVThtRUhiT2xWWXMyREg4aHl2R0l0cklpY2JIYm14LTBqV0RyZ0VVckFJT0ZUUUpfUUVZb2NFRTBTNjFaMTdtVThjR2RIOGxTeHRyX3oySk1oeVI5cmxZRDRzSGk5NU95TWJvajVCbm1HamhHcEpIa2l3RE1FdEpOODNZbFZaaFp2b09tZUZCbXNhc05JbGtsMU4xQkZGVEtMSWp6aFVvcGtweEFIakpiX3VFdGhPYkhha3JHeFZfQVA5Z2JB?oc=5",
    "paras": [
-    "Strange, catastrophic landslides are kicking off across the far north Grist"
+    "Kitsap to vote on energy measure, as PSE pours millions into campaign against it KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1164,15 +1229,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-weEFIakpiX3VFdGhPYkhha3JHeFZfQVA5Z2JBoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Kitsap to vote on energy measure, as PSE pours millions into campaign against it",
+   "id": "f-grist-Ud4d01MQTE2UzJ3SVU0YUpXZnh3dGRaR0JnTQoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "Strange, catastrophic landslides are kicking off across the far north",
    "author": "",
    "date": "2026-10-30",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1hjVThtRUhiT2xWWXMyREg4aHl2R0l0cklpY2JIYm14LTBqV0RyZ0VVckFJT0ZUUUpfUUVZb2NFRTBTNjFaMTdtVThjR2RIOGxTeHRyX3oySk1oeVI5cmxZRDRzSGk5NU95TWJvajVCbm1HamhHcEpIa2l3RE1FdEpOODNZbFZaaFp2b09tZUZCbXNhc05JbGtsMU4xQkZGVEtMSWp6aFVvcGtweEFIakpiX3VFdGhPYkhha3JHeFZfQVA5Z2JB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjV6UzdKS0xjNEtZMU5LVm4xWXp3Y0wxSFZBeEZrS2I3SzlERVZsMTNzT0xac1ZUVGF1RGxRODNtOGZHZkV1YnhCUlptWVUwZmotNjZEdW13cTRXOFpFaTQyS1M4N0tlU2VCLTVIMzVwOW8xSWNFLU5DcVZLemRUOUd4d01MQTE2UzJ3SVU0YUpXZnh3dGRaR0JnTQ?oc=5",
    "paras": [
-    "Kitsap to vote on energy measure, as PSE pours millions into campaign against it KUOW"
+    "Strange, catastrophic landslides are kicking off across the far north Grist"
    ],
    "img": "",
    "fetched": true,
@@ -1390,44 +1455,6 @@
    "annos": null
   },
   {
-   "id": "f-conversation-dwheretheseghostparticlesoriginate294408",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Figuring out where cosmic neutrinos come from is tricky - radio telescopes could help find where these ‘ghost particles’ originate",
-   "author": "<name>Yjan Gordon, Instructor of Physics, University of Wisconsin-Whitewater</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/yjan-gordon-2691193\"/>",
-   "date": "2026-10-30",
-   "url": "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408",
-   "paras": [
-    "Neutrinos are funny little particles that weigh almost nothing, making them one of the universe’s most elusive building blocks. They can come from objects as mundane as bananas and as exotic as supernovas – the exploding death throes of massive stars. Most neutrinos stream through space and pass through the Earth without interacting with anything.",
-    "An experiment called IceCube, built to detect these “ghost particles” emitted from astrophysical events, just won a Nobel Prize . As a physicist , I’m interested in figuring out where the neutrinos IceCube detects come from. A study that my colleagues and I published in October 2026 suggests that we could potentially use radio telescopes to answer this question.",
-    "Even though these telescopes can’t see neutrinos, we can use their data to match up IceCube’s detections with their potential sources out in space. Knowing which types of objects produce neutrinos can tell astronomers about the physics occurring within those objects.",
-    "Most particles interact with the universe through a fundamental force of nature called electromagnetism . It’s the force that powers the phone, tablet or computer that you may be reading this article on. It drives all the chemistry responsible for life, and it’s responsible for the light your eyes can see.",
-    "What makes neutrinos odd is that they don’t interact with the universe through electromagnetism. Instead, they interact with the universe via a force that physicists call the weak interaction . This force only acts over distances smaller than the inside of an atomic nucleus ; as such, they must pass very, very close to the centers of atoms in order to interact – otherwise they just fly right through. That makes them very difficult to detect – but not impossible.",
-    "Scientists have been able to detect neutrinos from space – called astrophysical neutrinos – since the 1960s. These typically come from our Sun and, in at least one case, from a supernova .",
-    "Over the past decade or so, researchers at the appropriately named IceCube Observatory have used the South Pole’s Antarctic ice as a neutrino telescope. The densely packed ice gives neutrinos many opportunities to interact with water molecules, and detectors can see radiation from those interactions when they do occur.",
-    "Even so, neutrinos really are one of nature’s most introverted particles, and it takes time for any of the ice molecules to get lucky and interact with a neutrino. But, with enough time, it eventually happens. And with more time, it happens again. The more time you give it, the more interactions you see, and the more neutrinos you detect.",
-    "IceCube has used this approach to detect astrophysical neutrinos that are hundreds of thousands of times more energetic than those previously seen. The discovery of these high-energy astrophysical neutrinos has opened up a new window on our universe.",
-    "The same property that makes them difficult to detect – namely their reluctance to interact with their surroundings – also makes them an effective way to see high-energy processes in places that light can’t penetrate. The problem is we’re not sure where they all come from.",
-    "Scientists do have some ideas about their origin, of course. Quasars – objects where matter is being ripped apart by black holes millions of times more massive than our Sun – seem to be likely candidates. In 2017, IceCube detected a neutrino that appeared to come from the direction of a quasar , known as TXS 0506+056, at the same time that a telescope detected an outburst of gamma radiation from that same object.",
-    "That finding is interesting because the processes that produce neutrinos – namely the decay of subatomic particles – should also produce high-energy electromagnetic radiation – namely gamma rays. So scientists expect neutrino sources to also produce gamma-ray outbursts.",
-    "However, TXS 0506+056 is just one object. It may not be representative of where most high-energy neutrinos come from. So far, there’s been little evidence of a more general relationship between gamma-ray outbursts and neutrino detections. But gamma rays can be easily obscured.",
-    "Much like the lead apron that the technician taking your X-ray at the hospital wears to protect themselves from the radiation, dust and gas that gathers near a supermassive black hole can block gamma rays from ever reaching Earth.",
-    "However, another form of electromagnetic radiation that’s invisible to gamma-ray telescopes – radio waves – are not so easily shielded. Using telescopes that look at radio waves from space may provide scientists an alternate way to see what’s going on.",
-    "Beginning in 2017, the Very Large Array in New Mexico began tracking how radio emissions from space change in brightness over time, a project known as the Very Large Array Sky Survey , or VLASS for short. My team and I recently showed that most of the objects seen by VLASS with fluctuating radio emissions are quasars , of the same type that IceCube previously saw producing neutrinos.",
-    "Interestingly, when we compared the times that IceCube detected neutrinos with the times when objects spotted by VLASS experienced flares of radio emission, there appeared to be a correlation.",
-    "Put another way, when an astrophysical neutrino is detected by IceCube, there is a radio source brightening in the same part of the sky, more often than you’d expect from random chance . These radio flares seem to only be associated with about 13% of the astrophysical neutrinos detected by IceCube, which means we still can’t account for the origin of the majority of astrophysical neutrinos. However, more than 90% of the radio outbursts potentially associated with neutrinos aren’t seen at all by our gamma-ray telescopes.",
-    "If the neutrino’s source of origin is hidden at gamma-ray wavelengths, but not at radio wavelengths, then radio telescopes could become an essential tool in neutrino astronomy.",
-    "At the moment, the signal we’re seeing is intriguing, even tantalizing. But there’s about a 1-in-30 chance of getting the results we see even if there’s no correlation between neutrinos and radio flares. Those are roughly the same odds as tossing a coin five times and getting heads every time: unlikely, but not impossible.",
-    "Scientists are far more comfortable when the odds of a result being due to random chance are closer to one in a million – the same as getting heads 20 times in a row. To confirm if what we’re seeing is real or not, we need more observations. We expect to have those in the next few years.",
-    "One thing is for sure, though: It’s an exciting time to be studying the origins of astrophysical neutrinos, and it looks like radio astronomers may have a big role to play.",
-    "Yjan Gordon does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/767352/original/file-20261020-50-c5cgi.jpg?ixlib=rb-4.1.1&rect=0%2C272%2C2048%2C1365&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-GbEZjWWpNUXdUME8tTW1Tb3NaSW80LUp4SWowoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1445,20 +1472,23 @@
    "annos": null
   },
   {
-   "id": "f-propublica-xLMGFkRjN6eG8zS2xMSWJtZlpNOG91T2dHTFkoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps",
-   "author": "",
-   "date": "2026-10-30",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYlNxc1NzNzQ0Z2M5Y2JXMU5SYjJJb1E4d1NERzBmMXFWaGNLMGVFQWRJcmE5NHRiU1liNDBaVVRnM0xZVVphc19UUlpDWFFna05sOXRENmZJQmNQNE1XWWZRTTlUMUoxOHgtMWxLMGFkRjN6eG8zS2xMSWJtZlpNOG91T2dHTFk?oc=5",
+   "id": "f-stb-261029soundtransitpilotsupdatedpetpolicy",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sound Transit Pilots Updated Pet Policy",
+   "author": "Michael Smith",
+   "date": "2026-10-29",
+   "url": "https://seattletransitblog.com/2026/10/29/sound-transit-pilots-updated-pet-policy/",
    "paras": [
-    "Federal and State Officials Ramp Up Scrutiny of DraftKings, Other Sports Betting Apps ProPublica"
+    "Sound Transit is piloting an updated pet policy on its buses and trains between now and Spring 2027. During the pilot, pet dogs will be permitted on board if they are leashed, well-behaved, and controlled by their handler. All other pets must remain in an enclosed carrier. As always, service animals are permitted in compliance with the ADA.",
+    "Prior to the pilot, dogs and other pets were only allowed on Sound Transit buses and trains in a carrier. In July 2025, the Sound Transit Board approved Motion No. M2025-34 , directing the agency to consider updating the rules to allow leashed dogs. This motion was motivated by the opening of Marymoor Village station as part of the Downtown Redmond Link Extension in May 2025. Marymoor Village station is next to Marymoor Park, a 640-arce park which includes a 40-arce off-leash dog area.",
+    "Will this pilot impact the passenger experience on Sound Transit? Probably not. In a presentation to the Executive Committee before the motion was approved, then-Acting Executive Director of Security & Fare Engagement Brian de Place acknowledged that passengers already take leashed dogs on Sound Transit buses and trains. While doing so did violate the rules, de Place noted “if the dog is leashed and generally under control, security will not engage with that passenger unless there is an actual disturbance”. In the year prior to this meeting, Sound Transit security only received 8 calls about pets.",
+    "There are few other notes pet owners should be aware of before bringing their leashed dogs onboard:",
+    "If you encounter an aggressive animal or other issues, call or text Sound Transit security: (206) 398-5268. In an emergency, call 911."
    ],
-   "img": "",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_6816-rotated.jpg?resize=525%2C700&ssl=1",
    "fetched": true,
-   "fullText": false,
-   "gnews": true,
+   "fullText": true,
    "annos": null
   },
   {
@@ -1505,98 +1535,6 @@
     "“Shelters like Cloverleaf are really how we welcome people indoors, how we can stop this pattern of just moving people from block to block, how we can actually get people what they need in order to start over, and this is also how we overcome the cynicism that takes root when people lose the faith that we can actually solve our our greatest challenges together,” Wilson said. “What this is going to take is partnerships and persistence. And what gives me hope is not just seeing the tangible signs of progress here behind me, these actual tiny homes that people are already moving into, but knowing that those partnerships are strong, and knowing that we are all feeling very persistent right now.”"
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/data-src-image-55d85aed-64fb-4a98-bc30-acc13ebbbed7-1-.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-cesinfaceofsoaringhospitalexpansioncosts",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "New Harborview Garage Advances In Face of Soaring Hospital Expansion Costs",
-   "author": "Ryan Packer",
-   "date": "2026-10-29",
-   "url": "https://www.theurbanist.org/new-harborview-garage-advances-in-face-of-soaring-hospital-expansion-costs/",
-   "paras": [
-    "King County is advancing plans for a new, six-story underground parking garage adjacent to Harborview Medical Center. The parking project will put the first shovels in the ground on the major hospital expansion approved by voters in 2020. The $189 million garage is needed, county officials say, to mitigate the loss of hundreds of parking stalls when construction on a new Harborview medical tower begins next year, an inpatient facility that will add critical capacity to the strained hospital campus.",
-    "The garage's pending construction, set to commence next year, comes as costs on the overall Harborview bond program continue to escalate, going from $1.74 billion when it was approved six years ago to more than $3 billion today . That recent cost update, provided Tuesday morning to members of the King County Council by Harborview Construction and Infrastructure Division Director Tony Wright, is hundreds of millions of dollars more than had been communicated just a few months ago .",
-    "The parking garage is set to be constructed on what's currently a vacant lot at Ninth Avenue and Alder Street, which the County acquired in 2024. The project is advancing through permitting as a two-stage development that would see a multistory medical office building built sometime after the parking-only phase. But no funding has been identified for that second stage of the development, a project that falls outside of the core scope of the Harborview bond program.",
-    "The garage's total number of stalls – somewhere between 700 and 730 – stems from the site's zoning, which sits within the larger Yesler Terrace master-planned community (MPC). The total number of parking stalls within the boundaries of that MPC is capped at 1,350, with 749 stalls currently available after recent residential developments have opened in recent years.",
-    "King County did consider building a fully standalone parking garage on the site, but a recent report looking at parking alternatives notes that this is \"likely not an allowable use\" within the Yesler Terrace MPC.",
-    "When the new medical tower opens as soon as 2032, with approximately three stories of underground parking of its own, the net amount of off-street parking within the total Harborview campus will have increased by 550 stalls compared to today. If the medical office building is ultimately built at Ninth and Alder, some stalls would be lost due to a need to create a loading dock.",
-    "Harborview is the only Level 1 trauma center across a four-state area that includes Alaska, Montana, and Idaho, making expanding its inpatient capacity a pressing issue of regional significance. But it's not clear that Harborview has in fact utilized all of the tools in the toolbox to be able to enable patient and staff access without more vehicle parking.",
-    "During Tuesday's discussion, King County Councilmember Claudia Balducci pressed Wright on the decision to lead with construction on a parking garage, given the fact that the timeline to open the new medical tower has already slipped by four years. That new tower, in addition to providing badly needed inpatient beds, would also \"provide surge capacity for the hospital to effectively respond to a disaster or mass casualty event,\" according to a recent program update .",
-    "\"I would just love [it] if we were not breaking ground on a parking garage and spending all our time and money on a parking garage first,\" Balducci said. \"I would rather we would get right into building the tower, which we so desperately need, and I just I hear everybody say in a very confident way, based on their personal experience and anecdotal observations, we need the parking. We cannot live without the parking. I have not seen an analysis of any attempts to come up with temporary parking that would have enabled us to go forward with the tower instead of spending yet more time and money on a parking garage first.\"",
-    "Even though the total number of stalls planned at Ninth and Alder stems from Yesler Terrace's zoning stipulations and not the Harborview’s Major Institution Master Plan (MIMP), Harborview CEO Sommer Kleweno Walley pointed to an internal demand study that spells out the need for the added garage space.",
-    "\"There was a very large study done on demand, and what we're differentiating is the demand needed for patients to come to the campus for clinics and for visitors to come to the hospital versus staff,\" Kleweno Walley said. \"So what we have done is pulled out how much parking we will need to accommodate clinics being on campus, visitors coming for the certain number of inpatient beds we have, and then certain types of staff, i.e., the providers who need to be there 24/7, where you can't ship them in, you can't wait for them to be brought in from a shuttle. So that is the demand we're looking at.\"",
-    "Steffanie Fain, who served on the Harborview board of trustees before joining the county council, also weighed in on the history that has caused the county to arrive at a garage-forward construction plan.",
-    "\"There were a few ideas when this came forward as an option [of] what to do with that space, and it was: do we build a temporary parking structure to get us through construction and then figure out what to do with it? But it seems wild to spend millions of dollars on something that you just tear down,\" Fain said. \"The medical office building is the next best sustainable option and could really be utilized in the future. Ideally, it would have been a medical surge space, but that was so extraordinarily expensive that that option quickly went away.\"",
-    "While the new garage isn't expected to be complete until late 2028, construction on the new medical tower is scheduled to start before it wraps up. Other related projects, including the construction of temporary roadways and entrances in order to allow work to proceed while hospital operations are maintained, are also expected to begin next year."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/10/Screenshot-2026-10-26-7.21.01-PM-1.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-261029soundtransitpilotsupdatedpetpolicy",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sound Transit Pilots Updated Pet Policy",
-   "author": "Michael Smith",
-   "date": "2026-10-29",
-   "url": "https://seattletransitblog.com/2026/10/29/sound-transit-pilots-updated-pet-policy/",
-   "paras": [
-    "Sound Transit is piloting an updated pet policy on its buses and trains between now and Spring 2027. During the pilot, pet dogs will be permitted on board if they are leashed, well-behaved, and controlled by their handler. All other pets must remain in an enclosed carrier. As always, service animals are permitted in compliance with the ADA.",
-    "Prior to the pilot, dogs and other pets were only allowed on Sound Transit buses and trains in a carrier. In July 2025, the Sound Transit Board approved Motion No. M2025-34 , directing the agency to consider updating the rules to allow leashed dogs. This motion was motivated by the opening of Marymoor Village station as part of the Downtown Redmond Link Extension in May 2025. Marymoor Village station is next to Marymoor Park, a 640-arce park which includes a 40-arce off-leash dog area.",
-    "Will this pilot impact the passenger experience on Sound Transit? Probably not. In a presentation to the Executive Committee before the motion was approved, then-Acting Executive Director of Security & Fare Engagement Brian de Place acknowledged that passengers already take leashed dogs on Sound Transit buses and trains. While doing so did violate the rules, de Place noted “if the dog is leashed and generally under control, security will not engage with that passenger unless there is an actual disturbance”. In the year prior to this meeting, Sound Transit security only received 8 calls about pets.",
-    "There are few other notes pet owners should be aware of before bringing their leashed dogs onboard:",
-    "If you encounter an aggressive animal or other issues, call or text Sound Transit security: (206) 398-5268. In an emergency, call 911."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_6816-rotated.jpg?resize=525%2C700&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-ssquirrelchopsmarksadecadeat23rdandunion",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Ten years of coffee, cuts, and causes: Squirrel Chops marks a decade at 23rd and Union",
-   "author": "AGPhoto",
-   "date": "2026-10-29",
-   "url": "https://www.capitolhillseattle.com/2026/10/ten-years-of-coffee-cuts-and-causes-squirrel-chops-marks-a-decade-at-23rd-and-union/",
-   "paras": [
-    "When CHS first stopped by Squirrel Chops in 2016, Shirley Henderson told us she and partner Sharon Blyth-Moss wanted to make community building their business instead of their hobby. Ten years later, the coffee shop and two-chair salon just west of 23rd and Union is still pouring, still cutting, and still organizing.",
-    "“I honestly think it exceeded my expectations,” Henderson said.",
-    "Henderson, a longtime activist who was part of the “Fight for 15” campaign alongside Kshama Sawant , admits she was nervous early on about being openly political as a business owner. Squirrel Chops went on to back Tax Amazon, the 2020 protests against police violence, and Sawant’s runs for office. It turned out to be a draw.",
-    "“All of the things that we’ve stood for have only deepened people’s loyalty and respect for who we are as a business,” she said.",
-    "When Henderson wrote a Seattle Times op-ed during the Tax Amazon fight saying she paid more in taxes per dollar than Jeff Bezos, the shop got hate mail… and new regulars, including bus drivers who wanted to support a business willing to say so. Just this week, a customer said he came in because the shop supported Sawant’s congressional campaign .",
-    "To Henderson, owning a Central District business doesn’t conflict with her socialist politics. “We just happen to want to work for ourselves,” she said. “As a socialist, I want to treat staff with dignity and respect, because they are the backbone of this space.”",
-    "She is taking that platform to City Hall , where she is testifying on Mayor Katie Wilson’s first budget, which she called austerity. Wilson’s proposed 2027–28 budget would raise the Seattle Police Department’s spending by about $68 million, mostly due to union-negotiated wage increases.",
-    "“What kind of a socialist is that?” Henderson asked.",
-    "Blyth-Moss and Henderson are a couple, but they never set out to brand Squirrel Chops as an LGBTQ business.",
-    "“We didn’t start off as a lesbian coffee shop just because we are lesbian,” Blyth-Moss said. “But it’s definitely a queer chop shop.”",
-    "The salon specializes in gender-affirming haircuts, and Henderson credits barber Ali with bringing in trans clients who have since become coffee regulars.",
-    "“Especially in this political climate, people are looking for a safe place,” Henderson said. “We want this to be a space for everybody, and we mean that.”",
-    "Squirrel Chops opened as an early tenant in The Central , one of the first new buildings at 23rd and Union. The owners had wanted a funky old building, but older spaces came with higher rents and short leases ahead of demolition. Today the intersection is ringed by high-rises, in what Henderson calls the epicenter of gentrification in Seattle.",
-    "When the pandemic hit, Blyth-Moss moved the register to the shop’s street-facing window, and Squirrel Chops pivoted to takeout overnight. With the neighborhood working from home, business ran steady all day.",
-    "Blyth-Moss says she never thought the shop wouldn’t make it, but 2026 has been the hardest year yet. New building owners came in as the lease was ending, and the renewal turned into a struggle. Henderson said green coffee prices jumped about 120% after climate-driven poor harvests in Brazil and Vietnam.",
-    "Drip coffee has stayed near $3.75, even if it comes at a small loss for the shop.",
-    "“I want something that people can access,” Henderson said.",
-    "“If you go too high, people just won’t do it,” Sera Cahoone , a near 10-year veteran barista with Squirrel Chops added. “They’ll make it at home.”",
-    "The shop’s bean choices are political, too. Squirrel Chops dropped Slate Coffee to support workers after a walkout there. Retail bags now come from roasters including Stamp Act , and the house espresso comes from Thin Man , roasted by a longtime friend who got Henderson into coffee when she apprenticed at his bike shop. He now roasts essentially just for Squirrel Chops.",
-    "Over the years, the small space has hosted “tiny bench” concerts with Cahoone and other musicians, Friday happy hours, coffee-with-Sawant events, and a sign-making session ahead of the protests following Donald Trump’s first inauguration.",
-    "The pandemic paused much of that. Now a recent art show by barista Nazira has kicked off a revival, chef Becky Selengut will hold a cookbook signing in December, and “Gay Friday” is due for a comeback.",
-    "“It’s become that place where people meet people,” Blyth-Moss said.",
-    "Henderson and Sawant, friends since a 2009 marriage equality rally, now organize together in Workers Strike Back . Sawant finished third in August’s 9th Congressional District primary with about 13% 17.3% of the vote, though Henderson said she ran much stronger in the Central District. The group will keep pushing her campaign issues: ending U.S. military aid to Israel and stopping planned King County data centers.",
-    "For places like Squirrel Chops to thrive, Henderson said Seattle needs commercial and residential rent control, more public transit, and public healthcare and retirement programs.",
-    "“If your workers can’t afford to live in the city, what do you have?” she said.",
-    "Henderson’s last word for the neighborhood was a thank you. On one particularly bad day, she came into work to find a painting commissioned by a regular: a squirrel with a pearl earring, with a note saying the shop was a space the family treasured and was safe for their trans child.",
-    "“That, for me, was like, this is why we’re here,” Henderson said. “There is such a need for a safe space, a friendly space, a space that people can just gather outside their home, especially when everybody’s so lonely and isolated.”",
-    "Squirrel Chops is located at 2201 E Union. Its 10th anniversary celebration is planned for Friday, October 30th. You can learn more at squirrelchops.com ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/10/SquirrelChops2026.jpg?resize=584%2C388&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1670,15 +1608,15 @@
    "annos": null
   },
   {
-   "id": "f-propublica-kVHFCUHptLTFUYl94TTVLT1E2MVVLbTQzQWwwoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+   "id": "f-emerald-4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21Roc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus",
    "author": "",
    "date": "2026-10-29",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR210MjlDU3FJcG8tZk5yNmdaY1c2dVJIUE9rdHNsVDNNbG5aRlc2Rkg0SjBqVkM5eklHd0JYWHhrRXY5WVFxbWZ6a1BoWlJ0blpJNU4zbVhRQlVNZkdwWEthX3JBYi0yQzMtU0RkVHFCUHptLTFUYl94TTVLT1E2MVVLbTQzQWww?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMElWcHB0d3RoUmR1NnZ5Wm1DTzRWTGNyamRvMG1LRXBjaE5JNGpQRlB0VjFuNnc0dzh1SzBTZFZvLXBjckdCbGxhT0xWNlp0Qk9wODFDLWxPZzBXbHIyWWpka1pwWlYxNU5oVlY4ajV6bzFIb0g4aExPTmNfUTVRanh5NkZaVDV5NmFGVHQ0UHdnTGZ1Nm5yOG9UanZxVEF6RVVEUXZrVlc2bThKUVVtS1Z3ZXZXcW1KU04zUXFjT1N0bVRGNEJKT0R30gHXAUFVX3lxTE1aUjhVX1BpSi1fbEE5NE40bElrcDhhRGV0MmNxRWk2RDlsTk4xa3NTUHRmdDh5UkVHV1FCSmlrN1FPYmxkNWZpVzJkV3RKV1N3b0R5S0VfdFpKb0I0bmlkMWcxOG5kMTlHenhTU3FLc0l0QVVtbmFEbVRVQ3Bxc2JFSTVlZERqc3U5ZTNpS1RuU0hnb29SSmNvREVERm1Pa016RzQwQ3M1cExmcFpNbnZfU0NUU1JPT3lsZTA4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21R?oc=5",
    "paras": [
-    "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents ProPublica"
+    "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
@@ -1713,23 +1651,6 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81UHZQaGRaOWNWclNNWlZ3ZjNiZ0ctcGxFaF9DZzJBdWxrOWR6c3RMR29RRGdhR1dvYmdBbzhJcjJ4Y3dMLVNhRENINGRNVnNNMllDbXgtY3lpRTJsUEtmcXpBdUdDaV9BbGZqaWQzZVVlNVVSM3NjUHRn?oc=5",
    "paras": [
     "Would you trust an emergency alert written by AI? Grist"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-GVqdHFYV2hhVlZzM0YzZTl5SVIxRFZKMWhuYwoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Danielle Dawson",
-   "author": "",
-   "date": "2026-10-28",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80T0lMTzJnc3VQNmhfcHFYSEdmaTJmb1FPTzU5X2M1UmhFWEZGeF92ZFlGOVVMRXZoWXdKQmszLS1pUEVsQmNhNEpRcDJncTJsR05FRGVqdHFYV2hhVlZzM0YzZTl5SVIxRFZKMWhuYw?oc=5",
-   "paras": [
-    "Danielle Dawson InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1773,6 +1694,23 @@
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdS1TWjB0amtSckItWkRseFdFV1M2OTZ4UjFJaHVjQmxiUGctalhWemhqcnFrY25tTG44NkdNRHBZel9EQzJOZU1pV24ybEJMbkFUXzlMWWVjRlFBWmJ4OGgxMlFqcmc0NnRWR0lGMm5SOWJ1VXZsYjV3TkJ1ZFN2ZEJ2Z09Da1VKbFljS0hXY1VsdGVIb1pFa0ZuQkh6UGZlODIyYlM5S3FGWXRaejVTc0VB?oc=5",
    "paras": [
     "Seattle Public Schools confirms 21 schools are up for potential merger KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-sbkZVWm5JLXk4a0dhZDYyOGprRHBTMlNEZWxBoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Oregon needs more youth ‘respite’ homes, but funding problems stand in the way",
+   "author": "",
+   "date": "2026-10-27",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFMWsyUHlqeTBHeVdnem9ZLWtJcW45bHVwRUNOVmRrV29pVElnSVlvYUd1TDg3OHgwNE1aMWVMSlBQdmdtZXlkVEZJREpWVFdwT0JXSEdabjlic2NQRjRsbkZVWm5JLXk4a0dhZDYyOGprRHBTMlNEZWxB?oc=5",
+   "paras": [
+    "Oregon needs more youth ‘respite’ homes, but funding problems stand in the way InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1828,25 +1766,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-0261025sundaymovieballardlinkcontroversy",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sunday Movie: Ballard Link Controversy",
-   "author": "Mike Orr",
-   "date": "2026-10-25",
-   "url": "https://seattletransitblog.com/2026/10/25/sunday-movie-ballard-link-controversy/",
-   "paras": [
-    "A recap of the Ballard Link controversy that boiled over at the forum Monday . These videos are from three months ago.",
-    "Light rail to Ballard shouldn’t be this hard. (The House of Transit)",
-    "Why is building transit so expensive anyway? (Yet Another Urbanist)",
-    "I’m reaching the end of the video backlog again. Do you have suggestions for other videos or channels to feature?"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-wZVU1QWU4a3FOeTROTjBnMWZxNHI5ZHZTTS1foc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1856,6 +1775,23 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWo0cHhQZTFrZHlDMEhzdGI3LWRZRHVOV3lVRXo5ZVN2SXlxbWMxenZKREo4dEx0VGFtME85N2V2QTE0YzN6MUlDTGdOR2h3WE9iVDFqeW00NVhfUWdrMlF1QjVPU1NsRmNSSHRwZVU1QWU4a3FOeTROTjBnMWZxNHI5ZHZTTS1f?oc=5",
    "paras": [
     "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart. ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-pYnVUYlJYRWRDejJjaXFrT2xyLUw5R2FFZklBoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Cryptid Hunt",
+   "author": "",
+   "date": "2026-10-25",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03R2RPZnV0WmhlZ04tSFBlY25reW9Sak5NeWRBaHhqSE5mRE5pcEV4NWhGenpBV05jRTRpYWgxTXU1RzY1T2JIUkd6T2ZfV1FKN25rZl9UX0l2aUIxcWUyaWlvMGhEbDF4TkFKVng2WkJIVFh5bG9RSDRkWG7SAYoBQVVfeXFMTnhTeEp6bk1PTWlYdUhRZE8zeW9jS2pscTF0cEFxdEplRFE3WUdZMXN3QjBfdVpZTlV2ZjI3dGtZeTNTR1d5dUIxbFdYdjhZX3Q0eENPbGtBOWpfQTRUS05OeHd5YzlCQ2dISkVULXZpYnVUYlJYRWRDejJjaXFrT2xyLUw5R2FFZklB?oc=5",
+   "paras": [
+    "DOOM LOOP: Cryptid Hunt South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
@@ -1884,23 +1820,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-VlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Mercer Island School District settles sex abuse claim for $1.5M",
-   "author": "",
-   "date": "2026-10-22",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0N0ekRyLU5WQU5yRUcxVGxwUml2T2EzeTVZa3Utcnljc1JOZHhZYzM2eUhiOFI4d3pUQTB6eDJqaVNMX1JaRmQyVW1iU1BKQmNwWi0zX3JGbXNudS1JYU1lZWJaNmRRQnpRN08wb19LaTB0ck1pRzJfQ0dEemdfcVlUcElqWGFMWm8zR0MxTkRXS0ltbnQ5NzN5TQ?oc=5",
-   "paras": [
-    "Mercer Island School District settles sex abuse claim for $1.5M InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-FN3RzZ3d0dE96bWU4MDI2Ylc2QzNtNW53V2pSoc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1910,40 +1829,6 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ0lBUDBDM1dvTUZmZ2VDUEpuMmlsMERmM1BSV25tekY5SVB5V25uSzBDa2VXU2Y4RlNUdTAxT3k1VXRzQUlPNk9jakNjV1ZLbVl1MVJVSmV1ZVREdExrMk1pMkd0TDhQQ214bkdndDVPVk0yeW5FdDBFN3RzZ3d0dE96bWU4MDI2Ylc2QzNtNW53V2pS?oc=5",
    "paras": [
     "Sexual Assaults on Campus No Longer Scrutinized as Closely Under Trump’s Education Department ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-4tSkZqMXpscDNwdVNacWJ5clI1My1nWGtEb2Eoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "As nonprofit takeover looms, Spokesman-Review union rebukes plan to keep embattled editor Rob Curley",
-   "author": "",
-   "date": "2026-10-20",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYnJIU1B0ei1qR0hMQUFYRXk3bzZBa0xBUmFLT01PYklaZDI3d2pRR3Vqdlp5MW9nZzdyZTBzaHJkb1QxODU4NGFidWJsRGtNLURuMFNORnYwM2piUVdLM0Q4TEZNVWdaWW4tSkZqMXpscDNwdVNacWJ5clI1My1nWGtEb2E?oc=5",
-   "paras": [
-    "As nonprofit takeover looms, Spokesman-Review union rebukes plan to keep embattled editor Rob Curley InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-mU5dXlsWmExMWM1WjVVaUNvdGhUN3RjVDlOVQoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "A WA election tests the ‘constitutional sheriff’ movement",
-   "author": "",
-   "date": "2026-10-15",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMDJRdVZzSmxKWldpa1Vpb3VPRk11SFoyUTRrNGViYl9iSmVoWTRSU0NCcTNxbmJmQ3dwX2IybndLT2VaY0R5QW9YTFl4elV6em5LVDhuVE1ndHd5VWptaTkyVnVKU0tINGdKVjBlZklybUJKNG5IUUVjM1BZOWt0UkdMQlVMRllPb2g3Vlk0UFNfT3V6S2tvT3lzYjRYdWlhME1HdTBNbzNQem9admxISmU5dXlsWmExMWM1WjVVaUNvdGhUN3RjVDlOVQ?oc=5",
-   "paras": [
-    "A WA election tests the ‘constitutional sheriff’ movement InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1969,6 +1854,61 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/05/260322-CafeLolo0576.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-2I0bWZLR1JCbXVfM2EwcGMwWThHZF9HdmlhSgoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Idaho’s women’s prison overcrowding is fueling parole delays",
+   "author": "",
+   "date": "2026-10-05",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWVFsNjhQSnhlOVk3a3M2TDdoWXhyZUZEN2lZZ2tNVFFheFpkQVZGOXF6aHdUZ1d3VktvbGxhdFdHY1BwX0FLcjJrMEF0M3V5VjI2V1R6cU1OS2hMUkdzQnUteDk1d1haNW14anlMSGdWLUlQTVM3X1NtZ0hqZEZPWHZ2VExYRS1YVkVsT3pFM1dlWUxiTWF5OUVYaGFuc0pEM2I0bWZLR1JCbXVfM2EwcGMwWThHZF9HdmlhSg?oc=5",
+   "paras": [
+    "Idaho’s women’s prison overcrowding is fueling parole delays InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-lterus2026oct02bestbeautyadventcalendars",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The best beauty advent calendars of 2026 in the US are already here and selling out",
+   "author": "Lauren Gould",
+   "date": "2026-10-02",
+   "url": "https://www.theguardian.com/thefilter-us/2026/oct/02/best-beauty-advent-calendars",
+   "paras": [
+    "Beauty Advent calendars can be overwhelming with gifting options galore – but which ones are worth your money? We put offerings from Anthropologie, Lush and others to the test",
+    "I hunted for the best skincare at the world’s biggest Korean beauty store",
+    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
+    "Throughout the Halloween season, retailers flooded their shelves with candy canes, cozy flannel pajamas and holiday decor. The month prior, before autumn had even begun, luxury beauty retailer Liberty London launched its massive holiday Advent calendar, kicking off the season’s forthcoming influx of gift sets and the like.",
+    "These days, you can get an Advent calendar for everything from the viral Needoh toys to Redbull . But beauty Advent calendars can actually be a good buy. Unlike the humble, milk chocolate-filled ones, beauty Advent calendars such as Liberty London’s are stocked with typically high-priced beauty items at steep discounts, from viral lipsticks to luxurious moisturizers. Many are valued at more than $1,000.",
+    "In the UK? Check our UK beauty Advent calendars guide here"
+   ],
+   "img": "https://i.guim.co.uk/img/media/a92ff9abadbe2037e08bd686c181762fe69c265b/0_0_1999_1600/master/1999.jpg?width=140&quality=85&auto=format&fit=max&s=81c62a386f5602faf0640b25884b3715",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-DVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNxoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
+   "author": "",
+   "date": "2026-09-26",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTF5Ui1kelpxZEUtZjBLOEJJM3NSVWtCZHhCY3JVcWFQc0otTVhqQXoyVFQ3c1dPQUhTTGpyNzR2N3VodEhXZkpQNGpCcmhxZzI0YVN5Vl9ScUpvV290U01Ebi1ZMVFXQk1wRGJDVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNx?oc=5",
+   "paras": [
+    "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
