@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-07T19:44:24.843Z",
- "builtFor": "2026-11-07",
- "builtHour": "11",
- "count": 80,
+ "builtAt": "2026-11-08T20:03:08.690Z",
+ "builtFor": "2026-11-08",
+ "builtHour": "12",
+ "count": 79,
  "sources": [
   {
    "source": "bbc",
@@ -32,7 +32,7 @@
   {
    "source": "emerald",
    "count": 1,
-   "via": "feed"
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -66,7 +66,7 @@
   },
   {
    "source": "propublica",
-   "count": 6,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,523 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-geekwirecom2026etzionionaitrevornoahonai",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Trevor Noah on AI",
+   "author": "Oren Etzioni",
+   "date": "2026-11-08",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-trevor-noah-on-ai/",
+   "paras": [
+    "On Oct. 19, Trevor Noah launched Luminaries , a science conversation series at Boston’s Museum of Science. I joined him onstage, and Rana el Kaliouby moderated. Rana is a pioneer of emotion AI, software that reads human emotion, and the host of the Pioneers of AI podcast . She wrote afterward that she expected Trevor to be witty and funny, but “didn’t expect to be so blown away by his humanity and depth of ideas.”",
+    "Here are a few of his insights with his own words highlighted.",
+    "When an AI matchmaker Rana built in ChatGPT picked Trevor as her match, he pointed out that it knew very little about either of them. It assembled a plausible answer from what’s on the internet.",
+    "Trevor added that when you tell AI it made a mistake, it thanks you but often fails to correct the error: “It’s like a friend who’s been to a lot of therapy but doesn’t actually change.”",
+    "When asked how we protect ourselves from AI’s downsides, Trevor said the answer “goes back to something that is very un-technological and very un-AI.” He cited Robert Putnam’s book Bowling Alone , noting that places where communities form accrue many surprising benefits including more accountable governments.",
+    "I pushed back that communitarianism , the 1990s movement my father helped found to foster communities, had failed. Trevor responded that we hand too many ideas to intellectuals, who then “apply too much academia” to them. Communitarianism failed, he deadpanned, “because it’s called communitarianism.” An overly academic name.",
+    "He noted that nobody calls a phone a failure when the first version doesn’t sell; companies keep re-releasing it. He vowed never to stop investing in community.",
+    "Despite his concerns, Trevor has “yet to see a technology that blew up and then left everyone behind.” Cars, computers and the internet all spread to ordinary people.",
+    "AI has reached what he calls “work intelligence”: it can do the jobs we invented, but we keep inventing new ones. Salt and ice used to be precious. Now restaurants hand them out for free. What we value changes, and in Trevor’s view, we’re expendable only if we define being human by the tasks we value today.",
+    "Our conversation turned to AI’s impact on jobs.",
+    "Touring as a comic, Trevor saw towns hollowed out after Kodak and the automaker Studebaker left. Factory workers were told automation was progress. “White-collar workers are now experiencing what many blue-collar workers experienced for decades,” he said. The difference, he argued, is that white-collar workers are closer to power, so newspapers are covering it.",
+    "Trevor is confident new jobs will come, as they did after telephone exchange operators disappeared. What worries him is the gap. His analogy is the highway, where the following distance is the space that lets you stop before you hit the car ahead:",
+    "Trevor tells tech leaders that “it’s easier to be patient when you are in a position of privilege,” and added, “But ironically, they don’t have patience when it comes to quarterly earnings.”",
+    "After ChatGPT took off, show hosts kept telling him weak jokes that ChatGPT had written in a pale imitation of Trevor’s style. He rattled off four reasons AI struggles with humor: there isn’t enough comedy data, the model is a frozen snapshot while what society finds acceptable keeps shifting, comedy depends on knowing your audience (there are jokes you know are funny but you wouldn’t tell your mom), and companies have made models risk averse.",
+    "In addition to being the former host of The Daily Show , an award-winning author and a sought-after comedian, Trevor Noah is Microsoft’s Chief Questions Officer .",
+    "I reminded him of Picasso’s famous verdict on computers, “They are useless. They can only give you answers,” and joked that as Chief Questions Officer he has something rare these days: job security. He chuckled. Of course, his real job security comes from his depth and humanity, which feed his exceptional humor and wit.",
+    "Rana noted that everybody’s getting replaced by AI, but Trevor had played an AI, voicing Griot in Black Panther: Wakanda Forever ."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/trevor-noah-oren-etzioni-museum-of-science-1260x840.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261101",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Nov. 1, 2026",
+   "author": "GeekWire",
+   "date": "2026-11-08",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-11-01/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Nov. 1, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Amazon is planning its first Washington data centers, with proposed campuses in Walla Walla County and the Tri-Cities. Residents are pressing for answers about electricity costs, water use and neighborhood impacts, while the company points to jobs, tax revenue and community investments. Read More … Read More",
+    "Opinion: Seattle Metro Chamber CEO Joe Nguyễn says San Francisco’s progress under Mayor Daniel Lurie comes down to leadership, and that Seattle has the talent and resources to do the same. He points to Lurie’s approach to open-air drug markets and the city’s new RESET sobering center, and calls on Seattle’s business community to get more involved in politics. Read More … Read More",
+    "Amazon has revised its role guidelines for software engineers to emphasize results for customers over how much AI they use. Inside AWS, a previously unreported team called Velocity Labs took a new open-source AI model from concept to public release in less than a week. Read More … Read More",
+    "Starbucks CEO Brian Niccol says the company’s drive-thru “fast pass” would use the Starbucks app to recognize customers as they pull up, bring up their usual order and handle payment. Available technology could make the implementation less sci-fi than some reports suggested. Read More … Read More",
+    "NASA-funded mission comes to a premature end due to glitch in fault protection system. Read More … Read More",
+    "A notice made public Tuesday evening, disclosing about 95 Amazon job cuts in Washington state, is part of the company’s previously reported layoffs in its retail business, not a new round of reductions, a company spokesperson confirmed. Read More … Read More",
+    "Agility Robotics, which makes the Digit humanoid robot for warehouses and factories, began trading on the Nasdaq on Thursday after a $2.5 billion SPAC merger. Co-founder Jonathan Hurst described how Amazon’s warehouse tests convinced the company it needed a robot that could work safely next to people. Read More … Read More",
+    "Shield AI agreed to acquire Echodyne, a maker of compact radar that detects and tracks drones, in a deal valued at up to $5.3 billion. Shield is raising $2.5 billion to pay for it, including $1 billion in new funding at a $28.8 billion valuation, more than double its value in March. Read More … Read More",
+    "After more than 33 years at Microsoft, CVP Mazhar Mohammed has left for AWS, while the Redmond, Wash., company has gained a new CVP in its Agent Cloud group. Seattle’s Lila Bio has appointed a chief development officer; the credit union BECU named an AI leader and other personnel changes. Read More … Read More",
+    "After his mother-in-law was hurt in a fall and told no one, ex-Microsoft exec Michael Nassirian built a camera-free way for families to know when something’s off. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2025/06/AWS_Data_Center_Interior_2-200x133.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-1108sundaymoviesaferstreetsandfiretrucks",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Safer Streets and Fire Trucks",
+   "author": "Mike Orr",
+   "date": "2026-11-08",
+   "url": "https://seattletransitblog.com/2026/11/08/sunday-movie-safer-streets-and-fire-trucks/",
+   "paras": [
+    "Why safer streets keep losing to fire trucks. (Stewart Hicks)"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-uidetodevelopingoutstandingneighborhoods",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: 'Building Charm' Book Offers Guide to Developing Outstanding Neighborhoods",
+   "author": "Naama Blonder",
+   "date": "2026-11-08",
+   "url": "https://www.theurbanist.org/op-ed-building-charm-book-offers-guide-to-developing-outstanding-neighborhoods/",
+   "paras": [
+    "The following is an excerpt from Chapter 1 of Building Charm: A Hyper-Practical Guide to Developing Outstanding New Neighborhoods by Naama Blonder and Misha Bereznyak, founders of Smart Density. Drawing on international experience and years of hands-on work, Building Charm presents a proven, practical system for creating genuinely appealing neighborhoods, one developed within real-world development and municipal constraints and applicable across a wide range of densities, from low-rise settings to complex high-density environments. Learn more at smartdensity.com .",
+    "Why do even our most thoughtful new neighborhoods lack the charm found in older places?",
+    "The departure of Modernist planning from traditional patterns of city building, and the problems it created, have been widely discussed and are now well understood. And while these Modernist planning ideas still dominate in many places, it is generally accepted that we now have a superior set of ideas and practices, and they can deliver neighborhoods of the same quality as our older neighborhoods.",
+    "These ideas and practices generally follow what we call the prevailing urbanist model — a widely shared contemporary framework for urban development that prioritizes reduced reliance on cars, walkability and cycling infrastructure, access to public transit, well-defined streets and parks, and often medium to high densities with mixed uses. This model represents what is widely considered best practice among urban planners and designers, and it has shaped many of the more successful new neighborhoods built in recent decades.",
+    "But while some new neighborhoods can teach a lot about innovative ideas and the implementation of best practices, when it comes to matching the experience that many old neighborhoods provide so successfully, they have surprisingly little to offer.",
+    "It took us time to recognize that the prevailing urbanist model itself had fundamental limitations. Both of us had grown up and practiced in places still shaped by Modernist planning, where any improvement felt significant. At that time, relatively few neighborhoods had been built according to the principles of the prevailing urbanist model, making it easy to attribute any shortcomings to implementation issues or local conditions rather than to flaws in the model itself.",
+    "However, the shortcomings of the neighborhoods and the principles that produced them became apparent over time: at first, as the novelty of such neighborhoods wore off, and even more so later, after our own attempts to implement the principles of the prevailing urbanist model met with little success in achieving the qualities of traditional cities.",
+    "We had a few opportunities to work on projects that appeared to have great potential, but with the design tools we were using, those projects yielded only mundane results.",
+    "In a project in the Greater Toronto Area, we were retained to create a vision to transform a 100-hectare area of low-intensity commercial and logistic uses near a train station into a dense, mixed-use community. We worked within a new street network that had already been planned, but we otherwise had a significant level of freedom in the design. We applied the leading principles of the prevailing urbanist model, and also identified a unique opportunity to create a continuous secondary network of mid-block connections that enriched the experience and the opportunities in the neighborhood. However, even at the level of a vision plan, it became clear that the constraints imposed by the pre-established street network would not allow us to achieve our aim.",
+    "Another project, in Southeast Asia, initially appeared promising. This project had a spectacular setting, with an existing network of irrigation and flood control canals. Other development projects in the area ignored the opportunity they presented, and usually filled most of the canals. We decided early to take a different approach and integrate the canals in the design, which created an attractive quality. Despite this strong start, as the design developed, it became increasingly clear that its overall character would end up typical of new development in the area, especially in the street experience, which is a critical factor in shaping the feel of a neighborhood. This was disappointing — not because the design wasn’t unique, but because, even with the integration of the canals, we still couldn’t achieve the character and qualities found in older neighborhoods with canals or even in more ordinary older neighborhoods in the same region. While in the previous project we’d been limited by a pre-existing framework, here we were limited mainly by our own ideas.",
+    "The failures that we experienced directly and, more importantly, the disappointment we felt when visiting neighborhoods designed by the brightest designers in the field convinced us that we were all still doing something wrong."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/low-rise-family-housing-woodbine-2048x1147.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-familyhousinghelpedcleanuplakewashington",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "How denser multifamily housing helped clean up Lake Washington",
+   "author": "Justin Carder",
+   "date": "2026-11-08",
+   "url": "https://www.capitolhillseattle.com/2026/11/how-denser-multifamily-housing-helped-clean-up-lake-washington/",
+   "paras": [
+    "Conventional wisdom holds that as cities grow, nearby bodies of water suffer from increased pollution. According to a 25-year study by King County scientists published in the peer-reviewed journal Ecosphere last year, Lake Washington grew clearer, less nutrient-polluted, and measurably healthier between 1998 and 2022, even as the watershed added more than 350,000 residents.",
+    "According to the 2025 study, shifting growth toward denser multifamily housing helped protect the lake by upgrading older infrastructure and containing runoff.",
+    "The study arrived last year as Seattle was shaping its new 20-year comprehensive plan to encourage denser housing and to meet statewide requirements for increased middle housing development. This year, the process to complete that plan is tied up in court after a ruling iced efforts to shape policy mandating 6-story neighborhood centers along transit corridors — policy that would reshape the zoning in many of the area neighborhoods along the shore of Lake Washington like Leschi and Madison Park.",
+    "Central to the research is the long-term offshore monitoring station just off Madison Park, designated as Station 0852 . Situated near the lake’s deepest basin approximately 214 feet below the surface, the station provides data that aquatic scientists consider representative of a large volume of the lake.",
+    "Across the 25 years of monitoring included in the study, researchers documented consistent ecological improvements. Surface chlorophyll concentrations dropped by about 24% per decade during the main spring bloom. That decline was accompanied by an around 8.6% per decade increase in underwater Secchi disk visibility, which measures clarity by tracking how deep a patterned disk remains visible, adding roughly three feet of clear water over the study period.",
+    "Dissolved silica concentrations in surface waters climbed, rising by 98% per decade in the spring because fewer single-celled algae called diatoms were consuming the mineral and carrying it to the lake bed as they died. In addition, peak late-winter and spring levels for total phosphorus and total nitrogen dropped by 5.6% and 4.9% per decade, while autumn dissolved oxygen near the lake bottom increased by 17% on average, indicating that less decaying organic matter was sinking and stripping oxygen from the deep water.",
+    "The study points to a key driver behind the turnaround — the shifting nature of how the region builds and develops.",
+    "Between 2000 and 2020, the watershed population grew by 34%, but developed land area expanded by only 4.7%, and regional forest cover held steady at roughly 43% of the basin. Rather than clear-cutting to accommodate housing, urban centers around the lake accommodated growth by converting lower-density areas into higher-density multifamily developments.",
+    "The study notes that redevelopment projects typically replaced older, pre-1990 properties with modern construction that triggered updated stormwater filtration, strict site-erosion controls, and connections from older private septic systems into municipal sewer lines. Combined with statewide bans on phosphorus in laundry detergents and lawn fertilizers, infill housing effectively reduced the per-person nutrient runoff reaching the basin.",
+    "The study did not directly track nearshore fecal bacteria levels, such as E. coli or fecal coliforms behind the spikes in bacteria that periodically lead public health officials to close swimming beaches during warm summer months.",
+    "For the shoreline communities of District 3 including Madison Park, Madrona, Leschi, and the Washington Park Arboretum , the findings provide local insights.",
+    "Total alkalinity, a measure of dissolved mineral salts and carbonates that can alter water chemistry and had risen noticeably during previous periods of heavy land clearing, leveled off during the study’s 25-year period, removing a chemical condition known to favor nuisance blue-green algae. Sediment core analysis also revealed that toxic microcystin, a poison produced by cyanobacteria, has remained below detection limits for decades, meaning that toxic algae blooms have remained rare even as water temperatures climb.",
+    "For the neighborhoods bordering Madison Park and the rest of the city, the study demonstrates how population expansion alongside dense development can coexist with a healthy Lake Washington.",
+    "The study’s handling of climate change represents one major hole. Warmer water accelerates decay and interacts with falling nutrient levels to alter the food web toward smaller, single-celled picoplankton. Fisheries scientists warn that this shift threatens to starve grazing zooplankton and collapse food supplies for federally protected juvenile Chinook salmon, meaning the clearer water could reflect a depleted ecosystem.",
+    "And even though surface waters warmed, the lake did not begin layering into warm and cold water any earlier in the year, revealing gaps in how well climate models explain the lake’s behavior.",
+    "Another gap? Phosphorus reductions explain less than half of the 25% per decade collapse in spring algae blooms. Attributing the lake’s clarity primarily to land-use policies overlooks how rising water temperatures, shifting biological communities, and grazing pressures could suppress algae independently of human management.",
+    "Important local questions are also unanswered. The connection between apartment construction and cleaner runoff is only a broad correlation, leaving researchers without the neighborhood-level data needed to prove a direct cause."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1416.jpg?resize=400%2C368&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-aunveilslateofdiscountedqueermovienights",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Northwest Film Forum and Three Dollar Bill Cinema unveil slate of discounted queer movie nights",
+   "author": "CHS Staff",
+   "date": "2026-11-08",
+   "url": "https://www.capitolhillseattle.com/2026/11/northwest-film-forum-and-three-dollar-bill-cinema-unveil-slate-of-discounted-queer-movie-nights/",
+   "paras": [
+    "Northwest Film Forum and Three Dollar Bill Cinema are teaming up to bring an affordable celebration of LGBTQ+ storytelling, kicking off with a special $3 screening of Two Eyes on Sunday, November 8th at 6:00 PM.",
+    "Two Eyes weaves together three distinct narratives across different eras, following characters as they navigate gender, self-discovery, and community.",
+    "Queer Cinema Lineup Through Year-End: The collaboration continues through the rest of the year with a slate of queer cinema at Northwest Film Forum. Moviegoers can unlock $7 tickets for screenings by using the promo code 3$B4Ever at checkout."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/twoeyesposter-1200x1778-1.jpg?resize=400%2C593&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-ineparkingreachescapitolhillpizzapricing",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Hollingsworth victory, Recall Sawant debate, Pike/Pine parking reaches Capitol Hill pizza pricing",
+   "author": "CHS Staff",
+   "date": "2026-11-08",
+   "url": "https://www.capitolhillseattle.com/2026/11/this-week-in-chs-history-hollingsworth-victory-recall-sawant-debate-pike-pine-parking-reaches-capitol-hill-pizza-pricing/",
+   "paras": [
+    "Here are the top stories from this week in CHS history:",
+    "Parking at night in Pike/Pine now costs as much as a slice of Capitol Hill pizza",
+    "After complaints about homelessness and drugs, city planning changes at Capitol Hill parks including ‘potential permanent fencing’",
+    "WSDOT says ‘affordable homeownership’ project being lined up for former Montlake Market land",
+    "Election 2025 — Day 7: A Capitol Hill renter will be the next mayor of Seattle",
+    "Capitol Hill’s Egyptian closed for ‘foreseeable future’ after burst pipe damages building home to 108-year-old theater — UPDATE",
+    "No, Bob, coyotes are not a Seattle public safety problem",
+    "It seems like the Capitol Hill Christmas Dive Bar comes earlier and earlier every year",
+    "Mapping Scott and Rinck wins across Capitol Hill, the Central District, and the ‘blue city’ of Seattle",
+    "D3 Election Update: Hollingsworth declares victory, says ready to build on family legacy of three generations in the Central District by giving ‘everyone a voice’",
+    "With move to the suburbs, Crumble & Flake to say goodbye to Capitol Hill",
+    "For the holiday party season, Capitol Hill is getting a Christmas Dive Bar",
+    "Henry’s Gym — part gym, part social club, part bar — coming to Capitol Hill",
+    "Townhome project ready to fill lot empty for years since the demolition of a Capitol Hill landmark",
+    "Two to hospital in MLK Way shootout — UPDATE",
+    "Officials backpedal on Capitol Hill Superblock plan — UPDATE",
+    "A ‘strong mayor’ — Harrell’s Capitol Hill tour includes public safety, kombucha, and pumping iron",
+    "Capitol Hill to begin 2022 without Dick’s Drive-in",
+    "Seattle regains its revenue footing as a new mayor is set to take office — UPDATE",
+    "Reversal: ‘Murdered by the police’ defamation lawsuit against Sawant can go forward",
+    "Seattle responds to President-Elect Trump with rallies, protests — UPDATE: March on Capitol Hill",
+    "Election 2016 | Election Night on Capitol Hill — UPDATE: Strong showings for Jayapal, Macri, ST3… and worries about Trump",
+    "Popular: Sound Transit 3’s big win celebrated",
+    "An artful goodbye to 1901-built Capitol Hill house set to make way for apartment building",
+    "Will ice skating in Cal Anderson Park draw shoppers to Capitol Hill? — UPDATE",
+    "Sound Transit says it has solution for neighbors rattled by light rail tunnel vibrations — UPDATE",
+    "Where will Capitol Hill get its booze now?",
+    "Occupy Capitol Hill | SCCC has state lawyers looking at how to boot Occupy Seattle",
+    "Introducing Hillebrity — Pictures of interesting Capitol Hill people doing interesting things"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2023/11/HollingsworthElection2023-18.jpg?resize=584%2C389&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-ankedbypoweroutagesonwindynightinseattle",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Capitol Hill flanked by power outages on windy night in Seattle — UPDATE",
+   "author": "Justin Carder",
+   "date": "2026-11-08",
+   "url": "https://www.capitolhillseattle.com/2026/11/capitol-hill-flanked-by-power-outages-on-windy-night-in-seattle/",
+   "paras": [
+    "With a windy storm slamming into the city and soggy leaves and branches touching off transformer explosions and knocking down wires, Capitol Hill found itself in a ring of power outages Saturday night.",
+    "Seattle City Light reported more than 4,500 customers without power in the Leschi area and another nearly 4,000 in the dark to the north in Montlake and Eastlake as of 9:20 PM. Meanwhile, spots of outages dotted areas of First Hill and Squire Park south of Seattle University in out outage tied to a larger power failure in South Seattle.",
+    "A wind advisory has been issued in the area through early Sunday morning with predictions of south wind around 18 mph, with gusts as high as 39 mph. The forecast of 100% chance of rain was also highly accurate.",
+    "While the luck of wind and weather patterns rule, CHS has reported on how density and development has shaped the area’s power grid with new apartment buildings requiring work to move utilities below the surface.",
+    "11/8/2026 7:50 AM : Capitol Hill didn’t make it through the night unscathed. City Light reports around 1,700 customers without power around Miller Park — part of some 18,000 customers in the dark across Seattle as of Sunday morning."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1418.jpg?resize=283%2C442&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-joinusbrokeredukrainetalksabudhabirussia",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+   "author": "Willem Marx",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+   "paras": [
+    "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8144x5424+0+0/resize/8144x5424!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffa%2Fa1%2F91147a0b4187a331f76a4c33d532%2Fap26311445819542.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-delectionasleadersprepareforweeksoftalks",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "author": "The Associated Press",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "paras": [
+    "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\"."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5333x3555+0+0/resize/5333x3555!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8b%2F5f%2F9142e9fb4171b7967dc02de2a559%2Fap26311421156364.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-sfultriptouruguaypopeleoheadstoargentina",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
+   "author": "The Associated Press",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
+   "paras": [
+    "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb6%2Fdc%2Fbfa72c634de2ac6fd5d3cbc6c94a%2Fap26312478472333.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-earnsentencefoundguiltyrapesexualassault",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
+   "author": "Kate Bartlett",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
+   "paras": [
+    "Comedian Brand faces a \"significant\" prison sentence, which a London court judge is set to hand down on Monday."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2706x1804+0+0/resize/2706x1804!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2F3b%2Fc4576aa14f7f879c8f83e8b05046%2Fap26307590155292.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-8nxs15393776colorclimatechangecorallakes",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Climate change is altering the colors we see in the world: an illustrated journey",
+   "author": "Connie Hanzhang Jin",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-5393776/color-climate-change-coral-lakes",
+   "paras": [
+    "From Arctic landscapes to insect bodies, climate change is shifting the familiar colors of nature."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1152x648+0+0/resize/1152x648!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Ff9%2F784a099b4ab8a193c67e536a056e%2Fpromo.gif",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-rambulanceserviceruralhealthcarestaffing",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "One air ambulance service rethinks what it takes to practice medicine in the sky",
+   "author": "Elaine Appleton-Grant",
+   "date": "2026-11-08",
+   "url": "https://www.npr.org/2026/11/08/nx-s1-6017801/air-ambulance-service-rural-healthcare-staffing",
+   "paras": [
+    "Air medical service comes with high risks, high costs, and staffing struggles. To reduce turnover and serve rural patients, LifeFlight of Maine is putting the needs of healthcare workers first.",
+    "(Image credit: Elaine Appleton Grant for NPR)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3875x2584+0+0/resize/3875x2584!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2Fb0%2F3f6e14cb4c33b4c784b12013ff0a%2Flifeflight-7086.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc5x2vw4e1gx1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqy8l0gyvvv2oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e401/live/d9d100d0-db91-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwvgr20mmmevoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscw78p2km7d94oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6f/live/0d4d1a90-db8b-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmvg72p1zgvloatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/354198e0-db64-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesckn9r0zd0ynwoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "author": "",
+   "date": "2026-11-08",
+   "url": "https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Lisa Nandy tells the BBC \"many people\" in the media industry have come forward to her."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faca/live/23423a10-db77-11f1-b1f1-3be4e895d0fe.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-urdaynightlivedruskipostelectiontalarico",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Saturday Night Live: Druski hosts and James Talarico cameos, but where’s the post-election comedy?",
+   "author": "Zach Vasquez",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/08/saturday-night-live-druski-post-election-talarico",
+   "paras": [
+    "SNL booking comedian Druski post-midterms felt misbegotten in low-energy episode failing to capture historic ‘blue-nami’",
+    "Four days after the historic “blue-nami” midterms , Saturday Night Live opens at Democrats’ headquarters, where party leaders Hakeem Jeffries (Kenan Thompson) and Chuck Schumer (Sarah Sherman) celebrate, even as they vow to hold on to power in spite of the wishes of their energized base.",
+    "Their toast is interrupted by the man responsible for Republicans’ shellacking, Donald Trump (James Austin Johnson). The president, who is “now lame duck”, accepts the results, “which is scarier in a way”. But he’s also resigned to focus on the ballroom , even as he laments having to work with millennial Democrats (this leads him down a long diatribe about the show New Girl). We get quick walk ons by a defeated JD Vance (Jeremy Culhane) and extra-aggro Pete Hegseth (Colin Jost), only for Trump to get a taste of his own medicine when James “Telefreako” Talarico interupts him. Texas’s new senator-elect speaks to one of the big issues of the day: “It’s clear people want something new, they want something different. I’m talking, of course, about SNL’s cold opens. How many of these Trump freezes are they gonna do?”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/135362df1c3caca52188bcfb1731b575d3f05e06/100_0_834_667/master/834.jpg?width=140&quality=85&auto=format&fit=max&s=a5210ef276ee5d5a5aa29290e307b6fc",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-s2026nov08dob12shotsworkenergydeficiency",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Tired all the time? What to know about B12 and if it actually boosts energy levels",
+   "author": "Keren Landman",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/wellness/2026/nov/08/do-b12-shots-work-energy-deficiency",
+   "paras": [
+    "Med spas are raving about vitamin B12 shots as a pick-me-up. But do they actually make you feel more energized?",
+    "If you spend time on social media, you may have seen med spa owners and employees describing vitamin B12 shots as a pick-me-up . When they’re run down or facing a busy week, they say, a quick injection gets them through. Some med spas say many people feel an energy lift within a day or two and recommend a shot every few weeks.",
+    "B12 is essential to your health, and people who don’t get enough of it can feel exhausted or worse. But most people already have plenty of B12, and for them, extra doses aren’t likely to help."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0b0765f3acce940a1813cc23bddba8b674530490/161_0_3842_3075/master/3842.jpg?width=140&quality=85&auto=format&fit=max&s=e7295934241bf18978c01841ae12f817",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-6nov08crossfitfitnessculturetrumpamerica",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "How CrossFit helped shape the macho fitness culture of Trump’s America",
+   "author": "Edward Helmore",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/crossfit-fitness-culture-trump-america",
+   "paras": [
+    "The movement founded by Greg Glassman grew into an empire, helping popularize the masculinity aesthetic embraced by Pete Hegseth and RFK Jr",
+    "Comparative machismo is hardly new, but when Donald Trump publicly admired Senator Jon Husted’s backside earlier this month, later telling advisers it made the since-defeated Ohio incumbent more “interesting” to voters, the senator leaned into the compliment, saying it gave him extra motivation to “get down to the gym”.",
+    "Would that odd exchange have taken place without CrossFit, the fitness empire founded by college dropout and gymnast Greg Glassman in the 1990s that grew to 15,000 gyms across 160 countries before he was drawn into public controversy at the height of #MeToo and the social justice movement in 2020?"
+   ],
+   "img": "https://i.guim.co.uk/img/media/57e71fac09e85ebaf19ad6b837bb6497dbd6d69f/405_0_3244_2598/master/3244.jpg?width=140&quality=85&auto=format&fit=max&s=24f61b5a7707acfaf7dbef80defba601",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-2026nov08zohranmamdanimustachefacialhair",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
+   "author": "Dave Schilling",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/08/zohran-mamdani-mustache-facial-hair",
+   "paras": [
+    "The once-bearded New York mayor has downsized his facial hair. Does it work?",
+    "I’ve battled with facial hair almost my entire adult life.",
+    "I started growing it early, turning me into a pubescent villain from a spaghetti western. I was told by my parents not to shave it off, lest it grow back more furious than before. I just had to walk around high school looking like a hungover bond trader, which did nothing for my popularity.",
+    "Dave Schilling is a Los Angeles-based writer and humorist"
+   ],
+   "img": "https://i.guim.co.uk/img/media/0c21c6c1aaf1a3fa6cbded321e48ba40ebb895a4/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f5efccaa90aadd954d69a9b66c38e533",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-pwhyoptimisingeverythingcanbackfirebadly",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The efficiency trap: why optimising everything can backfire, badly",
+   "author": "Steven Strogatz and Alex Townsend",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+   "paras": [
+    "From roundabouts to the stock market, relentless streamlining could be making the world more dangerous",
+    "We have all been there: packed shoulder to shoulder on the train while the person beside us coughs and sneezes. A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it. Yet, in England, about 95% of adult hospital beds were occupied at the height of flu season last year.",
+    "If hospitals were hotels, that level of occupancy would be good business, and we would commend them for their efficiency. But do we really want a hospital to have so few beds in reserve that it’s just one bad flu week away from having to treat patients in corridors?"
+   ],
+   "img": "https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=c7091ded2f897e1aec5c686288270d78",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-apyhowtedscheinmanbrokethroughdepression",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I was in a darker place than I’d ever been. ECT was my only hope’: how Ted Scheinman finally broke through his depression",
+   "author": "Paula Cocozza",
+   "date": "2026-11-08",
+   "url": "https://www.theguardian.com/society/2026/nov/08/ect-electroconvulsive-therapy-how-ted-scheinman-broke-through-depression",
+   "paras": [
+    "Troubled from the age of three, by 35 the American journalist viewed himself as ‘the lowest piece of dirt on the Earth’ – and neither therapy nor drugs seemed to help. But there was one thing he hadn’t tried …",
+    "Ted Scheinman can date the origin of his depression with laser accuracy. It was the day he went to the fair, aged three, and returned to his home in upstate New York clutching a Batman toy that he’d won. In the bathroom, he swooped his new doll over the sink. Scheinman had a vivid imagination; in a few years, he would want to become a playwright. To add sound effects and drama, he turned on the tap. There was a whoosh – and the unthinkable happened. Water landed on Batman’s pristine boot in a darkening, enlarging spot that for young Scheinman triggered several rapid thoughts, the last of them being: “I am going to die.”",
+    "Now 41, Scheinman, a senior editor at Smithsonian magazine , has written a memoir of his “life as a depressive”. Jolt: My Electric Journey Out of Darkness charts his path from toddlerhood to the point in 2020, at the age of 35, when he referred himself for electroconvulsive therapy (ECT). By then, he was in “a much darker place” than he had ever been – and regarded himself as “the lowest piece of dirt on the Earth”. The treatment was “not so much a last resort … as my only hope”, he says."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0f4217031433e1c010a25d9d6a9ec83a47f439d1/781_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=eb3cee94592af934c2bf20534f00c9ed",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-attlestartupfirmlysbetonaishoppingagents",
    "srcKey": "geekwire",
@@ -150,8 +667,8 @@
     "Whether through willful ignorance or sincere befuddlement, Fryer is pretty lost when it comes to middle housing. He gets the basic timeline correct: state lawmakers passed a middle housing law in 2023 setting a minimum standard that that had to be in place by July 2025 for major cities like Seattle.",
     "Seattle used an interim ordinance to enact middle housing zoning changes to beat the clock after the Harrell administration struggled mightily to put together a Comprehensive Plan and keep it on schedule. The last-minute route Harrell chose means zoning changes have been in place just over a year, and Fryer is ready to begin drawing sweeping conclusions with one year of data.",
     "\"The early results of HB 1110 are in, and they are not good — for affordability, the environment or Seattle’s once-vaunted quality of life,\" Fryer writes. \"Construction permits filed with the city since an interim middle housing ordinance went into effect in July 2025 show that four freestanding houses on a single lot is the predominant type of what Seattle City Hall calls middle housing.\"",
-    "The one-year snapshot of data presented by the Seattle Times shows 65 projects that add four freestanding homes on one lot, 52 projects that add a pair of duplexes, and 3o projects that add a duplex plus two freestanding homes. That's 588 homes in all, on 147 lots that typically only would have had a single home.",
-    "While some of those lots might have added a backyard cottage of basement apartment under previous zoning, the fourplex reform appears to have been an incentive for more projects to break ground, and add more housing in doing so.",
+    "The one-year snapshot of data presented by the Seattle Times shows 65 projects that add four freestanding homes on one lot, 52 projects that add a pair of duplexes, and 30 projects that add a duplex plus two freestanding homes. That's 588 homes in all, on 147 lots that typically only would have had a single home.",
+    "While some of those lots might have added a backyard cottage or basement apartment under previous zoning, the fourplex reform appears to have been an incentive for more projects to break ground, and add more housing in doing so.",
     "So far, fourplexes are a small piece of Seattle's overall housing production – which delivers around 10,000 new homes in an average year – and that's not likely to change drastically. That said, it's an important housing option for a certain contingent of people in need of family-sized housing, trying to leave the rental market, or looking to downsize from larger homes.",
     "Enacting fourplex zoning and seeing an uptick in fourplex construction is basically what the law was designed to do. Fryer has fixated on the idea that the fourplexes should be attached rather than freestanding, which he never fully explains.",
     "\"Older homes purchased and then razed. Entire lots bulldozed and scraped of every living thing,\" Fryer writes, melodramatically. \"Although the language of HB 1110 promised buildings that are 'compatible in scale, form, and character with single-family houses …,' the result so far has been architectural gigantism: Tall, bulky homes that take up every allowable inch of land and often sell for more than a million dollars.\"",
@@ -159,7 +676,7 @@
     "Another key fact Fryer overlooks: a townhome is almost always cheaper than a single family home in the same neighborhood. Fryer's is an argument by lazy anecdote; he does not cite anything approaching a comprehensive analysis of new house prices. In fact, the only specific project he cited was the same South Park townhome project he wrote about last year, which despite all Fryer's snobbish fretting about aesthetics and tree canopy, sold for less than $500,000 each, as The Urbanist pointed out in a rebuttal .",
     "The phenomenon of single family tear downs was longstanding and not invented with the middle housing law. The difference is now some teardowns result in fourplexes rather than almost exclusively larger single family homes. The status quo before the law was not good for affordability.",
     "The previous status quo came with no guarantees around tree canopy either. In fact, single family zones lost tree canopy even in periods when fourplexes were banned, accounting for 87 acres of net canopy loss from 2016 to 2021, according to the City's official tree assessment. Far denser multifamily and mixed-use zones accounted for almost all of Seattle's considerable housing growth over that period while essentially treading water on canopy, losing just 24 acres on net, as more than 40,000 new homes went in.",
-    "The holy grail for urbanists and others focused on housing affordability was never simply to unlock fourplex townhomes alone. Many had an eye toward denser housing forms, like stacked flats, in formerly single family zones. Fryer briefly brings up that the middle housing reform also allowed for sixplexes within a quarter mile of frequent transit or if two homes. That undersells the multiplex possibility .",
+    "The holy grail for urbanists and others focused on housing affordability was never simply to unlock fourplex townhomes alone. Many had an eye toward denser housing forms, like stacked flats, in formerly single family zones. Fryer briefly brings up that the middle housing reform also allowed for sixplexes within a quarter mile of frequent transit or if two homes are built as affordable housing. That undersells the multiplex possibility .",
     "Thanks to density bonuses for tree preservation and/or adding affordable homes, 12-unit stacked flat complexes are a possibility on some lots. That segment from sixplexes to 12-plexes are likely to be even more affordable than fourplexes and open up formerly single family neighborhoods to renters in a far bigger way.",
     "Architects like Matt Hutchins publicized this burgeoning opportunity, but even Hutchins admitted stacked flats would be a bit of unicorn, with townhomes the workhorse bulk product.",
     "“We’re talking about like maybe 5% of the townhouse projects become stacked flat projects,” Hutchins told The Urbanist in 2025. “There’s still significant headwinds that are going to drive people into the safe harbor of four townhouses. However, there are now avenues, I think, for more ambitious developers who want to take advantage of these [stacked flat] incentives that, really have the right site, and have the right mission.”",
@@ -174,7 +691,7 @@
     "The famous proverb applies to housing policy: People who live in glass houses shouldn't throw stones, especially when that house is worth more than one million dollars.",
     "Fryer is not just some guy. In addition to having a regular column in the region's largest paper, he sits on the Seattle Times editorial board, which issues one of the most influential set of endorsements in the Puget Sound region and often backs more conservative candidates and causes. They typically oppose new tax measures, even when they fund transit or housing investments that lower cost of living for working class Seattleites. For example, the editorial board opposed the successful 2025 ballot measure funding social housing via a high earners tax.",
     "Earlier this year, the board dubbed The Urbanist a \" builder's mouthpiece \" while complaining about the composition of an internal meeting at city hall to discuss how to advance bolder zoning changes .",
-    "Simply put, Fryer is out of touch, and it shows. While Fryer and friends are keeping close tabs on tree removal permits and each \"bigleaf maple\" that bites the dust, the number of renters and first-time homebuyers being priced of Seattle does not seem to faze them or grab their interest in quite the same way.",
+    "Simply put, Fryer is out of touch, and it shows. While Fryer and friends are keeping close tabs on tree removal permits and each \"bigleaf maple\" that bites the dust, the number of renters and first-time homebuyers being priced out of Seattle does not seem to faze them or grab their interest in quite the same way.",
     "Millennials and Zoomers are in a tough position when it comes to housing, and the policy changes and cultural norms Fryer is pushing would add fuel to the fire. Seattleites deserve a real variety and abundance of housing options in every neighborhood, not vague promises of divvying up old homes because we are too scared and architecturally picky to build anything new.",
     "On one issue Fryer is right. Housing affordability is likely to be a huge issue in next year's election: \"Next fall, seven Seattle City Council positions are up for grabs. Middle housing — real middle housing — ought to be part of the campaign.\"",
     "Voters, however, are likely to see through flimsy ideas that have no real shot at moving the needle on affordability."
@@ -238,49 +755,28 @@
    "annos": null
   },
   {
-   "id": "f-emerald-eroundupwetalkelectionfromfirststofights",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Roundup: We Talk Election, From Firsts to Fights",
-   "author": "",
+   "id": "f-stranger-bandingtogethertosolvethedeliveryappmess",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Restaurants Are Banding Together to Solve the Delivery App Mess",
+   "author": "Harry Cheadle",
    "date": "2026-11-07",
-   "url": "https://southseattleemerald.org/newsletters/2026/11/07/the-roundup-we-talk-election-from-firsts-to-fights",
+   "url": "https://www.thestranger.com/news/restaurants-are-banding-together-to-solve-the-delivery-app-mess/",
    "paras": [
-    "Election Day was electric this week. A \"blue wave\" swept through the country, with progressives DEM-olishing Republican candidates at the polls nationwide.",
-    "Two wins outside of Washington that caught my eye: Keisha Lance Bottoms making history in Georgia by becoming the first Black woman to be elected Governor in the United States, and Gina Hinojosa making history as the first Latina governor of Texas.",
-    "I'm sure y'all have heard about national election results all week. I want to dive into some local results.",
-    "Contributing politics reporter Connor Nash published his election recap yesterday.",
-    "But I want to take a closer look at a few local races. How will a newly elected City Council member impact Mayor Katie Wilson's RV ban veto we saw earlier this week? Progressive candidates and issues were widely successful — what happened with girls sports? And, once again, voters proved we support the Millionaires Tax — is this fight finally over?",
-    "To get answers, I spent some time with Connor.",
-    "This interview has been lightly edited for length and clarity.",
-    "MD: We had a lot of back and forth with the RV ban. This week, Mayor Wilson vetoed the ban, and rumor has it Councilmember Rob Saka will flip his vote. You said the election this week may play a role?",
-    "CN: Yeah. So, we had a special election in D5, which is North Seattle, because Kathy Moore stepped down last year. The race has been called, Nilu Jenks won, and she was the more progressive in the race versus Julie Kang, who had lots of dark money supporting her. With that win, there are now four progressives on City Council versus five, we'll call them, \"moderates.\"",
-    "So, at Dan Strauss' press conference, I asked him, \"Are you going to wait for your vote to overturn Mayor Wilson's veto of the RV legislation?\" Because he needs six votes to do that. No one has asked Jenks how she'd vote, but her campaign leaned progressive. But Dan Strauss said no, he's going to try to get it done as fast as possible.",
-    "He has from 5 to 30 days to act after the mayor signed the veto, which was Tuesday. So, in theory, he could wait until the election is certified and Jenks gets sworn in, but he said he won't wait.",
-    "I asked Rob Saka, and a reporter from The Stranger asked Rob Saka, if he was on Mayor Wilson's side on this. And he did not directly answer that question. Twice. He gave a very long answer that didn't have the words \"yes\" or \"no\" in it. But he was at the press conference, so I'm assuming it's a yes. But he didn't say that.",
-    "In my opinion, they should wait until the new D5 council member gets certified. That way, the voters have their newly elected representative in place to help decide what the city does moving forward.",
-    "MD: Heading into this election, the rules surrounding girls in sports — specifically, the rules that will impact trans girls' ability to participate — have been a hot topic. Misinformation seems to be at an all-time high. What does this actually mean? And with all the other progressive candidates and bills winning, why was this one voted down?",
-    "CN: This is a ban that will keep trans girls out of school or intramural sports that are designated for girls. It passed by a pretty healthy margin. But it's not just the ban, it also requires testing that all girls have to go through in order to be allowed to play in girls sports.",
-    "It includes a medical test that has to be certified by a doctor, and that test can include a mouth swab, a blood test, or, most controversially, a genital exam.",
-    "Washington has the more extreme version of this ballot initiative. But this ballot initiative of banning trans girls in sports was nationwide. It was also up for votes in Arizona, Colorado, and Nebraska, and they all had this similar thing that happened with their votes, in which they would vote for very progressive ideas — in Arizona, it was voting to ban traffic cameras; in Colorado, they voted to stop law enforcement from working with ICE so heavily; and in Nebraska, they voted to ban all sports betting — but they all, like Washington, decided to ban trans girls from sports.",
-    "But all states that had this type of legislation on ballots, whether red, blue, or purple, they all voted for it. In Washington, there was a lot of misinformation. The people who wrote it, like Brian Heywood, didn't highlight the genital exam.",
-    "Overall, it really did show maybe progressives or left-leaning people were maybe not reading the moment, or maybe not making their outreach to the suburbs. Because if you look in Washington State, it was the suburbs, which we would think of as loyal Democratic voters, that voted for these bans.",
-    "MD: So what happens now? Is this over, or is there room for a challenge?",
-    "CN: It's not over. Like every ballot initiative that Washington State votes on, it will always go into the court. That's why Brian Heywood does not like the state Supreme Court. He has these ballot initiatives that do pass the voters, like the natural gas initiative he had, they all passed, and then it goes to the court systems, and they find some reason why it was illegal.",
-    "MD: That's a perfect segue into my next question. Once again, voters have said they are all for the Millionaires Tax. Is it over? Or will it be challenged again?",
-    "CN: Oh, Brian Heywood said the minute that vote came in that the courts would be the next step. This will make its way through the circuit and end up in the Supreme Court. Brian Heywood does not have a very good track record when it comes to the state Supreme Court, so the assumption is that the Millionaires Tax will pass, even though there's various laws in our state constitution that say that we can't have an income tax. The people of the legislature, Bob Ferguson, Jamie Pedersen, are hoping that they crafted this legislation well enough that it will survive the Supreme Court.",
-    "MD: Last question. Was there anything from the election that surprised you?",
-    "CN: I think the one that surprised me the most, that might have been a big win for progressives, was Kelabe Tewolde basically winning in a landslide, going from a primary where he only won by four points to then swinging completely and winning with over 60% of the vote. I was very surprised by that, and it followed the national trend of democratic voters not wanting multi-decade incumbents representing them anymore. And in this specific race, the incumbent focused a lot on bipartisanship and working across the aisle. I don't think voters want that anymore.",
-    "And, obviously, Jaelynn Scott's win was very historic as the first openly Black trans legislator in the whole United States, and a very proud socialist as well. I think that was a very big win, but, you know, she won with like 88% of the vote, so I wasn't surprised by that one.",
-    "Election Day was this week. Here's what you need to know if you live in the South End.",
-    "Tsunami warning signs in the South End? Here's the latest on shoreline evacuation signs.",
-    "City Light caused a blackout without warning? These businesses want answers — with a side of restitution.",
-    "You ever wonder what's in that turquoise building by Rainier Beach Station? The answer: taro and turkey tails.",
-    "Seattle has a Short Run Comix Fest — and of course it's in Georgetown. Here are the details.",
-    "This is an abbreviated version of The Roundup newsletter. To get the entire newsletter, including a weekly list of events to check out and my shout-out to South End Gems, subscribe here . See you next week!",
-    "Mike Davis is the newsletter editor and Voices editor at the South Seattle Emerald. Born and raised in Seattle's South End, Mike is a longtime journalist who's covered everything from arts and culture to sports to politics."
+    "If you’ve had the misfortune of ordering delivery food in Seattle lately, you know how expensive it has gotten in the last couple of years—Seattle routinely ranks at or near the top whenever anyone ranks the most costly places in the US to get delivery. And if you’re unlucky enough to own a restaurant that relies on delivery orders, you’ve also been suffering, as consumers react pretty rationally to these higher costs by ordering less food.",
+    "Uttam Mukherjee, the co-owner of the well-known Indian street food mini-chain Spice Waala , has been struggling with spiraling costs and decided to do something about it: he’s cofounded a new service, called Yaku , that he hopes will hit a trifecta of lower costs for customers, more transparent pricing, and fair pay for drivers. Yaku is starting out with a tiny footprint in Ballard, but its goal is to fix the mess that food delivery has become in Seattle.",
+    "Restaurant food is expensive because of high costs (including labor costs) that are passed on to diners. But delivery food is even more expensive due in large part to a city law called PayUp that went into effect in 2024 . PayUp raised pay rates for app delivery drivers by requiring those platforms to pay a minimum per minute worked, per mile driven, or per order delivered. It also mandated paid sick time for these workers and protected them from “deactivation” (losing their jobs) in some cases. DoorDash and Uber—which control most of the app delivery market—responded by tacking on a $5 fee to all orders in Seattle city limits. The apps said this was necessary to deal with costs incurred by the legislation, while PayUp supporters accused the apps of price gouging.",
+    "Since then, restaurateurs like Mukherjee’s have seen an undeniable drop in sales. Restaurants have to pay to be on platforms like DoorDash, and when those apps attach additional fees to orders, their customers pay more for their food through no action on the restaurants’ part. On top of that, some restaurant owners feel that they lose control of their product when it’s delivered by third-party gig workers.",
+    "Some people in the industry have tried to break free of the app model with limited success. Fried chicken specialist Bok a Bok ditched DoorDash for in-house delivery drivers in 2024, only to close completely earlier this year . A delivery driver named Tony Illes made headlines when he quit Uber Eats to go independent; he plastered downtown with signs advertising a low, flat delivery fee and telling customers to text him directly. He now has an app called Tony Delivers and says he’s signed up 1,000 drivers, though the app only works for a handful of restaurants and only in select neighborhoods surrounding downtown and Capitol Hill. (Illes is trying to recruit more restaurants, he says.)",
+    "Mukherjee and Yaku cofounder Tim McConnell, a former Amazon employee who is handling the technical stuff, have been talking about a delivery business since 2020. But the PayUp regulations and the attendant app fees pushed the duo to launch Yaku. The high delivery prices, Mukherjee says, offer “an opportunity for someone else to come in and provide that service at a better business model.”",
+    "The other thing motivating Mukherjee is that local politicians don’t seem to be interested in passing legislation that might lessen the pinch on delivery-dependent restaurants. He’s said publicly that he supports the goal of paying app drivers more, but feels that policymakers didn’t consider the impact PayUp would have on businesses like Spice Waala. Since 2024, he’s been in multiple meetings with city council members, he says. “Every single time, everyone agrees it’s a big problem, and every single time they say it’s just not something we’re going to be working on.” Seattle leadership didn’t revise PayUp despite pressure from app companies when Bruce Harrell was mayor; it seems even less likely to do so under Katie Wilson, who praised PayUp during her mayoral campaign. A recent study by the city’s Office of Labor Standards found that average wages for drivers went up since PayUp’s passage, while the overall volume of orders also ticked up slightly; though disputed by the app companies, this study provides evidence for lawmakers that the legislation is working.",
+    "Yaku operates on a different model altogether—its drivers are employees, which Mukherjee says makes coordination easier. Restaurants can tell drivers which orders need to go out when and can help if a driver needs to come back because they forgot part of the order. That’s a big improvement over the apps, where “you can’t talk to the Dashers,” says Mukherjee.",
+    "The other major distinction between Yaku and the big apps is the pricing—Yaku currently charges a $9.99 flat delivery fee for all orders. Compared to the more complex fee structure of DoorDash, Murkerjee says this will generally be cheaper, though it might depend on whether someone subscribes to a service like DashPass, which reduces delivery fees on DoorDash.",
+    "Yaku has only been active since October 30. It’s available at five Ballard restaurants and employs just two drivers—Mukherjee says he and McConnell may step in as drivers during rushes. It only delivers to Ballard. When I spoke with Mukherjee on launch day, Yaku had fulfilled just one delivery order: a breakfast burrito from Rachel’s Bagels and Burritos . Over the first weekend, Mukherjee says, Yaku had “a lot of website visitors, a lot of interest,” and “some orders.” The fledgling service is trying to figure out how to make this new model work, which might mean adding more restaurants, changing the delivery radius, or altering the pricing structure (the fee might go up or down, Mukherjee says, depending on how many orders Yaku attracts). The Spice Waala owner is already looking at expanding to Capitol Hill. If Yaku catches on, the “ultimate goal” would be an app, he says.",
+    "As a test, I compared what it would cost to order a wrap and two snack items from Spice Waala on DoorDash and Yaku. It was $31.50 on Yaku and $35.36 on DoorDash, even though DoorDash was waiving its $1.99 delivery fee. (In fairness, there were some “buy one get one free” deals on snacks that were exclusive to DoorDash.) Maybe at those rates, Yaku can siphon off some customers from the big apps, especially those who are sick of giving their money to tech companies. But the bigger problem hanging over all of this is, at those prices, how many Seattleites can afford delivery food period?",
+    "The post Restaurants Are Banding Together to Solve the Delivery App Mess appeared first on The Stranger ."
    ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-11-07/e5o8cfqx/We-Talk-Election-From-Firsts-to-Fights.png",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/Luis-Alvarez_Getty-Images-1316617914-scaled.jpg?fit=1024%2C704&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -382,332 +878,20 @@
    "annos": null
   },
   {
-   "id": "f-stranger-bandingtogethertosolvethedeliveryappmess",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Restaurants Are Banding Together to Solve the Delivery App Mess",
-   "author": "Harry Cheadle",
-   "date": "2026-11-07",
-   "url": "https://www.thestranger.com/news/restaurants-are-banding-together-to-solve-the-delivery-app-mess/",
-   "paras": [
-    "If you’ve had the misfortune of ordering delivery food in Seattle lately, you know how expensive it has gotten in the last couple of years—Seattle routinely ranks at or near the top whenever anyone ranks the most costly places in the US to get delivery. And if you’re unlucky enough to own a restaurant that relies on delivery orders, you’ve also been suffering, as consumers react pretty rationally to these higher costs by ordering less food.",
-    "Uttam Mukherjee, the co-owner of the well-known Indian street food mini-chain Spice Waala , has been struggling with spiraling costs and decided to do something about it: he’s cofounded a new service, called Yaku , that he hopes will hit a trifecta of lower costs for customers, more transparent pricing, and fair pay for drivers. Yaku is starting out with a tiny footprint in Ballard, but its goal is to fix the mess that food delivery has become in Seattle.",
-    "Restaurant food is expensive because of high costs (including labor costs) that are passed on to diners. But delivery food is even more expensive due in large part to a city law called PayUp that went into effect in 2024 . PayUp raised pay rates for app delivery drivers by requiring those platforms to pay a minimum per minute worked, per mile driven, or per order delivered. It also mandated paid sick time for these workers and protected them from “deactivation” (losing their jobs) in some cases. DoorDash and Uber—which control most of the app delivery market—responded by tacking on a $5 fee to all orders in Seattle city limits. The apps said this was necessary to deal with costs incurred by the legislation, while PayUp supporters accused the apps of price gouging.",
-    "Since then, restaurateurs like Mukherjee’s have seen an undeniable drop in sales. Restaurants have to pay to be on platforms like DoorDash, and when those apps attach additional fees to orders, their customers pay more for their food through no action on the restaurants’ part. On top of that, some restaurant owners feel that they lose control of their product when it’s delivered by third-party gig workers.",
-    "Some people in the industry have tried to break free of the app model with limited success. Fried chicken specialist Bok a Bok ditched DoorDash for in-house delivery drivers in 2024, only to close completely earlier this year . A delivery driver named Tony Illes made headlines when he quit Uber Eats to go independent; he plastered downtown with signs advertising a low, flat delivery fee and telling customers to text him directly. He now has an app called Tony Delivers and says he’s signed up 1,000 drivers, though the app only works for a handful of restaurants and only in select neighborhoods surrounding downtown and Capitol Hill. (Illes is trying to recruit more restaurants, he says.)",
-    "Mukherjee and Yaku cofounder Tim McConnell, a former Amazon employee who is handling the technical stuff, have been talking about a delivery business since 2020. But the PayUp regulations and the attendant app fees pushed the duo to launch Yaku. The high delivery prices, Mukherjee says, offer “an opportunity for someone else to come in and provide that service at a better business model.”",
-    "The other thing motivating Mukherjee is that local politicians don’t seem to be interested in passing legislation that might lessen the pinch on delivery-dependent restaurants. He’s said publicly that he supports the goal of paying app drivers more, but feels that policymakers didn’t consider the impact PayUp would have on businesses like Spice Waala. Since 2024, he’s been in multiple meetings with city council members, he says. “Every single time, everyone agrees it’s a big problem, and every single time they say it’s just not something we’re going to be working on.” Seattle leadership didn’t revise PayUp despite pressure from app companies when Bruce Harrell was mayor; it seems even less likely to do so under Katie Wilson, who praised PayUp during her mayoral campaign. A recent study by the city’s Office of Labor Standards found that average wages for drivers went up since PayUp’s passage, while the overall volume of orders also ticked up slightly; though disputed by the app companies, this study provides evidence for lawmakers that the legislation is working.",
-    "Yaku operates on a different model altogether—its drivers are employees, which Mukherjee says makes coordination easier. Restaurants can tell drivers which orders need to go out when and can help if a driver needs to come back because they forgot part of the order. That’s a big improvement over the apps, where “you can’t talk to the Dashers,” says Mukherjee.",
-    "The other major distinction between Yaku and the big apps is the pricing—Yaku currently charges a $9.99 flat delivery fee for all orders. Compared to the more complex fee structure of DoorDash, Murkerjee says this will generally be cheaper, though it might depend on whether someone subscribes to a service like DashPass, which reduces delivery fees on DoorDash.",
-    "Yaku has only been active since October 30. It’s available at five Ballard restaurants and employs just two drivers—Mukherjee says he and McConnell may step in as drivers during rushes. It only delivers to Ballard. When I spoke with Mukherjee on launch day, Yaku had fulfilled just one delivery order: a breakfast burrito from Rachel’s Bagels and Burritos . Over the first weekend, Mukherjee says, Yaku had “a lot of website visitors, a lot of interest,” and “some orders.” The fledgling service is trying to figure out how to make this new model work, which might mean adding more restaurants, changing the delivery radius, or altering the pricing structure (the fee might go up or down, Mukherjee says, depending on how many orders Yaku attracts). The Spice Waala owner is already looking at expanding to Capitol Hill. If Yaku catches on, the “ultimate goal” would be an app, he says.",
-    "As a test, I compared what it would cost to order a wrap and two snack items from Spice Waala on DoorDash and Yaku. It was $31.50 on Yaku and $35.36 on DoorDash, even though DoorDash was waiving its $1.99 delivery fee. (In fairness, there were some “buy one get one free” deals on snacks that were exclusive to DoorDash.) Maybe at those rates, Yaku can siphon off some customers from the big apps, especially those who are sick of giving their money to tech companies. But the bigger problem hanging over all of this is, at those prices, how many Seattleites can afford delivery food period?",
-    "The post Restaurants Are Banding Together to Solve the Delivery App Mess appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/Luis-Alvarez_Getty-Images-1316617914-scaled.jpg?fit=1024%2C704&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-hcityofkrakowkilling6peopleandinjuring15",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-   "author": "The Associated Press",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-   "paras": [
-    "A gunman targeted random people as he drove into Krakow's Main Square, a major tourist spot. Police shot and wounded the gunman during a gunfight."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7000x4667+0+0/resize/7000x4667!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2Ffc%2Fbb0a469b492cbf28c12a5f5439e8%2Fap26311614976633.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-33373paraguaypresidentoustedbankcollapse",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Ousted Paraguayan president appears before prosecutors",
-   "author": "Ava Berger",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-   "paras": [
-    "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6653x4435+0+0/resize/6653x4435!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2F78%2F40561ab4423abbd70bf3463d02c0%2Fgettyimages-2295537388.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-xs16026379lpadruglipoproteinaheartattack",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A promising new medicine against heart disease fails unexpectedly",
-   "author": "Rob Stein",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack",
-   "paras": [
-    "Doctors expected an experimental drug that lowers a common risk factor for heart attacks would save patients' lives. The medicine made no difference."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3200x1900+0+0/resize/3200x1900!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2f%2F66%2Fb8a0e1394fe0939c06d94bd754be%2Fgettyimages-1159313378.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-659democratsinvestigatefataliceshootings",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Democrats plan to widen their probes of fatal ICE shootings",
-   "author": "Meg Anderson",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
-   "paras": [
-    "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff5%2F51%2Ff396903449859ddabe2ea56444b5%2Fgettyimages-2302917816.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ectivesimonwinchesterwasheretotellastory",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Perspective: Simon Winchester was here to tell a story",
-   "author": "Scott Simon",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/nx-s1-6023225/perspective-simon-winchester-was-here-to-tell-a-story",
-   "paras": [
-    "British American reporter and author Simon Winchester died of a heart attack Nov. 3. We take a moment to remember his long career, which included covering Bloody Sunday and Watergate."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2059x1367+0+0/resize/2059x1367!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fd2%2F7a80d4954842a7193d194eec3b3b%2Fgettyimages-585797523.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-2225princessdianahonormenstruationstigma",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
-   "author": "Kamala Thiagarajan",
-   "date": "2026-11-07",
-   "url": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
-   "paras": [
-    "This year's the Princess Diana honor roll highlights 198 inspiring young activists and advocates — including an 18-year-old guy in India who founded Team Period."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3060x2886+0+0/resize/3060x2886!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F04%2Ff7%2Fee82be5d4122ae3fb680e7233b63%2Fprincess-diana-award-winner-3.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmd7q15drwgeoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "What we know about Krakow mass shooting so far",
+   "id": "f-kuow-teEh5RFpwZGZtSkhPYXJLcl8ycEFMWnhnYkhkoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "The dreamers risking everything to grow a seaweed industry in the PNW",
    "author": "",
    "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaHdidmFPZ3VTejh4ZVZDUXQ2aXowNm5zZHhiRnpma1JnZnd6RThzSG1KYTBnaXlQR18xMEc3a25EVXRUdEVwaERpaERaQkN2dnFqMmdDeXNUeDlsNkU4SzE4RkxHRU1JOUNENmpSVEZRaEpZcGpBTDFESVdhT0FkdkhMbW1acTJNYkRVTXVsZlpOaE1JOUt0N25IeFcteEh5RFpwZGZtSkhPYXJLcl8ycEFMWnhnYkhk?oc=5",
    "paras": [
-    "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city."
+    "The dreamers risking everything to grow a seaweed industry in the PNW KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc9kgjj206nzpoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "author": "",
-   "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescwjdmm0z74ploatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-   "author": "",
-   "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ce4/live/95ac7ac0-da00-11f1-93e1-3b657b665bcf.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescx240e5py64joatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-   "author": "",
-   "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f37/live/d00ac9e0-dac0-11f1-8c3b-f3c0d6bd7c4f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescvze47p9jeexoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
-   "author": "",
-   "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f42/live/47f84090-dadf-11f1-88f9-d3c2139f8619.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck5ynnj05z8noatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-   "author": "",
-   "date": "2026-11-07",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynnj05z8no?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "How prepared is the UK for the type of event that could leave millions without power, water and communications?"
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eec/live/692e5ed0-d9e9-11f1-bbe5-797ee05bee69.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-amforestvmanchestercitypremierleaguelive",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Nottingham Forest 3-1 Manchester City: Premier League – live",
-   "author": "Tom Bassam",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/football/live/2026/nov/07/nottingham-forest-v-manchester-city-premier-league-live",
-   "paras": [
-    "⚽ Premier League updates from the 5.30pm GMT kick-off ⚽ Live scores | Full tables | Follow us on TikTok | Mail Tom",
-    "Before kick-off, we’ll hear The Last Post. Remembrance Sunday is tomorrow."
-   ],
-   "img": "https://i.guim.co.uk/img/media/33596b2182620c1c23443c69fba3bd371f83582f/267_833_1997_1598/master/1997.jpg?width=140&quality=85&auto=format&fit=max&s=71860115e69ce8a72fcdcf5af331b59b",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-07philadelphiablockingfooddeliveryrobots",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-   "author": "Arwa Mahdawi with visuals by Kriston Jae Bethel",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-   "paras": [
-    "Semi-retired professor Carolyn Marvin became a local celebrity facing down Philadelphia’s growing robot delivery army: ‘It’s my first amendment right to protest’",
-    "“One of you needs to be on the lookout for cops, while I block the robot, OK?”",
-    "It is a crisp fall morning in Philadelphia. Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition. Once a suitable target is identified, we will follow it to a busy sidewalk and Marvin will stand in front of the robot, blocking its way. The photographer and I will take turns ensuring we’re not all carted off by the police."
-   ],
-   "img": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=731516b3b10b69bcfb54fdbce5864718",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-2026nov07petehegsethmidtermsconsequences",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
-   "paras": [
-    "The ‘secretary of war’ and his shameful history are facing bipartisan scrutiny",
-    "Can you smell the schadenfreude in the air?",
-    "Watching some of the worst people in the world get their comeuppance this week has been deeply satisfying. And the show isn’t over yet. While the midterms have wrapped up, the blame game is only just getting started, with Republicans desperate to find scapegoats for their shellacking."
-   ],
-   "img": "https://i.guim.co.uk/img/media/951893fa5f4c12077ed8bdcbf1fee7a1489f34b6/291_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=a16d96c783f9733826397be0af678781",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-erus2026nov07bestplasticfreeicecubetrays",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The best plastic-free ice cube trays in the US won’t crack, stink or taste like a freezer",
-   "author": "Marian Bull",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/07/best-plastic-free-ice-cube-trays",
-   "paras": [
-    "From stackable silicone options to a stainless steel model, you’ll never have to use a plastic ice cube tray again",
-    "Sign up for the Filter US newsletter, your weekly guide to buying fewer, better things",
-    "For those of us without a luxury refrigerator, an ice cube tray can be a tether to sanity. On hot summer days, it refreshes. At 6pm, it turns booze into a cocktail. In the morning, it can be an essential ingredient in the smoothie you drink while rushing to work.",
-    "Most classic ice cube trays, however, are made from hard plastic. If you’re like me, you grew up with them: stacking trays, that, if they were fancy, came with covers. So if you’re trying to cut plastic out of your kitchen and home, as so many people are , an upgrade is probably in order.",
-    "Best all around ice cube tray: Just Smart Kitchenware’s No-Spill Small Ice Cube Tray",
-    "Best tray for cocktail enthusiasts: Viski Ice Cube Tray"
-   ],
-   "img": "https://i.guim.co.uk/img/media/03dc9ea2b35774f246a536d65bd8876ea78a1e06/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=15359031c9cd3f007a41523c95159220",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-omusnews2026nov07flipvoterstrumpmidterms",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Flip voters discovered that Trump’s racism and xenophobia are expensive",
-   "author": "Saida Grundy",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/flip-voters-trump-midterms",
-   "paras": [
-    "Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford it",
-    "For the first time in a decade, election predictions far exceeded public expectations. What pollsters anticipated as a blue wave billowed into a blue tsunami . Wins that held ground for already blue seats eased nerves, and the flips of swing states like Michigan, Georgia, North Carolina and Ohio energized the blue base. But red-belt-busting wins in Republican strongholds like Texas, South Carolina and Kansas alongside pending races in Alaska and Mississippi left mouths agape. The explanation was that Democrats turned out far more supporters than their regulars, and that the “ regret voter ” (both swing voters and partisan Republicans) expanded the wave across districts Trump previously won . Elation and sighs of relief rolled over consistently Democratic voters who suffered multiple sucker punches from recent years of Republican upsets. Regret voters, who run the gamut from gen Z men to Latinos , farmers and the white working class , hope a different party can deliver on the economy Trump promised them.",
-    "Blue voters look at the dismantling of democracy, multiple wars, mass deportations and Trump’s unchecked power in these last two years and see how it all could have been avoided. Regret voters, however, either co-signed or conceded to Trump’s naked racism and brutish bullying of marginalized people, but switched their votes as soon as the consequences hit their pockets. While some of the president’s backers may have been turned away by Immigration and Customs Enforcement (ICE) gunning down American citizens, the final straw for most wasn’t ICE’s brutality , but rather the price of eggs. Some may have been upset by the Tomahawk missile assault that killed 120 schoolgirls in Iran, but most fumed at the rocketing costs at the gas pump that followed. Few demanded answers for the nearly 60 deaths of innocent people detained in DHS detention centers since the start of 2024, but many felt scorned by lost immigrant labor that cut into owners’ profit margins. Maga’s regret voters were all-in for Trump’s racism. Then they found out they couldn’t afford it."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d9cfad20dec46298b1d5d31be9fa427aa0b1c21c/229_0_2280_1825/master/2280.jpg?width=140&quality=85&auto=format&fit=max&s=5d5c33ca83655d999903cdd753399850",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-io2026nov07gethugelooksmaxxingdocuseries",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘They’re just live experiments’: the dark and deadly world of looksmaxxing",
-   "author": "Adrian Horton",
-   "date": "2026-11-07",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/07/get-huge-looksmaxxing-docuseries",
-   "paras": [
-    "A disturbing new docuseries delves deep into a world where men are pushing their bodies to the extreme – and some of them are dying for it",
-    "If you’ve heard the term looksmaxxing – the manospheric pursuit of male aesthetic beauty via steroids, peptides , cosmetic surgery and total commitment – you probably know the name Clavicular . With more than 2 million followers and a cluster of mainstream media profiles , the 20-year-old streamer born Braden Peters has become the chiseled face of a once fringe movement to achieve algorithmically defined good looks by any means necessary, from daily methamphetamines to breaking your jaw with a hammer. Clavicular has courted attention for a nihilistic worldview expressed in blunt, idiosyncratic argot: “hardmaxxing”, “bone smashing”, anything to increase your “SMV” (sexual market value).",
-    "Baffling, horrifying or grimly compelling, depending on your view, Clavicular would be a fascinating documentary subject. Indeed, news of a possible Clavicular documentary has percolated all year, after the influencer filed a cease and desist letter against Disney/Hulu for allegedly filming him backstage at a New York fashion show in February. (It’s far from his most serious legal matter this year – last month, he pleaded guilty to charges that he raped a 17-year-old girl at his family’s Massachusetts home in May 2025.) But the docuseries in question, Get Huge: Looksmaxxing to Death, was never actually about Clavicular, who appears only in publicly available snippets. It instead trains its focus upstream of the bone-smashing, on the infamous influencer’s influences: the so-called “biohacking” scene that inspired the youths’ fixation on extreme body modification. And in particular, supplement guru Dr Tony Huge and his acolytes, in the aftermath of the suspicious death of his close associate, the “penis enlargement” expert known as “Leo Longevity”."
-   ],
-   "img": "https://i.guim.co.uk/img/media/8c9ea24e28c650d31071246f44fa29da60edb7bd/889_0_2110_1688/master/2110.jpg?width=140&quality=85&auto=format&fit=max&s=c2ddda26a97722ccc2cb750df9fc2449",
-   "fetched": true,
-   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -772,70 +956,6 @@
     "— Christian Smith , an Issaquah, Wash.-based tech leader, has been named president of revenue for Cloudflare , which provides security and speed services for websites and online applications. He will oversee worldwide go-to-market operations. Smith previously served as chief revenue officer for Splunk and Nintex."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Gupta_proshot-2-2500x1875-1.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-extmessagestakingordersandtrackingprices",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Amazon’s AI shopping agent moves into text messages, taking orders and tracking prices",
-   "author": "Todd Bishop",
-   "date": "2026-11-06",
-   "url": "https://www.geekwire.com/2026/amazons-ai-shopping-agent-moves-into-text-messages-taking-orders-and-tracking-prices/",
-   "paras": [
-    "Amazon is rolling out a new feature to let customers shop by text message — sending requests to its Alexa for Shopping AI agent, which will search for products, compare options and place orders on their behalf.",
-    "The idea is to make shopping work more like messaging a personal assistant. Amazon says the agent works in the background after it gets a request or a photo, and texts back when the task is done.",
-    "It’s part throwback and part hot new thing, reflecting a broader shift in how tech companies are offering AI agents for everyday use. OpenAI added texting to Dot , its personal AI agent, last month, and DoorDash rolled out text ordering in September.",
-    "The expansion of Amazon’s AI shopping assistant comes amid a larger fight over who controls online shopping when agents do the buying. Amazon has moved to block outside agents from Meta, Perplexity, Google and OpenAI from shopping its site while building its own.",
-    "The text thread is also a new place for Amazon to sell. The company says order updates, delivery notifications and deals will eventually land in the same conversation.",
-    "Digiday reports that sponsored products can appear among the options the agent texts back, free to advertisers for now, while purchases the agent completes on its own stay ad-free. Amazon reported $68.6 billion in advertising sales in 2025.",
-    "The text feature started rolling out Friday to a small group of U.S. customers by invitation, and millions more will get access in the coming weeks, the company says.",
-    "Customers who opt in get a contact called “Alexa Shopping” and can send it requests that range from a note that they’re out of dog food to a photo of a recipe they want turned into a grocery order, according to Amazon’s examples.",
-    "The agent searches, texts back with options and completes the purchase with the customer’s approval. Customers can also turn on auto-buy to have it purchase an item automatically when the price hits their target. It can also watch for price drops, reorder past purchases and check on packages, and Amazon says a conversation started by text will carry over to the Amazon app, the website and Alexa devices.",
-    "Amazon launched Alexa for Shopping in May, merging its Rufus shopping chatbot with Alexa+, the generative AI version of its voice assistant."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/alexa-shopping-text.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-sturrellsskyspaceshineagainatuwartmuseum",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Let there be LEDs: Tech upgrade helps James Turrell’s Skyspace shine again at UW art museum",
-   "author": "Kurt Schlosser",
-   "date": "2026-11-06",
-   "url": "https://www.geekwire.com/2026/seeing-the-light-tech-upgrade-helps-james-turrells-skyspace-shine-again-at-uw-art-museum/",
-   "paras": [
-    "For most of the past dozen years, a James Turrell artwork on the University of Washington campus in Seattle — built to glow at sunrise and sunset — has been running on daylight alone.",
-    "That changes Nov. 14, when UW’s Henry Art Gallery relights “Light Reign,” its Turrell Skyspace, after a restoration that replaced aging lights with hundreds of new fixtures and a control system synced to the sun.",
-    "Originally installed in 2003 near the Henry’s entrance along 15th Avenue N.E., “Light Reign” is one of dozens of skyspaces by Turrell, the 83-year-old artist known for turning light itself into his medium.",
-    "Inside the artwork’s oval chamber, LEDs bathe the walls in slowly shifting color, and when the weather cooperates, a retractable lid opens to an oculus that frames the sky. From outside, the glass-paneled shell lights up with its own program — a 21st-century mood ring just steps from a bronze George Washington who has been gazing west toward the Olympics since 1909.",
-    "The relighting comes as the Henry, Washington’s first public art museum, heads into its 100th year. The museum opened on campus in February 1927, and officials are hinting that bigger changes are on the way for the centennial.",
-    "Trouble with “Light Reign” started around 2015, said Sage Sommer, the Henry’s director of exhibitions and collections. The original lights, by then more than a decade old, were reaching the end of their lifespan, and over time the museum lost the ability to run them.",
-    "Through those years, the Skyspace stayed open. Visitors could still sit inside, meditate and watch clouds and birds pass over the oculus, just without the color.",
-    "After years of planning, the Henry settled on a full lighting overhaul that also folds in ideas Turrell has used in his newer skyspaces. The exterior already ran on LEDs, but a very early generation of them, while the interior and oculus were lit by neon tubes made by Western Neon.",
-    "The museum didn’t work with Turrell directly. Instead it worked with lighting designer Ryan Pike, whose company, RHMP, works only on Turrell installations, from upgrades of existing pieces to new projects. Pike has worked on Turrell artworks since 2013.",
-    "For Pike, the toughest part was the exterior. “It’s just over 700 lights, in nine DMX universes, so each fixture can output independently of the rest,” he said in an email. DMX is the standard protocol for controlling stage and architectural lighting. Splitting the facade across multiple universes lets every fixture be programmed on its own.",
-    "Sommer said the Skyspace isn’t strictly time-based media, a museum term for art that relies on equipment and unfolds over time. But it raises the same questions. Sometimes the fix is simple, like converting a VHS tape to a digital file. Other times the hardware is integral to the work. Some artists insist a piece be shown only on a CRT TV, and some come back with a remastered version and want only that one shown.",
-    "“We work really closely with the artists to make sure that it is as they envision,” she said.",
-    "The Henry isn’t the only museum to face the problem. In 2023, Minneapolis’ Walker Art Center restored its own Turrell skyspace, “Sky Pesher,” after it became impossible to find the cold cathode tubes — a 1920s-era technology — that powered its sunrise and sunset lighting program.",
-    "Working with Turrell and his studio, the Walker switched to LEDs, which allowed more control and a much wider range of color. What had been “shades of tinted white” is now multicolored, Joe King, the Walker’s director of collections and exhibition management, said in an interview published by the museum.",
-    "The Henry’s new system uses roughly 840 LED fixtures, about 710 outside and 130 inside, Sommer said. The exterior program kicks in a half-hour before dawn and dusk. The morning show is brief, about 36 minutes, while the evening one currently runs about four hours after sunset.",
-    "“The very cool thing about this space, because we are so far north, is just how connected to sunrise and sunset it is, and how drastically different it is throughout the year,” Sommer said.",
-    "The roof has its own engineering pedigree. The Skyspace’s hydraulic lid, which lifts and slides out of the way, was designed by submarine manufacturers in Everett. It stays shut in the rain.",
-    "The museum closed the Skyspace in late July and used the downtime for physical restoration, too: repainting the interior, refinishing the teak benches, waxing floors, replacing worn locks, refitting doors that had swollen and cleaning out the gutters. Everything had to be rewired, and the project took longer than expected.",
-    "“Light Reign” is the most visible piece in the Henry’s collection of about 30,000 objects, including more than 18,000 textiles and 7,000 works on paper. Only a sliver is ever on view, so the Henry is putting its collection database online. The project was funded by UW’s Student Technology Fee. Anyone can book an appointment at its study center to see a piece up close.",
-    "Technology is also the focus of the Henry’s centennial exhibition, opening in late February. Swagato Chakravorty, associate curator, said he was surprised that no major museum had mounted a large, ambitious show on contemporary art and technology in decades, even as Seattle was transformed around it. His show looks at technology “from below,” focusing on the people and communities most directly affected rather than a “great man” story.",
-    "The exhibition is loosely organized around three threads. One is bioethics, including a work the Henry commissioned in 2002 with UW geneticist Mary-Claire King, which is being revived 25 years later. Another pairs Indigenous knowledge with tools like 3D printing and algorithms. The third is technology’s material toll, from data centers to water use.",
-    "Chakravorty said he deliberately avoids taking a side on whether technology is good or bad for art.",
-    "“Writing is a technology. Cave painting was a technology,” he said. As for AI: “It’s not going to kill art.”",
-    "The public unveiling of the refurbished “Light Reign” runs 3:30 to 6 p.m. Nov. 14, with remarks from Henry Executive Director Kris Lewis and the exterior illumination starting at 4 p.m. Admission is free, though the Henry encourages RSVPs , and interior viewing is limited to 25 people at a time for about 10 minutes each."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Skyspace-exterior-front-yellow-1260x993.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -954,51 +1074,6 @@
     "CHS reported here on the advisory group’s early work around public safety improvements focused heavily on surrounding street conditions.",
     "Keeping area plaza spaces clean and safe has typically required investment beyond the initial development. The AIDS Memorial Pathway plaza above Capitol Hill Station has been managed with city and county funding backing management and events programming of the space.",
     "Officials are now targeting late 2027 at the earliest for the conversion of the former Polyclinic medical building and opening for the Crisis Center, the second in a network of five county facilities providing 24-7 walk-in and emergency care mental health clinics funded by a 2023 voter-approved levy."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-ebroadwayaffordableseniorlivingcommunity",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "One injured, teen arrested in fracas outside Broadway affordable senior living community — UPDATE",
-   "author": "CHS Staff",
-   "date": "2026-11-06",
-   "url": "https://www.capitolhillseattle.com/2026/11/one-injured-teen-arrested-in-fracas-outside-broadway-affordable-senior-living-community/",
-   "paras": [
-    "A juvenile was taken into custody and police swarmed the area after a fight and reported robbery involving “a gang of teenage girls” in a melee outside senior affordable living community Pride Place Tuesday night.",
-    "According to East Precinct radio updates and witnesses, the fracas broke out just before 10 PM with a report of a fight disturbance underway near Neighbors and the senior apartment building.",
-    "A witness tells CHS the group of girls ended up in a tussle with two residents of the building and a phone was taken in the tumult with one of the senior residents pushed into the street and injured, requiring medical attention.",
-    "Seattle Police has not confirmed details or been able to provide a report on the incident.",
-    "According to radio updates, police took one female juvenile into custody during the disturbance.",
-    "UPDATE : Police reports provided to CHS have additional details about the incident.",
-    "Officers initially responded around 9:18 PM to reports of a 20-person fight near E Pike and Broadway. According to SPD, the altercation began when a group of juveniles passed two residents smoking outside the apartment buildng. The teenage suspect allegedly taunted the pair before escalating to physical violence, reportedly punching both victims. Other youths joined in, kicking one victim and pushing the other into the street toward an oncoming streetcar. A bystander who attempted to intervene ended up in a scuffle with one of the victims. SPD says both victims suffered minor injuries, broken glasses, and lost property.",
-    "The disturbance escalated when police arrived to disperse the crowd. According to an SPD report, body-worn camera footage captured the juvenile pushing and punching an officer who ordered her to clear the street. Later, during a pre-transport custodial search, the suspect allegedly kicked a second officer in the leg multiple times.",
-    "According to police, the suspect initially gave officers a false name and birth year before revealing her true identity at the Patricia Clark Children and Family Justice Center. She was booked for fourth-degree assault regarding the civilians and two counts of third-degree assault on police officers. Records also revealed an existing warrant for the 13-year-old for taking a motor vehicle without permission."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1412.jpg?resize=121%2C164&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-ybridgecomeswithfirsthillbenefitspackage",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Construction of senior community skybridge comes with First Hill benefits package",
-   "author": "CHS Staff",
-   "date": "2026-11-06",
-   "url": "https://www.capitolhillseattle.com/2026/11/construction-of-senior-community-skybridge-comes-with-first-hill-benefits-package/",
-   "paras": [
-    "Construction of a new pedestrian skybridge over 8th Ave on First Hill is also set to deliver neighborhood enhancements in exchange for aerial right-of-way permissions.",
-    "Construction is beginning on the project expected to stretch into March on the new elevated walkway.",
-    "The Seattle City Council unanimously approved a 15-year permit allowing the Skyline retirement community to erect the 726-square-foot bridge over 8th Ave to connect its two campus towers.",
-    "In return for using the public airspace, Skyline is financing several key civic upgrades across First Hill.",
-    "The plans include an original public art installation by Northwest sculptor Georgia Gerber , the artist behind Pike Place Market’s iconic bronze mascot, Rachel the Pig, and the bear statues in First Hill Park .",
-    "The package also funds pedestrian safety and curb improvements at the nearby intersection of 8th and Marion. Skyline is supporting early planning and design work for wayfinding signage along the First Hill Improvement Association’s 1.5-mile Park to Park Walking Loop , which links neighborhood parks, cultural centers, and medical facilities."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
    "fetched": true,
@@ -1154,6 +1229,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-BdjZVUFlxdlVHR25aeVZiN3Y3SzhxaXNYUGVzoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Jayapal expects Jeffries will push progressive, populist agenda as House Speaker",
+   "author": "",
+   "date": "2026-11-06",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmM4NzhMMno1ZS1aUmF3ZUxDbjZjWl9ldzd3V2x0X3NSZ2kwTTJaMkxCeS1hYlZ1MVJ4RThUODBxaEs1a1F5U3ZYX2M2V2IxVkplTHNiQl83X0lmVmRNVmRKcVVUbEhrd2M0M0tSVkxUM0xPSkVZbEx6c2RQT0szT2lCdlFxeXN2UzVJLXNVazNNV08xbUVkNTdsVWpreEpGanVWOWcxYy1BOVVBdjZVUFlxdlVHR25aeVZiN3Y3SzhxaXNYUGVz?oc=5",
+   "paras": [
+    "Jayapal expects Jeffries will push progressive, populist agenda as House Speaker KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-kuow-5mNzA4RU5BR2lRTUtvMU5tNXVTYUdFakdrN0goc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1163,23 +1255,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU9kMkVyeE41RllrMkJkTUdOSXdmdDUxVGhPcm1sYWRMUkxmRFdNazlwclctczBwbGJvUGhRSk5iQ0dmb29uVURsSndWbnVZSUFjcTJIV01GLUR3MUJuUzZJLVZIYlRnb3FNa2N2ODc5cWtyc1ZpVndkcE5PM2RlY2VqLV9WTHQ4clJRbHJ0dWxUUExDb1M3dFBweDdOSC1ZNElCNE5mNzA4RU5BR2lRTUtvMU5tNXVTYUdFakdrN0g?oc=5",
    "paras": [
     "Seattleites rally in support of trans girls after state voters approve sports ban KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-UZ3VtYms2a0R3dzBBWnVGXzF3alZYcERCOU53oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Lawsuits likely over Washington’s ban on trans girls in sports",
-   "author": "",
-   "date": "2026-11-06",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3g2aFdJSVRBczF5NnZxT0dhYUpJeElKV2ZDY3drVzBBZ1dxaV80X2lvaG56aDBZOFdPd3lqMFVWTzBfa2hrN1FEbWZvRktxUDA3SURYMkR0UGhkRXFxSDlERDhTbEJHVHpmY1FGWjdjUFpMRWVrR2dETkxmZTh4Mnc5dGhLMHB6YmFUZ3VtYms2a0R3dzBBWnVGXzF3alZYcERCOU53?oc=5",
-   "paras": [
-    "Lawsuits likely over Washington’s ban on trans girls in sports KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1524,86 +1599,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-nilujenkswinsseattlecouncilseatinblowout",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Nilu Jenks Wins Seattle Council Seat in Blowout",
-   "author": "Doug Trumm",
-   "date": "2026-11-05",
-   "url": "https://www.theurbanist.org/nilu-jenks-wins-seattle-council-seat-in-blowout/",
-   "paras": [
-    "Nilu Jenks has won a Seattle City Council seat based on the decisive 17-point lead she ran up on election night. That lead is likely to grow as more votes are counted in coming days, since last-minute votes lean progressive in Seattle. Jenks' lead held steady in Wednesday's ballot drop .",
-    "A progressive advocate, Jenks led the nonprofit FairVote Washington, which fought for the ranked-choice voting reform that is going into effect in Seattle municipal elections next year. She also ran for city council in 2023 and finished third in the primary, trailing centrist Cathy Moore and ChrisTiana ObeySumner, whom The Stranger endorsed. The Urbanist Elections Committee (on which I serve) endorsed Jenks in that 2023 race and again in 2026 .",
-    "After victory became apparent Tuesday, Jenks told The Urbanist that safety-focused designs of Aurora Avenue N and Lake City Way were among her top priorities. Aurora has a $50 million state grant earmarked for it, but state lawmakers like Seattle Rep. Julia Reed have grown impatient with the slow pace of getting the project shovel-ready.",
-    "\"I would love to get the money allocated for Aurora moving and actually really get more, so that we can make Aurora a place that everybody gets to enjoy from bikers and walkers, and have good dedicated bus lanes, but also so that you can go to those businesses along there that deserve our support,\" Jenks said. \"I also want to get similar funds for Lake City Way. It's another area where a lot of people get hit, and you know, it's not safe for pedestrians.\"",
-    "At an election night gathering of supporters at Mojito in North Seattle, Jenks framed her apparent victory as part of the larger battle to stop Trumpism, restore faith in American institutions, and lower the cost of living.",
-    "\"As the daughter of Iranian immigrants, I know democracy is not something we can take for granted,\" Jenks said in her election night speech. \"I grew up watching my parents lose their country, and as an Iranian American, I watch an ever-looming threat of war hang over the country my family came from while families here at home face fear, uncertainty, and rising costs. Trump's war with Iran has cost billions of dollars, with rising fuel prices adding pressure to household budgets.\"",
-    "With Democrats winning the U.S. Senate and House of Representatives in Tuesday's blue wave election, pressure to end the Iran war will be ramping up.",
-    "Meanwhile, Jenks' win will shift the balance of power on Seattle City Council, growing the progressive bloc to four members. The remaining five members sometimes form a centrist bloc, although D6's Dan Strauss and D1's Rob Saka sometimes vote with progressives. Flipping the D5 seat from centrists to progressives will give Mayor Katie Wilson an easier time moving her legislation. Moreover, it will remove interim Councilmember Debora Juarez, who had been one of the mayor's harshest critics, especially on public safety issues .",
-    "Jenks has a different approach to public safety than Juarez or Moore, emphasizing the need to expand the civilian-run Community Assisted Response and Engagement (CARE) Department. When The Urbanist asked which issues she would seek to lead at council, Jenks brought up expanding CARE, tackling food deserts, and adding incentives for heat pumps as a way to shrink energy bills and the city's climate footprint.",
-    "\"I am really excited to figure out food deserts and how we can solve that problem,\" Jenks said. \"I would love to work to expand the CARE team. Get us a police chief that loves this city, and will be collaborative with an alternative response team, and ideally has worked with one before. I am excited to work on trying to figure out on-bill financing for heat pumps to stabilize our heat grid.\"",
-    "In winning her seat, Jenks defeated Julie Kang, an educator and former bank chair who had backing from centrist leaders in the District 5 special election. Councilmembers Bob Kettle and Maritza Rivera endorsed Kang, as did former Councilmembers Sara Nelson and Tim Burgess, who also donated to a political action committee (PAC) backing her. Current Council President Joy Hollingsworth endorsed both Jenks and Kang.",
-    "The drubbing Kang took appears as a warning sign and a repudiation for those centrists as they face their own elections next year, when all seven district-based council seats are up. D5's seat was up in an even-year special election due to Cathy Moore's decision to resign before her term was up. Jenks will assume office as soon as election results are certified later this month, rather than waiting until January, but she'll also face reelection next year.",
-    "In her speech, Jenks emphasized that she saw that District 5 residents were facing struggles and she intended to do something about it.",
-    "\"I see the person who can't afford a car or the unbelievable gas prices and who relies on public transit and protected bike lanes to get around their city,\" Jenks said. \"I see the immigrant family and the young trans person who wants what we all want: to feel safe, loved, and free to be themselves – to build a future here, and know their city will stand by them.\"",
-    "Another campaign focus for Jenks was food security and access, which became a hot button issue when grocery giant Kroger announced the closure of the Lake City Fred Meyer store upon which many community members had relied.",
-    "\"I see the grocery store working hard for fair wages and also for accessible food in our neighborhoods. Thank you. I see the senior on a fixed income wondering whether they can afford to stay in the city they helped build as rent, housing, and property taxes keep rising,\" Jenks said. \"I see the small business owner who has poured everything into their business and wants a safe, thriving neighborhood where they can succeed in a city that helps them instead of getting in their way, and I see the parent who wants their child to walk home safely in a city that responds to public safety with both urgency and compassion. These are the people behind this campaign, and these are the people I'm going to carry with me to City Hall.\"",
-    "To defeat Trump's campaigns of hate and corruption, Jenks argued Seattle must be a shining city on a hill and provide a beacon of light showing progressive leadership in big cities is able to deliver. Urbanist touchstones of high-quality transit, connected sidewalks, and abundant housing were a key part of the image Jenks invoked during her campaign, illustrating why she won The Urbanist's endorsement this year (and in 2023, for that matter). Bus improvements will be much more feasible with the passage of the Seattle Transit Measure, which ran up a huge lead in election night returns.",
-    "\"That's what this moment demands of us: not that we stop being afraid, but that we refuse to let our fear decide who we become,\" Jenks said. \"Across this country, Trump and his allies tell us our cities are broken, that the answer is more fear, more division, and more crackdowns. But Seattle is choosing another path. Once every vote counted, it's time to deliver. Our cities have to show they can govern, not someday, now. When we can't build housing, fix a sidewalk, or keep a bus stop safe, we make the argument for the people who say our cities don't work. So let's prove them wrong by making this city work for all of us.\""
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/IMG_9496_iywhbe-1-.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-inginsecurityandrapidchangeoncapitolhill",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "On the side of a bank that very nearly became apartments, a new mural confronts housing insecurity and rapid change on Capitol Hill",
-   "author": "Justin Carder",
-   "date": "2026-11-05",
-   "url": "https://www.capitolhillseattle.com/2026/11/on-the-side-of-a-bank-that-very-nearly-became-apartments-a-new-mural-confronts-housing-insecurity-and-rapid-change-on-capitol-hill/",
-   "paras": [
-    "The crop of Capitol Hill murals popping up this fall includes a new work on the side of a 15th Ave E bank that would be an apartment building if the currents of redevelopment bringing change to the neighborhood twenty years ago had not been blocked by a worldwide financial meltdown.",
-    "For artist Glynn Rosenberg , her newly unveiled giant work on the north side of the street’s Key Bank is a message to Capitol Hill that the artist says explores housing insecurity and the reality “people can’t afford to live in Capitol Hill anymore” —",
-    "This mural is my love letter to my neighborhood. It is a utopian vision that reflects the past while having hope for the future. It is deeply personal to me, as I try to understand my own place in Capitol Hill. Change, progress, development – all of this moves at its own pace, determined by broader socio-economic factors – and I don’t think it can be stopped or slowed in an effort to preserve the Soul of Capitol Hill.",
-    "Key Bank says the GSBA and Urban ArtWorks helped make Rosenberg’s project possible.",
-    "In 2005, Key Bank had the property lined up for a rezone approved by the city to make way for what would have been a first on the street — a 40-foot tall mixed-use apartment building. The project — with design in hand — was stopped cold by the mortgage meltdown and economic crisis that soon followed.",
-    "Today, the 1960-era bank building still stands, rising above one of the largest remaining surface parking lots on Capitol Hill.",
-    "Other mixed-use projects with dozens of new apartments have risen along the street and its current era is marked by the long wait for what will be the biggest project the strip has seen in the six-story redevelopment of the old QFC block.",
-    "Eventually, you have to think Key Bank’s part of 15th Ave E will also again be readied for a new apartments push, the old bank will need to be torn down, and Rosenberg’s art, demolished with it.",
-    "For now, the message stands and joins a flowering of new murals across Capitol Hill and a cluster of murals along 15th Ave including the Billy Davis work Sanctuary on the side of Walgreens and a Shepard Fairey design on a south-facing wall of the Hilltop Apartments .",
-    "You can find the new mural on Key Bank at 321 15th Ave E.",
-    "CORRECTION : The mural was funded by Key Bank and did not include King County arts funding. We have updated the report."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-oryshortzineiswrittenlivefromcapitolhill",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Hugo House Long Story Short zine is written ‘live’ from Capitol Hill",
-   "author": "CHS Staff",
-   "date": "2026-11-05",
-   "url": "https://www.capitolhillseattle.com/2026/11/hugo-house-long-story-short-zine-is-written-live-from-capitol-hill/",
-   "paras": [
-    "Think you’re a writer? Aspiring and seasoned Capitol Hill writers looking to get published can test their quick-drafting skills at Hugo House’ s upcoming community write-in, which offers participants the chance to be featured in the next issue of Long Story Short .",
-    "The volunteer-run quarterly zine is welcoming short-form submissions written on-site.",
-    "At the start of the session, organizers will unveil the issue’s secret theme and creative prompts. Attendees will then have a dedicated four-hour block to write and submit a piece of up to 500 words that aligns with the organization’s community spirit.",
-    "It sounds almost as fun as being a CHS freelancer!",
-    "Hugo House has served as a community hub for local writers and readers of all stages since 1996, offering classes, readings, and creative events.",
-    "The free event takes place Friday, November 6th, starting at 5 PM at Hugo House, located at 1634 11th Ave. Learn more at hugohouse.org ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/Long-Story-Short.jpeg?resize=400%2C400&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-sRjJkZzFzX3VEeXQ3TkxIZ243QkFkQ2ZsdDI0oc5",
    "srcKey": "propublica",
    "cat": "local",
@@ -1691,32 +1686,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-qUzItcGtKd0xGTWpvcFFZWVU5MVN3MlE4VmFnoc5",
+   "id": "f-kuow-ll3T2tVYWtuTklNNEE5S1JKMlRtazdpRHpNYQoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "Seattle Councilmember Saka may deal final blow to RV permit bill",
+   "title": "UW international student enrollment falls to lowest level in a decade",
    "author": "",
    "date": "2026-11-04",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSnU1ZElTUV9wQXNSdko2SzFubjRLSmpDWmg3elVtR2VQaE5IUmRXVFdsQlYwelAwa2w0WmNJQ1NQTVVRd3RaMG9rQXdxekpjRzZrZElzVzZ0dG8zMUZqTm5KYXlVb2VpT2xfYWx1MzdTNkpkR3NUSzZjaERsZW80amVhaXgtSWs4VkN0a1AwbS1peThrcG1qUzItcGtKd0xGTWpvcFFZWVU5MVN3MlE4VmFn?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWURtYTRkTWNCSy1sMm1mZjg1a0NMX2VRN2lkYmNCOWoxenFMVFR2NHowTmNDWkRCc25PTVRPYUcyRjY3dTFaUzVzWXJQbm84WVhzMG5Tc3BZU2UwOEF2am9EQW5IMGZqV0J2dVNYQnRXaTJsZzV1YWhUaXZadkFIOVhkdWo3WFRFQVFrUUhFMUhkblptQll3T2tVYWtuTklNNEE5S1JKMlRtazdpRHpNYQ?oc=5",
    "paras": [
-    "Seattle Councilmember Saka may deal final blow to RV permit bill KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-BJVUoxb2xTWm0yT0ZMZWZZR0xMVnpWZkxZc2coc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Amazon, Alaska Airlines cut jobs in Washington state",
-   "author": "",
-   "date": "2026-11-04",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObExNN1dybU5ETk9vWG5aTU5MbXJSbFNoa3VmVDc3ZVRmVTRIZWpYZWNGY1l4dnBMb3R0YmJkRmdlVmFSZDJNX2djWjlrdVhzY29ya0dkLXQtSWg0MUFYX2MzQmw5b3BMbkFMQVFtaFZUWGxCdzdkRzQ2UXBJVUoxb2xTWm0yT0ZMZWZZR0xMVnpWZkxZc2c?oc=5",
-   "paras": [
-    "Amazon, Alaska Airlines cut jobs in Washington state KUOW"
+    "UW international student enrollment falls to lowest level in a decade KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1819,26 +1797,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-261029soundtransitpilotsupdatedpetpolicy",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sound Transit Pilots Updated Pet Policy",
-   "author": "Michael Smith",
-   "date": "2026-10-29",
-   "url": "https://seattletransitblog.com/2026/10/29/sound-transit-pilots-updated-pet-policy/",
-   "paras": [
-    "Sound Transit is piloting an updated pet policy on its buses and trains between now and Spring 2027. During the pilot, pet dogs will be permitted on board if they are leashed, well-behaved, and controlled by their handler. All other pets must remain in an enclosed carrier. As always, service animals are permitted in compliance with the ADA.",
-    "Prior to the pilot, dogs and other pets were only allowed on Sound Transit buses and trains in a carrier. In July 2025, the Sound Transit Board approved Motion No. M2025-34 , directing the agency to consider updating the rules to allow leashed dogs. This motion was motivated by the opening of Marymoor Village station as part of the Downtown Redmond Link Extension in May 2025. Marymoor Village station is next to Marymoor Park, a 640-arce park which includes a 40-arce off-leash dog area.",
-    "Will this pilot impact the passenger experience on Sound Transit? Probably not. In a presentation to the Executive Committee before the motion was approved, then-Acting Executive Director of Security & Fare Engagement Brian de Place acknowledged that passengers already take leashed dogs on Sound Transit buses and trains. While doing so did violate the rules, de Place noted “if the dog is leashed and generally under control, security will not engage with that passenger unless there is an actual disturbance”. In the year prior to this meeting, Sound Transit security only received 8 calls about pets.",
-    "There are few other notes pet owners should be aware of before bringing their leashed dogs onboard:",
-    "If you encounter an aggressive animal or other issues, call or text Sound Transit security: (206) 398-5268. In an emergency, call 911."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/10/IMG_6816-rotated.jpg?resize=525%2C700&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-eater-ttleeatercommapsbestrestaurantsseattle38",
    "srcKey": "eater",
    "cat": "food",
@@ -1876,23 +1834,6 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/05/260322-CafeLolo0576.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-DVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNxoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP.",
-   "author": "",
-   "date": "2026-09-26",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTF5Ui1kelpxZEUtZjBLOEJJM3NSVWtCZHhCY3JVcWFQc0otTVhqQXoyVFQ3c1dPQUhTTGpyNzR2N3VodEhXZkpQNGpCcmhxZzI0YVN5Vl9ScUpvV290U01Ebi1ZMVFXQk1wRGJDVGJOcjctYjlka3RYaERnSmxoa0JBZjJyakNx?oc=5",
-   "paras": [
-    "I Deliberately Bet Like a Problem Gambler. DraftKings Made Me a VIP. ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1970,6 +1911,23 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/07/San-Fermo.avif?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-0lvOVJSUkYyQXdYZUJPYUpvZ0pCNEl2c0E1bAoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "REPORTER’S NOTEBOOK: I Asked the Seattle Police Chief a Question. The Response Went Viral.",
+   "author": "",
+   "date": "2026-07-28",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3E5em5PX3p2NHY5ZFJpTjNSeGE0RXJMWlBLT3pVSzdsMVlCWlRnWUpnUGY5RmV1dmQtdGM1a0RuYnI1bUlqdDVUT3RfaXZDQ3l2U3NKR0h1NVo2WFdHZFRPV3I2TVlGbVB6TTFuRUpmS2xlZmhuZ3gwa1RnRjNkZ3d3ZWhOS1hPa2JyRS1ILTN0Y0owejhpdHBvT1BYZmE0ZTVWbG5Pck9JeEU0SmNGb0R2eVBpT2NsaG5tNmlPdHdUWUNYa0J5LTVNN1JiWXfSAdwBQVVfeXFMUFBBNUt2eXA2eDVDVWpJZlJVb2tKWlJQdi03cnB3TnY2WHRRMmJpQmtYRHByU1ZNYjlUU2tZRTlxRnRkTmdybVc5clVoZHdVRFA5cEhlNTB6RjQ1WWU5LVhNUTM1UjVHZmRJYW4yLVdFUE0zN3dCS09fNnlCejdvMFNuYlNRUmZWZWFJNVNpNE8yajQ1X1VYYXRNLXhqem56WXhCYzM0cHdlWE51Ti1YdVByd25mdlBKMWV2SnVYT0NLS0lvOVJSUkYyQXdYZUJPYUpvZ0pCNEl2c0E1bA?oc=5",
+   "paras": [
+    "REPORTER’S NOTEBOOK: I Asked the Seattle Police Chief a Question. The Response Went Viral. South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   }
  ]
