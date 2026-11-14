@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-13T21:43:56.960Z",
- "builtFor": "2026-11-13",
- "builtHour": "13",
- "count": 78,
+ "builtAt": "2026-11-14T20:14:34.280Z",
+ "builtFor": "2026-11-14",
+ "builtHour": "12",
+ "count": 79,
  "sources": [
   {
    "source": "bbc",
@@ -41,7 +41,7 @@
   },
   {
    "source": "grist",
-   "count": 3,
+   "count": 4,
    "via": "google-news"
   },
   {
@@ -87,6 +87,662 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-resoutageoverastheworlddigsoutofitsinbox",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "‘I hope this email finds you’: Microsoft declares outage over as the world digs out of its inbox",
+   "author": "Todd Bishop",
+   "date": "2026-11-14",
+   "url": "https://www.geekwire.com/2026/i-hope-this-email-finds-you-microsoft-declares-outage-over-as-the-world-digs-out-of-its-inbox/",
+   "paras": [
+    "Steven Sinofsky was relieved this week to finally give up a title he never wanted.",
+    "“Somewhat happy to say I am no longer responsible for the worst Outlook outage,” the former Microsoft executive posted on X Friday, sharing a May 2000 news story about the “I Love You” worm, which overwhelmed corporate email systems when he ran the Office group.",
+    "Later in the day, he aired a pet peeve. After a plumber emailed to say he’d missed an appointment because of the “Outlook outage,” Sinofsky noted that this one wasn’t really the application’s fault. “This time it is the data center layer,” he wrote .",
+    "Microsoft’s explanation backs him up. The company says the failure, which cut off email for people and organizations in more than 70 countries this week, was introduced during an earlier network capacity upgrade in its Microsoft 365 cloud and surfaced after a more recent network change. It hasn’t given more details.",
+    "The company said late Friday it had restored service to the remaining customers and regions. The disruption lasted about 30 hours, according to Microsoft’s incident log . Microsoft offered a public apology and promised a detailed post-mortem explaining what went wrong and next steps.",
+    "Charles Lamanna, Microsoft’s executive vice president of Copilot, Agents and Platform, said on X Friday afternoon that “cascading failures + thundering herds at our network perimeter” made recovery more difficult than normal.",
+    "A “thundering herd” isn’t a stampede of frustrated IT admins descending on Redmond, as fitting as that might have been. It happens when huge numbers of devices try to reconnect at the same time, overwhelming systems as they come back online.",
+    "He said the post-mortem would come “shortly,” with a “step-by-step timeline and our many repair items to avoid similar outages in the future.” In a reply to another user , he said Microsoft “will be very specific on what happened.” In its notice to customers, Microsoft said it would provide a preliminary post-incident report within two business days and a final report within five.",
+    "In the meantime, like prior incidents involving AWS and others, the “Outlook outage” became the latest example of how much depends on one company’s cloud.",
+    "Microsoft reported in January that it had more than 450 million paid commercial Microsoft 365 seats, roughly one for every 18 people on Earth.",
+    "Among those affected this week were Unity Health Toronto , a hospital network that had to declare a Code Grey, the alert for a systems failure; a Colorado jail that couldn’t take online bond payments ; and Pennsylvania lawmakers who went about 18 hours without email. Unity Health said patient care continued without disruption.",
+    "In Japan, securities firms and asset managers fell back on fax machines when trade-confirmation emails stopped coming through, Business Upturn reported , citing Nikkei.",
+    "In New York, the city’s Emergency Management office warned of delays reaching city agencies. In Singapore, the outage disrupted some government systems , including email, and in London, the UK Supreme Court wasn’t receiving email.",
+    "About the only thing that wasn’t Microsoft’s fault was Friday’s nationwide FAA ground stop. Federal officials blamed aging FAA telecom gear . Homeland Security Secretary Markwayne Mullin opened an evening news conference — before even getting to the news that U.S. airspace had reopened — by saying there was “no connection between this and Microsoft,” adding, “I know a lot of people are making that jump.”",
+    "Microsoft itself looked to preempt the speculation a few hours earlier, posting on X that it had “no indication that the FAA’s nationwide ground stop is related to any Microsoft services.”",
+    "The Microsoft 365 outage was at least the fourth significant one this year. A January outage lasted nearly 10 hours , and in July a bug in Microsoft’s automated network maintenance system disrupted Azure and Microsoft 365 services for hours. On Aug. 31, an Exchange Online outage also hit Teams, OneDrive and SharePoint.",
+    "Instead of “I hope this email finds you well,” many people joked , it should just be “I hope this email finds you.” (Consider this our nomination for the “Overworked Twitter Joke of the Week” on The Ringer’s Press Box podcast .)",
+    "Microsoft said Friday afternoon that it was watching the backlog of delayed email “to ensure all process successfully before considering the issue resolved.” The University of Washington’s IT department told its users that email delayed during the outage would be delivered as mail queues continued to be processed.",
+    "Many people coped with the flood of returning email with a bit of levity.",
+    "As the mail started flowing again, CNN chief media analyst Brian Stelter said he was getting “a deluge of emails from PR people pitching their clients to talk about the Outlook outage.” Most were sent during the outage, he noted, “which, fittingly, prevented the pitches from reaching me.”",
+    "The security company Malwarebytes captured the paradox in a message to its followers: “We regret to inform you that Teams and Outlook are coming back online after a global outage.”"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-redmond-sign-1200.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-cejensenhuangandourlatestaitipsandtricks",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Nvidia’s CEO meltdown, who could replace Jensen Huang, and our latest AI tips and tricks",
+   "author": "Todd Bishop",
+   "date": "2026-11-14",
+   "url": "https://www.geekwire.com/2026/nvidias-ceo-meltdown-who-could-replace-jensen-huang-and-our-latest-ai-tips-and-tricks/",
+   "paras": [
+    "This week on the GeekWire Podcast, we react to the sudden downfall of Nvidia CEO Jensen Huang, who resigned Thursday after reports of extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+    "We discuss the governance gaps at the world’s most valuable chipmaker, the long but low-profile Microsoft career of interim CEO Colette Kress, and who could take over permanently, including candidates from Microsoft, Amazon and the chip industry.",
+    "In the second segment, Todd explains how AI tools are changing the way he reports, with help in live interviews, research in news archives and an analysis of GeekWire’s coverage that shows Pacific Northwest M&A and IPO activity picking up this fall.",
+    "Inspired by Colette Kress’s new role, the GeekWire Trivia Challenge looks at what some of Microsoft’s former finance executives have done after leaving the company.",
+    "Edited by Curt Milton; music by Daniel L.K. Caldwell."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-0mtohelpdevelopeasternwashcleanenergyhub",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Gov. Ferguson seeks $10M to help develop Eastern Wash. clean-energy hub",
+   "author": "Lisa Stiffler",
+   "date": "2026-11-14",
+   "url": "https://www.geekwire.com/2026/gov-ferguson-seeks-10m-to-help-develop-eastern-wash-clean-energy-hub/",
+   "paras": [
+    "Gov. Bob Ferguson is proposing $10 million to fund basic infrastructure needed for the Northwest Advanced Clean Energy Park, a master-planned industrial area in Eastern Washington that will foster development of large-scale clean energy, advanced manufacturing and supply chains. The proposal will be included in his 2027–29 capital budget.",
+    "If approved by lawmakers, the funding would support sewer, water, electrical and road infrastructure at the park.",
+    "“This investment will support thousands of good-paying jobs in the trades and advanced industries, and unlock billions in private investment,” Ferguson said in a statement.",
+    "The 1,641-acre site was formerly part of the Hanford Nuclear Reservation, a sprawling federal property along the Columbia River near the Tri-Cities that is undergoing a massive environmental cleanup. Hanford was established during World War II to produce plutonium for the Manhattan Project.",
+    "According to the governor’s office, two projects have committed to locating at the park once infrastructure construction is complete: Atlas Agro’s low-carbon fertilizer production plant and the utility-scale Ruby Flats Solar Farm.",
+    "State officials said General Matter is also considering the location for producing advanced nuclear fuel for small reactors. That siting could potentially be beneficial for another project planned for the same area: Amazon, X-energy and Energy Northwest are developing plans for the Cascade Advanced Energy Facility , a nuclear plant comprised of clustered, small reactors.",
+    "In 2024, the Norwegian company Cenate expressed interest in building a factory at the park to produce lithium-ion battery components, according to the Tri-Cities Area Journal of Business , ultimately withdrew its plans.",
+    "The Tri-Cities is also attracting fusion-energy investment. Last year, Seattle startup Avalanche Energy landed a $10 million grant from the Washington State Department of Commerce’s Green Jobs Grant Program to develop FusionWERX, a commercial-scale testing facility for fusion technologies. The project is being developed in an existing Port of Benton building in Richland.",
+    "Washington is heading into its 2027–29 biennial budget with a multibillion-dollar shortfall , but officials have not yet settled on a definitive public estimate.",
+    "Ferguson has acknowledged the scale of the gap but has not publicly specified an amount. The shortfall concerns the state’s operating budget, which is separate from the capital budget funding proposed for the energy park."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Richland-51-1260x945.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-itblogcom20261114alternativetransitmodes",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Alternative Transit Modes",
+   "author": "Martin Pagel",
+   "date": "2026-11-14",
+   "url": "https://seattletransitblog.com/2026/11/14/alternative-transit-modes/",
+   "paras": [
+    "As I explained in an earlier guideway post, Sound Transit chose light rail technology to make it easier to use the existing transit tunnel and to run and stop at grade but many new technologies have been developed since. As Sound Transit builds a lot more elevated and tunneled sections and opens new lines in urban areas, it may need to reevaluate that decision. Sound Transit and Metro already use buses, heavy rail (for Sounder), ferries, and trams. Other cities like San Francisco, Mexico, and Paris use even more different modes like people movers and gondolas. In that post I talked about monorail and maglev guiderail systems. They are easier and faster to build due to prefabricated guideways, are slicker and therefore visually less obtrusive, and may offer easier maintenance.",
+    "As Sound Transit is facing escalating construction costs and feels it cannot accommodate traditional elevated trains downtown, it may be a good time to evaluate these and other alternative transit modes. Monorail systems have opened in Bangkok, and TSB has built a maglev test line in China and is looking at several options in Germany. Swyft Cities (working with Whoosh Solutions) and Ottobahn are working on cabins which hang from a guideway like the Wuppertaler Schwebebahn and provide personal rapid transit (PRT).",
+    "Similar to a Waymo or Zoox robotaxi, Swyft Cities and Ottobahn offer more route flexibility, are called via phone app, and have small individual cabins with an electric motor. Unlike a robotaxi, they use airspace and don’t get stuck in traffic, they are confined to its track network, have specific parking/staging areas, use electric motors with track power, and use small stations. While Swyft cabins travel on fixed cables (similar to a gondola or the RopeTaxi but those are propelled by the cable), Ottobahn cabins travel on regular tracks at 37mph. For longer distances Ottobahn claims up to 150mph. Both use track switches to guide cabins to their destination.",
+    "Ottobahn cabins hang off a bogie which is powered by an electric motor with regular wheels and steel tracks. Cabins either stop at elevated stations or can employ a lift mechanism which drops the cabin to the sidewalk for on- and off-boarding. Ottobahn claims they can support 6000 riders per hour in each direction, or even more with a favorable network design. Similar to a monorail, their track is supported by towers about 120ft apart and between 15 and 30ft high. The track can also cross longer distances over rivers and other obstacles akin to a suspension bridge. Cabins can usually climb up to 7%, with extra support even 12%. That may allow a ship canal crossing.",
+    "Swyft is hoping to start projects in Queenstown, Miami, or Los Angeles. Ottobahn started construction of its first network in Phuket .",
+    "Traditional train lines serve stations along a linear corridor. Turning a train around at the end of the line takes time as the operator usually has to switch from one end of the train to the other. Lines may branch towards the outer area of a network, but that splits the headway on each branch. As automated train systems do not need to worry about a driver, they can switch direction more easily and offer a bit more flexibility. For example, they can serve short stub lines by backing in and out, though that may impact travel time. PRT systems are not bound to any fixed line/schedule, can use a more elaborate track network, branch on demand, skip stations, and only stop as necessary. Though each cabin may be smaller, short headways may still allow for sufficient capacity.",
+    "Any of these systems promise simpler/faster guideway and station construction, easier integration into the existing urban infrastructure, more flexible branching capabilities, and more convenience for riders. It may be worthwhile to consider them for West Seattle or Ballard and other future lines."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-9.png?resize=525%2C256&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-wtheurbanistorgseattlestreetendseastlake",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Seattle Street Ends: Eastlake",
+   "author": "John Feit (Guest Contributor)",
+   "date": "2026-11-14",
+   "url": "https://www.theurbanist.org/seattle-street-ends-eastlake/",
+   "paras": [
+    "Today we will visit eight street ends and one park in the Eastlake neighborhood. In previous posts, we have looked at street ends around West Seattle , South Ship Canal , from Ballard to Fremont , from Fremont to Portage Bay , as well as the Duwamish Waterway . The last post was for South Lake Union's street ends .",
+    "For those new to this series, a little background on Seattle’s Shoreline Street Ends is helpful. Because Seattle is bounded and divided by numerous fresh and salt bodies of water the city has what are called ‘street ends’ — streets that end when they encounter a water body often continue under the water, sometimes resulting in mini-parks or recreational spaces. There are hundreds of such occurrences – almost as many as there are east-west and north-south streets.",
+    "Many of them, 142 to be exact, are part of a Seattle Department of Transportation (SDOT) program called Shoreline Street Ends. The program’s goals are to:",
+    "A little over half of the 142 street ends are defined by SDOT as “worth a visit,” while the remainder are either “not yet ready for visitors” or have “no public access.” Street ends are concentrated along the Ship Canal and Lake Washington, but also occur along each of the city’s other shorelines. Working with the city and neighborhoods to secure funding, pass legislation, and organize work parties, the non-profit and all-volunteer Friends of Street Ends help ensure Seattle’s accessible street ends grow in number and those already serving visitors continue to thrive.",
+    "Shoreline Street Ends vary in character from sandy beaches to docks wedged amongst shipyards and industrial uses. They are spacious and they are compact, and most are very easy to find. They support habitat for native species of flora and fauna and are convenient places to launch a kayak, sailboat, or motorboat. Oftentimes, they are adjacent to waterfront parks, expanding upon those assets. They are as varied as Seattle’s topography, and you can visit them any time.",
+    "Cycling is the best way to visit Seattle’s shoreline street ends. Many are accessed from low-traffic streets or bike paths.",
+    "Sitting beneath the Interstate 5 Ship Canal Bridge is the Furman Street street end. A fairly simple affair, it has a broad grass lawn leading to the water and a view towards the University of Washington campus and the several new highrises emerging in its neighborhood. Along Fuhrman and next to the street end is a rowing club, adding a nice buzz of activity.",
+    "WSDOT has closed the area off between the rowing club and the street end due to some hazards associated with falling debris from the underside of the bridge while it undergoes repairs. This condition will remain for some time until all necessary repairs are made. That being said it’s still worth a peek.",
+    "Partly sandy beach and partly forested landscape, the Martin Street street end can appear mysterious when viewed from Fairview Avenue due to its dense tree canopy and deep shadows. Probing beyond the shadows, however, one can find a waterfront bathed in sunlight. When I visited I happened upon a festive gathering that expanded my appreciation of street ends to be about more than water access and places to catch a view of the water to include unique social and gathering places. Residents from recent apartment development in the neighborhood have added new energy to what used to be a more isolated street end.",
+    "SDOT recently finished $375,000 in improvements (most done after these photos were taken). Even if you’ve previously visited the street end, here is a good reason to go again.",
+    "The most improved of Eastlake’s street ends, and among the most improved of those I have visited, is the East Allison Street street end. Although lacking the shelter and intimacy of East Martin Street, its staging area for watercraft, generous steps leading to the shoreline, and ADA accessible parking, make it very user friendly.",
+    "Right across from the street end is a new neighborhood corner coffee shop, adding a nice amenity to an otherwise desirable location.",
+    "East Hamlin Street combines many of the endearing features of Seattle’s street ends, albeit in rustic packaging. It provides a fantastic prospect for viewing Gas Works Park and an intimate lagoon with a sandy shoreline. Other amenities include park benches, a picnic table, as well as an ever changing assortment of lawn chairs along the waterline. The plantings include rose bushes, seagrasses, and a variety of other flora I’m ill equipped to identify. I especially liked the large deciduous trees hovering along its northern edge, their hues changing to golden in the fall day’s crisp air.",
+    "Things have been a little tidied up since I took these photos. The paths have new gravel and the benches were repaired, and the neighborhood stewards have done a great job improving and keeping the plantings looking great.",
+    "South of East Hamlin Street is East Edgar Street. Although not (yet) part of the Street End program, the Seattle Parks Foundation has information on potential improvements that you can learn more about.",
+    "Situated at the tail end of one of Eastlake’s few east-west arterials, Roanoke Street can be hard to miss despite its strategic location and generous amenities. If one looks beyond the parking area along its eastern edge, one finds new street furniture and a paved plaza.",
+    "Just to the north is a densely packed, and very urban collection of houseboats. Unlike other neighboring houseboat communities, those along Mallard Cove are arranged parallel to the shoreline giving them a density different from neighboring houseboat communities. This effect is further enhanced by the hillside buildings’ eastern edge.",
+    "Boeing’s first factory was located at the foot of Roanoke street.",
+    "Unique among the dozens of street ends I visited in the past, Louisa Street has a bocce court and a color theme, whose red brilliance was enhanced by the crimson trees hovering above its like-colored furniture when I visited in the fall.",
+    "Neighbors are calling it the Louisa Street Beach since children are having fun playing games in the sand. The two trees to the north have mulch and edging to keep users off the tree roots and we will do additional planting this Fall. This park gets lots of kayak use - a self-service rental is across the street. It also generally has someone simply sitting there and enjoying the day—in all kinds of weather.",
+    "Lynn Street Mini Park has a range of amenities and terrific views. Its sandy shoreline is a favorite launching spot for kayakers, and its generously furnished street level terrace allows one to glance above the water enthusiasts to Lake Union. Framed by houseboats to the south and a rare over the water condominium to the north, the park provides one of the more unique and beloved edges along the lake. Although not part of SDOT’s Street End program, and officially a Seattle City Park, its designation matters not for appreciating its fine qualities.",
+    "The East Boston Street street end is easily missed unless one has a map in hand. The street end itself is really just the sidewalk along Fairview Avenue – there is no access to the water. Instead, and if one picks just the right viewing angle to snatch a view between the heavily vegetated shoreline one is surprised to see a picturesque assembly of houseboats framing a view across the lake to Queen Anne.",
+    "East Newton Street, also known as Terry Pettus Park , is currently undergoing renovation. Prior to its being closed I was able to visit it on a fine fall day in 2023. This particular street end, at least prior to its renovation, had that rarest of amenities: a dock. The dock not only allows one a different way to access the water but it also provides a view back to the shoreline. It is hard to pick a favorite among the many great street ends along Eastlake Avenue, but Newton Street would certainly be a contender.",
+    "All construction permits for the renovation have been obtained and I’m sure the neighborhood eagerly awaits its reopening. Click here for project updates."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/data-src-image-7494984b-b0f0-41b7-bc18-f3e541c533ef-1-.jpeg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip1b5vglw",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "How Hegseth escaped an impeachment effort – for now",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip1-b5vglw/",
+   "paras": [
+    "How Hegseth escaped an impeachment effort – for now"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/46f95a41-aec0-44ef-9327-816f83e7a7fe.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2qmyjmv",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Gwen Ifill's trailblazing role in journalism",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-qmyjmv/",
+   "paras": [
+    "Gwen Ifill's trailblazing role in journalism"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/13cb4293-10fd-418b-a094-dc89f518527d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ekwiththeatlanticfullepisode111326kchla1",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Washington Week with The Atlantic full episode, 11/13/26",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/washington-week/episode/washington-week-with-the-atlantic-full-episode-111326-kchla1/",
+   "paras": [
+    "Full Washington Week with the Atlantic broadcast from November 13, 2026."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/9d0e8887-34bd-467b-affd-1d630618ee32.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-hownewshourextrasnvidiafallout1794606348",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Bessent says Lutnick failed to stop China from getting chips",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/nvidia-fallout-1794606348/",
+   "paras": [
+    "The fallout of Jensen Huang’s downfall expanded into a public fight between two of President Trump’s top advisers. Treasury Secretary Scott Bessent accused Commerce Secretary Howard Lutnick of failing to prevent China from obtaining Nvidia’s most advanced chips. Nick Schifrin looks at the finger-pointing and the ongoing efforts to control advanced technology exports to China."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/96ff4006-9fa8-4b4f-9301-ae7c898c696b.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shownewshourextrascountertenor1794606477",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Countertenor brings classical sound to today's issues",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/countertenor-1794606477/",
+   "paras": [
+    "Anthony Roth Costanzo cuts an unusual figure in the world of music. The leading international opera singer is performing in the Metropolitan Opera’s critically acclaimed and wildly popular “Lincoln at the Bardo,” which the Met will stream for free to the public on Saturday. Senior arts correspondent Jeffrey Brown has the story for our arts and culture series, CANVAS."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/38990509-ef02-40d2-8b5f-9aef07556316.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-hownewshourextrasflightshalted1794607120",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "FAA issues rare nationwide ground stop",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-14",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/flights-halted-1794607120/",
+   "paras": [
+    "FAA issues rare nationwide ground stop due to 'extraordinary circumstances'"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/94d0fe09-8310-42d0-9441-9d9583686153.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-5namdjYnR2Yzlia0dkeHIzUDB3aUxYd2haQ2coc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Quinault tribe races against king tides to relocate coastal homes",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlqREp2dk5rcVlPUV9XVXEzVlM4R21GM2VqVi13SzdYTzlXNTlfLUltZTlqWU01Znc3ZFJyU2xHSUtIT2s4MjhJbWlTN2FMYmFsTUF5SEV2VDhGNERZSmFmeTdrLXRLQmRaRW02ZDdiNzRSVjlTR1AyUndHRDgwSkJSV0p2VU92TVg2N2EzUi1tYk5namdjYnR2Yzlia0dkeHIzUDB3aUxYd2haQ2c?oc=5",
+   "paras": [
+    "Quinault tribe races against king tides to relocate coastal homes KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwvg2l312ylqoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc69vwp09d7vvoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/0cdca3f0-e009-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescmg46qgkl7r4oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescw808ll7x093oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8n50w445zgpoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6wy9lynq4qnoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-7777democratsmidtermswhatsnextconference",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+   "author": "Barbara Sprunt",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+   "paras": [
+    "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3509x2632+213+0/resize/3509x2632!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F64%2F879cc2d14c54a9ec911488b48d94%2Fap26317088763752.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-14nxs16040952faagroundstopairplanetravel",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+   "author": "Ava Berger",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+   "paras": [
+    "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x5394+0+0/resize/8091x5394!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nxs16040144chileprotestsfuelkaststudents",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Fuel crisis and protests pressure Chile's far-right president",
+   "author": "John Bartlett",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+   "paras": [
+    "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ultsrankedchoicevotingnonpartisanprimary",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+   "author": "Ashley Lopez",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+   "paras": [
+    "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/5191x3461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ectiveanewkindofwhitehousepresssecretary",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Perspective: A new kind of White House press secretary",
+   "author": "Scott Simon",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
+   "paras": [
+    "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F60%2Fa9d434ea40a7ae36a18406a56821%2Fap26313796894744.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-0299hegsethimpeachmentdemocratshousetest",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
+   "author": "Domenico Montanaro",
+   "date": "2026-11-14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+   "paras": [
+    "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/2400x1599!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-terus2026nov14bestholidaygiftsideasguide",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
+   "author": "Nick Mokey, Lauren Gould, Karen Yuan, Tracy Allison, Emily Farris, Richard Baguley, Jon Chan, Tim Stevens, Maria Ricapito, Adam Doud, Juno DeMelo, Heather Balogh Rochfort and Guardian staff",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
+   "paras": [
+    "Shatterproof wine glasses, Jellycat plushies, ‘yoga paws’ and more gifts handpicked by our experts",
+    "Nothing says holiday cheer quite like panic-browsing websites in pursuit of the perfect gift , toggling between 47 open tabs, eyes straining against your screen’s harsh blue light. But finding an item that elicits a squeal of delight from its recipient is one of the best parts of this time of year, when you have a little help.",
+    "So we’ve curated 143 presents to reclaim holiday shopping as a joyous activity. We recruited seasoned writers and shopping experts to get into the holiday spirit early, vetting gifts across categories such as kitchen, home, tech and more. For months, we cooked, ate, traveled, hiked, ran, showered and slept with test products by our side. And we roped in our mothers, cats, dogs and the kids in our lives to make sure these gifts really work for the people (and pets!) they are meant for."
+   ],
+   "img": "https://i.guim.co.uk/img/media/20d2330e5f473bbce3a0a217a7f06fea87fb32a7/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=8c1c1bf27636df70e303038abf60b80c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ews2026nov14lewisclarkindigenousstudents",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+   "author": "Ashley Stimpson",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+   "paras": [
+    "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route",
+    "In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europeans beat them to it.",
+    "But Jefferson, an ardent naturalist, had a secondary agenda. He ordered that the expedition also survey the flora and fauna of these landscapes. On their two-year jaunt across the western half of the country, Lewis and Clark kept meticulous journals of the animals and plants they encountered: bison, horned lizards, sage grouse, prairie dogs, wild licorice and catfish, among them. These observations were pivotal in shaping an early understanding of North American biodiversity."
+   ],
+   "img": "https://i.guim.co.uk/img/media/fd3cab3eb7b2ce66614e6f1cb34d1a8ad00a14b4/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=df464b90a4cb85c1f1f4fcd35590fce4",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-v15jamesblunt10chaoticquestionsinterview",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
+   "author": "Sian Cain",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
+   "paras": [
+    "The singer on his love for Ibiza, the weirdest thing he’s done in the name of romance, and being signed up for Celebrity Traitors against his will",
+    "You were a punching bag for such a long time after You’re Beautiful became a massive hit, but your consistent good humour is deeply admirable. Does it ever get tiring?",
+    "It was a surprise, at the beginning. I was just a little guy with a dream. And when you achieve your dream, you think people would be happy for you. For them not to be happy for you, but angry with you, for your song, seems irrational, an overreaction. It is interesting how people generally want to tear people down for achieving their little dreams. But I’d had a real proper job before that [as a captain in the British army]. My friends might have been on operations in Afghanistan or Iraq, so if I were to complain to them at the time saying, “Oh, the Guardian said something really horrid about me and gave me three stars for my album” – they would be able to talk about who had lost their lives or limbs that day, and that put it all in perspective. And perspective is everything."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8d05391f77653139edc13495e968485a7a46ec8b/0_274_2666_2133/master/2666.jpg?width=140&quality=85&auto=format&fit=max&s=844c55d5a162fbb5140a71bdb8104150",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-atedemocratsidentitypoliticsprogressives",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+   "author": "Arwa Mahdawi",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+   "paras": [
+    "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment",
+    "Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here. However, doing so might mean that you’re racist, homophobic and/or sexist. (Not to boast, but I have a lot of oppression cards to play.) So, you might want to tread carefully, OK?",
+    "That might sound ridiculous, but I don’t make the rules: I’m just taking a page from the corporate Democrat playbook. From Haley Stevens to Hakeem Jeffries, cynically weaponizing identity politics to ward off reasonable criticism seems to be all the rage."
+   ],
+   "img": "https://i.guim.co.uk/img/media/e1aca4984df86a8649a6a559faefbc340d902ea1/399_0_4002_3201/master/4002.jpg?width=140&quality=85&auto=format&fit=max&s=0f081450b6095bff89778911c6f62ee5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-architectsdreamfivebeautifulecobuildings",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+   "author": "Joe Pinner",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
+   "paras": [
+    "From a bamboo gym in Bali to a house made from earth in Wiltshire, these projects show the beauty in sustainable design",
+    "With construction accounting for more than a third of global emissions, sustainable architecture is central to the world meeting its climate targets. The following five creations from around the world exemplify how “green” buildings can also be beautiful."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0495dc059349b25c9cee08f8042edf9458d15d61/379_32_1904_1523/master/1904.jpg?width=140&quality=85&auto=format&fit=max&s=beb273a0cfb88dfe7f07f3fbd394a687",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-26nov14arizonaabortionlawsreligiondoctor",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The abortion doctor who leads with her faith: ‘God is forgiving’",
+   "author": "Melissa Hellmann with photographs by Idara Ekpoh",
+   "date": "2026-11-14",
+   "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
+   "paras": [
+    "Dr DeShawn Taylor runs Arizona’s only Black woman-owned abortion clinic amid rapid legal changes",
+    "When gynecologist and abortion provider Dr DeShawn Taylor has conversations with patients about the afterlife, they ask her if they will be condemned for their choices. To quell their concerns, she shares with them bible verses about free will. “If God wants that vessel, that spirit to get here, God will choose another vessel. You get to say, ‘I’ll pass,’” Taylor said at her clinic one spring afternoon, her short curly hair matching the color of her maroon scrubs. “I think that makes people feel a lot better with that understanding.”",
+    "As the founder and CEO of Desert Star Institute for Family Planning in Phoenix, Arizona, Taylor heads the only Black woman-run abortion clinic in the state, which also boasts a staff of women of color. On a Tuesday in March, pop music wafted throughout the waiting room filled mostly with Black and brown women, some with their children in tow. Bilingual posters about abortion care taped to the wall reflected the diversity of the clinic’s staff and clientele. On 6 February, an Arizona judge struck down state laws requiring patients to receive an ultrasound and to wait at least a day before receiving an abortion. With abortions now more accessible, a steady stream of clients poured into the office the week that the laws were repealed. By mid-March, appointments had petered out to a more manageable about 10 services a day."
+   ],
+   "img": "https://i.guim.co.uk/img/media/23f4ad36bebf54ad78b07e8b1e3989d749794071/0_1352_5243_4193/master/5243.jpg?width=140&quality=85&auto=format&fit=max&s=d0d7edbdb6872aeb6bb39c4b9031dc0a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-theoppositeofquellingpublicconcern296663",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "National ground stop response highlights critical errors in public reassurance – saying ‘nothing nefarious’ did the opposite of quelling public concern",
+   "author": "<name>Shannon A. Bowen, Professor of Journalism and Mass Communications, University of South Carolina</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/shannon-a-bowen-766905\"/>",
+   "date": "2026-11-14",
+   "url": "https://theconversation.com/national-ground-stop-response-highlights-critical-errors-in-public-reassurance-saying-nothing-nefarious-did-the-opposite-of-quelling-public-concern-296663",
+   "paras": [
+    "Thousands of travelers were stranded on Nov. 13, 2026, when the Federal Aviation Administration grounded all domestic flights in the U.S. because of what they said were failures in decades-old air traffic communications systems . Crisis communications expert Shannon A. Bowen , a scholar at the University of South Carolina’s College of Information and Communications, spoke with The Conversation’s Politics and Legal Affairs Editor, Naomi Schalit, about how the Trump administration handled the first day of the crisis.",
+    "Is there a first principle in crisis communications?",
+    "The first principle would be to react quickly and react with accuracy, react with everything you know at the moment, truthfully, but always react quickly. Because if you delay until you gather information, a vacuum will ensue. Information fills that vacuum that may not be accurate. And so that’s the enemy of accurate crisis communication, but you want to always speak quickly and be the most authoritative and definitive source, even if very little information is known.",
+    "What did we see on the day of the ground stop?",
+    "A crisis unfolded and to the administration’s credit, they did react very quickly , in a way that offered the information that was known at the time, even though not a lot was known about why the ground stop was issued until later.",
+    "You’re speaking about the short press conference that afternoon with Department of Homeland Security Secretary Markwayne Mullin?",
+    "He did keep saying that nothing nefarious was at hand . And for a crisis communication scholar, you would not want to introduce the idea that something nefarious was at hand, unless, indeed, something nefarious was at hand. So by the very act of introducing this concept and this idea, I think the talking point, “Nothing nefarious,” then went across multiple networks, and it became the center of a controversy rather than quelling a controversy.",
+    "By saying nothing nefarious is at hand, that indeed confirmed something nefarious was at hand, even if the nefariousness was only the mismanagement of the air traffic control systems routers that they claimed caused the problem. By introducing this idea, I believe it did bring to mind that there may be other state actors behind whatever happened, that it could be a cyber attack. It would have been better to say, “We have evidence that this was not a cyber attack but a hardware failure.”",
+    "How did the later press conference with Mullin and Transportation Secretary Sean Duffy go from your perspective as an expert on crisis communications?",
+    "They handled the questions that they received correctly. They told us as much information as they knew.",
+    "However, they did seem to downplay the extent of this crisis, because we have to remember the traveling public is not just people trying to get to business meetings.",
+    "We had football teams stranded. Now football Saturday , all over the SEC, has been disrupted. And there’s probably disruption in other areas of the country, but to us in the South, SEC football is almost a religious experience on Saturday . Luckily, the University of South Carolina football team had already flown out . But our marching band was stuck in this crisis, and so we have a lot of ripple effects from something like this happening, and it definitely says to me that this was an emergency situation. It wasn’t simply a crisis, it was an actual emergency of impending disaster-level scale.",
+    "If it were simply routers being overloaded, as we’ve been told, why wouldn’t they already know this situation and restart those routers the night before or over Friday night after most of the traveling public is out of the air?",
+    "What was Mullin’s and Duffy’s job when they got out there? What did they need to do?",
+    "To inform the public about the danger, why this happened, the extent of the problem, and what they’re doing to remediate the problem. We keep hearing that they’re asking for US$30 billion and more to repair the whole infrastructure for the air traffic control system, which is great, but what are they doing right now?",
+    "How do we know that flights in the air, right this minute, are any safer than the ones yesterday, a minute before the ground stop? Do we have that information? I don’t feel confident that they addressed that question appropriately. I don’t think that the traveling public entirely feels safe at this point or adequately informed that they will arrive at their destination.",
+    "They introduced politics into the press conference as well, didn’t they?",
+    "It’s something that they have the prerogative to do. They are both political appointees and members of the cabinet . So I understand that aspect, but I really wish they had addressed the traveling public’s concerns more overtly before making it political, that they need more money to fix this. We know they need more money to fix it, and I’m sure the American taxpayers are aware of the problem and willing to fund those corrections. But the more expedient issues would be, what about all these people who were stuck in airports ?",
+    "Were there warning signs for this crisis?",
+    "I believe there were. We had another ground stop about three years ago , due to air traffic control problems, and that is what we call in crisis communications a “prodrome ,” a warning sign of larger impending problems. When you see these types of warning signs, it really gives us a reason to think it’s going to get worse.",
+    "Duffy did say on Nov. 13 that, because of the condition of the air traffic infrastructure, “ you will have more ” ground stoppages. If you had a piece of advice for the administration regarding their future communications, what would you tell them?",
+    "I would say to communicate in advance as much as possible, so if you’re even considering a ground stop, it may be a good idea to put out a public notice so that people don’t go to the airport on a vacation flight, maybe they delay that for a week or two. It might also be a good idea to speak with the airline industry representatives and say, “Here’s what we’re thinking. Can you work with us? How can we make this better for the traveling public?” Also, if 17 of 22 routers were malfunctioning, could we have had a partial ground stop at only the affected airports, rather than a nationwide stop?",
+    "My silly last question: Do crisis communications experts have any theories about Friday the 13th?",
+    "We consider it more of a superstition, but I have noticed that there does tend to be a lot of activity on Friday the 13th. It might be placebo effect, it might be because we expect something bad to happen and we’re looking for it. But that day does seem to always have some type of activity. This is also when organizations release bad news, oftentimes, they say, “Let’s hold it until Friday the 13th, because bad news is expected.” People will assume, on Friday the 13th, that negative things are going to come out, so the shock value won’t be as much.",
+    "Shannon A. Bowen received funding in 2022-2023 from The National Science Foundation as PI on a grant studying disaster management."
+   ],
+   "img": "https://images.theconversation.com/files/771985/original/file-20261114-64-80wrmw.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C5034%2C3355&q=45&auto=format&w=1050&h=700&fit=crop",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-dstopsayspossibleairolebeinginvestigated",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Officials blame aging FAA telecom gear as U.S. airspace reopens, see no link to Microsoft or AI",
+   "author": "Todd Bishop",
+   "date": "2026-11-13",
+   "url": "https://www.geekwire.com/2026/dhs-chief-sees-no-microsoft-link-to-faa-ground-stop-says-possible-ai-role-being-investigated/",
+   "paras": [
+    "Updated with officials’ explanation of the cause and the reopening of U.S. airspace.",
+    "The nationwide ground stop that halted U.S. commercial air travel Friday was not caused by the Microsoft 365 outage that began a day earlier, federal officials said at an evening news conference, blaming aging FAA telecom equipment that was overloaded with data.",
+    "Homeland Security Secretary Markwayne Mullin opened the news conference by raising the Microsoft outage himself. “I want to make sure everybody understands that there is no connection between this and Microsoft,” he said. “I know a lot of people are making that jump.”",
+    "Transportation Secretary Sean Duffy likewise ruled out a role for SMART, the FAA’s new AI traffic-planning tool, saying it isn’t connected to the core systems controllers use to track flights.",
+    "“There was no possible way SMART would have impacted what happened today,” he said.",
+    "The FAA reopened U.S. airspace at 5:15 p.m. Pacific, more than four hours after the problems began, Duffy said. He said flights would resume slowly, depending on whether airlines had crews available, and some may not depart until Saturday morning.",
+    "Microsoft confirmed in a statement that it had no indication the FAA ground stop was related to its service disruption.",
+    "Asked whether a cyberattack or “rogue AI” could be ruled out, Mullin said there was “nothing completely certain right now,” but “it appears that this was mechanically driven.” He said he could not rule out the possibility of a cyberattack but said there was “zero evidence” of one so far.",
+    "What happened: Duffy said the FAA began seeing unstable radar and communications data at air traffic control facilities across the country at 12:36 p.m. Pacific. Aging switches and routers in the agency’s telecom network “got overloaded with data” and began producing inconsistent information, he said, adding that the FAA still relies on “1980s little copper lines.”",
+    "“Our new IP switches did not go down. It’s the old hardware that went down,” he said. The FAA restored service after deploying fixes to reduce the overloading on its switches, he said.",
+    "Mullin said the overload appeared to have been triggered by new equipment the FAA was installing. As the agency put “patches into the system” and added “new equipment and new technology,” he said, it “was overwhelming the older system.” Neither official said exactly what that equipment was.",
+    "The FAA is in the middle of replacing its legacy telecom network with a modern internet-protocol network. AT&T took over the lead role on that project in August with an initial $74.3 million award, as the FAA works toward a goal of finishing by the end of 2028.",
+    "Duffy and Mullin used the briefing to press Congress for money to finish rebuilding the air traffic control system. Mullin said President Trump has declared the situation a national emergency.",
+    "The administration has asked Congress for an additional $30.1 billion for aviation infrastructure, AeroTime reported . Duffy said at the evening news conference that he wants $50 billion.",
+    "Earlier in the day, Mullin had said officials were looking into a possible link to SMART, including through DHS’s Cybersecurity and Infrastructure Security Agency (CISA). The FAA said Tuesday it was expanding the system to the airspace managed by all 22 of its en route air traffic control centers.",
+    "The agency describes SMART as a cloud-based system that pulls in about 200 data streams, including weather, flight paths and controller staffing, to recommend flight schedules and routes. FAA specialists review its recommendations, and local facilities decide whether to act on them.",
+    "SMART is part of a 12-year, $875 million FAA contract with Boston-based Air Space Intelligence, which denied any connection to the issue. “The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,” the company said.",
+    "The FAA halted departures nationwide shortly before 1 p.m. Pacific. More than 3,500 planes were in the air at the time, Duffy said. It’s the second nationwide ground stop since the Sept. 11 attacks, after a January 2023 failure of the FAA’s Notice to Air Missions system.",
+    "FlightAware counted nearly 7,000 flights delayed or canceled as of Friday afternoon."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-ecom2026blueoriginspacestationonholdmoon",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Blue Origin puts its space station plans on hold to concentrate on moon missions instead",
+   "author": "Alan Boyle",
+   "date": "2026-11-13",
+   "url": "https://www.geekwire.com/2026/blue-origin-space-station-on-hold-moon/",
+   "paras": [
+    "Jeff Bezos’ Blue Origin space venture has decided not to seek further NASA funding for its Orbital Reef space station project in order to tighten its focus on lunar missions.",
+    "For the past five years, Blue Origin has played a lead role in Orbital Reef , alongside partners including Sierra Space and Boeing. In late 2021, Blue Origin won a $130 million contract from NASA in the first phase of the space agency’s Commercial Low Earth Orbit Destinations program, or CLD.",
+    "Now NASA is seeking proposals for the next phase of the program , which will fund the development of orbital outposts to replace International Space Station in the 2030s. Proposals are due on Dec. 8, with contracts expected to be awarded next spring.",
+    "Blue Origin indicated that it will not submit a bid.",
+    "“Blue Origin’s mission is to build a road to space for the benefit of Earth so that millions of people can live and work in space. Establishing a sustained human presence on the moon is a critical step toward that future,” the company said in an emailed statement.",
+    "“As our role supporting NASA’s Artemis and Moon Base missions continues to grow, we’re focusing resources on capabilities that directly advance our lunar projects,” Blue Origin said. “By sharpening that focus, we can move faster on the technologies and infrastructure needed to make lunar permanence a reality.”",
+    "Orbital Reef was once touted as a “mixed-use business park” in space — and was even slated to star in a sci-fi thriller titled “Helios.” But much like that delayed film project, the space station is now on the back burner.",
+    "Orbital Reef isn’t the only initiative Blue Origin has put on hold to prioritize moon missions. In January, the company suspended its suborbital New Shepard program for at least two years for similar reasons.",
+    "Blue Origin is building landers for delivering cargo and crews to the lunar surface for NASA. An uncrewed Blue Moon Mark 1 lunar lander is scheduled for launch early next year, and a crew-capable Mark 2 version is scheduled for testing in low Earth orbit next year during NASA’s Artemis 3 mission.",
+    "Last week , NASA awarded Blue Origin a $94 million base contract, plus a $140 million option, to deliver a nuclear-powered rover to the lunar south pole. Blue Origin also won a spot in NASA’s broader lunar cargo delivery program. In addition, Honeybee Robotics, a Blue Origin subsidiary, will contribute to a lunar power-generating project known as miniCAST.",
+    "Blue Origin is pursuing several other moon development initiatives, including a program called Blue Alchemist that aims to use lunar materials to manufacture solar cells and electrical wire.",
+    "Several competitors are still working on commercial space stations. Voyager Technologies, Airbus and Northrop Grumman lead the Starlab consortium, which received CLD Phase 1 funding from NASA and is expected to put in a proposal for Phase 2.",
+    "Axiom Space and Vast are also developing outposts that could take the place of the ISS. Meanwhile, Marysville, Wash.-based Gravitics is building space station hardware for Axiom and an orbital carrier for the U.S. Space Force ."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2022/02/220202-orbitalreef2-1260x709.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-scoverytoolsaimedatreducinganimaltesting",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -95,16 +751,16 @@
    "date": "2026-11-13",
    "url": "https://www.geekwire.com/2026/araceli-raises-4-5m-for-drug-discovery-tools-aimed-at-reducing-animal-testing/",
    "paras": [
-    "Araceli Biosciences , a Portland-area biotech company, has secured $4.5 million in funding to help commercialize technology that supports using human cells instead of animal studies to test new drugs.",
+    "Araceli Biosciences , a Portland-area biotech company, has secured $4.5 million in funding to help commercialize technology and develop new products that support using human cells instead of animal studies to test new drugs.",
     "The Tigard, Ore., startup offers instruments and software for creating images of cells and automating analysis. Its technologies fall under the umbrella term “New Approach Methodologies,” which includes human-tissue models, computer simulations and AI-based approaches that reduce or avoid experimentation on animals such as mice, rats and monkeys.",
     "Supporters of the methods, known as NAMs, argue that they can yield better outcomes because animals are not a perfect substitute for humans and can generate irrelevant findings. That can lead to costly, time-intensive development of drugs that fail to perform in people. Advocates also promote the alternatives as more humane.",
     "The National Institutes of Health announced $84 million in September to build infrastructure for NAMs research at 10 sites nationwide.",
     "“[T]he efforts signal a significant investment into human-based technologies as the future of preclinical science, aiming to make research faster, more predictive, and more directly relevant to human health,” the NIH said in a release .",
-    "Araceli has raised a total of $18.76 million from investors, and the new round was led by William Cortelyou and included Fluke Venture Partners, according to PitchBook. The company disclosed Thursday that businessman and animal welfare advocate Jeff Swickard was also an investor.",
+    "Araceli said it has raised a total of $22.7 million from investors. The new round was led by William Cortelyou and included Fluke Venture Partners, according to PitchBook. The company disclosed Thursday that businessman and animal welfare advocate Jeff Swickard was also an investor.",
     "Swickard owns 54 auto dealerships across Western states and is a commercial real estate investor with $250 million invested in Portland properties.",
     "Shawn MacDonald, chief financial officer for Araceli, said Swickard’s “support reflects a belief that we share, which is that better science and more humane science go hand-in-hand.”",
     "Araceli launched in 2023 as a spinoff from Phoseon Technology, which makes UV LED units for industrial curing and life sciences applications.",
-    "The company says it has a strong presence in the Bay Area, Boston, London and Berlin, and that half of the world’s top 20 pharmaceutical companies use its technology. It has 38 employees, according to PitchBook."
+    "The company said that companies and institutions using Araceli technology include the Max Planck Institute and Evotec in Germany, the Wertheim UF Scripps Institute in Florida, VALID Therapeutics in Boston, and Ginkgo Bioworks, as well as large pharmaceutical companies. It has 30 employees."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Endeavor_PBJ1-1260x784.png",
    "fetched": true,
@@ -112,88 +768,52 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-msforspacewithanewengineandstaysgrounded",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Uncommon Thinkers: Alexis Harroun aims for space with a new engine — and stays grounded",
-   "author": "Kurt Schlosser",
+   "id": "f-stb-idayroundtablecascadiahighspeedrailandi5",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Cascadia High-Speed Rail and I-5",
+   "author": "Michael Smith",
    "date": "2026-11-13",
-   "url": "https://www.geekwire.com/2026/uncommon-thinkers-alexis-harroun-aims-for-space-with-a-new-engine-and-stays-grounded/",
+   "url": "https://seattletransitblog.com/2026/11/13/friday-roundtable-cascadia-high-speed-rail-and-i-5/",
    "paras": [
-    "Editor’s note: This series profiles five Seattle-area “Uncommon Thinkers,” who will be recognized Dec. 10 at the GeekWire Gala in partnership with Greater Seattle Partners .",
-    "A few weeks after learning that her tiny startup had won a NASA prize to fly its engine in space, Alexis Harroun was camping in Yellowstone, sitting around a fire and looking up at the stars. Satellites kept drifting past overhead — and the news finally sank in.",
-    "“I’m like, oh, we’re going to be sending something up and we’re going to be able to see it,” she said. “That was very humbling in a lot of ways and very exciting.”",
-    "Harroun is co-founder and CEO of Juno Propulsion , a Tukwila, Wash.-based startup building a new kind of rocket engine. Instead of burning fuel in a steady flame, Juno’s engines use detonation, a supersonic combustion wave that releases more energy from the same amount of propellant.",
-    "“It’s essentially like a higher MPG rocket engine,” Harroun said.",
-    "The technology has been studied for decades but has never flown in orbit. Juno aims to change that next year, when its engine is set to fly aboard a Momentus satellite in a mission called Project Iris .",
-    "That’s a big goal for a company that, when the July 2025 NASA call came , was just Harroun, co-founder and CTO Ari Martinez and a summer intern working out of a one-room office.",
-    "If Iris succeeds, Juno’s engines could let satellites run on non-toxic fuel and maneuver far more freely in orbit, something both commercial and defense customers increasingly want. For Harroun, who earned her Ph.D. studying these engines, it would be the payoff of years of work.",
-    "Harroun sees the technology as a long-overdue leap. The basic physics behind today’s rocket engines dates to the 1930s and has been refined about as far as it can go, she said, calling it a constraint that’s “been a glass ceiling for too long, in my opinion.”",
-    "Harroun grew up south of Seattle in Federal Way. She didn’t come from an aerospace family or spend her childhood dreaming about space. Her dad was a physician and her mom a flight attendant and flight instructor.",
-    "What she did pick up at home was an entrepreneurial streak. Her dad ran his own practice for about 20 years, and her mom is now a real estate agent. Harroun said watching them make “something out of completely nothing” has shaped her own path, especially in building Juno.",
-    "She calls herself a “late bloomer” who fell for engineering as she was finishing high school and heading to the University of Washington. Sci-fi became an inspiration along the way, and it’s now one of her favorite genres.",
-    "She spent all four years at UW working with professor Carl Knowlen , who leads the Aeronautics & Astronautics Department’s Detonation Engines Lab, and she joined the student rocketry team, eventually leading its propulsion group.",
-    "Knowlen “sees the potential in everyone,” Harroun said, and the two built a strong relationship that’s still going. Juno’s $1.2 million National Science Foundation grant , awarded this summer, is a partnership with his research group.",
-    "“What’s exciting is seeing this come full circle,” Knowlen said in a 2025 UW story . “Alexis’s passion for this technology grew out of our lab work together, and now we’re collaborating to turn that early research into something that will fly in space.”",
-    "During college, Harroun interned at NASA, Boeing and Blue Origin. That first stint at Blue Origin, in 2016, set her next move.",
-    "“I realized that everyone who had the job that I wanted had gone to Purdue,” she said.",
-    "She spent the next six years at Purdue University in West Lafayette, Ind., earning a master’s degree and a Ph.D. Her doctoral research was on the technology Juno is now building. She also met Martinez there. The two shared an office for years.",
-    "Harroun never planned to stay in academia.",
-    "“That just didn’t feel like my calling,” she said. “I wanted to use that very unique experience to get the technical chops to do the type of engineering that I wanted to do.”",
-    "Her doctoral advisor, Purdue professor Stephen Heister , still advises her and the company.",
-    "“He was one of the people who really pushed me to think about starting this company,” Harroun said. “I think he saw the potential that I had as a founder, both from a technical and a leadership perspective.”",
-    "Heister recalled their first technical discussion, when Harroun arrived as a new master’s student. He went deep on nozzle flows, her thesis topic, and the complications of building a nozzle for a detonation engine.",
-    "“At the end of my diatribe, she sat quietly and said, ‘You’ve given me a lot to think about,’” Heister said. “I can’t think of any other 22-year-old student with such a response but I knew she was indeed a special talent.”",
-    "He described Harroun as having “the unique ability to think deeply and at length,” and said it’s “terribly gratifying” to watch her commercialize the technology she worked on as a grad student.",
-    "After finishing her Ph.D. in 2023, Harroun came back to the Seattle region and started Juno. She knew the territory: her UW lab work and the rocketry team had put her in touch with local industry, and Juno now works with some of the same companies she did as a student.",
-    "Interning at Blue Origin was the first time she could say “there’s literally a rocket company in our backyard,” Harroun said. Its presence helped build a regional talent pool, which she described as “a contingent of rocket scientists that just live here.”",
-    "Starting a company comes with many unknowns, and coming home crossed one off the list.",
-    "“I knew how to go start doing stuff immediately,” she said. “So it made that calculus really easy.”",
-    "Harroun’s ambitions reach well beyond one demo flight.",
-    "“Our mission is to be the rocket engine provider for the U.S.,” she said. “Think of a Rocketdyne.”",
-    "That company built engines for the Saturn V and the space shuttle, and it’s now part of L3Harris . Juno wants to play a similar role with a new technology. It’s starting with in-space propulsion for satellites and plans to expand into engines for upper stages, orbital transfer vehicles and, eventually, the boosters that lift rockets off the pad.",
-    "The first step is Project Iris. NASA paid Juno about $500,000 through its TechLeap program to build the payload, and it’s also covering the Momentus spacecraft and the flight. There’s no paying customer yet, but the mission is designed to mimic the maneuvers a real satellite would make.",
-    "Japan’s space agency has flown rotating detonation engines on suborbital research rockets, but going to orbit is “a whole ‘nother game,” Harroun said. “Going to space is hard. I can attest to that.”",
-    "Building a company has taught Harroun things her Ph.D. didn’t. Handling toxic propellants is so complicated, she learned, that operators can spend more fueling a satellite than on “the propulsion system itself, which is kind of crazy.”",
-    "The bigger draw is mobility. For decades, satellites have mostly stayed in the orbit a rocket left them in, she said, and “that’s not really acceptable anymore in today’s world.”",
-    "To get there, Juno has raised a $1.4 million pre-seed round led by SOSV, on top of its NASA and NSF awards.",
-    "As for going to space herself, Harroun admits it would be hard to say no if she got the opportunity.",
-    "But the avid hiker and backpacker is partial to terra firma. Her best-case future is one where Earth is the place humanity gets to enjoy and space is what makes that possible.",
-    "“I don’t know that I would be the traveler,” Harroun said, “but I’d definitely like to be the enabler.”"
+    "To plan the next generation of north-south travel in western Washington, the Washington State Department of Transportation (WSDOT) is working on the I-5 Master Plan and the Cascadia High Speed Rail project. These two projects have been integrated into a combined Cascaida Program . WSDOT is asking for your feedback on what should be prioritized as the program progresses. The survey closes tonight so be sure to fill it out today.",
+    "The Cascadia Program is focused on the transportation of people and goods between Portland, Seattle, and Vancouver (BC). While this corridor crosses two states and an international boarder, 88% of the route is located in Washington. As a result, WSDOT is leading the effort while working with agencies in Oregon and British Columbia.",
+    "The survey asks about how and why you travel throughout the megaregion today as well as your priorities for I-5 and HSR. For I-5, WSDOT is in the process of identifying potential solutions to congestion, aging infrastructure, freight mobility, and connections to communities and other transportation modes. These projects will be prioritized in the Master Plan based on the following goals:",
+    "WSDOT expects to publish the I-5 Master Plan in 2028. Implementation of the recommended projects will start in the following years.",
+    "The other half of the Cascadia Program, high-speed rail, is still in the early stages of development. HSR would use trains that travel up to 160 mph/260 kph, more than double the current top speed of Amtrak Cascades. WSDOT has confirmed that a HSR route would not replace Amtrak Cascades. The Cascadia HSR program has six guiding principals:",
+    "The WSDOT team is working on a Service Development Plan that will outline potential route options, explore operational components such as the number of stops and service frequency, and identify potential governance and funding options. The plan will be published in 2028 and will be followed by at least a decade of environmental review, design, and construction (depending on funding).",
+    "Provide your feedback on the Cascadia Program today via this survey . The survey takes 5-10 minutes to complete and closes tonight."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/alexisharroun1.jpeg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-11.png?resize=525%2C958&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-geekwire-orecoverafteradaylongglobalemailblackout",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "‘A huge pain in the ass’: Microsoft 365 starts to recover after a day of global email turmoil",
-   "author": "Todd Bishop",
+   "id": "f-urbanist-edefectjeopardizesalreadydelayedtimeline",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Shoreline Pedestrian Bridge Defect Jeopardizes Already Delayed Timeline",
+   "author": "Doug Trumm",
    "date": "2026-11-13",
-   "url": "https://www.geekwire.com/2026/a-huge-pain-in-the-ass-microsoft-365-starts-to-recover-after-a-daylong-global-email-blackout/",
+   "url": "https://www.theurbanist.org/shoreline-pedestrian-bridge-defect-jeopardizes-already-delayed-timeline/",
    "paras": [
-    "If emails sent by Outlook users on Thursday are just now landing in your inbox, no, you haven’t gone back to the days of the Pony Express. Microsoft is still digging out from a nearly daylong outage that cut off email for businesses, schools and governments around the world.",
-    "As of early Friday, the company reported that email queues were “significantly reduced and approaching normal levels,” though some users could still have trouble getting in or see delayed messages.",
-    "In a post on X Friday morning, Microsoft said it was “deeply sorry” for the disruption to customers and partners. The company said the outage was a technical issue, not related to a cyberattack or AI agents.",
-    "The problem was introduced during an earlier network capacity upgrade and surfaced after a more recent network change, the company said, adding that it has addressed the underlying issue and is still restoring service to remaining customers and regions.",
-    "In an update on its status page at 5 a.m. Pacific, Microsoft said it was seeing “broader improvements now observed in North America and sustained improvements across much of Europe,” along with early signs of recovery in Asia Pacific.",
-    "The problems started Thursday morning with Exchange Online, the Microsoft service that runs Outlook email for businesses, and spread to other Microsoft 365 services that depend on it, including Teams calendars, Copilot and SharePoint.",
-    "Microsoft said servers were failing automated health checks and dropping out of service, which overloaded the ones that were left. The company paused all deployments while it worked on a fix, and some of its repairs Thursday evening were “not taking as expected.”",
-    "Microsoft has promised a full post-incident report once its review is complete.",
-    "Earlier, The Verge’s Tom Warren reported on X that his sources linked the outage to configuration changes in Azure Virtual Network, Microsoft’s cloud networking service.",
-    "Australia’s Home Affairs Minister, Tony Burke, told reporters in Sydney that Microsoft believes it is dealing with something similar in some ways to the 2024 CrowdStrike outage, “where there is an update that has gone awry,” the Associated Press reported .",
-    "“We know our customers rely on our services to get important work done every day, and regret the impact these outages had on those who depend on us,” said Charles Lamanna, Microsoft’s executive vice president of Copilot, Agents and Platform, in a statement provided to GeekWire. He said Microsoft’s teams are reviewing what happened and how to prevent similar problems.",
-    "The outage reached well beyond email. Government offices in Japan, Singapore and the Philippines reported disruptions, according to the AP. Workhorse Group delayed its quarterly earnings call, and OpenAI and Anthropic both reported problems connecting with Microsoft 365 tools.",
-    "Credit rating agency Morningstar DBRS estimated insured losses of $300 million to $500 million, well below estimates for CrowdStrike, which ranged from $400 million to $1.5 billion. Some cyber insurance policies cover only malicious attacks, the firm noted, though it said the toll could grow if the outage drags on for several days.",
-    "The disruption hit close to Microsoft’s home. Ansel Herz, a spokesperson for the Seattle mayor’s office, told the Seattle Times that the outage didn’t bring city government to a halt but knocked out the systems that move documents and messages around City Hall.",
-    "The newspaper quoted Herz calling the outage “a huge pain.” In a post on X , he chided the paper for not using his whole quote, which we presume was “a huge pain in the ass.”",
-    "We’ve followed up with him to confirm this important detail. Here’s hoping he gets the email.",
-    "Update, 10 a.m.: Herz did receive GeekWire’s message and responded, confirming the quote and saying that, to his knowledge, nothing public-facing was affected at the city. Email appears to be back and working properly as of Friday morning, he said."
+    "Any remaining hope of Shoreline opening its new pedestrian bridge over I-5 this winter appear dashed, after the project ran into a snag this month. KIRO reporter Chris Sullivan broke the news on Tuesday, noting builders were delaying the bridge placement that had been slated for November.",
+    "“Unfortunately, the contractor has discovered some manufacturing issues with one of the arches,” a City spokesperson told KIRO . “They are currently working with the manufacturer to resolve the issue. At this point, it is unclear if the manufacturer will be able to make corrections on site with the existing arch or if they will have to make a whole new arch. It will be another couple of weeks before they know for sure, and we have a new timeline.”",
+    "While Shoreline and its contractor, Kraemer North America, are still determining the extent of the issue, the City is framing it as a minor setback, with a spring 2027 opening still feasible. In fact, the City's project website portrays a spring 2027 opening as essentially the plan all along.",
+    "However, that would represent a significant delay from initial plans. In 2020, The Urbanist reported Shoreline was still hoping to open the pedestrian bridge close to concurrently with the light rail station. Lining up funding added planning delays, but an early 2026 opening had still been targeted once the project's $40 million budget had been assembled in 2024 , as Urbanist coverage noted at the time.",
+    "\"While the project was in design we developed an early 2026 opening estimate. Securing final approvals to advertise for construction bids took longer than we anticipated, delaying that step by several months,\" Shoreline spokesperson Tavia Tan told The Urbanis t. \"We advertised for bids in December 2024. Once the contractor joined the project, we updated the schedule based on the bridge manufacturer’s production timeline and input from the construction team. Those factors led to an estimate of 'early 2027' for the full bridge opening. Earlier this fall, we revised that projection to spring of 2027, primarily due to delays in procuring materials. This revision occurred before we identified the manufacturing issue.\"",
+    "Shoreline's two light rail stations opened on August 30, 2024, along with the rest of the Lynnwood Link extension . While the City had hoped to open the bridge as close to possible as light rail's arrival, it could end up being close to three years after the fact.",
+    "Once the pedestrian bridge is in place, residents in the rapidly densifying neighborhood to the west of I-5, which Shoreline rezoned in 2016 , will have direct access to South Shoreline Station without having to head down to the busy overpass at 145th Street – a street that is being supercharged with highway-style roundabouts.",
+    "If plans to place the bridge span this month had gone forward, the project still had other hurdles to clear before it could have opened, including completing a direct ramp to the light rail station platform and a trail connection on the west side linking people walking, rolling, and biking to 1st Avenue NE, a corridor which has been among the focal points of midrise development in the area.",
+    "The contractor plans to move forward with the trail work while the bridge span issue is being rectified.",
+    "\"The original construction schedule called for placing the bridge span before building the connecting trail to 1st Avenue NE,\" Tan said. \"The contractor has rearranged the work and is now building the trail. This flexibility allows construction to continue and helps limit delays while we determine the next steps for the bridge.\"",
+    "Sullivan noted a brief night-time freeway closure will be necessary once the bridge span is ready for installation: \"You have likely seen the massive structure being built along the west side of the freeway for months. Shoreline had targeted Saturday, Nov. 7, or Saturday, Nov. 14, as the nights to close I-5 and lift the bridge into place. That installation has been delayed, but other work on the project is continuing.\"",
+    "Despite the lack of a pedestrian bridge, both of Shoreline's stations have been success stories, generating robust homebuilding activity and solid initial ridership numbers . Shoreline South averaged more than 3,600 daily boardings in October, boosted by a bus restructure that truncated Sound Transit's Route 522 bus at the station.",
+    "Shoreline North hovered around 2,800 daily boardings in September and October. Overall, the 1 Line corridor amassed just over 155,000 daily boardings in October, making it the busiest light rail system in the United States.",
+    "The addition of Shoreline's pedestrian bridge and continued residential growth offer a potent combination to build on that momentum."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/outlook-outage-phone.jpg",
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Shoreline-pedestrian-bridge-render-from-span.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -322,155 +942,51 @@
    "annos": null
   },
   {
-   "id": "f-stb-idayroundtablecascadiahighspeedrailandi5",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Cascadia High-Speed Rail and I-5",
-   "author": "Michael Smith",
+   "id": "f-stranger-secomplaintthestrangersnoisecomplaintxoe",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Stranger’s Noise Complaint: XOË",
+   "author": "Stranger Staff",
    "date": "2026-11-13",
-   "url": "https://seattletransitblog.com/2026/11/13/friday-roundtable-cascadia-high-speed-rail-and-i-5/",
+   "url": "https://www.thestranger.com/noise-complaint/the-strangers-noise-complaint-xoe/",
    "paras": [
-    "To plan the next generation of north-south travel in western Washington, the Washington State Department of Transportation (WSDOT) is working on the I-5 Master Plan and the Cascadia High Speed Rail project. These two projects have been integrated into a combined Cascaida Program . WSDOT is asking for your feedback on what should be prioritized as the program progresses. The survey closes tonight so be sure to fill it out today.",
-    "The Cascadia Program is focused on the transportation of people and goods between Portland, Seattle, and Vancouver (BC). While this corridor crosses two states and an international boarder, 88% of the route is located in Washington. As a result, WSDOT is leading the effort while working with agencies in Oregon and British Columbia.",
-    "The survey asks about how and why you travel throughout the megaregion today as well as your priorities for I-5 and HSR. For I-5, WSDOT is in the process of identifying potential solutions to congestion, aging infrastructure, freight mobility, and connections to communities and other transportation modes. These projects will be prioritized in the Master Plan based on the following goals:",
-    "WSDOT expects to publish the I-5 Master Plan in 2028. Implementation of the recommended projects will start in the following years.",
-    "The other half of the Cascadia Program, high-speed rail, is still in the early stages of development. HSR would use trains that travel up to 160 mph/260 kph, more than double the current top speed of Amtrak Cascades. WSDOT has confirmed that a HSR route would not replace Amtrak Cascades. The Cascadia HSR program has six guiding principals:",
-    "The WSDOT team is working on a Service Development Plan that will outline potential route options, explore operational components such as the number of stops and service frequency, and identify potential governance and funding options. The plan will be published in 2028 and will be followed by at least a decade of environmental review, design, and construction (depending on funding).",
-    "Provide your feedback on the Cascadia Program today via this survey . The survey takes 5-10 minutes to complete and closes tonight."
+    "Welcome to Noise Complaint, The Stranger ‘s new audio and video music podcast featuring live performances right here at The Stranger HQ. Streamed live and released every other Friday, we invite a great band, musician, or wonderfully weird act to perform. Tune in, discover something new, and support art in your city.",
+    "The output of XOË—Zoë Duarte (vocals), Max Irvine (keyboards, guitar), Saba Samakar (drums), Adrian Michael (bass, guitar, drums)—is small so far, but it instantly ensnares you in its charms. Capturing a big chunk of your attention is the slyly seductive grain of Duarte’s voice, which, incidentally, is summarized by the title of their fantastic song “Sweet Sensation.” XOË (pronounced “X-O-E”) really blossom on their most recent release, the stellar Blur of a Dream EP; the slow-motion whirlpool of “Feed Me” is as dankly alluring as early Tricky. The earlier track “Nighttime Blues” bears the erotic mesmerism as Scritti Politti’s “The ’Sweetest Girl.’” Boudoir-friendly R&B may be the band’s dominant mode, but Irvine’s capable of florid keyboard arabesques worthy of jazz legends George Duke and Chick Corea. XOË even have a savvy interpretation of Nick Drake’s dream-folk classic “Pink Moon” in their arsenal. It’s certain that they have even more wonderful surprises for us on the horizon. DAVE SEGAL",
+    "Read our interview with XOË in our November print issue here !",
+    "On Apple, you can subscribe to the video podcast here.",
+    "Get our email newsletter and episode alerts at thestranger.com/noisecomplaint . Thanks to Reanimated Music for the backline!",
+    "For Noise Complaint band submissions, email us at podcasts@noisycreek.com .",
+    "The post The Stranger’s Noise Complaint: XOË appeared first on The Stranger ."
    ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-11.png?resize=525%2C958&ssl=1",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/Noise-Complaint-Show-Tile.jpg?fit=1024%2C576&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-eintexasepisodethemelodymaidsmoviea76tqc",
-   "srcKey": "cascade",
+   "id": "f-stranger-gementhasunilaterallysuspendedbargaining",
+   "srcKey": "stranger",
    "cat": "arts",
-   "title": "The Melody Maids Movie",
-   "author": "Cascade PBS Staff",
+   "title": "SIFF Cinema Workers Union Say Management Has ‘Unilaterally Suspended’ Bargaining",
+   "author": "Chase Hutchinson",
    "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/made-in-texas/episode/the-melody-maids-movie-a76tqc/",
+   "url": "https://www.thestranger.com/news/siff-cinema-workers-union-say-management-has-unilaterally-suspended-bargaining/",
    "paras": [
-    "From 1942 to 1972, over 1,500 young women known as the Melody Maids traveled to military bases and hospitals around the world under the direction of Eloise Milam, whose guiding principles were Morals, Manners, and Music. This documentary captures their story through the firsthand accounts of surviving Melody Maids, paired with memoir photos, diary entries, and news clippings from the era."
+    "It’s been a great year for independent movie theaters in Seattle. But not for the workers in the SIFF Cinema Workers Union (SCWU). For the majority of 2026, they’ve been operating without a contract and bargaining has been slow going. Now, they say it’s been brought to a standstill. On top of that, SCWU claims management has retaliated against a union member, a charge SIFF disputes.",
+    "SCWU has filed an unfair labor practice (ULP) with the National Labor Relations Board—their second this year—over these issues and say they are now “actively discussing next steps.”",
+    "In a statement, the union said SIFF “unilaterally suspended the bargaining process” and “no progress has been made since the summer.” Back then, members expressed cautious optimism that SIFF was bargaining fairly after union members walked out before sold-out 70mm screenings of The Odyssey at SIFF Cinema Downtown. After providing management with a proposal in late August on the remaining issues in their contract and giving SIFF “extra time” to return to the union with a counterproposal, SIFF hasn’t been forthcoming at the subsequent meetings. They now say that SIFF abruptly canceled a meeting scheduled earlier last month “hours before it was meant to start” and haven’t scheduled any additional bargaining meetings since.",
+    "In response to a request for a comment and questions about the current state of contract negotiations, a spokesperson for SIFF said “there are next steps in the process but that is a conversation between the SCWU and SIFF, so we have no further comment at this time.” Previously, the organization said that it was “committed to good faith bargaining,” pointing to the number of bargaining sessions they’d taken part in (21 as of August) over the past several months as a demonstration of this commitment.",
+    "In regards to the ULP, the spokesperson said “SIFF welcomes the NLRB review of the ULP complaint as we are confident that they will find it baseless.” Asked where this confidence comes from and if they were similarly confident about the first ULP, which the NLRB has yet to rule on, the spokesperson declined to comment.",
+    "The union alleges that, in addition to outstanding concerns around transparency and what they say is “SIFF’s outright refusal to respond to a request for information regarding budgetary data,” management has retaliated against a member of union leadership.",
+    "“They gave this individual a ‘final warning’ within one disciplinary meeting, which violates the disciplinary rules set up in the contract,” Nico Hall, a SCWU member and member of the bargaining team, says. “The contract requires SIFF to gradually move an employee up several stages of discipline. Instead, SIFF has skipped through this process and placed this employee’s livelihood at risk.”",
+    "In response to the specific allegation of retaliation, a spokesperson for SIFF said they don’t “comment on any personnel matters,” but said that the organization “follows all internal processes as delineated in our employee handbook as well as the processes laid out in the agreement with the Union” and that “SIFF has not taken retaliatory action against any employee.”",
+    "Previously, the union has stopped short of calling for a boycott of SIFF or any of their theaters, which include SIFF Cinema Downtown, the SIFF Cinema Uptown, and SIFF Film Center. So far, they still aren’t calling for a boycott, but they won’t stop anyone who feels like boycotting.",
+    "“If SIFF customers feel motivated to boycott SIFF in response to their egregious mishandling of the bargaining process, SCWU would appreciate that support, especially if said customers send a message to SIFF warning them that their actions are losing business for the organization,” SCWU said in a statement.",
+    "The post SIFF Cinema Workers Union Say Management Has ‘Unilaterally Suspended’ Bargaining appeared first on The Stranger ."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/f8fb6102-9085-44ea-ab06-0745e537597b.jpg",
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/GettyImages-163296535-scaled.jpg?fit=1024%2C682&ssl=1",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-howamanpourcoepisodenovember102026oewzwa",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "November 10, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/november-10-2026-oewzwa/",
-   "paras": [
-    "Former U.N. climate chief Christiana Figueres and climate scientist Johan Rockström discuss the stakes at COP31. International Rescue Committee officials Faten Abu Mousa and Bob Kitchen discuss the dire conditions and worsening humanitarian crisis in Gaza. “Chip War” author Chris Miller examines the Nvidia scandal and its implications for U.S. national security and the AI race with China."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/346a5941-7804-48b6-980a-d2bec8674659.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-inyoveraffairwithallegedchinesespybf0avn",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Nvidia CEO Faces Scrutiny Over Affair with Alleged Chinese Spy",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/nvidia-ceo-faces-scrutiny-over-affair-with-alleged-chinese-spy-bf0avn/",
-   "paras": [
-    "Nvidia CEO Jensen Huang has admitted to an affair with an alleged Chinese spy. Huang's company, which designs computer chips, software and AI, has earned the favor of the U.S. President. With Trump and Chinese President Xi expected to meet next week, professor and author Chris Miller joins Walter Isaacson to discuss the Nvidia scandal and its implications for U.S. security amid the AI boom."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/42b7afcb-f146-4d2d-aea5-aad6bc34c8ad.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-erheardevansmithepisodejonlangfordqavwza",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Jon Langford",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/overheard-evan-smith/episode/jon-langford-qavwza/",
-   "paras": [
-    "Jon Langford talks punk music and his influential band the Mekons."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/ce8743ec-d88d-4686-b855-63809f1b2898.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-moneyisenoughtofeelsecureinamericaqqa5g3",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "How Much Money Is Enough to Feel Secure in America?",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/how-much-money-is-enough-to-feel-secure-in-america-qqa5g3/",
-   "paras": [
-    "Affordability took centre stage in the U.S. midterms, leaving a divided Congress under pressure to deliver. From salary to inheritance, economic circumstances vary widely, but anxiety cuts across income levels. Mona Chalabi joins Hari Sreenivasan to discuss her book “Ten Lives,” wealth inequality, declining upward mobility and why Americans need to talk more openly about class."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/9e428513-e2ec-44bb-8f2f-17e0ce3a5d90.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-howamanpourcoepisodenovember1220267dekp1",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "November 12, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/november-12-2026-7dekp1/",
-   "paras": [
-    "ControlAI's Connor Leahy and The Atlantic CEO Nicholas Thompson discuss the Nvidia scandal and its implications for U.S. national security and the AI race with China. British MP Jess Phillips discusses sexual misconduct allegations against prominent entertainers and calls for accountability. Author Mona Chalabi examines wealth inequality and economic anxiety in her new book “Ten Lives.”"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/d4943643-936a-4676-ae06-52ce34a1fe0f.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-XZqdTI4QzdhcWRldkZHMTY5RllpcjdZRDRLcQoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Washington AG hires outside firm to defend ban on trans girls in girls’ school sports",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk1RSVZ6Vk9iWVl3NkZVRkRUdDAwR1ZiNHJuRHRvQkVFWkc4SzN4Nk55ZHl3bjVseWVubUgzOGVWMjBuRG93Y09MY0ZwMklYUHpDVUl4U1hCTm1qaGh4S2FZRl9nY0EwVV9lNU9SbklSMmt5UVR5a3NrSmxRa0QzY0ZsNnY1YThWUzEyM2U1NzFkMElBZ3dlVFJ4UlQyak1MSXZqdTI4QzdhcWRldkZHMTY5RllpcjdZRDRLcQ?oc=5",
-   "paras": [
-    "Washington AG hires outside firm to defend ban on trans girls in girls’ school sports KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-JVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2coc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmFqTlV4cFBoenRwdk1oT09YVWxsZ1hUSklYZHhENldrTUdTSWJ3UkQ0QXJFWEw3ejU5UmNhbUdDLVZpZmQ1eENGVy1JOEJ5a0ZkX25paGFYenZmNVI0bGI1anVsMGhvOUNlZGRsUU5pcy1xRF9XNW5zbzFSR3BWeHB5OWVVTnVsLVM3RWlVRUs3S2tsTUpDdXpUc2NuMEMwNXc3SnA5WEJVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2c?oc=5",
-   "paras": [
-    "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -591,33 +1107,71 @@
    "annos": null
   },
   {
-   "id": "f-stranger-stopkillingfishaschumerchallengerappears",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Microsoft Outage Persists, Sound Transit Tries to Stop Killing Fish, A Schumer Challenger Appears",
-   "author": "Nathalie Graham",
+   "id": "f-kuow-tLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEkoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "FAA lifts nationwide ground stop on flights that halted travel across the US",
+   "author": "",
    "date": "2026-11-13",
-   "url": "https://www.thestranger.com/slog-am/slog-am-microsoft-outage-persists-sound-transit-tries-to-stop-killing-fish-a-schumer-challenger-appears/",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmhyTE93YXZPMU9CRDJjWmJsU0d5cEEwVGdlOXFwSGU0ejBDU1paemNiY2gyWkdsRnVNa05OVEVWMk45QmQ3VWpxRTMwcVRLOUVwcjRhWHduWGtHZlFuaENJLW9oMnlhUjc5MHp1TWNpMDZHdXh5d1RDNkRONnVqNTRiMmNGNVM2WEJYb1oyY1MyNTExUWE2NnlmRGlHbDlsUmVMT2dTYXItRU5vT3FnaWdmYUtLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEk?oc=5",
    "paras": [
-    "Horse thief in Portland: A 29-year-old Idaho woman was visiting Portland for a model horse show. She brought her whole collection of 100 custom, hand-painted model horses worth $10,000 and won best-in-show. The next day, someone smashed her car window and stole her entire collection , hawking “piles of her horses” on the street for $5. Police arrested a suspect. Please, if you obtained a beautiful model horse in the Pearl District, return it to its rightful owner.",
-    "Fuck this grifter: Right-wing influencer Nick Shirley has retracted his claim that he witnessed food stamp fraud at Seattle grocery store Lam’s Seafood Asian Market. The video retraction comes a month and millions of views after Shirley made the claim. It also came after Lam’s hired a lawyer and threatened to sue Shirley.",
-    "A grim Outlook: Microsoft is entering day two of a global outage that’s hobbling Outlook, Teams, and AI assistant Copilot. As of Friday morning, the company said it was making “headway” on restoring services. This little technological world we’ve built is so fragile. Enjoy your work holiday, Outlook users.",
-    "Due to the Microsoft outage, Japanese stock markets are switching to fax machines .",
-    "ICYMI: Did you know that when its staff tried to unionize, immigration nonprofit Washington Immigration Solidarity Network hired a law firm known for busting unions, and paid them thousands of dollars despite a year of financial hardship? Cedar Attanasio and Hunter Pauli have the story here .",
-    "Fish fry: Sound Transit is trying to mitigate the fish electrocution happening underneath the crosslake connection. The agency believes underwater wires known as anodes are zapping and killing fish that swim by them. Sound Transit is installing 13 mesh tube cages to encase those wires and prevent fish deaths. If these work, they’ll install mesh tubes on all 113 pontoon anode strings, reports KUOW .",
-    "AG won’t defend trans sports ban: Attorney General Nick Brown will not defend Initiative 638, the trans sports ban, against the lawsuit brought by the ACLU of Washington, Legal Voice, and Pacifica Law Group. Brown said he has conflicts of interest since his office has argued against trans sports bans in the past and Brown’s former employer, Pacifica Law Group, is part of the suit.",
-    "The weather: Today it will be wet. The weekend will be wet. Seattle!",
-    "Lay a flower on his Nvidia grave : Nvidia CEO Jensen Huang—the only CEO the chipmaker has ever had—has resigned after reports that he was honeypotted by a Chinese spy and subsequent reports about affairs he had with a subordinate and a member of the board. Huang has been summoned to testify before Congress about “serious” national security concerns .",
-    "Buck Chuck: That’s Sen. Chris Van Hollen’s plan. The Maryland senator has announced he’ll challenge Sen. Chuck Schumer for majority leader. He has the support of progressives in the Senate like Sen.-elect Abdul El-Sayed and Sen. Bernie Sanders. Schumer remains confident he has the votes to win.",
-    "Brooklyn building collapse death toll rises: Eight people are dead after an apartment building collapsed in Brooklyn’s Flatbush neighborhood on Wednesday.",
-    "Data centers on public lands: Interior Secretary Doug Burgmun wants to build data centers on public lands controlled by the federal government. Burgmun is heavily invested in the AI industry and seems singularly focused on building up data centers, in spite of public opinion souring on them.",
-    "Should we drain Lake Powell? The lake on the Utah-Arizona border formed after the 1960s construction of the Glen Powell dam flooded Glen Canyon. It’s now a pivotal source for hydroelectric power and a key reservoir for Lower Basin states. But drought has made Lake Powell less reliable. This summer, it reached a record low—almost so low that water wouldn’t be able to flow through the Glen Powell Dam to create hydroelectric power. That drought will likely worsen. Low water levels also reduce levels in Lake Mead, another key reservoir, to help prop up Powell. Groups are calling for Lake Powell to be drained . They say it will restore the Colorado River, help Lake Mead, and uncover Glen Canyon.",
-    "A self-plug for your Friday: If you are need of Friday plans, why not come watch an improv show at the Fremont Abbey? I’ll be in this one .",
-    "The post Slog AM: Microsoft Outage Persists, Sound Transit Tries to Stop Killing Fish, A Schumer Challenger Appears appeared first on The Stranger ."
+    "FAA lifts nationwide ground stop on flights that halted travel across the US KUOW"
    ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/SlogNov_Cedar-07-scaled.jpg?fit=1024%2C683&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-XZqdTI4QzdhcWRldkZHMTY5RllpcjdZRDRLcQoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Washington AG hires outside firm to defend ban on trans girls in girls’ school sports",
+   "author": "",
+   "date": "2026-11-13",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTk1RSVZ6Vk9iWVl3NkZVRkRUdDAwR1ZiNHJuRHRvQkVFWkc4SzN4Nk55ZHl3bjVseWVubUgzOGVWMjBuRG93Y09MY0ZwMklYUHpDVUl4U1hCTm1qaGh4S2FZRl9nY0EwVV9lNU9SbklSMmt5UVR5a3NrSmxRa0QzY0ZsNnY1YThWUzEyM2U1NzFkMElBZ3dlVFJ4UlQyak1MSXZqdTI4QzdhcWRldkZHMTY5RllpcjdZRDRLcQ?oc=5",
+   "paras": [
+    "Washington AG hires outside firm to defend ban on trans girls in girls’ school sports KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-JVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2coc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries",
+   "author": "",
+   "date": "2026-11-13",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmFqTlV4cFBoenRwdk1oT09YVWxsZ1hUSklYZHhENldrTUdTSWJ3UkQ0QXJFWEw3ejU5UmNhbUdDLVZpZmQ1eENGVy1JOEJ5a0ZkX25paGFYenZmNVI0bGI1anVsMGhvOUNlZGRsUU5pcy1xRF9XNW5zbzFSR3BWeHB5OWVVTnVsLVM3RWlVRUs3S2tsTUpDdXpUc2NuMEMwNXc3SnA5WEJVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2c?oc=5",
+   "paras": [
+    "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-2gwd0F4em0yMVNrUEg5OEEtczF6cXVYY3phdwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "As Microsoft services return online, company says outage wasn't caused by AI or cyberattack",
+   "author": "",
+   "date": "2026-11-13",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1hWUElmdmFDcVNnalQ4ci1VbFVZVkxiSVRwWTB1bGxzTlRSWHpicEMzTS1QU0pxNjBzZUl1eFljUm1FLWpWVkRVbWNnZmtaOTdNXzI5dmFkWm9SLXF2d25wdVA5NXp1ajVYSzBELXVqb0Jfc29DRDEwY3hqRnpybXZSU2gwd0F4em0yMVNrUEg5OEEtczF6cXVYY3phdw?oc=5",
+   "paras": [
+    "As Microsoft services return online, company says outage wasn't caused by AI or cyberattack KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -635,307 +1189,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-strategynowwithirantokeepthingsastheyare",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "What's Trump's strategy now with Iran? To keep things as they are",
-   "author": "Aya Batrawy",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-   "paras": [
-    "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-s16034016voterfraudsearchtrumpcalifornia",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The Trump administration's voter roll crusade could continue",
-   "author": "Jude Joffe-Block",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
-   "paras": [
-    "Election officials are preparing for the Trump administration's pressure tactics over potential noncitizens on state voter rolls to continue, though recent court rulings pose new obstacles."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6903x4560+0+0/resize/6903x4560!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F20%2Fdd%2F1b4c60f94f53a919c64962a66656%2Fgettyimages-2303720039.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-6039196doeseuroperegretitsbetonusdefense",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Does Europe regret its bet on U.S. defense?",
-   "author": "Cooper Katz McKim",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-   "paras": [
-    "Europe bet big on American defense technology and they're now paying the price. Years-long backlogs are underway due to production delays and the U.S. own military needs.",
-    "(Image credit: JOHN MACDOUGALL/AFP via Getty Images)"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-chrisvanhollenglobalhealthdevelopmentaid",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "How Sen. Chris Van Hollen plans to flex Democratic power on the foreign aid front",
-   "author": "Jonathan Lambert",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/2026/11/13/g-s1-153350/senator-chris-van-hollen-global-health-development-aid",
-   "paras": [
-    "He's the ranking member of the Senate Foreign Relations Subcommittee that oversees health aid and he's just announced he's running for Majority Leader. He spoke to NPR about his foreign aid vision."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8192x5464+0+0/resize/8192x5464!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd3%2Fa3%2F631876c94a13ba74cf0090e78406%2Fchris-van-hollen.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-038917rememberingsingerandactorpeggyking",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Remembering singer and actor Peggy King",
-   "author": "Terry Gross",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6038917/remembering-singer-and-actor-peggy-king",
-   "paras": [
-    "King, who died Oct. 25, got her start singing in big bands in the 1950s. She had a string of hits, a contract with MGM and was a popular fixture on TV variety shows."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6038917",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-2mauriciopochettinousmntmanchesterunited",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "USMNT head coach Mauricio Pochettino is leaving for Manchester United",
-   "author": "Becky Sullivan",
-   "date": "2026-11-13",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6038932/mauricio-pochettino-usmnt-manchester-united",
-   "paras": [
-    "Mauricio Pochettino is out as head coach of the U.S. men's national soccer team. Pochettino led the U.S. to the round of 16 at last year's World Cup. He's departing to coach Manchester United."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5000x3334+0+0/resize/5000x3334!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fdc%2F09%2F919cf5ba4a6b819cee0be681254b%2Fgettyimages-2298715390.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescwx2emg4xe72oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Police investigating David Walliams over reports alleging serious sexual offences",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d86/live/54377b90-df86-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6jd75geegzyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d291/live/9c151020-dfa5-11f1-ab35-8541e0a03fdd.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6rrg51rkz09oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescxzd9171m51qoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Microsoft has apologised for the issue, which it said was due to a technical failure."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1521/live/a9179c50-df84-11f1-a8e2-5b59832bb2f1.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc51k9709krxvoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Former Hamas bodyguard guilty of UK knife attack",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e31/live/088aff80-df79-11f1-b441-2b33b063138f.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescq39glwprknjoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69b4/live/54139cb0-df82-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-tive2026nov13papsmearpainmedicalstudents",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "She gets 16 pelvic exams a day – so yours don’t hurt",
-   "author": "Carmen Rising",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/wellness/ng-interactive/2026/nov/13/pap-smear-pain-medical-students",
-   "paras": [
-    "Molly Callahan, a gynecological teaching assistant, helps medical students practice pap smears and breast exams",
-    "On her busiest days, Molly Callahan, has 16 speculums inserted into her vagina. She works full-time as a gynecological teaching assistant ( GTA ) – a layperson who helps medical students practice pap smears and breast exams before they work with actual patients.",
-    "It’s not as unpleasant as you might think. In fact, the point is to help students learn how to do it without causing discomfort. Contrary to common belief, pap smears – tests that screen for cervical cancer – don’t have to be painful."
-   ],
-   "img": "https://i.guim.co.uk/img/media/2f712cd1eae72acfabcd7d4f705f3a046bd9a10e/0_1170_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=48a02448937cba65df886b5aae17ef79",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ntisfree2026nov13democratsweaknesses2028",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Democrats need to fix these three weaknesses before 2028 | Dustin Guastella",
-   "author": "Dustin Guastella",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/13/democrats-weaknesses-2028",
-   "paras": [
-    "Progressives should be careful not to get comfortable. There is work to be done",
-    "Democrats had a great midterms result. Big wins in Ohio, Georgia, Iowa, Maine and Texas show the potential for a majority coalition that reaches well beyond traditional liberal strongholds. That’s a good sign for the party’s chances come 2028.",
-    "Not surprisingly, the story of the midterms was “affordability”. Surveys showed that the economy was the top issue for the election, with a third of voters citing cost-of-living concerns as their number one issue, and nearly 40% of voters claiming their personal financial situation has worsened over the past year. It’s clear that voters don’t approve of Donald Trump’s economic management."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d771e37d33e7dffae3d545da2db937afaa050153/601_0_6013_4813/master/6013.jpg?width=140&quality=85&auto=format&fit=max&s=1ddb70664e71048c7911cb12304b5c46",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ljensenhuangjokeblackleatherjacketnvidia",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
-   "author": "Chloe Mac Donnell",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/marlon-brando-cool-jensen-huang-joke-black-leather-jacket-nvidia",
-   "paras": [
-    "Once the ultimate symbol of Hollywood rebellion, the former Nvidia chief’s signature look is now being mocked as a midlife crisis cliche",
-    "For nearly two decades a black leather jacket has been a key part of Jensen Huang’s look. Now it has become a punchline.",
-    "As the founder and chief executive of Nvidia resigned this week after reports of multiple affairs, his affinity for a leather jacket, an item of clothing typically associated with a man in midlife crisis mode, has become widely mocked."
-   ],
-   "img": "https://i.guim.co.uk/img/media/ceb8d0c2e30a973c8dfa3940f4e5216c833fc9b5/0_577_4069_3255/master/4069.jpg?width=140&quality=85&auto=format&fit=max&s=91d8bdea709f6e143321d1e133474306",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ov13universitiesdropflockcameracontracts",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "US university students tell surveillance cameras to Flock off",
-   "author": "Sanya Mansoor",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
-   "paras": [
-    "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the country",
-    "Angela Nguyen, a senior at Stanford University, has been on a mission to make sure her school doesn’t use automated license plate readers, like those made by Flock Safety, for mass surveillance. The 21-year-old computer science major helped collect hundreds of signatures earlier this year from students, faculty, alumni and residents to demand that Stanford drop its current Flock contract and codify safeguards for similar tech tools the school may use in the future. The fear, Nguyen says, is that these cameras, which show where a vehicle was at a certain point in time, can be exploited to victimize vulnerable people.",
-    "Stanford cut ties with Flock this summer, and it’s not alone. The privacy reckoning over the company’s surveillance cameras is gaining momentum at schools nationwide. Since April, at least ten university campuses across seven states, have scrapped contracts with Flock. That includes Cornell University , Penn State University , Elgin Community College , Emory University , Binghamton University , Kent State University and the University of Wisconsin’s Madison , Milwaukee and Oshkosh branches. Last week, the University of Buffalo announced an indefinite pause on its plans for a 60-day pilot program."
-   ],
-   "img": "https://i.guim.co.uk/img/media/07a6c4559866de14de7f2016c808aef3574e0c2c/23_622_4031_3223/master/4031.jpg?width=140&quality=85&auto=format&fit=max&s=3108c631271e4819ec15046c6ff21f15",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-comfilm2026nov13newjamesbondannounced007",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
-   "author": "Andrew Pulver",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/film/2026/nov/13/new-james-bond-announced-007",
-   "paras": [
-    "As Amazon MGM Studios prepares to announce the next 007, much rides on how the news is broken. From double bookings to health and safety embarrassments, we look back at how not to do it",
-    "And then there were five. While nothing has been officially announced, it is widely understood that the shortlist to replace Daniel Craig as James Bond is now down to a handful of actors: Callum Turner, Jack Lowden, Josh O’Connor, Robert Pattinson and Nicholas Hoult.",
-    "The hunt for a new Bond comes at a propitious moment for the franchise as a whole, 25 films in (not counting the two “unofficial” entries, Casino Royale in 1967 and Never Say Never Again in 1983). After Daniel Craig stood down from the role after completing No Time to Die (in which Bond appeared to be killed in a missile strike), Amazon MGM Studios paid over $1bn to acquire “creative control” from Barbara Broccoli and Michael G Wilson, the British-American heirs to the series’ original producer Albert “Cubby” Broccoli and longtime stewards of the Bond films."
-   ],
-   "img": "https://i.guim.co.uk/img/media/3b6fefef892541b4cbaa946c4cf1385b74aa8110/807_313_1562_1251/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=eb1c25ae1581278dd8a1145621c5caee",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-v13experiencedisembowelledhippohoneymoon",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Experience: I was disembowelled by a hippo on my honeymoon",
-   "author": "Samuel McKee",
-   "date": "2026-11-13",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/13/experience-disembowelled-hippo-honeymoon",
-   "paras": [
-    "A mother hippopotamus protecting her young is one of the most fearsome forces of nature. Luckily, I’d just married someone ready to meet it head-on",
-    "Anna and I got married in Portugal in September last year. We had been together for 13 years. She said in her vows, “I don’t know what life is going to have in store for us, but I know our love for each other is always constant.”",
-    "Ten days later, I found myself in a swamp in Botswana with my intestines hanging out of my back."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d035f963b4e09f4012a42357bba70d529a08bbb8/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=dd2a4d0d9096db15f1f9c501fdfbf55a",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -1130,123 +1383,25 @@
    "annos": null
   },
   {
-   "id": "f-conversation-fitbackfiredinnorthcarolinaandohio295944",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Republican gerrymandering worked pretty well in Texas and Florida, even if it backfired in North Carolina and Ohio",
-   "author": "<name>Charlie Hunt, Associate Professor of Political Science, Boise State University</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/charlie-hunt-1364391\"/>",
-   "date": "2026-11-13",
-   "url": "https://theconversation.com/republican-gerrymandering-worked-pretty-well-in-texas-and-florida-even-if-it-backfired-in-north-carolina-and-ohio-295944",
-   "paras": [
-    "During the 2026 election cycle, Republicans enacted a series of gerrymanders – a form of partisan redistricting – in a handful of states to give them a disproportionate edge over Democrats in their congressional delegations. Democrats responded with a successful redistricting effort in California and an unsuccessful one in Virginia .",
-    "Gerrymandering has obvious implications for fairness and democracy, characterized by some as politicians picking their voters, not voters picking their politicians.",
-    "There’s also a practical consideration for those doing the gerrymandering: The efforts can fail when they overplay their hand.",
-    "By spreading their supportive voters across many districts, parties can create more seats that may lean in their direction. But if spread too thin, these efforts can backfire and net seats for the other party, particularly in a “wave” election year that favors the other party. This unintended consequence is often referred to as a “dummymander .”",
-    "So, with such massive Democratic majorities poised to enter the 120th Congress, did Republican attempts to gerrymander actually end up costing them some seats in the U.S. House?",
-    "The answer isn’t as clear-cut as you might think.",
-    "Republican state legislatures in Ohio and North Carolina redrew their congressional maps in 2025 , crafting a set of districts they believed would maximize the number of seats they could win in the House.",
-    "Despite both states being traditionally competitive in statewide elections, their state legislatures drew a collection of seats Republicans believed they would win: 12 of these 15 new seats in Ohio and 11 out of 14 in North Carolina included a majority of voters who voted for Donald Trump in the 2024 presidential election.",
-    "But in 2026, Democrats across the country won dozens of seats that had previously seemed out of reach, including districts Trump won by double digits in 2024. Many of these seats were in heavily gerrymandered Republican seats.",
-    "In Ohio and North Carolina, the size and scope of the midterm backlash against Trump and his party put many of the seats Republicans targeted in these states, including ones Trump won by as many as 20 points, in serious jeopardy.",
-    "In the end, the Democratic wave overcame so many Trump-won seats in these states that their new delegations to Congress may be more Democratic than they would have been without the gerrymanders.",
-    "Texas and Florida also targeted a series of Democrat-held seats to flip their way in 2026. Nine such seats across these two states, as well as a vulnerable seat held by Democratic U.S. Rep. Shomari Figures in Alabama, were the targets of gerrymanders that created new districts that Trump won in 2024, all by 9 percentage points or more.",
-    "But once the 2026 Democratic wave swept through the deep South, these gerrymanders were essentially canceled out. Despite the gains the party projected, Republicans in these three states appear likely to enter the 120th Congress with delegations the same size as they had in the 119th.",
-    "Other Republican gerrymandering attempts were successful, but only barely. In Tennessee’s 9th District, the last remaining Democratic seat in the state was gerrymandered into a district Donald Trump won by 21 points in 2024. Republicans did hold that seat as expected, but only by 2,500 votes, or just over 1 percentage point.",
-    "Many of these gerrymanders were not maximally successful. But were they true dummymanders?",
-    "In North Carolina and Ohio it does appear that Republicans overplayed their hand by counting on past Trump voters in a national environment that proved so favorable to the Democrats.",
-    "In Ohio, a gerrymander that aimed for a two-thirds Republican majority in their House delegation will net them less than half of that in the 120th Congress . That outcome ended up producing a more representative result, one that was roughly in line with the two parties’ 2026 popular vote shares in the state.",
-    "North Carolina was a more drastic dummymander: The Republicans aimed to design districts where they would win seats accounting for almost two-thirds of their congressional delegation. But the party is currently poised to hold , at best, less than one-third of their state’s seats.",
-    "And California, which Democrats gerrymandered in reaction to Republican efforts in other states, is a partisan success story . The state is projected to send only 8% of their delegation to the House as Republicans, despite voting 30% for Republicans statewide.",
-    "In Texas and Florida the story is more complicated. Democrats in those states retained most of the seats they held that their Republican legislatures targeted in their gerrymanders, thanks to historic shifts by Hispanic voters who had voted for Trump in the 2024 election.",
-    "But gerrymanders can be effective beyond marginal, targeted districts. Taken as a whole, Texas’ and Florida’s district boundaries were drawn so favorably for Republicans that even a Democratic tsunami managed only to keep these states’ delegations identical in the next Congress, since many other districts remained safe for Republicans.",
-    "In these states, Republicans still enjoy a greater proportion of House seats than their popular vote margins would reflect. And in a less Democrat-leaning election cycle, many of these gerrymandered seats could very well shift back toward Republicans.",
-    "As poor as the outcome of the 2026 midterms was for Republicans, it could have been even worse. In fact, some Republican states might count themselves lucky that their attempts to gerrymander failed in the lead-up to the midterms.",
-    "In traditionally Republican states such as Missouri and Utah , courts struck down gerrymanders that would have created a series of districts that Trump won by around 20 percentage points . If the gerrymanders had not been struck down, Democrats’ shocking success in similar districts across the country could have netted them as many as five additional seats in these states.",
-    "A similar situation played out in Indiana and South Carolina . New maps pushed by Trump that failed in their state legislatures were intended to produce even more lopsided Republican gains. But analysis from the Cook Political Report found that these maps might have netted Democrats as many as six out of South Carolina’s seven House seats, and eight out of Indiana’s nine. Instead, Democrats seem likely to end up with only a pair of seats in each state.",
-    "The 2026 election cycle demonstrates that gerrymandering is a far more complex and dynamic proposition than it is often treated by pundits and parties.",
-    "Wave elections of this size can often overcome the intended effects of gerrymandered maps, but subsequent elections might find them much more effective. Plus, parties often draw gerrymandered maps based on the previous election’s presidential results – a measure that may be less reliable as voters continue to make more unexpected choices.",
-    "Moreover, both red and blue states are dealing with the aftermath of the Louisiana v. Callais Supreme Court decision , which made the gerrymandering of racial groups easier to do without court interventions. Over the next two years, Republicans may attempt to implement even more new maps in many new states, particularly in the South. Those new districts will likely aim to dilute majority-Black districts that are no longer protected by the Voting Rights Act.",
-    "Meanwhile, Democratic state governments appear poised to continue with their pushback against last cycle’s Republican efforts with gerrymanders of their own over the next two years.",
-    "But the Republican redistricting failures of the 2026 cycle, including their near misses, should make both parties cautious about future attempts.",
-    "Charlie Hunt does not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/771383/original/file-20261111-64-q1watl.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C3217%2C2144&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-rseesminipowerplantsinbuildingsfullofevs",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "OfferUp co-founder sees ‘mini power plants’ in buildings full of EVs",
-   "author": "Lisa Stiffler",
+   "id": "f-stb-gcom20261112maintenanceofautomatedtrains",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Maintenance of automated trains",
+   "author": "Martin Pagel",
    "date": "2026-11-12",
-   "url": "https://www.geekwire.com/2026/offerup-co-founder-sees-mini-power-plants-in-buildings-full-of-evs/",
+   "url": "https://seattletransitblog.com/2026/11/12/maintenance-of-automated-trains/",
    "paras": [
-    "Nick Huzar co-founded Juicer Energy in 2023 to make electric vehicle charging more widespread and reliable. Now the Seattle-area startup is pursuing a broader goal: helping buildings manage rising electricity demand and costs.",
-    "Juicer installs and operates EV charging systems at apartment buildings, hotels and other properties. It is also developing battery systems to store electricity on-site and help manage the power needed for charging and other building uses.",
-    "The push comes as data centers and the growing use of electricity for transportation, heating and other needs put more pressure on the grid. Batteries can help balance supply and demand by storing energy when electricity is plentiful and releasing it when demand peaks. In some cases, they can reduce the need for costly grid upgrades or new power plants built to meet peak demand.",
-    "“We think there’s a big opportunity there,” Huzar said. He spoke at an event this week hosted by GeekWire and Bank of America at the Bellevue showroom of Ferrari of Seattle.",
-    "Other companies are similarly pairing EV charging with battery storage. Fellow Seattle startup Electric Era has deployed battery-backed fast chargers at retailers including Costco and convenience stores. ADS-TEC Energy and XCharge also sell fast-charging systems with integrated batteries.",
-    "Huzar, OfferUp’s co-founder and former CEO, sees an opportunity to make buildings more self-sufficient by combining hardware and energy-management software. He said Juicer has a project scheduled to come online in 2027 with 70 chargers in one building.",
-    "His longer-term vision also includes tapping the energy stored in vehicles connected to those buildings.",
-    "“Imagine you’re an apartment owner and you have 20 EVs, 40 EVs plugged in,” Huzar said. “That is a huge amount of power. Like you’re a mini power plant at that point.”",
-    "He described feeding excess electricity back to the grid as a possibility that remains years away. He also predicted that most businesses, apartments and homes would have on-site batteries within the next decade, in part because battery costs continue to fall.",
-    "Juicer started with EV charging, Huzar said, “but the more we’ve gotten into this, the more we realize that we actually can build an asset for buildings versus relying on the grid.”"
+    "Sound Transit has recently reduced construction cost with smaller station designs (for example Alaska Junction) but their current four-car trains are 380ft long while Vancouver’s SkyTrains are only 280ft long. That still requires bigger, harder to locate, and more expensive stations. Due to automation SkyTrain can operate more frequently and therefore still handle higher ridership while providing higher convenience. Sound Transit has considered automation but is concerned about interoperability with current trains. They could add an operator on surface portions such as through Rainier Valley. If they would keep the Ballard line separate, then interoperability would not be an issue, but Sound Transit would need to worry about where to park them at night (“stabling”), clean them, and maintain them. When Sound Transit considered a starter line for Ballard, they concluded that they would need to build an operations and maintenance facility (OMF) in Interbay and that its cost would offset all savings. I gathered some ideas on how to potentially reduce such effort.",
+    "If you connect the Ballard (starter) line with the main line, you could still use the existing Central OMF in SODO. If such a connection is not feasible, then you could build a separate regular OMF or consider other options.",
+    "For maintenance, you could connect to the BNSF tracks at Interbay and SODO to move trains between the Ballard line and the SODO OMF during off-hours. As BNSF tracks are not electrified, you would need a separate locomotive to pull the trains. You could also truck the trains as these occasional maintenance events.",
+    "For nightly cleaning and monthly maintenance, you may still want a separate small cleaning center just like SeaTac airport cleans their people movers locally.",
+    "When Lynnwood Link opened, Sound Transit did not have enough stabling space at the Central OMF. They parked some trains at various stations at night . Operators had to pick them up there in the morning and park them there at night. Automated trains may operate through the night. If you do not want to operate through the night to maintain the tracks, you can park automated trains anywhere. They can wake themselves up in the morning, go through safety checks, and move to the first station by themselves. In fact, if Sound Transit wants to reduce service in the evening and start cleaning cars, they could send them to the OMF for daily cleaning and afterwards park them at any pocket track. If they want to reduce service further, they even reduce service to a single track towards the end of the line and use the other track for stabling.",
+    "This would reduce the size and cost of the OMF considerably. As automated trains can move (“shunting”) themselves in and out of the OMF, there is no need for shunting staff.",
+    "Sound Transit could even allow construction of transit-oriented housing above such facility as the Hong Kong MTA has done for example.",
+    "If Ballard trains don’t need to use the Central OMF in SODO, Sound Transit may be able to reduce the size of the Everett OMF. This may shift some of the cost.",
+    "I would hope by reducing the cost of the maintenance facility, Sound Transit would consider an automated Ballard starter line and shorter stations. Due to its lower cost, it could connect Ballard sooner and also be more attractive to riders due to its higher frequency and longer service hours."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/P17597251-1260x945.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-mericasbestcompaniesedgingoutappleforno1",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Amazon tops Forbes’ list of America’s best companies, edging out Apple for No. 1",
-   "author": "Kurt Schlosser",
-   "date": "2026-11-12",
-   "url": "https://www.geekwire.com/2026/amazon-tops-forbes-list-of-americas-best-companies-edging-out-apple-for-no-1/",
-   "paras": [
-    "Amazon is the best company in America, according to Forbes.",
-    "The Seattle tech giant took the No. 1 spot on the publication’s 2027 “America’s Best Companies” list, moving up from No. 2 last year and edging out Apple.",
-    "Three other Washington state companies landed in the top 50: Microsoft at No. 6, Costco at No. 13 and Alaska Air Group at No. 39.",
-    "Last year’s No. 1, Berkshire Hathaway, slipped to No. 4. Nvidia ranked No. 3 on the same day CEO Jensen Huang resigned, following his admission of an extramarital affair. JPMorganChase, Alphabet, Royal Caribbean Group, Walmart and Marriott International round out the top 10.",
-    "Now in its third year, the ranking scores thousands of the largest public and private U.S. companies on factors including customer and employee sentiment, financial performance, creditworthiness, cybersecurity and innovation. Forbes said it worked with 12 data organizations to build the index.",
-    "Forbes said Amazon’s financial strength and size, its standing in news and social media, and the range of voices across the company and its leadership lifted it to No. 1. Apple scored especially well on employee satisfaction, customer loyalty, financial strength and innovation.",
-    "Forbes also pointed to Amazon’s speed, citing a feature that lets customers shop by text message. An employee suggested it in October and it launched Nov. 6.",
-    "“Innovating for customers, doing it fast, working backwards from their needs, that’s really at our core,” Beth Galetti, Amazon’s senior vice president of people, experience and technology, told Forbes.",
-    "In its own blog post Thursday, Amazon highlighted everything from faster delivery and custom AI chips to warehouse robotics and higher pay for frontline workers.",
-    "The ranking comes after a year of workforce cuts at Amazon. The company eliminated about 30,000 corporate jobs in rounds announced in October 2025 and January 2026, including more than 4,500 in Washington state. Smaller cuts followed throughout the year, including layoffs of fewer than 1,000 corporate employees in October, mainly in its Stores unit."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/53180628572_f8730b28ad_k.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-iredbyinveniamafteropensourcepartnership",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "XML pioneer Jean Paoli’s startup Docugami acquired by Inveniam after open-source partnership",
-   "author": "Todd Bishop",
-   "date": "2026-11-12",
-   "url": "https://www.geekwire.com/2026/xml-pioneer-jean-paolis-startup-docugami-acquired-by-inveniam-after-open-source-partnership/",
-   "paras": [
-    "Docugami , the Seattle-area startup led by XML co-creator Jean Paoli, has been acquired by Inveniam , a Detroit-area company that uses blockchain to help investors verify the data behind assets such as commercial real estate and private loans.",
-    "The deal follows a partnership this summer in which the companies released DGML , Docugami’s open-source format for turning business documents into data that AI agents can use and check.",
-    "Financial terms of the acquisition weren’t disclosed. All of Docugami’s employees are joining Inveniam, a Docugami spokesperson said. The team numbers about 50 including contractors. Paoli becomes Inveniam’s chief product and technology officer, and Docugami will keep operating from Kirkland, according to the announcement .",
-    "Paoli co-founded Docugami in 2018 after more than 20 years at Microsoft, where he helped create XML and the Office file formats.",
-    "The startup, based in Kirkland, Wash., raised a $10 million seed round in 2020 led by SignalFire, with backing from Bob Muglia, the former Microsoft executive and Snowflake CEO. Grammarly, the writing-assistant company now known as Superhuman, later disclosed that it had taken part in the round, its first investment in another company .",
-    "Prior to the acquisition, Docugami ranked No. 155 on the GeekWire 200 , our list of the Pacific Northwest’s top independent, privately held startups.",
-    "DGML labels each piece of a document by what it is — a base rent, a loan payment, a liability cap — so a single figure can be traced back to the page it came from. Inveniam records a digital fingerprint of each of those data points on its blockchain, called NVNM Chain, so any later change shows up.",
-    "Inveniam executives said Thursday morning on a livestream with Paoli that DGML solves a problem they’ve had in bringing on new clients: every client’s documents are different, which required templates and standard formats before the data could be used.",
-    "“One promise I want to make personally: DGML stays open and its openness is strategic to Inveniam,” Paoli wrote in a LinkedIn post .",
-    "Inveniam, led by CEO Patrick O’Meara, also acquired Mantra , a crypto company that provided the original technology for NVNM Chain, earlier this year. Mantra co-founder John Patrick Mullin said on the livestream that NVNM Chain will move to its own independent blockchain, with the main network expected to launch in the next few weeks.",
-    "Fees on that network will help fund buybacks of an NVNM cryptocurrency token, Mullin said. O’Meara proposed a separate session on when that token will launch."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/jean-paoli.jpg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/Link-Central-OMF-SODO.png?resize=525%2C319&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1390,153 +1545,20 @@
    "annos": null
   },
   {
-   "id": "f-stb-gcom20261112maintenanceofautomatedtrains",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Maintenance of automated trains",
-   "author": "Martin Pagel",
-   "date": "2026-11-12",
-   "url": "https://seattletransitblog.com/2026/11/12/maintenance-of-automated-trains/",
-   "paras": [
-    "Sound Transit has recently reduced construction cost with smaller station designs (for example Alaska Junction) but their current four-car trains are 380ft long while Vancouver’s SkyTrains are only 280ft long. That still requires bigger, harder to locate, and more expensive stations. Due to automation SkyTrain can operate more frequently and therefore still handle higher ridership while providing higher convenience. Sound Transit has considered automation but is concerned about interoperability with current trains. They could add an operator on surface portions such as through Rainier Valley. If they would keep the Ballard line separate, then interoperability would not be an issue, but Sound Transit would need to worry about where to park them at night (“stabling”), clean them, and maintain them. When Sound Transit considered a starter line for Ballard, they concluded that they would need to build an operations and maintenance facility (OMF) in Interbay and that its cost would offset all savings. I gathered some ideas on how to potentially reduce such effort.",
-    "If you connect the Ballard (starter) line with the main line, you could still use the existing Central OMF in SODO. If such a connection is not feasible, then you could build a separate regular OMF or consider other options.",
-    "For maintenance, you could connect to the BNSF tracks at Interbay and SODO to move trains between the Ballard line and the SODO OMF during off-hours. As BNSF tracks are not electrified, you would need a separate locomotive to pull the trains. You could also truck the trains as these occasional maintenance events.",
-    "For nightly cleaning and monthly maintenance, you may still want a separate small cleaning center just like SeaTac airport cleans their people movers locally.",
-    "When Lynnwood Link opened, Sound Transit did not have enough stabling space at the Central OMF. They parked some trains at various stations at night . Operators had to pick them up there in the morning and park them there at night. Automated trains may operate through the night. If you do not want to operate through the night to maintain the tracks, you can park automated trains anywhere. They can wake themselves up in the morning, go through safety checks, and move to the first station by themselves. In fact, if Sound Transit wants to reduce service in the evening and start cleaning cars, they could send them to the OMF for daily cleaning and afterwards park them at any pocket track. If they want to reduce service further, they even reduce service to a single track towards the end of the line and use the other track for stabling.",
-    "This would reduce the size and cost of the OMF considerably. As automated trains can move (“shunting”) themselves in and out of the OMF, there is no need for shunting staff.",
-    "Sound Transit could even allow construction of transit-oriented housing above such facility as the Hong Kong MTA has done for example.",
-    "If Ballard trains don’t need to use the Central OMF in SODO, Sound Transit may be able to reduce the size of the Everett OMF. This may shift some of the cost.",
-    "I would hope by reducing the cost of the maintenance facility, Sound Transit would consider an automated Ballard starter line and shorter stations. Due to its lower cost, it could connect Ballard sooner and also be more attractive to riders due to its higher frequency and longer service hours."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/Link-Central-OMF-SODO.png?resize=525%2C319&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-13allJcGp4UU45bVJTTmY5dWd6UFhoTkcyc00oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Seattle City Council upholds mayor’s first veto on RV homelessness",
+   "id": "f-grist-hFWGV1QzV4R2N0XzRibFp1YVBXRi1RNGNZbncoc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "Climate progressives won the midterms without saying ‘climate’",
    "author": "",
    "date": "2026-11-12",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHV6OV9mYlF0Y0lTNEJQUTRuUE9Yb3FvOUw4YVpvRTZ1MEMtbmhCYXpURHZVMUJuN2lSWjE2R1F2aENHSUNCdnYzREJ3d0xMQzB3WWk3X3NmOUJEZV9ydDVLZElKR2xYb0ZtUmVzN254aHNaNVhtMEdnTTZWdVdaZ3RZSG55eHJRX3c3UGMtZy13allJcGp4UU45bVJTTmY5dWd6UFhoTkcyc00?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRVNpaGJJd1JkYzZwTTRPeWFXWWkxVHNrQ3VlaXp6d3BsRWU4dkp0TFA5cTFCMDR2cEVjV1pWOE9jWkdoU0x4SUVOTEdDTVVzblhaRmRkRWlYa3FtcEJiUl9YazN3MkZYNzN6VVFQbnEtc0hvYzJfT3hFWGV1QzV4R2N0XzRibFp1YVBXRi1RNGNZbnc?oc=5",
    "paras": [
-    "Seattle City Council upholds mayor’s first veto on RV homelessness KUOW"
+    "Climate progressives won the midterms without saying ‘climate’ Grist"
    ],
    "img": "",
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-tswillsiliconvalleysurvivethedeathofmaga",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Will Silicon Valley Survive the Death of MAGA?",
-   "author": "Charles Mudede",
-   "date": "2026-11-12",
-   "url": "https://www.thestranger.com/arts/will-silicon-valley-survive-the-death-of-maga/",
-   "paras": [
-    "This weekend, the Bainbridge Island Film Festival presents Ghost in the Machine— a documentary whose value has been significantly increased by the results of last week’s midterm elections. Directed, written, and produced by Valerie Veatch (who was interviewed by The Stranger in May), the film concerns the origins of artificial intelligence, which the film traces back to 19th century eugenics, a project that provided no insights on the nature and structure of human mental capacities but simply justified the colonial (and therefore racist) expansion of European capital.",
-    "The documentary also explores the rise and economic mythologizing of Silicon Valley, the environmental impact of data centers, the exploitation of Black African immaterial labor (particularly in countries colonized by the British), and the first half of Trump’s second term in office, which has been defined by a very close alliance between Big Tech and the White House.",
-    "Though shot and composed 2025, Ghost in the Machine throws a very bright light on recent post-election events. This week, the CEO of the Silicon Valley-based corporation Nvidia, Jensen Huang, resigned because of an extramarital affair with a woman, Alice Huang, reported to be a Chinese spy . But what makes this spectacular scandal relevant to the issues explored in the late parts of the documentary is that Nvidia donated $25 million to Trump’s big and not beautiful ballroom (it will be torn down as soon as he leaves office ) in exchange for regulations that permitted “the sale of advanced AI chips to China.”",
-    "What’s revealing here is not the Bond-hot corporate espionage (wine in spiffy restaurants, flights in private jets, and so on), or the transformation of a big chunk of the White House into an elaborate bribe scheme, but how the intimate relationship between Trump and Silicon Valley lost much of its steam after MAGA collapsed on November 3, 2026. Watch Ghost in the Machine , which, to be honest is too short (it needed the length of Ken Burns The Vietnam War : 18 hours), and it becomes very clear why Musk gave MAGA a mind-breaking $445 million for the midterm elections . For him and his class of billionaires, this expenditure was a matter of life and death. Where will Silicon Valley go after MAGA?",
-    "As for Sam Altman, no dream, no matter how feverish, could match the nuttiness of his business model: We need to invest big in AI so it can be powerful enough to figure out how to make money on this big investment. And that’s where we find ourselves after the election. Do not miss this documentary.",
-    "See Ghost in the Machine November 13, 1:30 pm at Lynwood Theatre and November 14 at1:45 pm at Bainbridge Cinemas. Visit Brainbridge Island Film Festival for information about other films.",
-    "The post Will Silicon Valley Survive the Death of MAGA? appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/ghost-in-the-machine.jpeg?fit=1024%2C576&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-enlightsexpansionofsurveillanceinseattle",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Wilson Greenlights Expansion of Surveillance in Seattle",
-   "author": "Amy Sundberg",
-   "date": "2026-11-11",
-   "url": "https://www.theurbanist.org/wilson-greenlights-expansion-of-surveillance-in-seattle/",
-   "paras": [
-    "On Tuesday, Seattle Mayor Katie Wilson announced that the City will be immediately moving forward with the expansion of the Seattle Police Department’s (SPD’s) surveillance program that was approved by city council last fall.",
-    "To assist her in this decision, Wilson engaged the New York University (NYU) Policing Project to perform a governance audit assessing the civil rights and liberties risks posed by SPD’s surveillance program, including their real-time crime center, CCTV cameras, and Seattle Department of Transportation (SDOT) cameras. Wilson said the City plans to implement many of the recommendations outlined in the report.",
-    "NYU didn’t assess the civil liberties risks of Seattle’s automated license plate readers due to their usage being suspended earlier in the year to comply with a new state law .",
-    "During her campaign, Wilson ran on an anti-surveillance platform, and at the beginning of her term, activists asked her to turn off all of SPD’s surveillance cameras. Instead, Wilson opted to postpone the installation of new SPD cameras in two new areas: the Capitol Hill nightlife district and an area around Garfield High School in the Central District. Wilson allowed new cameras to be installed in the Stadium District but only turned them on while Seattle was hosting World Cup matches this summer.",
-    "The NYU audit appears to have satisfied any qualms Wilson had about increasing the surveillance apparatus in Seattle.",
-    "“When I paused the expansion of CCTV, I did so because I believed we needed to ask some hard questions about data security and the protection of civil liberties, especially in the context of a federal administration that is targeting vulnerable communities and violating civil rights,” said Wilson. “After reviewing the evidence, the recommendations, and the safeguards available to us, I believe there is an important and responsible role for the RTCC within Seattle's public-safety system.”",
-    "The NYU Policing Project did not conduct any analysis around the cybersecurity risks of the data being collected by SPD.",
-    "Wilson said that Seattle has fewer surveillance cameras (so far) than many other American cities, an observation that hits differently at a time when the U.S. government is ramping up mass surveillance and the U.S. Immigration and Customs Enforcement (ICE) is planning to deploy a domestic surveillance program in Seattle early next year.",
-    "Nevertheless, the surveillance cameras in the Stadium District will be turned back on immediately, and the City will proceed with the plans to procure and install cameras in the Capitol Hill nightlife district and the Central District.",
-    "“I also want to emphasize that these are not Flock cameras,” Wilson said. “Our system is managed by a company called Axon, and while there are obviously similarities in the technology, I think it's fair to say that Axon has a more responsive record.”",
-    "While less widely criticized than Flock, Axon has been receiving plenty of negative attention in its own right. In 2025 alone, Axon held $31.9 million in contracts with the U.S. Immigration and Customs Enforcement (ICE). And just last week, a class action lawsuit was brought against Axon, alleging that Axon “blatantly violated” rules enacted by the California State Legislature regarding how Axon can capture, use, and store the data collected by their license plate readers.",
-    "“Like its competitors, Axon sells a centralized, vendor-controlled camera system that municipalities rent,” said Noah Williams, a local cybersecurity expert and member of advocacy group Communities Not Cameras. “Unlike Flock, it provides municipalities with a false sense of control over their camera footage.”",
-    "Wilson’s change of heart came in spite of the NYU audit clearly stating that SPD’s real-time crime center does involve real civil liberties risks. “Short of ceasing to retain RTCC data altogether, SPD cannot eliminate fully the risk that such data could be obtained and used for purposes prohibited under Washington law,” the report reads.",
-    "Vulnerabilities include data obtained via public disclosure laws, data obtained via subpoena of either the City or Axon, and data obtained illegally.",
-    "The City of Seattle paid the NYU Policing Project $223,000 for the audit, which found the same kind of sloppiness, lack of clear policies, and failure to live up to commitments in SPD’s surveillance program that were highlighted in the recent audits by the Seattle Office of the Auditor and the other from the Office of the Inspector General (OIG).",
-    "The original SPD surveillance pilot installed cameras in the Third Street corridor downtown, the Chinatown-International District (CID), and Aurora Avenue in North Seattle. Since that time, SPD has been given access to a large number of SDOT traffic safety cameras through their real-time crime center, as well as incorporating 23 private cameras from three private businesses, all of which are located in the Capitol Hill nightlife district where Wilson had said she was pausing SPD camera surveillance.",
-    "The private cameras in Capitol Hill were plugged into SPD’s real-time crime center with no notice to community members.",
-    "Ryan Talen, a nurse who lives in Capitol Hill and member of Communities Not Cameras, was unaware of the private cameras in his neighborhood being streamed into SPD’s real-time crime center until The Urbanist let him know after the press conference.",
-    "“It's a violation of our privacy,” Talen told The Urbanist .",
-    "The University of Pennsylvania is performing a separate audit in cooperation with the OIG, initiated during Mayor Bruce Harrell’s term, on the efficacy of SPD’s surveillance program. According to the NYU audit, the University of Pennsylvania’s audit won’t be completed until late next year.",
-    "Not everyone found the NYU audit as reassuring as Wilson.",
-    "“The report revealed what we've known since visiting the RTCC,” Communities Not Cameras said in a statement. “The recommendations to reform the RTCC in the report are half-measures. More oversight, audit policies and targeted use won't eliminate the fact that this system can and will be abused. Seattle has had a long history of police brutality and corruption and a short history of community healing. We need more of the latter. Addressing poverty, mental health and solving root causes of crime is what will make us safer.”",
-    "The NYU audit was conducted by a team of lawyers who found that there are “significant gaps” in the governance around the real-time crime center and made 19 recommendations that the authors say should be implemented if SPD continues their surveillance program.",
-    "The audit’s purpose was not to call out the general benefits and risks of SPD’s use of the real-time crime center, nor to make a recommendation on whether SPD’s surveillance should continue as designed.",
-    "However, in an apparent contradiction to Wilson’s claims that adding more surveillance cameras to SPD’s real-time crime center will make Seattle “safer,” the audit states, “Although the potential benefits of the RTCC as described by the City are plausible, the current research base supporting these benefits is thin. There is more robust research studying the public safety impacts of CCTVs on their own (i.e., not connected to an RTCC), but that research is best characterized as mixed.”",
-    "At the press conference, Wilson appeared to be focused more on the potential upsides of surveillance, albeit not currently backed by empirical studies, as opposed to the costs of expanding a technology that is known to aid in repression and authoritarian control.",
-    "“Once data exists, no city or agency can guarantee it will never be shared,” the audit emphasized.",
-    "According to the audit, there is an important distinction between targeted surveillance and what a real-time crime center does, which is categorized as “indiscriminate surveillance,” meaning the system surveils the public at large and collects information about people who are not suspected of any offense or wrongdoing. Indeed, due to the real-time crime center integrating many different technologies, the audit says, “The centralization of surveillance systems and data can enable far more powerful and intrusive forms of surveillance than any one system could accomplish on its own.”",
-    "When considering the many gaps, lack of clear policy, and lack of follow-through outlined in the audit, it’s striking that SPD had an entire two years since council approval of the real-time crime center surveillance pilot to make progress on these goals. The real-time crime center became operational on May 20, 2025 . Thus, the City has been operating this surveillance system for almost a year and a half without the development of basic policies for its use and the timely delivery of commitments SPD made as part of the City’s Surveillance Impact Review process. This lack of engaging seriously with the agreements and responsibilities around using such a robust surveillance apparatus seems in line with SPD’s past conduct regarding surveillance technologies in the City.",
-    "Auditors found that there is a lack of clarity around the approved purpose of SPD’s real-time crime center, centering on whether it should be used for low-level misdemeanors as well as more serious incidents. According to the report, SPD found guidance that limited surveillance use for misdemeanors “challenging from an operational perspective,” and yet the surveillance pilot was originally passed with the intention of reducing gun violence and human trafficking (despite no empirical evidence has proven that this kind of surveillance reduces either of these categories of crime).",
-    "In practice, the City is left with a surveillance system that could theoretically be used to police low-level issues like trespassing, public drug use, or shoplifting a package of diapers. Wilson refused to comment on this possibility other than to state that she’s looking forward to the University of Pennsylvania report that she expects to provide information as to how the real-time crime center is being used. Wilson’s answer suggests that the Mayor’s Office doesn’t expect to fully understand how SPD is using its surveillance system until two and a half years after it went operational.",
-    "While “real-time” is in the name, in practice the crime center is also used after the fact to investigate past events. If surveillance footage were to be used by SPD after the fact to track someone without a warrant, this usage would raise constitutional concerns and could potentially land the City in legal hot water. However, Wilson said SPD does not currently use the center for this purpose.",
-    "In addition, there are no firm policies in place for how to use the real-time crime center for large events. While passive monitoring of SPD camera feeds appears to be prohibited by policy, in practice, the auditors discovered that SPD created a case number for the entire World Cup and streamed live camera feeds through the real-time crime center throughout World Cup events.",
-    "Surveillance at protests is another gray area of SPD’s surveillance program, and the audit recommends SPD develop policies around the real-time crime center and protest activities that are protected by the First Amendment. Currently, demonstrations are captured by default if they take place where SPD and SDOT cameras are installed.",
-    "In order to improve transparency, the audit recommended that SPD fulfill its two outstanding Surveillance Impact Review commitments made in 2024: to have a public-facing dashboard that reports on real-time crime center use and to develop “an omnibus surveillance technology policy.” SPD told researchers that both projects were delayed but in process, and Wilson announced at the press conference that both projects would be completed. Why SPD would need an outside agency like the NYU Policing Project to recommend they fulfill their own previous commitments remains unclear.",
-    "“It's disappointing how unscientific this whole process is,” Ryan Talen, a nurse at Harborview and member of Communities Not Cameras, told The Urbanist . “It doesn't even feel like there are standards. You know, we're just accepting the SPD's word after they say they're going to do something, they're not doing it, and we're still moving forward with the program. What does that tell us about who's calling the shots around here? Clearly, not the people that elected Katie Wilson.”",
-    "The auditors also recommended SPD institute a five-day data retention policy, given that’s what SPD say they already do in practice, and that they institute a data retention policy around the data they clip and attach to investigations so they don’t retain the data indefinitely, long after a particular investigation is closed.",
-    "“Video clips and other data stored on Evidence.com are retained by SPD indefinitely, resulting in a substantial and growing repository of data that outside agencies could seek to obtain,” the report reads. Evidence.com is Axon’s cloud-based evidence management system.",
-    "Another recommendation suggests that SPD should publish “in a clear and conspicuous location on its website” a full list of the tools and features it is using — and seeking approval to use — in its real-time crime center at least twice a year, as well as institute a policy for regular internal audits of the real-time crime center. In addition to internal audits, NYU researchers suggested the OIG should add identifying material changes to SPD’s use of surveillance tools to its annual audit requirements.",
-    "What the audit fails to address is what to do if SPD fails to implement these recommendations in practice. The OIG audit from October, for example, showed that SPD has already failed in its commitment to make sure every camera has privacy masking in place if it’s facing a private residence. And SPD has failed to live up to commitments it made in the Surveillance Impact Review back in 2024, even though two years have passed."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/data-src-image-e1a3127e-b502-4d5f-9bd6-b6b130efea20-1-.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-acticalurbanismplannedforstadiumdistrict",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Latest Look at 'Tactical Urbanism' Planned for Stadium District",
-   "author": "Ryan Packer",
-   "date": "2026-11-11",
-   "url": "https://www.theurbanist.org/latest-look-at-tactical-urbanism-planned-for-stadium-district/",
-   "paras": [
-    "A street transformation is coming to the Stadium District's front porch, with plans advancing for \" tactical urbanism \" along Occidental Avenue South near Lumen Field and T-Mobile Park. The quick-build changes tabbed for mid-2027 are intended to test a longer-term vision for a corridor that gets heavy usage on event days and is often trying to serve multiple different types of street users.",
-    "The Occidental Promenade is set to be the most visible product of Seattle's new People Streets and Public Spaces program, funded by the 2024 Seattle Transportation Levy .",
-    "Former Mayor Bruce Harrell directly inserted the promenade into his levy proposal, with support of stadium boosters including Seahawks chief operating officer David Young. The idea grew out of earlier efforts to improve Occidental Avenue, including a stadium district study that developed a streetscape plan in 2015, concepts that were ultimately put on a shelf to collect dust.",
-    "Final plans for the \"near term\" upgrades presented last week to Pioneer Square's Preservation District Board for approval show include chicanes, planters, street seating and micromobility corrals intended to carve out space along the wide street for pedestrian use. With the chicanes in place, the hope is for calmer traffic as drivers are prevented from picking up speed along a straight route of travel.",
-    "In a departure from most standard transportation projects, the Occidental Promenade is being managed by the Seattle Parks Foundation, in coordination with the Pioneer Square Alliance. The Seattle Department of Transportation (SDOT) will handle the design work. The Parks Foundation, a private non-profit organization that often bridges the gap between the City of Seattle and neighborhood groups interested in improving their park spaces, describes the promenade project as enabling a more \"vibrant stadium district, providing street amenities and flexibility for the various users and venues.\"",
-    "The foundation also outlines a goal of better managing vending along the street. A future vending pilot program is expected to come back for separate approval at a later date.",
-    "\"I would suggest it's probably the most hardworking street in downtown. We've got freight loading and unloading for the stadiums, which can range from, on a Taylor Swift concert, upwards of 20 to 25 semi trailers,\" said Jessa Timmer, Deputy Director at the Alliance for Pioneer Square, told the preservation board. \"We've got pedestrian folks – during World Cup, we had, I don't even know how many, 150,000 to 200,000 pedestrians coming through Pioneer Square and this corridor. We've got back of house for many restaurants and businesses, sometimes front of house for those businesses.\"",
-    "\"It's really a wide-ranging kind of ecosystem that's back here,\" Timmer said.",
-    "The improvements planned largely reinforce that ecosystem. The back-angle parking found across the street from Lumen Field will be retained, with a delineated walking path connecting the new nodes of pedestrian activity. Those paths will be most likely to be used on event days, creating a more orderly dispersal of pedestrian traffic when crowds are at their biggest.",
-    "It's less clear how utilized the planned seating will be on non-game days, with the street furniture essentially existing as an island in the middle of the street in some places.",
-    "\"Our approach is really looking at a surface treatment and edge delineation to calm traffic and really work to improve that legibility and increase space for non-vehicular uses,\" SDOT project manager Ian Macek said.",
-    "The timeline to make the changes is currently dependent on Seattle City Light, which is planning work along Occidental in 2027, with promenade work to follow. But this phase will essentially act as a pilot to see how carving out pedestrian spaces works when it comes to the day-to-day operation of the street.",
-    "Though SDOT does need to receive a Certificate of Approval from the Pioneer Square Preservation Board to move forward with construction, that might not necessarily be the case with similar projects in the future. A legislative change put forward by Councilmember Alexis Mercedes Rinck would explicitly exempt traffic control devices from requirements for buy-in from historic district boards like Pioneer Square's. Though the change has received a fair amount of pushback from historic preservation advocates , it is still heading for a council vote by early next year.",
-    "\"These these improvements are inspired by the neighborhood context,\" Macek said. \"They are temporary and reversible, and so this is really seen as a way to help pilot some of these options to see how they work, and also help inform that longer term before we commit to a design and advance that forward to be able to test things out, and really looking at materials that aren't impacting the historic resources along the corridor.\"",
-    "While billed as a \"quick-build\" intervention, the Occidental Promenade will still take more than two years from the launch of planning in early 2025 to implementation in mid-2027.",
-    "Other People Streets and Public Spaces projects are also moving forward at SDOT, including pedestrian plazas planned in Upper Queen Anne, Admiral, and Delridge. Unlike Occidental, those projects weren't specifically named in the 2024 levy but grew out of neighborhood support for creating pedestrian-forward spaces, building on past programs like the Pavement to Parks program abandoned under former Mayor Jenny Durkan.",
-    "Final approval to move forward with the Occidental Promenade is expected at a Pioneer Square Preservation District Board meeting before the end of the year. You can review the full plan set for Occidental Avenue here . The department also has active surveys up on SW Lander Street , 18th Avenue SW , and W Crocket Street ."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/20251015_122340-edit-1.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1681,23 +1703,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-ieFNpb041UmpJdVAyaVNxMHFDUTl4NWN6WVQ0oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Washington state senator begins probe into deportation system after GOP loses Congress",
-   "author": "",
-   "date": "2026-11-10",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0FacmtGbzE4dmJQMkkwWE1HZ2pOSGtYWWI5X01LaE1iUFBHZDQ4THFGaFNLS3pmWWs3ZHQ1S1JSbGVyWi1rX2F4RGYtbmRxcHRXb3lBVk85cFptSlZIYkdIM1ZfeVd0aUFLWS1DYkFBRVRNU1NPZy1wZmNkZHZCVVNUWkl2M0VseUtFSW5xVU55TFlCZXR2SF85SUdJcUpUUmNvRjA2bENMT3pieFNpb041UmpJdVAyaVNxMHFDUTl4NWN6WVQ0?oc=5",
-   "paras": [
-    "Washington state senator begins probe into deportation system after GOP loses Congress KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-lbm9kWjRnQ2gyLTdWcW5EaWEwYllKZWpMdDBnoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1762,39 +1767,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmg5eWJfT1h4YnRPYnNIUXpISlIybXMyUGxnc2p2d3drZGoyTG5pY2dQQ1NsUTJUb2hGV0loZVlSOUpCV0pyd05IajVoc3kxT05LcmRGVzhQdDhtY1JpYXZ6TzRBYTNKSHJWbW1iUXlHVlIxQmJSdklTdnJZckdJYU1LMVNQYndjZE9tSFJ6dU9sWVNHbnBnSXl0eU0yTGdu?oc=5",
    "paras": [
     "A monstrous El Niño has arrived. Here’s what it means for where you live. Grist"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-1108sundaymoviesaferstreetsandfiretrucks",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Sunday Movie: Safer Streets and Fire Trucks",
-   "author": "Mike Orr",
-   "date": "2026-11-08",
-   "url": "https://seattletransitblog.com/2026/11/08/sunday-movie-safer-streets-and-fire-trucks/",
-   "paras": [
-    "Why safer streets keep losing to fire trucks. (Stewart Hicks)"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-ZYmtaLUhEX1VzNUtJN2R4dEFMbnJ1U1B2cm53oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Effort to rename Hood Canal hits a fjordblock amid tribal opposition",
-   "author": "",
-   "date": "2026-11-05",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbUV0UENRUTRuNk9FWTh2Z3c1OTYxb2xjMnU3NmYyRi13SXdQTDBnbVJmeFVMcGdPSDNERm1LZFM1anEzXzlyQ2EtOFJrOUpTR3BUVEplaG1WY3lzWENrTndqY25zbkFZSVREMVo5NFR2WFAyX2dfaEM4dEJXZVdFUXMzdUJlRk1HeDRfS202U1NCVklqT2ZZYmtaLUhEX1VzNUtJN2R4dEFMbnJ1U1B2cm53?oc=5",
-   "paras": [
-    "Effort to rename Hood Canal hits a fjordblock amid tribal opposition KUOW"
    ],
    "img": "",
    "fetched": true,
