@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-14T20:14:34.280Z",
- "builtFor": "2026-11-14",
+ "builtAt": "2026-11-15T20:39:51.529Z",
+ "builtFor": "2026-11-15",
  "builtHour": "12",
- "count": 79,
+ "count": 78,
  "sources": [
   {
    "source": "bbc",
@@ -41,7 +41,7 @@
   },
   {
    "source": "grist",
-   "count": 4,
+   "count": 3,
    "via": "google-news"
   },
   {
@@ -87,6 +87,621 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-026etzionionaistartupspeedisnotastrategy",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Etzioni on AI: Startup speed is not a strategy",
+   "author": "Oren Etzioni",
+   "date": "2026-11-15",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-startup-speed-is-not-a-strategy/",
+   "paras": [
+    "The world of AI startups has fetishized “speed” and whipped itself into a frenzy. Sure, the feature that took a quarter to build back in 2023 takes a mere AI-fueled weekend in 2026, but many AI startups are running on FOMO, caffeine and tokens without a clear strategy.",
+    "A startup is a marathon, and a team that attempts to sprint the whole way will burn out before the finish line.",
+    "Sam Altman’s Startup Playbook puts the speed creed in one line: “I have never, not once, seen a slow-moving founder be really successful.” I was singing from the same hymnbook earlier this year. In my column on ten commandments for AI startups I wrote that “velocity is the new moat.” Then everyone got fast, and I stopped singing.",
+    "Here are the five arguments usually made for that creed.",
+    "The window is closing . Each model release opens a gap that the frontier labs close within a release cycle or so. But if the labs will close it anyway, speed merely buys you a nicer funeral. The argument supports picking a different direction, not running faster in this one.",
+    "Competitors are everywhere . AI makes building cheap, so clones show up in weeks. True, and that’s the reason velocity isn’t a moat. When building is cheap, defensibility matters more than being first. Peter Thiel’s last-mover argument from Zero to One is stronger today than when he wrote it. In his words: “It’s much better to be the last mover—that is, to make the last great development in a specific market and enjoy years or even decades of monopoly profits.”",
+    "The data flywheel. Early users generate data that improves the product, so get there first. Except that each new model generation resets the flywheel, and data that taught a fine-tuned model something in 2024 is worth little once a frontier model does the task out of the box.",
+    "The data that matters is data the labs can’t easily get: clinical records, industrial sensor readings, proprietary transactions. Access to proprietary data often comes through trust and partnerships, which take time, and moving too fast can cost you the trust required to obtain that precious data.",
+    "Momentum attracts capital and talent. That’s true. However, capital raised on growth hype may be planting the seeds of its own demise. A high valuation can box you into the growth story that justified it. Startups that raise at a saner pace retain the option to change direction.",
+    "Learning speed. Fast iteration finds product-market fit sooner. This one holds, but there are two kinds of speed.",
+    "Fast iteration means cheap experiments: a prototype, a pilot, a feature shipped to 20 users and pulled if it flops. Fast scaling means hiring ahead of revenue, signing multi-year contracts, buying compute and raising at a valuation you then have to grow into.",
+    "Iteration should be as fast as you can make it, because each cycle is cheap to undo. Scaling should come more slowly, because each step is a major commitment that’s hard to unwind, and scaling too early is one of the most expensive mistakes a startup can make: a 2011 study of more than 3,200 high-growth technology startups blamed premature scaling for about 74% of internet startup failures.",
+    "Jeff Bezos drew a similar distinction in his 2015 letter to Amazon shareholders. A few decisions are one-way doors, irreversible once you walk through, and deserve deliberation. Most decisions are two-way doors, and those should be made fast by a small group. A startup’s experiments are two-way doors. Its big commitments, a large raise, a long contract, a hiring spree, are not.",
+    "At AI House, Sri Chandrasekar, one of our managing directors, puts it this way: “We don’t hand founders a thesis. We expect them to find the right problem, and that takes judgment, not speed. Building is nearly free now, so run every experiment fast and manually, and only build the machine once something works.”",
+    "Finding the right problem takes iteration, acumen and judgment. Speed helps with the first and does little for the other two. A hamster on a wheel at 200 mph has plenty of speed and no chance of progress. Even Altman’s playbook says Y Combinator looks for “businesses that get more powerful with scale and that are difficult to copy.”",
+    "Prof. Herbert Simon, the Nobel laureate who helped invent AI at Carnegie Mellon, advised his graduate students to pick important problems for which they had a secret weapon, because they would win only “by having access to some knowledge or research methods the others do not have.”",
+    "Swap students for founders and research methods for data and relationships, and the advice holds. A startup’s secret weapon is an asset you hold that a competitor can’t acquire by moving faster: a dataset nobody else can assemble, a relationship that took years to nurture.",
+    "Farecast, the airfare prediction company I founded in 2003, developed a secret weapon by gathering a massive amount of labeled data. By 2007 we were mining more than 175 billion airfares, and every prediction we made was later scored against what the fare actually did, so the labeled set grew every day, and it grew only by waiting for fares to play out.",
+    "A startup that signs a data agreement with a hospital network has the same kind of weapon. So does a payments company whose fraud labels come from its own transaction stream. In each case the data is the asset a faster rival can’t copy.",
+    "Laurence Peter, of Peter Principle fame, said it decades ago: “If you don’t know where you are going, you will probably end up somewhere else.”",
+    "So pick a direction where frontier labs won’t go and clearly articulate why. Run experiments fast but make commitments slowly. Jim Collins, the Good to Great author, called it firing bullets before cannonballs: cheap shots to find the range, then the one big shot once you have it.",
+    "Chase the data and the relationships the labs can’t buy and accept that trust is the slow road to both. Raise at a pace that leaves you the option to pivot when the next model lands. And name your secret weapon in one sentence.",
+    "To repurpose an old joke: two bulls stand on a hill above a herd. The young one says, let’s charge down there. The old one retorts: charge and they scatter. Walk, and they’ll be waiting when we arrive.",
+    "In AI right now, everyone is charging. The founders who end up with the prize will be the ones who are more judicious."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/startup-speed-hamster-wheel-1260x709.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261108",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Nov. 8, 2026",
+   "author": "GeekWire",
+   "date": "2026-11-15",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-11-08/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Nov. 8, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Federal officials blamed aging FAA telecom equipment for Friday’s nationwide ground stop, and ruled out links to the Microsoft 365 outage and the FAA’s new AI traffic-planning tool. Read More … Read More",
+    "Lori Huang stayed out of public view through four decades of marriage and Nvidia’s rise. Her husband’s resignation Thursday has changed that, though there’s been no word of a split. Read More … Read More",
+    "AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer’s own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find. Read More … Read More",
+    "Colette Kress, named Nvidia’s interim CEO on Thursday after Jensen Huang resigned, spent 13 years at Microsoft, including four as chief financial officer of its Server and Tools business. She faces her first test in the job Tuesday, when Nvidia reports quarterly results. Read More … Read More",
+    "Seattle’s Allen Institute helped an international team create a shared guide to brain cells in a region involved in movement, emotions and habits. It gives researchers a common language for comparing findings and studying conditions such as Parkinson’s disease and schizophrenia. Read More … Read More",
+    "Nvidia’s board says it hasn’t formally engaged any candidates to succeed Jensen Huang, but GeekWire’s picks include Arm CEO Rene Haas, whom the board reportedly approached, plus AWS CEO Matt Garman, Amazon chip and AI chief Peter DeSantis and several Microsoft executives. Some investors and employees are pushing the board to bring Huang back instead. Read More … Read More",
+    "Shield AI co-founder Brandon Tseng, who spent part of his childhood on Mercer Island, says he believes the defense tech company will become one of the fastest-growing, employers in the Seattle region over the next several years, as it buys radar maker Echodyne for up to $5.3 billion and prepares to build its X-BAT fighter jet south of Seattle. Read More … Read More",
+    "Amazon passed Apple for the top spot in Forbes’ third annual ranking, which also put Microsoft, Costco and Alaska Air Group in the top 50. Read More … Read More",
+    "The 11,466-square-foot Westlake office will house Plaid’s growing technical team as the company builds AI models for financial services. Read More … Read More",
+    "Trevor Noah told an audience at Boston’s Museum of Science on Oct. 19 that the real question about AI and jobs is the “following distance” between old jobs disappearing and new ones arriving. Oren Etzioni, who joined him onstage, recounts Noah’s views on why AI struggles with comedy, why in-person community matters and why AI only seems to go deep. Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/maxresdefault-200x113.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-logcom20261115sundaymoviesubwaytimelines",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Subway Timelines",
+   "author": "Mike Orr",
+   "date": "2026-11-15",
+   "url": "https://seattletransitblog.com/2026/11/15/sunday-movie-subway-timelines/",
+   "paras": [
+    "The Metro Liner YouTube channel has timeline animations of various cities’ subway network expansions. Today we’ll feature the Paris Metro and RER:",
+    "Other cities include the New York City Subway, Vancouver Skytrain, Chicago L, Los Angeles Metro, DC Metro, Toronto Subway, London Underground and friends, London future, and other cities in Europe, Asia, Latin America, and Africa."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ocialhousingdeveloperdropsdesigndirector",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Seattle Social Housing Developer Drops Design Director",
+   "author": "Ryan Packer",
+   "date": "2026-11-15",
+   "url": "https://www.theurbanist.org/seattle-social-housing-developer-drops-design-director/",
+   "paras": [
+    "Michael Eliason, Director of Design & Policy at the Seattle Social Housing Developer (SSHD), departed that role last month in a personnel move that signals a strategic pivot for a public development authority still finding its footing. Eliason's former position will no longer exist, with the SSHD instead planning to hire a Director of Policy with a different portfolio of work.",
+    "Seattle voters created the social housing developer in 2023 by initiative, providing a mandate for the production of mixed-income, permanently affordable housing, operating independently of Seattle City Council or mayoral control. Two years later, voters approved a dedicated funding source for social housing via a high-earners payroll tax , with early revenue dramatically exceeding expectations in a way that has given the SSHD significant forward momentum .",
+    "Eliason had been brought on in January, after being closely involved in advocacy around Seattle's two social housing initiatives. Prior to becoming staff, he had served as one of the developer's first board members, an appointment made via members of Seattle's Green New Deal Oversight Board. Eliason's influence was credited with mandates for Passivhaus design being incorporated into the developer's mission from the jump.",
+    "Passivhaus standards create buildings that are highly energy efficient, using thermal insulation, airtightness, and filtered ventilation. While more expensive at the outset, the design creates cost savings as energy costs are reduced, with a benefit of providing more comfortable interior spaces that are more climate-friendly at the same time.",
+    "As a strong evangelist for Passivhaus standards and improved urban design, Eliason has pushed for green building requirements for social housing as a contributor for The Urbanist as well as in a book titled Building for People .",
+    "Eliason exited the developer just as it has appeared to hit its stride, announcing its first new construction project in the Central District and its second building acquisition in Delridge in the span of just a few weeks. After the SSHD board replaced its initial pick for CEO, Roberto Jimenez, with Interim CEO Tiffani McCoy – who had led the push for social housing in Seattle as co-founder of the advocacy group House Our Neighbors – things appeared to fall into place.",
+    "More social housing projects are expected to be announced soon, with a goal of owning 1,000 units by the end of 2027 and putting more in the construction pipeline.",
+    "In a post on LinkedIn made shortly after his departure, Eliason characterized the decision as a pivot away from an emphasis on design in future social housing buildings in Seattle.",
+    "\"I recently learned that design would no longer be a priority for the Seattle Social Housing Developer, as they eliminated the Director of Design & Policy position,\" Eliason wrote. \"It was an exciting run, and I am proud of the work I accomplished with the nearly three-year effort on the board, and then transitioning to staff. This work included massive efforts around standing up the real estate committee and working on the strategic plan - to finding viable and high quality parcels (not on arterials!), steering procurement efforts with architecture firms, working on legislative and local land use policies to deliver more/better/cost effective housing, and adding new construction values - all of which would go on to inform the design standards for new housing.\"",
+    "But sources familiar with how operations at the developer have disputed his characterization, instead pointing to a shift that has occurred as the SSHD has been navigating rules around public procurement for construction projects. Earlier this year, the SSHD rolled out a roster of design firms that will be considered for future developments, including CAST Architecture, Neiman Taber, Mithun, Schemata Workshop, and Perkins Eastman.",
+    "With those firms handling the bulk of design work, the SSHD does have less of a need for in-house design expertise, but did recently bring on Jacqui Aiello, former architectural designer at SMR Architecture, a firm focused on affordable housing. Aiello's hire cuts against the assertion that the developer is de-prioritizing design work.",
+    "\"The Seattle Social Housing Developer made a sincere effort to keep Michael Eliason on staff by providing him with several options,\" SSHD Director of Communications Lilly Ana Fowler told The Urbanist. \"We wish him the best with future endeavors and sincerely thank him for all his contributions to social housing. SSHD takes design seriously and is working with a number of architecture firms on both small and large social housing projects that prioritize family-sized housing, Passive House standards, open spaces and Universal Design.\"",
+    "Eliason did not respond to a request for comment from The Urbanist for this story.",
+    "The new Director of Policy position will be tasked with advocating for legislative changes to make it easier to build social housing in Seattle, and with representing the developer in front of governmental authorities, including the Seattle City Council. Rather than leading the design team, the role will be focused on translating \"technical legal and regulatory ideas into clear, compelling information for audiences ranging from elected officials and agency staff to community members, the Board, and the media,\" according to a job posting from this month."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Screenshot-2026-11-10-5.27.22-PM-1.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-ystoanewowneraheadofanewseasonon15thavee",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Capitol Hill’s Station 7 passes the keys to a new owner ahead of a new season on 15th Ave E",
+   "author": "CHS",
+   "date": "2026-11-15",
+   "url": "https://www.capitolhillseattle.com/2026/11/capitol-hills-station-7-passes-the-keys-to-a-new-owner-ahead-of-a-new-season-on-15th-ave-e/",
+   "paras": [
+    "The building’s old firehouse gates had to be removed earlier this year (Image: Station 7)",
+    "Jamie Marcello was not expecting to take over Capitol Hill boutique Station 7 this year. But after Mary Jensen , long-time owner of the 11-year-old locally-sourced gift shop and its online store, announced she was ready to pass the baton, Marcello was ready to accept the responsibility in keeping the small business alive.",
+    "Station 7 has a tradition of passing down the keys to its 15th Ave E shop. The small business was started by Danielle Tilden who passed it down to her daughter Lauren . And after working alongside Tilden for years, Jensen now holds the keys to the shop housed in a long ago Capitol Hill fire station.",
+    "“[There has been] so much learning that’s been happening between myself and Mary,” Marcello said about the first few weeks navigating the logistical and financial aspects of transferring ownership.",
+    "Although this is Marcello’s first ownership role, she said Jensen has been walking beside her every step of the way. “She’s a great mentor. She wants me to succeed.”",
+    "Marcello was first introduced to Station 7 as a Seattle University student, when she worked on a project to encourage more engagement between students and small businesses.",
+    "From there, she worked intermittently during college, alternating between full- or part-time and occasionally filling in the gaps when the store needed extra hands. She said throughout the years, she “kind of grew along with the shop.”",
+    "“This is a shop that’s been so important to me for such a long part of my life,” Marcello said. “I just felt like, wow, this is such a unique, exciting opportunity. I can’t wait to jump in.”",
+    "In 2025 , Station 7 posted an “honest overview” detailing its revenue, expenses, and profit margin. The infographic reads, “To be honest, this year so far has been really tough. We’re losing a lot more than we’re making: just over 2.5x more, actually.”",
+    "For many small businesses, owners see an influx in revenue during the holiday season, which Marcello said can come with its own pressure to hit the goals and sales needed to budget for the upcoming year.",
+    "But running a small business is “always a risk,” Marcello said. There is also the long path for this era of 15th Ave small businesses to navigate as the neighborhood awaits a massive redevelopment in the heart of the commercial strip right next door to Station 7.",
+    "Earlier this year, Ada’s Technical Books closed after its 16-year-long run .",
+    "In September , CHS reported the shuttering of three 15th Ave establishments: Rione XIII , Rubinstein Bagels , and Bar Vacilando due to building and landlord issues.",
+    "Now, the darkened businesses’ empty windows face Station 7 and Marcello said she feels the weight of their absence.",
+    "“Even going into the shop the other day, I was really excited. I was like, ‘Wow, I got a parking spot so easily, this never happens,’” Marcello said. “And then I had to sit with that and then realize, ‘Oh, that’s because people aren’t really on the street as much anymore.’”",
+    "Station 7, the gift shop, resides in Capitol Hill’s historic Fire Station 7 which was built in 1920, decommissioned a few decades later, and revived in 1970 by the community-based, architectural and design firm, Environmental Works or EWorks.",
+    "EWorks has owned and operated out of the firehouse since the 70s, providing architectural and urban planning services to primarily under-served communities and organizations across Washington.",
+    "Marcello said it has been “very reassuring” to know the firm is taking care of upkeep on the more than 100-year-old building, taking the responsibility off her shoulders and into safe hands.",
+    "“We love the building. We love where we’re at,” Marcello said, with no current plans to move or do any major renovations. “We really want, in this transition, for people and customers to walk in and still feel very much familiar in the same place that they’ve been going to.”",
+    "Station 7 opened in the building in the summer of 2015 — before that, the space was home to the last video rental shop on Capitol Hill , On 15th Video .",
+    "That is the past. The future is coming. Station 7 is lined up to get somewhere around 172 new neighbors in one of the biggest changes ever for the street in a six-story redevelopment of the old QFC and parking lot just north of the old firehouse.",
+    "In Station 7’s more immediate future, Marcello encourages customers to treat holiday shopping like it is “voting with your dollars,” a motto she heard from a fellow local business enthusiast and carries with her.",
+    "“As people want life to be more and more convenient, people are sometimes stepping away from more intentional buying,” Marcello said. Station 7 prides itself on sourcing local and handmade goods, with over 70% of its in-shop products belonging to local, women-owned businesses, according to its website.",
+    "“I’m definitely hopeful that people will continue to see the value in buying from makers in our community.”",
+    "Marcello also said she is in the process of setting up various workshops for the upcoming winter months, including an upcycled gift wrapping event and inviting a watercolor artist to host a class.",
+    "Station 7 will also join 15th Ave businesses in the second annual Capitol Hill Holiday Wine Walk on December 9 , which Marcello said “will just be another really fun moment for the neighborhood to come together.”",
+    "To stay updated on Station 7 news or upcoming events, visit its Instagram or station7seattle.com ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/53290991_2025653364149919_6485445757066280960_n.jpg?fit=96%2C96&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-9thaveefortwoofcapitolhillswildneighbors",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Pikes/Pines | A quiet night on 19th Ave E for two of Capitol Hill’s wild neighbors",
+   "author": "CHS Staff",
+   "date": "2026-11-15",
+   "url": "https://www.capitolhillseattle.com/2026/11/pikes-pines-a-quiet-night-on-19th-ave-e-for-two-of-capitol-hills-wild-neighbors/",
+   "paras": [
+    "Thanks to neighbor Randy for sharing this 19th Ave E scene",
+    "A neighbor in the CHS Facebook Group shared this otherworldly scene of urban nature from Capitol HIll’s 19th Ave E — a mother and child making their way through the city on a drizzling autumn night.",
+    "CHS has noted our cervine neighbors here and there over the years. In 2023, the Seattle Parks Department told us that deer that took up residency in Volunteer Park that summer were welcome to stay as long as they wanted .",
+    "As this Pikes/Pines essay from that summer shared, Black-tailed Deer (*Odocoileus hemionus columbianus*), a subspecies of Mule Deer, are residents on Capitol Hill, making appearances in green spaces like Volunteer Park and Interlaken Park .",
+    "Unlike populations that migrate long distances, some urban deer thrive locally because parks and greenbelts provide year-round forage along sunlit forest edges and shelter far from predators like cougars. Requiring a relatively small territory, they adapt to dense city pockets.",
+    "Deer that weren’t born in Seattle typically arrive like the rest of us — through juvenile dispersal. Usually young bucks push out to establish new territories, moving gradually inward from surrounding suburbs like Shoreline, Renton, and Burien. To bypass busy highways and dense commercial zones, they follow ribbons of natural cover such as steep wooded ravines, creek drainages, overgrown railroad corridors, and power-line right-of-ways that link suburban forests to city parks. Because Black-tailed deer are strong swimmers, they also navigate along riverbanks like the Duwamish, traverse Puget Sound beaches at low tide, and even swim across channels like the Lake Washington Ship Canal to reach isolated greenbelts, covering the final residential blocks under the cover of darkness.",
+    "Dispersing deer reach an area like Interlaken Park by following Seattle’s network of lakeside wetlands, ravines, and greenbelts rather than crossing the dense downtown grid. From the south, they can travel along the Lake Washington shoreline through parks like Seward and Frink into the Washington Park Arboretum , then make a short nighttime crossing into Interlaken. From the north, deer dispersing down wooded ravines like Ravenna Park can swim across the Montlake Cut from Union Bay straight into the Arboretum, or follow vegetated I-5 and Portage Bay embankments through Lake View Cemetery and Volunteer Park.",
+    "Once inside the Interlaken–Arboretum–Volunteer Park triangle, surrounding highways and dense city blocks act as a barrier, turning the greenbelt into a self-contained urban forest where arriving deer stay put.",
+    "Biologically, these ruminants are well-equipped for Seattle, using a tough upper dental pad to pull vegetation and a four-chambered stomach to ferment high-fiber foods like leaves, fruit, and lichen. When threatened, they can sprint up to 40 mph, leap high fences, or escape using a bouncing gait known as pronking. Because they are primarily active at dawn and dusk, they often go unnoticed.",
+    "If you see them, appreciate their presence while maintaining a safe, respectful distance. And snap a picture or two to share with the neighborhood."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/907817234_2081430252556686_2063017235508832113_n.jpg?resize=584%2C779&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-eslegitshopriteripexcelsiorbuildingopens",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Capitol Hill guerrilla crosswalk goes legit, ShopRite RIP, Excelsior building opens",
+   "author": "CHS Staff",
+   "date": "2026-11-15",
+   "url": "https://www.capitolhillseattle.com/2026/11/this-week-in-chs-history-capitol-hill-guerrilla-crosswalk-goes-legit-shoprite-rip-excelsior-building-opens/",
+   "paras": [
+    "Three years later, E Olive Way’s guerrilla crosswalk is now legit",
+    "Seattle Public Utilities will roll out one free battery pick-up a year in 2026 — And is sorting out how to include apartment dwellers",
+    "Seattle Police investigating as man found seriously injured dies near Freeway Park — UPDATE",
+    "Police make arrest in September deadly shooting at 10th and Pike",
+    "With Capitol Hill neighborhood convenience store ShopRite gone, 15th Ave E now significantly less convenient — UPDATE",
+    "‘Time to let that go’ — Capitol Hill’s Century Ballroom will close in 2025",
+    "No, Bob, coyotes are not a Seattle public safety problem",
+    "With Georgetown shutdown, Elysian Brewing doubling down on overhaul of its ‘beloved’ Capitol Hill original — UPDATE",
+    "Charge your phone — ‘Anomalously strong storm system’ will make for windy night in Seattle",
+    "City of Seattle planning addition of ‘children’s play area’ to popular nude hangout Denny Blaine Park — UPDATE: ‘Private donation’",
+    "Customers: Capitol Hill Bartell Drugs store set to join wave of closures — UPDATE",
+    "‘Stop the Skip’ — Seattle Subway calls for support for Midtown Station in light rail expansion plans",
+    "It is only three blocks but Pike readied for big, bike-friendly one-way change on Capitol Hill",
+    "While SDOT waits for funding, somebody painted a guerilla crosswalk at E Olive Way and Harvard — UPDATE: Washed away",
+    "911 | Police surround 15th Ave 7-Eleven after reported gunpoint hold-up — UPDATE: 11th/Union shooting",
+    "Fais de beaux rêves, Joe Bar — The French Guys are moving in",
+    "Pikes/Pines | A Capitol Hill guest for the holidays, the Brown Marmorated Stink Bug",
+    "Seattle rolling out new traffic cameras to bust transit lane violators and drivers who ‘block the box’",
+    "Kaiser Permanente reluctant to act on Capitol Hill surface parking lots",
+    "Seasmith: Capitol Hill Station will have an H Mart and a new home for Glo’s — of course it will also have a coffee shop",
+    "Sawant picks another fight for tenants, this time over busted boiler on First Hill",
+    "Katsu Burger Capitol Hill coming to 12th Ave",
+    "#pacifiquenorthwest — L’Oursin washes ashore at 14th and Jefferson",
+    "CHS Pics | ‘X’ marks the spot above Capitol Hill’s newest ‘luxury community,’ the Excelsior Apartments",
+    "How a Capitol Hill swastika was painted over: ‘LOVE WINS’",
+    "Fire burns Capitol Hill’s Galerias in smoky Broadway blaze",
+    "Occupy Capitol Hill | Broadway businesses demand ‘immediate results’ in camp clean-up — UPDATE",
+    "Capitol Hill carjacker makes it only two blocks before crash",
+    "Police say no foul play as another man found dead at Club Z",
+    "Rockers behind Queen Anne bar Solo ready to usher in new era at Capitol Hill’s Rosebud"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-eansportsuesmiraclemississippicruiseship",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+   "author": "Ava Pukatch",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+   "paras": [
+    "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2882x1746+0+0/resize/2882x1746!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F83%2F46%2F2a8840234f4db5747471e0da5f83%2Fap26317811767503.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-etotoxicdustareindangerofbeingrolledback",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+   "author": "Howard Berkes",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+   "paras": [
+    "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
+   ],
+   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6039311",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-75midtermslegislaturesstatesdemocratsgop",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+   "author": "Saige Miller",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+   "paras": [
+    "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4032x3024+0+0/resize/4032x3024!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcb%2F9a%2Fbd6787154ee2b81abbbf783d0aec%2Fimg-6611.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-eingheumannnewgenerationdisabilityrights",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+   "author": "Jonaki Mehta",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+   "paras": [
+    "The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7952x5304+0+0/resize/7952x5304!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F13%2Ff8%2Fb95af317401cb54343937619e0f7%2Fbeing-heumann-photo-0103.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-4newmexicofreeuniversalchildcarefamilies",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+   "author": "Julie Depenbrock",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+   "paras": [
+    "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+    "(Image credit: Nina Alexandria Riggio for NPR)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7440x4962+0+0/resize/7440x4962!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2Fe0%2F3d5979dc4a7ca8677703331dfaec%2Funiversalchildcare-npr-10-30-2026-177.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-114nxs16041152judgetrumpgolfcourseblocks",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
+   "author": "The Associated Press",
+   "date": "2026-11-15",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+   "paras": [
+    "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2666+0+0/resize/4000x2666!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff3%2Ff7%2F9117b9b745219e9aa5214fb267c0%2Fap26318721671488.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescwdr1dmn563doatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Staggered age of consent to be discussed after Brand case, minister says",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescm3eg8x9zkvnoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Four people have been arrested on suspicion of causing death by dangerous driving, police say."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c47/live/464f7b70-e0e6-11f1-a701-fddedf244c16.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6m25zg88k45oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6jd7k7g57x5oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de9b/live/b551c6d0-e010-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqr7gn1zmlj1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Minister backs legal right to job support for young people",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The work and pensions secretary said the level of support currently on offer was too vague."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e89/live/00849640-e0f3-11f1-a701-fddedf244c16.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eosc6pw4rl00lrjoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc34/live/e2a8fc70-e11e-11f1-b441-2b33b063138f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-6nov15nflweek10lionsvpatriotsandmorelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "NFL week 10: Lions thrash Patriots, Vikings v Packers and more – live",
+   "author": "Graham Searles",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
+   "paras": [
+    "Drake Maye injured as Lions beat Patriots 35-10 Get in touch: email Graham and follow us on BlueSky",
+    "Lions running back Jahmyr Gibbs has tied HoF’er Terrell Davis for the most touchdowns (61) by a player in his first four seasons in NFL history",
+    "Chiefs quarterback Patrick Mahomes needs one touchdown pass against the Falcons to overtake Peyton Manning (327) for the most touchdown passes by a quarterback in his first 10 seasons, including the playoffs",
+    "With a win at the New York Jets, Josh Allen can surpass Patrick Mahomes (95) for the second-most regular season wins by a starting quarterback in his first nine seasons"
+   ],
+   "img": "https://i.guim.co.uk/img/media/138b3e5a36d00c06601a16a56ebefd2fbc871bd3/268_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a08402554fc9b75975080370daf7e833",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026nov15saturdaynightlivejohnmulaneyhost",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Saturday Night Live: is John Mulaney the best modern host we have?",
+   "author": "Zach Vasquez",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/15/saturday-night-live-john-mulaney-host",
+   "paras": [
+    "The comic returns for the seventh time for the best episode so far this season which takes aim at tech bros and brings back a former cast member as guest",
+    "This edition of Saturday Night Live opens at the CIA headquarters. In the wake of the Nvidia CEO Jensen Huang stepping down after details of his extramarital affairs, including one with an accused Chinese spy, came to light, the agency has called together a meeting of the nation’s top tech billionaires: creepy Peter Thiel (James Austin Johnson), robotic Sam Altman (Ben Marshall), awkward Dario Amodei (Jane Wickline), and the insufferable duo of Mark Zuckerberg (Andy Dismukes) and Elon Musk (Jeremy Culhane).",
+    "An agent (tonight’s host, John Mulaney) attempts to school them on how not to get honeypotted. Per a helpful Venn diagram: “On this side we have beautiful women, and on this side we have people who would be interested in your shared opinions and interests. I cannot stress this enough: there is no overlap.” He fails to get through to the group (especially the middle-school-like Musk, whom he sprays with water to keep on track), so he hands things over to Jensen “Hide Your Wife” Haung himself, played by a returning Bowen Yang. Yang doesn’t attempt much of an impression, but he certainly looks the part thanks to some white hair dye and a black leather jacket."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0c06ebf3ed4520610dd70cf2ffa984d19a18783e/83_0_834_667/master/834.jpg?width=140&quality=85&auto=format&fit=max&s=59ffeb80ae05900d7634409c37f646d6",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ree2026nov15smartfridgeinternetappliance",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Why would anyone want a smart fridge?  | Dave Schilling",
+   "author": "Dave Schilling",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/15/smart-fridge-internet-appliance",
+   "paras": [
+    "After a hack in France, internet-enabled appliances are looking even less appealing – especially before the holidays",
+    "We are deep into the holiday season now, past Halloween and a mere two weeks away from American Thanksgiving.",
+    "I’ve already given up taking care of my body, surrendering fully to gluttony, vices, and going to bed at 7pm because it’s pitch black outside. I’ve begun to hibernate like a slothful bear, my blanket and pillow never too far from my grasp. The only thing closer to my hands than my bedsheets is a slice of cold pizza. I just want to eat in peace, thank you very much."
+   ],
+   "img": "https://i.guim.co.uk/img/media/3f692201684dc0d24c918520212037c190935823/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=16e9eac05768b2cab7eb14f75b71334a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ancomtravel2026nov15cruiseshippopularity",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘You unpack once’: despite reports of ‘poop cruises’ and murder, cruise ships are more popular than ever",
+   "author": "Eric Berger",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/travel/2026/nov/15/cruise-ship-popularity",
+   "paras": [
+    "High-profile crimes and disease outbreaks obscure the fact that the big ships are largely safe – and seeing record numbers of bookings",
+    "This month, there has been a swell of stories about things going wrong on cruises.",
+    "A man was arrested in Texas after he allegedly killed a woman during a voyage through the Caribbean. A pianist on a Royal Caribbean cruise from California was rescued by two fishers in the Pacific Ocean after he went overboard. And Singapore seized the MV Odyssey, a US-operated cruise ship that was supposed to offer retirees a “permanent” life at sea. The operator ran out of money because of increased fuel prices and dropped all its passengers off in Cambodia."
+   ],
+   "img": "https://i.guim.co.uk/img/media/96d4f65f7543c986ac1f1b15cc9409c9f2fe473f/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=91279e2aadff148c84936cccffb99850",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-americanartistbackatheartofimpressionism",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
+   "author": "Kim Willsher in Paris",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/artanddesign/2026/nov/15/reclaiming-mary-cassatt-putting-overlooked-american-artist-back-at-heart-of-impressionism",
+   "paras": [
+    "New exhibition restores painter’s place as leading figure in French movement that revolutionised art",
+    "As a painter, friend, and collaborator of Edgar Degas, who exhibited with impressionist artists including Claude Monet and Camille Pissarro, Mary Cassatt was at the heart of the 19th-century movement that emerged in France and revolutionised art.",
+    "She was also a woman and foreign – “American, American through and through” is how she described herself. As a result, in the 100 years since her death, Cassatt has been frequently overlooked in the country where she produced her best work."
+   ],
+   "img": "https://i.guim.co.uk/img/media/79380cfbee9eec0d62da0a84e1b5ebcee4ec5bcd/176_0_4453_3564/master/4453.jpg?width=140&quality=85&auto=format&fit=max&s=e8607f7f0daf67be7202792e9f9a158a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ruciatingwhyaresufferersstilljudgedforit",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
+   "author": "Tim Dowling",
+   "date": "2026-11-15",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/gout-is-on-the-rise-and-excruciating-why-are-sufferers-still-judged-for-it",
+   "paras": [
+    "About 1.6 million people in the UK have this agonising condition, but it is often viewed as a comical malady brought on by overconsumption and idleness. What can be done to end the stigma?",
+    "Brett McAllister-Byrne was in his early 30s when he first noticed a sharp ache in his ankle and big toe. “I felt it the night after playing football, and I thought I must have had a knock or something,” he says. “But then it just got worse and worse.” The next morning McAllister-Byrne, an urban planner, was in too much pain to go to work. When he described the episode to his family, they suggested it might be gout.",
+    "“I was like, really?” he says. “Can you get that in your 30s?”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/016add37396a0395dc0a24bb3e5ffa7d5677e476/1027_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=344263d11fdf55be6530095afb79e0f3",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-enewscreeningguidelinesexplainswhy296645",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "Prostate cancer testing now urged for men in their 50s and 60s – a lead author of the new screening guidelines explains why",
+   "author": "<name>Andrew Wolf, Professor Emeritus of Medicine, University of Virginia</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/andrew-wolf-2768776\"/>",
+   "date": "2026-11-15",
+   "url": "https://theconversation.com/prostate-cancer-testing-now-urged-for-men-in-their-50s-and-60s-a-lead-author-of-the-new-screening-guidelines-explains-why-296645",
+   "paras": [
+    "The American Cancer Society announced on Nov. 12, 2026, that it has released major changes to its prostate cancer screening guidelines to improve detection and treatment of the disease.",
+    "The Conversation asked Dr. Andrew Wolf , a physician at the University of Virginia who was one of the lead authors of the new guidelines , to walk readers through the changes and why they were made.",
+    "The biggest change is that we are making a proactive recommendation to screen for prostate cancer . Previously, we recommended that people talk with their healthcare provider to decide whether or not screening is right for them.",
+    "Our new recommendations vary by age and by a person’s risk of developing prostate cancer.",
+    "For people at average risk of developing prostate cancer, we recommend they be screened with the prostate-specific antigen, or PSA, blood test every two years from age 50 through 69. PSA is a protein that prostate cells make. Cancer and other conditions can cause PSA levels to rise.",
+    "People at higher risk, including Black men and men with a strong family history of prostate cancer, should be screened annually from age 45 to 69. A strong family history means having a family member who was diagnosed with prostate cancer before age 65, or multiple family members diagnosed at any age. People with a single family member diagnosed at age 65 or older should be screened every two years from age 45 years to age 69 years.",
+    "For people ages 70 to 74, we recommend they talk with their healthcare provider about whether or not to continue screening. Because there is uncertainty about the benefit of screening for people in this age group, decision-making around screening depends on their personal preferences, overall health status and life expectancy.",
+    "For those over age 74, we recommend against prostate cancer screening. The potential harms of screening, such as more invasive follow-up tests and treatment, are likely to exceed the benefits for people in this age group.",
+    "Finally, we recommend against using a digital rectal exam to screen for prostate cancer, as it is less effective than the PSA test . The digital rectal exam may still be helpful when further evaluating elevated PSA levels or symptoms related to the prostate gland.",
+    "The past decade has seen mounting evidence supporting the benefits of using the PSA blood test to screen for prostate cancer.",
+    "The ability of the PSA test to reduce the risk of death from prostate cancer or of being diagnosed with metastatic disease are actually greater than researchers previously thought.",
+    "At the same time, there have been significant developments to reduce the potential harms associated with prostate cancer screening, including false positive PSA test results and diagnosis and treatment of prostate tumors that are unlikely to harm patients in the long-term.",
+    "Black men have an approximately two-thirds higher risk of developing prostate cancer compared with white men. They are also at greater risk for having more advanced disease at the time of diagnosis. These disparities are likely due to a combination of genetic, environmental, social and healthcare access factors .",
+    "Men with a family history of prostate cancer in a close relative – such as a parent, sibling or child – are also at elevated risk.",
+    "There are also a number of genetic mutations, such as BRCA2 , that confer significantly elevated risk of prostate cancer. Though screening recommendations for these cases are beyond the scope of our guideline, several professional medical organizations, including the National Comprehensive Cancer Network and the American Urological Association , have issued recommendations for screening people with these high-risk mutations.",
+    "For years, clinicians believed that the benefits of PSA screening were uncertain and didn’t necessarily outweigh the potential harms. This stance was in part because of the results of two large prostate cancer screening trials that were published in 2009. One, a U.S. study , found no benefit to screening; the other, a European study , found only a relatively small benefit.",
+    "However, it later became clear that the U.S. study was seriously flawed in such a way that it couldn’t have shown a benefit: Almost 90% of the men in the control group – that is, the group that wasn’t supposed to get screened – actually did get screened, and many of the men with abnormal PSA levels didn’t follow-up.",
+    "Conversely, most of the men in the European study who were randomized to standard care – no testing – instead of screening did not, in fact, get a PSA test, so it was more of a true comparison of the effect of screening versus not screening.",
+    "After researchers followed patients for over two decades in the European study, the effects of screening became clear: Screening reduced the risk of dying from prostate cancer by 13%. And about 500 men needed to be screened to avert one death from prostate cancer.",
+    "This may not sound very impressive, but it’s comparable to other routinely offered cancer screening tests, such as mammography for breast cancer . And the proportion of people needing to be screened to save a life would be significantly lower if extrapolated to a lifetime of screening starting at age 45 or 50, rather than the average number of two screenings that men received in the study.",
+    "The U.S. Preventive Services Task Force also has its own prostate cancer screening guidelines. The task force’s guidelines currently recommend that clinicians not screen for prostate cancer unless the patient indicates a preference to proceed. At the time of the task force’s last update in 2018 , it determined that the potential benefits and harms of screening were too closely balanced to recommend screening.",
+    "The task force has been in the process of updating those guidelines over the past several years. It is possible that their update will more closely align with that of the American Cancer Society.",
+    "I do think we have both sufficient evidence of benefit and sufficient reduction of the risks to now proactively recommend screening. Where the two guidelines do align is that both recommend that patients be informed of the benefits, risks and limitations of prostate cancer screening so they know what they’re getting into.",
+    "It is likely that our new screening recommendations will be covered by most insurers. However, patients may have out-of-pocket costs for further testing their doctor orders as a result of an abnormal PSA level.",
+    "Even though the benefits far outweigh the risks, there may be legitimate reasons why some people may not wish to undergo screening.",
+    "Some people might want to avoid the possibility of needing to get a prostate biopsy , which is how clinicians diagnose prostate cancer if a patient has an elevated PSA and an abnormal follow-up MRI scan or biomarker test. Prostate biopsies are uncomfortable, and they may cause some bleeding or occasionally an infection.",
+    "Some people may want to avoid the possibility of needing to undergo active surveillance if they discover they have a tumor that isn’t growing aggressively . Active surveillance involves periodic biopsies, MRI scans or both, which can be inconvenient and anxiety-provoking.",
+    "Some people may want to avoid the potential side effects of treating early-stage prostate cancer with surgery or radiation, which can cause sexual, urinary and bowel problems.",
+    "Forgoing screening, however, also means forgoing the opportunity to find cancer at its earliest stages, when the chance for a cure is very high.",
+    "Andrew Wolf serves as Chair of the American Cancer Society's Guideline Development Group. This is a volunteer position. Opinions expressed in this article are those of the author and do not necessarily reflect those of the American Cancer Society."
+   ],
+   "img": "https://images.theconversation.com/files/771974/original/file-20261114-64-jbcm3u.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-angssuccessorwhethertheboardlikesitornot",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Who should run Nvidia? Our picks for Jensen Huang’s successor, whether the board likes it or not",
+   "author": "Todd Bishop",
+   "date": "2026-11-14",
+   "url": "https://www.geekwire.com/2026/who-should-run-nvidia-our-picks-for-jensen-huangs-successor-whether-the-board-likes-it-or-not/",
+   "paras": [
+    "Nvidia’s board says it’s too early to speculate about who will succeed Jensen Huang. Sorry, we’re having too much fun coming up with names.",
+    "The board said in a statement Friday that it’s still choosing a search firm and hasn’t formally engaged any candidates. That came after the Financial Times reported that the board had approached Arm CEO Rene Haas — a name John had presciently floated when we recorded this week’s GeekWire Podcast on Thursday.",
+    "Nvidia announced Huang’s resignation Thursday, a day after the New York Times reported that he’d had an affair with an Nvidia executive who reported to him. Days earlier, he admitted to an affair with a woman U.S. intelligence officials reportedly suspected of being a Chinese spy.",
+    "Colette Kress , the company’s longtime CFO, is serving as interim CEO. She spent 13 years at Microsoft earlier in her career.",
+    "Two major Nvidia investors, Altimeter Capital’s Brad Gerstner and Atreides Management’s Gavin Baker, asked the board to run a deliberate search that leaves open “the potential return of Jensen Huang.” Elon Musk said on X that he was signing a petition to reinstate Huang.",
+    "The organizers of one, called “ Stand with Jensen ,” say it has more than 108,000 names, including more than 5,600 people who identify themselves as current Nvidia employees.",
+    "The case for Haas: The Arm CEO spent about seven years at Nvidia, rising to vice president and general manager of its computing products business, before joining Arm in 2013. He became Arm’s CEO in February 2022, when Nvidia’s $40 billion deal to acquire Arm collapsed amid regulatory opposition. SoftBank, Arm’s majority owner, kept Nvidia’s $1.25 billion prepayment.",
+    "Arm, based in Cambridge, England, designs processor technology that’s ubiquitous in smartphones, and licenses it to other chipmakers. That includes Nvidia, whose Grace data center CPU , paired with its GPUs in AI systems, is built on Arm cores. Amazon’s Graviton and Microsoft’s Cobalt server chips also use Arm designs.",
+    "Haas is one of several candidates, and there’s no guarantee he’ll be offered the job or take it, the FT reported.",
+    "He also has a link to Harvey Jones, the longtime Nvidia director named the company’s first board chair this week. Haas was vice president of sales at Tensilica, a chip-design company, from 1999 to 2004, according to his LinkedIn profile. Jones co-founded Tensilica and chaired its board until chip-design software maker Cadence acquired it in 2013.",
+    "Haas has also seen Huang’s resistance to succession planning firsthand. “He didn’t like the idea,” Haas said in a 2024 interview, as quoted by the New York Times this week. “He felt it would create competition among executives and be divisive.”",
+    "One complication: SoftBank named Haas CEO of SoftBank Group International in April, helping coordinate chip and AI companies in its international portfolio while he continues to run Arm. The FT reported that the appointment was aimed at pushing forward Project Izanagi , SoftBank’s AI chip effort launched to compete with Nvidia.",
+    "He knows Nvidia from the inside, but he also knows what it’s like to run a public company — which matters for a board searching in the middle of a crisis.",
+    "John’s argument on the podcast: Nvidia needs someone who can shepherd a company through turmoil, not just a great technologist. Think Alan Mulally going from Boeing to Ford, or Dara Khosrowshahi moving from Expedia to Uber after Travis Kalanick’s ouster.",
+    "What the betting markets say: On Kalshi , Ian Buck , the Nvidia vice president who created the CUDA software platform, was the favorite at midday Friday. By midday Saturday, Haas had overtaken him, at 25% to Buck’s 18%. Kress was at 10%.",
+    "The Axios list of 11 names also includes Apple Executive Chair Tim Cook, for whom President Trump lobbied on Truth Social (“A Legend replaces a Legend!”), along with AMD CEO Lisa Su and Google Cloud CEO Thomas Kurian .",
+    "A Northwest wildcard: Analysts have also floated Sanjay Mehrotra , CEO of Boise, Idaho-based Micron Technology, whose memory chips power Nvidia’s AI servers. Mehrotra co-founded SanDisk in 1988 and has run Micron since 2017 .",
+    "The AWS chief: Matt Garman has run Amazon Web Services since June 2024, overseeing a business with a $142 billion annual revenue run rate at the end of last year. He started at Amazon as an MBA intern in 2005, joined AWS full time in 2006 as one of its first product managers , and later led its compute business and then its sales and marketing organization.",
+    "Another Amazon pick: We’d also look at Peter DeSantis , who now leads a new organization that includes Amazon’s AI models, custom chips and quantum computing, reporting directly to CEO Andy Jassy.",
+    "DeSantis joined Amazon as a software developer in 1998. He led the EC2 team from Cape Town, South Africa, through its 2006 launch, and spearheaded Amazon’s 2015 acquisition of Annapurna Labs, the Israeli chip designer behind its custom silicon.",
+    "In 2018, DeSantis unveiled Graviton . In June, he told Bloomberg that AWS was in talks to sell its Trainium AI chips to other companies for their own data centers.",
+    "He knows chips, data centers and AI infrastructure at enormous scale. The catch, as John noted: he’s never been a CEO, and the board may want that experience given the circumstances.",
+    "The other Amazon name: Dave Treadwell took over AWS compute and machine learning services in August. Treadwell spent 27 years at Microsoft, where he worked on Windows NT, .NET and Xbox and rose to corporate vice president, before joining Amazon in 2016.",
+    "The Microsoft bench: On the podcast, Todd ran through a few Microsoft executives who would bring relevant experience:",
+    "The insider with Microsoft roots: Nick Parker , a 26-year Microsoft sales veteran, joined Nvidia in August as executive vice president of worldwide field operations, with a pay package worth more than $40 million. He’s new, but he already runs the team that sells Nvidia’s chips to the world’s largest companies.",
+    "One more angle: Whoever gets the job will face a growing list of customers trying to reduce their reliance on Nvidia, including Amazon. In his annual shareholder letter in April, Jassy wrote that Amazon’s chips business would have an annual run rate of about $50 billion if it sold chips to AWS and other third parties the way other chipmakers do.",
+    "Jassy said it’s “quite possible” Amazon will sell racks of them to third parties in the future.",
+    "In a Bloomberg interview recorded Oct. 14, Huang said he hoped his successor was already inside the company. The board has said it will consider both internal and external candidates.",
+    "Listen to our full discussion on this week’s GeekWire Podcast ."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/nvidia-succession-montage-final-1200.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-resoutageoverastheworlddigsoutofitsinbox",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -131,7 +746,7 @@
    "date": "2026-11-14",
    "url": "https://www.geekwire.com/2026/nvidias-ceo-meltdown-who-could-replace-jensen-huang-and-our-latest-ai-tips-and-tricks/",
    "paras": [
-    "This week on the GeekWire Podcast, we react to the sudden downfall of Nvidia CEO Jensen Huang, who resigned Thursday after reports of extramarital affairs, including one with a woman suspected of being a Chinese spy.",
+    "This week on the GeekWire Podcast, we react to the sudden downfall of Nvidia CEO Jensen Huang, whose resignation Nvidia announced Thursday after reports of extramarital affairs, including one with a woman suspected of being a Chinese spy.",
     "We discuss the governance gaps at the world’s most valuable chipmaker, the long but low-profile Microsoft career of interim CEO Colette Kress, and who could take over permanently, including candidates from Microsoft, Amazon and the chip industry.",
     "In the second segment, Todd explains how AI tools are changing the way he reports, with help in live interviews, research in news archives and an analysis of GeekWire’s coverage that shows Pacific Northwest M&A and IPO activity picking up this fall.",
     "Inspired by Colette Kress’s new role, the GeekWire Trivia Challenge looks at what some of Microsoft’s former finance executives have done after leaving the company.",
@@ -220,8 +835,8 @@
     "Neighbors are calling it the Louisa Street Beach since children are having fun playing games in the sand. The two trees to the north have mulch and edging to keep users off the tree roots and we will do additional planting this Fall. This park gets lots of kayak use - a self-service rental is across the street. It also generally has someone simply sitting there and enjoying the day—in all kinds of weather.",
     "Lynn Street Mini Park has a range of amenities and terrific views. Its sandy shoreline is a favorite launching spot for kayakers, and its generously furnished street level terrace allows one to glance above the water enthusiasts to Lake Union. Framed by houseboats to the south and a rare over the water condominium to the north, the park provides one of the more unique and beloved edges along the lake. Although not part of SDOT’s Street End program, and officially a Seattle City Park, its designation matters not for appreciating its fine qualities.",
     "The East Boston Street street end is easily missed unless one has a map in hand. The street end itself is really just the sidewalk along Fairview Avenue – there is no access to the water. Instead, and if one picks just the right viewing angle to snatch a view between the heavily vegetated shoreline one is surprised to see a picturesque assembly of houseboats framing a view across the lake to Queen Anne.",
-    "East Newton Street, also known as Terry Pettus Park , is currently undergoing renovation. Prior to its being closed I was able to visit it on a fine fall day in 2023. This particular street end, at least prior to its renovation, had that rarest of amenities: a dock. The dock not only allows one a different way to access the water but it also provides a view back to the shoreline. It is hard to pick a favorite among the many great street ends along Eastlake Avenue, but Newton Street would certainly be a contender.",
-    "All construction permits for the renovation have been obtained and I’m sure the neighborhood eagerly awaits its reopening. Click here for project updates."
+    "East Newton Street, also known as Terry Pettus Park , is currently undergoing renovation. Prior to its being closed I was able to visit it on a fine fall day in 2023. This particular street end, at least prior to its renovation, had that rarest of amenities: a dock. The dock not only allows one a different way to access the water but it also provides a view back to the shoreline.",
+    "It is hard to pick a favorite among the many great street ends along Eastlake Avenue, but Newton Street would certainly be a contender. All construction permits for the renovation have been obtained and I’m sure the neighborhood eagerly awaits its reopening. Click here for project updates."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/data-src-image-7494984b-b0f0-41b7-bc18-f3e541c533ef-1-.jpeg",
    "fetched": true,
@@ -325,6 +940,23 @@
    "annos": null
   },
   {
+   "id": "f-kuow-wRTBUWHpDTXBLdXdLS3NrX2Q4bG5XYmZPcWk4oc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Anti-war Seattle Congressman Jim McDermott dies at 89",
+   "author": "",
+   "date": "2026-11-14",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2xLNkxzeDZlczg4MElUS1A2RV94QUhpdkhVQ1RWZ2JWTFA3TWNNUTVBRC1RYmViWkVQZDhHcnJiYzA0YzQ0czJaTGlPUTdpaC1TUmVpRkJDX216eUJUbUFnSnhhS2ZSUHZJZW9meWJ5UFJnSGNrRkQtZTZSZnppTThUaU43ZzdwRTBUWHpDTXBLdXdLS3NrX2Q4bG5XYmZPcWk4?oc=5",
+   "paras": [
+    "Anti-war Seattle Congressman Jim McDermott dies at 89 KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-kuow-5namdjYnR2Yzlia0dkeHIzUDB3aUxYd2haQ2coc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -342,305 +974,6 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lescwvg2l312ylqoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc69vwp09d7vvoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e71/live/0cdca3f0-e009-11f1-b441-2b33b063138f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmg46qgkl7r4oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fc/live/6c07bc50-df75-11f1-a701-fddedf244c16.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescw808ll7x093oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc8n50w445zgpoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Demonstrators armed with placards - and some dressed in costume - assembled at the top of the Royal Mile before marching towards the Scottish Parliament."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a19c/live/42893b00-e03e-11f1-88e1-eb4e155225b3.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6wy9lynq4qnoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea11/live/3adfb390-e05f-11f1-9e26-b3b65586122f.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-7777democratsmidtermswhatsnextconference",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-   "author": "Barbara Sprunt",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-   "paras": [
-    "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3509x2632+213+0/resize/3509x2632!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F64%2F879cc2d14c54a9ec911488b48d94%2Fap26317088763752.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-14nxs16040952faagroundstopairplanetravel",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-   "author": "Ava Berger",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-   "paras": [
-    "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8091x5394+0+0/resize/8091x5394!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F96%2Fe23d590f45f8bbd605875a794fb7%2Fgettyimages-2304485779.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-nxs16040144chileprotestsfuelkaststudents",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Fuel crisis and protests pressure Chile's far-right president",
-   "author": "John Bartlett",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-   "paras": [
-    "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8193x5462+0+0/resize/8193x5462!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fea%2F57%2F7e653aad4c7b8e810540c25313e9%2Fap26309662592247.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ultsrankedchoicevotingnonpartisanprimary",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-   "author": "Ashley Lopez",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-   "paras": [
-    "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5191x3461+0+0/resize/5191x3461!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F04%2F692982c643afb52e86b590ea8647%2Fap26307845117065.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ectiveanewkindofwhitehousepresssecretary",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Perspective: A new kind of White House press secretary",
-   "author": "Scott Simon",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6028743/perspective-a-new-kind-of-white-house-press-secretary",
-   "paras": [
-    "With the White House press secretary job still left unfilled, maybe an AI assistant might be the answer?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x682+0+0/resize/1024x682!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2F60%2Fa9d434ea40a7ae36a18406a56821%2Fap26313796894744.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-0299hegsethimpeachmentdemocratshousetest",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-   "author": "Domenico Montanaro",
-   "date": "2026-11-14",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-   "paras": [
-    "Democrats have been given a huge opportunity with majorities in both the House and Senate — but the balance of priorities, timing, messaging and discipline are all going to be major tests."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2400x1599+0+0/resize/2400x1599!/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa4%2F7f%2F1e1751c144f1bd74d4bf72ab16e1%2Fgettyimages-2244508651.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-terus2026nov14bestholidaygiftsideasguide",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
-   "author": "Nick Mokey, Lauren Gould, Karen Yuan, Tracy Allison, Emily Farris, Richard Baguley, Jon Chan, Tim Stevens, Maria Ricapito, Adam Doud, Juno DeMelo, Heather Balogh Rochfort and Guardian staff",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
-   "paras": [
-    "Shatterproof wine glasses, Jellycat plushies, ‘yoga paws’ and more gifts handpicked by our experts",
-    "Nothing says holiday cheer quite like panic-browsing websites in pursuit of the perfect gift , toggling between 47 open tabs, eyes straining against your screen’s harsh blue light. But finding an item that elicits a squeal of delight from its recipient is one of the best parts of this time of year, when you have a little help.",
-    "So we’ve curated 143 presents to reclaim holiday shopping as a joyous activity. We recruited seasoned writers and shopping experts to get into the holiday spirit early, vetting gifts across categories such as kitchen, home, tech and more. For months, we cooked, ate, traveled, hiked, ran, showered and slept with test products by our side. And we roped in our mothers, cats, dogs and the kids in our lives to make sure these gifts really work for the people (and pets!) they are meant for."
-   ],
-   "img": "https://i.guim.co.uk/img/media/20d2330e5f473bbce3a0a217a7f06fea87fb32a7/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=8c1c1bf27636df70e303038abf60b80c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ews2026nov14lewisclarkindigenousstudents",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
-   "author": "Ashley Stimpson",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
-   "paras": [
-    "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route",
-    "In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europeans beat them to it.",
-    "But Jefferson, an ardent naturalist, had a secondary agenda. He ordered that the expedition also survey the flora and fauna of these landscapes. On their two-year jaunt across the western half of the country, Lewis and Clark kept meticulous journals of the animals and plants they encountered: bison, horned lizards, sage grouse, prairie dogs, wild licorice and catfish, among them. These observations were pivotal in shaping an early understanding of North American biodiversity."
-   ],
-   "img": "https://i.guim.co.uk/img/media/fd3cab3eb7b2ce66614e6f1cb34d1a8ad00a14b4/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=df464b90a4cb85c1f1f4fcd35590fce4",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-v15jamesblunt10chaoticquestionsinterview",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
-   "author": "Sian Cain",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/music/2026/nov/15/james-blunt-10-chaotic-questions-interview",
-   "paras": [
-    "The singer on his love for Ibiza, the weirdest thing he’s done in the name of romance, and being signed up for Celebrity Traitors against his will",
-    "You were a punching bag for such a long time after You’re Beautiful became a massive hit, but your consistent good humour is deeply admirable. Does it ever get tiring?",
-    "It was a surprise, at the beginning. I was just a little guy with a dream. And when you achieve your dream, you think people would be happy for you. For them not to be happy for you, but angry with you, for your song, seems irrational, an overreaction. It is interesting how people generally want to tear people down for achieving their little dreams. But I’d had a real proper job before that [as a captain in the British army]. My friends might have been on operations in Afghanistan or Iraq, so if I were to complain to them at the time saying, “Oh, the Guardian said something really horrid about me and gave me three stars for my album” – they would be able to talk about who had lost their lives or limbs that day, and that put it all in perspective. And perspective is everything."
-   ],
-   "img": "https://i.guim.co.uk/img/media/8d05391f77653139edc13495e968485a7a46ec8b/0_274_2666_2133/master/2666.jpg?width=140&quality=85&auto=format&fit=max&s=844c55d5a162fbb5140a71bdb8104150",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-atedemocratsidentitypoliticsprogressives",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
-   "paras": [
-    "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment",
-    "Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here. However, doing so might mean that you’re racist, homophobic and/or sexist. (Not to boast, but I have a lot of oppression cards to play.) So, you might want to tread carefully, OK?",
-    "That might sound ridiculous, but I don’t make the rules: I’m just taking a page from the corporate Democrat playbook. From Haley Stevens to Hakeem Jeffries, cynically weaponizing identity politics to ward off reasonable criticism seems to be all the rage."
-   ],
-   "img": "https://i.guim.co.uk/img/media/e1aca4984df86a8649a6a559faefbc340d902ea1/399_0_4002_3201/master/4002.jpg?width=140&quality=85&auto=format&fit=max&s=0f081450b6095bff89778911c6f62ee5",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-architectsdreamfivebeautifulecobuildings",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-   "author": "Joe Pinner",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/artanddesign/2026/nov/14/architects-dream-five-beautiful-eco-buildings",
-   "paras": [
-    "From a bamboo gym in Bali to a house made from earth in Wiltshire, these projects show the beauty in sustainable design",
-    "With construction accounting for more than a third of global emissions, sustainable architecture is central to the world meeting its climate targets. The following five creations from around the world exemplify how “green” buildings can also be beautiful."
-   ],
-   "img": "https://i.guim.co.uk/img/media/0495dc059349b25c9cee08f8042edf9458d15d61/379_32_1904_1523/master/1904.jpg?width=140&quality=85&auto=format&fit=max&s=beb273a0cfb88dfe7f07f3fbd394a687",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-26nov14arizonaabortionlawsreligiondoctor",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The abortion doctor who leads with her faith: ‘God is forgiving’",
-   "author": "Melissa Hellmann with photographs by Idara Ekpoh",
-   "date": "2026-11-14",
-   "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
-   "paras": [
-    "Dr DeShawn Taylor runs Arizona’s only Black woman-owned abortion clinic amid rapid legal changes",
-    "When gynecologist and abortion provider Dr DeShawn Taylor has conversations with patients about the afterlife, they ask her if they will be condemned for their choices. To quell their concerns, she shares with them bible verses about free will. “If God wants that vessel, that spirit to get here, God will choose another vessel. You get to say, ‘I’ll pass,’” Taylor said at her clinic one spring afternoon, her short curly hair matching the color of her maroon scrubs. “I think that makes people feel a lot better with that understanding.”",
-    "As the founder and CEO of Desert Star Institute for Family Planning in Phoenix, Arizona, Taylor heads the only Black woman-run abortion clinic in the state, which also boasts a staff of women of color. On a Tuesday in March, pop music wafted throughout the waiting room filled mostly with Black and brown women, some with their children in tow. Bilingual posters about abortion care taped to the wall reflected the diversity of the clinic’s staff and clientele. On 6 February, an Arizona judge struck down state laws requiring patients to receive an ultrasound and to wait at least a day before receiving an abortion. With abortions now more accessible, a steady stream of clients poured into the office the week that the laws were repealed. By mid-March, appointments had petered out to a more manageable about 10 services a day."
-   ],
-   "img": "https://i.guim.co.uk/img/media/23f4ad36bebf54ad78b07e8b1e3989d749794071/0_1352_5243_4193/master/5243.jpg?width=140&quality=85&auto=format&fit=max&s=d0d7edbdb6872aeb6bb39c4b9031dc0a",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-conversation-theoppositeofquellingpublicconcern296663",
    "srcKey": "conversation",
    "cat": "national",
@@ -650,6 +983,7 @@
    "url": "https://theconversation.com/national-ground-stop-response-highlights-critical-errors-in-public-reassurance-saying-nothing-nefarious-did-the-opposite-of-quelling-public-concern-296663",
    "paras": [
     "Thousands of travelers were stranded on Nov. 13, 2026, when the Federal Aviation Administration grounded all domestic flights in the U.S. because of what they said were failures in decades-old air traffic communications systems . Crisis communications expert Shannon A. Bowen , a scholar at the University of South Carolina’s College of Information and Communications, spoke with The Conversation’s Politics and Legal Affairs Editor, Naomi Schalit, about how the Trump administration handled the first day of the crisis.",
+    "This interview has been edited for length and clarity.",
     "Is there a first principle in crisis communications?",
     "The first principle would be to react quickly and react with accuracy, react with everything you know at the moment, truthfully, but always react quickly. Because if you delay until you gather information, a vacuum will ensue. Information fills that vacuum that may not be accurate. And so that’s the enemy of accurate crisis communication, but you want to always speak quickly and be the most authoritative and definitive source, even if very little information is known.",
     "What did we see on the day of the ground stop?",
@@ -676,93 +1010,6 @@
     "Shannon A. Bowen received funding in 2022-2023 from The National Science Foundation as PI on a grant studying disaster management."
    ],
    "img": "https://images.theconversation.com/files/771985/original/file-20261114-64-80wrmw.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C5034%2C3355&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-dstopsayspossibleairolebeinginvestigated",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Officials blame aging FAA telecom gear as U.S. airspace reopens, see no link to Microsoft or AI",
-   "author": "Todd Bishop",
-   "date": "2026-11-13",
-   "url": "https://www.geekwire.com/2026/dhs-chief-sees-no-microsoft-link-to-faa-ground-stop-says-possible-ai-role-being-investigated/",
-   "paras": [
-    "Updated with officials’ explanation of the cause and the reopening of U.S. airspace.",
-    "The nationwide ground stop that halted U.S. commercial air travel Friday was not caused by the Microsoft 365 outage that began a day earlier, federal officials said at an evening news conference, blaming aging FAA telecom equipment that was overloaded with data.",
-    "Homeland Security Secretary Markwayne Mullin opened the news conference by raising the Microsoft outage himself. “I want to make sure everybody understands that there is no connection between this and Microsoft,” he said. “I know a lot of people are making that jump.”",
-    "Transportation Secretary Sean Duffy likewise ruled out a role for SMART, the FAA’s new AI traffic-planning tool, saying it isn’t connected to the core systems controllers use to track flights.",
-    "“There was no possible way SMART would have impacted what happened today,” he said.",
-    "The FAA reopened U.S. airspace at 5:15 p.m. Pacific, more than four hours after the problems began, Duffy said. He said flights would resume slowly, depending on whether airlines had crews available, and some may not depart until Saturday morning.",
-    "Microsoft confirmed in a statement that it had no indication the FAA ground stop was related to its service disruption.",
-    "Asked whether a cyberattack or “rogue AI” could be ruled out, Mullin said there was “nothing completely certain right now,” but “it appears that this was mechanically driven.” He said he could not rule out the possibility of a cyberattack but said there was “zero evidence” of one so far.",
-    "What happened: Duffy said the FAA began seeing unstable radar and communications data at air traffic control facilities across the country at 12:36 p.m. Pacific. Aging switches and routers in the agency’s telecom network “got overloaded with data” and began producing inconsistent information, he said, adding that the FAA still relies on “1980s little copper lines.”",
-    "“Our new IP switches did not go down. It’s the old hardware that went down,” he said. The FAA restored service after deploying fixes to reduce the overloading on its switches, he said.",
-    "Mullin said the overload appeared to have been triggered by new equipment the FAA was installing. As the agency put “patches into the system” and added “new equipment and new technology,” he said, it “was overwhelming the older system.” Neither official said exactly what that equipment was.",
-    "The FAA is in the middle of replacing its legacy telecom network with a modern internet-protocol network. AT&T took over the lead role on that project in August with an initial $74.3 million award, as the FAA works toward a goal of finishing by the end of 2028.",
-    "Duffy and Mullin used the briefing to press Congress for money to finish rebuilding the air traffic control system. Mullin said President Trump has declared the situation a national emergency.",
-    "The administration has asked Congress for an additional $30.1 billion for aviation infrastructure, AeroTime reported . Duffy said at the evening news conference that he wants $50 billion.",
-    "Earlier in the day, Mullin had said officials were looking into a possible link to SMART, including through DHS’s Cybersecurity and Infrastructure Security Agency (CISA). The FAA said Tuesday it was expanding the system to the airspace managed by all 22 of its en route air traffic control centers.",
-    "The agency describes SMART as a cloud-based system that pulls in about 200 data streams, including weather, flight paths and controller staffing, to recommend flight schedules and routes. FAA specialists review its recommendations, and local facilities decide whether to act on them.",
-    "SMART is part of a 12-year, $875 million FAA contract with Boston-based Air Space Intelligence, which denied any connection to the issue. “The current ground stop is not based on or a result of the SMART system, any product of ASI or our integration with FAA and ATC,” the company said.",
-    "The FAA halted departures nationwide shortly before 1 p.m. Pacific. More than 3,500 planes were in the air at the time, Duffy said. It’s the second nationwide ground stop since the Sept. 11 attacks, after a January 2023 failure of the FAA’s Notice to Air Missions system.",
-    "FlightAware counted nearly 7,000 flights delayed or canceled as of Friday afternoon."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-ecom2026blueoriginspacestationonholdmoon",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Blue Origin puts its space station plans on hold to concentrate on moon missions instead",
-   "author": "Alan Boyle",
-   "date": "2026-11-13",
-   "url": "https://www.geekwire.com/2026/blue-origin-space-station-on-hold-moon/",
-   "paras": [
-    "Jeff Bezos’ Blue Origin space venture has decided not to seek further NASA funding for its Orbital Reef space station project in order to tighten its focus on lunar missions.",
-    "For the past five years, Blue Origin has played a lead role in Orbital Reef , alongside partners including Sierra Space and Boeing. In late 2021, Blue Origin won a $130 million contract from NASA in the first phase of the space agency’s Commercial Low Earth Orbit Destinations program, or CLD.",
-    "Now NASA is seeking proposals for the next phase of the program , which will fund the development of orbital outposts to replace International Space Station in the 2030s. Proposals are due on Dec. 8, with contracts expected to be awarded next spring.",
-    "Blue Origin indicated that it will not submit a bid.",
-    "“Blue Origin’s mission is to build a road to space for the benefit of Earth so that millions of people can live and work in space. Establishing a sustained human presence on the moon is a critical step toward that future,” the company said in an emailed statement.",
-    "“As our role supporting NASA’s Artemis and Moon Base missions continues to grow, we’re focusing resources on capabilities that directly advance our lunar projects,” Blue Origin said. “By sharpening that focus, we can move faster on the technologies and infrastructure needed to make lunar permanence a reality.”",
-    "Orbital Reef was once touted as a “mixed-use business park” in space — and was even slated to star in a sci-fi thriller titled “Helios.” But much like that delayed film project, the space station is now on the back burner.",
-    "Orbital Reef isn’t the only initiative Blue Origin has put on hold to prioritize moon missions. In January, the company suspended its suborbital New Shepard program for at least two years for similar reasons.",
-    "Blue Origin is building landers for delivering cargo and crews to the lunar surface for NASA. An uncrewed Blue Moon Mark 1 lunar lander is scheduled for launch early next year, and a crew-capable Mark 2 version is scheduled for testing in low Earth orbit next year during NASA’s Artemis 3 mission.",
-    "Last week , NASA awarded Blue Origin a $94 million base contract, plus a $140 million option, to deliver a nuclear-powered rover to the lunar south pole. Blue Origin also won a spot in NASA’s broader lunar cargo delivery program. In addition, Honeybee Robotics, a Blue Origin subsidiary, will contribute to a lunar power-generating project known as miniCAST.",
-    "Blue Origin is pursuing several other moon development initiatives, including a program called Blue Alchemist that aims to use lunar materials to manufacture solar cells and electrical wire.",
-    "Several competitors are still working on commercial space stations. Voyager Technologies, Airbus and Northrop Grumman lead the Starlab consortium, which received CLD Phase 1 funding from NASA and is expected to put in a proposal for Phase 2.",
-    "Axiom Space and Vast are also developing outposts that could take the place of the ISS. Meanwhile, Marysville, Wash.-based Gravitics is building space station hardware for Axiom and an orbital carrier for the U.S. Space Force ."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2022/02/220202-orbitalreef2-1260x709.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-scoverytoolsaimedatreducinganimaltesting",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Araceli raises $4.5M for drug discovery tools aimed at reducing animal testing",
-   "author": "Lisa Stiffler",
-   "date": "2026-11-13",
-   "url": "https://www.geekwire.com/2026/araceli-raises-4-5m-for-drug-discovery-tools-aimed-at-reducing-animal-testing/",
-   "paras": [
-    "Araceli Biosciences , a Portland-area biotech company, has secured $4.5 million in funding to help commercialize technology and develop new products that support using human cells instead of animal studies to test new drugs.",
-    "The Tigard, Ore., startup offers instruments and software for creating images of cells and automating analysis. Its technologies fall under the umbrella term “New Approach Methodologies,” which includes human-tissue models, computer simulations and AI-based approaches that reduce or avoid experimentation on animals such as mice, rats and monkeys.",
-    "Supporters of the methods, known as NAMs, argue that they can yield better outcomes because animals are not a perfect substitute for humans and can generate irrelevant findings. That can lead to costly, time-intensive development of drugs that fail to perform in people. Advocates also promote the alternatives as more humane.",
-    "The National Institutes of Health announced $84 million in September to build infrastructure for NAMs research at 10 sites nationwide.",
-    "“[T]he efforts signal a significant investment into human-based technologies as the future of preclinical science, aiming to make research faster, more predictive, and more directly relevant to human health,” the NIH said in a release .",
-    "Araceli said it has raised a total of $22.7 million from investors. The new round was led by William Cortelyou and included Fluke Venture Partners, according to PitchBook. The company disclosed Thursday that businessman and animal welfare advocate Jeff Swickard was also an investor.",
-    "Swickard owns 54 auto dealerships across Western states and is a commercial real estate investor with $250 million invested in Portland properties.",
-    "Shawn MacDonald, chief financial officer for Araceli, said Swickard’s “support reflects a belief that we share, which is that better science and more humane science go hand-in-hand.”",
-    "Araceli launched in 2023 as a spinoff from Phoseon Technology, which makes UV LED units for industrial curing and life sciences applications.",
-    "The company said that companies and institutions using Araceli technology include the Max Planck Institute and Evotec in Germany, the Wertheim UF Scripps Institute in Florida, VALID Therapeutics in Boston, and Ginkgo Bioworks, as well as large pharmaceutical companies. It has 30 employees."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Endeavor_PBJ1-1260x784.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -885,58 +1132,6 @@
     "According to the examiner, Elijah J. Coolshaun Goodall died of acute combined drug intoxication including fentanyl and methamphetamine in an accidental overdose. The Seattle man was 35."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-seattlecitycounciltusslesoverflippedvote",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Wilson’s veto stands as Seattle City Council tussles over flipped vote",
-   "author": "CHS Staff",
-   "date": "2026-11-13",
-   "url": "https://www.capitolhillseattle.com/2026/11/wilsons-veto-stands-as-seattle-city-council-tussles-over-flipped-vote/",
-   "paras": [
-    "Mayor Katie Wilson’s veto of Seattle City Council legislation to create a parking permit system for people living homeless in RVs will stand.",
-    "The council voted 5–4 on Thursday to sustain the veto falling a vote short of the majority needed to enact street parking limits and the permitting system for RVs.",
-    "District 3 Councilmember and Council President Joy Hollingsworth voted to override the veto, joining Councilmembers Debora Juarez, Bob Kettle, Maritza Rivera, and bill sponsor Dan Strauss .",
-    "Ahead of the vote, residents, service providers, and business representatives weighed in during a packed hybrid public comment session limited to one-minute addresses per speaker. The majority urged the council to uphold the veto, contending that Seattle lacks sufficient safe parking lots and shelter beds. Outreach workers and unhoused residents warned that tying permits to a rigid, one-time census would lead to towed and impounded homes.",
-    "Speaking to conditions in District 3, one commenter who works with unhoused individuals in Cal Anderson Park argued against banning RVs as a form of “collective punishment” when residents already face severe instability.",
-    "Business leaders from Ballard and North Seattle urged an override to curb illegal drug markets and neighborhood blight.",
-    "Wilson has matched her veto with an executive order focused on immediate service deployment rather than administrative permitting. The order directs city departments to immediately release 2026 outreach funding, fast-track the opening and occupancy of two RV safe lots designed to accommodate 182 residents, and establish a cross-departmental and community working group to troubleshoot right-of-way conditions and address neighborhood impacts using existing laws.",
-    "During debate Thursday, Hollingsworth rejected claims that the legislation passed by the council and vetoed by Wilson was punitive, arguing that preserving the status quo fails both vehicle residents and frustrated neighbors. Pointing to the city’s $228 million homelessness budget and calling the King County Regional Homeless Authority’s execution a “complete disaster,” she demanded accountability and tangible results.",
-    "“It might make us feel good about allocating millions of dollars, but without outcomes, now that is cruel and inhumane,” Hollingsworth said.",
-    "With progressive-leaning Councilmembers Alexis Mercedes Rinck, Eddie Lin, and Dionne Foster voting no, West Seattle’s Rob Saka represented a key swing vote, joining the “no” side against overturning the veto after previously voting for the original bill.",
-    "Saka praised sponsor Strauss for a “herculean effort” on the legislative package while explaining his own decision to flip his vote and sustain the mayor’s veto. Saka framed his shift as exercising the “humility and grace to change your mind” to give the mayor’s executive order a fair shot — emphasizing human dignity, a “carrot and stick” balance of compassion and accountability, and geographic equity for his heavily impacted District 1.",
-    "Tensions flared during closing remarks when Strauss argued that the mayor’s 60-day task force could easily run concurrently with his bill’s built-in review period, characterizing the argument that sustaining the veto represented a “new path” as “duplicitous” and a vote for the status quo.",
-    "Following a point of order raised by Lin over council rules against impugning colleagues’ motives, a visibly frustrated Saka scolded Strauss for “Seattle passive aggressive, subtle slights,” challenging him to take any grievances up directly in their adjacent offices rather than questioning his character or integrity. Strauss maintained that he was merely pointing out a factual overlap in policy timelines rather than attacking Saka’s motives.",
-    "The RV debate comes as the council is winding up final changes to the mayor’s 2027-2028 budget plan including tapping $31 million in JumpStart payroll tax reserves and cutting $22 million in pension transfers to reverse cuts proposed by Wilson to address a looming budget deficit.",
-    "It also arrives as the Wilson administration is shifting its strategies around homelessness including expanded timelines for reaching shelter goals and changes in how encampment removals are prioritized as parks like Cal Anderson generate more than 1,000 citizen complaints about illegal encampments per year.",
-    "With the veto holding, attention now shifts to Wilson’s executive order to expand outreach and safe parking alternatives."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-pointinseattlecentralparkinggarageholdup",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Three reported robbed at gunpoint in Seattle Central parking garage hold-up",
-   "author": "Justin Carder",
-   "date": "2026-11-13",
-   "url": "https://www.capitolhillseattle.com/2026/11/three-reported-robbed-at-gunpoint-in-seattle-central-parking-garage-hold-up/",
-   "paras": [
-    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group .",
-    "A group was robbed at gunpoint on the third floor of the Seattle Central parking garage early last Saturday.",
-    "According to emergency radio updates, police were called to the 1600-block Harvard Ave garage just before 4 AM to a report that three people had been held-up by a suspect armed with a Glock-style handgun with a high-capacity “drum magazine.”",
-    "A male victim suffered an injury to his head during the hold-up and was treated by Seattle Fire.",
-    "The victims told police the suspect had fled in a vehicle.",
-    "The robbery has not been included in the Seattle Police Department’s Significant Incident Reports updates for the East Precinct and came to light through CHS’s routine review of SPD dispatch data. CHS reported here on the changing nature of public information provided by the East Precinct."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1460.jpg?resize=154%2C211&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1107,15 +1302,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-tLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEkoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "FAA lifts nationwide ground stop on flights that halted travel across the US",
+   "id": "f-grist-ZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0koc5",
+   "srcKey": "grist",
+   "cat": "climate",
+   "title": "The affordability election delivered billions for public transit",
    "author": "",
    "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmhyTE93YXZPMU9CRDJjWmJsU0d5cEEwVGdlOXFwSGU0ejBDU1paemNiY2gyWkdsRnVNa05OVEVWMk45QmQ3VWpxRTMwcVRLOUVwcjRhWHduWGtHZlFuaENJLW9oMnlhUjc5MHp1TWNpMDZHdXh5d1RDNkRONnVqNTRiMmNGNVM2WEJYb1oyY1MyNTExUWE2NnlmRGlHbDlsUmVMT2dTYXItRU5vT3FnaWdmYUtLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX29MMjZqdUl0MEFrYTEzYkJfSkJKYzNKV3gtcV9JYnRKeDl5ZUx6M0tNV2xuanMwY05pd3REWEZmYm4xdmpxRW9zSkFtNnJZQmJrZmloOWFzTUQ4YVl6TjJSb3laY3p0T2ZQTFAyam9qVHY1Y21rNWhsZVhwR0I3V1hGeGZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0k?oc=5",
    "paras": [
-    "FAA lifts nationwide ground stop on flights that halted travel across the US KUOW"
+    "The affordability election delivered billions for public transit Grist"
    ],
    "img": "",
    "fetched": true,
@@ -1141,23 +1336,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-JVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2coc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdmFqTlV4cFBoenRwdk1oT09YVWxsZ1hUSklYZHhENldrTUdTSWJ3UkQ0QXJFWEw3ejU5UmNhbUdDLVZpZmQ1eENGVy1JOEJ5a0ZkX25paGFYenZmNVI0bGI1anVsMGhvOUNlZGRsUU5pcy1xRF9XNW5zbzFSR3BWeHB5OWVVTnVsLVM3RWlVRUs3S2tsTUpDdXpUc2NuMEMwNXc3SnA5WEJVVFJJNVhUT0x0Z2dzZnozLWFQNjFGODV2S2c?oc=5",
-   "paras": [
-    "Stalled groceries, stopped garbage: Orcas Island deals with truck shutdown on ferries KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-2gwd0F4em0yMVNrUEg5OEEtczF6cXVYY3phdwoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1175,15 +1353,15 @@
    "annos": null
   },
   {
-   "id": "f-grist-ZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0koc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "The affordability election delivered billions for public transit",
+   "id": "f-kuow-tLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEkoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "FAA lifts nationwide ground stop on flights that halted travel across the US",
    "author": "",
    "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX29MMjZqdUl0MEFrYTEzYkJfSkJKYzNKV3gtcV9JYnRKeDl5ZUx6M0tNV2xuanMwY05pd3REWEZmYm4xdmpxRW9zSkFtNnJZQmJrZmloOWFzTUQ4YVl6TjJSb3laY3p0T2ZQTFAyam9qVHY1Y21rNWhsZVhwR0I3V1hGeGZRcFFaa1VQRUxrY0Q1amo5S1o5TGU1SmJmM0k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcmhyTE93YXZPMU9CRDJjWmJsU0d5cEEwVGdlOXFwSGU0ejBDU1paemNiY2gyWkdsRnVNa05OVEVWMk45QmQ3VWpxRTMwcVRLOUVwcjRhWHduWGtHZlFuaENJLW9oMnlhUjc5MHp1TWNpMDZHdXh5d1RDNkRONnVqNTRiMmNGNVM2WEJYb1oyY1MyNTExUWE2NnlmRGlHbDlsUmVMT2dTYXItRU5vT3FnaWdmYUtLVmJFVi03VXptckg5N2Q5dXR5em0tel9pdEk?oc=5",
    "paras": [
-    "The affordability election delivered billions for public transit Grist"
+    "FAA lifts nationwide ground stop on flights that halted travel across the US KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1306,7 +1484,7 @@
    "srcKey": "conversation",
    "cat": "national",
    "title": "Debate in New York City over city-run groceries is not just about food, but something bigger",
-   "author": "<name>Nevin Cohen, Chair of the Department of Health Policy and Management, CUNY Graduate School of Public Health and Public Policy</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/nevin-cohen-1227050\"/>",
+   "author": "<name>Nevin Cohen, Professor, Graduate School of Public Health and Health Policy, City University of New York</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/nevin-cohen-1227050\"/>",
    "date": "2026-11-13",
    "url": "https://theconversation.com/debate-in-new-york-city-over-city-run-groceries-is-not-just-about-food-but-something-bigger-291749",
    "paras": [
@@ -1342,42 +1520,6 @@
     "Nevin Cohen receives research funding from the City of New York."
    ],
    "img": "https://images.theconversation.com/files/771653/original/file-20261112-64-qfy0aq.jpg?ixlib=rb-4.1.1&rect=0%2C1%2C6602%2C4401&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-conversation-idtermsbutthemovementisfarfromdead296093",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "MAHA suffered heavy losses in the 2026 midterms, but the movement is far from dead",
-   "author": "<name>Robert Brehm, PhD Candidate in Politics, University of Virginia</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/robert-brehm-2776570\"/>",
-   "date": "2026-11-13",
-   "url": "https://theconversation.com/maha-suffered-heavy-losses-in-the-2026-midterms-but-the-movement-is-far-from-dead-296093",
-   "paras": [
-    "Candidates tied to the Make America Healthy Again, or MAHA, movement suffered a series of electoral defeats in the 2026 midterm elections, raising questions about MAHA’s political future.",
-    "Despite its name, MAHA has become a controversial force in American health politics. While the movement calls for healthier food , increased physical activity and greater corporate transparency, prominent figures within it have also challenged established scientific evidence, especially on vaccines .",
-    "Some commentators and critics have described the defeat of MAHA-aligned candidates like Iowa gubernatorial candidate Zach Lahn as a “ brutal election night wipeout .” Others have asked whether MAHA is “ dying .”",
-    "Yet many Americans still support MAHA and the policies it champions . Its supporters also continue to hold powerful positions in the Trump administration – like Health and Human Services Secretary Robert F. Kennedy Jr., National Institutes of Health Director Jay Bhattacharya , and Kyle Diamantas , acting commissioner of the U.S. Food and Drug Administration – even as a new Congress prepares to take office in January 2027.",
-    "We are political scientists who study public opinion on healthcare policy . We see MAHA’s electoral losses as a political setback, not a death sentence. The movement’s influence extends beyond its candidates and the elections they contest.",
-    "MAHA’s electoral losses came amid a potentially generational swing toward Democrats across the country,",
-    "More than half the 24 gubernatorial and Congressional candidates endorsed by MAHA’s political action committee, MAHA Action , lost their election bids. These included Lahn, Texas Senate candidate Ken Paxton and House candidate Vic Mellor in Rhode Island. Others, like incumbent Representative Anna Paulina Luna, R-FL, won by less than 1% in a district that she won by nearly 10 percentage points in 2024.",
-    "Lahn’s defeat stands out as a major loss. Lahn, a farmer who railed against pesticides on the campaign trail and promised to ban COVID-19 vaccinations in Iowa , was endorsed by Kennedy. Lahn has been described by some as a model MAHA candidate and received over US$1 million in campaign contributions from MAHA Action.",
-    "But the movement’s poor showing at the ballot box does not mean that some of MAHA’s ideas are unpopular among Americans. A May 2026 poll conducted by the health policy organization KFF found that 41% of American adults supported MAHA , including many Democrats and independents.",
-    "Many Americans also share MAHA’s concerns about food safety. According to KFF, 75% of Americans believe the government does too little to regulate chemical additives in food, while 64% say the same about agricultural pesticides.",
-    "Yet the popularity of MAHA policies did little to help MAHA-backed candidates win in the first election cycle where MAHA-aligned candidates were on the ballot. Following the midterm elections, some MAHA activists moved to blame President Donald Trump for failing to fulfill promises on these issues.",
-    "One prime example: In a postelection episode of Joe Rogan’s podcast, Calley Means, a former senior adviser to Kennedy, accused senior White House officials of allowing corporate interests to undermine MAHA’s goals. Dissatisfaction also spilled over to MAHA supporters in the general public, with one postelection poll finding that just over half of MAHA supporters feel the Trump administration made Americans’ health and well-being better throughout his second term in office.",
-    "Dissatisfaction with Trump, however, tells only part of the story. Another KFF poll conducted just before the election found that 42% of MAHA-supporting voters considered lowering healthcare costs their top health priority. By comparison, 21% prioritized restricting food additives, and 10% chose vaccine safety. Among voters more broadly, 55% believed Trump’s policies increased their healthcare costs, and 83% of those voters reported voting for Democrats. Most MAHA supporters, however, continued to vote for Republicans .",
-    "Supporting a movement, embracing its policy priorities and casting a ballot for its candidates do not necessarily go hand in hand. Americans can support MAHA’s goals without identifying with the movement or voting for its candidates. Likewise, MAHA supporters may vote Republican even when they are dissatisfied with Trump’s health policies. MAHA’s electoral losses, therefore, tell us little about how much support its ideas enjoy.",
-    "Despite its electoral losses, MAHA still holds considerable influence in Washington. Kennedy still leads HHS, where he can continue reshaping how the Centers for Disease Control and Prevention steers vaccine recommendations in a direction that aligns with his vaccine-skeptical views. These efforts face growing scrutiny amid public confusion over Kennedy’s vaccine guidance and reports that he sought to remove measles-related deaths from CDC statistics .",
-    "Kennedy appears undeterred by MAHA’s electoral setbacks. Following the election, he praised incoming White House Chief of Staff Stephen Miller , declaring, “Next to me, Stephen Miller is the strongest MAHA supporter in the administration. It’s time to unleash the Kraken.”",
-    "MAHA’s continued influence in the Trump administration, however, will face new obstacles now that Democrats control Congress. Facing greater opposition, the administration may increasingly rely on executive actions, including executive orders , new federal regulations and agency reports , to advance its health policies. However, Congress can also investigate HHS decisions and use its control over federal spending to limit what the agency can do.",
-    "MAHA’s political future remains uncertain. Some supporters may gradually move toward Democrats, particularly those concerned about corporate influence, pharmaceutical industry accountability and food safety. These concerns cross partisan lines , giving Democrats an opportunity to appeal to voters dissatisfied with Trump but still supportive of MAHA’s priorities.",
-    "MAHA could also become a movement independent of Trump and MAGA. It could bring together Americans who care about health and wellness, distrust major institutions and oppose corporate influence over food and medicine. Kennedy’s independent presidential campaign attracted as much as 15% support among voters in July 2024. This showed that an alternative to the two major parties could attract substantial support.",
-    "Whether MAHA remains tied to Trump’s increasingly divided coalition will shape its future beyond his presidency. The frustrations and health concerns that fueled its rise among Americans have not disappeared.",
-    "The authors do not work for, consult, own shares in or receive funding from any company or organization that would benefit from this article, and have disclosed no relevant affiliations beyond their academic appointment."
-   ],
-   "img": "https://images.theconversation.com/files/771648/original/file-20261112-64-ry5zsp.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C5319%2C3546&q=45&auto=format&w=1050&h=700&fit=crop",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1492,54 +1634,6 @@
     "Meanwhile, Strauss still has to complete his duties as Budget Chair, with the council set to make their final budget vote on November 20. Strauss complained that upholding this veto will impact that budget plan, requiring changes to his balancing package presented last week."
    ],
    "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Mayor-Wilson-RV-ban-veto-with-Yvonne-Underwood-and-Rob-Saka---Seattle-Channel.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-kerlineupfortheurbanistsdec4holidayparty",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Katie Wilson Headlines Speaker Lineup for The Urbanist's Dec. 4 Holiday Party",
-   "author": "Diego Batres",
-   "date": "2026-11-12",
-   "url": "https://www.theurbanist.org/katie-wilson-headlines-speaker-lineup-for-the-urbanists-dec-4-holiday-party/",
-   "paras": [
-    "Seattle Mayor Katie Wilson and newly elected State Representative Jessica Forsythe are headlining the speaking program for our Winter Holiday Party on December 4 !",
-    "Mayor Wilson has been in office for nearly a year and will speak about this year's victories and what urbanists can look forward to in 2027.",
-    "Forsythe unseated Representative Amy Walen to earn the right to represent the 48th Legislative District (encompassing parts of Kirkland, Redmond, and Bellevue). She will discuss the progress being made on urbanist issues on the Eastside and what she hopes to tackle in Olympia.",
-    "For our pre-reception, which will run from 6pm to 7pm, we will hear from newly elected State Representative Kelabe Tewolde and newly elected Seattle City Councilmember Nilu Jenks, who will shed some light on what they have cooking in their first year in office. The Urbanist's publishing team will also share some remarks. VIP tickets also cover admission to the main event.",
-    "General admission begins at 7pm, with festive beverages and heavy appetizers provided. Swing by for an hour or stay for the evening; the main event speaking program begins at 7:30 pm, headlined by Wilson and Forsythe.",
-    "After the speaking program, there will be plenty of time afterward to mingle and enjoy the evening.",
-    "Venue space is limited. So, get your tickets while supplies last."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Seattle_Transit_Measure_victory_party_with_Katie_Wilson_20261104_g1akmt-1.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-pnextforformercapitolhillfinediningspace",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Gyeok and its delicious Korean chicken noodle soup next for former Capitol Hill fine dining space",
-   "author": "Justin Carder",
-   "date": "2026-11-12",
-   "url": "https://www.capitolhillseattle.com/2026/11/gyeok-and-its-delicious-korean-chicken-noodle-soup-next-for-former-capitol-hill-fine-dining-space/",
-   "paras": [
-    "A Broadway restaurant space previously home to some of the finest neighborhood dining of the past decade is ready to hatch a new venture that represents a twist of two seemingly indomitable Capitol Hill dining trends.",
-    "The former home of five-star — and $$$$$ — Altura is being readied to become Gyeok , a new sibling restaurant to Broadway’s Busan Jeong , the Korean joint from global restaurateur Hoyeon Park that opened earlier this year on the east side of the street specializing in “Korean Pork Broth Rice” with savory soups, Korean dumplings, Korean pancakes, and specialties like blood sausage.",
-    "Another ripple in the wave of Korean-inspired openings is one thing but Park tells CHS Gyeok will also be part of another food and drink trend quickly changing the menus of Capitol Hill dining — chicken.",
-    "As with Busan Jeong’s focus around rich broth, Gyeok will specialize in Korean chicken kalguksu — “knife-cut noodle soup,” Park writes — and the Korean ginseng chicken soup samgye-tang.",
-    "There is a third trend in the mix, of course. The across the street opening will help the Gyeok and Busan teams with logistics and easy supply runs.",
-    "Altura and its sibling restaurant Carrello enjoyed a similar relationship until chef/owner Nathan Lockwood decided to move Altura across the street to take over the Carrello space this fall. After starting 15 years ago on the west side of Broadway, Altura now continues its award-winning tasting menu service while adding some Carrello touches in the much larger space on the east side.",
-    "We don’t know if Altura is serving any chicken these days but the rest of Capitol Hill sure is. CHS reported earlier this week on yet another new chicken joint opening up — Rizzo’s Crispy Chicken is taking shape next door to Dick’s Drive-in and part of a flock of new chicken-centered ventures now taking roost around Capitol Hill and the Central District.",
-    "Meanwhile, Korean food and drink has become a major component of the dining scene — with a little help from the yes-it-really-exists Korean Food Promotion Institute . As CHS wrote last year, knowing your way around a Korean spice rack is pretty useful on Capitol Hill. The Gol Mok Korean Market Bar holds down a space on E Pike . Yeobo Cafe and Bar and its Korean-American comfort food on E Madison is another addition. Another new joint , Seoul Mates , opened in a former sushi bar at 10th and Union. At the core, MEET BBQ from Heong Soon Park has grown into a center of the scene on E Pike.",
-    "The Chicken Food Promotion Institute could not be reached for comment.",
-    "Hoyeon Park tells CHS he is planning for Gyeok and its delicious Korean chicken noodle soup to debut in early December.",
-    "Gyeok will open soon at 617 Broadway E. Follow @gyeok.seattle for updates."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1450.jpg?resize=400%2C505&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1737,27 +1831,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-transitblogcom20261109ballardstarterline",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Ballard Starter Line",
-   "author": "Martin Pagel",
-   "date": "2026-11-09",
-   "url": "https://seattletransitblog.com/2026/11/09/ballard-starter-line/",
-   "paras": [
-    "At the Ballard Town Hall meeting Sound Transit made it clear that they do not want to make any major changes to the BLE plans to avoid starting all over with the EIS process. They did consider at some point starting with a connection between Ballard and Westlake and delay or even skip the second downtown tunnel (DSTT2). But that would require a separate operations and maintenance facility (OMF) at Interbay or connecting to the existing downtown tunnel (DSTT1). The tunnel is old and surrounding soil is unstable and therefore they concluded this would be very risky and costly. Tom Terrific however suggested a single-track maintenance tunnel connection which would connect at the end of the current tunnel by the Convention Center.",
-    "While any major design change (such as an elevated line) may jeopardize the current EIS process, implementing a project in phases is common and accepted. Not spending $8b on a second downtown tunnel at this point would allow Sound Transit to connect Ballard much earlier (in particular if paired with other measures such as automating the line or a ship canal gondola ). With all the downtown complexities it would also reduce a lot of risks. And as almost half of the tunnel is covered by funds collected in Pierce and Snohomish County and the Eastside, it may even allow Sound Transit to finish the spine earlier, a goal the Board keeps reiterating.",
-    "Sound Transit has also stated that the Ballard line is necessary to connect to the Tacoma line as an Everett to Tacoma line would get too long for operators, but they could turn Tacoma trains around at Northgate or just change operators halfway.",
-    "Sound Transit studied alternatives for a second tunnel. Either the line could connect to the existing tunnel (interlining) by tapping into the existing tunnel at Pine St and 3rd or operate as a separate line with a separate OMF at Interbay. They determined that both options would not be any cheaper than proceeding with a second tunnel. I tend to agree with the risks involved with tapping the existing tunnel for interlining. However, Tom’s suggestion for a single track to connect a Ballard line with the existing tunnel should warrant further research. To reduce operational impact, such track could be used during off-hours. It would allow maintaining trains at the SODO OMF instead of having to build a separate OMF.",
-    "Before the original tunnel was extended to Capitol Hill with a slight curve to the south, it used to have a track extending straight east of the Westlake station for trains to turn around. It might be possible to extend that tunnel portion and add a north turn. You may need to use the I-5 Express Lane exit to build such track. That track could then connect with the Ballard line roughly at the Denny station. It would be fairly long but for a maintenance track that should not matter as much.",
-    "Adding such a maintenance tunnel would be expensive, but not nearly as much as building a second tunnel or a separate Interbay OMF. I hope it would allow Sound Transit to serve Ballard well before 2042."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/Convention-Center-Maint-Tunnel.png?resize=525%2C327&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-QYndjZE9tSFJ6dU9sWVNHbnBnSXl0eU0yTGduoc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1767,23 +1840,6 @@
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmg5eWJfT1h4YnRPYnNIUXpISlIybXMyUGxnc2p2d3drZGoyTG5pY2dQQ1NsUTJUb2hGV0loZVlSOUpCV0pyd05IajVoc3kxT05LcmRGVzhQdDhtY1JpYXZ6TzRBYTNKSHJWbW1iUXlHVlIxQmJSdklTdnJZckdJYU1LMVNQYndjZE9tSFJ6dU9sWVNHbnBnSXl0eU0yTGdu?oc=5",
    "paras": [
     "A monstrous El Niño has arrived. Here’s what it means for where you live. Grist"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-grist-DJqZjhHQ1Y1UEt5eHVLNVd3bXNLTXNpYmQ0dwoc5",
-   "srcKey": "grist",
-   "cat": "climate",
-   "title": "What a historic ‘blue wave’ midterm means for climate action",
-   "author": "",
-   "date": "2026-11-04",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbkFCdTdvbFYtZEEwNFBEaUxadkxiYWRTb1Z5UHlJa0dmcWQwV05rODJIR0VXbElHM3hkYUJ3RXh1SXkzWXVBMXB1dGJyYmtCNmlKclFoTGFPUlNrUDYwcnprNVA5czlCZ09GMDJqZjhHQ1Y1UEt5eHVLNVd3bXNLTXNpYmQ0dw?oc=5",
-   "paras": [
-    "What a historic ‘blue wave’ midterm means for climate action Grist"
    ],
    "img": "",
    "fetched": true,
