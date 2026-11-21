@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-20T22:26:30.708Z",
- "builtFor": "2026-11-20",
- "builtHour": "14",
- "count": 85,
+ "builtAt": "2026-11-21T21:20:54.229Z",
+ "builtFor": "2026-11-21",
+ "builtHour": "13",
+ "count": 88,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 1,
-   "via": "feed"
+   "count": 4,
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -86,6 +86,577 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-crosoftsaipitchandanewapproachtothepress",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "After the Outlook outage: Mary Jo Foley on Ignite, Microsoft’s AI pitch, and a new approach to the press",
+   "author": "Todd Bishop",
+   "date": "2026-11-21",
+   "url": "https://www.geekwire.com/2026/after-the-outlook-outage-mary-jo-foley-on-ignite-microsofts-ai-pitch-and-a-new-approach-to-the-press/",
+   "paras": [
+    "This week on the GeekWire Podcast , longtime Microsoft beat reporter Mary Jo Foley, a GeekWire contributing writer , sizes up where the company stands after one of its most eventful weeks in years.",
+    "Microsoft opened its Ignite conference with an apology for the global Outlook outage , then took direct aim at OpenAI and Anthropic on price, even though it invests in both and sells their models. We discuss the lasting damage from the outage, why enterprise customers have few places to go even when they’re fed up, and Microsoft’s pitch to make Copilot the “OS for work,” as Anthropic goes public.",
+    "Mary Jo also explains how Microsoft changed the way it rolls out news at its big conferences, what got lost along the way, and what that says about the company after the shakeup of its communications team . Plus, we weigh who from Microsoft could lead Nvidia , and the GeekWire trivia challenge goes back to 1997.",
+    "Subscribe to GeekWire in Apple Podcasts , Spotify , or wherever you listen.",
+    "Edited by Curt Milton. Music by Daniel L.K. Caldwell."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2023/03/GeekWirePodcast.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-ilstestinggapsandsafeguardsthatbackfired",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Microsoft’s final Outlook outage report details testing gaps and safeguards that backfired",
+   "author": "Todd Bishop",
+   "date": "2026-11-21",
+   "url": "https://www.geekwire.com/2026/microsofts-final-outlook-outage-report-details-testing-gaps-and-safeguards-that-backfired/",
+   "paras": [
+    "The bug behind last week’s global Microsoft 365 outage struck only newer, more powerful servers in a key part of Microsoft’s network. That’s because it created a kind of traffic jam inside each server, and the more work a machine tried to do at once, the worse the jam got. The newer servers are built to do more at once, so they’re the ones that seized up.",
+    "One reason Microsoft didn’t catch it in advance: it was testing on older servers.",
+    "“Our testing did not adequately represent the combination of hardware and traffic mix encountered during this incident,” the company acknowledged in its final report , released Friday evening, a week after resolving the outage that crippled Outlook and cut off email for people around the world.",
+    "Testing that more closely replicates the company’s production environment is one of 13 next steps in the report — measures the company says it will take to keep it from happening again. The list is also aimed at reassuring the businesses that rely on Microsoft for email and collaboration, after CEO Satya Nadella acknowledged at the company’s Ignite conference this week that it has work to do on resilience.",
+    "Many of the other steps identified in the report go after a bigger problem: during the incident, the safeguards meant to contain the failure spread it around the world instead.",
+    "What set it off: As detailed in Microsoft’s preliminary report last weekend , the bug at the center of the outage had been sitting dormant since July, when Microsoft started rolling out the software update that introduced it. For more than three months, it caused no problems.",
+    "The bug affected the servers that make up what Microsoft calls its network gateway, a front door that connects people to Outlook email and other Microsoft 365 services. The flaw came from a Windows update used only on those servers. Standard versions of Windows weren’t affected.",
+    "So what was the bug? Microsoft’s final report gives a partial answer, saying it came from a change to how the gateway servers handle incoming connections.",
+    "Under heavy load, it turned out, the Windows process that sets up those connections bogged down, with tasks stuck waiting on each other until the servers ran out of computing power and memory and stopped responding.",
+    "The final report doesn’t say what the July update was meant to fix. But it does lay out three conditions that finally set the bug off. Without the bug, even all three together would have been routine, the report says.",
+    "First, nearly 14% of the gateway’s server capacity was already offline that day for routine software updates. That’s normally not a problem, because Microsoft keeps enough spare capacity to absorb it. But it meant fewer servers were available to carry the load.",
+    "That’s a different explanation from the preliminary report, which blamed the missing capacity on an unrelated problem.",
+    "Second, all of Microsoft Teams’ traffic landed on those same servers. Teams normally runs through a separate gateway of its own. About 15 hours before the outage, a routing glitch on that Teams gateway in Microsoft’s US East region set off an automatic switch that moved all Teams traffic worldwide onto the servers that handle email.",
+    "Third, the U.S. workday got going. Widespread failures began around 8 a.m. Pacific, as traffic in North America climbed toward its daily peak.",
+    "How it spread: As servers stopped responding, Microsoft’s systems automatically moved their traffic to healthy servers nearby, which had the same bug and buckled under the extra load. At the low point, more than 80% of the gateway’s servers in North America were unresponsive.",
+    "The system then shifted traffic to other regions, spreading the problem further.",
+    "“Within about two hours of the broad failures that began in North America, servers in every region were affected globally,” the report says.",
+    "The preliminary report had blamed that spread partly on “a separate issue.” The final report doesn’t repeat or explain that phrase. Instead, its findings say the way Microsoft distributes traffic “can cascade failures to other regions.”",
+    "Once the servers went down, getting them back up was its own problem. As servers came back online, they were swamped by pent-up demand and froze again, a pattern engineers call a “thundering herd.” Microsoft says it will ease traffic back onto recovering servers gradually. That fix doesn’t have a date yet.",
+    "The fixes: To keep a failure from spreading again, Microsoft says it will change how its systems shift traffic between regions, so a problem in one part of the world stays there.",
+    "It also plans to split up the servers that handle email, so a surge from another service like Teams can’t take them down. And Teams will switch over only in the region that has the problem, not worldwide.",
+    "Some of the fixes are due by the end of the year, others by the end of March. Several don’t have a date yet.",
+    "Microsoft says its first notice to customers went out about 20 minutes after the outage took hold, and it plans to shorten that by the end of the year. No business email was lost, according to the report, though some delayed messages to consumer mailboxes that had been inactive for more than 30 days bounced back to senders.",
+    "The report also confirms what Microsoft said the day after the outage began: it wasn’t hackers, and it wasn’t AI. “This incident was confirmed not to be caused by a cyberattack, and we found no evidence of malicious activity,” it says. “This change was not caused by AI tooling.”",
+    "The new testing is supposed to be in place by the end of March, according to the final report. This time, the company says, the machines in the lab will actually match the ones running the service in production."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/nadella-ignite-2026-1200.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-gsoundtransitfundsstudytospeedupdlinebus",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Sound Transit Funds Study to Speed Up D Line Bus",
+   "author": "Doug Trumm",
+   "date": "2026-11-21",
+   "url": "https://www.theurbanist.org/sound-transit-funds-study-to-speed-up-d-line-bus/",
+   "paras": [
+    "On Thursday, the Sound Transit Board allocated $500,000 to fund a study of bus speed and reliability improvements for the RapidRide D Line, which runs from Downtown Seattle to Ballard and Crown Hill. It's an early signal that D Line riders can expect a faster ride – a few years down the road, anyway.",
+    "King County Executive Girmay Zahilay brought forward the budget amendment, with support from Tukwila Mayor Thomas McLeod and the entire Seattle delegation on the agency board: Mayor Katie Wilson, City Councilmember Dan Strauss, and County Councilmember Teresa Mosqueda.",
+    "A timeline for the project was not immediately clear, but supporters noted it was important to provide interim improvements while Ballard and Interbay wait on its delayed light rail project. In 2016, the campaign for the successful Sound Transit 3 (ST3) ballot measure pledged to deliver Ballard Link by 2035, but the timeline has slipped since then.",
+    "“I’m very, very happy to be sponsoring this amendment, bringing half a million dollars forward, so that Sound Transit and the City and King County can together work to advance the planning and improve the RapidRide D to Ballard,\" Wilson said. \"We know that that’s no substitute for light rail, but right now it is the third busiest route in King County. It carries more than 10,000 riders a day, and making this bus work better will ease the mobility burden in this regional growth center and keep people moving while we do that longer term work.”",
+    "Zahilay credited the Save Ballard Rail coalition with raising the need for D Line improvements. Designing the project will entail a collaboration between Sound Transit, the Seattle Department of Transportation (SDOT), and King County Metro. While Metro operates the bus, SDOT maintains the roadway over which it runs, and the Seattle Transit Measure also funds extra service that boosts bus frequency.",
+    "\"I want to specifically thank Save Ballard Rail, who has been regularly in touch with my staff and asked us to look into ways to expedite improvements to the RapidRide D line,\" Zahilay said. \"This amendment would move $500,000 of already committed funding for this project up to 2027 to ensure that Sound Transit, SDOT, and Metro explore options and start planning for these capital improvements that would be intended to speed up the RapidRide D.\"",
+    "Zahilay reminded the board that ST3 included funding for Seattle bus improvements as an early deliverable . Namely, it included $35 million to \"design and implement transit priority improvements along King County Metro’s RapidRide C and D lines that provide service to Ballard and West Seattle as an early deliverable to provide improved speed and reliability, in advance of light rail starting operations to these areas.\"",
+    "\"When voters approved Sound Transit 3, they approved a modest amount of funding to advance the RapidRide D resources for capital improvements, bus and traffic signal priority, just to help move people in the interim while the light rail station and light rail was getting to Ballard,\" Zahilay said.",
+    "That funding was a victim of the 2021 realignment vote , which delayed a number of projects due to pandemic-related planning delays and budgetary strain. The early deliverable went from an early deliverable to a late deliverable without a definite timeline.",
+    "\"This was originally designed to be an early deliverable in 2025, but in 2021, the board voted to delay the timeline as part of a realignment plan, and I want to speed things back up again,\" Zahilay said. \"I think this board has made it clear that getting to Market Street in the long term, as the CEO mentioned, is a priority for this board. And we have also said that, in the short term, we want to improve transit service in that area through transit mitigation efforts.\"",
+    "As it stands, Sound Transit's best-case scenario for light rail to reach Ballard is 2042 – although the agency has granted that many hurdles remain and has not ruled out the opening date slipping to the 2060s if those hurdles are not navigated.",
+    "Jonatan Gonzalez, an organizer with Save Ballard Rail, spoke in favor of the amendment at Thursday's board meeting.",
+    "\"As we know, Ballard is waiting for light rail, and we can improve bus service now,\" Gonzalez said. \"That'd be amazing.\"",
+    "Metro spokesperson Jeff Switzer told The Urbanist that Metro, in partnership with SDOT and Sound Transit, had some earlier planning to build upon, but that those concepts would need updating.",
+    "\"Following voter approval of this investment in 2016, work began to identify projects that would improve speed and reliability along the corridor,\" Switzer said. \"That effort was paused following the initial realignment process, and Metro plans to update the analysis to identify RapidRide D enhancements that can be delivered in the near term for the benefit of riders.\"",
+    "Wilson and Zahilay both emphasized bus improvements in their successful runs in 2025. Zahilay reiterated that accelerating the R Line project , replacing Route 7 in the Rainier Valley, was a priority for his administration, and recently cleared a King County Council committee approval vote .",
+    "One of Wilson's signature moves in her first year, meanwhile, was rapidly rolling out a bus lane for Route 8. Long notorious for its lateness, Route 8 has since seen a dramatic jump in speed and reliability thanks to the street redesign, a project her predecessor, Bruce Harrell, had sought to frame as completely infeasible.",
+    "The same style treatment for the D Line could result in huge time savings for riders. The route lacks consistent bus lanes outside of downtown, with SDOT offering brief sections a few blocks at a time rather than a connected treatment.",
+    "Another big move for Wilson was a renewal proposal that doubled the size of the Seattle Transit Measure, which will provide funding to boost frequencies on about a dozen bus lines , with the D a likely candidate. The transit measure passed resoundingly in November with more than 72% of the vote.",
+    "With the D Line study just now getting off the ground, the scope of the project is not yet clear. Strauss floated the idea of an express bus with reduced stops shadowing the route. He also underscored how slow the bus is now.",
+    "\"I will state: that RapidRide is very slow,\" Strauss said. \"It is a milk-run bus out to Ballard going through Uptown. Its travel times are 40 to 45 minutes from where you sit right now just to downtown Ballard.\"",
+    "As riders reacted to the news, some disputed the trip times Strauss has quoted as exagerrated.",
+    "\"Why does he feel the need to pad everything? It's 27 to 36 minutes from Pioneer Square to Market Street depending on time of day,\" Seattle Transit Blog contributor David Lawson wrote in a Bluesky post . \"Lots of room for improvement, but the work that's already been done has made a difference.\"",
+    "One joked that Strauss did not know what a milk run is, alluding to the D's straight rather than circuitous routing. On the other hand, another D Line rider noted reliability and bus bunching issues can add wait times at stops.",
+    "Strauss has mentioned on multiple occasions that he thinks the routing through Uptown to serve Seattle Center slows the route down too much. The drawback would be that skipping the Seattle Center would decrease Northwest Seattle's access to that popular destination, and it may require shifting another route over to provide adequate coverage for Uptown.",
+    "One way or the other, improvements appear inbound, although just how dramatic and imminent is yet to be determined.",
+    "\"The RapidRide D Line serves 10,500 riders on an average weekday and is the third busiest route in the region. It provides critical connections between Ballard, Interbay, Uptown, and Downtown Seattle, while also linking customers to other frequent transit services throughout the city,\" Switzer said. \"We look forward to partnering with Sound Transit and SDOT to advance improvements that enhance reliability, speed, and the overall customer experience on this important corridor.\""
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/D-Line-bus-coming-off-Ballard-Bridge-with-marchers---Trumm-PXL_20260419.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-bsorgshowwashingtonweekextrasclip2d87rwp",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Can Democrats reverse Trump's retreat from NATO and Canada?",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/washington-week/extras/clip2-d87rwp/",
+   "paras": [
+    "The question facing Hakeem Jeffries and Chuck Schumer, assuming Schumer returns as Senate majority leader, is how to push for a re-realignment that would place America on the side of its friends and NATO allies. It won’t be easy; as the Democrats who are taking over Congress undoubtedly know, the commander-in-chief is still the commander-in-chief, even after a blue wave."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/6829f199-c7ea-4687-827d-8d78f7c1a188.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ekwiththeatlanticfullepisode112026cpfulv",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Washington Week with The Atlantic full episode, 11/20/26",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/washington-week/episode/washington-week-with-the-atlantic-full-episode-112026-cpfulv/",
+   "paras": [
+    "Full Washington Week with the Atlantic broadcast from November 20, 2026."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/6a871447-797c-4390-a78d-76c98afc0f37.JPG",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-gshownewshourextrastrumpagenda1795201789",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "What Trump addressed during his lengthy news conference",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/trump-agenda-1795201789/",
+   "paras": [
+    "What Trump addressed during his lengthy White House news conference"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/43b603ee-95cd-480d-9c9c-372b7e8bd31f.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasnewswrap1795211861",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: Stocks tumble as worries about AI rattle market",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1795211861/",
+   "paras": [
+    "In our news wrap Friday, stocks tumbled to end the week as worries about AI rattled the market, a second federal judge is blocking President Trump's triumphal arch in Washington and a federal appeals court is blocking the Army from detonating several tons of bomb-making chemicals amid concerns over environmental and health risks."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/1c67cc65-001f-4578-8d4f-042557290901.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-newshourextrasoutagesanxieties1795211903",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Mounting tech disruptions raise cybersecurity concerns",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/outages-anxieties-1795211903/",
+   "paras": [
+    "President Trump has replaced the nation’s top cybersecurity official following a string of seemingly unrelated technology outages over the last couple of weeks. Officials have repeatedly stressed that these outages were not the result of intentional attacks, but given the growth of AI, there’s growing concern that attacks are on the horizon. William Brangham discussed more with Chris Krebs."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/08dad348-330d-4f79-bc55-dfa53abbc63e.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasoneonone1795211967",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Josh Shapiro on foreign policy and his 2028 ambitions",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/one-on-one-1795211967/",
+   "paras": [
+    "Pennsylvania Gov. Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House. Now Shapiro is turning his attention to foreign policy, laying out his prescriptions to solve pressing global crises. Amna Nawaz sat down with the governor to discuss his vision for how the United States should engage on the world stage."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/6b155722-f8b2-4ebd-8728-e0c85fc44077.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6wy0qj7w5zqoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f4/live/23242820-e5a6-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscqevrddp91z8oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc85y14zvexz9oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscwe85gyedjp5oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854c/live/ec249880-e5a2-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6ly5w40eg07oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescm3vg9dqr6zyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ogy2026nov21robothandsfutureofhumanityai",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+   "author": "Jenny Kleeman",
+   "date": "2026-11-21",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
+   "paras": [
+    "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that",
+    "Just outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance. Tubs containing a Lego Spider-Man kit, followed by dishwasher tablets, followed by a pouch of muscle building protein powder whiz along conveyor belts, until they arrive at a human being tasked with stacking the shelving unit that has come to a stop in front of their workstation. This, Amazon says, is the “symphony of people and technology” to which the retail giant owes its success.",
+    "Following a barrage of negative publicity about working practices, Amazon began to open up its fulfilment centres to carefully controlled free public tours a decade ago. Our guide tells us about the competitive rates of pay Amazon workers receive, their pensions, dental cover and options for flexible working. Her delivery is somewhat robotic."
+   ],
+   "img": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=140&quality=85&auto=format&fit=max&s=b205cd24b9f7e774996bfccf38effe3f",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ov21bestearlyblackfridaycybermondaydeals",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "We vetted thousands of early Black Friday deals to find 42 worth pouncing on",
+   "author": "Filter Writers",
+   "date": "2026-11-21",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals",
+   "paras": [
+    "Deals you can scoop up right now on products we’ve tested and love",
+    "Our favorite bath towel is already on sale for Black Friday",
+    "It’s almost Thanksgiving. That means early Black Friday deals are already here, a consolation prize for the full price you probably paid for your flight home. With thousands of new sales popping up every day, our pro product testers are already hard at work combing through them to find the true deals actually worth your time. Here are our favorite sales that you can buy before the Macy’s parade, across categories from tech to beauty. We test products here at the Filter US and handpicked these deals. You can learn more about us at the bottom of the list. Products marked ( sold out ) are out of stock or no longer discounted. We’ll update our guides throughout Black Friday."
+   ],
+   "img": "https://i.guim.co.uk/img/media/9b4b641933cdabe5d519748aad8fd9f98324e814/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a60b8abfe10774d15ca0aad6b8c04ec5",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ews2026nov21siliconvalleypivotusmidterms",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+   "author": "Johana Bhuiyan",
+   "date": "2026-11-21",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+   "paras": [
+    "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats",
+    "A short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: “I’m not just Maga. I’m dark, gothic Maga.”",
+    "On Wednesday, Musk spoke with much less conviction. “I’m not Maga,” he said. “Well, at least I’m not sure what Maga means.” The richest person in the world added he felt “foolish” for spending some $500m to elect Republicans in the midterms. “If I could rewind the clock, I would have spent less money,” he said at the New York Times’ DealBook conference, adding that he did not have “some sort of blind adherence to a set of policies by the Republican party”."
+   ],
+   "img": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8948f6b51100618a30a755c73745db1f",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ewmetothesceneofmyfavouriteromanticmovie",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The moment I knew: She flew me to the scene of my favourite romantic movie",
+   "author": "Kaz Therese, as told to James Norman",
+   "date": "2026-11-21",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
+   "paras": [
+    "Kaz Therese had always loved An Affair to Remember. A few months into their relationship, Brianna surprised her with a magical gift",
+    "Find more stories from the moment I knew series",
+    "Brianna and I met in 2013 on an arts project I was developing in Mount Druitt, the region I grew up in, in western Sydney.",
+    "It was a site-specific work for young people, and Brianna became part of the strategic leadership team, which ultimately meant she was painting gutters pink with the local kids until 9pm each night."
+   ],
+   "img": "https://i.guim.co.uk/img/media/6618edbe391a30033ca5613f92ae5a3104335424/1737_189_5715_4574/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=9a21c3267dcd1c368e816ba2a0a02b60",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-diancomusnews2026nov21trumpclasswarships",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+   "author": "Ben Doherty in New York",
+   "date": "2026-11-21",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+   "paras": [
+    "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’",
+    "The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the US Congress has found, as the acting secretary of the navy conceded this week the Iran war was “stretching” the fleet’s capacity.",
+    "The challenges facing the world’s biggest naval force were highlighted this week, when the return of the USS George Washington from the Middle East on Wednesday ended a rare three-month period when the US had no aircraft carrier across all of the Pacific. Deployments have been regularly running beyond 300 days, with the maintenance and repair of ships deferred so they can stay at sea longer."
+   ],
+   "img": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16049684roundupbayerhodgkinssettlement",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Bayer reaches Roundup settlement that could cost the company billions",
+   "author": "Will Stone",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+   "paras": [
+    "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5265x3524+0+0/resize/5265x3524!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fa1%2F2a7c9b0b4b1783ffed73a002a6ad%2Fgettyimages-2283306424.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16047508weatherthanksgivingstormelnino",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Storms expected on both coasts threatens Thanksgiving travel",
+   "author": "Ava Berger",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+   "paras": [
+    "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-s16049672cartelbosselchapoisidrodetained",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "author": "The Associated Press",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "paras": [
+    "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-g20261121nxs16047916killerrobotsundrones",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "author": "Imogen Foulkes",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "paras": [
+    "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2764+0+0/resize/4146x2764!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-261121nxs16049625palisadesfireconviction",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "author": "The Associated Press",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "paras": [
+    "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5808x3872+0+0/resize/5808x3872!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Ffd%2Ff9157ccb44d0a165869fae76e14b%2Fap26324834912819.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-61121nxs16041585perspectivedefininghuman",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Perspective: Defining 'human'",
+   "author": "Scott Simon",
+   "date": "2026-11-21",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+   "paras": [
+    "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-conversation-iowawhatyouneedtoknowabouttherisks297225",
+   "srcKey": "conversation",
+   "cat": "national",
+   "title": "Army’s plan to blow up aging explosives will spread lead over part of Iowa – what you need to know about the risks",
+   "author": "<name>Patrick O'Shaughnessy, Professor of Occupational and Environmental Health, University of Iowa</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/patrick-oshaughnessy-2779785\"/>",
+   "date": "2026-11-21",
+   "url": "https://theconversation.com/armys-plan-to-blow-up-aging-explosives-will-spread-lead-over-part-of-iowa-what-you-need-to-know-about-the-risks-297225",
+   "paras": [
+    "The U.S. Army set off waves of anxiety in Iowa when it confirmed plans to carry out two controlled explosions at an ammunition facility there with just a few days’ notice . According to the Army, dozens of old barrels containing lead azide , an explosive used as a detonator, have become unstable and pose an “ unacceptable risk of accidental detonation .” Intentionally detonating the barrels is considered the best option for controlling the risk, the Army determined.",
+    "However, the explosions are expected to release a large plume of lead particles, and lead is a neurotoxin. The Iowa Army Ammunition Plant is in Middletown, a town of about 360 residents in southeast Iowa. People and farms would be in the path of the plume as the wind blows it for miles.",
+    "The detonations were briefly delayed by the backlash and rescheduled for Nov. 23, 2026 . And a federal appeals court separately paused the Army’s emergency Environmental Protection Agency permit for the detonations after two groups sued. It wasn’t immediately clear if the plan would be delayed again. The Justice Department argues that the permit isn’t necessary in the face of an immediate threat.",
+    "With all the concern, we asked Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, about the risks people in the region would face. O'Shaughnessy is part of a team scrambling to have testing in place when the Army carries out its detonation plan.",
+    "If you picture a dust plume, it carries particulate matter that can get into the lungs as you breathe. In this case, we’re talking about small particles that contain lead, which is toxic to humans and pets .",
+    "Those particles will settle over the area downwind of the detonation site. First it’s air pollution – if you’re outside, you can inhale those particles. Then it becomes surface pollution. The lead dust can get on your hands and into your body. The big concern there is for young children . If you think about 2-year-olds, they put everything in their mouths.",
+    "Lead is easily absorbed by the body. It gets into the bloodstream, and it can cause harm to just about every major organ in our bodies , including the nervous system and the brain. It tends to hide out in bones and teeth , where it can leach out and cause harm.",
+    "Studies have shown lead exposure is a major concern for pregnant women with developing fetuses. In young children, lead exposure can slow their brain development. Long-standing results from studies have demonstrated a reduction in IQ in children with chronic lead exposure, such as from lead-based paint in old houses.",
+    "The Centers for Disease Control and Prevention says there is no safe level of lead in the body . That’s a pretty strong statement.",
+    "Where this plume travels and how far depends primarily on the wind speed and direction in the hours after the explosions.",
+    "We have a sense of what happens from studying pollution from smokestacks. Smokestacks are tall for a reason – they eject the pollutants high into the atmosphere so the pollutants dilute as they drift downwind.",
+    "In this case, instead of a steady stream coming out of the smokestack, it’s going to be a big puff that will literally create a cloud. That cloud will rise and start dissipating as it is diluted in the air. It will become invisible at some point, but that doesn’t mean the lead isn’t there.",
+    "If the Army had blown up those storage containers on Nov. 20, as initially planned, the forecast was for a fairly strong 15-mile-per-hour surface wind. The plume would have mostly diluted by the time it reached I-80, which is where I’m sitting, about 80 miles to the north.",
+    "If the Army goes through with its rescheduled plan on Nov. 23 , the preliminary forecast is for much slower wind blowing toward the south-southeast. Slower wind means the plume would affect a smaller area, but people there would experience a higher concentration of lead as it slowly floats by.",
+    "That may mean fewer people are affected, but the exposure could be more intense. We won’t know exactly what people will experience until it happens.",
+    "Honestly, I would find a way to get out of the area for the day. If you can’t leave, the Army has a list of precautions that people should take, and I think those are good recommendations.",
+    "The Army is advising people near the plant to vacate their homes during the detonation and others to shelter in place. That means staying indoors and closing all your doors and windows. If you can, shut off the furnace – it pulls in air that could be contaminated as the plume travels through an area.",
+    "Within a few hours, the plume will have dissipated or moved on. But that doesn’t mean the lead disappears. It falls to the ground, meaning you and your pets can still get it on you.",
+    "After the plumed dissipates, the Army suggests getting a hose and spraying down window sills, cars, any horizontal surfaces where the dust can accumulate. Car door handles can easily collect and transfer the lead to people. If you have children’s play areas or toys outside, wash those down.",
+    "Lead is a persistent compound – there’s no way to degrade it. Washing it off surfaces transfers the lead to the soil. At this point in the year, the majority of the crops have been harvested, so there’s less risk of lead settling on plants in farm fields. However, some dairy farmers are concerned about their cows getting into lead that settles on grass.",
+    "Our results from sampling during and after the plume should help people better understand the risks.",
+    "My colleagues and I will be looking at two aspects of potential exposure to lead: the airborne dust, which we’ll collect with instruments during the plume to get the lead concentration, and then dust that settles on surfaces and the ground, which we’ll collect with gauzelike pads and send to a lab for analysis.",
+    "The lab will be able to tell how much lead is in those samples, and the air samples will let us calculate how much people were exposed to the lead.",
+    "This is all happening last minute – we only found out about the plan a few days before the Army initially planned to detonate the barrels. Thankfully, the university and our federal- and state-funded centers have the people and technology to quickly carry out testing. We hope to have results about a week after it happens. The U.S. Environmental Protection Agency also has a team that will be doing sampling.",
+    "Patrick O'Shaughnessy receives funding from the National Institute of Environmental Health Sciences"
+   ],
+   "img": "https://counter.theconversation.com/content/297225/count.gif",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-propublica-hcjFiVWRXbmk4ODFXNFJIZThIZFFUbnNqbXFBoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "Why Is the World Still Counting on Unproven Carbon Capture Technology?",
+   "author": "",
+   "date": "2026-11-21",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLWtPdVBEclV2ZU5VTUdhdE1qUGk1S0JwVjRFNDdVWDZFY2ZDS0tvV0l5YXlibGpKaXV6OFVXTFlUZjZXWHNlb3lwSGRxMEpxZTNWNmxac1J3QjZJUFk1UGFoQzdNQnFhcjFiVWRXbmk4ODFXNFJIZThIZFFUbnNqbXFB?oc=5",
+   "paras": [
+    "Why Is the World Still Counting on Unproven Carbon Capture Technology? ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-akeabigtodooverpopulartaskappsretirement",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Microsoft ‘To Do’ users make a big to-do over popular task app’s pending retirement",
+   "author": "Todd Bishop",
+   "date": "2026-11-20",
+   "url": "https://www.geekwire.com/2026/microsoft-to-do-users-make-a-big-to-do-over-popular-task-apps-retirement/",
+   "paras": [
+    "Microsoft acquired the popular Wunderlist app in 2015, shut it down in 2020 and told its loyal users that Microsoft To Do would be their new home. Now it’s asking them to switch again.",
+    "Microsoft plans to retire the To Do apps on June 30, 2027, moving personal task management for work and school accounts into Planner, its team project-management app. Microsoft disclosed the change Wednesday in a long Planner blog post amid the company’s Ignite announcements, and Windows Latest flagged the change later that day.",
+    "The reaction was swift and mostly unhappy. Tom Warren of The Verge summed it up on X : “Microsoft is killing its great tasks app in favor of its worse tasks app.”",
+    "That’s not entirely fair to Planner, which is built for a different job. But it captures the gripe: To Do was simple, free and worked across Windows, Mac, iOS, Android and the web, and nothing Microsoft is offering replaces all of that.",
+    "The catch for personal users: Microsoft’s support page says the To Do apps are also retiring for personal Microsoft accounts, including paid Microsoft 365 Personal and Family subscribers, and that Planner isn’t available for those accounts. Microsoft hasn’t announced a replacement for them.",
+    "For work and school accounts, Microsoft says Planner “will be the destination for managing personal work tasks,” but “existing To Do tasks and lists will not migrate to Planner.” It says it will offer a way to export To Do data before the app shuts down.",
+    "Tony Redmond of Office365itpros, who tracks Microsoft 365 closely, cataloged the gaps : no file attachments on private Planner tasks, no equivalent for To Do’s list groups, no transfer of shared-list membership, assignments or permissions, and no native Planner apps for Windows or Mac.",
+    "He also noted the irony that Outlook’s old Exchange-based tasks will outlive To Do.",
+    "Why Microsoft is doing it: The company said putting individual and shared work on the same foundation lets it deliver more consistent features, and lets people connect their own tasks to Copilot and other AI agents. A new Planner agent, available with a Copilot add-on license, can take on tasks and generate status reports.",
+    "The Register’s Richard Speed put it less charitably, saying Microsoft had slipped the news into “this week’s Ignite AI puffery.”",
+    "Users weigh in: Brad Silverberg, the former Microsoft executive who led Windows 95 development and later became a Seattle venture investor, posted on X that he has used To Do daily, and Wunderlist before it.",
+    "“Very disappointed now,” he wrote, adding that he’s looking at TickTick and Todoist.",
+    "Similar posts piled up on LinkedIn from Microsoft 365 consultants and everyday users, some of them describing Planner as clunky by comparison.",
+    "Patrick Husting, a Seattle-area entrepreneur and software developer whose Ghostwriter add-in brought AI to Microsoft Office before Microsoft announced Microsoft 365 Copilot, offered on LinkedIn to maintain To Do for Microsoft for free.",
+    "Rivals smell an opportunity: Competitors wasted no time. TickTick posted a migration guide for To Do refugees. Todoist CEO Amir Salihefendic wrote on LinkedIn that the shutdown was “pretty unexpected” and pointed out that his app has outlasted competitors for 20 years.",
+    "The most pointed pitch came from Superlist , which called itself “the natural successor” and said it already has a tool for importing To Do lists. Wunderlist founder Christian Reber started the company in 2020.",
+    "Reber and his co-founders sold Wunderlist’s parent company, 6Wunderkinder, to Microsoft in 2015 for a reported $100 million to $200 million. In 2019, as Microsoft prepared to shut the app down, he publicly asked Satya Nadella to sell it back. Microsoft kept it, then retired it in favor of To Do.",
+    "Now some of those former Wunderlist users may end up back with the people who built it."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/microsoft-to-do-retirement.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
   {
    "id": "f-geekwire-ttersaferbabyproductsledhimtolaunchbirch",
    "srcKey": "geekwire",
@@ -221,47 +792,19 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-oboticsanaifarmingstartupwithseattleties",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
-   "author": "Lisa Stiffler",
+   "id": "f-stb-0261120fridayroundtablesoundtransitbingo",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Sound Transit Bingo",
+   "author": "Michael Smith",
    "date": "2026-11-20",
-   "url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
+   "url": "https://seattletransitblog.com/2026/11/20/friday-roundtable-sound-transit-bingo/",
    "paras": [
-    "Orchard Robotics , an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The deal was announced Thursday and the terms were not disclosed.",
-    "The startup has developed a system of cameras mounted on tractors and other equipment that gather images as the machines traverse a farm. Orchard’s AI analyzes the images to generate data on vines, trees and crops, which is then used to track growth, yield and health.",
-    "“This acquisition connects crop-level intelligence with John Deere technology and equipment that can precisely execute the work in the field,” Tim Marquis, John Deere’s director of farm systems innovation, said in a statement.",
-    "That includes helping farmers target treatments and make better-timed decisions about thinning, spraying and harvesting.",
-    "Orchard was founded by CEO Charlie Wu , a Thiel Fellow who dropped out of Cornell University to launch his business in 2022.",
-    "“Over these next few years, our goal is to bring the power of Orchard’s industry-leading technology and AI Farming capabilities to every farmer out there,” Wu said in a LinkedIn post . “This is only the beginning of a long and awesome journey ahead.”",
-    "The startup is based in San Francisco and has an office in Seattle. Wu splits his time between the two cities and was a finalist for Young Entrepreneur of the Year at the 2026 GeekWire Awards.",
-    "Orchard has raised more than $25 million from investors, including a $22 million Series A round announced in September 2025. The startup has 45 employees, according to PitchBook.",
-    "The Pacific Northwest is home to numerous agtech startups. That includes other companies that collect and analyze data, such as Loftus Labs and innov8.ag, as well as IUNU and Koidra, which are focused on greenhouse crops. Businesses tackling field operations include weed destroyers Carbon Robotics and Aigen; rock-removing TerraClear; and irrigation startups FarmHQ and Verdi."
+    "To celebrate 30 years since voters passed Sound Move , Sound Transit is hosting a transit Bingo game today. Sound Move was the Central Puget Sound Regional Transit Authority’s first voter approved funding package to build a regional transit system. The Sound Transit brand was not adopted until 1997. Sound Move included commuter rail between Everett-Seattle and Lakewood-Seattle, light rail in Tacoma and between Seattle-SeaTac, and an extensive network of express buses in Snohomish, King, and Pierce counties.",
+    "The first component of Sound Move to enter service, ST Express, began on September 19, 1999 with nine routes. Commuter rail service started the following year with trips between Seattle and Tacoma. The agency’s first light rail line, then-called Tacoma Link, opened in August 2003. Light rail service in Seattle, Central Link, began service on July 18, 2009 between downtown Seattle and Tukwila.",
+    "Everyone is invited to explore the region while visiting stations to fill in their Bingo card today between 10am to 2pm. The first 450 people to complete a row, column, or diagonal and return their card to a designated drop-off will get a 30th Anniversary ORCA card . Everyone who gets Bingo will be entered into a raffle to win additional prizes. If you want to go above and beyond, complete every square for a chance to win a grand prize that includes one year of free transit and a behind-the-scenes ride-along through a Link train wash. For more details and the complete list of prizes, visit the Sound Transit website ."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Orchard-Robotics-camera-system.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-rbcsignals10minvestmentsatelliteservices",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "RBC Signals brings in $10M investment to expand strategic frontiers for satellite services",
-   "author": "Alan Boyle",
-   "date": "2026-11-20",
-   "url": "https://www.geekwire.com/2026/rbc-signals-10m-investment-satellite-services/",
-   "paras": [
-    "Redmond, Wash.-based RBC Signals has announced a $10 million strategic growth investment aimed at accelerating the company’s expansion into government satellite data services and the commercialization of emerging space technologies.",
-    "RBC Signals supports satellite operators by arranging access to a global network of ground stations, including its own assets and antenna facilities operated by partners.",
-    "In August, for example, Blue Origin and RBC Signals announced a partnership to build out the ground infrastructure for Blue Origin’s Quartz communications network. RBC Signals is also a provider for the U.S. Space Force’s Joint Antenna Marketplace .",
-    "The newly announced investment was led by Washington Harbour Partners , a private investment firm based in Washington, D.C. The firm ranked sixth among all defense technology investors in the Silicon Valley Defense Group’s 2026 NatSec100 Report .",
-    "“Our vision has always been to build a global, secure network of networks that makes space connectivity more accessible, flexible and reliable,” Ron Faith, RBC Signals’ president and CEO, said today in a news release .",
-    "“By bringing together infrastructure, partners and emerging technologies, we’re creating a dual-use platform that can evolve alongside the needs of the national defense and the commercial space industry,” Faith said. “This investment from Washington Harbour Partners will help us accelerate that vision by expanding our government services business and bringing emerging capabilities such as higher frequency bands, optical connectivity, intersatellite links and space domain awareness to market.”",
-    "Mina Faltas, founder and CEO of Washington Harbour Partners, highlighted RBC Signals’ role in addressing the growing demand for space connectivity. “We see tremendous potential in the company’s ability to deliver mission-critical capabilities, and we’re excited to support the team as they enter this next phase of growth,” Faltas said."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/08/260813-quartz-1260x840.jpg",
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-12.png?resize=525%2C755&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -369,24 +912,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-0261120fridayroundtablesoundtransitbingo",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Sound Transit Bingo",
-   "author": "Michael Smith",
-   "date": "2026-11-20",
-   "url": "https://seattletransitblog.com/2026/11/20/friday-roundtable-sound-transit-bingo/",
-   "paras": [
-    "To celebrate 30 years since voters passed Sound Move , Sound Transit is hosting a transit Bingo game today. Sound Move was the Central Puget Sound Regional Transit Authority’s first voter approved funding package to build a regional transit system. The Sound Transit brand was not adopted until 1997. Sound Move included commuter rail between Everett-Seattle and Lakewood-Seattle, light rail in Tacoma and between Seattle-SeaTac, and an extensive network of express buses in Snohomish, King, and Pierce counties.",
-    "The first component of Sound Move to enter service, ST Express, began on September 19, 1999 with nine routes. Commuter rail service started the following year with trips between Seattle and Tacoma. The agency’s first light rail line, then-called Tacoma Link, opened in August 2003. Light rail service in Seattle, Central Link, began service on July 18, 2009 between downtown Seattle and Tukwila.",
-    "Everyone is invited to explore the region while visiting stations to fill in their Bingo card today between 10am to 2pm. The first 450 people to complete a row, column, or diagonal and return their card to a designated drop-off will get a 30th Anniversary ORCA card . Everyone who gets Bingo will be entered into a raffle to win additional prizes. If you want to go above and beyond, complete every square for a chance to win a grand prize that includes one year of free transit and a behind-the-scenes ride-along through a Link train wash. For more details and the complete list of prizes, visit the Sound Transit website ."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-12.png?resize=525%2C755&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-mepopulationrangesfromduolingotostartups",
    "srcKey": "chs",
    "cat": "local",
@@ -468,41 +993,6 @@
     "The full City Council will vote on the final 2027-2028 budget Friday at 1 PM before sending it to the mayor for signature."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-gstontakesreadersonajourneytootherworlds",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "The Black Futures Book Club at LANGSTON Takes Readers on a Journey to Other Worlds",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://southseattleemerald.org/community/2026/11/20/the-black-futures-book-club-at-langston-takes-readers-on-a-journey-to-other-worlds",
-   "paras": [
-    "Every month this year, members of LANGSTON's Black Futures Book Club discussed literary works where afrofuturism played a core theme. With two meetings left before the year ends, facilitator Dr. Brooke Bosley is preparing for the 2027 curriculum, confirming that the Black Futures Book Club will have a future at LANGSTON.",
-    "\"When you traditionally think of science fiction, you think about Octavia E. Butler, and that may be it for a lot of people,\" said Bosley. \"During these past few years, we've been able to introduce people to so many different writers and subspaces that we might have never thought about picking up, like speculative writing.\"",
-    "The Black Futures Book Club meets every fourth Monday, from 6 to 7:30 p.m. Events are free and vary from in-person to virtual gatherings. The last two meetings of the year will be held virtually to accommodate the upcoming holidays. At the club's next meeting on Nov. 23, readers will discuss Son of the Morning by Akwaeke Emezi. On Dec. 28, the book under discussion will be Ring Shout by P. Djeli Clark.",
-    "This year's afrofuturism theme took readers on a journey through time, inviting them to engage with literature that either uses time to challenge and reimagine society or requires readers to look to the future for solutions to today's problems. Some recent works include We Are the Crisis by Cadwell Turnbull; When the Reckoning Comes by LaTanya McQueen; and The Black Girl Survives in This One: Horror Stories , an anthology.",
-    "Bosley's favorite works were speculative fiction, a genre that morphs the narrative setting from a pragmatic reality into a fantastical, supernatural, futuristic, or alternative hypothetical world.",
-    "\" As the Earth Dreams: Black Canadian Speculative Stories was really good,\" said Bosley. \"Even though they were short stories, they were so beautifully written. Each one had me thinking about the speculative story differently, and it introduced me to a whole new subset [of literature].\"",
-    "Bosley says that next year, the primary goal of the book club will be to have fun. \"We're gonna be reading stories about reimagining Black joy,\" said Bosley. \"We're trying to do more author talks, more activities, and really just have fun with reading.\"",
-    "Bosley started the Black Futures Book Club about three years ago alongside Kristina Clark, who ran LOVING ROOM: diaspora books + salon in the Central District at the time.",
-    "\"We began to talk about wanting a space where we could read science fiction [and] Black future stories, and imagine something different. But it also came out of self-interest,\" Bosley said.",
-    "Bosley, who moved to Seattle in 2022 after getting a job as a researcher at Microsoft, is a Black feminist scholar. According to her website, her scholarship work stands at the intersection of afrofuturism, Black feminism, human-computer interaction, and race and technology, and is meant to \"challenge and reimagine conventional design principles and practices that are often grounded by colonialism.\" Bosley has a doctorate and a Master of Science in digital media from the Georgia Institute of Technology.",
-    "The Black Futures Book Club is a multigenerational space, and Bosley says one of her favorite parts of facilitating the club is seeing people of all ages coming together to enjoy reading.",
-    "\"Someone from the club reached out to me earlier this year and said, 'Thank you so much for providing a space where older Black women can be seen and have a space to talk and do things, because I'm learning about myself,'\" said Bosley. \"And that is a really nice part of it: that everyone comes with a different variety and walk of life.\"",
-    "We Will Rise Again , edited by Karen Lord, Annalee Newitz, and Malka Older",
-    "When the Reckoning Comes by LaTanya McQueen",
-    "Abbott , a graphic novel series by Saladin Ahmed",
-    "Love After the End: An Anthology of Two-Spirit and Indigiqueer Speculative Fiction",
-    "Positive Obsession , an Octavia E. Butler biography by Susana M. Morris",
-    "You Should Have Been Nicer to My Mom by Vincent Tirado",
-    "As the Earth Dreams: Black Canadian Speculative Stories",
-    "The Black Girl Survives in This One: Horror Stories , an anthology"
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/2026-11-20/bks1hxe1/Black-Futures-Book-Club.png",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -610,158 +1100,6 @@
    "annos": null
   },
   {
-   "id": "f-cascade-ilersnickontherocksseason8premieresd4zos",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Nick on the Rocks | Season 8 Premiere",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/show/nick-rocks/trailers/nick-on-the-rocks-season-8-premiere-sd4zos/",
-   "paras": [
-    "Nick Zentner, Senior Geology Lecturer at CWU, leads viewers on adventures in WA landscapes."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/4bddae8f-5428-4115-ba08-2ed414e543b1.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-wcityofsongstrailersseason2previewzzua7r",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Season 2 Preview",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/show/city-of-songs/trailers/season-2-preview-zzua7r/",
-   "paras": [
-    "Musician Stephanie Hunt explores the sounds of some of the world's most iconic cities."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/fd2d912d-0eae-4faf-9a58-cfea450d8523.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-howcityofsongsextrassanjuanpreviewa9gy0v",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "San Juan Preview",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/show/city-of-songs/extras/san-juan-preview-a9gy0v/",
-   "paras": [
-    "In San Juan, music carries both joy and resistance. Steph travels to Puerto Rico to explore the birthplace of reggaetón and her own roots, arriving as Bad Bunny launches his first hometown residency. Guided by artists, activists, and local legends, she traces how reggaetón rose from barrio beats to world stages without losing its Boricua soul, and finds pieces of herself along the way."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/016f5b99-5ce9-4120-b0bf-277378588df7.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-erstompettyheartbreakersbeachpartycoob2d",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Tom Petty: Heartbreakers Beach Party",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/show/american-masters/trailers/tom-petty-heartbreakers-beach-party-coob2d/",
-   "paras": [
-    "Cameron Crowe’s long-lost 1983 documentary captures Tom Petty and the Heartbreakers during the making, promotion, and touring of their album Long After Dark. Pulled from MTV after its initial airing, the film became music-industry folklore. Now fully remastered, this candid, fast-paced time capsule offers a rare glimpse of one of rock’s greatest bands at the dawn of the MTV era."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/c7468a2b-a5f9-4b65-80f4-27a49b708771.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-bsorgshowcinemanomadepisodetunisiaxm8wc0",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Tunisia",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/show/cinema-nomad/episode/tunisia-xm8wc0/",
-   "paras": [
-    "In French-Arabic influenced Tunis, we visit Manel, who makes deeply personal films. We travel the country to seek out filming locations and encounter a rich diversity of cultures and landscapes: the Mediterranean coast to ancient Phoenician ruins; historic holy cities; across a salt lake into the Sahara. From 'Star Wars' to 'The English Patient', we explore the world of movies made in Tunisia."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/d2c124dd-3d44-4a7f-826a-4956b3fc0b97.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-nforcementcontinuestoimpactlocalfamilies",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Immigration enforcement continues to impact local families",
-   "author": "Jaelynn Grisso",
-   "date": "2026-11-20",
-   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/11/immigration-enforcement-continues-to-impact-local-families/",
-   "paras": [
-    "Six-year-old Victoria went to downtown Seattle earlier this year after being called in for an immigration court hearing. Officials had marked her as an “unaccompanied minor” - despite the fact she came to the U.S. with her parents - and separated her case from her parents’ case.",
-    "Advocates working closely with families told Cascade PBS they frequently see this process of separating kids' cases from their parents and believe it’s a tactic to sow confusion.",
-    "“In the last year we've really seen an escalation in the attacks by ICE on migrant families, migrant children, migrant women,\" said Anna Beyette, an organizer with International Women’s Alliance. “What we've actually seen, since the start of the year, is the escalation of particularly children's courts into something that they're referring to as ‘mega master’ hearings.”",
-    "Those hearings often saw dockets with a hundred cases or more per day. Beyette says the mega master hearings have slowed since this summer, but the number of cases in a regular court day has still gone up. She estimates that dockets had about a dozen cases a day before the mega master hearings began, and now they have an average of 50 60 cases in a regular court day.",
-    "In the first half of this year, more than 300 children were arrested as part of immigration enforcement in Washington. But that is only a fraction of the kids who have ongoing cases and could be called into court. Beyette estimates the number of children with hearings this year to be over a thousand.",
-    "“It's terrifying for the children. Many of them are young,” Beyette said. “When you go in there, you see families with babies and toddlers who are there for their toddlers' appointments. And so to ask children to advocate for themselves oftentimes in like not their native language, without proper information to them about what's happening, is just really a violation of their human rights.”",
-    "Many of those arrested are between 10 and 14 years old. But some arrests are for kids much younger, including a handful that were under a year old.",
-    "As for 6-year-old Victoria, Beyette and many others successfully rallied to push for her case to be reconnected to her mom’s case. She says she sees that as a win not just for Victoria, but for every family encountering this situation.",
-    "“One thing that I really want to make very clear is that even as there are these heightened attacks on migrant families and our communities, we're seeing people fighting back,” she said. “Even as they're afraid for their families, they're fighting back because migrants always are at the forefront of fighting not just for their families, but to end a system that is forcing them from their homelands and then targeting them when they come here to the U.S.”",
-    "Home Depot parking lots were once a place for those looking for a day’s work to gather.",
-    "During late summer and early fall, U.S. Immigration and Customs Enforcement agents were responsible for a surge in arrests of day laborers at Seattle-area home improvement big box stores.",
-    "In the months since, those crackdowns have reportedly decreased in the Seattle area.",
-    "KUOW reporter Gustavo Sagrero Álvarez has been covering immigration enforcement surges at Seattle metro-area Home Depots.",
-    "Sagrero Álvarez said what's often not talked about is that the men searching for work span the spectrum of immigration status, including U.S. citizens, asylum seekers, and likely a significant number without legal status.",
-    "“One of the gentlemen that I spoke to in the story, he had been here [in Washington] for two years recently, and his family was back in Mexico, and he was here living in the United States - working in the United States without documentation,” said Gustavo Sagrero Álvarez, who covers the intersection of race and identity.",
-    "“And he was trying to figure out how to maintain his life here, sustain himself, while also sending what he could back to his family. There are other people, though, that have been here for so much longer. Decades, you know, sometimes even longer than I've been alive. Which is kind of crazy to think, you know, at least for somebody who's 30 years old, right? And these gentlemen have been making a living doing this kind of workday, in and day out for, for that long,” Sagrero Álvarez said.",
-    "Since those surges, people looking for work in those parking lots, are often few and far between in the Seattle metro area. However, east of Seattle in Central Washington, Sagrero Alvarez noted similar surges are happening in Yakima, an area with a large Latino population.",
-    "The Department of Homeland Security said it has no plans to stop deportations. The agency said in a statement: “ICE is NOT backing away or slowing down. Under the leadership of President Trump and Secretary Mullin, DHS will continue to enforce our nation’s laws and remove criminal illegal aliens from our streets.”",
-    "Meanwhile, Sagrero Álvarez says many of the men arrested by ICE agents are in varying situations.",
-    "“Some folks are still fighting their cases to stay in the United States. It's a mix of people are in the immigrant lockup in Tacoma, and then others have already been deported out,” he said. “And there are in some cases, I haven't heard yet of anybody being released back into the community just yet. But that would be that would be the next story.”",
-    "Will the “blue wave” in Congress bring about the change voters expressed they wanted at the ballot box?",
-    "On January 3rd, the 120 th Congress will be sworn in with Democrats in the majority in both the U.S. House and Senate.",
-    "Washington Rep. Adam Smith, who won re-election in the state’s Congressional 9 th District, says getting things done will be difficult as the President has said he’ll use his veto power.",
-    "But Smith says his party will prioritize passing legislation that helps the American people and addresses corruption. “Fixing immigration policy, getting after the tariffs, getting after the health care issues -policies that reverse the very damaging policies that the Trump administration has put in place. And then second, going after the corruption. Holding the Trump administration responsible for just all the illegal activity that they've done, some of that is just directly enriching the President and his friends.” Rep. Smith said.",
-    "Smith says immigration enforcement today is “an abomination” under the Trump administration.",
-    "He says he doesn’t support open borders but believes there is a legitimate policy difference between open borders, and what he calls the administration’s draconian crackdown. He says those policies have created “a campaign of terror” on immigrant populations.",
-    "Washington state houses one of the nation’s private immigration detection centers, the Northwest ICE Processing Center in Tacoma. It has seen a significant increase in its population size under the Trump administration and heavy scrutiny for reported human rights violations. Cascade PBS has reported on a series of those complaints inside the facility, from what happens when there is an assault in the Northwest ICE Detention Center, to concerns over legal service access , and on i nvestigations into how immigrant rights groups mobilize as the federal government pushes for deportation.",
-    "Smith says immigration detention centers face fewer regulations and requirements than federal prisons.",
-    "“I think we need to get rid of private prisons. (Rep.) Pramila Jayapal and I have had, for a decade now, a bill to reform that, to get rid of private prisons and put in place standards and requirements for these detention facilities.” Smith said.",
-    "Meanwhile, post the midterms, in a 60 Minutes interview that aired on CBS the President admitted his “deportation policy was too tough.”",
-    "“The President says stuff. It doesn’t - doesn't mean anything. I mean, he says that and then he makes Stephen Miller his Chief, his Chief of Staff. And, you know, I see no evidence that Trump is going to reverse those policies,” Smith said.",
-    "When her son was a junior at Seattle’s Franklin High School, Shannon Underwood offered his school something most parents can’t: her expertise as an immigration attorney.",
-    "It led her to a legal clinic there, where she sat down with immigrant families answering a hard question: Who would care for their children if they were detained or deported?",
-    "“Every parent’s number one concern is what happens if I’m arrested and my child’s left behind,” she said. “There’s a lot of tears and a lot of fear in this.”",
-    "Underwood and other volunteers helped parents fill out guardianship and power-of-attorney paperwork, naming a trusted adult to step in if a family is separated. Some parents went a step further at the 2025 clinic, preparing papers that would let their children travel alone to Mexico to join them if they were deported, Underwood said.",
-    "“We were encouraging people to essentially prepare for the worst,” she said. “It was wonderful to see the community come together the way that it did — the efforts by the school to take care of their immigrant community.”",
-    "Amid a surge in immigration enforcement, attorneys, advocates and some schools across Western Washington are urging more immigrant families to make these documents, often called “immigrant safety plans.”",
-    "“It’s absolutely important,” said Lu Jiang, who manages the immigrant safety plan program at Legal Counsel for Youth and Children, a Seattle legal nonprofit. “This is a community resource. It’s a resource for everyone.”",
-    "LCYC created its plan in 2017 in response to the first Trump administration’s immigration policies, Jiang said. Today, its 46-page packet , available in 12 languages, includes a step-by-step guide along with two legal forms parents can fill out. LCYC’s version is among the best-known plans, but it’s not the only one.",
-    "“There are multiple ways to do this,” Jiang said."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/20261120_immigration_cost--V1.00_00_44_28.Still002.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-1CZVZmVDlpWEVxQXU1TC1UQTd1M214SThWU0ooc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Spokesman-Review nonprofit plan dies with editor's departure",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnBDaVlEWlJvYk9wVV9aakNtam43Z1dtckUzZ25HckxKaWZCQXFMNDZYT0lOd3hzQ1k3RTFUN0NidDlLTmJ6V2JYenEtT0dqSUNCRjUxTVVCc2lpZzBoZHpZZkdyRmxoZ0ZORHhveU5mMjVTVHBlOFIwTDFDYTVjMVlWNE9OMlBaNjFKa0YtczRoS2NjOU5JSFllMVVMOTNlMVp6TC1CZVZmVDlpWEVxQXU1TC1UQTd1M214SThWU0o?oc=5",
-   "paras": [
-    "Spokesman-Review nonprofit plan dies with editor's departure InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-grist-NZWZqVkVCUGNGSlQ3alFkdlVvMDVNX2Q4S1proc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -779,301 +1117,19 @@
    "annos": null
   },
   {
-   "id": "f-bbc-lesc6jreyqgw4e9oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm1wr029evnqoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqx2x9dklxnroatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosc65y19wy3xl8oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "What we know about the latest Russian missile strikes on Ukraine",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Russia struck bridges and railway stations in the capital Kyiv in a major attack."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2f6/live/3145d4a0-e4f0-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmy49lekdkkzoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Man guilty of murdering woman he groomed on fetish site",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49lekdkkzo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Dwain Hall has been found guilty of the kidnap and first-degree murder of Sonia Exelby."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f693/live/ae3fccb0-89c7-11f1-a501-d9a9d2e9b6c1.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6808ym10vzgoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "author": "",
-   "date": "2026-11-20",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Other tech companies have also taken a hit as share markets broadly slump."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/599393b0-e50f-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-4797nasdaqsp500stockmarketaisinknegative",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-   "author": "The Associated Press",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-   "paras": [
-    "AI stocks have hefty market values and have a much bigger impact on the market's direction. They were responsible for Wall Street's big gains this year and are now behind the big slide for the market."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7561x5041+0+0/resize/7561x5041!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ffd%2F44%2Fb43d4bb943bb9b380c4b94631ed4%2Fap26321557592396.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-wwwnprorg20261120nxs16047636trumppresser",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "The latest from Trump's press conference",
-   "author": "Franco Ordoñez",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-   "paras": [
-    "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6047636",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-shaveforcedthisquinaultvillagetorelocate",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Rising seas have forced this Quinault village to relocate",
-   "author": "John Ryan",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-   "paras": [
-    "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-6046485",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-0nxs15860971trumpsimpactonohiosteelplant",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump's impact on an Ohio steel plant",
-   "author": "Reid Frazier",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
-   "paras": [
-    "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal. The switch would have cut hazardous air pollution -- and greenhouse gas emissions. But that plan has changed under President Trump"
-   ],
-   "img": "https://media.npr.org/include/images/tracking/npr-rss-pixel.png?story=nx-s1-5860971",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-1120nxs16048675trumparchblockedarlington",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-   "author": "Rachel Treisman",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-   "paras": [
-    "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6968x4645+0+0/resize/6968x4645!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb6%2Ff0%2F3f087dc140c29e91979734a212a3%2Fap26264499190048.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-047605midtermelectiondistrustrepublicans",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "author": "Miles Parks",
-   "date": "2026-11-20",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-   "paras": [
-    "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4657x3136+0+0/resize/4657x3136!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F8b%2F8f6f9ccc4492a5a6d3619a61182e%2Fgettyimages-2303366947.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-2026nov20melaniareviewtvdocumentaryprime",
+   "id": "f-guardian-providehopeandjoyinacitythatbadlyneedsit",
    "srcKey": "guardian",
    "cat": "national",
-   "title": "Melania: the series review – so bad it robbed me of my capacity to discern time and space",
-   "author": "Stuart Heritage",
+   "title": "Washington Spirit provide hope and joy in a city that badly needs it",
+   "author": "Pablo Iglesias Maurer",
    "date": "2026-11-20",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/20/melania-review-tv-documentary-prime",
+   "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
    "paras": [
-    "The first lady’s two-part TV documentary is a dead-eyed advert that barely manages to masquerade as entertainment. Calling it thin gruel would be an insult to the gruel industry",
-    "Previously on Melania: earlier this year – either because it found her a compelling subject, or because it wanted to flatter the president before a potentially destructive upcoming antitrust trial – Amazon spent $75m (£57m) to make and market a theatrically released documentary about Melania Trump.",
-    "I’m telling you this for two reasons. First, because you didn’t watch the Melania film. Nobody did, except for journalists who sat in otherwise empty cinemas and (if reports are to believed) people who responded to Craigslist ads offering them $50 to see it. The second reason is because Melania is a series now."
+    "Spirit’s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than one",
+    "In the moments after the Washington Spirit’s 2-1 semi-final victory over the Utah Royals last weekend, all of Audi Field was in rapture. In the stands, around 20,000 Spirit supporters had filled the stadium to capacity, the sixth time they’d done so in 2026. They filled the place with the type of wondrous noise that’s become alien in DC sports in recent years, the type of gleeful adoration reserved for the city’s rare winners. The Spirit will return to their home stadium to face the Kansas City Current in the NWSL championship this Saturday.",
+    "In short order, the Spirit’s players made their way to the north end of the stadium, taking their celebrations into the crowd with their supporters. Perhaps no player has done more to push the Spirit into not only local but national relevance than US women’s national team forward Trinity Rodman, and Rodman herself grabbed a flag from a fan, jubilantly waving it above the crowd. Moments later, she bolted back onto the field and track down the club’s owner, Michele Kang, cajoling the businesswoman into a celebratory dance."
    ],
-   "img": "https://i.guim.co.uk/img/media/803a07b3d049c498409c19962d75833e389d5abc/222_0_2140_1712/master/2140.jpg?width=140&quality=85&auto=format&fit=max&s=e7068ac8df56f0529c17952a58be4c28",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ree2026nov20democratsbluecollarpopulists",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "If Democrats want to win, blue-collar populists are the key | Dustin Guastella and Jared Abbott",
-   "author": "Dustin Guastella and Jared Abbott",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/20/democrats-blue-collar-populists",
-   "paras": [
-    "Our analysis shows that ‘Bernie-Dog’ candidates are the most underrated success stories in US politics",
-    "Democrats had a huge night on 3 November. The party ran an average of about 15 points ahead of Kamala Harris’s 2024 margins, and picked up seats that Trump carried by double digits just two years ago.",
-    "Of course, the size and scope of the blue wave make it hard to draw specific lessons, and the results will inevitably serve as a Rorschach test reflecting each commentator’s prior beliefs. Democrats of all stripes won elections in all sorts of unlikely places."
-   ],
-   "img": "https://i.guim.co.uk/img/media/ea4c1580da70e3a7298c2a8cec2937d0daea7dca/440_0_4620_3697/master/4620.jpg?width=140&quality=85&auto=format&fit=max&s=bed2e1622f0afad0e1d23da92ef87fed",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-mwellness2026nov20howhealthyaremushrooms",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Vitamin D, fiber and flavor: how healthy are mushrooms?",
-   "author": "Adrienne Matei",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/wellness/2026/nov/20/how-healthy-are-mushrooms",
-   "paras": [
-    "Experts say there are many reasons to boost our consumption of mushrooms and incorporate them into our diets",
-    "Mushrooms aren’t quite as popular in the US as they are in other parts of the world . On average, Americans eat just shy of 4lb (1.81kg) of mushrooms per capita each year, while in South Korea people eat almost 6lb (2.72kg) a year, and in Japan, that number is closer to 12lb (5.44kg).",
-    "People in the US also don’t consume as wide a variety of mushrooms as other parts of the world, says Dr Krystle Zuniga, a board-certified oncology dietitian based in Austin, Texas. “I often think of them as a forgotten vegetable,” she says, though she clarifies they are technically fungi."
-   ],
-   "img": "https://i.guim.co.uk/img/media/47a1165ff3b1df45c83ad8be50325946fdfa6293/369_0_5239_4192/master/5239.jpg?width=140&quality=85&auto=format&fit=max&s=c3f32740422a80d42fa35f32810779be",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-2026nov20cyberattacksoutagesblameeconomy",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Don’t blame cyber-attacks for recent outages. The real villain is the US economy | Bruce Schneier",
-   "author": "Bruce Schneier",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/20/cyber-attacks-outages-blame-economy",
-   "paras": [
-    "Our tech infrastructure is riddled with problems. But they’re all downstream of the incentives baked into shareholder capitalism",
-    "It’s been a bad week for our computerized infrastructure. We’ve seen outages at Microsoft , the FAA , a handful of banks , United Airlines , an unnamed classified NSA network , and Apple . People should be forgiven for suspecting a coordinated cyber-attack, a common cause, or at least a conspiracy. But there is none.",
-    "The incidents are unrelated. They’re not the result of any cyber-attack, coordinated or not. And, even more surprising, they don’t seem to be the result of AI. (We can’t say anything about the NSA; we’ll probably never know the details of that one.) It’s really just a series of unfortunate coincidences."
-   ],
-   "img": "https://i.guim.co.uk/img/media/06367e7fdfd0f05a668d10411818299d34910160/656_0_6561_5249/master/6561.jpg?width=140&quality=85&auto=format&fit=max&s=1fd17bd548ba127b4f7c623cfd2410d2",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-2026nov20icecubahungerstrikeforcefeeding",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-   "author": "José Olivares",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-   "paras": [
-    "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike",
-    "The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.”",
-    "A Cuban asylum seeker, Luis Alejandro Cora Pérez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful."
-   ],
-   "img": "https://i.guim.co.uk/img/media/753c8bfdbccb0b49e67ae5dbfac970caa7c20394/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=dfe5f4af44bfed45282bdb4342afd283",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-26nov20richardavedonhollywoodphotographs",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Richard Avedon’s rarely seen portraits of Hollywood A-listers – in pictures",
-   "author": "Compiled by Gail Fletcher",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/artanddesign/gallery/2026/nov/20/richard-avedon-hollywood-photographs",
-   "paras": [
-    "After consulting on the production of the 1957 musical Funny Face, which was loosely based on his own life as a young photographer, Richard Avedon considered leaving photography behind to pursue film directing. Although he ultimately remained a photographer, his fascination with Hollywood and its ideals endured throughout his life.",
-    "Richard Avedon: Hollywood, a new exhibition, brings together more than 120 of Avedon’s iconic and rarely seen photographs of major Hollywood figures, including actors, directors, writers and composers, capturing the allure and influence of the entertainment industry.",
-    "The exhibition was curated by the Richard Avedon Foundation and is on view at Gagosian in Beverly Hills, California, through 19 December 2026"
-   ],
-   "img": "https://i.guim.co.uk/img/media/e0420157892b34f2e371425d97f2c2e61e10cd57/0_21_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cb4b3ad944f70805bd4dc43471785c66",
+   "img": "https://i.guim.co.uk/img/media/12ce00de35ae4e4967ce3c21f4229b2fcc8d716d/367_0_4873_3900/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=abd42efe137a0a78a5721b2101b6def7",
    "fetched": true,
    "fullText": false,
    "annos": null
@@ -1262,73 +1318,25 @@
    "annos": null
   },
   {
-   "id": "f-conversation-nevenaccesstocareisthemajorculprit294770",
-   "srcKey": "conversation",
-   "cat": "national",
-   "title": "Preventable vision loss affects more than a billion people globally - and uneven access to care is the major culprit",
-   "author": "<name>Joshua R. Ehrlich, Associate Professor and Population Health Scientist, University of Michigan</name>\n      <foaf:homepage rdf:resource=\"https://theconversation.com/profiles/joshua-r-ehrlich-2646554\"/>",
-   "date": "2026-11-20",
-   "url": "https://theconversation.com/preventable-vision-loss-affects-more-than-a-billion-people-globally-and-uneven-access-to-care-is-the-major-culprit-294770",
-   "paras": [
-    "Around the world, more than 1 billion people are living with vision loss in their daily lives. For many, this means they don’t have the glasses they need to see clearly. For others, conditions such as cataracts , glaucoma , macular degeneration or diabetic eye disease have caused vision loss.",
-    "The burden of this problem is not shared equally – 55% of those experiencing vision loss are women and girls, 73% are ages 50 and older , and 90% live in low- and middle-income countries .",
-    "Age is the most important risk factor for vision loss . Since global populations are rapidly aging , the number of people experiencing vision loss is expected to increase to more than 1.7 billion by 2050.",
-    "So this public health threat is growing. Yet, it’s also almost entirely avoidable.",
-    "We are both population health researchers , and one of us is an opthamologist . We also lead the Michigan Sensory Health and Aging Research Collaborative at the University of Michigan, where we have spent years working to advance vision and eye health for underserved populations in the U.S. and globally. Recent developments give us hope that real progress is within reach.",
-    "Losing vision quite literally affects how people see the world, and it also increases their risk of other health issues , including falls, depression and even dementia. The risk of mortality is more than twice as high for adults living with vision loss.",
-    "The upside is that about 80% of vision loss can be reversed or prevented with timely detection and treatment. In fact, most cases can be fixed with eyeglasses or cataract surgery, two of the most cost-effective interventions in all of healthcare.",
-    "A recent report showed that eye care is not only important for health and well-being, but it is also a smart investment: Every dollar that low- and middle-income countries invest in eye health returns US$28 to their economies . This makes eye health easily one of the best deals in global health and development.",
-    "Back in 1999, the World Health Organization launched an initiative called VISION 2020: The Right to Sight . The aim was to draw attention and resources to vision and eye health problems, including those that would affect an aging global population.",
-    "More recently, in 2021, 193 United Nations member countries unanimously ratified a resolution calling on governments and international financial institutions to improve access to eye care and to provide the resources to make this possible.",
-    "In addition, this resolution acknowledged the central role of vision and eye health in achieving the U.N. sustainable development goals , a set of 17 ambitious aims, including universal access to food, clean water, education and work. Reframing vision and eye health as a development issue with a massive financial upside put the problem in front of people from a variety of sectors, such as education, labor and economics, and encouraged them to imagine how they could be a part of the solution.",
-    "In the five years since that resolution passed, the eye health sector has evolved some innovative strategies. For example, the new Vision Catalyst Fund brings together large-scale donors, nongovernmental organizations and local medical providers to test new approaches to paying for eye care and getting it to those most in need.",
-    "Another organization that has emerged to tackle avoidable vision loss is Peek Vision , a U.K.-based charity that began as a simple smartphone app. This app can be used by anyone with access to a smartphone to screen vision. So far, it has been used to screen more than 18 million people for vision loss and has connected more than 1.5 million to eye care. The organization is hoping to screen a million people per week by 2029.",
-    "In November 2026, the government of Antigua and Barbuda hosted the first-ever Global Summit for Eye Health , in collaboration with the governments of Nigeria, Guyana, Ireland and Bangladesh and the WHO. Policymakers, nongovernmental organizations, heads of state and global organizations such as the U.N., WHO and World Bank attended, with an eye toward a singular goal – ending avoidable sight loss worldwide.",
-    "The summit’s goal was to bring together key players from across the eye health sector. Governments and organizations are being asked to make forward-looking commitments toward accelerating progress. For example, 48 governments committed to embedding eye health in their national health systems, while health ministries, NGOs and eye hospitals have committed to providing cataract surgery and eyeglasses to tens of millions of people over the next few years.",
-    "The evidence to drive this investment is already there: Trials have shown that vision care for kids boosts educational outcomes . In middle-aged and older adults, research shows that an inexpensive pair of reading glasses boosts productivity and economic earnings in the agricultural , garment and artisan industries.",
-    "While low- and middle-income countries contend with the overwhelming majority of vision loss, the problem is also significant in the U.S., where an estimated 32.2 million people contend with vision loss .",
-    "Older adults are by far the most affected group. While they benefit from Medicare coverage for medical issues such as cataracts, glaucoma and macular degeneration, major gaps remain, including unequal access to advanced eye care and inconsistent coverage of eyeglasses by Medicare.",
-    "Under traditional Medicare, eyeglasses are covered only once in a beneficiary’s lifetime, following cataract surgery. Otherwise, glasses can be a large – and recurring – out-of-pocket expense. With a pair of glasses costing an average of US$200-$370 in the U.S., compared with roughly $35 in China or India , clear eyesight may be financially out of reach for many older Americans. Low-cost online retailers have helped to disrupt this market, but accessing glasses through those websites still requires internet access and a credit or debit card.",
-    "Older adults dealing with common issues such as cataracts or refractive error , which causes blurry vision, are at higher risk for all sorts of costly downstream health issues, including falls and dementia . Each year in the U.S., 2.3 million older adults wind up in the ER for a fall, and nearly 1 million are admitted to the hospital, costing the healthcare system about $20 billion . When it comes to dementia, the costs are even greater , at around $750 billion dollars per year.",
-    "Financing more comprehensive eye care for older Americans is actually in everyone’s best interest. In fact, every dollar that public programs such as Medicare invest in treating refractive error and cataracts in older Americans is likely to return $9 to the U.S. economy. Annually, this equates to around $23 billion. This return on investment comes in the form of increased economic productivity, medical cost savings, fewer falls and fewer people with dementia.",
-    "Being able to see clearly is essential to overall health and well-being. The data is clear, that regardless of a country’s level of wealth, it makes sense to put resources toward vision and eye health.",
-    "Joshua R. Ehrlich receives funding from The US National Institutes of Health and has received an honorarium from AARP.",
-    "David Hutton receives funding from the US National Institutes for Health and the Jaeb Center for Health Research."
-   ],
-   "img": "https://images.theconversation.com/files/770313/original/file-20261105-64-eoegvk.jpg?ixlib=rb-4.1.1&rect=0%2C0%2C5472%2C3648&q=45&auto=format&w=1050&h=700&fit=crop",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-eliverybillasitralliescustomerstofightit",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Amazon threatens to leave NYC again, this time over delivery bill, as it rallies customers to fight it",
-   "author": "Kurt Schlosser",
+   "id": "f-stb-om20261119historyofautomatedtraincontrol",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "History of automated train control",
+   "author": "Martin Pagel",
    "date": "2026-11-19",
-   "url": "https://www.geekwire.com/2026/amazon-threatens-to-leave-nyc-again-this-time-over-delivery-bill-as-it-rallies-customers-to-fight-it/",
+   "url": "https://seattletransitblog.com/2026/11/19/history-of-automated-train-control/",
    "paras": [
-    "Amazon and New York City are fighting again.",
-    "The Seattle tech giant is threatening to move its delivery operations out of the city over a proposed law that would require it to directly employ the drivers who bring packages to New Yorkers’ doors. It’s also asking its customers to help fight the bill.",
-    "The legislation, known as the Delivery Protection Act or Intro 518 , would apply to companies that run last-mile delivery facilities in the city. Amazon is the main target, but FedEx and several regional couriers would also be covered.",
-    "Companies would need a license from the city’s Department of Consumer and Worker Protection, which would also investigate complaints. The bill was introduced in February.",
-    "On Thursday, Amazon began showing New York City customers pop-up messages and a homepage banner that reads, “NYC Council could add up to $5 per order. Act now to protect low prices.” The notices link to a form and a pre-written letter customers can send to their council members to oppose the bill, Bloomberg reported . Amazon pointed GeekWire to a study by consulting firm AKRF estimating the bill would raise consumer costs by $409 to $664 a year, but didn’t detail how it arrived at the per-order figure.",
-    "In a blog post , Amazon said it relies on a network of small delivery businesses in the city. “If this legislation passes, we’d no longer be able to work with them, and we’d be forced to consider moving our operations outside of the city,” the company wrote. “That would likely mean slower and more expensive delivery for millions of customers in New York City, while also threatening small businesses and their thousands of employees.”",
-    "Amazon launched its Delivery Service Partners program in 2018, letting entrepreneurs start their own companies to deliver Amazon packages in Amazon-branded vans and uniforms. The companies hire their own drivers, while Amazon pays them to deliver and offers discounts on vehicles, fuel and insurance. The model lets Amazon expand its delivery network without directly employing drivers.",
-    "In a statement to GeekWire, Amazon spokesperson Kelly Nantel said the bill “as written” would threaten more than 40 small delivery businesses the company works with in the city and the more than 5,000 New Yorkers they employ. More than 2,000 Amazon employees also work at its delivery facilities in the city, the company said.",
-    "“We’re hopeful this bill doesn’t pass as written,” Nantel said. “But so far, key City Council members seem uninterested in learning about our delivery operations.” Amazon said neither Council Member Tiffany Cabán, the bill’s sponsor, nor Mayor Zohran Mamdani has accepted its offer to visit a delivery facility. The company also said customers sent about 20,000 emails to council members within six hours of the campaign’s launch Thursday morning.",
-    "The standoff echoes Amazon’s 2019 reversal on its second headquarters. That February, the company abruptly canceled plans to build a 25,000-person “HQ2” office in Long Island City, Queens, after more than a year of competition among cities to host it. Amazon blamed “a number of state and local politicians” who opposed the project, which drew fierce criticism over roughly $3 billion in government incentives.",
-    "Amazon stuck with its plans for Arlington, Va., and Nashville and didn’t reopen its search. Polls at the time showed most New Yorkers supported the deal, but Queens officials, labor leaders and activists fought it. State Sen. Michael Gianaris, who led the opposition, accused Amazon of trying to shake down governments to get its way.",
-    "City leaders backing the delivery bill see a familiar pattern. “Amazon is once again making spurious attacks against this commonsense legislation that would make workers and our streets safer,” said Cabán, the bill’s sponsor, who called Amazon’s warning a “dishonest scare tactic.”",
-    "City Council Speaker Julie Menin questioned Amazon’s cost claims in a post on X .",
-    "“It defies logic that Amazon, a $3 trillion corporation, would raise New Yorkers’ cost of living if it’s forced to adhere to basic regulations and worker protections,” she wrote, adding that the council is “crafting legislation that regulates Amazon and protects workers, without impacting prices or jobs.”",
-    "Mamdani endorsed the bill in August, saying Amazon’s subcontractor model “leaves workers vulnerable and corporations free to avoid accountability for reckless conditions on city streets,” CNBC reported .",
-    "Supporters, including the Teamsters union, which has sought to organize Amazon drivers and warehouse workers, say the bill would make the work safer and make it harder for Amazon to distance itself from driver injuries.",
-    "Amazon disputes that the bill would improve safety. The company said it has invested more than $2.5 billion in driver safety since 2019, that the serious crash rate for its drivers in New York City fell 35.7% from 2024 to 2025, and that drivers there have averaged nearly $24 an hour since January 2025, with required health coverage and paid time off.",
-    "Meanwhile, business groups have run ads against the bill and warned they may sue the city if it passes, according to CNBC . The measure is awaiting review by Menin."
+    "As I explained a few years ago , automating new lines and even existing lines would have many advantages. Even Sound Transit has recently considered automating the Ballard extension. Some people still consider automated train control (ATC) as unproven even though many airports (SeaTac, JFK AirTrain…) and subways use this technology such as Vancouver Skytrain and new lines on Hawaii and in Montreal already use the technology. Let’s look at the history .",
+    "Automating trains is much easier than having fully autonomous cars. As long as the trains run on tracks in a separate right of way, no complex video or even lidar systems are required but track sensors and a more powerful signaling and train control system. Platform doors are often added for additional safety.",
+    "Boston already started to experiment with automating trains in 1901. Berlin in 1928. Paris operated a short line from 1952 to 1957 but didn’t have funds for upgrades until the first main line was upgraded in 1966. More lines have been upgraded since. Tokyo started limited operation in 1962, more lines have been added since. Hitachi automated the Disney and Linimo monorail. London started tests in 1968. The Victoria Underground Line finally started fully automated operations in 1967.",
+    "While initially the trains still had a driver, fully driverless operation started in Kobe (Japan) and later in Lille (France), Barcelona and airports such as JFK.",
+    "In Nürnberg (Germany) they even allowed mixed operation between traditional and driverless trains in 2008.",
+    "More modern light metros such as Vancouver’s Skytrain (in 1985), London’s Dockland Light Railway (in 1987) and Copenhagen were designed as automated systems from the beginning allowing for shorter trains without a cab, smaller stations, and higher frequency. Recent new lines in Montreal (REM) and Hawaii also leveraged these advantages. Now many systems around the world are driverless. While Italian Ansaldo/Hitachi Rail STS developed their train systems around ATC, established rail provides ( Alstom Urbalis Fluence and Siemens Trainguard MT ) added ATC support to some of their existing rail offerings. Siemens AutomatedTrain effort is even automating regular heavy rail operation including the video detection of obstacles along the tracks.",
+    "As I explained in my prior post, Sound Transit had evaluated various modes in 2014. This included automated light metro systems such as Skytrain. At that time they decided on light rail technology for the spine to allow for both DSTT as well as at-grade operation. However, for some extensions Sound Transit is now planning, such as Ballard, it might be better to keep them separate rather than interlining them to leverage ATC advantages such as higher frequency and smaller stations.",
+    "As the northern Link line is fully grade separated, Link trains could even run fully automated from Everett to downtown. This would allow more precise acceleration and breaking, reduced headways (as close as 60sec) and faster turnaround at the end of the line, reducing the need for pocket tracks. Alstrom claims it reduces trackside equipment usage by up to 20% and energy consumption by up to 30%.",
+    "I hope Sound Transit would seriously consider automation where feasible."
    ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/amazondeliver2-1260x840.jpg",
+   "img": "https://i0.wp.com/live.staticflickr.com/4078/4772123297_50b937e400.jpg?resize=500%2C333&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1454,30 +1462,6 @@
    "annos": null
   },
   {
-   "id": "f-stb-om20261119historyofautomatedtraincontrol",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "History of automated train control",
-   "author": "Martin Pagel",
-   "date": "2026-11-19",
-   "url": "https://seattletransitblog.com/2026/11/19/history-of-automated-train-control/",
-   "paras": [
-    "As I explained a few years ago , automating new lines and even existing lines would have many advantages. Even Sound Transit has recently considered automating the Ballard extension. Some people still consider automated train control (ATC) as unproven even though many airports (SeaTac, JFK AirTrain…) and subways use this technology such as Vancouver Skytrain and new lines on Hawaii and in Montreal already use the technology. Let’s look at the history .",
-    "Automating trains is much easier than having fully autonomous cars. As long as the trains run on tracks in a separate right of way, no complex video or even lidar systems are required but track sensors and a more powerful signaling and train control system. Platform doors are often added for additional safety.",
-    "Boston already started to experiment with automating trains in 1901. Berlin in 1928. Paris operated a short line from 1952 to 1957 but didn’t have funds for upgrades until the first main line was upgraded in 1966. More lines have been upgraded since. Tokyo started limited operation in 1962, more lines have been added since. Hitachi automated the Disney and Linimo monorail. London started tests in 1968. The Victoria Underground Line finally started fully automated operations in 1967.",
-    "While initially the trains still had a driver, fully driverless operation started in Kobe (Japan) and later in Lille (France), Barcelona and airports such as JFK.",
-    "In Nürnberg (Germany) they even allowed mixed operation between traditional and driverless trains in 2008.",
-    "More modern light metros such as Vancouver’s Skytrain (in 1985), London’s Dockland Light Railway (in 1987) and Copenhagen were designed as automated systems from the beginning allowing for shorter trains without a cab, smaller stations, and higher frequency. Recent new lines in Montreal (REM) and Hawaii also leveraged these advantages. Now many systems around the world are driverless. While Italian Ansaldo/Hitachi Rail STS developed their train systems around ATC, established rail provides ( Alstom Urbalis Fluence and Siemens Trainguard MT ) added ATC support to some of their existing rail offerings. Siemens AutomatedTrain effort is even automating regular heavy rail operation including the video detection of obstacles along the tracks.",
-    "As I explained in my prior post, Sound Transit had evaluated various modes in 2014. This included automated light metro systems such as Skytrain. At that time they decided on light rail technology for the spine to allow for both DSTT as well as at-grade operation. However, for some extensions Sound Transit is now planning, such as Ballard, it might be better to keep them separate rather than interlining them to leverage ATC advantages such as higher frequency and smaller stations.",
-    "As the northern Link line is fully grade separated, Link trains could even run fully automated from Everett to downtown. This would allow more precise acceleration and breaking, reduced headways (as close as 60sec) and faster turnaround at the end of the line, reducing the need for pocket tracks. Alstrom claims it reduces trackside equipment usage by up to 20% and energy consumption by up to 30%.",
-    "I hope Sound Transit would seriously consider automation where feasible."
-   ],
-   "img": "https://i0.wp.com/live.staticflickr.com/4078/4772123297_50b937e400.jpg?resize=500%2C333&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-bynightinopenformsfirstyearoncapitolhill",
    "srcKey": "chs",
    "cat": "local",
@@ -1557,15 +1541,32 @@
    "annos": null
   },
   {
-   "id": "f-kuow-3laa2I5OTljVlFKdTBEWERMc25JVzc1QzFIQQoc5",
+   "id": "f-kuow-GJCeGdFWjJBRU1XVllKaDBuTHNGaHNPRm56dwoc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "Another year, another property tax increase for Washington cities",
+   "title": "Teachers union president on leave one year after being accused of abusing students",
    "author": "",
    "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNamYxZnZXMjR6SG5VWGxJUmhyWE1Fb2FqMmFWVnEyQ1p6SjVWUHJ2VzRsUzY5bFdITDRZYzdmU2RfYXVrLTFSYTJlQjRRb21HbG94N1BjMDRxNjdrandLeU5ubGEzenBlWXFwNklpaU52MlVieXlJc2VGN25uRmpEN1JadlJSNmh0X2tTVHNDN3laa2I5OTljVlFKdTBEWERMc25JVzc1QzFIQQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVlXdkUxV09TbS0wRVRrNkd2UFdnbHRWOUFyaExGV281alFUY24xRDVvaGRrQ2ozZW5xQm5XQ3V1NlFLTW1CR2M2YWVuR0RtejY2Q3AyS2ZZX29Za0VJbmxrZVl1c3pUZUZpVmh5M3I5cUNfNXc0TUFySnBUUzVueENPSTlWN1BMTGQ4R2R5LUFMY0g5S3NjRnFOUGZnRW9DN0NLU1ZScGJCeGdFWjJBRU1XVllKaDBuTHNGaHNPRm56dw?oc=5",
    "paras": [
-    "Another year, another property tax increase for Washington cities KUOW"
+    "Teachers union president on leave one year after being accused of abusing students KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-ieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nxoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Facing cuts, Oregon could limit special Medicaid programs",
+   "author": "",
+   "date": "2026-11-19",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEhRdmR6RnNtZmxuVTRoZkZTSjZfYnR1X2U1akl3eklNOGVjSjFsa0phV2RkdFE4Y2RuRm5MLWdrX0JucXNZd3NLYjNpVVE5Qk9fOVZJRXhPX2ZVU3hod0RXSERtZmdTSU9TT1cwNkdCTk1BSDNhTTFMUGViakJlYlVuMnowcWxqNlJaa2NqcExjTFRMS2llWDlqTGlieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nx?oc=5",
+   "paras": [
+    "Facing cuts, Oregon could limit special Medicaid programs InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1642,51 +1643,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-tionpostsanemicridershipinfirstfullmonth",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Pinehurst Station Posts Anemic Ridership in First Full Month",
-   "author": "Doug Trumm",
-   "date": "2026-11-18",
-   "url": "https://www.theurbanist.org/pinehurst-station-posts-anemic-ridership-in-first-full-month/",
-   "paras": [
-    "After Sound Transit inaugurated service on September 30, the Pinehurst infill light rail station in North Seattle averaged a measly 1,034 daily boardings in October, according to the agency's ridership dashboard . That makes it the least used station in the entire 1 Line corridor.",
-    "The initial figure is below even the low-end ridership modeling that Sound Transit produced, which showed Pinehurst would attract 2,600 to 4,200 boardings daily by the year 2040. Granted, Pinehurst has 14 years to hit its 2040 projection, but it does have a long way to go.",
-    "The busiest station, Westlake, averaged more than 17,000 daily boardings in October, and the entire corridor saw just over 155,000 daily boardings across 27 stations. The median 1 Line station has averaged about 4,000 daily boardings.",
-    "Pinehurst's October ridership did exceed seven of the 12 stations that serve only the 2 Line, which has also struggled to build ridership momentum on the Eastside. Bellevue's East Main is the least used light rail station in the entire system, with just 487 daily boardings last month.",
-    "Pinehurst is sandwiched between two far more popular stations. Northgate averaged nearly 7,500 daily boardings in October, while Shoreline South (just north of Pinehurst) averaged more than 3,600 daily boardings.",
-    "Pinehurst is last among 27 stations on the 1 Line – at least so far. A number of transit advocates warned the station's ridership potential was at risk, as the Harrell administration dragged its feet and ran into legal appeal hurdles as it attempted to rezone the neighborhood surrounding the station.",
-    "Rezoning the golf-course-oriented, largely single family neighborhood to encourage apartment development has been part of the pitch for Pinehurst Station from the inception of the grassroots campaign that willed the station into existence. While the station has been funded since the 2016 Sound Transit 3 (ST3) ballot measure, the rezones have been mired in the Seattle Process .",
-    "Sound Transit CEO recently appeared on KUOW's Soundside program and was interviewed by David Kroman and Libby Denkmann. They brought up the issue of low ridership at Pinehurst Station.",
-    "\"Both Libby and I actually ride past the station a few times a week. I have to admit we have made a little bit of a game of counting how many people actually get on and off there,\" Kroman said. \"I think we would both agree that it has been pretty sparse, as far as we can tell. You know, when you look out [from the train], all you really see is I-5, a few single-family homes, a golf course. Do you think more could have been done here, both by the City of Seattle and Sound Transit, to prepare for that station to open?\"",
-    "Constantine did not take the bait, hewing to a 'if you build it, they will come' line for the station, which carried a budget of $240 million.",
-    "\"Well, I think, along the way, there are stations with a lot of built-in ridership and stations with less ridership that are about mobility for the people who live close,\" Constantine said. \"And some of those stations with less ridership become centers for growth later, right? And I think this is going to be one of those stations.\"",
-    "The agency CEO alluded to the Pinehurst rezone plan working its way through the process, as he noted some other station areas have transitioned from sparsely populated to dense and bustling.",
-    "\"The City of Seattle is looking at their growth plans around there, their zoning around there, the incentives they can provide around there for people to create housing,\" Constantine said. \"If you look at our stations up and down the line, our new stations, you see apartment buildings, condominiums going up all over the place by the thousands, and that will happen at Pinehurst as well. So I'm absolutely confident that we're going to see increased ridership at that and other similarly situated stations over time.\"",
-    "At the ribbon-cutting ceremony for Pinehurst, Seattle Mayor Katie Wilson echoed Constantine's optimism, which acknowledging the delay and expressing resolve to see the rezones though, which she has also sought to augment with her Taller Faster Denser Plan .",
-    "\"This is not just a station; it is a spark – a spark for long-term transformation in the newly designated Pinehurst-Haller Lake Urban Center, where we will see more homes, shops, services, parks, and walkable streets, all connected to great transit. That's what it's all about,\" Wilson said. \"Sometimes we build transit where lots of density already exists, and sometimes we build transit, and we're able to welcome people around them.\"",
-    "Constantine and Wilson could have a point based on the path some other stations took. Shoreline South managed just 1,020 daily boardings in its first full month of service – very similar to Pinehurst – but it's more than tripled ridership in the two years since. Shoreline North and Mountlake Terrace took a similar course of steady ridership growth. (On the other hand, Lynnwood City Center's ridership has fluctuated widely, but its level is now similar to when it launched, hovering around the 4,000 daily riders mark.)",
-    "That said, ridership growth at each of those locations was buoyed by fairly ambitious upzones that had been put in place before the stations opened, which allowed large apartment complexes to come online near the station opening date. Seattle, on the other hand, is playing catch up after pushing the agency to accelerate the infill station opening, while failing to keep rezone plans on course, despite facing some pressure to do so.",
-    "In 2023, former Kenmore Councilmember and Sound Transit Board Member Dave Baker criticized Seattle for not rezoning the Pinehurst neighborhood sooner as Mayor Bruce Harrell and other City officials pushed the agency to accelerate the station's opening.",
-    "“I’m sorry Mayor Harrell, I’m not trying to throw stones, but it’s just reality that they’ve had the opportunity to increase zoning in the area to make it more transit-friendly, but it’s still not done,” Baker said. “They’ve had since 2015 to fix the zoning, and it’s now 2023 and the zoning has still not been fixed. I would love to see a successful station… and the system to be as functional as it can. Everything else seems to be happening except this one.”",
-    "Harrell brushed off the comment and spent the next few years failing to keep his growth plan on schedule or to insulate it from legal appeals, while undercutting his planning department's more ambitious vision.",
-    "After kicking around more meager concepts, the City ultimately queued up a rezone for the Pinehurst-Haller Lake Urban Center allowing five- to eight-story apartment buildings and ground-floor retail in several swaths of Pinehurst and some more limited areas of Haller Lake, replacing some broad areas of low-density Neighborhood Residential (NR) zoning. Other NR areas are set to become Lowrise 1 or 2, which would likely be most enticing to townhome builders, based on recent development patterns.",
-    "Across the new urban center, OPCD projected its boldest \"Alternative 5\" rezone would generate about 2,700 additional homes over 20 years. Meanwhile, the City has projected anemic growth without zoning changes, with just 840 additional homes expected over two decades.",
-    "Harrell and his predecessor Jenny Durkan also opposed changes to publicly-owned Jackson Park Golf Course, which advocates had proposed could attract more usage if it incorporated other park uses (or even housing ) – instead of remaining exclusively a fenced, fee-for-entry 27-hole golf course. As it stands, the golf course consumes 160 acres next door to the station, interrupting more direct walking routes to reach it.",
-    "If the Pinehurst rezone had not been yoked to the City's broader once-per-decade Comprehensive Plan major update, it might have already happened. However, at the time, City officials seemed to deem it expeditious and convenient to piggyback on the outreach and feedback process for the citywide plan, which they originally set out to pass by the end of 2024 to meet state deadlines.",
-    "Pinehurst-based organizer Renee Staton, who fought to add the infill station in the first place, said support for rezones has long been strong in the neighborhood.",
-    "\"There is substantial community support for a rezone and unlike other communities in Seattle, there is no formal opposition effort to rezoning. In fact, many residents are frustrated with how long the station area planning process is taking, considering it started in 2015,\" Staton wrote in a guest piece in The Urbanist in September.",
-    "Staton has pushed Seattle political leaders and officials at the City's Office of Planning and Community Development (OPCD) to complete the rezone work as soon as possible. Alas, 2028 might be the best case scenario.",
-    "\"I spoke with OPCD on Monday and they are very optimistic that the One Seattle rezone process will start again in mid-2027 (which I hear as early 2028 given budget season and elections). Pinehurst rezone 2028,\" Staton added in a social media post last week.",
-    "Even if zoning were to be put into place, large apartment complexes often take three years or more to go from a permit application to a completed building, assuming builder interest is immediate – which isn't always guaranteed in a neighborhood more or less starting from scratch on urban development. The broader One Seattle rezones will include opening up many other areas of the city, with some more amenity-rich areas likely more attractive to builders.",
-    "In other words, significant amounts of development likely won't be arriving in Pinehurst until the 2030s. A botched neighborhood growth plan can be rectified, but it does take time."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Pinehurst-station-train-and-passengers---Trumm-PXL_20261001.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-ansitblogcom20261118midweekroundupbigcar",
    "srcKey": "stb",
    "cat": "transit",
@@ -1700,23 +1656,6 @@
    "img": "",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dnoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions",
-   "author": "",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFB5X181R3hUS3FUVVVCbHZJZ25Vd3BOVERQenkyMlRKOElHdTl6Qkl5cXRXTDZYbmthNGFzTGhCS19MMUczOUFiTFR5V1Yyd2R4R0E4eV96Q1phUG05WjVEYWJpc3RMbDZzUUFwMWJXaEtkMXJ4dmtnbXdNYlNSbGpRcHJwZTYyZ0FZS3dSLVN4RnA5LS1XSEt1NGY5T2dBMFpLa2hhRGJncXFpbHR5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dn?oc=5",
-   "paras": [
-    "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
    "annos": null
   },
   {
@@ -1763,6 +1702,23 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkRkQnpucWppQzBZTlRHLXN0RmhIcjQ1elE4ajhIWEZkcFFvTkRUbzFSZm9Bc3VlZEVtRVA3dG51emJuaDdVT3g4MVVjbmd6czJNMExaSTZfbGw0aXc5YnRIOFl4dDFmdEpnTXVNcTVna1NkMDExdERjYmZCeFViZi1qMW1GZVlQQ0l2Wmo3d1hPTDlmODRSTXVTOERXQTduSlNB?oc=5",
    "paras": [
     "Teenager charged in Fall City family killings pleads not guilty KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dnoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions",
+   "author": "",
+   "date": "2026-11-18",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFB5X181R3hUS3FUVVVCbHZJZ25Vd3BOVERQenkyMlRKOElHdTl6Qkl5cXRXTDZYbmthNGFzTGhCS19MMUczOUFiTFR5V1Yyd2R4R0E4eV96Q1phUG05WjVEYWJpc3RMbDZzUUFwMWJXaEtkMXJ4dmtnbXdNYlNSbGpRcHJwZTYyZ0FZS3dSLVN4RnA5LS1XSEt1NGY5T2dBMFpLa2hhRGJncXFpbHR5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dn?oc=5",
+   "paras": [
+    "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1824,15 +1780,15 @@
    "annos": null
   },
   {
-   "id": "f-kuow-QVWRVSk84RWFwSDFybFhJMkNwQ0t2OE9jWS1Poc5",
+   "id": "f-kuow-LdFBGQUYtX3dFRGQydVR3aFRHZldhRzYxZFY0oc5",
    "srcKey": "kuow",
    "cat": "local",
-   "title": "Student athletes in support of I-638 jump into legal fight that could overturn the measure",
+   "title": "‘Shouting into the void’: Hunting for a job in the Seattle area",
    "author": "",
    "date": "2026-11-16",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS1FubFE0RzU5anVZNW1WTC1XV09wVUFiMDdaRmxNVHQyMDhKWTNndTB1eUQwalJ6Si01MjFNS0FXalUxMks3MFAxaU4xYUJYZkl5eUM3a3RUZnBzbW9PUzByTzREMkF6ZVBkT0NZZmExdTJfMUplcko0dDdNVkV1MU9ZM2J0SUdjTlRaTUEzQVlqbWU0Mml1MVRiT3Y0TVgyUTNzc3pfVVJQVWRVSk84RWFwSDFybFhJMkNwQ0t2OE9jWS1P?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGI0VW9PZ1N4eklBbEVsOFZhNzVydnlWN3FlVE5BVk5BY3JQbHV4cl82QUdBN3o5YTRPenMtQjRfQVdoUnFFdEFmWHV1TUVtWldMNmxEVnJ5dGZQMXk4dmlVQWcwTkk1bjNId0NRWERRdVMtUDRxMExOYXJLdFBGQUYtX3dFRGQydVR3aFRHZldhRzYxZFY0?oc=5",
    "paras": [
-    "Student athletes in support of I-638 jump into legal fight that could overturn the measure KUOW"
+    "‘Shouting into the void’: Hunting for a job in the Seattle area KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1919,23 +1875,6 @@
    "annos": null
   },
   {
-   "id": "f-propublica-1Q09iYzJRLUhNZ2pzbGhMdk44Umd6dWNuN21soc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "The Offshore Wind Industry Gave Him the Well-Paying Work He Needed. Then Trump Gutted It.",
-   "author": "",
-   "date": "2026-11-13",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzcteUw3UWNfV3QtYXpaMkRxdDVXa2tGc1VJelRYUGU0NENXWTJDY2ljUVhxQ3JXaW5vb3NFejJRMnFPSXd1SFNoWHZITFBiZEY5NVNoVmh0cVRVWjRETXl3c2lodFlIZTdtOXc1Q09iYzJRLUhNZ2pzbGhMdk44Umd6dWNuN21s?oc=5",
-   "paras": [
-    "The Offshore Wind Industry Gave Him the Well-Paying Work He Needed. Then Trump Gutted It. ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-hmVmN2SXFBRVdib041R2YzcGR5SnVVTTdFTXcoc5",
    "srcKey": "invw",
    "cat": "local",
@@ -2010,6 +1949,40 @@
    "annos": null
   },
   {
+   "id": "f-emerald-3M0ZwM2ZlV0VmWk15SW1JQm9mVFc1SzNMdzYtoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "At a Georgetown Museum, Young Volunteers Answer the Call to Preserve Phone History",
+   "author": "",
+   "date": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVHMlN0NDFYYzZfQ2Y4ZmZ6SzYzRWNvMmc1SkVaWjZrdWhfNlJScGtUNlNOSms1MWNiX2Nac1JIdW1tcEVJSE5qQkRCUTU4cmJfalItSUZpWW5VQ0JLQjVEM3ZTdEV4ZnhGaTlWbmRfeWlSVXMtWkZ4dnNNNDVwN09CT3BtWXMxeUZfWGFwNDV2TV8tMFEwQzVyNUJsZXJScWFVWktQNUQzM2U3bDlPdW5Zd3BTbHl2QkZKV1l5NzNEc2xNUlJUSVBXZm9TWnZCS0800gHgAUFVX3lxTE43N3VJZ0piSEZTekNmRDlWYlJLOWh1dHRNSjJrS2huZFdRUGs5bmFORzBpNm1TOEN6MUVZRGhxX0l0ZUtSR1h3R3RsMVJqenpUTjBVRERfLW1zSnBHb1JONXlCQXNJdGpvaFI2TnQxSmtkWWF3VXNzci1nWGZEYlAzS3dXbWJpeFpweElyVFlHd3R3S2Q1VHBRY1E5WTBrUG96dVB0clZmQ0ZaMmdUXzhfeksyNXYzWWwwSE42bDZWRW0tMU53M0ZwM2ZlV0VmWk15SW1JQm9mVFc1SzNMdzYt?oc=5",
+   "paras": [
+    "At a Georgetown Museum, Young Volunteers Answer the Call to Preserve Phone History South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-XFQcDRVWmF6Ql9VdWdINUtXYlM5VXViUWI4UQoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Seattle Seeks Community Input on Pollution Plans for South Park and Georgetown",
+   "author": "",
+   "date": "2026-09-23",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbktoTFRWY0FHaEkydkNVcHBVSmZQTDhZNmhVc0p2Njhnb19uYm1TRWVXaTdOLUNoWjNnRGJQbjZySEMteVpXNjVrT21kS2NwdENxc2dkQ04zV3Y4bnhWT0JEV2RiaENNYjVNc0dOMDdRX2JuN1pKYWZ0OEJYR01tQTV6NHFnY1k1VVItdE9PQnE2dy1mWnVGNUdtUlJlZUF6cFUwdzF6cDN2S2lTOGtsWnRjYmVPOElKbWxJeFk1UWN1dlQ50gHSAUFVX3lxTFBYQUpOMzZtMjluVzQwcFZQWVlBNDVId3Uzb3dKOVh5dnd1bHJJcEJxaG1IVnl3YzF1Y1lKYmhJaDk5QmVkaXhGOWxzYWpEdWpiSkgtUGRIQWFyRkJpMHhadXA2aHphREtTUHpGaDB5YmRzLTBtdG9GbURoM09SSGtib19BTEl2dmtlcnROVjFsZER5NjVZa2NORzlrZ29HRGJXWTRuenZDd1dtUGxuZmZEV05nQzZJSXFQcDRVWmF6Ql9VdWdINUtXYlM5VXViUWI4UQ?oc=5",
+   "paras": [
+    "Seattle Seeks Community Input on Pollution Plans for South Park and Georgetown South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-eater-atudistrictuniversityofwashingtonseattle",
    "srcKey": "eater",
    "cat": "food",
@@ -2065,6 +2038,40 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/08/Cafe-Lolo_pasta_Kat-Thompson.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-jkyOUk1eWYyQzQtMzFpc3djN080VGhjV25uUQoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Beacon Hill Garden Drops Cesar Chavez's Name as South Park Weighs Park Renaming",
+   "author": "",
+   "date": "2026-08-26",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWV9CY1JaZHkyTEp1NUcxY0dqR2I1TmtaYXQwLThSdGh5dUk5TDRNV3A3VmZYTjFjeDRaTlZOMm51TXN2RThUdE4yRmpWMG0yaktyMzdWTHZ0ellHRmNfVmszWDFCblFHLW8yZ1ptNlFvSVlYWTRrX1F6UDhGWVZNZHNuWXE2RG41LXdBWktCcDU3elRFNWdlS3REREtuS1dRR0haaUpIcERHUXB3UktUM0JUX1kxNjZ0SThNdkd4M2JPdDZF0gHSAUFVX3lxTE13TW9YVjNhc29IVnl6NFFXU1pWS1dGU09fVF9reEUzaTlCY1NQRnNoZUNpb0J1M1JxZzhMaXlYNU8tOTh4Qlh0dGQwbW91Q0VrcjRfc0RIdFRyRWtHX0hCSjBvdFlJOUZBdUhCSUZiM2U0ZV9LMmFyZWh5MG1KeXVJWTVtTkxJdExrelJGU1ZKbkUwZmdqQjNzS3QtZDhvbFRxMzFZZ3VLSVdCRmZ3YVBIY29kYk1aZjkyOUk1eWYyQzQtMzFpc3djN080VGhjV25uUQ?oc=5",
+   "paras": [
+    "Beacon Hill Garden Drops Cesar Chavez's Name as South Park Weighs Park Renaming South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-0lvOVJSUkYyQXdYZUJPYUpvZ0pCNEl2c0E1bAoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "REPORTER’S NOTEBOOK: I Asked the Seattle Police Chief a Question. The Response Went Viral.",
+   "author": "",
+   "date": "2026-07-28",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa3E5em5PX3p2NHY5ZFJpTjNSeGE0RXJMWlBLT3pVSzdsMVlCWlRnWUpnUGY5RmV1dmQtdGM1a0RuYnI1bUlqdDVUT3RfaXZDQ3l2U3NKR0h1NVo2WFdHZFRPV3I2TVlGbVB6TTFuRUpmS2xlZmhuZ3gwa1RnRjNkZ3d3ZWhOS1hPa2JyRS1ILTN0Y0owejhpdHBvT1BYZmE0ZTVWbG5Pck9JeEU0SmNGb0R2eVBpT2NsaG5tNmlPdHdUWUNYa0J5LTVNN1JiWXfSAdwBQVVfeXFMUFBBNUt2eXA2eDVDVWpJZlJVb2tKWlJQdi03cnB3TnY2WHRRMmJpQmtYRHByU1ZNYjlUU2tZRTlxRnRkTmdybVc5clVoZHdVRFA5cEhlNTB6RjQ1WWU5LVhNUTM1UjVHZmRJYW4yLVdFUE0zN3dCS09fNnlCejdvMFNuYlNRUmZWZWFJNVNpNE8yajQ1X1VYYXRNLXhqem56WXhCYzM0cHdlWE51Ti1YdVByd25mdlBKMWV2SnVYT0NLS0lvOVJSUkYyQXdYZUJPYUpvZ0pCNEl2c0E1bA?oc=5",
+   "paras": [
+    "REPORTER’S NOTEBOOK: I Asked the Seattle Police Chief a Question. The Response Went Viral. South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   }
  ]
