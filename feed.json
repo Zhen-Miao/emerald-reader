@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-21T21:20:54.229Z",
- "builtFor": "2026-11-21",
+ "builtAt": "2026-11-22T21:24:53.932Z",
+ "builtFor": "2026-11-22",
  "builtHour": "13",
- "count": 88,
+ "count": 89,
  "sources": [
   {
    "source": "bbc",
@@ -31,7 +31,7 @@
   },
   {
    "source": "emerald",
-   "count": 4,
+   "count": 5,
    "via": "google-news"
   },
   {
@@ -86,6 +86,490 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-wirecom2026geekwireweeklyroundup20261115",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Week in Review: Most popular stories on GeekWire for the week of Nov. 15, 2026",
+   "author": "GeekWire",
+   "date": "2026-11-22",
+   "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-11-15/",
+   "paras": [
+    "Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Nov. 15, 2026.",
+    "Sign up to receive these updates every Sunday in your inbox by subscribing to our GeekWire Weekly email newsletter .",
+    "Amazon founder Jeff Bezos said Tuesday that Nvidia should promote from within if it doesn’t bring back Jensen Huang as CEO. Nvidia’s board chair said the same day that the board does not intend to reinstate Huang. Read More … Read More",
+    "The comedy show’s fake ad has John Mulaney handing care of his agin father off to his sister. Melinda French Gates says it’s funny because it’s true, and she has the data to show it. Read More … Read More",
+    "ULA’s Vulcan rocket failed about 10 minutes into flight Sunday, the company’s first total mission failure, losing 40 satellites for Amazon’s Leo internet service and disrupting Amazon’s plans for a second Vulcan launch within weeks. Read More … Read More",
+    "United Launch Alliance says preliminary findings show Vulcan’s two BE-4 engines didn’t get enough fuel from the rocket during Sunday’s failed launch, and that the engines’ own performance wasn’t the problem. Blue Origin’s New Glenn uses the same engines. Read More … Read More",
+    "Microsoft says the bug behind last week’s global Outlook outage hit only newer servers in a key part of its network, and tests run on older ones missed it. Its final report lists 13 fixes, including steps to keep a failure in one part of the world from spreading. Read More … Read More",
+    "Microsoft CEO Satya Nadella opened his Ignite keynote by addressing last week’s global Outlook outage, calling digital infrastructure “the dial tone for the world.” Microsoft’s final report on the outage is due Nov. 20. Read More … Read More",
+    "The email-based tool, which raised a $6 million seed round last year, will keep being built inside Google Labs. Read More … Read More",
+    "Noeri, an AI startup co-founded by Stanford professors Yejin Choi and Carlos Guestrin, has raised $110 million in a round led by Menlo Ventures. Its software studies a company’s data and workflows and proposes changes to the instructions, tools and models behind its AI systems, with a person reviewing each proposed change. Read More … Read More",
+    "A Microsoft Research senior director has left to launch a stealth startup, while two new leaders join; former DoorDash VP is now CEO and president of the Space Needle and Chihuly Garden and Glass; past Huntr CEO leaves Palo Alto Networks to found a startup; and other personnel changes. Read More … Read More",
+    "About 60,000 Microsoft employees have until early December to decide on the company’s voluntary exit offer. A former Microsoft general manager and startup founder looks at the job market, startup funding and the question most people skip: what do they want? Read More … Read More"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/bezos-200x113.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-rongourrushtopatchandupgradeistheculprit",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Etzioni on AI: The outage conspiracy theories are wrong — our rush to patch and upgrade is the culprit",
+   "author": "Oren Etzioni",
+   "date": "2026-11-22",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-the-outage-conspiracy-theories-are-wrong-our-rush-to-patch-and-upgrade-is-the-culprit/",
+   "paras": [
+    "In less than a week, Microsoft email went dark around the world, the FAA halted every departure in the country, Chase payments stalled, Apple’s services faltered and the NSA’s internal network went down. Sen. Josh Hawley said that if this was all a coincidence, “it’s like the greatest coincidence in the history of the world.” Yet intelligence and law enforcement officials told Congress they’ve found no evidence that anyone was attacking us.",
+    "Attackers typically announce when they’ve hit you. Terrorists claim credit. Criminals issue ransom notes and often brag as well: the hackers who crippled MGM’s casino systems in 2023 told TechCrunch within days. None of this month’s outages came with any of that.",
+    "Could a state actor be flexing its cyber capabilities to warn us? China’s Volt Typhoon hackers kept access to U.S. critical infrastructure for at least five years before anyone made it public, positioning themselves to disrupt it in a future crisis. However, hackers who are that patient don’t blow their cover by knocking out the world’s email. A warning shot also works only if the target knows who fired it, and we don’t have a credible suspect for a shooter here.",
+    "Each outage has a separate origin tracing back to the organization’s own systems: a new router a contractor was installing for the FAA, a bug Microsoft shipped in July, a software bug at Chase, an internal update at Apple, a patch at the NSA. To stage that, a single attacker would have to break into three companies and two federal agencies, disguise every intrusion as a routine mistake and leave nothing for investigators to find.",
+    "A far more credible root cause is the patch treadmill set at too high a speed: AI is finding security holes faster than anyone can safely fix them, and the rush to patch and upgrade is making everything more fragile. Think of an immune system in overdrive. It fights off infection, and sometimes it attacks healthy tissue. This month’s outages were a flare-up.",
+    "On Nov. 17, the startup Calif disclosed Java4Shell, a critical flaw in Java, the software platform used by government agencies and about 90% of Fortune 500 companies. Calif found it with OpenAI’s GPT-6 Cyber model. Oracle shipped a patch the same day, and a federal alert urged organizations to “immediately patch.”",
+    "Last month the same startup used OpenAI models to find a flaw in PHP, the programming language behind an estimated 70% of websites, and Director of National Intelligence Jay Clayton tied the NSA’s outage to the patching that followed. Microsoft alone fixed 1,413 vulnerabilities in October, more than its previous record for an entire year.",
+    "AI is forcing faster fixes. Microsoft CEO Satya Nadella says his company’s outage came from a dormant bug, but he warned this week that AI-driven patching could bring more instability. AI has “allowed us to find these bugs and fix these bugs, but that means you’ve got to then patch them, and that creates instability,” he told CNBC.",
+    "A patch for a critical bank system might once have been tested for a week, he said at the New York Times DealBook Summit. Now it “needs to go instantly from being available to being patched in production because it’s being exploited in the wild.”",
+    "The FBI warned on Nov. 13 that criminals and state-backed hackers are already using ARTEX, an open-source AI tool built for testing a company’s own defenses, with some intrusions going from first targeting to administrator-level access in under three hours. So the patching can’t slow down. Nobody would give up their immune system to avoid a flare-up.",
+    "It will get worse before it gets better. Calif’s CEO, Thai Duong, expects Java4Shell to threaten systems that don’t update for the next five to 10 years.",
+    "Meanwhile, the AI that finds flaws like this one is spreading. Open-weight models, which anyone can download and run without safeguards, trail the most advanced models on cyber tasks by only four to seven months, according to the UK AI Security Institute . Every month will bring more bugs, more emergency patches and more flare-ups.",
+    "There’s a finite amount of code in Windows, iOS and Chrome, and every bug AI finds and fixes there is one an attacker can’t use. Partners in Anthropic’s Project Glasswing , a program to secure critical software before AI can be turned against it, found more than 10,000 high- or critical-severity bugs in its first month.",
+    "Former Microsoft security staffer Angela Gunn sees a hopeful sign : more and more unrelated researchers are turning up the same bugs, which suggests the supply is finite. Fixing still lags finding, but the giants have the money and people to catch up. Within a year or two, I expect Windows, iOS and Chrome to be more secure than they’ve ever been."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/faa-ground-stop-departure-board-toronto-1260x840.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-blogcom20261122sundaymoviebicyclehistory",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Sunday Movie: Bicycle History",
+   "author": "Mike Orr",
+   "date": "2026-11-22",
+   "url": "https://seattletransitblog.com/2026/11/22/sunday-movie-bicycle-history/",
+   "paras": [
+    "The humorousy dull history of the bicycle. (Stephen Dalton) This is told in a relaxing monotone that can be used for sleep. I’d start at Part 1 if you want the prehistory (35 minutes), part 3 for the 19th century (56 minutes), or part 6 for the 20th and 21st centuries (32 minutes).",
+    "Musical interlude: Drive My Car (The Beatles, 1965). Do You Know the Way to San Jose? (Dionne Warwick, 1968, cover by Trijntje Oosterhuis.)"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-httailfeatherscapitolhillsdarkeyedjuncos",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Pikes/Pines | Micro-dramas and bright tail feathers — Capitol Hill’s Dark-eyed Juncos",
+   "author": "Brendan McGarry",
+   "date": "2026-11-22",
+   "url": "https://www.capitolhillseattle.com/2026/11/pikes-pines-micro-dramas-and-bright-tail-feathers-capitol-hills-dark-eyed-juncos/",
+   "paras": [
+    "A male Dark-eyed Junco in my parent’s backyard in Seattle. (Image: Brendan McGarry)",
+    "As November settles over Capitol Hill and 4:27 PM darkness becomes the daily norm, the neighborhood’s green spaces and parking strips suddenly come alive with low-to-the-ground micro-dramas.",
+    "Watching birds in my backyard was my gateway to becoming a birder — they visited our bird feeders, they found food and shelter in my mother’s large garden, they were always doing something interesting if I took the time to pay attention. By far the most ubiquitous species were Dark-eyed Juncos, Junco hyemalis , that showed up in large flocks when fall weather took hold on the Pacific Northwest. Until I became a bit more fluent in the world of birds and our local ecologies, I assumed that they all left for the summer because I didn’t see them for months, until one day I was walking the dog and found a pair of them tirelessly feeding three twittering fledglings in a de facto greenspace adjacent to a local high school. As a fledgling birder, I suddenly realized that things are often more nuanced than flat statements I read in books, and that even common birds have interesting stories to tell.",
+    "Dark-eyed Juncos are prettily adorned, small sparrows with dark caps, brown bodies, and eye-catching white outer-tail feathers (this plumage varies a lot by region, but more on that later). But overall they are largely unassuming sparrows that fade into their environment, partially because they also happen to be one of the most abundant birds in North America. Depending on who you ask, their population ranges from 220 million to 630 million. That’s a big variation, but the point is that there are hundreds of millions of juncos across the continent at any one time.",
+    "eBird hotspots for Dark-eyed Juncos across the Hill and central Seattle. They are definitely around.",
+    "The Hill also has plenty, and you can find juncos just about anywhere with a little bit of greenery, even our most urban blocks. Across the country, and indeed our state, they range from sea level up to the sub-alpine (where they visit to breed and return to moderate climates in winter). Juncos are just about everywhere except extreme deserts, open tundra, and the densest of forests. This ability to roll with a variety of habitats is in part why they remain so abundant despite widespread ecological changes in our world.",
+    "Juncos are also birds of the edge lands. They spend their time on the ground or in low shrubs, rarely moving to the tops of trees, except when males fly up high to sing during the breeding season. Food is primarily seeds and other vegetable matter, which they are happy to glean directly from plants, or pick off the ground. Each fall I excitedly wait for the junco flock to return to our yard, flitting in to bend over all the old flower heads of native plants I’ve left to seed. Juncos are around in the summer too, but paired up, on territory, and feeding their young endless invertebrates, shifting their diet to closer to 50/50 plant and vegetable matter.",
+    "This shift of food preferences and their breeding behavior are part of the reason I never saw juncos during the summers at my childhood home in North Seattle. Juncos typically nest on or very near the ground, and young leave the nest before they can actually fly because sitting and waiting till they can leaves them vulnerable. We had a dog and an outdoor cat, so despite my mom’s landscaping being quite inviting to juncos, it wasn’t a good place to nest nor for flightless young to roam. Our bird feeders were likewise less attractive to juncos and other birds who focus on the bonanza of insects during warmer months. Besides, the nearby greenspace likely offered more invertebrates because many of our neighbors used insecticides on their landscaping, which are often undiscerning in what insects they target and effectively remove major food sources.",
+    "A young Dark-eyed Junco that probably just learned to fly. (Image: Brendan McGarry)",
+    "Dark-eyed Juncos may be a common bird, but this abundance and their relatively obliging behavior has made them the star of many studies about North American songbirds. Juncos helped us gain a greater understanding of annual hormonal cycles in birds, offered up good opportunities to study avian dominance and hierarchy structures within flocks, and are even among the species that helped debunk the idea that birds can’t smell. Researchers have demonstrated that juncos can tell each other apart by the scent of the oils they produce in the uropygial gland at the base of their tail. Most birds use oils from this gland when preening, helping waterproof their plumage and likely protecting them from microbial wear. In the case of juncos this also helps them smell each other apart, and even pick a successful, good smelling mate.",
+    "We are lucky to have these plucky little birds year-round on the Hill, and their numbers swell right about now, when the juncos who went to breed at higher elevations return to saner wintering grounds. But despite being widespread in North America, some juncos only show up to winter across a large swath of the lower 48 and don’t breed there at all. A lot of people still call them by their old name, Snowbird. And, the birds we call juncos, and those people across the midwest and eastern US might call snowbirds, don’t look entirely identical.",
+    "A “Slate-colored Junco,” the bird a lot of people call snowbirds. (Image: USFWS)",
+    "Many widespread bird species have sub-populations with very different plumages, body sizes, and even behaviors. Just like Red-tailed Hawks and Song Sparrows – Dark-eyed Juncos have strong geographic variation, particularly noticeable in their coloration. We have “Oregon” Juncos on the Hill and across the Pacific States, while the classic snowbirds of back east are called Slate-colored Juncos (in this situation I guess Oregon means more brown). The variety of junco plumages flummoxed early taxonomists and at one point ornithologists considered today’s Dark-eyed Juncos to be five different species until genetic work demonstrated low variation between populations. Across their range juncos are still mostly doing junco things – spending time on the ground, with similar vocalizations, and eating a lot of seeds.",
+    "Despite these similarities and ornithologists’ choice to call Dark-eyed Juncos a single species, recent research suggests that we are witnessing the beginning of a rapid speciation within the genus Junco . Dark-eyed Juncos appear to have expanded into North America after the last ice age, likely speciating from a related species that lives in the mountains of Southern Arizona, New Mexico, and Mexico, the Yellow-eyed Junco, Junco phaeonotus . Under this context, the difference in color, migration patterns, body size, and overall behavior that we see in different Dark-eyed Junco populations across North America is quite exciting (at least to ornithologists, evolutionary biologists, and me), and has happened quite fast – most vertebrates don’t speciate over the course of ten thousand years.",
+    "A fun image of extant Junco species and Dark-eyed Junco subspecies, across North and Central America from the Lab of Borja Milá at Museo Nacional de Ciencias Naturales in Madrid, Spain .",
+    "Though I appreciate all the various things Dark-eyed Juncos might represent to science, I don’t necessarily need all that to appreciate them. I love when I get a calm moment and can sit still and watch them work through the yard – I witness micro-dramas over food, hear their near constant vocalizations from muttered twitters to emphatic clicks, and when something scares up the flock, the garden is awash in flashes of their white outer tail feathers. Every winter I also wait for that first trilling song, because Dark-eyed Juncos are one of the first birds to begin singing in earnest as the days lengthen. Even now, as I find myself in near darkness at 5pm, I am warmed by the idea of a junco soon to be singing from the top of a tree."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/6732319303_2438bea61e_b-e1795150059848-600x385.jpg?resize=584%2C375&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-ttlebecomessanctuarycitystgbuyskerryhall",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "This week in CHS history | Mayor Wilson victory map, Seattle becomes ‘Sanctuary City,’ STG buys Kerry Hall",
+   "author": "CHS Staff",
+   "date": "2026-11-22",
+   "url": "https://www.capitolhillseattle.com/2026/11/this-week-in-chs-history-mayor-wilson-victory-map-seattle-becomes-sanctuary-city-stg-buys-kerry-hall/",
+   "paras": [
+    "Maps show how Katie Wilson won in Seattle including strength in Capitol Hill and the city’s most densely populated neighborhoods",
+    "Seattle Social Housing: On track to have first property inked in 2026",
+    "First year at Donna Jean’s Place, a Capitol Hill shelter where time is the most important resource",
+    "City hears feedback on ‘activation’ for Capitol Hill’s problem parks — and reopening Seven Hills",
+    "Seattle Theater Group — operator of the Paramount, Moore, and Neptune — buys Capitol Hill’s Kerry Hall in $6M deal",
+    "‘A Man in a Porsche with a Trump Flag Hit Him with a Baseball Bat’ — More on SPD’s investigation of the possible Capitol Hill Election Night hate crime The Stranger dug up",
+    "The A) and B) of RapidRide G’s first months of service: ridership, the semi-permanent big orange panels, and the surprise tunnel at 10th and Madison",
+    "That viral ‘Seattle serial killer’ video about Capitol Hill’s Interlaken Park is full of beans",
+    "Hope that benefits will shine through construction and parking worries for one-way Pike and Pine",
+    "Seattle Police investigate E Union gunfire and bullet damage",
+    "Pikes/Pines | Birds on the Hill to be renamed (not after dead white guys)",
+    "Why Pink Gorilla is coming to Capitol Hill",
+    "Starbucks to close Broadway shop, first in Seattle to unionize and coffee giant’s last standalone cafe on Capitol Hill — UPDATE",
+    "After $38M Capitol Hill acquisition, YWCA opening new affordable building in 2023 — UPDATE",
+    "With lasagne by the square, panini, and an Italian happy hour, La Spiga’s little sister La Dispensa now open in Chophouse Row",
+    "Man seriously injured in Pike/Pine parking lot shooting — UPDATE",
+    "SPD busts up Capitol Hill takeover as drivers burn rubber in Pike/Pine",
+    "District 3 recall: ‘Religious and community leaders’ endorse ‘yes,’ scenes from the Kshama Solidarity block party, and how much does a recall election cost, anyhow?",
+    "With 1st Ave streetcar proposal still alive, First Hill Streetcar and South Lake Union lines headed for financial cliff",
+    "Capitol Hill shooting now a murder investigation as 13th/Olive victim dies — UPDATE",
+    "Seattle mayor signs 7-point Thanksgiving ‘sanctuary city’ order",
+    "Frankie and Jo’s, Capitol Hill’s first plant-based ice cream shop, opens Friday",
+    "Paid for and routed, First Hill streetcar gets final design touches before construction",
+    "Sound Transit’s first tunnel under Capitol Hill nearly complete as Montlake noise concerns continue",
+    "Occupy Capitol Hill | Trustees pass emergency rule to bar Occupy camp from SCCC — UPDATE: Lawsuit",
+    "Capitol Hill food+drink | Chino’s ready to add tiki to Pike/Pine, $800k Galerias damage, RIP Beehive"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-stsoutnewhendersonbikelaneinrainierbeach",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Best Side Cycling Tests Out New Henderson Bike Lane in Rainier Beach",
+   "author": "Doug Trumm",
+   "date": "2026-11-22",
+   "url": "https://www.theurbanist.org/best-side-cycling-tests-out-new-henderson-bike-lane-in-rainier-beach/",
+   "paras": [
+    "Hanoch of the Youtube channel Best Side Cycling visited an important new protected bike facility in Southeast Seattle, which upgraded safety conditions on the crash-prone corridor of S Henderson Street. The new facility safely connects Be'er Sheva Park and Rainier Beach School in the east to the Chief Sealth Trail farther west, linking destinations like South Shore K-8 school and Rainier Beach Pool and Community Center along the way.",
+    "The Seattle Department of Transportation (SDOT) incorporated Toronto-style concrete barriers on much of the facility to make sure the bike lane is truly protected. Road medians and speed cushions also provide traffic calming on the speeding-prone thoroughfare, aiding all people using the street. With trees still in their fall glory, it's a great time to ride the facility. That said, Hanoch gave the sage advice to tread carefully over piles of leaves as they can be very slippery, especially when wet.",
+    "South Seattle has generally trailed North Seattle and the downtown core in getting high-quality protected bike lanes, and that has contributed to it seeing far more fatal crashes and serious traffic injuries than other districts of the city. SDOT reported 71 crashes in the Henderson segment alone from 2021 to 2022, as Best Side Cycling noted, underscoring the need for the project.",
+    "However, bit by bit , SDOT is pushing to make up the gap, with the safe streets community long pressing for a more equitable distribution of safe facilities across the city – flagging that South Seattle was getting left behind. Though delayed, major bike network upgrades are planned in South Beacon Hill (extending the recently completed North Beacon Hill bike lane ) and Georgetown .",
+    "As for the new Henderson facility, Hanoch's review was positive: \"I don't mean to just glaze SDOT, but this one I really do feel they're taking a lot of the best practices they've seen in a lot of different places, and we will use them here, like this daylighting in front of those that parking. It's much bigger than some other places like on Union Street.\""
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Best-Side-Cycling-on-Henderson-Street-2026-11-22.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-oficesarrestatseatacairportisbeyondwords",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "The Cruelty of ICE’s Arrest at Sea-Tac Airport Is Beyond Words",
+   "author": "Charles Mudede",
+   "date": "2026-11-22",
+   "url": "https://www.thestranger.com/news/the-cruelty-of-ices-arrest-at-sea-tac-airport-is-beyond-words/",
+   "paras": [
+    "At around 7 a.m. this morning, masked ICE agents arrested two people boarding an Alaska Airlines flight scheduled to depart from Sea-Tac International Airport to Los Angeles at 8:10 a.m. The videos of the arrest are painful to watch. A woman screams, begs, implores that she has a work permit in the US. But in […]",
+    "The post The Cruelty of ICE’s Arrest at Sea-Tac Airport Is Beyond Words appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/GettyImages-2256432634-DouglasRissing-GettyImages-scaled.jpg?fit=1024%2C768&ssl=1",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16048710lebanonisraelarmyconflicthomes",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+   "author": "Jane Arraf",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+   "paras": [
+    "In a pilot project in a village in southern Lebanon, Israeli forces have left and the Lebanese army moved it. But villagers who return find their houses wrecked."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7008x4672+0+0/resize/7008x4672!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2Fe6%2F705920be46a09bdd2b396ad5411b%2Fmoe01329.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-7bookschildrenauthorssouthafricaliteracy",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Meet the young authors! A literacy program inspires kids in South Africa",
+   "author": "Kate Bartlett",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+   "paras": [
+    "South Africa is working to overcome a children's literacy crisis. In one Johannesburg township, a reading club is instilling a love of books in kids — and inspiring them to become authors."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4279x2853+0+0/resize/4279x2853!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F15%2F59%2F95b504774415bbb8064ed9e42c16%2F20261114-read-alex-21-21.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-6195cop31climatetalksclosedisappointment",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Climate change talks fall apart in final hours over fossil fuels",
+   "author": "Lauren Sommer",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+   "paras": [
+    "Some 200 countries gathered in Antalya, Turkey, for COP31, the annual climate negotiations. Countries failed to reach an agreement over fossil fuels - the primary driver of global warming."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4074x2716+0+0/resize/4074x2716!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2F99%2F06ba60a34fb4ba38b24264298650%2Fap26326503765925-1.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-122nxs16036735medicareopenenrollment2027",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Medicare looks a bit different in 2027, so don't miss open enrollment",
+   "author": "Jackie Fortiér",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+   "paras": [
+    "Open enrollment for Medicare runs through Dec. 7, and there are a few different pitfalls people should watch out for this year. Your drug plan or Medicare Advantage plan could be changing a lot.",
+    "(Image credit: Joe Cavaretta/South Florida Sun Sentinel)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F13%2Ffb%2F9b0e40024a808c235b8149eeb6bb%2Fgettyimages-1734347077.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-2261smallbusinessloanmerchantcashadvance",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "He expected a small-business loan. He got a 7-year nightmare",
+   "author": "Alina Selyukh",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+   "paras": [
+    "America's fastest-growing source of funding for small businesses is also one of the least regulated. One man has waged a long, lonely fight to recoup its punishing cost."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3371+0+0/resize/4500x3371!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa7%2Fac%2F2eee3f9c42bf92369fb5c87f9b95%2F20261113vaheshahinian00338.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-221nprseniorpodcastchallengeearlyentries",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "NPR's Senior Podcast Challenge: Early entries we love",
+   "author": "Janet W. Lee",
+   "date": "2026-11-22",
+   "url": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+   "paras": [
+    "People 65 and older have been submitting stories for a chance to win our grand prize — a visit to NPR watch your podcast air live on Weekend Edition . There's still time to enter!"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F11%2F1a%2F7f4325b745a383d3a11d882b2b99%2Ftalanis-spc-final.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescqwy06zrd26loatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afca/live/39aa8840-e69c-11f1-936e-1fd1d31671db.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscr1ewge81q4qoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "What's next after no deal at COP31 climate talks?",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6jre7gpdw13oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescr894gjz0j0yoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscre3dvd1k9y1oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc68x08nzpk9noatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "author": "",
+   "date": "2026-11-22",
+   "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b368/live/5ea5bc60-e678-11f1-99b6-a35a62fa4264.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-sbuccaneersvlionssaintsvbearsandmorelive",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "NFL week 11: Dolphins v Bills, Buccaneers v Lions, Saints v Bears, and more – live",
+   "author": "Graham Searles",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/22/nfl-week-11-dolphins-v-bills-buccaneers-v-lions-saints-v-bears-and-more-live",
+   "paras": [
+    "Updates from the 6pm GMT (1pm ET) matchups Follow us on TikTok | And you can email Graham",
+    "TOUCHDOWN! Ravens 9-0 Panthers 11:21, 1st quarter"
+   ],
+   "img": "https://i.guim.co.uk/img/media/c253634648b7f48352b931aa9b4edf41537260c2/411_0_2868_2294/master/2868.jpg?width=140&quality=85&auto=format&fit=max&s=e6aaca6deaf118cebac9b1d6e2e1146c",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-v22originalpantrycafereopeninglosangeles",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The life, death and improbable rebirth of LA’s most beloved diner",
+   "author": "Andrew Gumbel in Los Angeles",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+   "paras": [
+    "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back",
+    "Sometimes, an old-school American diner is just a diner. And sometimes, like the Original Pantry in downtown Los Angeles, it feels like the heart and soul of a city, a bellwether of good times and bad.",
+    "For decades it was famous for never closing. Located in a low-slung shotgun building on a busy corner, it fed politicians, movie stars, students, criminals and street bums around the clock, seven days a week. The doors had no locks, because the place had no need for them. The portions were huge, the prices dirt cheap, and many of the servers, in bow ties and white shirts, looked like extras from a Harold Lloyd two-reeler."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0decf275f856a1cc85391003f2cf3520054f85af/738_0_4290_3432/master/4290.jpg?width=140&quality=85&auto=format&fit=max&s=6cf27996ce48739ef65a60e3645c7bef",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-comthefilterus2026nov22bestsleeptrackers",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I covered myself in sleep trackers to find the very best",
+   "author": "Christine Persaud",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+   "paras": [
+    "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbuds",
+    "The best sleep masks and best Bluetooth sleep masks",
+    "Getting quality sleep is just as crucial as getting enough sleep. And how you feel in the morning only tells part of the story. Smartwatches, smart bands, smart rings and sleep earbuds can all help fill in the details: how long it took you to doze off, how long you spent in deep sleep, how restless you were, your resting heart rate, even if you have night-time breathing difficulties.",
+    "Armed with this information, you can learn how your lifestyle affects your sleep. Maybe your after dinner cappuccino triggers a night of tossing and turning, or you’re more restful after evening workouts. As the wise GI Joe once said, knowing is half the battle. And the more you know about your sleep, the better chance you have of improving it."
+   ],
+   "img": "https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=9018c5e3e635d74c5c6af5a25c939bde",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-v22howcanweexplainpsychosomaticillnesses",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "How can we explain psychosomatic illnesses?",
+   "author": "Huw Green",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/science/2026/nov/22/how-can-we-explain-psychosomatic-illnesses",
+   "paras": [
+    "Emotions play a significant part in physical symptoms – but not in the way people often imagine",
+    "When Diego started seeing bright flashing lights in his field of vision and felt his legs go weak, he thought he knew immediately what was happening. His mother had a stroke in her 60s, and although Diego was active and (unlike his mother) didn’t smoke, he had always expected that the same would happen to him. So it was a huge relief to be told – after seeing a stroke specialist and having a brain scan – that he had not had a stroke at all. Unfortunately the relief was short-lived. The visual disturbances and the weakness were real and debilitating. If this wasn’t a stroke, what was it?",
+    "Some illnesses aren’t caused by disease or damage, but arise when the coordinated functioning of the body goes awry. In a percentage of these cases a person’s psychological health is an important element in their symptoms. Intuitively this seems mysterious. We are accustomed to thinking about physical symptoms as being caused by physical events; viruses, inflammation, bleeding. How can something as intangible as a thought have any impact on something as physical as a leg? How can the mind make us ill?"
+   ],
+   "img": "https://i.guim.co.uk/img/media/b4be834bccd838d90f22a530a434fcbda79a34c2/0_470_1847_1477/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=7da4bfdc4ad9d0ecbbdad3f5a8dffce4",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-2stoppedtalkingtohusbandletaidoitinstead",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I stopped talking to my husband and let AI do it instead. He didn’t even notice | Polly Hudson",
+   "author": "Polly Hudson",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/22/stopped-talking-to-husband-let-ai-do-it-instead",
+   "paras": [
+    "What have I learned from my experiment with outsourcing? That I’m easily replaced – and awful",
+    "I’ve just ventured deeper into my phone’s settings than anybody has ever been before. A software update is always discombobulating, but the latest one brought a lot of unwanted AI nonsense (that mental image you just got of me waving my fist at the sky: spot on). Even when you manually switch off Apple Intelligence, check the box to make Siri the same dummy she’s always been, and deselect the option to offer replies to texts and emails, it makes no difference. Harrumph.",
+    "Days later, bored on the bus, I began answering my husband’s texts with the terrible suggested AI responses, to see if he’d notice. (We’ve been married a long time; this is how I get my kicks now.)",
+    "Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here ."
+   ],
+   "img": "https://i.guim.co.uk/img/media/8de114b421ebe5837795f62e223317d67e4528bd/719_0_6156_4923/master/6156.jpg?width=140&quality=85&auto=format&fit=max&s=e40cbde46c5a8db0f44e78010eefcfa2",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-2026nov22thisishowsonoverheardparentssex",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "This is how we do it: ‘One time my son said: “I heard you having sex. It was disgusting.” That killed the vibe’",
+   "author": "As told to Naomi Larsson Piñeda",
+   "date": "2026-11-22",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/this-is-how-son-overheard-parents-sex",
+   "paras": [
+    "Empty nesters Anna and Richard have found the freedom and space to experiment with intimacy",
+    "• How do you do it? Share the story of your sex life, anonymously",
+    "I’m a much more active participant sexually now. I used to be more reactive"
+   ],
+   "img": "https://i.guim.co.uk/img/media/0f9d0f029c91a80cf5d13c494692d0431d7139de/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=dc8d46fa5c40772bae954e8e5a9f5f81",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-crosoftsaipitchandanewapproachtothepress",
    "srcKey": "geekwire",
@@ -189,6 +673,22 @@
    "annos": null
   },
   {
+   "id": "f-cascade-ascadepbsorgshowchasingsilverstorygorham",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Chasing Silver: The Story of Gorham",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-21",
+   "url": "https://www.cascadepbs.org/show/chasing-silver-story-gorham/",
+   "paras": [
+    "This series highlights the ingenuity, artistry, and legacy of Gorham Manufacturing."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/70728f92-a210-4744-9ce0-458c32b9de27.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-cascade-bsorgshowwashingtonweekextrasclip2d87rwp",
    "srcKey": "cascade",
    "cat": "arts",
@@ -269,302 +769,37 @@
    "annos": null
   },
   {
-   "id": "f-cascade-sorgshownewshourextrasoneonone1795211967",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Josh Shapiro on foreign policy and his 2028 ambitions",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-21",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/one-on-one-1795211967/",
-   "paras": [
-    "Pennsylvania Gov. Josh Shapiro is fresh off a reelection campaign that gave him another four years in office and Democrats majorities in the state House. Now Shapiro is turning his attention to foreign policy, laying out his prescriptions to solve pressing global crises. Amna Nawaz sat down with the governor to discuss his vision for how the United States should engage on the world stage."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/6b155722-f8b2-4ebd-8728-e0c85fc44077.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6wy0qj7w5zqoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+   "id": "f-kuow-pUzBHa3ZLeEhaQmZvdnJ6cmQ5Y1RoMG1nMmhFoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "‘Outraged.’ Port officials react after ICE reportedly arrests family at Sea-Tac Airport",
    "author": "",
    "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzZ4VGFma1VRaE5STHVIUkpjZ3V5blY1RGpuUV9LdDl4SmpEU0pIZHJYX3NCSy1yMlg0Nlljb1ZSR0h5cFJ6NEtwYWhRNU43X1RuZWppSUo4UEhueDFOdUxMLW5MYkNVeHE1MlFSRVFvQ011YTFKaV9CSXhsQzRITGF5azR5RVI4V2MwZGpWdV9VZTdQX2RScVRwdmZpUzBHa3ZLeEhaQmZvdnJ6cmQ5Y1RoMG1nMmhF?oc=5",
    "paras": [
-    "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+    "‘Outraged.’ Port officials react after ICE reportedly arrests family at Sea-Tac Airport KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f4/live/23242820-e5a6-11f1-a094-5fdc692f3e33.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
-   "id": "f-bbc-eoscqevrddp91z8oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+   "id": "f-kuow-4bUxHQ3VYVnd0OS1Tc0xHaXU5cGtGOTJ4UE5Voc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Seattle City Council approves budget despite concerns from mayor, some members",
    "author": "",
    "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0VHUlBZUmttMXluOUMyVkxSMXg3WWVyX1RCT1hNU013VnlnV0tfWF80NTN1Tm54LUo0QWlWR3JkYV9NWnZqcjRIV2xnenVPeVpjak1pZ0NudkZOeXJ5OWtiVE0xdl9ydFdTX3E5ZGlwYTVRVmkyaWhtdDA3cTdkTEs1SXpGaXp0ZE55MGhkYnlfTlR6RTloWjhaSWc2REZ4bUxHQ3VYVnd0OS1Tc0xHaXU5cGtGOTJ4UE5V?oc=5",
    "paras": [
-    "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary."
+    "Seattle City Council approves budget despite concerns from mayor, some members KUOW"
    ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d960/live/d9b714f0-e5bd-11f1-a094-5fdc692f3e33.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc85y14zvexz9oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
-   "author": "",
-   "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eoscwe85gyedjp5oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
-   "author": "",
-   "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Catherine has spoken about how \"cancer does change you\" in a documentary that will be screened on BBC One on 29 November."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/854c/live/ec249880-e5a2-11f1-a094-5fdc692f3e33.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc6ly5w40eg07oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "author": "",
-   "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm3vg9dqr6zyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Spitting Image co-creator Peter Fluck dies aged 85",
-   "author": "",
-   "date": "2026-11-21",
-   "url": "https://www.bbc.co.uk/news/articles/cm3vg9dqr6zyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The 85-year-old he died in the early hours of Saturday at home in Cornwall, following a recent illness."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5613/live/accb12d0-e5e4-11f1-9ab8-8737221634d6.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ogy2026nov21robothandsfutureofhumanityai",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-   "author": "Jenny Kleeman",
-   "date": "2026-11-21",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-   "paras": [
-    "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to change that",
-    "Just outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance. Tubs containing a Lego Spider-Man kit, followed by dishwasher tablets, followed by a pouch of muscle building protein powder whiz along conveyor belts, until they arrive at a human being tasked with stacking the shelving unit that has come to a stop in front of their workstation. This, Amazon says, is the “symphony of people and technology” to which the retail giant owes its success.",
-    "Following a barrage of negative publicity about working practices, Amazon began to open up its fulfilment centres to carefully controlled free public tours a decade ago. Our guide tells us about the competitive rates of pay Amazon workers receive, their pensions, dental cover and options for flexible working. Her delivery is somewhat robotic."
-   ],
-   "img": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=140&quality=85&auto=format&fit=max&s=b205cd24b9f7e774996bfccf38effe3f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ov21bestearlyblackfridaycybermondaydeals",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "We vetted thousands of early Black Friday deals to find 42 worth pouncing on",
-   "author": "Filter Writers",
-   "date": "2026-11-21",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/21/best-early-black-friday-cyber-monday-deals",
-   "paras": [
-    "Deals you can scoop up right now on products we’ve tested and love",
-    "Our favorite bath towel is already on sale for Black Friday",
-    "It’s almost Thanksgiving. That means early Black Friday deals are already here, a consolation prize for the full price you probably paid for your flight home. With thousands of new sales popping up every day, our pro product testers are already hard at work combing through them to find the true deals actually worth your time. Here are our favorite sales that you can buy before the Macy’s parade, across categories from tech to beauty. We test products here at the Filter US and handpicked these deals. You can learn more about us at the bottom of the list. Products marked ( sold out ) are out of stock or no longer discounted. We’ll update our guides throughout Black Friday."
-   ],
-   "img": "https://i.guim.co.uk/img/media/9b4b641933cdabe5d519748aad8fd9f98324e814/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a60b8abfe10774d15ca0aad6b8c04ec5",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ews2026nov21siliconvalleypivotusmidterms",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-   "author": "Johana Bhuiyan",
-   "date": "2026-11-21",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
-   "paras": [
-    "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of Democrats",
-    "A short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: “I’m not just Maga. I’m dark, gothic Maga.”",
-    "On Wednesday, Musk spoke with much less conviction. “I’m not Maga,” he said. “Well, at least I’m not sure what Maga means.” The richest person in the world added he felt “foolish” for spending some $500m to elect Republicans in the midterms. “If I could rewind the clock, I would have spent less money,” he said at the New York Times’ DealBook conference, adding that he did not have “some sort of blind adherence to a set of policies by the Republican party”."
-   ],
-   "img": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8948f6b51100618a30a755c73745db1f",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ewmetothesceneofmyfavouriteromanticmovie",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The moment I knew: She flew me to the scene of my favourite romantic movie",
-   "author": "Kaz Therese, as told to James Norman",
-   "date": "2026-11-21",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/22/the-moment-i-knew-she-flew-me-to-the-scene-of-my-favourite-romantic-movie",
-   "paras": [
-    "Kaz Therese had always loved An Affair to Remember. A few months into their relationship, Brianna surprised her with a magical gift",
-    "Find more stories from the moment I knew series",
-    "Brianna and I met in 2013 on an arts project I was developing in Mount Druitt, the region I grew up in, in western Sydney.",
-    "It was a site-specific work for young people, and Brianna became part of the strategic leadership team, which ultimately meant she was painting gutters pink with the local kids until 9pm each night."
-   ],
-   "img": "https://i.guim.co.uk/img/media/6618edbe391a30033ca5613f92ae5a3104335424/1737_189_5715_4574/master/5715.jpg?width=140&quality=85&auto=format&fit=max&s=9a21c3267dcd1c368e816ba2a0a02b60",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-diancomusnews2026nov21trumpclasswarships",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
-   "author": "Ben Doherty in New York",
-   "date": "2026-11-21",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-   "paras": [
-    "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’",
-    "The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the US Congress has found, as the acting secretary of the navy conceded this week the Iran war was “stretching” the fleet’s capacity.",
-    "The challenges facing the world’s biggest naval force were highlighted this week, when the return of the USS George Washington from the Middle East on Wednesday ended a rare three-month period when the US had no aircraft carrier across all of the Pacific. Deployments have been regularly running beyond 300 days, with the maintenance and repair of ships deferred so they can stay at sea longer."
-   ],
-   "img": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-xs16049684roundupbayerhodgkinssettlement",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Bayer reaches Roundup settlement that could cost the company billions",
-   "author": "Will Stone",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
-   "paras": [
-    "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5265x3524+0+0/resize/5265x3524!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F67%2Fa1%2F2a7c9b0b4b1783ffed73a002a6ad%2Fgettyimages-2283306424.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-xs16047508weatherthanksgivingstormelnino",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Storms expected on both coasts threatens Thanksgiving travel",
-   "author": "Ava Berger",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-   "paras": [
-    "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x4000+0+0/resize/6000x4000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F0b%2F4ca5429c4444a8280c4ead69cf19%2Fgettyimages-2305764692.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-s16049672cartelbosselchapoisidrodetained",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-   "author": "The Associated Press",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-   "paras": [
-    "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4153x2769+0+0/resize/4153x2769!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4f%2F34%2F888e5ba6425cae1b50ebbe90e6a1%2Fap26325506754293.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-g20261121nxs16047916killerrobotsundrones",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-   "author": "Imogen Foulkes",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-   "paras": [
-    "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4146x2764+0+0/resize/4146x2764!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F65%2Fec3be56f4a8caadcaf913863094e%2Fap26320313350560.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-261121nxs16049625palisadesfireconviction",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-   "author": "The Associated Press",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-   "paras": [
-    "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5808x3872+0+0/resize/5808x3872!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe0%2Ffd%2Ff9157ccb44d0a165869fae76e14b%2Fap26324834912819.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-61121nxs16041585perspectivedefininghuman",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Perspective: Defining 'human'",
-   "author": "Scott Simon",
-   "date": "2026-11-21",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-   "paras": [
-    "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year. Why ever might a word that entered the English language over 500 years ago be so honored?"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x683+0+0/resize/1024x683!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F72%2Fdd%2F590c0a4048d2afc4cfee2373c16d%2Fap24253399940383-1.jpg",
-   "fetched": true,
-   "fullText": true,
+   "gnews": true,
    "annos": null
   },
   {
@@ -578,8 +813,9 @@
    "paras": [
     "The U.S. Army set off waves of anxiety in Iowa when it confirmed plans to carry out two controlled explosions at an ammunition facility there with just a few days’ notice . According to the Army, dozens of old barrels containing lead azide , an explosive used as a detonator, have become unstable and pose an “ unacceptable risk of accidental detonation .” Intentionally detonating the barrels is considered the best option for controlling the risk, the Army determined.",
     "However, the explosions are expected to release a large plume of lead particles, and lead is a neurotoxin. The Iowa Army Ammunition Plant is in Middletown, a town of about 360 residents in southeast Iowa. People and farms would be in the path of the plume as the wind blows it for miles.",
-    "The detonations were briefly delayed by the backlash and rescheduled for Nov. 23, 2026 . And a federal appeals court separately paused the Army’s emergency Environmental Protection Agency permit for the detonations after two groups sued. It wasn’t immediately clear if the plan would be delayed again. The Justice Department argues that the permit isn’t necessary in the face of an immediate threat.",
-    "With all the concern, we asked Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, about the risks people in the region would face. O'Shaughnessy is part of a team scrambling to have testing in place when the Army carries out its detonation plan.",
+    "The detonations were briefly delayed after the backlash and rescheduled for Nov. 23, 2026 . A federal appeals court separately paused the Army’s emergency Environmental Protection Agency permit for the detonations after two groups sued, but the U.S. Justice Department argued that the permit wasn’t necessary in the face of an immediate threat.",
+    "The Justice Department told the court in a response late on Nov. 21 that the Army intends to carry out the detonations by Nov. 24, 2026 . A precise date and time weren’t immediately released.",
+    "To better understand the risks, we asked Patrick O'Shaughnessy, a professor of occupational and environmental health at the University of Iowa, what people in the region would face. O'Shaughnessy is part of a team scrambling to have testing in place when the Army carries out its detonation plan.",
     "If you picture a dust plume, it carries particulate matter that can get into the lungs as you breathe. In this case, we’re talking about small particles that contain lead, which is toxic to humans and pets .",
     "Those particles will settle over the area downwind of the detonation site. First it’s air pollution – if you’re outside, you can inhale those particles. Then it becomes surface pollution. The lead dust can get on your hands and into your body. The big concern there is for young children . If you think about 2-year-olds, they put everything in their mouths.",
     "Lead is easily absorbed by the body. It gets into the bloodstream, and it can cause harm to just about every major organ in our bodies , including the nervous system and the brain. It tends to hide out in bones and teeth , where it can leach out and cause harm.",
@@ -600,9 +836,10 @@
     "My colleagues and I will be looking at two aspects of potential exposure to lead: the airborne dust, which we’ll collect with instruments during the plume to get the lead concentration, and then dust that settles on surfaces and the ground, which we’ll collect with gauzelike pads and send to a lab for analysis.",
     "The lab will be able to tell how much lead is in those samples, and the air samples will let us calculate how much people were exposed to the lead.",
     "This is all happening last minute – we only found out about the plan a few days before the Army initially planned to detonate the barrels. Thankfully, the university and our federal- and state-funded centers have the people and technology to quickly carry out testing. We hope to have results about a week after it happens. The U.S. Environmental Protection Agency also has a team that will be doing sampling.",
+    "This article, originally published Nov. 21, 2026, has been updated with a Justice Department statement that the Army plans to act by Nov. 24. The date and time were not immediately specified.",
     "Patrick O'Shaughnessy receives funding from the National Institute of Environmental Health Sciences"
    ],
-   "img": "https://counter.theconversation.com/content/297225/count.gif",
+   "img": "https://images.theconversation.com/files/773453/original/file-20261122-62-ttggip.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -699,99 +936,6 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-osoftsecurityandthreateningtechstability",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "How the surge in AI-discovered bugs is straining Microsoft security and threatening tech stability",
-   "author": "Angela Gunn",
-   "date": "2026-11-20",
-   "url": "https://www.geekwire.com/2026/how-the-surge-in-ai-discovered-bugs-is-straining-microsoft-security-and-threatening-tech-stability/",
-   "paras": [
-    "It has come to the attention of the general public this month that adversaries successfully adopt technology a lot faster than defenders do. This has nothing to do with the willingness of defenders to try. It has everything to do with the ancient truth that to succeed, defenders have to get it right every time but adversaries only have to get it right occasionally.",
-    "Now multiply “every time” and “occasionally” by AI. Do you like that math? Does anyone?",
-    "The disastrous update that broke Teams, Outlook, SharePoint and other packages was not a direct attack by AI-wielding bad guys. Nor was the FAA outage . Nor were most of the outage events of the past few weeks, though who can say what’s up with those European Union refrigerators .",
-    "No. The true AI-driven mayhem has been predicated for several months now not on powerful new AI-honed attacks, but on an absolute deluge of bugs of relatively low severity that Microsoft and other defenders with a formal patch process aren’t built to process.",
-    "The question is whether traditional patch programs can adapt their processes to handle the deluge. Microsoft’s is MAPP (Microsoft Active Protections Program), to which the company has been committed for nearly two decades. If the industry-spanning events of the past few weeks are any indication, these programs can’t.",
-    "Microsoft CEO Satya Nadella said Wednesday at the New York Times DealBook Summit that last week’s Microsoft 365 outage came from a latent bug and wasn’t directly tied to AI, but he warned that AI-driven patching could bring more instability.",
-    "He elaborated in a separate appearance on CNBC the same day, saying the flood of patches being applied to older infrastructure is making systems less stable.",
-    "AI has “allowed us to find these bugs and fix these bugs, but that means you’ve got to then patch them, and that creates instability,” Nadella said, when asked by Jim Cramer about a string of recent outages at United, Schwab, Chase and other organizations.",
-    "Some context: MAPP turned 18 this year. The program, run by the MSRC (Microsoft Security Response Center), handles outreach to partner companies that gain early access to information on the bugs in advance of each month’s Patch Tuesday release. In-house, it coordinates the patch release process, just as the larger MSRC organization helps coordinate the handling of bug reports from external finders.",
-    "MSRC also runs point on prioritizing patches of the worst bugs through its SSIRP (Software and Services Incident Response Plan) program, itself dating to 2004. In its time, it was an industry leader in how companies can efficiently get their arms around bad bugs.",
-    "MAPP in its own way is similarly remarkable. It has undergone a few traumas over the years, usually when a partner breaks confidence and leaks the advance details it receives. In 2025, after attacks on SharePoint raised suspicions of a leak from the program, Microsoft stopped giving Chinese companies early access . But MAPP continues to tick along in a way that would make any program manager proud. Other companies have their own version of MAPP / MSRC, as do community efforts such as those supporting Linux.",
-    "Full disclosure: I’m a former MSRC employee who learned about MAPP at the knee of the program’s principals. I subsequently tracked patch releases at a company partnered with MAPP at its highest (Validate) level, which means I was privy to the 14-day multi-stage run-up to each month’s release. I admire and respect the program… and I’m afraid that in the AI-finder era, it’s in big, big trouble.",
-    "Since January 2021, Microsoft has issued patches for an estimated 10,319 CVEs. (I use estimated numbers throughout this analysis because there are various ways of counting such things, including whether or not the patch accrues to an application such as Edge, which actually relies on the Chromium project for its fixes. Other analysts arrive at larger or smaller counts.)",
-    "Over half of those — 5,383 CVEs — are 2026 releases, 5,128 of which were addressed since April. In comparison, 2025’s full-year CVE total was 1,180.",
-    "What happened in April? As nearly as analysis can determine, the floodgates opened and finders (security researchers) started barraging the company with reports.",
-    "The first quarter of 2026 saw 255 CVEs addressed over three months. April had 163, May 132; in June the number jumped to 209. In July it was off to the races with 575 CVEs. In October, the monthly count topped 1,400.",
-    "Most of these bugs aren’t coming from the usual security stalwarts. They’re coming from new finders, they’re coming in with multiple simultaneous finders not believed to be working together, and they’re coming in relatively weak.",
-    "Though the overall volume has skyrocketed, the number per month of bugs under active exploit in the wild — the notorious “zero-days” — hasn’t increased proportionally.",
-    "Moreover, average bug severity has in fact decreased. Until 2026, the average CVSS severity score for all bugs tended to hover around 7.8 (out of 10) each month. In 2026, that’s dropped to approximately 7.4 as of September — not garbage finds, but the sort of thing that doesn’t scramble the jets.",
-    "No surge in zero-days and a drop in severity — that’s good news. The problem is the volume.",
-    "Once bugs are received by Microsoft, each goes through a MAPP-helmed, multi-team process of investigation and patch development.",
-    "Since many products have several versions still in support, that often means that multiple teams within each product group are asked to ingest a bug report, replicate the problem, devise and test a fix, ensure the fix doesn’t trigger other problems or inadvertently point to a similar bug elsewhere in the product and ready it for mass consumption. Even AI slop has to be taken seriously, just in case.",
-    "Meanwhile, MAPP is the traffic cop for the entire release, working with each team to ascertain patches are ready, understand the nature of the bugs and what can be safely communicated to partners and the public, and ready the processes that make the second Tuesday of each month a festival of downloads and reboots. From where we stand right now, it’s all fairly… hand-crafted.",
-    "In theory the process is automatable to some extent, though the success of that effort so far in light of recent events is debatable. But high volume also leads to other problems, such as exposing information on incomplete patching.",
-    "For instance, Microsoft has recently patched Office bugs that apply to both Windows and Mac, but patches have initially only been available for Windows versions.",
-    "Microsoft’s release-day information about such bugs — patching Windows versions while asking Apple users to monitor Microsoft communications for news of their own patch — alerts the world, including eager adversaries, that the flaw exists. Apple customers just have to hope no adversaries exploit it while their patch is pending.",
-    "More broadly, many of the steps in the current patching process involve judgment calls, not processes that scale well or that can reliably be handled by existing AI-driven systems. In Microsoft’s case, MAPP is a remarkably small team of humans and, being security folk at Microsoft, they’re not always the loudest or most popular voice in Redmond.",
-    "Add the mercurial nature of finders, who may or may not provide full details on their bugs (ask any MSRC person how often they receive a crash dump and a demand for payment) and may or may not disclose their finds publicly if they don’t feel they’re getting sufficient response.",
-    "Do not add the kind of defender staffing needed to handle a massive increase in volume — either in MAPP or in the individual product groups building the actual patches — because in the AI era, it’s likely the companies won’t add it either.",
-    "The cracks are showing. Microsoft has been compelled to issue OOB (out-of-band) releases and servicing updates monthly since July, often within just a few days of the original release.",
-    "OOBs are important enough to merit release outside the usual patch cadence, often because there’s a security issue involved, but they’re tough on administrators already wading through a slew of regularly scheduled patching. With volumes high, patch testers may rush or elide certain steps, such as checking that a fix doesn’t break something deeper in the system.",
-    "Nadella told the DealBook audience this week that a patch for a critical bank system might once have been tested for a week. Now, he said, the patch “needs to go instantly from being available to being patched in production because it’s being exploited in the wild. So that’s going to create instability.”",
-    "Think of MAPP as Mariners catcher Dan Wilson in 2001: a pro handling a staff of skilled human pitchers, one pitch at a time. Now it’s 2026, and the pitchers have been swapped for a bank of mediocre pitching machines all slinging fastballs at … 2026-era Dan Wilson.",
-    "Here, again, AI can’t fix a system that requires defenders to catch every pitch. Secondary lines of defense that have worked in the past — for instance, the requirement by various regulatory programs that enterprises ascertain that patches are safe for their own systems — rely heavily on companies sending out the soundest possible patches.",
-    "Managed service providers might at least make sure that patches are flagged to customers as available, relevant and urgent. But they’re in no position to do much more than trust that what’s shipped is safe to deploy and react when things go wrong.",
-    "Even that gets harder when a bug kneecaps the security tools they depend on. Last week’s Microsoft 365 outage affected parts of Microsoft Defender that interact with Exchange Online.",
-    "It’s not just Microsoft, of course. The Linux community is seriously suffering , and both Apple and (especially) Google have struggled with patch-release quality in 2026 as evidenced by their own emergency updates and post-release device instability reports. Industry-wide, ecosystems built around reliable, transparent patch cadences and patch-development processes have never seemed more in danger of being overwhelmed.",
-    "What needs to happen? Sure, build those AI systems; the marketing people will be pleased. It’ll speed up some parts of the process. But a system capable of replicating, every time, the human judgment calls that go into the patch-release process isn’t going to magically create itself; people have to create it.",
-    "Is there some chance that the deluge will ebb — that researchers and their tools will at some point finally find all the bugs in all the world’s products?",
-    "It’s a pretty thought, and some relief may eventually come. When more and more unrelated finders turn up the same bug, it gives one hope that the set is finite. But no one knows when relief will come, and most folk in tech suspect that really, no, there is no bottom to the bug barrel. Nor, for the foreseeable future, any rest for the weary."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/windows-update-laptop-unsplash.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-ses20mtodefenddeveloperstoolsfromhackers",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "StepSecurity, led by two Microsoft vets, raises $20M to defend developers’ tools from hackers",
-   "author": "Todd Bishop",
-   "date": "2026-11-20",
-   "url": "https://www.geekwire.com/2026/stepsecurity-founded-by-two-microsoft-vets-raises-20m-to-defend-developers-tools-from-hackers/",
-   "paras": [
-    "StepSecurity’s co-founders spent more than two decades combined at Microsoft. This week, as their startup announced a new round of funding , its researchers were also investigating a hacked Microsoft software package .",
-    "Their old employer is not the only one with this problem.",
-    "StepSecurity , a Seattle-area cybersecurity startup, raised a $20 million Series A round led by Elephant, with participation from existing investors Runtime Ventures, Inner Loop Capital and SaaS Ventures. The company has now raised $23 million, including a $3 million seed round in 2024 . Axios Pro first reported the latest round .",
-    "The startup protects the systems used to build software: developers’ laptops, code repositories, package downloads and CI/CD pipelines, the automated systems that assemble and ship code.",
-    "The problem is that attackers increasingly slip malicious code into open-source software that developers download. That code can do damage as soon as it runs on a developer’s laptop or build system, stealing the passwords and keys that unlock other systems.",
-    "“A supply chain attack used to take a skilled team,” CEO Varun Sharma wrote in a blog post announcing the funding . “Now one person can vibe code it.”",
-    "Sharma spent about 15 years at Microsoft, where he led a team in Azure Security focused on making security easier for developers. CTO Ashish Kurmi spent nearly eight years at Microsoft before leading cloud security at Uber and infrastructure security at Plaid.",
-    "The two met at Microsoft and started StepSecurity in 2021, after working through the fallout from the SolarWinds and Codecov supply chain attacks at their respective employers.",
-    "A busy week: The Microsoft package, agent-framework, is the Python version of Microsoft’s open-source toolkit for building AI agents.",
-    "It gets roughly 190,000 downloads a month. Two malicious versions published on Nov. 17 to PyPI, the main public repository for Python software, included code designed to steal cloud and CI/CD credentials as soon as Python started up, SecurityWeek reported . PyPI quarantined both versions, and a Microsoft maintainer said an investigation was underway.",
-    "That’s one entry in a long list. StepSecurity’s announcement also cites the $6.3 billion Binance breach in October, which the FBI attributed to North Korea’s TraderTraitor group. Binance has said the attack started with a compromised employee laptop.",
-    "It also points to a tampered copy of Anthropic’s Claude Code extension that sat in Cursor’s extension marketplace for about 11 hours last month. Cursor said up to 5,000 users may have received the malicious version.",
-    "StepSecurity says it documented 56 confirmed compromises of trusted software components between August 2025 and August 2026, and roughly one every three days from March 2026 through the August report.",
-    "How it works: StepSecurity got its start with its own tool, Harden-Runner, which is free for open-source projects. It watches automated builds on GitHub and flags anything unexpected in the processes they run, the network connections they make or the files they change.",
-    "More than 20,000 open-source projects use it, the company says, up from about 3,000 at the time of the seed round. Unusual behavior spotted in those public builds has helped StepSecurity catch attacks early, the company says, including the March 2025 compromise of tj-actions, a widely used add-on for GitHub’s build automation.",
-    "StepSecurity’s paid products also protect developers’ laptops and check code repositories. Its Secure Registry service screens software packages before a company’s builds download them from public sources such as npm, the main public repository for JavaScript packages. It blocks versions known to be compromised and holds brand-new releases for a waiting period, giving researchers time to catch malicious ones before anyone installs them.",
-    "Along with the funding, StepSecurity is making Secure Registry free for public GitHub projects that use Harden-Runner and run their builds on GitHub’s servers. The free version defaults to a two-day waiting period and supports JavaScript packages, with Python, Java, Ruby and Rust planned.",
-    "StepSecurity has plenty of competition. Socket, a San Francisco startup that screens open-source packages for malicious code, raised $60 million at a $1 billion valuation in May. Sonatype, JFrog and Endor Labs also sell tools that can block risky packages before they’re installed.",
-    "Growth spurt: StepSecurity says its annual recurring revenue grew fivefold in 2024, fivefold again in 2025 and more than fivefold so far this year. It didn’t disclose dollar figures.",
-    "Named customers include Circle, Dexcom, Kong, Mercari, Chainguard and XBOW.",
-    "The company has 27 employees, up from four, including the founders, at the time of the seed round. Sharma is based in Sammamish and Kurmi in Kirkland, and the rest of the remote-first team is spread across the U.S., Canada and India.",
-    "What’s next: StepSecurity plans to extend its protections to agent sandboxes, the isolated environments where AI agents run code. Its argument is that anyone who asks an AI agent for a spreadsheet may be downloading and running open-source packages.",
-    "The company says it also plans to double its team over the next 12 months, mostly in security research, engineering and sales and marketing."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/stepsecurity-founders-3x2-1200.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-0261120fridayroundtablesoundtransitbingo",
    "srcKey": "stb",
    "cat": "transit",
@@ -805,6 +949,92 @@
     "Everyone is invited to explore the region while visiting stations to fill in their Bingo card today between 10am to 2pm. The first 450 people to complete a row, column, or diagonal and return their card to a designated drop-off will get a 30th Anniversary ORCA card . Everyone who gets Bingo will be entered into a raffle to win additional prizes. If you want to go above and beyond, complete every square for a chance to win a grand prize that includes one year of free transit and a behind-the-scenes ride-along through a Link train wash. For more details and the complete list of prizes, visit the Sound Transit website ."
    ],
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-12.png?resize=525%2C755&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-mepopulationrangesfromduolingotostartups",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Thanks to new generation of office space, Capitol Hill’s daytime population ranges from Duolingo to start-ups",
+   "author": "CHS",
+   "date": "2026-11-20",
+   "url": "https://www.capitolhillseattle.com/2026/11/thanks-to-new-generation-of-office-space-capitol-hills-daytime-population-ranges-from-duolingo-to-start-ups/",
+   "paras": [
+    "CENTRL Office’s Capitol Hill Location (Image: Matt Freire)",
+    "Building out a traditional office on Capitol Hill comes with real overhead — even for small upgrades.",
+    "According to City of Seattle construction permits signed off this month, language-learning giant Duolingo spent a base $18,000 on interior alterations just to add a dedicated lactation room inside its fifth-floor offices inside the net-zero energy Bullitt Center at 15th and Madison",
+    "While established companies can absorb bespoke buildouts and permitting timelines, Capitol Hill’s smaller office rentals and coworking spaces are giving homegrown entrepreneurs an affordable alternative, offering shared amenities and flexible footprints without the upfront capital expense.",
+    "As remote and hybrid work spaces reshape how businesses utilize office space, coworking and office rentals are seeing an increased interest from freelancers and small teams, according to the developers behind the spaces.",
+    "While overall Seattle office vacancy remained elevated at 27.7% in Q3 2026, it has begun edging down from its peak and neighborhood submarkets are faring substantially better than the downtown core, according to commercial real estate firm Kidder Mathews . In the Capitol Hill and Central District submarket, total vacancy stood at 10.5% across 4.8 million square feet of inventory, compared to 35% downtown. Locally, Capitol Hill’s CENTRL Office reported a 30% increase in occupancy over the past year.",
+    "Kaitee Quinn , general manager at CENTRL, said that these environments are becoming an essential stepping stone in business growth today.",
+    "“I think we’re filling a need that has been created by everybody preferring remote and hybrid work now,” Quinn said. “You get to choose to come to a space that’s beautiful, that’s lively, and meet people in your neighborhood.”",
+    "Duolingo’s own Capitol Hill footprint followed that trajectory. Before signing its direct lease at the Bullitt Center, the company’s Seattle team operated out of coworking desks inside the historic Kelly-Springfield building on 11th Ave — the same space CENTRL Office now operates.",
+    "As regulatory and operating costs rise across the city, these smaller office rentals and coworking spaces give entrepreneurial companies the traditional workplace benefits without having to front the operational expenses.",
+    "Different from coworking spaces, the Ballou Wright building on 12th Avenue offers separate office leases for businesses looking for a more traditional workplace. Jill Cronauer, president of Hunters Capital, which owns and manages the Ballou Wright building, said that these spaces are becoming the cost-effective option for small teams.",
+    "“There’s a huge distinction about small office space that’s super critical because it’s more affordable,” Cronauer said. “It’s also acting as an essential step down if an organization is resizing and downsizing.”",
+    "Cronauer also highlighted the importance of Capitol Hill’s creative atmosphere and access to mass transit as attractive features for businesses. The Ballou Wright building houses many independent tenants, such as marketers, interior designers and architecture firms.",
+    "Liz Dunn , developer of The Cloud Room and Chophouse Row , said the coworking space has become a launching pad for many independent businesses, some of which she said eventually grow beyond what the space can provide.",
+    "“We always have noticed and love the fact that we have been able to incubate little companies that have then gone on to grow,” Dunn said. “Sometimes we are able to incubate a Cloud Room member company into a user of a different office space at Chophouse. It gives us enormous satisfaction to play that role.”",
+    "Locally, shared workspaces have served as launchpads for Seattle’s startups and small businesses. On Capitol Hill, food and drink entrepreneur Makini Howell moved her administrative team into The Cloud Room, where she collaborated with fellow tenant and graphic design studio Wildern on the brand’s identity. Meanwhile, spaces like Foundations on Boylston and CENTRL Office on 11th host dozens of early-stage technical founders. Across the city, coworking hubs and incubators including The Pioneer Collective, 9Zero, AI House , and Waterfront Workspaces have helped launch notable local ventures ranging from screen-free kids’ phone maker Tin Can and proptech startup YIMBY AI to applied-AI companies Lexion, Yoodli, and Vercept .",
+    "Some of these offices offer amenities like large meeting rooms, private phone booths, Wi-Fi and coffee in their memberships, which cuts a lot of the overhead costs associated with a traditional office building.",
+    "For larger employers, taking on traditional commercial leases and custom tenant improvements remains standard practice.",
+    "Pittsburgh-based Duolingo, which employs roughly 900 people globally and operates a regional engineering and product outpost of a few dozen staffers in Capitol Hill, signed a lease in 2024 for 7,940 square feet of office space inside the six-story Bullitt Center. Leasing an entire floorplate in one of the neighborhood’s signature commercial buildings gives the publicly traded edtech company room to customize its own workspace — while underscoring the gap between institutional tech tenants and the solo founders or small teams turning to shared spaces to avoid buildout costs.",
+    "In addition to providing independent businesses support, Dunn also said that office space plays an important role for the economy and the identity of the neighborhood.",
+    "“A truly successful 24/7 neighborhood has to have residents, retail, and office,” Dunn said. “And I wish we had more office space on Capitol Hill than we do.”",
+    "The Journalism and Public Interest Communication News Lab at the University of Washington gives advanced journalism students an opportunity to build a dynamic clip portfolio by reporting for any of 70 client news outlets in the greater Seattle area. CHS is proud to work with young journalists and feature their work."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-sstorenamejacksonparkjacksonstreetnotyet",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Seattle launches community process to rename Jackson Park — Jackson Street? Not yet",
+   "author": "CHS Staff",
+   "date": "2026-11-20",
+   "url": "https://www.capitolhillseattle.com/2026/11/seattle-launches-community-process-to-rename-jackson-park-jackson-street-not-yet/",
+   "paras": [
+    "Mayor Katie Wilson has directed Seattle Parks and Recreation to launch a public process to rename north Seattle’s Jackson Park , responding to what she says are community calls for a title that better reflects the land’s history and the city’s values.",
+    "Originally named after President Andrew Jackson whose policies forcibly displaced Native American peoples, the park at 1000 NE 135th has faced scrutiny from residents questioning the legacy. The renaming initiative coincides with new light rail service and planned pedestrian and bicycle upgrades designed to improve neighborhood access to the park and its golf course.",
+    "“With new light rail connections and opportunities to make the park more accessible and welcoming, we should have a park that reflects the values of our city,” Wilson said.",
+    "Groups have also pushed for better community use of the park, including tough questions about the future of the golf course and potential for future affordable housing development.",
+    "Under the City’s Park Naming Policy, SPR is inviting residents to submit name proposals by Monday, December 14th.",
+    "The parks naming committee will evaluate suggestions based on the land’s history, natural features, geographical location, and cultural significance, including Indigenous ties to the area. Proposals may also honor a community contributor deceased for at least three years. Written submissions, including a brief rationale, can be sent via email to PKS_BPRC@seattle.gov. The committee will review the entries and recommend a final choice to the department superintendent.",
+    "The debate over Jackson Park also draws attention to Seattle’s other prominent Andrew Jackson namesake: South Jackson Street.",
+    "The major thoroughfare through Pioneer Square, the Chinatown–International District, and the Central District was platted by city co-founder David “Doc” Maynard in 1853. While periodic community proposals have called for renaming the street—or symbolically rededicating it to a different figure without changing addresses , similar to how King County was rededicated from Vice President William Rufus King to Dr. Martin Luther King Jr. —any formal street name change requires a Seattle City Council ordinance and involves significant logistical hurdles for affected residents, businesses, and transit agencies.",
+    "Jackson is far from the only Seattle landmark with a contested history; Maynard’s original 1853 street grid also honored pro-slavery and secessionist politicians on neighboring South King Street (William Rufus King) and South Lane Street (Joseph Lane), while other city streets and parks commemorate slaveholders like James Madison and Thomas Jefferson, as well as territorial Governor Isaac Stevens, who coerced local Indigenous tribes into ceding their lands.",
+    "Alongside the renaming effort, SPR is gathering broader feedback on park safety, cleanliness, and trail conditions through an upcoming online survey."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-rictandsoutheastseattleinfinalbudgetpush",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Hollingsworth celebrates $6M economic growth fund for Central District and Southeast Seattle in final budget push",
+   "author": "CHS Staff",
+   "date": "2026-11-20",
+   "url": "https://www.capitolhillseattle.com/2026/11/hollingsworth-celebrates-6m-economic-growth-fund-for-central-district-and-southeast-seattle-in-final-budget-push/",
+   "paras": [
+    "As the full Seattle City Council prepares for one last vote finalizing the city’s 2027-2028 budget, District 3 representative and Council President Joy Hollingsworth is celebrating the inclusion of a $6 million economic growth fund she championed to power community investments in the Central District and Southeast Seattle.",
+    "Seattle’s Select Budget Committee approved the budget amendment sponsored by Hollingsworth allocating $3.2 million in 2027 and $2.8 million in 2028 to the Central District/Southeast Seattle Fund . According to Hollingsworth, the measure aims to “preserve cultural heritage and foster economic growth” across District 3 and South Seattle.",
+    "The program will serve as a “targeted reinvestment mechanism” for community-led initiatives, cultural institutions, and small businesses, Hollingsworth says.",
+    "“Supporting community organizations, small businesses and people that preserve and revitalize the Central District and southeast Seattle communities is why this fund exists,” Hollingsworth said, thanking budget chair Dan Strauss and co-sponsors Councilmembers Dionne Foster and Rob Saka .",
+    "Beginning in 2027, the Seattle Department of Neighborhoods will manage the funds via a “structured and transparent application process” supported by two full-time staff members. Department director Quynh Pham noted that local organizations play a vital role in preserving the area’s “history, culture, and sense of belonging.”",
+    "Friday’s final vote will a contentious week in which council members approved more than 100 amendments to Mayor Katie Wilson’s spending plan, which had originally been shaped to close a projected $175 million shortfall without dipping into reserves or new taxes. Council changes included a decision to raid $31 million in JumpStart payroll tax reserves to cover council amendments to Wilson’s proposal. The tax was originally shaped to fund affordable housing and services coming out of the pandemic.",
+    "The full council is expected to pass the 2027-2028 spending plan Friday but Councilmember Maritza Rivera said she will not vote for the budget.",
+    "“I cannot in good conscience recommend this budget. It is not fiscally responsible or sustainable,” Rivera said in a statement. “This budget continues the bad habit of adding without balancing and relying, in part, on JumpStart reserves to cover those adds. This undoes our previous commitment to rebuild the JumpStart reserves. It is simply bad budgeting.”",
+    "The full City Council will vote on the final 2027-2028 budget Friday at 1 PM before sending it to the mayor for signature."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -912,92 +1142,6 @@
    "annos": null
   },
   {
-   "id": "f-chs-mepopulationrangesfromduolingotostartups",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Thanks to new generation of office space, Capitol Hill’s daytime population ranges from Duolingo to start-ups",
-   "author": "CHS",
-   "date": "2026-11-20",
-   "url": "https://www.capitolhillseattle.com/2026/11/thanks-to-new-generation-of-office-space-capitol-hills-daytime-population-ranges-from-duolingo-to-start-ups/",
-   "paras": [
-    "CENTRL Office’s Capitol Hill Location (Image: Matt Freire)",
-    "Building out a traditional office on Capitol Hill comes with real overhead — even for small upgrades.",
-    "According to City of Seattle construction permits signed off this month, language-learning giant Duolingo spent a base $18,000 on interior alterations just to add a dedicated lactation room inside its fifth-floor offices inside the net-zero energy Bullitt Center at 15th and Madison",
-    "While established companies can absorb bespoke buildouts and permitting timelines, Capitol Hill’s smaller office rentals and coworking spaces are giving homegrown entrepreneurs an affordable alternative, offering shared amenities and flexible footprints without the upfront capital expense.",
-    "As remote and hybrid work spaces reshape how businesses utilize office space, coworking and office rentals are seeing an increased interest from freelancers and small teams, according to the developers behind the spaces.",
-    "While overall Seattle office vacancy remained elevated at 27.7% in Q3 2026, it has begun edging down from its peak and neighborhood submarkets are faring substantially better than the downtown core, according to commercial real estate firm Kidder Mathews . In the Capitol Hill and Central District submarket, total vacancy stood at 10.5% across 4.8 million square feet of inventory, compared to 35% downtown. Locally, Capitol Hill’s CENTRL Office reported a 30% increase in occupancy over the past year.",
-    "Kaitee Quinn , general manager at CENTRL, said that these environments are becoming an essential stepping stone in business growth today.",
-    "“I think we’re filling a need that has been created by everybody preferring remote and hybrid work now,” Quinn said. “You get to choose to come to a space that’s beautiful, that’s lively, and meet people in your neighborhood.”",
-    "Duolingo’s own Capitol Hill footprint followed that trajectory. Before signing its direct lease at the Bullitt Center, the company’s Seattle team operated out of coworking desks inside the historic Kelly-Springfield building on 11th Ave — the same space CENTRL Office now operates.",
-    "As regulatory and operating costs rise across the city, these smaller office rentals and coworking spaces give entrepreneurial companies the traditional workplace benefits without having to front the operational expenses.",
-    "Different from coworking spaces, the Ballou Wright building on 12th Avenue offers separate office leases for businesses looking for a more traditional workplace. Jill Cronauer, president of Hunters Capital, which owns and manages the Ballou Wright building, said that these spaces are becoming the cost-effective option for small teams.",
-    "“There’s a huge distinction about small office space that’s super critical because it’s more affordable,” Cronauer said. “It’s also acting as an essential step down if an organization is resizing and downsizing.”",
-    "Cronauer also highlighted the importance of Capitol Hill’s creative atmosphere and access to mass transit as attractive features for businesses. The Ballou Wright building houses many independent tenants, such as marketers, interior designers and architecture firms.",
-    "Liz Dunn , developer of The Cloud Room and Chophouse Row , said the coworking space has become a launching pad for many independent businesses, some of which she said eventually grow beyond what the space can provide.",
-    "“We always have noticed and love the fact that we have been able to incubate little companies that have then gone on to grow,” Dunn said. “Sometimes we are able to incubate a Cloud Room member company into a user of a different office space at Chophouse. It gives us enormous satisfaction to play that role.”",
-    "Locally, shared workspaces have served as launchpads for Seattle’s startups and small businesses. On Capitol Hill, food and drink entrepreneur Makini Howell moved her administrative team into The Cloud Room, where she collaborated with fellow tenant and graphic design studio Wildern on the brand’s identity. Meanwhile, spaces like Foundations on Boylston and CENTRL Office on 11th host dozens of early-stage technical founders. Across the city, coworking hubs and incubators including The Pioneer Collective, 9Zero, AI House , and Waterfront Workspaces have helped launch notable local ventures ranging from screen-free kids’ phone maker Tin Can and proptech startup YIMBY AI to applied-AI companies Lexion, Yoodli, and Vercept .",
-    "Some of these offices offer amenities like large meeting rooms, private phone booths, Wi-Fi and coffee in their memberships, which cuts a lot of the overhead costs associated with a traditional office building.",
-    "For larger employers, taking on traditional commercial leases and custom tenant improvements remains standard practice.",
-    "Pittsburgh-based Duolingo, which employs roughly 900 people globally and operates a regional engineering and product outpost of a few dozen staffers in Capitol Hill, signed a lease in 2024 for 7,940 square feet of office space inside the six-story Bullitt Center. Leasing an entire floorplate in one of the neighborhood’s signature commercial buildings gives the publicly traded edtech company room to customize its own workspace — while underscoring the gap between institutional tech tenants and the solo founders or small teams turning to shared spaces to avoid buildout costs.",
-    "In addition to providing independent businesses support, Dunn also said that office space plays an important role for the economy and the identity of the neighborhood.",
-    "“A truly successful 24/7 neighborhood has to have residents, retail, and office,” Dunn said. “And I wish we had more office space on Capitol Hill than we do.”",
-    "The Journalism and Public Interest Communication News Lab at the University of Washington gives advanced journalism students an opportunity to build a dynamic clip portfolio by reporting for any of 70 client news outlets in the greater Seattle area. CHS is proud to work with young journalists and feature their work."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-sstorenamejacksonparkjacksonstreetnotyet",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Seattle launches community process to rename Jackson Park — Jackson Street? Not yet",
-   "author": "CHS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.capitolhillseattle.com/2026/11/seattle-launches-community-process-to-rename-jackson-park-jackson-street-not-yet/",
-   "paras": [
-    "Mayor Katie Wilson has directed Seattle Parks and Recreation to launch a public process to rename north Seattle’s Jackson Park , responding to what she says are community calls for a title that better reflects the land’s history and the city’s values.",
-    "Originally named after President Andrew Jackson whose policies forcibly displaced Native American peoples, the park at 1000 NE 135th has faced scrutiny from residents questioning the legacy. The renaming initiative coincides with new light rail service and planned pedestrian and bicycle upgrades designed to improve neighborhood access to the park and its golf course.",
-    "“With new light rail connections and opportunities to make the park more accessible and welcoming, we should have a park that reflects the values of our city,” Wilson said.",
-    "Groups have also pushed for better community use of the park, including tough questions about the future of the golf course and potential for future affordable housing development.",
-    "Under the City’s Park Naming Policy, SPR is inviting residents to submit name proposals by Monday, December 14th.",
-    "The parks naming committee will evaluate suggestions based on the land’s history, natural features, geographical location, and cultural significance, including Indigenous ties to the area. Proposals may also honor a community contributor deceased for at least three years. Written submissions, including a brief rationale, can be sent via email to PKS_BPRC@seattle.gov. The committee will review the entries and recommend a final choice to the department superintendent.",
-    "The debate over Jackson Park also draws attention to Seattle’s other prominent Andrew Jackson namesake: South Jackson Street.",
-    "The major thoroughfare through Pioneer Square, the Chinatown–International District, and the Central District was platted by city co-founder David “Doc” Maynard in 1853. While periodic community proposals have called for renaming the street—or symbolically rededicating it to a different figure without changing addresses , similar to how King County was rededicated from Vice President William Rufus King to Dr. Martin Luther King Jr. —any formal street name change requires a Seattle City Council ordinance and involves significant logistical hurdles for affected residents, businesses, and transit agencies.",
-    "Jackson is far from the only Seattle landmark with a contested history; Maynard’s original 1853 street grid also honored pro-slavery and secessionist politicians on neighboring South King Street (William Rufus King) and South Lane Street (Joseph Lane), while other city streets and parks commemorate slaveholders like James Madison and Thomas Jefferson, as well as territorial Governor Isaac Stevens, who coerced local Indigenous tribes into ceding their lands.",
-    "Alongside the renaming effort, SPR is gathering broader feedback on park safety, cleanliness, and trail conditions through an upcoming online survey."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-rictandsoutheastseattleinfinalbudgetpush",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Hollingsworth celebrates $6M economic growth fund for Central District and Southeast Seattle in final budget push",
-   "author": "CHS Staff",
-   "date": "2026-11-20",
-   "url": "https://www.capitolhillseattle.com/2026/11/hollingsworth-celebrates-6m-economic-growth-fund-for-central-district-and-southeast-seattle-in-final-budget-push/",
-   "paras": [
-    "As the full Seattle City Council prepares for one last vote finalizing the city’s 2027-2028 budget, District 3 representative and Council President Joy Hollingsworth is celebrating the inclusion of a $6 million economic growth fund she championed to power community investments in the Central District and Southeast Seattle.",
-    "Seattle’s Select Budget Committee approved the budget amendment sponsored by Hollingsworth allocating $3.2 million in 2027 and $2.8 million in 2028 to the Central District/Southeast Seattle Fund . According to Hollingsworth, the measure aims to “preserve cultural heritage and foster economic growth” across District 3 and South Seattle.",
-    "The program will serve as a “targeted reinvestment mechanism” for community-led initiatives, cultural institutions, and small businesses, Hollingsworth says.",
-    "“Supporting community organizations, small businesses and people that preserve and revitalize the Central District and southeast Seattle communities is why this fund exists,” Hollingsworth said, thanking budget chair Dan Strauss and co-sponsors Councilmembers Dionne Foster and Rob Saka .",
-    "Beginning in 2027, the Seattle Department of Neighborhoods will manage the funds via a “structured and transparent application process” supported by two full-time staff members. Department director Quynh Pham noted that local organizations play a vital role in preserving the area’s “history, culture, and sense of belonging.”",
-    "Friday’s final vote will a contentious week in which council members approved more than 100 amendments to Mayor Katie Wilson’s spending plan, which had originally been shaped to close a projected $175 million shortfall without dipping into reserves or new taxes. Council changes included a decision to raid $31 million in JumpStart payroll tax reserves to cover council amendments to Wilson’s proposal. The tax was originally shaped to fund affordable housing and services coming out of the pandemic.",
-    "The full council is expected to pass the 2027-2028 spending plan Friday but Councilmember Maritza Rivera said she will not vote for the budget.",
-    "“I cannot in good conscience recommend this budget. It is not fiscally responsible or sustainable,” Rivera said in a statement. “This budget continues the bad habit of adding without balancing and relying, in part, on JumpStart reserves to cover those adds. This undoes our previous commitment to rebuild the JumpStart reserves. It is simply bad budgeting.”",
-    "The full City Council will vote on the final 2027-2028 budget Friday at 1 PM before sending it to the mayor for signature."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stranger-wdattheshowboxandsmilingatthe76onroxbury",
    "srcKey": "stranger",
    "cat": "arts",
@@ -1083,23 +1227,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-rcomfreewillastrologyfreewillastrology24",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Free Will Astrology",
-   "author": "Rob Brezsny",
-   "date": "2026-11-20",
-   "url": "https://www.thestranger.com/free-will-astrology/free-will-astrology-24/",
-   "paras": [
-    "ARIES (March 21-April 19): Our Milky Way Galaxy is unusually calm. It has experienced fewer disruptive collisions than many comparable galaxies. That relative stability helped create conditions favorable for the evolution of complex life. I know you’re not naturally drawn to building strong, serene foundations. Aries, but I hope that in the coming months, you […]",
-    "The post Free Will Astrology appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/06/free-will-astro-scaled.jpg?fit=1024%2C683&ssl=1",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-grist-NZWZqVkVCUGNGSlQ3alFkdlVvMDVNX2Q4S1proc5",
    "srcKey": "grist",
    "cat": "climate",
@@ -1114,24 +1241,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-providehopeandjoyinacitythatbadlyneedsit",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Washington Spirit provide hope and joy in a city that badly needs it",
-   "author": "Pablo Iglesias Maurer",
-   "date": "2026-11-20",
-   "url": "https://www.theguardian.com/football/2026/nov/20/washington-spirit-provide-hope-and-joy-in-a-city-that-badly-needs-it",
-   "paras": [
-    "Spirit’s run to the NWSL Championship final is in part based on a positive connection with fans at a time when DC is troubled in more ways than one",
-    "In the moments after the Washington Spirit’s 2-1 semi-final victory over the Utah Royals last weekend, all of Audi Field was in rapture. In the stands, around 20,000 Spirit supporters had filled the stadium to capacity, the sixth time they’d done so in 2026. They filled the place with the type of wondrous noise that’s become alien in DC sports in recent years, the type of gleeful adoration reserved for the city’s rare winners. The Spirit will return to their home stadium to face the Kansas City Current in the NWSL championship this Saturday.",
-    "In short order, the Spirit’s players made their way to the north end of the stadium, taking their celebrations into the crowd with their supporters. Perhaps no player has done more to push the Spirit into not only local but national relevance than US women’s national team forward Trinity Rodman, and Rodman herself grabbed a flag from a fan, jubilantly waving it above the crowd. Moments later, she bolted back onto the field and track down the club’s owner, Michele Kang, cajoling the businesswoman into a celebratory dance."
-   ],
-   "img": "https://i.guim.co.uk/img/media/12ce00de35ae4e4967ce3c21f4229b2fcc8d716d/367_0_4873_3900/master/4873.jpg?width=140&quality=85&auto=format&fit=max&s=abd42efe137a0a78a5721b2101b6def7",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -1318,6 +1427,23 @@
    "annos": null
   },
   {
+   "id": "f-propublica-oWlpkRXc5b00tTS1EWDk2X3ZaVE5yN1ZBbThLoc5",
+   "srcKey": "propublica",
+   "cat": "local",
+   "title": "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More.",
+   "author": "",
+   "date": "2026-11-20",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnB1c1FTZFUtNWQ3TjVaTTR3M2hoTEg0d3dQTmhPcklSanl4OWJWeDREWUNEelhuMThld1RwSFVUdXNHRW5XSUdQOXZ3TEUtcmRnU0FzOG9mQ0VrbTJUaWJvSldwWDAybEtDZWNoWlpkRXc5b00tTS1EWDk2X3ZaVE5yN1ZBbThL?oc=5",
+   "paras": [
+    "A Texas Police Department Got $100K After a Single Immigration Arrest. It Stands to Earn Much More. ProPublica"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-om20261119historyofautomatedtraincontrol",
    "srcKey": "stb",
    "cat": "transit",
@@ -1408,119 +1534,20 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-majorityinstatehousebutfallshortinsenate",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Democrats Secure Supermajority in State House, but Fall Short in Senate",
-   "author": "Doug Trumm",
-   "date": "2026-11-19",
-   "url": "https://www.theurbanist.org/democrats-secure-supermajority-in-state-house-but-fall-short-in-senate/",
-   "paras": [
-    "Just about everything that could break Democrats' way in 2026 Washington State House races did, but the state Senate was a different story. Senate Democrats failed to make gains after Carolina Mejia's three-point election night lead evaporated in later returns in the Legislative District 35 race.",
-    "As a result, they'll have no pickups in the Senate, but stay at a comfortable 30-19 edge. That's still three seats short of a 2/3 supermajority.",
-    "Thanks to 10 seats they have tentatively flipped from Republicans, Democrats' advantage in the state House will grow from 59-39 to 69-29. That works out to70% of seats, surpassing the 2/3 supermajority threshold, which makes overriding a governor's veto or passing a state constitutional amendment possible without Republican votes.",
-    "Jenn Marie Strickling was the last Democrat to surpass her challenger, passing incumbent Rep. Cyndy Jacobsen in the second week of counting. As of November 17, Strickling was leading by 80 votes, with very few votes remaining to count. Pierce County estimates just 10 remaining ballots to count countywide, as of Tuesday.",
-    "\"We feel extremely confident these results will hold,\" Strickling told The Urbanist Tuesday. \"The blue wave this year reached all the way into the 25th, but what we're seeing here is also the result of a grassroots effort that's been years in the making. It’s the product of neighbors coming together, building relationships, and refusing to give up on their community.\"",
-    "If the lead stays near 0.14 percentage points (below the one quarter of one percent threshold), this would be headed to a manual recount, which is unlikely to change the outcome.",
-    "Why Democrats were able to win 10 seats in the state House while gaining none in the Senate was a bit of a fluke regarding which seats were up for election this year. Since state senators get four-year terms, only half of the districts are up in each even-year election.",
-    "Democrats' biggest gains were achieved in Legislative District 14, 17, 18, and 25, where they flipped two House seats (barring Strickling's narrow lead reversing). In each of those districts no Senate seats were up, but they will be in 2028.",
-    "Vancouver Democrat Adrian Cortes already flipped the LD18 seat in 2024, which was an early sign that Clark County's political alignment was shifting. On the other hand, LD14, LD17, and LD25 Senate seats are held by Republicans and will be key pickup opportunities. The 2028 election will allow Democrats a chance to flip seats on the Senate side, and Republicans certainly will be pressed to hold them, given the steady erosion of their stronghold political territory.",
-    "Willoughby's win also demonstrated that Democrats can win in LD12, providing another pickup opportunity. While the national mood played a big role, Democrats also smartly tailored attacks to their specific opponent in LD12, emphasizing Rep. Brian Burnett's personal ties to right-wing extremism. Opponents highlighted lawsuits against the sheriff’s office Burnett previously led, as well as his ties to the ultra-conservative Grace City Church, which has aligned itself with Christian nationalism.",
-    "Traditional Republican strongholds like LD35 and LD39 also saw much closer races even as Republicans held on, suggesting they could be in play in another blue wave year, if that momentum continues.",
-    "In shifting legislative districts, voters who were worried about the rising cost of housing, transportation, and other necessities appeared to give Democrats the edge. In addition to pointing to affordability, the incoming crop of candidates gave credit to campaigning hard, listening earnestly to voters, and pledging to boldly pursue solutions.",
-    "\"I believe a significant part of our success came from showing up and having genuine conversations with people. We spent months knocking on doors, listening to concerns, and discussing the issues affecting families across the district,\" Christly told The Urbanist . \"What I consistently heard was frustration over the rising cost of living, housing affordability, access to healthcare, and the challenges facing our schools and small businesses. Those concerns crossed political lines.\"",
-    "Campaigning hard, hitting the doors, and running as a united slate appeared part of the recipe for success in LD25, too.",
-    "\"This was a multi-year effort,\" Strickling said. \"Together with my stellar running mate David Berg, our team made more than 26,000 door attempts and over 50,000 phone calls. Most of our support came from everyday people in a community that was hungry for change. Dark money PACs came after us, and we won anyway. At the doors we talked about rent, wages, schools and whether people's kids can afford to stay here. We built this infrastructure from the ground up, with grassroots support and community relationships that will be durable long into the future.\"",
-    "Like Christly, Strickling and Berg pointed to this restlessness in the electorate and desire for change.",
-    "\"For me, this is personal,\" Strickling said. \"I grew up in Orting. I've worked construction as a LiUNA laborer, built successful businesses, and organized with neighbors who were told nobody in power would listen. Folks here want a paycheck that covers the bills, a home they can afford to stay in, and a government that answers to them. That's what they voted for, and that's what I intend to fight for.\"",
-    "Alongside living wages, Strickling pointed to housing as central to this fight.",
-    "\"Keeping people in their homes comes first,\" Strickling said. \"On the Pierce County Charter Review Commission I fought for protections for manufactured homeowners, many of them seniors and working families who did everything right and still faced losing homes they'd paid for. I'm taking that fight to Olympia for every homeowner and tenant in this district.\"",
-    "\"I'm excited to bring a new kind of representation to the 25th LD,\" Berg told The Urbanist . \"Voters want to be heard and want to be a part of finding solutions to the issues we're all facing. During the campaign I regularly heard from people who had never seen their legislators. Hearing their stories and continuing to engage with them will help me make better policies in Olympia.\"",
-    "As a school board director, Berg said education would be a focus. Many successful candidates ran on fully funding schools and improving educational outcomes.",
-    "\"I've been a long time advocate for public education and I'm looking forward to continuing that work. Voters also told me they are concerned about digital privacy and AI, and the Legislature has an important role to play in addressing those concerns,\" Berg said. \"I also heard repeatedly about affordability issues and utility costs. We can do more to help bring down rising costs and I'm excited to be a part of finding solutions for our families.\"",
-    "Likewise, the newly minted LD17 representative pointed to a determination to tackle affordability and strengthen the educational and health care systems.",
-    "\"Affordability will be at the center of my work, particularly housing, healthcare, and the everyday costs affecting working families,\" Christly said. \"I also want to focus on strengthening public education, supporting small businesses, expanding access to healthcare in our rural communities, and investing responsibly in infrastructure.\"",
-    "Like Berg, Christly pointed to a desire to transcend partisanship and work together across partisan lines.",
-    "\"First and foremost, I'm incredibly grateful for the trust voters have placed in me,\" Christly told The Urbanist . \"This election represents an opportunity to bring a different perspective to Olympia, one grounded in listening, practical problem-solving, and a willingness to work with people regardless of political affiliation. The 17th District is diverse, encompassing growing suburban communities, small towns, and rural areas, each with its own challenges. My responsibility now is to represent all of those communities, including the people who didn't vote for me.\"",
-    "Democrats have a real shot at a supermajority. They have seats to spare in the state House, and four seats that they could flip in the Senate. If they hold their current seats and flip three, they will have a Senate supermajority to go with the House one.",
-    "A supermajority would be a huge chance to fundamentally shift state policy and institutions. For example, lawmakers could erase the highly dubious 1932 precedent the state Supreme Court set barring the progressive taxation of income, overruling state voters who had just passed an income tax. Other possibilities include enshrining reproductive rights or climate action in the state constitution, or paving the way for a land value tax .",
-    "Short of a constitutional amendment, the ability to override a governor's veto could also give the Democratic caucus more leverage in negotiations with Governor Bob Ferguson, who has often used the threat of a veto to strongarm them and take more progressive policy ideas off the table.",
-    "While Ferguson's term is up in 2028, last month he reminded a room full of corporate leaders – some of whom has raised millions to begin running negative ads against the governor – that he plans on being governor for a long time. After Democrats ran the tables in the November election, Ferguson and the state's corporate elite quickly buried the hatchet, with the governor ordering a freeze on corporate regulations .",
-    "Strickling took a harder line than the governor in her comments to The Urbanist: \"I want to put Big Tech in check so the biggest companies play by the same rules as our small businesses.\"",
-    "Big business campaign spending in the state largely failed to bear fruit. Five of six races the Microsoft-backed Washington Needs to Compete political action committee (PAC) invested more than $1.7 million collectively went toward the more progressive candidate, rather than the conservative candidates the PAC was backing.",
-    "Three races where Urbanist-endorsed progressive challengers targeted conservative-leaning Democrat incumbents saw flips: Jessica Forsythe (LD48-2), Krista Perez (LD29-1), and Kelabe Tewolde (LD37-2). Forsythe prevailed even with conservative PACs spending more than a million dollars to attack her and prop up incumbent Rep. Amy Walen, one of only a handful of Democrats to oppose the millionaires tax.",
-    "In open seat races, progressives also made some inroads.",
-    "In LD29, Urbanist-endorsed Patrick Stickney prevailed in a close race with Tacoma Councilmember Joe Bushnell. These intra-party wins for progressives will shift the caucus to the left, with incumbent progressives also generally defending their seats, too, despite the corporate money thrown at dislodging them.",
-    "In LD32, Urbanist-endorsed candidate Danica Noble held off centrist Keith Scully, winning by three points.",
-    "In LD23, conservative megadonors threw a ton of money at unseating Urbanist-endorsed progressive incumbent Rep. Tarra Simmons (LD23-1), but came up short.",
-    "The 2026 election results are a heartening sign that strong campaigns can overcome copious political spending from elite megadonors. On the other hand, frequently running an uphill race is not a great position to be in.",
-    "For now, Democrats can enjoy their largest House majority in modern history. The 2027 session convenes on January 11, and Democrats will put their expanded caucus to work."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/2026-WA-House-pickups-campaign-photo-collage.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-bynightinopenformsfirstyearoncapitolhill",
-   "srcKey": "chs",
+   "id": "f-invw-ieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nxoc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "‘Do you want love? Do you want tea?’ — Persian cafe by day, disco by night in Open Form’s first year on Capitol Hill",
-   "author": "CHS",
+   "title": "Facing cuts, Oregon could limit special Medicaid programs",
+   "author": "",
    "date": "2026-11-19",
-   "url": "https://www.capitolhillseattle.com/2026/11/do-you-want-love-do-you-want-tea-persian-cafe-by-day-disco-by-night-in-open-forms-first-year-on-capitol-hill/",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEhRdmR6RnNtZmxuVTRoZkZTSjZfYnR1X2U1akl3eklNOGVjSjFsa0phV2RkdFE4Y2RuRm5MLWdrX0JucXNZd3NLYjNpVVE5Qk9fOVZJRXhPX2ZVU3hod0RXSERtZmdTSU9TT1cwNkdCTk1BSDNhTTFMUGViakJlYlVuMnowcWxqNlJaa2NqcExjTFRMS2llWDlqTGlieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nx?oc=5",
    "paras": [
-    "Open Form has been brewing tea, pouring wine, and spinning records out of its dreamy, second-level loft overlooking E Pike. Over its first year, the space has carved out its own niche in Capitol Hill’s cafe scene, evolving into more than just a coffee shop.",
-    "The concept began in 2025 when Tara Almassi returned to her hometown of Seattle after 12 years in New York City, unsure of her next steps in life. In New York, Almassi had been the one to host elaborate dinner parties for her girlfriends in her Brooklyn apartment. Drawing on a background in production and fashion, she wanted to find new ways to curate a gathering space that would inspire community and connection.",
-    "“I wanted to move back and create a space that I would want to hang out in,” Almassi said. She often refers to Open Form as “my house”.",
-    "On a lucky day, the loft’s oversized windows flood the room with sunlight, while long communal tables and couches invite guests to share the space with their neighbors, prompting conversation as the whirls of the espresso machine and soft pop music fade into the background.",
-    "“I think Seattle needs more of this kind of space; a space for people to want to explore different parts of themselves,” she said.",
-    "That instinct for hospitality runs deep. Born and raised in Seattle, Almassi said her parents were Iranian immigrants and passed down the “natural art of hosting.”",
-    "“That is really the root of me,” Almassi said. “The core of being Iranian is that they love bringing people together and building community.”",
-    "Before every family *mehmooni,* which Almassi describes as a Persian gathering, dinner, or party, she would watch her mother light candles around the house and lay out more than enough food and drinks for everyone, always in awe of how intentional her mother became regarding the smallest details.",
-    "“Our parents, they would have dinner and have a couple glasses of wine. And then all of a sudden, the music would turn on and they would all move the furniture and start dancing,” Almassi said, remembering the abundance of love and joy she felt at those gatherings. “[Iranian people] are truly the most kind-hearted, warm, inviting people. They just pick people – even if they didn’t know them – they would grab their hand, pull them in to dance.”",
-    "Almassi never wanted Open Form to be locked into “being one thing,” and over its first year since opening in October 2025 , the loft has taken shape as a cafe, wine shop, nighttime venue, and open workspace. Still, she was surprised by just how much their nightlife events took off.",
-    "After the sun dips out of view and DJs start taking records out of their sleeves and the room turns atmospheric, a shift Almassi describes as feeling like “you’re entering someone’s home for a dance party.”",
-    "“People dance here, and I love that, but it wasn’t in the cards,” Almassi said of the DJ sets and jazz nights, where dancing with friends and strangers became an expression of spontaneity and whimsy echoing the *mehmoonis* of her childhood. “I saw how much this space makes people come out of their shell and just want to have a good time. And they feel safe, which I feel so lucky to have created that.”",
-    "A standout from that first year has been Skin Contact , Open Form’s most popular residency, which brings disco to the space every second Thursday of the month. Regularly booked artists like Théque Support and Supreme La Rock have helped the team build out their “vinyl-focused” sound system, anchored by celebrations like their Studio 54-inspired Halloween night.",
-    "By day, the menu reflects Almassi’s personal approach to hospitality, pairing coffee and matcha with craft beer, an Iranian-inspired tea service, and a curated wine list.",
-    "Having fallen in love with wine tasting in New York, Almassi views wine as a form of storytelling. Her collection, which she plans to spotlight further with dedicated monthly wine nights in year two, features primarily natural, biodynamic bottles from French and Middle Eastern winemakers. She built the list through “real world experience” and trial and error.",
-    "“I don’t want to come at it from a pretentious angle,” Almassi said. “It’s truly just: these are all things that I just love myself and I hope that everyone else will love it too.”",
-    "Or how about a dish of ice cream (Image: Open Form)",
-    "Tea carries an equally personal weight. Looking ahead to expanding the menu — potentially with a custom “tea bar” — Almassi reflects on the afternoons she spent sipping warm tea at the dining room table with her grandmother. For many Persian families, tea is a daily ritual to slow down and be present, acting as a love language of its own.",
-    "“Tea is such a grounding part of us [Iranian people] and how we communicate and show our love for each other,” Almassi said. “Whenever somebody comes over, it’s like, ‘Do you want love? Do you want tea?’”",
-    "Whether it’s an unfamiliar ingredient in an Iranian tea, a natural wine, or an artist spinning on a weeknight, Open Form spent its first year creating an environment that begs questions—and encourages guests to be curious about the people sitting nearby.",
-    "“It’s so important to be around people and to get to know people and to be curious,” Almassi said. “That was a big part of what I wanted to bring in here … just that warmth and intentionality and this idea of everyone feeling cared for.”",
-    "Find Open Form at 500 E Pike. Learn more at openform.space ."
+    "Facing cuts, Oregon could limit special Medicaid programs InvestigateWest"
    ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1499.jpg?resize=584%2C229&ssl=1",
+   "img": "",
    "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-helpchandelierloungeaftercostlyvandalism",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Capitol Hill SOS? Roma Roma says it needs more business to survive, regulars rallying to help Chandelier Lounge after costly vandalism",
-   "author": "CHS Staff",
-   "date": "2026-11-19",
-   "url": "https://www.capitolhillseattle.com/2026/11/capitol-hill-sos-roma-roma-says-it-needs-more-business-to-survive-regulars-rallying-to-help-chandelier-lounge-after-costly-vandalism/",
-   "paras": [
-    "Two neighborhood venues are hoping customers will show up to help them through some rough patches doing business on Capitol Hill. 12th Ave’s Roma Roma is taking the unusual step of announcing that business is so slow it might have to close. On Broadway, customers are rallying to help out Chandelier Lounge after costly vandalism.",
-    "At Roma Roma, chef Forrest Brunton is sounding the alarm. In a candid video update shared with the community, Brunton said that strong customer praise has not translated into the revenue required to keep the business afloat.",
-    "“It’s been a hard year for Seattle restaurants and we’re no exception, we might have to close,” Brunton said in the announcement posted last week. Reflecting on his decades in the industry and his debut as a restaurant owner, Brunton described the disconnect between customer reception and financial survival. “In my time here, I’ve never worked at a place that got such positive feedback but still struggled so much to do the business we need to survive.”",
-    "CHS reported here as Brunton and his brother opened Roma Roma in February with Roman-style pizza sold by the pound in the space formerly home to the Capitol Hill Racher’s Ginger Beer . The by-the-pound element has reportedly been cut as the brothers have tried to streamline the experience and let their excellent pizza shine.",
-    "Despite the uncertain outlook, Brunton said the team loves their regulars and the neighborhood, encouraging locals to visit the restaurant “while you still can” and share feedback or suggestions.",
-    "Roma Roma plans to lean into creative menu offerings and community events. “We’re not laying down and dying, we’re going to double down on the stuff we really love,” Brunton said.",
-    "On Broadway, regulars are taking things into their own hands to help the Chandelier Lounge.",
-    "Last week, the 2024-born lounge and Thai joint was hit by costly property damage. This Friday, they are planning a support event at Chandelier.",
-    "“This amazing local venue deserves better. Let’s pack this place this week and show them how much they are loved,” the event invite reads.",
-    "Roma Roma is located at 1610 12th Ave. Learn more at romaroma.pizza ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/IMG_5277.png?resize=217%2C464&ssl=1",
-   "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1550,23 +1577,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVlXdkUxV09TbS0wRVRrNkd2UFdnbHRWOUFyaExGV281alFUY24xRDVvaGRrQ2ozZW5xQm5XQ3V1NlFLTW1CR2M2YWVuR0RtejY2Q3AyS2ZZX29Za0VJbmxrZVl1c3pUZUZpVmh5M3I5cUNfNXc0TUFySnBUUzVueENPSTlWN1BMTGQ4R2R5LUFMY0g5S3NjRnFOUGZnRW9DN0NLU1ZScGJCeGdFWjJBRU1XVllKaDBuTHNGaHNPRm56dw?oc=5",
    "paras": [
     "Teachers union president on leave one year after being accused of abusing students KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-ieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nxoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Facing cuts, Oregon could limit special Medicaid programs",
-   "author": "",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEhRdmR6RnNtZmxuVTRoZkZTSjZfYnR1X2U1akl3eklNOGVjSjFsa0phV2RkdFE4Y2RuRm5MLWdrX0JucXNZd3NLYjNpVVE5Qk9fOVZJRXhPX2ZVU3hod0RXSERtZmdTSU9TT1cwNkdCTk1BSDNhTTFMUGViakJlYlVuMnowcWxqNlJaa2NqcExjTFRMS2llWDlqTGlieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nx?oc=5",
-   "paras": [
-    "Facing cuts, Oregon could limit special Medicaid programs InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1609,32 +1619,15 @@
    "annos": null
   },
   {
-   "id": "f-propublica-EQ3bzFUaFp0LWpSRUViNXg3d1BXLUxvakdNbAoc5",
+   "id": "f-propublica-xnNnFjdy1PY3JPYlh3ZEFQckcxdmpjdWVyMGcoc5",
    "srcKey": "propublica",
    "cat": "local",
-   "title": "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud.",
+   "title": "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose",
    "author": "",
    "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmVYa2RLbXhrZHhuN1c4cHJmdkRCOGNzdFJ5eXJoU2hDVlNha2lmcmh3aUZ3R2k4RzdldEVKVzhqVzdXR2U0NTgta01felFVcFkwYWJ2MkMyekM4clY3QVVLQ05ZTHF3YXZhQU9XVF9uUEQ3bzFUaFp0LWpSRUViNXg3d1BXLUxvakdNbA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0Y1k0ak1HSExYRDkyTXhCdTgxTGRJWmplYUpRX0N3MWhvNGdtYTFPMFBTT2kyb3NhQVFjWGZZemJKZnFta2NhRGFSb3BSdXJUOTVBVDlzZktkdExnNnFjdy1PY3JPYlh3ZEFQckcxdmpjdWVyMGc?oc=5",
    "paras": [
-    "The U.S. Paid Insurers Billions to Cover Civilians Harmed in War. Even the Government Says the System Is Ripe for Fraud. ProPublica"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-propublica-VHekVRZzIzeTV0NXlhS1Q4c3JVSEFBMW5rVXcoc5",
-   "srcKey": "propublica",
-   "cat": "local",
-   "title": "See How Much Companies Are Getting in Tariff Refunds",
-   "author": "",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KV3MtYjBiNDk2NUVVbjJBZlJrRFZRVFBFUlZBYWV5YllHYzRBSjBUclZ2d2pVcWdYRi04OVp0OFgtNF9tMlU3N00wWlJjYlVHekVRZzIzeTV0NXlhS1Q4c3JVSEFBMW5rVXc?oc=5",
-   "paras": [
-    "See How Much Companies Are Getting in Tariff Refunds ProPublica"
+    "We’re Publishing the Tariff Refunds the Government Has Refused to Disclose ProPublica"
    ],
    "img": "",
    "fetched": true,
@@ -1676,15 +1669,32 @@
    "annos": null
   },
   {
-   "id": "f-kuow-5kRnZpTkVheGNuNXUwSW1vYkNGNXZqM1NvS0koc5",
-   "srcKey": "kuow",
+   "id": "f-invw-5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dnoc5",
+   "srcKey": "invw",
    "cat": "local",
-   "title": "WA students who hope to play girls sports have 10 days to prove their 'biological sex'",
+   "title": "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions",
    "author": "",
    "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVUZmclFzRkNNdFE4RTFZMzdkdXhsRFMtX1BhNDhJZ1RFU2VOak5YaERXWWhGajlaZ2RmR3RWWkpHel8xR253Zkt6WG5GLVA1Uzg0Y010aXpmOWl2MDlOeU1QejhHSWJ6bGFUMHRYb3BnbzVSUjcxY1hnNUZhX3V5VnZTbEplRFZaNS1UT1BVbUM3WDdDNVdna19hMEljS1RrZVV3ak5kRnZpTkVheGNuNXUwSW1vYkNGNXZqM1NvS0k?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFB5X181R3hUS3FUVVVCbHZJZ25Vd3BOVERQenkyMlRKOElHdTl6Qkl5cXRXTDZYbmthNGFzTGhCS19MMUczOUFiTFR5V1Yyd2R4R0E4eV96Q1phUG05WjVEYWJpc3RMbDZzUUFwMWJXaEtkMXJ4dmtnbXdNYlNSbGpRcHJwZTYyZ0FZS3dSLVN4RnA5LS1XSEt1NGY5T2dBMFpLa2hhRGJncXFpbHR5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dn?oc=5",
    "paras": [
-    "WA students who hope to play girls sports have 10 days to prove their 'biological sex' KUOW"
+    "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-nl5Rjl1UlNjbGJJN0hmSEtIcTdGRHcza3hZdwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "What a Jimothy statue in Ballard says about Seattle’s budget fight",
+   "author": "",
+   "date": "2026-11-18",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2dTSWJXelZPNGhFQUpKdE1CbkY5c0dJTm84UFdQTGJPZUU1T1hDaTZnbE00UXQ1WXNnVEZXQ2gyTjRyV3dLazBKRzl0Umt1T3RoR2d3ZUNZbzhwUGdYalhaTmZQS3VYWlBpLXhnQm10aHBHYjRvQVFKYzA4TkpYdEZuYTVqQ0RsTDVadWpEamZub2lJd3JWMnl5Rjl1UlNjbGJJN0hmSEtIcTdGRHcza3hZdw?oc=5",
+   "paras": [
+    "What a Jimothy statue in Ballard says about Seattle’s budget fight KUOW"
    ],
    "img": "",
    "fetched": true,
@@ -1702,23 +1712,6 @@
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkRkQnpucWppQzBZTlRHLXN0RmhIcjQ1elE4ajhIWEZkcFFvTkRUbzFSZm9Bc3VlZEVtRVA3dG51emJuaDdVT3g4MVVjbmd6czJNMExaSTZfbGw0aXc5YnRIOFl4dDFmdEpnTXVNcTVna1NkMDExdERjYmZCeFViZi1qMW1GZVlQQ0l2Wmo3d1hPTDlmODRSTXVTOERXQTduSlNB?oc=5",
    "paras": [
     "Teenager charged in Fall City family killings pleads not guilty KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dnoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions",
-   "author": "",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFB5X181R3hUS3FUVVVCbHZJZ25Vd3BOVERQenkyMlRKOElHdTl6Qkl5cXRXTDZYbmthNGFzTGhCS19MMUczOUFiTFR5V1Yyd2R4R0E4eV96Q1phUG05WjVEYWJpc3RMbDZzUUFwMWJXaEtkMXJ4dmtnbXdNYlNSbGpRcHJwZTYyZ0FZS3dSLVN4RnA5LS1XSEt1NGY5T2dBMFpLa2hhRGJncXFpbHR5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dn?oc=5",
-   "paras": [
-    "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1780,23 +1773,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-LdFBGQUYtX3dFRGQydVR3aFRHZldhRzYxZFY0oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "‘Shouting into the void’: Hunting for a job in the Seattle area",
-   "author": "",
-   "date": "2026-11-16",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMGI0VW9PZ1N4eklBbEVsOFZhNzVydnlWN3FlVE5BVk5BY3JQbHV4cl82QUdBN3o5YTRPenMtQjRfQVdoUnFFdEFmWHV1TUVtWldMNmxEVnJ5dGZQMXk4dmlVQWcwTkk1bjNId0NRWERRdVMtUDRxMExOYXJLdFBGQUYtX3dFRGQydVR3aFRHZldhRzYxZFY0?oc=5",
-   "paras": [
-    "‘Shouting into the void’: Hunting for a job in the Seattle area KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-logcom20261115sundaymoviesubwaytimelines",
    "srcKey": "stb",
    "cat": "transit",
@@ -1811,6 +1787,23 @@
    "img": "",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-JOG1lR2R2V19qOHRjMC1zVlg5YjQ4ZWZldVh3oc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Budget Chair",
+   "author": "",
+   "date": "2026-11-15",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnVWJvalA3RUQ4OXJScll3Njh0TEtEQjN3c1NWNENaak14YTA3ei1XeUVnd1ZpRHJaU3YzWGl6MktnU3pDT3RLX2JMQzZUQzFyTXdJX1J0WnBIdl9IajFuc0h6SS1GWWxTeUNNVHFkOHBNdW9mdmZaUDl5VUbSAYoBQVVfeXFMT2k2eDl5b0FrQmVmb0xPQWJtOVpKRXB5NEtnT3VlS09qVEZ5emVaSlZjS2JqWmFzQWxrcWJKN3c5eU5Wb1dSTUtfRGlwZFN5UUhSeDhOeGcxNUlibXFmTDF5NWJhWmpFUGlIaF9VT2lJOG1lR2R2V19qOHRjMC1zVlg5YjQ4ZWZldVh3?oc=5",
+   "paras": [
+    "DOOM LOOP: Budget Chair South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1831,45 +1824,6 @@
     "Any of these systems promise simpler/faster guideway and station construction, easier integration into the existing urban infrastructure, more flexible branching capabilities, and more convenience for riders. It may be worthwhile to consider them for West Seattle or Ballard and other future lines."
    ],
    "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-9.png?resize=525%2C256&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-5namdjYnR2Yzlia0dkeHIzUDB3aUxYd2haQ2coc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Quinault tribe races against king tides to relocate coastal homes",
-   "author": "",
-   "date": "2026-11-14",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaXlqREp2dk5rcVlPUV9XVXEzVlM4R21GM2VqVi13SzdYTzlXNTlfLUltZTlqWU01Znc3ZFJyU2xHSUtIT2s4MjhJbWlTN2FMYmFsTUF5SEV2VDhGNERZSmFmeTdrLXRLQmRaRW02ZDdiNzRSVjlTR1AyUndHRDgwSkJSV0p2VU92TVg2N2EzUi1tYk5namdjYnR2Yzlia0dkeHIzUDB3aUxYd2haQ2c?oc=5",
-   "paras": [
-    "Quinault tribe races against king tides to relocate coastal homes KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-idayroundtablecascadiahighspeedrailandi5",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Cascadia High-Speed Rail and I-5",
-   "author": "Michael Smith",
-   "date": "2026-11-13",
-   "url": "https://seattletransitblog.com/2026/11/13/friday-roundtable-cascadia-high-speed-rail-and-i-5/",
-   "paras": [
-    "To plan the next generation of north-south travel in western Washington, the Washington State Department of Transportation (WSDOT) is working on the I-5 Master Plan and the Cascadia High Speed Rail project. These two projects have been integrated into a combined Cascaida Program . WSDOT is asking for your feedback on what should be prioritized as the program progresses. The survey closes tonight so be sure to fill it out today.",
-    "The Cascadia Program is focused on the transportation of people and goods between Portland, Seattle, and Vancouver (BC). While this corridor crosses two states and an international boarder, 88% of the route is located in Washington. As a result, WSDOT is leading the effort while working with agencies in Oregon and British Columbia.",
-    "The survey asks about how and why you travel throughout the megaregion today as well as your priorities for I-5 and HSR. For I-5, WSDOT is in the process of identifying potential solutions to congestion, aging infrastructure, freight mobility, and connections to communities and other transportation modes. These projects will be prioritized in the Master Plan based on the following goals:",
-    "WSDOT expects to publish the I-5 Master Plan in 2028. Implementation of the recommended projects will start in the following years.",
-    "The other half of the Cascadia Program, high-speed rail, is still in the early stages of development. HSR would use trains that travel up to 160 mph/260 kph, more than double the current top speed of Amtrak Cascades. WSDOT has confirmed that a HSR route would not replace Amtrak Cascades. The Cascadia HSR program has six guiding principals:",
-    "The WSDOT team is working on a Service Development Plan that will outline potential route options, explore operational components such as the number of stops and service frequency, and identify potential governance and funding options. The plan will be published in 2028 and will be followed by at least a decade of environmental review, design, and construction (depending on funding).",
-    "Provide your feedback on the Cascadia Program today via this survey . The survey takes 5-10 minutes to complete and closes tonight."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-11.png?resize=525%2C958&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
