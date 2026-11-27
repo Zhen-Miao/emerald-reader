@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-27T00:11:07.626Z",
- "builtFor": "2026-11-26",
- "builtHour": "16",
- "count": 81,
+ "builtAt": "2026-11-27T23:49:59.229Z",
+ "builtFor": "2026-11-27",
+ "builtHour": "15",
+ "count": 80,
  "sources": [
   {
    "source": "bbc",
@@ -31,7 +31,7 @@
   },
   {
    "source": "emerald",
-   "count": 2,
+   "count": 4,
    "via": "google-news"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
    "source": "invw",
-   "count": 6,
+   "count": 3,
    "via": "google-news"
   },
   {
@@ -87,6 +87,779 @@
  ],
  "articles": [
   {
+   "id": "f-geekwire-erglobalhiringpolicyontariotribunalrules",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Amazon discriminated against Iranian job candidate under global hiring policy, Ontario tribunal rules",
+   "author": "Todd Bishop",
+   "date": "2026-11-27",
+   "url": "https://www.geekwire.com/2026/amazon-discriminated-against-iranian-job-candidate-under-global-hiring-policy-ontario-tribunal-rules/",
+   "paras": [
+    "An Ontario human rights tribunal ruled that Amazon violated provincial law when it dropped a Toronto software engineer from its hiring process because of his Iranian citizenship.",
+    "The company’s internal policy, applied worldwide, barred some Iranian citizens from jobs involving access to Amazon’s encrypted technology, according to the ruling.",
+    "In a Nov. 16 decision, the Human Rights Tribunal of Ontario ordered Amazon to pay 15,000 Canadian dollars (about US$10,500) plus interest to Mohammadhasan Owlia, whose hiring process it ended in 2020. The tribunal rejected Amazon’s argument that U.S. export controls required the policy.",
+    "Export controls are U.S. rules that limit who can get access to certain American technology, including some encryption software.",
+    "The tribunal found that Amazon never showed that the mid-level software engineering job for which Owlia applied would have involved any restricted technology. Expert witnesses for both sides agreed that the U.S. rules don’t ban hiring Iranian citizens, though a company may need a government license before giving them access to certain technology.",
+    "“Stated simply, Amazon’s export controls compliance policy was overbroad,” wrote Cyndee Todgham Cherniak, the tribunal vice-chair who decided the case.",
+    "Amazon said in a statement to Canadian news outlets that it is committed to “fair and inclusive hiring and to following the laws wherever we operate, including Ontario’s Human Rights Code,” and that it will review the decision and meet its obligations under it.",
+    "The ruling was reported earlier by the Toronto Star and the Globe and Mail . We’ve asked Amazon whether the policy remains in effect elsewhere, including in the U.S.",
+    "Owlia, a University of Toronto engineering graduate who held an open work permit allowing him to work in Canada, applied for the job in 2019 and passed Amazon’s online technical assessment. On a pre-interview call in January 2020, a recruiter noticed he had studied in Tehran and told him Amazon had a policy against hiring Iranians.",
+    "Amazon’s guide for recruiters, quoted in the decision, says to end the process in those cases and tell candidates only that the company “has decided to not move forward with the hiring process.”",
+    "The policy, as quoted in the decision, also covers citizens of Cuba, North Korea, Sudan and Syria. It covers candidates, employees, temporary workers and contractors with access to Amazon’s encrypted technology, except lower-level warehouse jobs. It applies globally, but it exempts U.S. citizens, U.S. permanent residents, refugees, people granted asylum, and anyone whose most recent citizenship or permanent residency is from a country not on the list.",
+    "Owlia’s lawyers noted that an Amazon recruitment manager acknowledged during cross-examination that the policy remained in effect, according to the ruling. She also testified that Owlia would have been eligible once he became a Canadian permanent resident in 2021.",
+    "The tribunal’s orders apply only to hiring in Ontario by Amazon Fulfillment Services ULC, the Canadian subsidiary named in the case. Within six months, Amazon must revise the policy and the recruiter guide to require compliance with Ontario’s Human Rights Code there, and its Ontario-based HR staff must take human rights training.",
+    "The tribunal declined to award about C$92,500 (about US$65,000) in lost wages, calling the claim too speculative.",
+    "“In my view, having to comply with multiple laws is a cost of doing business,” Todgham Cherniak wrote.",
+    "In the U.S., the Immigration and Nationality Act protects U.S. citizens and nationals, eligible permanent residents, refugees and people granted asylum from hiring discrimination based on citizenship status. Workers on temporary visas generally fall outside that specific protection. The Justice Department has warned employers that screening out applicants from particular countries can still amount to national origin discrimination.",
+    "The U.S. Commerce Department says that giving Iranian nationals access to controlled technology or certain software can require a license, including when the transfer happens in the U.S. or a third country.",
+    "A similar dispute surfaced at Booking.com in 2022, when the company canceled the employment contracts of 11 Iranian hires living in Iran just before they were due to start at its Amsterdam headquarters. Booking.com cited complications in hiring and relocating them and said the move had nothing to do with discrimination, Skift reported . An internal document cited a possible “sanction risk” in employing Iranian residents, according to NL Times .",
+    "“I’m proud that I stood up for my right to be judged on my ability to do the work, instead of where my birth certificate was issued,” Owlia said in a statement released by his lawyers at Toronto firm Kastner Ko.",
+    "Owlia is now a Canadian citizen and an engineering manager at a Toronto software startup."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/owlia-amazon-tribunal.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-ntaireadyworkersaretheywillingtoadapttoo",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Companies want AI-ready workers. Are they willing to adapt, too?",
+   "author": "Lisa Stiffler",
+   "date": "2026-11-27",
+   "url": "https://www.geekwire.com/2026/companies-want-ai-ready-workers-are-they-willing-to-adapt-too/",
+   "paras": [
+    "Companies want workers who can adapt to AI. Arif Gursel has a question for those employers: Are they willing to change, too?",
+    "Preparing people for technological change cannot fall entirely on students, universities or employees trying to keep their skills relevant, said Gursel, a serial entrepreneur who runs training programs in coding, AI and other fields.",
+    "“A skilled and adaptable workforce also needs a skilled and adaptable workplace. Those things have to be in balance,” he said, speaking at a recent Technology Alliance event focused on building talent in Washington state.",
+    "A study released Monday by the Schultz Family Foundation points to a related disconnect. Based on nearly 3,000 interviews with young adults, employers and others, it found that 79% of Washington businesses want new entry-level workers to have mid-level AI skills or better. Slightly less than half of the young adults surveyed felt their schooling cleared that bar.",
+    "The study didn’t examine whether employers are changing how they train workers. It did find that more than 80% of employers are interested in internships, apprenticeships and similar programs, but 77% say they lack the staff time to make that happen.",
+    "Gursel said the challenge extends to experienced workers, too. He called on employers to help design training, connect it to actual jobs and make the workplace somewhere people can develop new capabilities, rather than simply replacing those whose skills no longer match the task.",
+    "He offered an example from a past coding training program he helped build with Microsoft, a company where he worked for more than a decade early in his career. Gursel, founder of the corporate strategy firm 8genC, partnered with a Microsoft hiring manager and together they developed a curriculum and the manager committed two open positions to graduates.",
+    "Gursel argued that AI tools present an opportunity to build those kinds of partnerships again, with companies helping community colleges and nonprofits prepare people for work rather than leaving educators to guess what employers will need.",
+    "Ingrid Stegemoeller, of the Washington Roundtable’s Partnership for Learning, echoed some of those ideas in a statement about the Schultz family study.",
+    "“If we make it simpler for employers to share clear signals about the jobs and skills they need with schools, colleges and training programs, we can turn their participation into coursework and work-based learning that prepare young people for those jobs,” she said.",
+    "Coleman Bryant, a technology innovation master’s candidate at the University of Washington, also spoke on the panel. He raised concerns about AI and education: Students, he said, can end up “offloading all of the critical thinking to the AI” instead of working out solutions on their own.",
+    "He called for hands-on, interdisciplinary education that requires people to connect technical knowledge with business, design and collaboration.",
+    "The study indicated schools may be sending mixed signals on AI. About as many young adults said their institution discouraged AI use (36%) as said it helped them learn to use it (34%).",
+    "There’s also the fundamental issue of access to AI tools, Gursel said.",
+    "“There are underserved and under-resourced and marginalized communities all across Washington state, especially as we think about our tribal communities, our indigenous communities, our Black and Brown communities,” he said.",
+    "“How do we build the bridge for that digital divide that is just widening as a result of AI?” he asked."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/PXL_20261117_1730033781-1260x945.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-eckonbladerunner2099andotherainightmares",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Get a reality check on ‘Blade Runner 2099’ and other AI nightmares",
+   "author": "Alan Boyle",
+   "date": "2026-11-27",
+   "url": "https://www.geekwire.com/2026/get-a-reality-check-on-blade-runner-2099-and-other-ai-nightmares/",
+   "paras": [
+    "The year is 2099, and the replicants are in charge.",
+    "For decades, humans had been making a mess of things. Eventually, the super-intelligent, super-strong androids that humans created to serve them rebelled. Before the rebellion, humans hunted down rogue replicants. Now the replicants hunt down rogue humans.",
+    "That’s the premise for “Blade Runner 2099,” the latest chapter of a sci-fi saga that began in 1968 with Philip K. Dick’s classic noir novel, “Do Androids Dream of Electric Sheep?” The tale made the leap to Hollywood in 1982 with the original “Blade Runner” movie, and was updated 35 years later with “Blade Runner 2049.” In Amazon Prime Video’s eight-episode streaming series, the story’s plot fast-forwards another 50 years.",
+    "Today, the idea that the lines between humans and their machines could become blurred seems less novel than it did when Dick wrote his novel. It’s so common to converse with chatbots that some have fallen in love — or have followed their advice to tragic ends .",
+    "Artificial intelligence software was recently used to solve math problems that have puzzled humans for centuries. Now humans are puzzling over the future of AI: One researcher recently left Anthropic, a leading AI company, and warned that his former colleagues were “gambling with their lives” by pursuing the technology too vigorously.",
+    "Are we coming closer to the world of “Blade Runner”? University of Washington linguist Emily M. Bender , co-author of “The AI Con,” says that would be giving AI too much credit. “There’s absolutely no reason to believe that the technological future as portrayed in ‘Blade Runner’ is even a possibility, let alone an inevitability,” she told me in the latest episode of the Fiction Science podcast .",
+    "During our podcast interview, Bender and Ryan Calo , a UW law professor specializing in the legal and policy implications of technological advances, conducted an in-depth reality check on the fictional “Blade Runner 2099” — and on the way real-world developments in the realm of AI are typically being portrayed.",
+    "Bender says the cardinal sin of AI portrayals is to make it sound as if computer programs rather than humans are responsible for what’s happening.",
+    "“When we talk about rogue agents, and agents hacking things, there’s a lot of narrative-building happening there around what’s fundamentally companies doing cyber crimes,” she says.",
+    "Calo agrees that ascribing agency to AI is problematic. “Oftentimes when you do things with or through technology, there are people present who don’t appear to be there, and I think that’s exacerbated when you give apparent agency and anthropomorphize the technology. It’s even less likely for you to see the people behind it,” he says.",
+    "But is it a crime? “As a technical matter, in order to be charged with a computer crime, like under the Computer Fraud and Abuse Act, you have to have some level of intent,” Calo says. “I would argue that some of these experiments are running up against recklessness.”",
+    "There’s no sign that OpenAI’s engineers intended for their AI software to hack into an Australian healthcare database in June, or Hugging Face’s computer system in July, but Calo says “they certainly are reckless as to that possibility.”",
+    "Negligence or recklessness isn’t a crime under the current terms of the Computer Fraud and Abuse Act. But some members of Congress favor enacting new provisions to cover recklessness .",
+    "“When you create conditions where you’re reasonably certain that some federal law is going to get broken, I’m with Emily that that should constitute a crime,” Calo says. “And it’s interesting the way that they’re avoiding responsibility — including rhetorically.”",
+    "Should governments set up agencies specifically charged with policing artificial intelligence? And if so, should the investigators be called “blade runners”? Bender doesn’t think much of that idea.",
+    "“I think if we called them ‘blade runners,’ then we are setting up what they’re investigating as not the people, but the replicants,” she says. “So, let’s keep the legal system in the real world.”",
+    "Neither Bender nor Calo favors establishing a federal agency along the lines of the Food and Drug Administration or the Federal Trade Commission specifically for artificial intelligence.",
+    "“I am always a little bit worried about the idea of an FDA for AI or something, because I don’t think that AI is one thing. That word doesn’t refer to a coherent set of technologies,” Bender says. “And I also don’t think that the required expertise is primarily expertise in the internals of these systems. It’s much more expertise in the systems that they’re impacting.”",
+    "Both researchers prefer the idea of setting up more of a “brain trust” at the federal level to help regulators at the FTC, FDA and other federal agencies understand what they’re dealing with. Bender also likes the idea of setting up a professional certification system for software engineers, while Calo has three specific suggestions for AI policy:",
+    "Revive the Office of Technology Assessment: “Congress had the confidence to intercede in technology policy because it had hundreds of nonpartisan subject-matter experts writing lengthy reports about this technology and advising them what to do,” Calo says. “It was one of the first things that Newt Gingrich got rid of during the so-called Gingrich Revolution when Republicans took over Congress in the mid-’90s. They defunded it.”",
+    "Strengthen the FTC’s regulatory role: Calo notes that the FTC’s interest in protecting consumers has waxed and waned. During the Biden administration, for example, the FTC highlighted competitive concerns about generative AI . More recently, the FTC signaled its willingness to investigate AI companies at the same time that the White House signaled its desire to reset the terms for AI regulation . The FTC is currently bound by a requirement to assess cost-benefit tradeoffs when it considers whether a trade practice is unfair, and Calo would like to see that requirement rescinded.",
+    "Protect whistleblowers and researchers: Calo would also like to see the legal system do more to protect the ability of third parties to “kick the tires” on AI tools, so that “we’re not allowing all these cease-and-desist letters … and these other pressures to try to stop accountability.”",
+    "As a linguist, Bender is particularly sensitive to the way words are used when discussing artificial intelligence. She hasn’t totally sworn off the term “AI” — after all, it’s right in the title of her book. But she’s definitely against the term “AI agent.”",
+    "“You have verbs like ‘hack’ or ‘going rogue,’ and the subject of the verb — the thing that’s doing it — is the software,” she says. “One of the functions of that is that it leaves no room in the sentence for the people who built the software and the people who use the software.”",
+    "The term “AI safety” also makes Bender uncomfortable.",
+    "“‘AI safety’ refers to the people who are concerned about not a replicant, but a Terminator — that is, people who have lost track of the fact that those are imagined characters in movies, as opposed to what’s happening in the real world,” she says. “And I think also that functions to displace concern and accountability.”",
+    "That brings us back to “Blade Runner 2099.” The new series sticks with the moody sensibility of the original movie. Yes, there are flying cars. But the technological advances are mixed in with the age-old conventions of film noir.",
+    "“In the opening scene of this new ‘Blade Runner,’ the guy is smoking a cigarette, talking about making fake people to take over a factory,” Calo says. “It’s just so wild. We have such a better capacity to imagine a technical future than we do changes in our own social norms, and I find that just fascinating.”",
+    "Bender thinks the replicants could have done a better job of cleaning up all the external wires that are dangling in the L.A. of 2099. And Calo was amazed to see so many guns being used at the brink of the 22nd century. “It’s an incredibly old and savage technology … and the fact that they’re still using them is wild,” he says.",
+    "One thing I puzzled over: The replicants don’t seem to be networked together, and they’re not instantly able to identify or locate each other wirelessly. If I were a replicant overlord, that’s the first thing I’d do.",
+    "Looking beyond the techno-nitpicking, Bender says the “Blade Runner” franchise is notable in that it doesn’t have obvious good guys and bad guys. “We don’t want to actually map the replicants onto AIs in today’s parlance, so much as mapping the replicants onto other sentient beings in our midst that maybe we don’t understand so well, and that can include other people,” she says.",
+    "The first “Blade Runner” focused on whether machines could pass as humans, but the new “Blade Runner” flips the script. Could humans pass as machines? “That has really interesting resonances with what’s happening in our current situation with technology sold as AI, because so much of it is actually repurposing the work of people,” Bender says.",
+    "Bender doesn’t believe it’s possible for “Blade Runner 2099” to become reality, but Calo isn’t quite ready to rule that out entirely. “One thing about the esthetic of ‘Blade Runner’ is, it has this apocalyptic flavor to it … and this retrograde flavor to it. I think the only way we go from 2026 to 2099 and still have that is if something horribly calamitous happens in the interim,” Calo says.",
+    "“I hope we do get a world that is more civilized than what’s being depicted,” he says. “But we’ll see .”",
+    "Take a look at the original version of this item on Cosmic Log for reading recommendations from Emily M. Bender and Ryan Calo.",
+    "All eight episodes of “Blade Runner 2099” are showing on Amazon Prime. Stay tuned for future episodes of the Fiction Science podcast via Apple , Spotify , Player.fm , Pocket Casts and Podchaser . If you like Fiction Science, please rate the podcast and subscribe to get alerts for future episodes."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/261119-bladerunner3-1260x602.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-eportappthatdoesntsugarcoattheconditions",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Seattle skier vibe-codes ‘Pow Pow,’ a new snow report app that doesn’t sugarcoat the conditions",
+   "author": "Kurt Schlosser",
+   "date": "2026-11-27",
+   "url": "https://www.geekwire.com/2026/seattle-skier-vibe-codes-pow-pow-a-new-snow-report-app-that-doesnt-sugarcoat-the-conditions/",
+   "paras": [
+    "Jeremy Sanford can’t control the weather that will hit ski resorts this winter, but he hopes his new app can at least tell you whether it’s worth loading up the car — or calling in sick.",
+    "Sanford, a senior product designer at Microsoft who grew up on the Eastside and has been skiing and snowboarding since he was a kid, has been building Pow Pow on nights and weekends, using “vibe coding” and Claude to do the work he couldn’t do himself.",
+    "The free app for iPhone and Android combines forecast data and readings from mountain snow sensors into snow reports for more than 200 resorts, from Snoqualmie Pass to Niseko, Japan.",
+    "Each resort gets a 1–5 “Pow Rating,” where a 5 means call in sick, and a blunt one-liner that says whether it really dumped overnight or your powder day is about to turn to rain.",
+    "For Sanford, the stakes come with a full car. He has two kids, ages 4 and 7, whom he is teaching to ski.",
+    "“I gotta load up the car with the kids and all the gear,” he said. “Is it just gonna be kind of crappy conditions when we get up there?”",
+    "He said none of the resort or weather apps he used gave him exactly what he wanted, and he didn’t fully trust the resorts’ numbers.",
+    "“You kind of got to take them with a grain of salt, because I feel like they inflate the numbers a little bit,” he said.",
+    "With Pow Pow, the aim is “an honest representation of what the conditions are actually like,” Sanford said. For the details, a section called “Nerd stuff” charts snowfall, base depth, snow quality, snow line, wind and UV.",
+    "“It’s got six inches of snow overnight, but what else is going on?” he said. “Oh, it’s maybe super wet up there now, and it’s supposed to be raining this afternoon.”",
+    "The headlines are where the app shows some attitude. The default version is family friendly, a second setting adds some profanity, and an “Unhinged” mode goes further. On a bluebird day with no new snow, the app might just tell you to “rip the groomers.”",
+    "Sanford said weather apps “can get redundant,” and he wanted “to just add a little bit of fun and add personality to it.”",
+    "A paid tier, Pow Pro, adds powder alerts, a 14-day outlook, resort webcams inside the app, home-screen widgets and the Unhinged headlines.",
+    "“Honestly, it’s a little bit of an experiment,” Sanford said. “If you could make a couple bucks off it on the side, great, but it’s not really the end goal.”",
+    "He got the idea in August, when he thought it would be cool to have “a ski app that I actually cared about” — one that looked and felt good.",
+    "Sanford has spent his career designing apps, not coding them. After graduating from Seattle Pacific University with a degree in visual communication design, he joined Microsoft in 2012, working on apps that shipped with Windows 8, including Weather, and later on the Microsoft Band. He spent nearly three years as a UX designer at Amazon, based in Edinburgh, Scotland, before returning to Microsoft in 2019. He now works on SharePoint.",
+    "“I don’t have a background in coding or engineering, and so there was always kind of like a hump … a barrier to entry,” he said. AI tools were “the unlock for me to actually make something real.”",
+    "Claude did much of the heavy lifting. “Claude and I are buddies,” Sanford said.",
+    "Next up, he’s experimenting with a feature that would recommend gear based on the day’s conditions, such as a powder board, a darker lens for better visibility, or extra layers if it’s going to get colder in the afternoon. He’s also asking skiers and snowboarders to send feedback through the app.",
+    "A good read on conditions could matter more than usual this winter. A very strong El Niño, possibly a record-setter, is building in the Pacific, and NOAA’s outlook favors a warmer-than-normal winter for the Pacific Northwest.",
+    "Meteorologist Larry Schick, who writes the Powder Poobah forecast, wrote last month that the season won’t be a bust. But he expects a slow start, with warm early storms and high snow levels, and warned that skiers “may have to pivot quickly and cherry pick” the best days.",
+    "Sanford is “cautiously optimistic” about the season. He has seven or eight resorts pinned to his phone’s home screen, webcams included.",
+    "“Hopefully this year is decent,” he said. “The last year was not amazing.”"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/PowPow-app-screens.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-nagementsoftwareforconsultantsandcoaches",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "Startup Spotlight: Aventide builds AI client management software for consultants and coaches",
+   "author": "Kurt Schlosser",
+   "date": "2026-11-27",
+   "url": "https://www.geekwire.com/2026/startup-spotlight-aventide-builds-ai-client-management-software-for-consultants-and-coaches/",
+   "paras": [
+    "Christian Quiver and Eric Baxter met in a grocery store parking lot, introduced by their wives. Quiver needed a designer for a project, so the two swapped numbers and agreed to try working together for 90 days. Four years later, they’re building a startup together in the Columbia River Gorge.",
+    "Their startup, Aventide , opened to the public on Oct. 29. It’s AI-powered software for consultants, coaches and others who sell their expertise one client at a time. Aventide drafts proposals, invoices and follow-ups, but nothing goes to a client until the owner approves it.",
+    "The name blends “abhainn,” the Irish Gaelic word for river, with “tide,” for the spot where a river meets the sea and where towns and ports have long grown up.",
+    "Quiver, the CEO, lives in White Salmon, Wash., and spent more than five years at Amazon. He led go-to-market for the in-store experience as Amazon’s device stores grew from two locations to 50. Baxter is chief design officer and lives in nearby Trout Lake. He spent 25 years in product design, including nearly seven years leading user experience at Welocalize, whose clients included Amazon, Google and Apple.",
+    "The idea started in 2025 with a question from Baxter’s wife: Which part of his decades of designing products for other people actually brought him joy? His answer was helping people, especially those pushed out by AI-era layoffs who were trying to start something of their own. Quiver bought in that October.",
+    "The pair spent more than six months testing with three groups of business owners in the Gorge, including at a demo day in June with the Mid-Columbia Innovation Hub. They kept meeting people who live in small towns and sell their expertise to companies in Seattle or Portland. “A consultant in a small town can land a corporate client,” Quiver said in an email.",
+    "The two-person company is bootstrapped and says 81 people are using Aventide so far. After a 14-day free trial, plans cost $39 or $99 a month. Aventide also publishes estimates of the electricity and water behind everyday tasks in the app. Quiver says the figures could be off by a factor of two either way. “If you ask what it costs in electricity and water to use our product, you get a straight answer,” he said.",
+    "We caught up with Quiver for this edition of GeekWire’s Startup Spotlight.",
+    "In 50 words or less, give us your startup’s elevator pitch?",
+    "Aventide is an AI-native client management platform for people paid by the session, project or event. It replaces separate booking, proposal, contract, portal and invoice apps, and runs more than one business from one login.",
+    "What problem are you obsessed with solving?",
+    "Tool fragmentation in small client businesses, and the fact that the owner ends up being the human glue holding all of it together.",
+    "What surprised you after talking to customers?",
+    "That the barrier isn’t price or features. People don’t have time to switch systems, and many aren’t comfortable with their own software stack. So we onboard anyone who wants it one-on-one.",
+    "How has AI changed the way you build your company?",
+    "Everything. It has fundamentally changed what a small team can build and run. We have always worked as experience builders first, and AI lets a team of two think bigger, test faster, and deliver a world-class product that would have taken what seems like 100-200 people just a year or two ago. It cuts our time from idea to execution by at least 50x.",
+    "What’s one thing people misunderstand about your startup?",
+    "People hear “AI for small business” and picture a chat box taped onto legacy software. Instead of making you click through old CRM menus with a writing bot on the side, Aventide wires AI directly into your bookings, contracts, portals, and payments so you just say it, review it and approve.",
+    "What’s the toughest decision you’ve made in the past year?",
+    "Choosing which problem we wanted to solve. Our original mission was far too vague to build. We set out to help people through the AI era, but the interviews and prototypes kept landing on client services. Following that meant narrowing a big mission into one product for one kind of owner.",
+    "What’s the one piece of advice you give to other entrepreneurs?",
+    "Think bigger, and focus on the whole experience you want to create. Outside of a few rare cases, narrow single-purpose tools are old hat now because nobody wants another tab to manage. The future belongs to software where someone can say, “This is my one tool for this category of my life.",
+    "50,000 human-scale businesses use Aventide to own their client relationships directly, keeping more money in small businesses and giving more time back to the people running them."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/Aventide-Founders.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-127fridayroundtableholidaybusesandtrains",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Friday Roundtable: Holiday Buses and Trains",
+   "author": "Michael Smith",
+   "date": "2026-11-27",
+   "url": "https://seattletransitblog.com/2026/11/27/friday-roundtable-holiday-buses-and-trains/",
+   "paras": [
+    "The holiday season is upon us and there are few better ways to celebrate than on board a historic transit vehicle. This year, the Metro Employees Historic Vehicle Association’s (MEHVA) Holiday Lights Tour is on December 5. Climb aboard a preserved Metro bus and enjoy a trip through several Seattle neighborhoods to see the best holiday lights in the City. The 2 hour tour starts at 7pm, one block east of Stadium station. Tickets and more information can be found on MEHVA’s website .",
+    "Between now and December 23, Mt. Rainier Scenic Railroad is running the Steam Into Christmas experience. The 75-minute journey/show takes place on vintage passenger cars pulled by either the 104-year-old Polson Logging No. 70 or the 102-year-old Porter No. 5 locomotive. Trips run every Thursday, Friday, Saturday, and Sunday, as well as on December 21-23. Trains depart from the Elbe Depot, located about a 2-hour drive south of Seattle. Unfortunately, the depot is not accessible via transit. Tickets and more information can be found on Mt. Rainier Scenic Railroad’s website ."
+   ],
+   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-14.png?resize=525%2C381&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-urycenterrecommendsnightlyescootercurfew",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Harborview Injury Center Recommends Nightly E-Scooter Curfew",
+   "author": "Ryan Packer",
+   "date": "2026-11-27",
+   "url": "https://www.theurbanist.org/harborview-injury-center-recommends-nightly-e-scooter-curfew/",
+   "paras": [
+    "A prominent Seattle injury research center is advocating for changes to how e-scooter rentals are regulated, presenting recommendations last week that included a full nighttime curfew on the devices, along with better age verification. The recommendations come in response to increased rates of injuries from scooter users over recent years, particularly within cities where usage has spiked as Lime-operated bikes, scooters, and gliders have grown ubiquitous.",
+    "The data presented by Dr. Frederick P. Rivara of Harborview's Injury Research & Prevention Center shows a dramatic increase in e-scooter related emergency responses since the launch of Seattle's first free-floating scooter share program in 2020. In 2025, 517 emergency responses related to e-scooters were recorded citywide, the highest one-year total on file. That increase has occurred against a dramatic scale-up in overall usage, with Lime recording more than 10 million trips citywide across the same 12 months.",
+    "The King County Board of Health, which reviewed Rivara's data on November 19, has not yet acted on the recommendations, and hasn't put the issue of e-scooter safety on its future work plan.",
+    "When they do occur, e-scooter injuries can be devastating. A separate, newly-released study led by UW Medicine looking at 64 e-scooter riders treated at Harborview between 2020 and 2024 found that the median amount of lost time at work due to recovery time was two months, with 20% forced to change jobs as a result of their crash.",
+    "\"This is a problem that all big cities that have these devices are really struggling with,\" Rivara said, citing a nearly decade-old study from Austin, Texas that found that e-scooter injury rates were roughly 175 to 200 times higher on a per-mile basis than trips in motor vehicles.",
+    "The dramatic recommendation for a 9pm to 5am curfew, made in coordination with Rivara's research partners Xinyao de Grauw and Stephen J. Mooney, comes from analysis of statewide surveillance data on bike and scooter usage. Compared to e-bike injuries, which tend to occur during commuting hours or at mid-day, e-scooter injuries are highly prevalent on weekend nights, according to the data.",
+    "\"The hours of the day are important, and that's why we are proposing a curfew at those times a day,\" Rivara said. \"Overall, I think that 38% of the injuries from e-scooters are happening after 9 p.m.\"",
+    "Rivera pointed to two studies showing positive impacts from nighttime scooter curfews, one from Atlanta and one from Helsinki. In Helsinki, the curfew was only in effect on Friday and Saturday night from 12am to 5am, with significant restrictions on top speeds added during the overnight hours on other days. The result was a 39% decrease in injuries from one year to the next.",
+    "Atlanta's 9pm scooter curfew, implemented in 2019, showed much less clear results, and has been gradually scaled back to a current 2am to 4am curfew. A 2021 study on the changes did find a decrease in injuries, but its researchers labelled the decrease \"not significant.\" What was seen in Atlanta, however, was a spike in vehicle usage , indicating that many e-scooter users had been using the devices to replace car trips. Average commute times shot up by around 10%, with travel times to stadium events such as soccer games increasing by almost 12 minutes per trip.",
+    "A discussion around trade-offs that could come with such a curfew was absent from Rivara's presentation, with potential issues around mobility impacts brushed aside as he asserted that such a curfew would have a \"minimal impact on use of these devices for commuting.\"",
+    "E-scooters are widely used across Seattle to bridge gaps in transit service, particularly later in the evening when such a curfew would be in effect. With only a limited number of buses running a full 24 hours and Sound Transit light rail service shutting off before 1 am, Lime often offers the easiest option for travel during those hours, including for workers in service industry jobs or with non-traditional working hours.",
+    "A curfew, especially one starting as early as 9pm, would be a dramatic change, and one that several members of the King County Board of Health pushed back on.",
+    "\"Nine o'clock seems very early to eliminate the accessibility of these devices for people who are commuting. So I'd like your body of of experts to consider moving that curfew to a later time,\" said Katherine Gudgel, Director of Community Programs at HealthPoint, in comments that were echoed by Seattle Councilmember Dionne Foster.",
+    "\"I think there's a lot of folks that work late that may use this, [I'm] especially thinking about folks in the hospitality industry,\" Burien Councilmember Hugo Garcia said.",
+    "Unsurprisingly, Lime isn't on board with the idea either.",
+    "\"We don’t think a blanket 9 p.m. to 5 a.m. curfew is the right approach for Seattle. That’s an eight-hour restriction that would affect evening and early-morning commutes, including people working shifts that don’t fit a nine-to-five schedule,\" Parker Dawson, Lime's Senior Regional Lead of Government Relations for the Pacific Northwest, told The Urbanist. \"Before taking away a transportation option for those hours, we need to understand who relies on it and what alternatives they actually have.\"",
+    "In a letter sent this week in response to the Board of Health presentation, Dawson noted that its incident rate per one million Lime rides in Seattle declined 26.6% between 2024 and 2025.",
+    "\"We’ve heard from Seattle riders that Lime helps many of them with their commutes and everyday travel,\" Dawson continued. \"Riders told us about getting home safely after missing the last bus and feeling safer riding home than walking alone at night. One described taking Lime home from the light rail station rather than waiting 30 minutes for a bus. Those experiences help explain how Lime complements transit: it makes the trip to or from a station easier and fills gaps when bus service is limited or has stopped for the night.\"",
+    "Rivara's recommendations also included more robust age-verification requirements for e-scooter rentals, given that Harborview's data shows that youth account for 15% of micromobility admissions seen at trauma centers. On that front, Lime points to age-verification requirements already in place when it comes to payment methods used on its app, which are supplemented by education campaigns. But overhauls in this area are likely to be much less controversial, with a bill introduced at the New York City Council just this month that would require more direct age verification for riders of CitiBike, the primary bikeshare provider in the Big Apple.",
+    "When it comes to an overnight curfew, however, a more convincing case may need to be made for such a significant overhaul of Seattle's existing e-scooter regulations, with Lime providing thousands of late night and early morning rides every single day. Turning that off would be much more complicated than simply hitting a switch, and likely lead to countless unintended consequences."
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/IMG_20241127_142340051_HDR-EDIT.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-rcecallsforchangestoinvoluntarytreatment",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Manion Task Force Calls for Changes to Involuntary Treatment",
+   "author": "Amy Sundberg",
+   "date": "2026-11-27",
+   "url": "https://www.theurbanist.org/manion-task-force-calls-for-changes-to-involuntary-treatment/",
+   "paras": [
+    "When she first ran for office back in 2022, King County Prosecuting Attorney Leesa Manion made a promise to work to reimagine the system around Washington State’s Involuntary Treatment Act (ITA). Earlier this month, soon after winning another four-year term, Manion’s task force released a report of findings and recommendations for improving the system.",
+    "The report, written by the Chuckanut Health Foundation, based its findings on a wide-ranging listening tour that conducted 47 conversations about the ITA in Whatcom County, King County, Spokane, and the Greater Columbia region. The listening tour included feedback from people who had been involuntarily committed, their families and friends, mental health professionals and crisis responders, law enforcement, and both prosecutors and defense attorneys.",
+    "The cross-disciplinary task force conducted the listening tour. In addition to representation from two prosecutor’s offices, it included members from the Washington Association of Sheriffs and Police Chiefs (WASPC), Disability Rights Washington, the Snohomish County Office of Public Defense, and the Health and Justice Recovery Alliance.",
+    "Manion talked with The Urbanist about what led her to start the project.",
+    "“It wasn't lost on me that a lot of what we were seeing in our community that people were describing as public safety issues were really a very specific type of mental health issue,” Manion said. “One of the things that's always kind of frustrated me about the current involuntary treatment at court system, and I can really only speak firsthand to King County, is just how litigious it is and how adversarial it is. I thought, rather than have a prosecutor fighting for someone's treatment against their will and a public defender fighting for that person's release to the streets, two very binary choices, what would it look like if we could reimagine the system writ large so that it was more collaborative?”",
+    "Involuntary treatment is mandated by state law if a person is considered to be a threat to themselves or others. This kind of forced treatment is generally a last resort for a person experiencing an acute mental crisis, and it’s the best resourced component of the state’s mental health system. In fact, the report found that in King County, people were describing involuntary treatment as a kind of a back door to treatment that people couldn’t otherwise afford.",
+    "It’s also the most restrictive and costly way to treat patients with behavioral health issues. Being pushed into involuntary treatment tends to be very disruptive to a patient’s daily life, interrupting employment, education, care-giving, housing, and access to benefits, and it’s not uncommon for a patient to cycle through the system, sometimes multiple times.",
+    "Kim Mosolf, an attorney with the advocacy organization Disability Rights Washington who participated in the work group, explained some of the problems coercion can cause around getting care.",
+    "“It oftentimes will make people less likely to engage in care in the long term,” Mosolf said. “It increases senses of stigma and self-stigma, which then lead to poorer outcomes on discharge. There's a lot of data, and it also has obvious destabilizing effects: You lose your job, you lose your home, you lose your custody. These are all things you could face. You lose other civil rights because of an involuntary civil commitment.”",
+    "Mosolf said that putting someone into involuntary civil commitment is no guarantee that they will get better.",
+    "“We hear from folks who with lived experience who've had really negative experiences with either trying to access care or being pushed into forced treatment, or you know, having really, really bad experiences like abuse within forced treatment and never really feeling like they're being listened to or cared for in any real way,” Mosolf said.",
+    "The report presents three broad recommendations that received support from across participating stakeholders:",
+    "Resourcing the continuum of care would mean a greater focus both on prevention before a person reaches a crisis point and on continued support being in place after being released from commitment. Right now patients are often released into “nothing,” the report said.",
+    "“Washington’s ITA system is built to step in at the moment of crisis, and then to send people back into a community that often lacks both what would have prevented the crisis and what would sustain recovery after it,” the report continued. “The ITA is asked, in effect, to be the front door, the emergency room, and the discharge plan for a behavioral health system that is thin at both ends. Almost every vantage point describes this, each in its own words, as a loop that keeps producing the same outcomes no matter how hard the people inside it work.”",
+    "Aleksandra Letts, a senior deputy prosecuting attorney with King County, explained that the goal of having the ITA applied to fewer people could potentially be achieved “if we have better wraparound services to prevent people from entering the ITA system because they can get community support and to have them have all of the services when they're exiting and they're being discharged into something that's not nothing, which unfortunately happens too often now.”",
+    "Meanwhile, the scarcity of beds and resources in the continuum of care makes it difficult to ensure appropriate treatment options are available to patients. There is a particular lack of beds in rural areas of the state, as well as a lack of beds for patients with specific needs, such as youth and individuals with other major medical issues.",
+    "“Often, when bed dates are unavailable, first responders are forced to rely on other systems to provide immediate support such as emergency rooms, jails, shelters, or unprepared family members,” the report read.",
+    "Addressing both of these recommendations would require further investment at a time when both the state and local municipalities are grappling with budget deficits. While some investments could potentially be shifted over time from involuntary treatment to both preventative care and support provided after release, such a redistribution would likely require bridge funding while the system shifts.",
+    "“We are already spending money on the system,” Manion said. “We already have folks who are leaving the ITA system and sometimes moving over to the carceral system, or they are moving over to a hospital system, and all of that is expensive. But we're not really tracking the dollars in any kind of meaningful connect-the-dot ways, and we're not getting the return on investment that we would hope.”",
+    "Mosolf emphasized that in the long term, a system focused on the entire continuum of care is likely to be cheaper.",
+    "“If you actually invest in these things that we're recommending, you're hopefully going to save money,” Mosolf said. “Things like permanent supportive housing cost money upfront, but they are shown to vastly reduce people's engagement with being arrested, going to the ER, being placed in civil commitment, which costs a ton of money, so it pays off. It saves money, but you have to be willing to recognize that and shift those funds and wait for the payoff.”",
+    "One of the biggest barriers to changing the ITA system as it currently stands is the lack of data about how it’s working.",
+    "“We know nothing about ITA. Nothing,” Jason Schwartz, the director of the Snohomish County Office of Public Defense, told The Urbanist . “We don't even know how many cases were filed across the state. We don't know how many had public defenders, how many had private lawyers. We don't know why they were detained, and I think that's really important because someone who is just gravely disabled, unable to take care of themselves, is very different than someone who's a danger to others.”",
+    "State authorities do not have a reliable count of how many people are cycling repeatedly through the system nor data showing the most common uses of the system.",
+    "“The fact that there's not a statewide system where someone can plug in someone's name and determine what their mental health intervention trajectory has been is really shocking,” Letts said.",
+    "Manion explained that right now, there isn’t even consensus on which data should be gathered. Figuring out what statewide data standards should be implemented and figuring out how to improve communication between silos engaged in the system is work that could be done right away without a high price tag.",
+    "Another place where there was agreement across the work group was that now is not the time to change the legal threshold where the ITA kicks in. While opinions differ on whether it should be easier or more difficult to commit someone, workgroup members agreed that there are several compelling reasons to wait. The lack of available data on how the ITA system is working makes it difficult to know what changes might be appropriate, and the current system is already stretched and overburdened. In addition, if the report’s recommendations were to be implemented, that might shift the system to the point that no legal change is required.",
+    "“If we change the standard now, it's going to create a burden on a system that we already don't fully understand,” Schwartz said.",
+    "“I think part of it is just making sure before we make a big change like the standard, the entry standard, that we do a good job, a diligent job, of funding the resources that would make it so that people don't have to go to ITA, so they can be successful when they leave, and so that we know what we're doing before we make any real substantive changes,” Manion said.",
+    "The task force report made several near-term recommendations for 2027 and 2028 with a focus on the state legislature.",
+    "In addition to asking that the legislature not make any cuts to already existing programs and investments in the continuum of care, the report called for progress to be made on improved data reporting on ITA system performance so policy makers can gain a better sense of how the system is currently functioning.",
+    "Another recommendation was to begin a two-year study on how insurance status affects how patients receive voluntary versus involuntary care and review and make recommendations on Medicaid and crisis response reimbursement rate increases.",
+    "The report also called for the funding of one pilot program in 2027 and two pilots in 2028 that would work to promote safe information sharing in patient care with families and peer supports and implement more intensive discharge planning to provide more ongoing support once a patient is discharged.",
+    "“The pilot is really designed to kick the tires on an idea to see what's working and to test a theory,” Manion said. “So, if our theory is: by treating people coming out of the system in a way that is more robust, more consistent, more patient-centered, will we get better results, I think we expect the answer to be yes, but we're not doing that right now.”",
+    "The hope is that the state legislature will be able to fund such a pilot, but Manion said if not, she’ll look into whether it’s plausible to use King County funds from the Crisis Care Centers Levy .",
+    "“I think if we implement the data and upstream and downstream resources, I do think that what this will help us do is dispel some myths about ITA and really build some empathy around the people who need empathy in the ITA system,” Schwartz said.",
+    "Task force members emphasized that making progress on these short-term recommendations would put the state on track to implementing some of the bigger aspirational goals highlighted in the report.",
+    "“There's a lot of uncontroversial agreement on what we can do better to start to fix some of these problems,” Mosolf said. “I think we know the solutions so that should give everybody some solace.”"
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/KC-Prosecutor-Leesa-Manion-courtesy-of-campaign.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-istrentermayorsofocusedonabalancedbudget",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "Why is Seattle’s socialist, renter mayor so focused on a balanced budget?",
+   "author": "Justin Carder",
+   "date": "2026-11-27",
+   "url": "https://www.capitolhillseattle.com/2026/11/why-is-seattles-socialist-renter-mayor-so-focused-on-a-balanced-budget/",
+   "paras": [
+    "It is not a typical Thanksgiving message from a Seattle leader. Mayor Katie Wilson is defending her push for a balanced budget while looking back on a fall City Hall battle she did not fully win.",
+    "Why is Seattle’s socialist, renter mayor so focused on fiscal restraint?",
+    "“Fiscal responsibility is a progressive value,” Wilson said in a video address ahead of the holiday. “For too long that phrase has been code for slashing public services. That is emphatically not what Seattle stands for.”",
+    "Following the Seattle City Council’s approval of the 2027–2028 budget , Wilson this week is defending her plan to close a projected $175 million deficit through spending efficiencies rather than tax hikes, arguing that prudent management sustains public services. Acknowledging that her four-year balanced proposal surprised both progressive critics and business leaders, she insisted that public trust depends on responsible stewardship.",
+    "So why is Wilson echoing a George H.W. Bush -level “no new taxes” stance?",
+    "First, there is the JumpStart payroll tax to protect. Wilson opted against raising JumpStart on large corporations amid downtown office vacancies and tech-sector uncertainty, instead pairing internal efficiencies with an August revenue bump to fund core social investments. At the same time, she pushed back against the council’s move to raid $31 million in JumpStart reserves — originally intended for affordable housing and post-pandemic services — to pay for council amendments.",
+    "Second, her fiscal discipline flipped traditional political roles at City Hall. During negotiations, the centrist-leaning council, led by Budget Chair Dan Strauss , added roughly $36 million in General Fund spending, including $31 million in one-time funds, to reverse several of Wilson’s cuts. Although the council prevailed, Wilson cast herself as the disciplined executive pushing back against unsustainable budget stuffing.",
+    "“One-time funds set expectations for additional funding in future years—funding that does not exist,” she warned, adding that she will instead pursue new progressive revenue, including a local capital gains tax, in Olympia.",
+    "Over the longer term, Wilson’s posture also shapes debates over policing and future deficits. By backing funding to bring the Seattle Police Department to 1,250 officers, she aims to meet realistic hiring targets while blunting “defund” attacks and tempering demands for higher staffing thresholds from council public safety chair — and potential future mayoral challengers — Bob Kettle . Meanwhile, the council’s reliance on one-time reserve sweeps to restore encampment and clearance programs creates a looming fiscal cliff unless Olympia approves new taxing authority or local revenues rebound.",
+    "In 2027, Wilson’s political capital will be tested in Olympia, where lawmakers remain wary of expanding municipal tax powers amid state budget pressures. At home, police hiring numbers and the rollout of CARE crisis response teams will test whether her holistic safety approach can satisfy downtown businesses without alienating her progressive base.",
+    "Those fights will unfold ahead of a major structural shift. Seattle’s inaugural ranked-choice voting primary will take place next August for all seven district council seats. By allowing voters to rank up to five candidates, ranked-choice voting could reduce the spoiler dynamic that has previously split progressive coalitions. The result could be a council that leans even farther left — and aligns more fully with Wilson’s administration.",
+    "One big change for the council can already by marked. Wilson is celebrating incoming District 5 Councilmember Nilu Jenks as part of a new “progressive majority” across the city — and the nation.",
+    "Armed with early wins like universal school meals and the positioning in fiscal discipline, Wilson is set to back aligned challengers and further reshape the council. For now, she is keeping balanced budgets at the center of her message.",
+    "“Overall we have made meaningful progress this year toward a structurally balanced budget,” Wilson said, “and I look forward to completing that work in the years ahead.”"
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-chs-bingbroadwaygunfirenovemberburglarystats",
+   "srcKey": "chs",
+   "cat": "local",
+   "title": "911 | Thanksgiving domestic violence stabbing, Broadway gunfire, November burglary stats",
+   "author": "CHS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.capitolhillseattle.com/2026/11/911-thanksgiving-domestic-violence-stabbing-broadway-gunfire-november-burglary-stats/",
+   "paras": [
+    "See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group ."
+   ],
+   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-filingshitrecordhighintraviscounty2i9hx5",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Eviction Filings Hit Record High In Travis County",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/show/decibel/extras/eviction-filings-hit-record-high-in-travis-county-2i9hx5/",
+   "paras": [
+    "A new report shows that eviction filing rates hit a record high last year in Travis County."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/31cf83f7-bfcd-4efb-be5b-8e27302fcbf8.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-snorthwestabbyhillhavepaintboxwilltravel",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Mossback's Northwest: Abby Hill. Have Paintbox, Will Travel.",
+   "author": "Knute Berger",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/mossbacks-northwest-2/2026/11/mossbacks-northwest-abby-hill-have-paintbox-will-travel/",
+   "paras": [
+    "This scratched paint box was a ticket to freedom for one woman. It was filled—and is still filled—with some of the tools of the artist who carried it with her into the Western wilderness to capture its beauty and wildness on canvas for posterity: her tubes of paint, a brush, a palette for mixing colors. It traveled with her deep into the mountains, it sat with her easel on precipitous cliffs, it banged along on horseback on remote trails.",
+    "Abby Williams Hill moved to the Northwest—to Tacoma—in 1889. She was a white, Iowa-raised middle class woman who was a trained artist. Her husband Frank Hill was a respectable doctor who set up a practice there. But Abby eschewed city life in the budding “City of Destiny.” She refused to wear corsets and bustles. She wanted to dress in practical garb, like a man. She refused to let domestic life or her husband or her stuffy Victorian peers hold her back from places where her spirit soared.",
+    "From her first hike to Mount Rainier she knew her art and inspiration—and she herself—belonged in wild country. And that she could capture it for the rest of us on canvas.",
+    "This battered tin box helped make that possible.",
+    "Abby Williams Hill was a woman of her time, though she often felt out of step with the mainstream. She wanted change and reform. She was devoted to social progress and to conservation. She met President Teddy Roosevelt at the White House in 1902 while visiting with a delegation from the Congress of Mothers and he gave her a white rose which she later painted. She advocated creating a safety net for the poor. She devoted time to childhood education—she was a founder the PTA in Washington. She homeschooled her own children, four of them--a disabled son and three adopted daughters.",
+    "She wanted the freedom from being a prisoner of fashion. When her husband encouraged her to wear a corset, she dared him to wear one for a day and then ask her. He did, and afterwards he dropped the subject. Some believe she was not enthusiastic about women’s suffrage, though she was strong-minded, an independent spirit.",
+    "A turning point in her life, after years of caring for her son who was born with a disability, was to experience the grand nature of the West. In July of 1895, she signed up for a group hike on Mt. Rainier, or Mt. Tacoma as she called it. Her co-ed group spent six days just getting there by wagon, then some continued on horseback up to Camp of the Clouds at Paradise. It was cold, the ground was rough, the sound of calving glaciers and rushing water were the trip’s soundtrack.",
+    "She did not want her time at Camp of the Clouds to end. “The night was bitter cold,” she wrote in her journal. “All were quite ready to go home in the morning but me. I felt I could endure much more for a few days of such grandeur.”",
+    "Within two weeks of returning home, she set out on a 12-day camping expedition to Hood Canal. Later, she had a routine of rowing to Vashon Island where she set up camp with her kids and spent summers. “I was cut out for the wilds,” she reflected.",
+    "Abby the painter wanted to be in nature but also wanted to share it with those who couldn’t be there in person. She had a growing reputation—she had done an image of George Washington exhibited at the World’s Columbian Exposition of 1893 in Chicago and later exhibited her works at other major expositions including ones at Jamestown, St. Louis, Portland, and Seattle.",
+    "From 1903 to 1906, she made the first of an incredible series of arrangements—especially for a woman artist—with the Great Northern and Northern Pacific Railroads. In exchange for 1,000 miles of free tickets, leaving her husband behind, she and her children would travel to parks and wild areas the railroads wanted to promote and paint landscapes that could be used to bring views of the rugged West to the public and promote tourism. Have paintbox, will travel.",
+    "Abby was what is called an \"en plein air\" painter who worked not in a studio but outdoors where nature’s light, shifting weather and textures were part of the landscape she tried to capture. Her training was both traditional and contemporary. One of her teacher’s was William Merritt Chase who she studied with in New York. He was a leading American proponent of Impressionism which influenced her work. He was impressed with her talent and “her genius for work.” She and her husband also traveled extensively in Europe on a tandem bike.",
+    "Her work came at a time when photography was in ascendence. But her landscapes could capture color, magic moments, rare and spectacular views. She chased morning and evening light to catch transcendent moments. Her train commissions took her from Mt. Rainier to the North Cascades and Chelan, to Yellowstone, Flathead Lake and the Clark Fork in Montana, and gorges in Idaho. She could paint when and how she chose, including roughing it in the back country where the Hills might be plagued by rain, wind, biting bugs and rattlesnakes.",
+    "An example of the dangers: while painting on a cliff’s edge at Yellowstone Falls, a sudden squall caused her and her daughter Eulalie to scramble to get their gear and themselves to safety. Te whirlwind took the canvas she was painting and sailed it over the cliff’s edge—a precious work lost. The next day, a local guide tied a rope to a tree and around his waist and climbed 100 feet down a 400-foot chasm and recovered the picture. It was worse for wear: wet, covered with sand and dust. Abby reckoned it was worth a $1,000 and a difficult image to capture. To the railroad it might be worth $10,000 in advertising.",
+    "It has been noted that her work was a kind of contradiction. The nature she sought to capture was being transformed by the railroads that paid her fares. Still, they enabled her access and art.",
+    "After her days of railroading, she traveled the country, painting largely in the southwest at places like Zion, Bryce, the Grand Canyon, Yosemite, the beaches and redwoods of California. She and Frank took a multi-year road trip across America in 1924, and settled in southern California, but maintained a residence in Tacoma.",
+    "Her work is a marvelous window on the West and her vigorous life. An exceptional thing she did left a mark on the map. While working for the Great Northern in 1903 she ventured into the North Cascades along the Stehekin River above Lake Chelan where she came across an impressive peak that she discovered had no official name. Abby decided to name it—which she did successfully. It’s Mt. Booker, named for Booker T. Washington, a Black educator who Abby knew and admired. She painted the peak for posterity, a tribute to the wild land and the better world she worked for."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/MBS12_EP07_Hero.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasnewswrap1795721162",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: EPA reports ‘zero’ airborne lead in Iowa",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1795721162/",
+   "paras": [
+    "In our news wrap Thursday, the EPA is reporting \"zero\" airborne lead in Middletown, Iowa, a day after the Army detonated nearly five tons of toxic explosives, the Trump administration is planning for new, sharp tariffs on 14 countries, and President Trump says he told Russian president Vladimir Putin to \"pull back on military aggression\" in Europe."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/53cde05a-40ff-4a81-9f3a-fcc1d38c2b67.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-wnewshourextrasholidayshopping1795733300",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "The best strategies for holiday shopping in the age of AI",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/holiday-shopping-1795733300/",
+   "paras": [
+    "The best strategies for holiday shopping in the age of AI"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/ee2189ce-f003-42ad-be1e-3986a166a710.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrassettlein1795721813",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "New book focuses on how to get through life's hardest days",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/settle-in-1795721813/",
+   "paras": [
+    "Today much of the country is focusing on life away from work, but most of us struggle daily with the demands of work, home and the constant pings of electronics. In this episode of our “Settle In” podcast, speaker and executive coach Jovian Zayne talks with Geoff Bennett about her new book, “Soft Landings for Hard Days,\" a guide for how individuals can find small moments of respite and joy."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/bbcca279-cc5d-42eb-80a4-50e09811d595.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-ighlightslifeoffamilycaregiver1795737698",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Journalist's experiences highlights life of family caregiver",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-27",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/journalist-s-experiences-highlights-life-of-family-caregiver-1795737698/",
+   "paras": [
+    "Journalist's experiences highlight challenges of being a family caregiver"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/2b43434f-29ec-448e-a966-84c8136b7dca.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-hEdUUwcWhEcGdjVTJNUVBqUnNYMXBsSko2eHAoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Seattle area has nation's fastest dropping home prices, report says",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHp5dW5CNUJnS1RRcm1sMThqaERLUXBqSy1DZHhRMkNZa0Z1eXc2R3ZVZlFwSE1BcmpQRlFaZkY4VEFDSGQ4Y01XSy1jWEdGUGJYR1dWLUlFcWg2Vk5nZGE2d1dCejBDYm9tMGhHS3czOEhrMmxLUGNJUTJhSmNzSExHalctTDBqUVNPUnhEdUUwcWhEcGdjVTJNUVBqUnNYMXBsSko2eHA?oc=5",
+   "paras": [
+    "Seattle area has nation's fastest dropping home prices, report says KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8wy5p6pv2e2oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Department for Work and Pensions says some of its services were taken offline as a precaution."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6ef/live/2c353ff0-ea95-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eoscqm251rv0vyyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Watch: What has happened to DWP online services?",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f786/live/0a044f30-ea94-11f1-99b6-a35a62fa4264.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc6zxvy9j0wpjoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daa6/live/05399b00-ea84-11f1-99a1-253766e7ad8b.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc8wy5p4gdnwvoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc3pw4ypkldpzoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca25/live/3f50b590-ea60-11f1-a094-5fdc692f3e33.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc3pw4yrr8kz9oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+   "author": "",
+   "date": "2026-11-27",
+   "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Ukraine settles in for another devastating winter as the questions persists: how will it all end?"
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ormblackfridayshoppingasylumsupremecourt",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+   "author": "Suzanne Nuyen",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+   "paras": [
+    "A powerful storm knocked out power for nearly 1 million customers and flooded streets. And, experts predict inflation will not dampen American spending for the holidays"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16055559gerarddepardieutrialrapefrance",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+   "author": "The Associated Press",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+   "paras": [
+    "The case has become one of the most prominent in France's reckoning with sexual violence, as the #MeToo movement has faced resistance in the country, particularly in the arts."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2888x1926+0+0/resize/2888x1926!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa9%2Fea%2Ff523d8f84dfa9012828ba7f8a0e5%2Fap26330526061869.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16054884thanksgivingweatherblackfriday",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+   "author": "NPR Staff",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+   "paras": [
+    "A storm battered much of the country on Thursday, knocking out power to thousands of homes and disrupting travel. Today, Black Friday shopping deals kick off, and on Saturday New York City will hold the postponed Macy's Thanksgiving Day Parade."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4496x3000+0+0/resize/4496x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff2%2Fe6%2F842c0c584574bebf383c85a84897%2Fap26330589214672.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-xs16026486macystriestoreinventwithluxury",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Can luxury save Macy's?",
+   "author": "Alina Selyukh",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+   "paras": [
+    "This week's celebration of Macy's 100th Thanksgiving parade finds the department store at a turning point. After years of losing sales, the retailer is reimagining itself — as a higher-end destination."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6192x4128+0+0/resize/6192x4128!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F42%2Fe92e56684604ba12db67369743e2%2Fgettyimages-2305985820.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-4trumpeffectivelyendedasylumsupremecourt",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+   "author": "Vanessa Romo",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+   "paras": [
+    "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5079x3386+0+0/resize/5079x3386!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F2e%2Fbd2ef7014b16a3b474a9ef7aad59%2Fgettyimages-2301934612.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-nfreetweenstrytheirhandatdungeonsdragons",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Screen-free tweens try their hand at Dungeons & Dragons",
+   "author": "Sequoia Carrillo",
+   "date": "2026-11-27",
+   "url": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+   "paras": [
+    "Some parents, fed up with screens, have found an analog oasis in the role-playing game invented in the 1970s."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x2000+0+0/resize/3000x2000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fde%2F2e%2F399887fb4ec881e2707d4ab12793%2Fd-d-lead-photo.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-026nov27blackfridaydealsbestholidaygifts",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The best US Black Friday deals on 23 of our absolute favorite holiday gifts",
+   "author": "Filter editors",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/27/black-friday-deals-best-holiday-gifts",
+   "paras": [
+    "We combed through our exhaustive list of the best holiday gifts to find deals on presents we’ve tested and vetted",
+    "Visit our ultimate guide to Black Friday for more deals on cozy winter clothing and buy-it-for-life products – carefully vetted by Filter US editors",
+    "Black Friday is usually the time to upgrade your cordless vacuum and stock up on toilet paper for less . It’s also an opportunity to knock out your holiday shopping in one fell swoop - preferably before December sneaks up on you (it somehow always does)."
+   ],
+   "img": "https://i.guim.co.uk/img/media/55a5d4eed009fc960d42c6b149bff5063943fcff/1_0_3998_3200/master/3998.jpg?width=140&quality=85&auto=format&fit=max&s=b6c45a73721e2e8b408e7f2cec98d5b7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-fextremewealthisthemajorproblemofourtime",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
+   "author": "Bernie Sanders",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/27/the-explosion-of-extreme-wealth-is-the-major-problem-of-our-time",
+   "paras": [
+    "At this pivotal moment in American history, let us move forward together to take on and defeat a powerful, greedy and corrupt ruling class",
+    "We are at a pivotal moment in history. Never before in human history have so few people held so much wealth and so much power. And never before have we seen such an unprecedented level of greed, arrogance and irresponsibility on the part of the world’s ruling class.",
+    "Here is the good news: leaders from around the world are finally starting to wake up. This week, elected officials and economists from around the world – including four Nobel prize winners – came together in Paris for a “Summit Against International Oligarchy”. As the summit’s proclamation stated, “The explosion of extreme wealth is the major social fact of our time … We are sounding the alarm: billionaires are a threat to our democracies.”",
+    "Bernie Sanders is a US senator, and ranking member of the health, education, labor and pensions committee. He represents the state of Vermont and is the longest-serving independent in the history of Congress"
+   ],
+   "img": "https://i.guim.co.uk/img/media/ebf5a271f7a37c05df6ac1f3eb3bf728d51e5332/153_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=33215f1f6faa847f34bbf9e7cfce789a",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-28whathappenswhensomeoneishitbylightning",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘I felt a zap race through my body’: what happens when someone is hit by lightning?",
+   "author": "Natalie Parletta",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/science/2026/nov/28/what-happens-when-someone-is-hit-by-lightning",
+   "paras": [
+    "Tens of thousands of people experience strikes each year. What are the effects of a current five times hotter than the sun – and how can you keep safe?",
+    "Caitlin Thomas recalls knowing that something terrible had happened but not fully understanding what.",
+    "She and her partner had arrived at a music festival some 270km north of Melbourne in the early afternoon and began setting up their tents and a gazebo for shade when the sky suddenly turned dark and the rain became incredibly heavy. A huge gust of wind picked up and Thomas asked her partner to hold on to the gazebo so it wouldn’t fly away. “He then asked me to hold on to it also so he could crack open his beer.”"
+   ],
+   "img": "https://i.guim.co.uk/img/media/0712db56e03295d6c07281c496004dc1a9a3e665/424_0_4242_3394/master/4242.jpg?width=140&quality=85&auto=format&fit=max&s=715f1bd47683e52557b0086b39d2f952",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-dio2026nov27chickenshopdatesfinalepisode",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘Genuinely emotional’: the world-conquering Chicken Shop Date’s final, eye-opening episode",
+   "author": "Stuart Heritage",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/27/chicken-shop-dates-final-episode",
+   "paras": [
+    "After a 12-year run, Amelia Dimoldenberg’s last episode of Chicken Shop Date – a therapy session with Esther Perel – is being shown in cinemas. It’s a fittingly grand finale for a YouTube cult favourite that far outgrew its medium",
+    "The decision to screen the full final series of Chicken Shop Date in cinemas before the finale airs on YouTube is, it could be argued, overkill. The cinema is a place where you sit rapt among like-minded people, bombarded with cutting-edge sound design and world-class visuals. On the other hand, the fun interview show that is Chicken Shop Date is the thing I watch alone on my computer while I pick my toenails. It isn’t a natural fit, is what I’m trying to say.",
+    "And yet, goddamn it if the whole thing didn’t leave me slightly choked up. After 12 years of flirting and awkwardness, Amelia Dimoldenberg’s final guest is Esther Perel, the Belgian psychotherapist and relationship guru beloved by Oprah Winfrey. It is by no means a traditional episode, almost completely dismissing the tone of everything that came before it. Dimoldenberg’s well-honed persona, alternately dismissive and needy, is nowhere to be seen. Instead, Dimoldenberg does something that Perel must be deadeningly familiar with when meeting new people: she uses the episode as a free therapy session."
+   ],
+   "img": "https://i.guim.co.uk/img/media/0d6e63500b1964c08df7b610271dbb78fac6678a/0_501_3653_2922/master/3653.jpg?width=140&quality=85&auto=format&fit=max&s=3ed06da4c891917695f5bf6d57f9c43e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-diancomfashion2026nov27veruschkaobituary",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Veruschka obituary",
+   "author": "Veronica Horwell",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/fashion/2026/nov/27/veruschka-obituary",
+   "paras": [
+    "German model and artist whose bold and dynamic shoots made her one of the biggest stars of 1960s fashion",
+    "The aspiring model Vera von Lehndorff created “Veruschka” – little Vera – as a memorable alternative persona whose existence was performance art.",
+    "She used her natural resources: a 6ft-plus-tall body that, horizontal, could fill an entire glossy magazine spread; a face with magnificent bone architecture and feline eyes; and a long mane that was amenable to brutal short cuts and extraordinary coiffures. All were animated by her instinct for making shapes in air – not a model’s poses but a dancer’s movements that only a click of the lens could catch. Watch her seducing the camera of the photographer, played by David Hemmings , in Michelangelo Antonioni ’s 1966 film Blow Up to see her original act in action."
+   ],
+   "img": "https://i.guim.co.uk/img/media/bf851c6a028a5fb2c7347c94c476dd592db1e988/173_356_5555_4444/master/5555.jpg?width=140&quality=85&auto=format&fit=max&s=32dc367aaf1ad806185bffe39753f443",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-mentisfree2026nov27blackfridayinreallife",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "IRL Black Friday was a horrifying spectacle. I miss it so much | Dave Schilling",
+   "author": "Dave Schilling",
+   "date": "2026-11-27",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/27/black-friday-in-real-life",
+   "paras": [
+    "The days of coming to blows over a Furby before dawn are over. It was scary, but at least it was real",
+    "Congratulations. You’re alive. And for that, I applaud you.",
+    "You didn’t choke on a particularly large piece of pie or fall into a ditch on your post-Thanksgiving-meal walk. Thanksgiving is one of the more hazardous holidays on the American calendar, with all the binge eating, binge drinking and binge shopping."
+   ],
+   "img": "https://i.guim.co.uk/img/media/a6cf028c5b5b7c8083748372fc5cfb6194c51fa6/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=c82aee64377540819f96eb58eb27ee45",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
    "id": "f-geekwire-amestudiobuildsanoirdetectiverpginthesky",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -113,37 +886,6 @@
     "Aether & Iron is currently available for PC and Mac via Steam for $24.99. Seismic Squirrel plans to release the game for PlayStation and Xbox in 2027."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/20261108114642_1-1260x709.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-pacexmillionsatellitesstarminddatacenter",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "FCC clears SpaceX to put up to a million satellites in orbit for Starmind data center network",
-   "author": "Alan Boyle",
-   "date": "2026-11-26",
-   "url": "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/",
-   "paras": [
-    "The Federal Communications Commission has authorized SpaceX to send up to a million satellites into orbit for its Starmind data-processing network.",
-    "In a news release , the FCC touted today’s decision as “the first authorization in U.S. history for a constellation of data centers in space” and echoed the high-flown language that SpaceX used to describe the network in its application 10 months ago .",
-    "“It promises to bring the human race closer to a Kardashev II civilization — one that can harness the full power of the sun,” the agency said.",
-    "FCC Chairman Brendan Carr said the plan “opens a bold new frontier for the computing infrastructure needed to power America’s leadership and growth.”",
-    "Carr signaled that he was all in on the Trump administration’s support for rapid data center expansion, despite a growing backlash that figured in this month’s midterm elections. He said that “compute campuses or data centers are essential to sustaining America’s leadership” in artificial intelligence.",
-    "“By moving compute capacity beyond Earth, SpaceX and the many competitors working on their own orbital data centers are meeting the moment,” Carr said.",
-    "In a post to X , SpaceX CEO Elon Musk told Carr that his praise was “much appreciated.”",
-    "“This will be a great asset to America and the world,” Musk said.",
-    "Proponents of solar-powered orbital data centers say such constellations will address the top concerns about terrestrial data centers, including land use, power consumption and water requirements for cooling. Critics point to the engineering challenges, including concerns about cooling the satellites, managing space traffic and dealing with orbital debris.",
-    "In approving SpaceX’s application, the FCC rejected opposition from Amazon and Viasat, as well as from the American Astronomical Society, which raised concerns about the constellation’s impact on the night sky. The AAS said in a statement that it was “disheartened and dismayed” by the FCC’s decision.",
-    "The FCC attached several conditions to its authorization , including requirements for communications backups, regular updates and a detailed plan for orbital debris mitigation.",
-    "SpaceX was cleared to operate its satellites at orbits ranging from 500 to 1,002 kilometers (310 to 623 miles) in altitude. The first satellite is to be put into operation no later than 2033, and the FCC calls for the full constellation to be operating by 2040.",
-    "In August, SpaceX announced that it was partnering with Nvidia to design the compute payload for the Starmind AI1 satellite. “Each of the Starmind satellites will include Nvidia Rubin GPUs and Vera CPUs for datacenter-class space compute,” SpaceX said at the time.",
-    "SpaceX’s facility in Redmond, Wash., makes the satellites for the Starlink telecommunications network — but in a filing related to this year’s initial public offering , SpaceX said its operation in Bastrop, Texas, would be put in charge of producing AI compute satellites.",
-    "The FCC said it is continuing to review additional orbital data center proposals and intends to issue decisions on each proposal “according to the agency’s regular procedures.”",
-    "Among other companies planning data-processing satellite constellations are:"
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/261125-starmind2-1260x709.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -233,103 +975,6 @@
    "annos": null
   },
   {
-   "id": "f-cascade-urlastmeal202611yourlastmealxfoodfriends",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Your Last Meal x Food Friends",
-   "author": "Rachel Belle",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/podcasts/your-last-meal/2026/11/your-last-meal-x-food-friends/",
-   "paras": [
-    "In this special episode, host Rachel Belle is a guest on one of her favorite podcasts, Food Friends !",
-    "Food Friends aims to inspire home cooks to get creative in the kitchen. Each episode, chefs & hosts Sonya Sanford and Kari Lauritzen chat about the recipes they cooked that week and share their best bites. But in honor of Your Last Meal's 10th anniversary (!), they welcomed Rachel on to talk about:"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/FOOD_FRIENDS_x_YLM.png",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-wshourextrasbetweentheballoons1795650164",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Photographer gets rare view of Macy's Thanksgiving Parade",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/between-the-balloons-1795650164/",
-   "paras": [
-    "From her apartment, photographer captures unique view of Macy's Thanksgiving Day Parade"
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/ede7bd54-37dc-4090-96c1-5fc35755ede5.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-sorgshownewshourextrasnewswrap1795644123",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "News Wrap: Severe weather threatens holiday travel",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1795644123/",
-   "paras": [
-    "In our news wrap Wednesday, severe weather is threatening Thanksgiving travel for millions of Americans, authorities in Egypt say at least 30 are dead after a crash involving a fuel tanker sparked a massive fire near Cairo and the Treasury Department's financial crimes enforcement network suffered what it calls a \"cybersecurity incident.\""
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/1f1ad86d-da50-4258-8884-0785ec305abc.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-shownewshourextrascranberryjam1795634814",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Cranberry farmers adapt as climate change threatens harvest",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/cranberry-jam-1795634814/",
-   "paras": [
-    "Cranberries are a Thanksgiving fixture, and the United States produces most of the world’s supply. But growing them relies on a narrow window of time with the right conditions. With climate change, those conditions are shifting. For our Tipping Point series, special correspondent Ben Tracy with Climate Central shows us how scientists and growers are working to save the seasonal favorite."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/f088d0c2-aabd-45ed-8f22-543990e42477.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-hownewshourextrastrumpstariffs1795644066",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "How Trump's newest tariffs could impact American economy",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/trump-s-tariffs-1795644066/",
-   "paras": [
-    "The Trump administration announced plans for a new round of tariffs on China, the European Union and 12 other major trading partners. China would face the highest rate with a new 20% tariff on most products. To discuss how this will impact Americans and the economy, Lisa Desjardins spoke with Gavin Bade of The Wall Street Journal."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/a5163824-8870-426b-b876-1677b83ad657.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-newshourextraswarintheholyland1795644204",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Ex-Israeli generals defend Palestinians during olive harvest",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-26",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/war-in-the-holy-land-1795644204/",
-   "paras": [
-    "This week, Palestinians in the occupied West Bank are concluding their annual olive harvest, one that the U.N. says has been the most violent on record. In the first of two stories from Nick Schifrin and his team in the West Bank, he looks at how some Israeli settlers have dramatically increased their attacks on Palestinians, and what that says about a battle within Israel over its own future."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/d87bdeaa-3175-407d-b069-91b18ea15800.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-GZQcjk1MU4yZDJLTFNtdDQxemRHUnJXN2pLZwoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -344,429 +989,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-org20261126gs1155957congoebolaresponders",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-   "author": "The Associated Press",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-   "paras": [
-    "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-s1155955northkoreakimnuclearweaponstrump",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
-   "author": "The Associated Press",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
-   "paras": [
-    "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
-    "(Image credit: Korean Central News Agency)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ltrumptariffsiowadetonationfccfreespeech",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
-   "author": "Brittney Melton",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
-   "paras": [
-    "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-eblokitchennativeamericanfoodalbuquerque",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
-   "author": "Anastasia Tsioulcas",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
-   "paras": [
-    "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F06%2F3c7f4c4640bda21c7b9bb12a5fd4%2F2026-10-route66newmexicofood-39.JPG",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-memoriesofagoodmealcookbookchefalonshaya",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "'Memories of a Good Meal': How food made a difference during WWII",
-   "author": "Debbie Elliott",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
-   "paras": [
-    "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food.",
-    "(Image credit: Denny Culbert; June Hersh and Alon Shaya)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5376x1923+0+0/resize/5376x1923!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fcd%2F73b10cc14db88fb2861214832873%2Fl-r-june-hersh-steven-fenves-alon-shaya-authors-photo.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-aeltwittythanksgivingfoodculinaryhistory",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
-   "author": "Adriana Gallardo",
-   "date": "2026-11-26",
-   "url": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
-   "paras": [
-    "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5282x3036+0+0/resize/5282x3036!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F81%2F8cc1d862402f83522b27d6ff9fa2%2Fimg-1176.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-eighttrainsblockingstreetsdisruptinglife",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
-   "author": "Stephen Starr in Lockland, Ohio",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
-   "paras": [
-    "Communities say big railroad companies won’t act and that lawmakers are moving too slowly to address a major problem",
-    "The drive from the Lockland fire station to a house fire on Patterson Avenue should have taken no more than 45 seconds .",
-    "But East Wyoming Avenue and Davis Street were both blocked: a Norfolk Southern train was stopped across several streets – the fire engine had to turn around and take a detour via a nearby highway. By the time firefighters snaked through the highway traffic and reached the fire last month, seven minutes after the call came in, 89-year-old Marian Haefner was dead in her own home ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/347086ecbeee443f7c595432a73161a54f1a7615/146_0_1307_1046/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=e1d29545d1079e0a217cfef241b46315",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-blackfridayhouseholdessentialssalesdeals",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "We found 18 Black Friday deals on the day-to-day essentials everyone uses",
-   "author": "Marissa Miller",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/26/black-friday-household-essentials-sales-deals",
-   "paras": [
-    "Stock up on boring basics this Black Friday – you’ll thank yourself later",
-    "Our favorite bath towel is on sale for Black Friday",
-    "Visit our ultimate guide to Black Friday for more deals on Frame’s Arrow jeans and buy-it-for-life products – all carefully vetted by Filter US editors",
-    "When you think about all the items on your Black Friday wishlist, toilet paper and dish soap probably won’t crack the top 10. But if everything under the sun is on sale Black Friday weekend, it stands to reason that there are some good deals on household essentials , too – including some that we’ve put to the test on our own messes."
-   ],
-   "img": "https://i.guim.co.uk/img/media/125ef222e4db607264c33cffedd000e5effa68c4/0_443_3730_2985/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=774cee3237a8044564028ae777212edf",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-6nov26ahamortenharketparkinsonsdiagnosis",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "a-ha’s Morten Harket: ‘My Parkinson’s diagnosis wasn’t devastating. I have a new appreciation for the human organism’",
-   "author": "As told to Magnus Nome",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/music/2026/nov/26/a-ha-morten-harket-parkinsons-diagnosis",
-   "paras": [
-    "As the Norwegian pop trio’s frontman releases his new album Human Grace, he answers your questions on the devastating effects of fame, living in squalor in London, 80s nostalgia – and a certain bandmate’s denim underwear",
-    "You ’ ve described your new album, Human Grace, as revealing more of yourself than your previous work. Was there anything you found unexpectedly difficult to express through these songs, or anything that surprised you about yourself during the creative process? BarefootJax No. It’s an exploratory process, the activity of making new music. It’s about quieting yourself, being available to hear tiny little differences in vibes, to pick up a seed that will blossom into something – and then it goes from being nothing to becoming a thing, instantaneously. That has never changed for me. With a-ha, there wasn’t much time and peace for songwriting. Being the frontman takes a lot of focus.",
-    "What has changed is my access to the skilled tools – singing and guitar – due to the Parkinson’s medication side-effects. For this album, we found old recordings of my voice, some from over 10 years back. It hasn’t been devastating for me to get this diagnosis – it has been a blunt and impactful instrument to stop everything I was doing. I had to reassemble myself first, to understand what it is. Losing access to parts of myself I’ve taken for granted all my life, but also a new appreciation for the architecture of ourselves as an organism – it’s so impressive. It’s mind-blowing."
-   ],
-   "img": "https://i.guim.co.uk/img/media/4c79e0e6664360cf91b266321cc4709edd4d689d/0_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5cdf6dd418c9c51ecbd54fd52d7518e7",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-oklynnycbuildingcollapseresponsehomeless",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
-   "author": "Auzzy Byrdsell in New York",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless",
-   "paras": [
-    "Advocacy groups say displaced families were sent to ‘subpar hotels’ until 30 November, with no housing plans in place afterward",
-    "Flatbush community leaders are in an uproar on behalf of those who have been displaced in the aftermath of an apartment building collapse in Brooklyn earlier this month. They say some displaced tenants are in hotels until 30 November, but have no housing plans after that date.",
-    "Advocacy groups said that those who were displaced were sent to “subpar hotels” that were also home to roaches and mice. Stays were only set for up to four days, leaving community leaders to push for longer stays."
-   ],
-   "img": "https://i.guim.co.uk/img/media/fac2895d60d9d55b37ad5ec41937fa274d1e6ece/599_0_6865_5495/master/6865.jpg?width=140&quality=85&auto=format&fit=max&s=618e7b638068b0a6028f6bd58ae14bf2",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-m2026nov26cinemasgreatesteggscenesranked",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "You’re cracking me up: cinema’s greatest egg scenes – ranked!",
-   "author": "Morwenna Ferrier",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked",
-   "paras": [
-    "As You Can See Everything’s contention whisking scene beats movie-goers into a frenzy, here’s a taster of the most eggstraordinary moments on film",
-    "It’s breakfast time at the California home of Elizabeth Holmes, the disgraced former CEO of blood-testing company Theranos, and as the camera follows her lightly forking some eggs, boyfriend Billy Evans swoops in, grabs the bowl off her and begins demonstrating how it should be done."
-   ],
-   "img": "https://i.guim.co.uk/img/media/dcb64aed32804f0073cff8bc288dead61aa7b495/1155_0_2957_2367/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=436192a1723dfe6899da162246eba446",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ersasanewlysinglemanhowdoinavigatedating",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "I’m not interested in having sex with near strangers. As a newly single man, how do I navigate dating? | Leading questions",
-   "author": "Eleanor Gordon-Smith",
-   "date": "2026-11-26",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/im-not-interested-in-having-sex-with-near-strangers-as-a-newly-single-man-how-do-i-navigate-dating",
-   "paras": [
-    "You don’t have to have sex because it’s ‘what’s expected’, advice columnist Eleanor Gordon-Smith writes. But you may want to be explicit about what you do want",
-    "How do I navigate being single when I’m not interested in sex with near strangers? I don’t judge anyone, consenting adults can do whatever they like – but, for me, sex has to come with trust and, frankly, love, or at least the potential of love. I’m recently single after a long and toxic relationship, and I’ve never dated – I got on the dating scene and found that if I don’t try to get in someone’s pants by the third date, no matter how much of a nice time we’re having, they disappear – and in fact I’ve had some women do the old “call yourself a man” at me, in one memorable case, after they specifically said “not tonight” and I said “no problem” (the response was a frustrated “don’t you have needs?!”).",
-    "I’ve tried to go along with it and do what’s expected but I don’t enjoy it, it just feels a bit wrong, and when I’ve done this it kills the vibe we had, probably because I can’t get into it properly. I’ve always been into the person, not just the body, but it takes time to get to know someone enough to feel comfortable being intimate. So how can I keep a nice relationship going, so that I can develop the trust I need for sex, without them losing interest because I’m not doing (what I assume) everyone else on the dating scene is doing?"
-   ],
-   "img": "https://i.guim.co.uk/img/media/fc787683773a13cb148d66ae7a02acdaa1844129/72_696_1562_1248/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=7ca09a6512627507cce05219b4d2c25e",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc820q9wgrpyyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck053j37yr9loatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck62p4pzg4qyoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16b/live/d66be2a0-e9d0-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescq36gj12n0l3oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesck053epz2ppmoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Drug rape husband says wife 'would have been terrified', court hears",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The husband has told a jury that his wife \"would never agree to do any of this\"."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae0/live/75260700-e9a8-11f1-9b5c-f3f25f51795d.png",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosc6evr2y40v0joatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-   "author": "",
-   "date": "2026-11-26",
-   "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-etzionionai18waystouseaithisthanksgiving",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Etzioni on AI: 18 ways to use AI this Thanksgiving",
-   "author": "Oren Etzioni",
-   "date": "2026-11-25",
-   "url": "https://www.geekwire.com/2026/etzioni-on-ai-18-ways-to-use-ai-this-thanksgiving/",
-   "paras": [
-    "Here are 18 creative ways to use AI this Thanksgiving. Some save you time in the kitchen or at the airport, and others aim to make the meal more fun. The don’ts at the end could save your turkey, and my very last suggestion is perhaps the best.",
-    "Flight delay forecasting. Apps like Flighty (start with free tier) use machine learning to predict whether your flight will leave on time and why it might not.",
-    "Cancellation playbook drafted in advance. Have the backup flights and a rebooking script ready ahead of time, so a cancellation means consulting your AI instead of starting from scratch.",
-    "Airport pickup routing. Five relatives land at different times at two airports, and AI works out who drives whom. It can even send a polite request on your behalf.",
-    "A personal travel agent. Vayo (free, private beta), a new Seattle startup co-founded by my friend Mike Fridgen, connects to your inbox and pulls in your flight, hotel and restaurant confirmations. It keeps an eye on them for price drops and changes.",
-    "Oven Tetris. Give it your oven’s size, every dish’s temperature and the serving time. It works backward to a minute-by-minute schedule and flags the conflicts.",
-    "Decoding grandma’s recipe card. Photograph the card and have AI modernize it under one rule : it never invents quantities. “A pinch” stays “a pinch.” “un poco” or “ein bissl” may be translated, but not changed.",
-    "Reconstructing a lost dish. Several relatives describe a dish a late grandparent made. AI triangulates a recipe, you cook test versions, and the family votes on which one tastes right.",
-    "Pairing from the wines on hand. AI picks from bottles you actually own, and those brought over by guests, dish by dish, instead of a generic list. Last-minute fun!",
-    "Potluck dispatcher. One AI thread collects RSVPs and dish claims so you don’t end up with four green bean casseroles.",
-    "Trivia built from your own family’s facts. ChatGPT can now run it as a playable game, with answer buttons and a running score inside the conversation.",
-    "AI-prepped grandparent interview. Feed the AI what you already know and have it draft questions about the gaps. Record it, and afterward AI turns the transcript into a short illustrated booklet that’s in the mail by Christmas.",
-    "Angry Uncle rehearsal. Karin Tamerius, a political psychiatrist, built the Angry Uncle Bot , and it still runs in ChatGPT. A coach asks for your issue and your stance. You set the uncle’s temper from Annoyed to Apoplectic and choose whether he’s drunk or sober, and the coach critiques each reply before he answers.",
-    "Live interpreter for multilingual families. Put ChatGPT’s voice mode (paid plans) in the middle of the table so the great-aunt who only speaks Hebrew or Spanish is part of the conversation instead of watching it.",
-    "Friday leftover remix. Photograph the fridge and get a menu that makes Friday’s leftovers feel like a new meal.",
-    "Specific thank-you notes. Each note names what that person actually brought or said.",
-    "Photo triage. AI picks the best 20 of 400 photos and captions them in the family’s inside-joke voice.",
-    "“We missed you” letter for someone who wasn’t at the table. AI drafts it from the stories told at dinner.",
-    "Black Friday skeptic. Before you buy, check Google’s price insights , which tells you whether a price is high, low or typical for the past three months. Last year, 36% of Black Friday items showed no savings over their prices a few weeks earlier. Better yet, set a price track and let Google’s agent buy the item at eligible U.S. stores when it hits your number, after you confirm.",
-    "I consider myself an OG Black Friday skeptic. Back in 2011, I told the New York Times (gift link) that after crunching the price data at my startup Decide.com, the lowest electronics prices usually came in early December, not on Black Friday.",
-    "Don’t trust an AI turkey recipe on its own. Back in 2022, when the New York Times cooked a Thanksgiving from GPT-3 recipes, the turkey recipe called for one garlic clove for a 12-pound bird and no butter or oil. It came out dry and flavorless.",
-    "Don’t take a chatbot’s word on an airline’s rules. Air Canada’s chatbot told a grieving passenger he could claim a bereavement discount after he flew. The real policy said no, and he had to take the airline to a tribunal to collect $812 (Canadian). Check the airline’s own policy page, and screenshot what the bot tells you.",
-    "Don’t click on the deal of the century. Scammers now use AI to make fake shopping sites look legitimate, and the number of fake sites jumped 250% last holiday season, according to NordVPN . Type the retailer’s address yourself.",
-    "Don’t try to win the family argument with AI-fetched facts. Even the creator of Angry Uncle Bot says that bombarding your uncle with facts only makes him angrier. Ask questions and listen instead.",
-    "Here’s another option: give technology a rest.",
-    "Unplug from your devices and from AI, and have an AI-free, 100% human Thanksgiving."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/thanksgiving-turkey-smartphone-photo-1260x827.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-rosseightepisodeschasingclimatesolutions",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "‘Positive Charge’ season finale: What we learned chasing climate solutions across eight episodes",
-   "author": "Lisa Stiffler",
-   "date": "2026-11-25",
-   "url": "https://www.geekwire.com/2026/positive-charge-season-finale-what-we-learned-across-eight-episodes-chasing-climate-solutions/",
-   "paras": [
-    "Subscribe to Positive Charge : Apple Podcasts , Spotify , Amazon Music , All Episodes",
-    "Editor’s note: GeekWire reporter Lisa Stiffler, who covers climate and sustainability, co-hosts the Positive Charge podcast with producer Laura Scott.",
-    "We went inside a fusion lab in Everett, a jet fuel plant in Moses Lake and a factory in British Columbia giving old EV batteries a second life. We tasted plant-based chicken nuggets at 9 a.m. and stepped into a shipping container in Tacoma that destroys “forever chemicals.”",
-    "Over eight episodes, the inaugural season of the Positive Charge podcast from GeekWire went across the Pacific Northwest ( and beyond ) in search of promising climate and sustainability technologies to help humanity dig our way out of some pretty dire environmental straits.",
-    "While the challenge is huge — a warming planet, increased use of fossil fuels, toxic chemicals in our food and water — there are wide-ranging solutions out there, and many are taking hold.",
-    "On this episode, GeekWire co-founder Todd Bishop sits down with producer Laura Scott and me, the hosts of Positive Charge, to look back on the season. We explore the themes that emerged across the episodes, savor some highlights and even get a little emotional when discussing the question of whether all of it left us more hopeful about the planet.",
-    "Going behind the scenes. At Helion Energy in Everett, we got a sneak peek of a miniaturized fusion test device that was cordoned off and still under construction. To see it, we walked behind a huge plastic curtain, which Laura memorably compared to walking into the Costco dairy section.",
-    "Our podcast on alternative proteins went inside Rebellyous Foods , a startup manufacturing plant-based chicken nuggets being served in U.S. schools, as well as some medical and correctional facilities. We were offered a plate of the nuggets — which we scarfed down, despite the tour taking place first thing in the morning.",
-    "“My biggest regret of the whole season,” Laura said, “is that we did not take Rebellyous up on their offer to send us home with those chicken nuggets because you cannot buy them in stores.”",
-    "The importance of large, committed customers. A lot of these technologies are expensive propositions, from R&D to prototypes to scaling. “Having a willing and able corporate buyer is something that can really spark the innovation to happen,” Todd observed.",
-    "That includes Microsoft’s agreement to buy power from Helion , purchase agreements for sustainable aviation fuel from Twelve and Montana Renewables , and Redwood Materials ‘ deal to supply used EV batteries to power a data center for Crusoe . Rebellyous built its business on school lunch programs.",
-    "The essential role of organizations coming together collectively to support new sustainable technologies was a key message of a New York Climate Week panel, where I interviewed Kara Hurst, Amazon’s chief sustainability officer, and Jason Knauf, CEO of The Earthshot Prize.",
-    "We discussed the fact that when customers commit, it unlocks investments to scale production. That in turn lowers costs for everything from faux nuggets to cleaner jet fuel.",
-    "AI is driving the money. The data centers behind the AI boom are often cast as a threat to tech companies’ climate goals. In several episodes, they were also a reason for money to flow into clean energy.",
-    "“There’s so much money going into environmental solutions because of data centers,” Laura said. “It’s a catalyst for funding. It’s a catalyst for fusion.”",
-    "There’s money to be made. While many sustainability entrepreneurs are fundamentally mission-driven, they’re also focused on the fiscal bottom line and so are venture capitalists.",
-    "At Pacific Northwest Climate Week , Laura was struck by how enthusiastic investors are about the space, and not only because they want to save the planet. They’re “entirely self-interested,” she said, “and that’s what gave me hope.”",
-    "PNW is a sustainability hub. In each episode of Positive Charge, we toured a Pacific Northwest startup, plus we interviewed related companies outside the area and sector experts.",
-    "The local companies included Helion and Zap Energy in Everett, Aquagga in Tacoma, Sedron Technologies in Sedro-Woolley, Twelve in Moses Lake, Rebellyous in Seattle and Moment Energy in British Columbia.",
-    "The range of topics reinforced the region’s standing as a hub for sustainable tech, including batteries, fusion, aviation, environmental cleanup, and even potentially overlooked fields, such as end-of-life services.",
-    "Laura’s unexpected favorite episode was about startups offering human composting as a green alternative to burial or cremation, and Todd ranked it a close second (his No. 1 was EV battery reuse).",
-    "Seattle is home to Recompose — the first U.S. company to offer the service after its founder, Katrina Spade, spearheaded the effort in 2019 to make the practice legal. Since then, human composting startups Return Home and Earth Funeral have also launched in the Seattle area.",
-    "After exploring all of these technologies and talking to entrepreneurs, investors and leaders in the space, Todd asked if we were more or less hopeful for the planet.",
-    "“Definitely more hopeful,” Laura said. “I didn’t expect to feel more hopeful, though. I expected to feel about the same, or maybe a little bit worse.”",
-    "But seeing the financial case for these solutions helped shift her thinking. One example is Sedron, which is treating sewage waste with a technology that destroys PFAS forever chemicals and also generates enough clean electricity that the excess can be sold to others. Laura was impressed by the opportunity to do right by the environment while creating revenue.",
-    "I hover between hope and anxiety. But after years of covering these issues, I appreciated a sentiment shared by Earthshot finalist Franco Rodríguez Viau, CEO and co-founder of Satellites on Fire, who said he needs to do everything he can to tackle climate change, whether or not humanity succeeds in reaching its goals.",
-    "That’s how I feel about covering climate. As I mentioned on the show, I don’t know if I feel hopeful, “but I can’t feel indifferent. I have to show up and do this.”",
-    "Positive Charge is a GeekWire podcast sponsored by Amazon Sustainability."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/PXL_20261009_2010294091-edited-1260x870.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-snapchatandyoutubeleaveteensroomtoscroll",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Meta’s teen restrictions have a gap: TikTok, Snapchat and YouTube leave teens room to scroll",
-   "author": "Lisa Stiffler",
-   "date": "2026-11-25",
-   "url": "https://www.geekwire.com/2026/metas-teen-restrictions-have-a-gap-tiktok-snapchat-and-youtube-leave-teens-room-to-scroll/",
-   "paras": [
-    "Meta’s new teen restrictions, set to take effect by late February, could meaningfully curb endless scrolling. A new study suggests they probably won’t.",
-    "That’s because the restrictions, which are part of a settlement between Meta and dozens of attorneys general, including Washington’s, apply only to Instagram and Facebook. They leave out Snapchat, TikTok and Google-owned YouTube.",
-    "“The simple workaround right now is that you just switch platforms, and we already know that teens are on three to four platforms on average,” said Dr. Dimitri Christakis, a principal investigator at the Center for Child Health, Behavior and Development at Seattle Children’s .",
-    "Christakis led research published Wednesday showing Instagram and Facebook accounted for roughly 20% of total daily social media use for youth. So when the restrictions kick in, teens could just shift to other platforms.",
-    "The rules establish a two-hour daily limit combined across Instagram and Facebook, restrict access to content from midnight to 6 a.m., and mute most school-hour push notifications. Parents can adjust the protections, and direct messaging is exempt.",
-    "If the same limits were applied across the five most popular platforms, that could make a dent in teen usage, according to the research letter in the Journal of the American Medical Association .",
-    "In an analysis of recorded app activity from 1,803 adolescent Android users, the researchers estimated:",
-    "The study has no way of knowing how teens will respond to the restrictions or the impacts on their health. It simply estimates how much previously recorded activity would fall under the rules.",
-    "The researchers disclosed ties to social media litigation. Christakis reported paid legal consulting work, including for Washington’s attorney general, and co-author Lauren Hale of Stony Brook University reported fees for serving as an expert witness. The third author is Yihong Zhao of Columbia University.",
-    "Despite the limited benefits of the coming restrictions, Christakis said they’re a “step in the right direction.”",
-    "“Let’s say it’s an incremental improvement. It’s clearly not going to be enough by itself because of what our study found,” he said. “But these are the right kinds of restrictions. We need to make them universal, and we need to enforce them.”",
-    "Meta, not surprisingly, is in favor of having the restrictions apply industry wide.",
-    "When the settlement was announced in August the company issued a statement saying that “ensuring teens have a safe and productive experience on our platforms is an absolute imperative.”",
-    "Meta called on others to do the same: “For meaningful progress to happen, we urge TikTok and YouTube to join us and state attorneys general in adopting this new standard…”",
-    "The agreement resolves claims by 48 states, Washington, D.C., and U.S. territories that Meta designed addictive platforms and failed to protect young users, among other allegations. Meta did not admit wrongdoing.",
-    "In addition to the safety changes, Meta agreed to pay participating governments up to $17.1 billion over a decade, according to Washington’s attorney general. Washington will receive at least $237 million and could receive nearly $339 million.",
-    "The higher settlement is unlocked only if TikTok and YouTube adopt similar protections and make payments of their own, according to Meta. If that happens, additional restrictions kick in, curbing access on all the platforms from 10 p.m. to 7 a.m.",
-    "Those additional hours are significant. The researchers found nearly as much use between 10 p.m. and midnight as during the entire midnight-to-6-a.m. window covered by the initial limits.",
-    "Whether the other companies will follow remains unclear. All five social media platforms are named in additional legal challenges alleging harm to youth, Reuters reported, including suits filed by individuals, school districts and municipalities.",
-    "In September, TikTok reached its first settlement in a state-led case, agreeing to teen usage restrictions in Alabama and a payment of at least $100 million, according to Reuters. YouTube CEO Neal Mohan, meanwhile, dismissed joining Meta’s agreement and emphasized his company’s own safety efforts, CNN reported.",
-    "Christakis said both time spent on social media and the platforms’ features can exacerbate problems involving sleep, mental health, body image and attention. He hopes the growing body of research translates into action.",
-    "“I’m not a legislator, and I’m not an advocate. I’m a scientist that’s really trying to make sure that we apply science in the best interests of our children’s health,” he said. “And in this space, in particular, we haven’t been doing that.”"
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2025/02/PXL_20250224_230900662.PORTRAIT-1260x945.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -935,7 +1157,7 @@
    "paras": [
     "Seattle residents will have new ways to help shape a plan for reconnecting neighborhoods divided by I-5 including Capitol Hill, Eastlake, and downtown. Led by the Seattle Office of Planning and Community Development , the Reconnecting Communities Across I-5 project is launching public engagement activities to gather resident feedback and establish the priorities guiding future work.",
     "The study area stretches from South Lake Union to the Chinatown International District, spanning four City Council districts and seven neighborhoods.",
-    "The effort builds on decades of city history and grassroots organizing around the highway’s impact on Seattle. When I-5 was built in the 1960s, it displaced homes and businesses and cut downtown off from eastern neighborhoods like Capitol Hill and First Hill, leaving nearby residents facing ongoing pollution, noise, and physical barriers. The construction also sparked the historic Seattle Freeway Revol — a protest movement that stopped later freeway expansions from tearing through the Central District.",
+    "The effort builds on decades of city history and grassroots organizing around the highway’s impact on Seattle. When I-5 was built in the 1960s, it displaced homes and businesses and cut downtown off from eastern neighborhoods like Capitol Hill and First Hill, leaving nearby residents facing ongoing pollution, noise, and physical barriers. The construction also sparked the historic Seattle Freeway Revolt — a protest movement that stopped later freeway expansions from tearing through the Central District.",
     "Out of that era came Seattle’s original freeway cap, Freeway Park , which opened on July 4, 1976. Designed by Lawrence Halprin & Associates , the park was created as an open green space to physically bridge the divide between downtown, First Hill, and Capitol Hill.",
     "In the decades since, neighbors and advocates have pushed to build on that model and quiet the roar of the freeway — while also creating new neighborhoods above the busy interstate.",
     "Starting in 2010, the citizen-led Lid I-5 group began holding community design workshops to picture covering sections of the highway between Madison and Thomas streets with parks, schools, affordable housing, and shops, effectively creating new land in the heart of Seattle.",
@@ -1078,40 +1300,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-paMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGcoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Extreme tides start to land on Washington coast",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFRlLTJBczZvTkRsbGtTSVlTV25NUWFialRnUEN0YW5jczM4b2NZZjhNNDg2d2NXbWdMWUxtUFo2QUE2NkwyT1RzdXg5WGVyRVkwa2E4TXlyc3Y3X0taR1VTNVZsZnZiS0MzbDVGd0dtNFN6MHFxbW1jeEpaMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGc?oc=5",
-   "paras": [
-    "Extreme tides start to land on Washington coast KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-NSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "How one Seattle food bank navigates challenging times and continues to grow",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZfS1UzVHFpcWdvb2tzVE51ZE5uZXBzTktBTXhRNmpLUFNuaTRoXzZzNlY5ekw0QlZvbkJlSHJwMElUSWh4bldXdHRvNXduTHc4Vjg0cmRQYTJUUk5HS1hxdjVISjhaU2tSNjJrUTJQNXZock9nY1l6akhsVl9kaU56NVF5MnlSbEFYSGR3eFB3VkswTTdNSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13?oc=5",
-   "paras": [
-    "How one Seattle food bank navigates challenging times and continues to grow KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-propublica-egonhousingcouncilandreabelljoshuacrites",
    "srcKey": "propublica",
    "cat": "local",
@@ -1161,6 +1349,40 @@
    "img": "https://www.propublica.org/wp-content/uploads/2026/11/updated-final-michelle-urra_maxHeight_3000_maxWidth_3000.jpg?w=1149",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-paMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGcoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Extreme tides start to land on Washington coast",
+   "author": "",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFRlLTJBczZvTkRsbGtTSVlTV25NUWFialRnUEN0YW5jczM4b2NZZjhNNDg2d2NXbWdMWUxtUFo2QUE2NkwyT1RzdXg5WGVyRVkwa2E4TXlyc3Y3X0taR1VTNVZsZnZiS0MzbDVGd0dtNFN6MHFxbW1jeEpaMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGc?oc=5",
+   "paras": [
+    "Extreme tides start to land on Washington coast KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-NSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13oc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "How one Seattle food bank navigates challenging times and continues to grow",
+   "author": "",
+   "date": "2026-11-25",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZfS1UzVHFpcWdvb2tzVE51ZE5uZXBzTktBTXhRNmpLUFNuaTRoXzZzNlY5ekw0QlZvbkJlSHJwMElUSWh4bldXdHRvNXduTHc4Vjg0cmRQYTJUUk5HS1hxdjVISjhaU2tSNjJrUTJQNXZock9nY1l6akhsVl9kaU56NVF5MnlSbEFYSGR3eFB3VkswTTdNSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13?oc=5",
+   "paras": [
+    "How one Seattle food bank navigates challenging times and continues to grow KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1396,32 +1618,6 @@
    "annos": null
   },
   {
-   "id": "f-geekwire-lboardstrolltechadsandtellpeopletolookup",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "More art, less artificial: Seattle Art Museum billboards troll tech ads and tell people to look up",
-   "author": "Kurt Schlosser",
-   "date": "2026-11-24",
-   "url": "https://www.geekwire.com/2026/more-art-less-artificial-seattle-art-museum-billboards-troll-tech-ads-and-tell-people-to-look-up/",
-   "paras": [
-    "A billboard taking a swipe at Anthropic’s Claude might sound like the work of a rival AI company. This one is from the Seattle Art Museum .",
-    "“The only Claude you need is Monet,” the sign reads. It’s part of the latest wave of messages in SAM’s “Dear Seattle” campaign, which has spent the fall urging people to look up from their screens and see something in person.",
-    "Earlier billboards around the city told passersby to “come stare at something that isn’t your inbox” and noted that “even the algorithm thinks you should get out more.” The final batch pushes the AI jokes further, including one asking for “a little more art and a little less artificial” and another promising, “Your phone doesn’t have to know.”",
-    "Tech billboards are a fixture in the San Francisco Bay Area, where AI startups cover Highway 101 and city streets with ads that often mean little to anyone outside the industry.",
-    "They’re less common around Seattle. Anthropic put up a big orange Claude billboard over Aurora Avenue in 2024, and this spring Bellevue startup Summation put one up along SR 520 because “startup energy should be more visible around here,” its CEO told GeekWire.",
-    "“In a city where so much of our lives happens on screens, we’re making a playful case for the things you can only experience in person,” Kat Bryant Flaherty, SAM’s director of communications, said in a statement. She listed “the scale and texture of an artwork, a film with a room full of strangers, making something with your hands, or catching up with a friend over a meal.”",
-    "The campaign is tied to changes at the downtown museum itself, where SAM is adding more public space and more reasons to linger, including hands-on art making and music in the Studio at SAM and the newly opened Bar Dojo restaurant.",
-    "The campaign runs through the end of the year, with more than 200 ads across the region — more than 20 billboards plus spots on light rail and digital kiosks.",
-    "SAM’s campaign is about the same size as the one Bellevue startup Statsig ran in the Bay Area in 2024, with more than 200 billboards and transit posters, but pointed in the opposite direction.",
-    "SAM is offering buy-one-get-one-free tickets in December with the code “LOVESAM,” good at both the downtown museum and the Seattle Asian Art Museum in Volunteer Park, to encourage people to visit together.",
-    "“We’re hoping to grab attention, spark curiosity, and remind Seattle that there’s a lot happening at SAM worth leaving the house for,” Flaherty said."
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/sam-claude-monet.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-sitblogcom20261124delridgestationbusloop",
    "srcKey": "stb",
    "cat": "transit",
@@ -1445,61 +1641,6 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-hesforwardstationactivationandretailplan",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Sound Transit Inches Forward Station Activation and Retail Plan",
-   "author": "Doug Trumm",
-   "date": "2026-11-24",
-   "url": "https://www.theurbanist.org/sound-transit-inches-forward-station-activation-and-retail-plan/",
-   "paras": [
-    "In leading transit systems around the world, shops and cafes are often integrated into the fabric of stations, with busier hubs even melding into full-scale shopping malls. That's decidedly not the case for the retail-scarce Sound Transit network or for most other agencies across the Seattle metropolitan area.",
-    "However, as Sound Transit has grown into the busiest light rail system in the United States, boasting more than 160,000 daily riders, policymakers are beginning to ask if it's time to change that. Sound Transit has implemented a few pilot programs, but a broader activation strategy could be on the horizon, potentially building out retail and community programming on a larger scale.",
-    "\"Much of the work is still in early testing and pilot stages, but we are refining proof of concepts, and we do have an eye for wider expansions,\" Marie Olson, Sound Transit's executive director of rider experience and operations, told agency board members during a November 5 meeting.",
-    "Most of Sound Transit's early efforts at retail installations are located outside of Seattle, although Seattle (which is home to a majority of the region's light rail ridership ) has seen a few temporary markets and festivals near its stations.",
-    "Early efforts at creating permanent retail at Seattle stations have failed to take root. One enterprising vendor pushed to open up a coffee cart at Capitol Hill Station, but health code hurdles and general bureaucratic morass forced them to close up shop, as The Urbanist reported in June. Capitol Hill remains one of Sound Transit's busiest stations, so the opportunity remains once startup hurdles are cleared.",
-    "In 2022, Sound Transit welcomed a coffee shop before the neighboring Redmond Technology Station had even opened to light rail riders. At a presentation to the Rider Experience and Operations (REO) Committee on November 5, Marshall Foster, chief planning and development officer for Sound Transit, christened the project a success, pointing out that the Microsoft campus provides a built-in audience for the Dote coffee bar.",
-    "\"That's your more traditional, built-out brick-and-mortar retail space,\" Foster said of Redmond's Dote bar. \"I think we learned there that the power of having a built-in daily audience and market for retail is critical.\"",
-    "While Microsoft's Redmond HQ campus touts a headcount above 50,000, the light rail station next door is posting more modest figures, with just over 1,000 daily boardings. That's about a quarter of the boardings typically seen at the median 1 Line station, suggesting ample retail opportunities across the system. The modest ridership so far also hints that a good chunk of customers are visiting the coffee bar without riding light rail before or after.",
-    "In 2023, the agency opened The Roadhouse in Angle Lake, serving as a community performance space. That endeavor followed a failed attempt to establish a more retail-focused concept in the space, illustrating the value of tailoring a storefront to local needs and demand.",
-    "In 2025, a coffee shop opened at Lynnwood Station, and a hotdog stand recently set up shop at Federal Way.",
-    "\"At Lynnwood City Center Station, we had a vacant space, which was purpose-built for a cafe-style vending, and we worked closely with Lynnwood and Snohomish Chambers [of Commerce],\" Olson said. \"We spread the word out to get solicitations. We also worked with the City of Lynnwood to get that word out. Caffe Ciao is in there now. They opened in the summer of 2025. Today they operate seven days a week, Monday through Friday, 5 am to 5 pm and Saturday and Sunday, 8 am to 3 pm. And they just renewed their lease for another two years.\"",
-    "Olson noted that Federal Way's hot dog stand is on a seven-month trial run.",
-    "\"Our newest vendor [...] is Whatzz Up Dogg,\" Olson said. \"[It] just opened this summer at Federal Way Downtown Station Plaza, and it's got a seven-month trial. It's a great spot, and it really brings that station to life if you've been out there.\"",
-    "Tacoma Councilmember Kristina Walker, who chairs the REO committee, agreed with Olson, saying the hot dog vendor \"is the nicest, friendliest, most welcoming person ever, and he really has changed the energy at that station, I love it. So more of that. He's doing a great job.\"",
-    "Systemwide, riders have expressed strong interest in station retail, according to agency surveys.",
-    "\"We did some survey work of our riders,\" Foster said. \"We found that a little over 60% strongly wanted to see us bring more retail experiences into the station environment as part of their commute.\"",
-    "Sound Transit is looking at meeting that demand, where possible.",
-    "The next round of vending rollouts aim to put Seattle on the map, targeting the busiest station in the light rail system, Westlake, and the highest performing Eastside station, Bellevue Downtown. Westlake averages about 17,000 daily boardings, while Bellevue Downtown attracts around 2,500.",
-    "\"Other pilots in the works include mobile coffee carts at Westlake mezzanine,\" Olson said. \"We're also in the final stages of permitting a few beverage carts in the Bellevue Downtown Station. We're also scoping potential locations for vending machines at some stations. Initially, the three Federal Way Extension stations have good potential.\"",
-    "Westlake used to feature direct access to Nordstrom's department store from the mezzanine level, but that door has since been closed, with security cited as the reason. There is still a connection to Westlake Mall.",
-    "While the agency has been gradually rolling out pilot projects, Sound Transit has also been refining its broader vision for station activation. Foster pointed to hosting the FIFA World Cup and expanding the 2 Line across Lake Washington as watershed moments that pushed the agency to zoom out and look bigger picture about its longer term goals around retail and activation.",
-    "Earlier this year, as part of World Cup operations, Sound Transit set up an information booth in the former bus pass kiosk at Westlake, which had been turned into a security booth. Since then, the agency has kept the kiosk open.",
-    "\"So, this is our strategic vision for station activation: We're striving to make each station reflective of the community in which it sits,\" Olson said. \"Station activation will transform waiting and transitional spaces into engaging, welcoming, and community-centered environments that improve passenger experience.\"",
-    "The visioning work identified four pillars to station activation.",
-    "\"Sound Transit is organizing station activations within four pillars that activate, engage, partner, and manage,\" Olson said. \"Coffee carts, beverage vendors, farmers markets, food carts, pop-up retail, those will all be defined as 'activate' with an outcome of increased customer satisfaction and passenger comfort.\"",
-    "Sound Transit hosted 22 farmers markets this year at Angle Lake Station, Olson noted, with the help of African Community Housing and Development Ground, which organized the markets.",
-    "\"Sound Transit is seeking an outcome of stronger emotional connection for passengers with their transit experience,\" Olson said. \"Think live music, local artist features, arts and crafts, cultural celebrations. Sound Transit plans to continue to partner with local businesses and community organizations and artists.\"",
-    "The agency's \"partner\" pillar simply denotes an intent to increase partnerships with local businesses and community organizations and artists. Manage, meanwhile, was focused on crowd management during high-ridership events.",
-    "\"The FIFA World Cup was held this summer. Sound Transit worked with over a dozen vendors to create programming at numerous stations downtown and across the system,\" Olson said. \"Memorably, one of the most popular performances was the group that dressed up as astronauts and engage the crowds waiting to board the trains at International District Chinatown stations. These activities help create a festive atmosphere. They helped the crowd's spirits stay high, even when they were facing the long boarding times – great examples of implementing how we managed as a pillar of activation, integrating activities at stations to help manage the crowds.\"",
-    "Sound Transit has also advanced similar plans at Sounder stations and is considering Tacoma T Line streetcar stations. On the Sounder S Line, Auburn and Kent have retail as part of transit-oriented development projects. The staff presentation called out the five following early activation projects:",
-    "Through the first phase of study, Sound Transit also improved mapping of station areas, with an eye toward making it easier to throw events, such as farmers markets or festivals on the premises. For example, staff slides featured a Lynnwood City Center Station map that called areas that would require fire marshal approval to stage for events, while recommending locations for a main stage, tents, portable restrooms, food trucks, and additional food services.",
-    "Based on its initial research, Sound Transit appears to be gravitating toward outsourcing the work of overseeing and designing the retail program to third-party contractors – which is a well-established pattern for the agency, with outside vendors also performing core functions like security, transit engineering, marketing, etc.",
-    "\"One of the critical things is what is our management model?\" Foster said. \"Is this something Sound Transit manages itself like we do our system, or do we bring in industry expertise? In this case, I think we're leaning, based on the experience of our team and talking with other systems across the country, that we should potentially bring in some third-party partners who are experts in retail to help manage this component of our system.\"",
-    "Part of the obstacle to rolling out food service enterprises are health code requirements for bathrooms and sinks and other utilities and infrastructure that many stations lack, at least in the public portion of the station.",
-    "\"Whether it's utilities or access to restrooms, the very specific requirements of Seattle King County Public Health around that and other public health agencies, that's critical work that we'll be doing as part of that next phase,\" Foster said.",
-    "Foster expects to return to share findings with the board in 2027.",
-    "While the first two phases of Sound Transit's expansions have been completed with very few retail venues included in stations and limited opportunities to easily add them after the fact, Sound Transit 3 (ST3) projects are still in fairly early phases of design and present opportunities for retail and community spaces to be incorporated from the jump. Of course, the catch is that ST3 projects are already under severe budgetary strain and could face pressure to avoid costs seen as tertiary or optional in order to ensure the projects make it across the finish line.",
-    "On the other hand, some have argued that rider comfort and basic amenities that improve it should not be treated as expendable and easily jettisoned. Retrofitting those amenities later could end up being more expensive in the long-run with less optimal outcomes possible when not designing stations for activation from the beginning.",
-    "King County Councilmember Claudia Balducci said that work to retrofit retail facilities into existing stations could in turn expand rider amenities for non-patrons by providing public bathrooms at more stations. Conversely, designing stations to have public bathrooms from day one is good for the daily rider experience, beyond just retail and festival opportunities.",
-    "\"I just want to add my voice to anything we can do to make the station areas more comfortable for our riders,\" Balducci said. \"As we do longer term retail leases, particularly, I'm very supportive of us working with our partners to open those bathrooms to riders that exist for the purposes of whatever retail they may be doing.\""
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Westlake-Station-mezzanine-with-passengers---Trumm-PXL_20260221.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-ulimanrebootswithchickenmintishexpansion",
    "srcKey": "chs",
    "cat": "local",
@@ -1511,54 +1652,6 @@
     "The shelves at El Lugar (Image: El Lugar)"
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2014/09/Brendan_McGarry_120117_00072-2.jpg?w=125&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-dcarjackingattemptbutsuspectseludepolice",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Seattle Real Time Crime Center video captures Capitol Hill armed carjacking attempt but suspects elude police",
-   "author": "Justin Carder",
-   "date": "2026-11-24",
-   "url": "https://www.capitolhillseattle.com/2026/11/seattle-real-time-crime-center-video-captures-capitol-hill-armed-carjacking-attempt-but-suspects-elude-police/",
-   "paras": [
-    "It will be a quieter holiday week on CHS but we’re still working. See something others should know about? Email CHS or call/txt (206) 399-5959 . You can view recent CHS 911 coverage here. Hear sirens and wondering what’s going on? Check out reports from @jseattle or join and check in with neighbors in the CHS Facebook Group .",
-    "Surveillance cameras part of Seattle’s Real Time Crime Center captured video of an armed attempted carjacking that ended on Capitol Hill early Saturday morning but the suspects were able to elude officers following a brief I-5 pursuit, according to the Seattle Police Department .",
-    "The incident unfolded around 12:22 AM when a frantic driver sped up to officers patrolling the nightlife district near the 1000 block of E Pike. The victim reported that a Dodge SUV carrying four men had been chasing him, and that an occupant of the SUV armed with a firearm exited the vehicle at one point and tried to enter his car before he managed to flee.",
-    "Using the city’s camera network, police say the Real Time Crime Center located video evidence showing the victim’s account of the chase and armed confrontation.",
-    "Using the suspect vehicle’s description, officers canvassed the area and spotted a matching Dodge SUV leaving the neighborhood. Police attempted a traffic stop before the SUV could merge onto southbound I-5, but the driver refused to pull over.",
-    "Officers were authorized to begin pursuit heading south on I-5, though police eventually were forced to terminate the chase near the city limits, SPD said.",
-    "SPD said the Tacoma Police Department contacted the Dodge’s registered owner, who claimed the SUV had been stolen without having yet been reported. No arrests have been announced as the investigation continues.",
-    "The incident comes as Mayor Katie Wilson has signed off on the expansion of SPD’s Real Time Crime Center camera system that will include new installations on Capitol Hill in the Pike/Pine area and in the Central District around Garfield High School . Officials have vowed to address privacy and law enforcement overreach concerns identified in audits of the system.",
-    "Even as the the city moves forward with the new installations, SPD has access to Seattle Department of Transportation cameras in the area around where Saturday’s incident took place.",
-    "One audit found Real Time Crime Center staff have access to view 538 cameras under the current system. Private camera integrations through Axon’s “Connect Seattle” program also tie into the system, operating without caps, deployment criteria, or technical masking to prevent private areas such as residential windows from being filmed"
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/chs-1512.jpg?resize=183%2C254&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-chs-fkingcountyregionalhomelessnessauthority",
-   "srcKey": "chs",
-   "cat": "local",
-   "title": "Wilson, Zahilay make their pick for interim leader to oversee downsizing of King County Regional Homelessness Authority",
-   "author": "CHS Staff",
-   "date": "2026-11-24",
-   "url": "https://www.capitolhillseattle.com/2026/11/wilson-zahilay-make-their-pick-for-interim-leader-to-oversee-downsizing-of-king-county-regional-homelessness-authority/",
-   "paras": [
-    "Seattle Mayor Katie Wilson and King County Executive Girmay Zahilay have tapped Mark Ellerbrook to serve as interim CEO of the King County Regional Homelessness Authority.",
-    "The move follows the resignation of Kelly Kinnison earlier this month . Kinnison was hired in 2024 as the troubled organization’s fifth leader and was part of the effort to surface the financial issues that have the authority in a $16.7 million hole.",
-    "Wilson and Zahilay’s announcement says Ellerbrook brings nearly 20 years of city and county experience in housing and government administration, most recently serving as as part of Wilson’s leadership team at City Hall. He will take a leave of absence from the city to step into the role.",
-    "With approval by the KCRHA Governing Board, the announcement says Ellerbrook’s priorities will include strengthening the agency’s financial controls, navigating uncertain federal Continuum of Care funding, and overseeing the January 1, 2027 transition of locally funded contracts back to Seattle and King County.",
-    "The downsizing of the authority began this summer as officials were forced to restructure the KCRHA after the audit was revealed.",
-    "The KCHRA’s budget was proposed as $205 million in 2026 with about 60% coming from Seattle and the rest from the county and state and federal pass-through grants.",
-    "Some continue to call for the downsizing organization to be shut down completely.",
-    "The authority was formed as officials pledged the new effort would consolidate efforts to address the homelessness crisis at a broader, more regional level. At one point growing to a $250 million a year effort, KCRHA was officially established in late 2019 through an Interlocal Agreement between the county and the City of Seattle under then- Mayor Jenny Durkan and then- King County Executive Dow Constantine ."
-   ],
-   "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2026/11/unnamed-6.png?resize=182%2C241&ssl=1",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1637,23 +1730,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-ZhV2tqa1VvRThmYnFFdVdFVVZKWXJnTWkxa0Eoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "PNW braces for El Niño-fueled, possibly record-breaking king tides",
-   "author": "",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3hUNHA1T2EzdEtHV1dNUjM5MlNMd0tvWnFPUVh5TnpmX2lwRW90dDQ3Q1JlNmhIbnFTcU0tc2EzcWZYN2d1aDhhNnNjbVJ4SjRXYVNwVkRYLU0xWWdaV0hFNl8zOE03VlJFRFVYbGRxRDlaU3ZtVlBWamgzVUFEVDZYenhfSFdXenNOYWEtdzdJYnZhV2tqa1VvRThmYnFFdVdFVVZKWXJnTWkxa0E?oc=5",
-   "paras": [
-    "PNW braces for El Niño-fueled, possibly record-breaking king tides KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-jU1Q2aWVqUWdxQ3h3YzlhaWxlMFNLdDNHcG9noc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1668,43 +1744,6 @@
    "fetched": true,
    "fullText": false,
    "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-urbanist-arsentoditchcarcentricbuildamerica250act",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Transit Advocates Push Larsen to Ditch Car-Centric 'BUILD America 250 Act'",
-   "author": "Ryan Packer",
-   "date": "2026-11-23",
-   "url": "https://www.theurbanist.org/transit-advocates-push-larsen-to-ditch-car-centric-build-america-250-act/",
-   "paras": [
-    "A Washington congressman is finding himself at the heart of one of the first major fights unfolding ahead of January's Democratic takeover in Congress, with billions of dollars in federal transportation funding on the line.",
-    "Among the many leadership positions about to change hands in Washington, the next chair of the House's Transportation and Infrastructure committee is very likely to be Rick Larsen. And Larsen, who represents Washington's 2nd Congressional District including Bellingham, Everett, and the San Juan Islands, is facing pressure from advocates to rethink plans to advance a transportation funding package he negotiated with Congressional Republicans earlier this year, known as the \"BUILD America 250 Act.\"",
-    "The BUILD Act was rolled out in May, as a replacement for the expiring, Biden-era Investment in Infrastructure and Jobs Act (IIJA). At the time, Larsen touted the bill as investing $580 billion in \"job-creating infrastructure,\" highlighting elements like a boost in federal funding for ferries.",
-    "But as the Bipartisan Policy Center noted at the time , the guaranteed funding levels in the bill would represent a decrease in federal support for public transit compared to the IIJA while at the same time boosting spending on highways.",
-    "Analysis from the Georgetown Climate Center concluded that full enactment of the BUILD Act would spike carbon emissions annually by 14 to 22 million metric tons, and lead to more than 1,000 additional road deaths due to a pivot away from safety infrastructure.",
-    "So the news that Larsen was planning to use the BUILD Act as the template for the next federal transportation package, in the wake of the largest electoral victory for Democrats since the 1970s was met with widespread alarm among those who follow federal transportation policy.",
-    "\"We are not starting from scratch. We just don’t have the time to start from scratch, the capacity to start from scratch,” Larsen said in an interview with POLITICO earlier this month. \"We have a good bill to start with.\"",
-    "Larsen added that committee members would likely insert additional items \"that the Democrats would be more supportive of\" while they \"move some things around underneath the top line.\"",
-    "Larsen has a reputation for being pro-transit, regularly appearing at Sound Transit ribbon cuttings and referencing his past efforts to secure $1.8 billion in federal funding for Lynnwood Link in 2018. But with transportation funding not likely to get a significant amount of national attention compared to other issues tackled by a newly Democratic Congress, there are no assurances that the flaws in the BUILD America 250 Act are going to be fixed.",
-    "Transportation advocacy organizations have been pushing Larsen to fully ditch the BUILD Act, framing the recycling of the bill as a generational mistake.",
-    "\"Incoming House leaders should not advance a bill that was produced with the help of so many members of Congress who just got sent home by their voters. And on the flip side, the huge influx of new members who were just sent to Washington should get their chance to craft a different approach to transportation—a new Congress should mean a new sheet of paper,\" Transportation for America's Steve Davis wrote in a blog post on November 6. \"The dynamics have certainly changed. A better deal can be had. Congress should bury the BUILD Act and start over fresh.\"",
-    "An action alert to push Larsen has already generated more than 16,000 letters on the issue.",
-    "\"The BUILD America 250 Act would commit the country to another five years of traffic, pollution, and expensive car dependence while leaving public transit systems without the funding they desperately need,\" that action alert from National Campaign for Justice noted.",
-    "The IIJA expired on September 30, with Congress approving a stopgap spending bill that slashed transit and rail spending that extended that deadline to December 11. Another extension is all but certain,",
-    "While future levels of transit spending remain an open question, Larsen will also be tasked with managing the fact that the Trump administration has been refusing to spend the transit funding that's already been approved. In a letter sent earlier this month to Office of Management and Budget Director Russell Vought and the Acting Director of the Federal Transit Administration (FTA), Larsen joined with Senators Patty Murray and Elizabeth Warren to call out \"holding infrastructure dollars hostage,\" per a press release .",
-    "Murray is set to take the gavel in the powerful Senate Appropriations committee, putting her in the driver's seat on future federal transportation spending as well.",
-    "\"[W]e have watched for months as FTA and OMB have stonewalled the progress of worthy transit projects,\" the letter stated. \"Your agencies have neglected for a year to advance the Boston Green Line Transformation project and the Los Angeles Southeast Gateway Line to the [Capital Investment Grant] Engineering phase under current program rules that were adopted in November of 2025 – without any justification or explanation for the delay.\"",
-    "While no Seattle-area transit projects were referenced in the letter, Sound Transit is counting on FTA dollars as it moves toward construction on the West Seattle and Tacoma Dome Link Extension projects, with a failure to secure those grants likely having cascading impacts on a financially strained system expansion plan that already took a big hit earlier this year . Meanwhile, the Draft Environmental Impact Statement (DEIS) for the Ballard Link Extension has been held up by federal review for over a year, only now being released on December 11.",
-    "For its part, King County Metro announced this summer it was no longer seeking federal funding for its RapidRide R Line enhanced bus project, preferring to go it alone. Officials framed defederalizing funding as speeding up project delivery given the run around the FTA has given many transit projects. Metro is still counting on federal funding for its RapidRide K Line , which will run between Kirkland's Totem Lake and Eastgate in Bellevue.",
-    "The federal threats to transit funding don't stop there. Earlier this fall, FTA advanced a rule change that would revamp eligibility criteria on one of its biggest transit grant programs, making it harder for projects to qualify – and apply retroactively to projects already in the pipeline. If implemented, that would scale back federal transit funding even further, shifting costs back onto transit agencies that aren't prepared to shoulder the burden.",
-    "“The new guidance is a part of the Trump administration’s systematic campaign to reduce or eliminate funding for new transit projects,” Yonah Freemark, principal research associate at the Urban Institute, told Streetsblog . “It’s basically a crisis for transit agencies.”",
-    "Washington's congressional delegation, including Larsen and Murray, is set to be put in a prime position to be able to help confront that crisis, but it remains to be seen whether that's going to be enough to resist a full-out federal assault on sustainable transportation options including public transit."
-   ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/240827_LLE_GCR_Ride-PB-0007.jpg",
-   "fetched": true,
-   "fullText": true,
    "annos": null
   },
   {
@@ -1742,40 +1781,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-QxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0Eoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "SpaceX fights $6,000 WA fine for toxic exposure",
-   "author": "",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEhDR2RXMFlwUUo2X3dHSnUzV3hqRkUxQk13T0FvWlJiLXVBbEpwMjVWOFpzb1BOMzlIM2phRVJCenY0V0I2NXU4MXc2aFFvNzVsSXZNdV9LUU5lNnpkSkVTLTdjbWI2VWZzMDlKSk1UUHJ3LXZ3VERSSTJsREd5LTUyeWtxQ0c1ZEFXUTYzTGIwckpNWnpDVGhJM3owcDBOZ1ZFZEw2b0RTMjQxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0E?oc=5",
-   "paras": [
-    "SpaceX fights $6,000 WA fine for toxic exposure InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-doaFliQ2ROM0NuRXUwZ2JIeTBHMHE3U3UxTGMoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Celebrate Lisa & Paul by Standing Up for the Truth",
-   "author": "",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pLV9BdGdVTHB0dW1mOU56TDhYcEF3SmQ4NHZsUVh6ZjdpTEpLXzVRNGFXejJQMnRjU2FaaklJSTh3MGlhUzNhOU9KSUdoaFliQ2ROM0NuRXUwZ2JIeTBHMHE3U3UxTGM?oc=5",
-   "paras": [
-    "Celebrate Lisa & Paul by Standing Up for the Truth InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-stb-blogcom20261122sundaymoviebicyclehistory",
    "srcKey": "stb",
    "cat": "transit",
@@ -1793,41 +1798,6 @@
    "annos": null
   },
   {
-   "id": "f-emerald-FYdnNaZEpNZFM3VnJfUF9PTS1iQTBfMzBrTHcoc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "DOOM LOOP: Winter Personality",
-   "author": "",
-   "date": "2026-11-22",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0cxdkdVWDEwOHJlV0dvOTJrQ0d0MGVZU0pIM1lFaURaMmZicWw3SlFtSWNlOERrZHMzRGNQbDFXUmlFZ1h0aGxJQm5BOTNIZlpEMnVOSEkzYTh3UXFqR0l5OGZueHlMa1MwMkowLS1aU3VPVUhkblk4TmJCZHYxaE5WY1DSAZIBQVVfeXFMT25VWjVDMjBXMlNNUmQtTVdwTUwzVzJsZkZ1SVl2N3Ntd2pOTVd0NkpmcFZzdHN6NWNiSnVKdDNhQW1DREYtWVpYYXU4NlVZTDcxRml0d2RWQ3dtbW9MWE0zY2NsVVMtWEp2SGJmWk9nV2VONzZCekFYdnNaZEpNZFM3VnJfUF9PTS1iQTBfMzBrTHc?oc=5",
-   "paras": [
-    "DOOM LOOP: Winter Personality South Seattle Emerald"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-0261120fridayroundtablesoundtransitbingo",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "Friday Roundtable: Sound Transit Bingo",
-   "author": "Michael Smith",
-   "date": "2026-11-20",
-   "url": "https://seattletransitblog.com/2026/11/20/friday-roundtable-sound-transit-bingo/",
-   "paras": [
-    "To celebrate 30 years since voters passed Sound Move , Sound Transit is hosting a transit Bingo game today. Sound Move was the Central Puget Sound Regional Transit Authority’s first voter approved funding package to build a regional transit system. The Sound Transit brand was not adopted until 1997. Sound Move included commuter rail between Everett-Seattle and Lakewood-Seattle, light rail in Tacoma and between Seattle-SeaTac, and an extensive network of express buses in Snohomish, King, and Pierce counties.",
-    "The first component of Sound Move to enter service, ST Express, began on September 19, 1999 with nine routes. Commuter rail service started the following year with trips between Seattle and Tacoma. The agency’s first light rail line, then-called Tacoma Link, opened in August 2003. Light rail service in Seattle, Central Link, began service on July 18, 2009 between downtown Seattle and Tukwila.",
-    "Everyone is invited to explore the region while visiting stations to fill in their Bingo card today between 10am to 2pm. The first 450 people to complete a row, column, or diagonal and return their card to a designated drop-off will get a 30th Anniversary ORCA card . Everyone who gets Bingo will be entered into a raffle to win additional prizes. If you want to go above and beyond, complete every square for a chance to win a grand prize that includes one year of free transit and a behind-the-scenes ride-along through a Link train wash. For more details and the complete list of prizes, visit the Sound Transit website ."
-   ],
-   "img": "https://i0.wp.com/seattletransitblog.com/wp-content/uploads/2026/11/image-12.png?resize=525%2C755&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-invw-1CZVZmVDlpWEVxQXU1TC1UQTd1M214SThWU0ooc5",
    "srcKey": "invw",
    "cat": "local",
@@ -1837,23 +1807,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnBDaVlEWlJvYk9wVV9aakNtam43Z1dtckUzZ25HckxKaWZCQXFMNDZYT0lOd3hzQ1k3RTFUN0NidDlLTmJ6V2JYenEtT0dqSUNCRjUxTVVCc2lpZzBoZHpZZkdyRmxoZ0ZORHhveU5mMjVTVHBlOFIwTDFDYTVjMVlWNE9OMlBaNjFKa0YtczRoS2NjOU5JSFllMVVMOTNlMVp6TC1CZVZmVDlpWEVxQXU1TC1UQTd1M214SThWU0o?oc=5",
    "paras": [
     "Spokesman-Review nonprofit plan dies with editor's departure InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dnoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions",
-   "author": "",
-   "date": "2026-11-18",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNFB5X181R3hUS3FUVVVCbHZJZ25Vd3BOVERQenkyMlRKOElHdTl6Qkl5cXRXTDZYbmthNGFzTGhCS19MMUczOUFiTFR5V1Yyd2R4R0E4eV96Q1phUG05WjVEYWJpc3RMbDZzUUFwMWJXaEtkMXJ4dmtnbXdNYlNSbGpRcHJwZTYyZ0FZS3dSLVN4RnA5LS1XSEt1NGY5T2dBMFpLa2hhRGJncXFpbHR5V2h1RmFzSl9OVi1JMjV6UmhWdUFSeWpVU1dn?oc=5",
-   "paras": [
-    "Oregon migrant farmworkers — increasingly relied upon — continue to face dangerous housing conditions InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1890,23 +1843,6 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjE3dHRHYS1FbzZiRWtUeXNTQm8wY1NyOXZjRVFad0VBaW9nVUROZk9oTUdocFdvODdnNjV6Mk5pdWM2NWRpdDVldWFrYjhzSnNocE04cUVlbzFVV0xZdkZYVDhEY1l1MjJGRFd3UUVPbmFVSzBLWjNHbDVOLU9BZEI1NXhjMlc2WGRLcEdvV3ZEVHhBZ3BQdllwN1ptM1JOUWw2SlFiSGd2T3hmVmN2SXFBRVdib041R2YzcGR5SnVVTTdFTXc?oc=5",
    "paras": [
     "Idaho judge orders release of police employment records to InvestigateWest, Invisible Institute InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-emerald-4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21Roc5",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus",
-   "author": "",
-   "date": "2026-10-29",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMElWcHB0d3RoUmR1NnZ5Wm1DTzRWTGNyamRvMG1LRXBjaE5JNGpQRlB0VjFuNnc0dzh1SzBTZFZvLXBjckdCbGxhT0xWNlp0Qk9wODFDLWxPZzBXbHIyWWpka1pwWlYxNU5oVlY4ajV6bzFIb0g4aExPTmNfUTVRanh5NkZaVDV5NmFGVHQ0UHdnTGZ1Nm5yOG9UanZxVEF6RVVEUXZrVlc2bThKUVVtS1Z3ZXZXcW1KU04zUXFjT1N0bVRGNEJKT0R30gHXAUFVX3lxTE1aUjhVX1BpSi1fbEE5NE40bElrcDhhRGV0MmNxRWk2RDlsTk4xa3NTUHRmdDh5UkVHV1FCSmlrN1FPYmxkNWZpVzJkV3RKV1N3b0R5S0VfdFpKb0I0bmlkMWcxOG5kMTlHenhTU3FLc0l0QVVtbmFEbVRVQ3Bxc2JFSTVlZERqc3U5ZTNpS1RuU0hnb29SSmNvREVERm1Pa016RzQwQ3M1cExmcFpNbnZfU0NUU1JPT3lsZTA4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21R?oc=5",
-   "paras": [
-    "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
@@ -1952,6 +1888,74 @@
    "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2026/05/260322-CafeLolo0576.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-3M0ZwM2ZlV0VmWk15SW1JQm9mVFc1SzNMdzYtoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "At a Georgetown Museum, Young Volunteers Answer the Call to Preserve Phone History",
+   "author": "",
+   "date": "2026-10-02",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajVHMlN0NDFYYzZfQ2Y4ZmZ6SzYzRWNvMmc1SkVaWjZrdWhfNlJScGtUNlNOSms1MWNiX2Nac1JIdW1tcEVJSE5qQkRCUTU4cmJfalItSUZpWW5VQ0JLQjVEM3ZTdEV4ZnhGaTlWbmRfeWlSVXMtWkZ4dnNNNDVwN09CT3BtWXMxeUZfWGFwNDV2TV8tMFEwQzVyNUJsZXJScWFVWktQNUQzM2U3bDlPdW5Zd3BTbHl2QkZKV1l5NzNEc2xNUlJUSVBXZm9TWnZCS0800gHgAUFVX3lxTE43N3VJZ0piSEZTekNmRDlWYlJLOWh1dHRNSjJrS2huZFdRUGs5bmFORzBpNm1TOEN6MUVZRGhxX0l0ZUtSR1h3R3RsMVJqenpUTjBVRERfLW1zSnBHb1JONXlCQXNJdGpvaFI2TnQxSmtkWWF3VXNzci1nWGZEYlAzS3dXbWJpeFpweElyVFlHd3R3S2Q1VHBRY1E5WTBrUG96dVB0clZmQ0ZaMmdUXzhfeksyNXYzWWwwSE42bDZWRW0tMU53M0ZwM2ZlV0VmWk15SW1JQm9mVFc1SzNMdzYt?oc=5",
+   "paras": [
+    "At a Georgetown Museum, Young Volunteers Answer the Call to Preserve Phone History South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-XFQcDRVWmF6Ql9VdWdINUtXYlM5VXViUWI4UQoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Seattle Seeks Community Input on Pollution Plans for South Park and Georgetown",
+   "author": "",
+   "date": "2026-09-23",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbktoTFRWY0FHaEkydkNVcHBVSmZQTDhZNmhVc0p2Njhnb19uYm1TRWVXaTdOLUNoWjNnRGJQbjZySEMteVpXNjVrT21kS2NwdENxc2dkQ04zV3Y4bnhWT0JEV2RiaENNYjVNc0dOMDdRX2JuN1pKYWZ0OEJYR01tQTV6NHFnY1k1VVItdE9PQnE2dy1mWnVGNUdtUlJlZUF6cFUwdzF6cDN2S2lTOGtsWnRjYmVPOElKbWxJeFk1UWN1dlQ50gHSAUFVX3lxTFBYQUpOMzZtMjluVzQwcFZQWVlBNDVId3Uzb3dKOVh5dnd1bHJJcEJxaG1IVnl3YzF1Y1lKYmhJaDk5QmVkaXhGOWxzYWpEdWpiSkgtUGRIQWFyRkJpMHhadXA2aHphREtTUHpGaDB5YmRzLTBtdG9GbURoM09SSGtib19BTEl2dmtlcnROVjFsZER5NjVZa2NORzlrZ29HRGJXWTRuenZDd1dtUGxuZmZEV05nQzZJSXFQcDRVWmF6Ql9VdWdINUtXYlM5VXViUWI4UQ?oc=5",
+   "paras": [
+    "Seattle Seeks Community Input on Pollution Plans for South Park and Georgetown South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-jkyOUk1eWYyQzQtMzFpc3djN080VGhjV25uUQoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Beacon Hill Garden Drops Cesar Chavez's Name as South Park Weighs Park Renaming",
+   "author": "",
+   "date": "2026-08-26",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWV9CY1JaZHkyTEp1NUcxY0dqR2I1TmtaYXQwLThSdGh5dUk5TDRNV3A3VmZYTjFjeDRaTlZOMm51TXN2RThUdE4yRmpWMG0yaktyMzdWTHZ0ellHRmNfVmszWDFCblFHLW8yZ1ptNlFvSVlYWTRrX1F6UDhGWVZNZHNuWXE2RG41LXdBWktCcDU3elRFNWdlS3REREtuS1dRR0haaUpIcERHUXB3UktUM0JUX1kxNjZ0SThNdkd4M2JPdDZF0gHSAUFVX3lxTE13TW9YVjNhc29IVnl6NFFXU1pWS1dGU09fVF9reEUzaTlCY1NQRnNoZUNpb0J1M1JxZzhMaXlYNU8tOTh4Qlh0dGQwbW91Q0VrcjRfc0RIdFRyRWtHX0hCSjBvdFlJOUZBdUhCSUZiM2U0ZV9LMmFyZWh5MG1KeXVJWTVtTkxJdExrelJGU1ZKbkUwZmdqQjNzS3QtZDhvbFRxMzFZZ3VLSVdCRmZ3YVBIY29kYk1aZjkyOUk1eWYyQzQtMzFpc3djN080VGhjV25uUQ?oc=5",
+   "paras": [
+    "Beacon Hill Garden Drops Cesar Chavez's Name as South Park Weighs Park Renaming South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-VXVlFVZDhOSVREN0l2S2tVS0s2cXNSNjNoZ0Eoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Free Taiwan Music Festival Will Honor LGBTQ+ Rights and Promote HIV Awareness",
+   "author": "",
+   "date": "2026-08-24",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjFyZHpuVXk5ak9qU3dmN0I4U2JjUFZXZ0Q5cEEzQkdkS2VtVnpjS2J1TVNvODUwY1RPVXJkTm8yb2dzWnZZT1pZSUl2V1ZCZ0w2NHE5T0szUUdlUldLekplQ2dlVkVSQVVqYzlYTzJMVHlOSWJ2MHNOdmlhdFpJbzFuSEpMTVFlRl92aVk2ekhXU0stWmZrbzAyLWt3YXNjLW9lSHV2bENtdHRmU2RodHhzclNnM3gwNThDbWNxbWt4d9IBzwFBVV95cUxQUWpNbXRvUV93RjNVQzFqWVB4UDhlV2syOUtaRXhVUjJjNmMyand4SkpFUi10OFhpNTlwcXNrdFI0M0NHVUEtMFVZeW1TdFM0TTlvQUQ3dHZoM0FKUTl5TTZ2RWMwd1dKMjdVZTQxdTNpWmNDSGxvdlVZclItSlV3Y1lOMFU0TC1QZVgxdlBVd0d0Y0VMNHlBd0I3VDd3WGhMajJic1hFYTZIYmtqQTdYNFhibDVXVlFVZDhOSVREN0l2S2tVS0s2cXNSNjNoZ0E?oc=5",
+   "paras": [
+    "Free Taiwan Music Festival Will Honor LGBTQ+ Rights and Promote HIV Awareness South Seattle Emerald"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   }
  ]
