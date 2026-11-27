@@ -1,8 +1,8 @@
 {
- "builtAt": "2026-11-25T23:54:20.159Z",
- "builtFor": "2026-11-25",
- "builtHour": "15",
- "count": 80,
+ "builtAt": "2026-11-27T00:11:07.626Z",
+ "builtFor": "2026-11-26",
+ "builtHour": "16",
+ "count": 81,
  "sources": [
   {
    "source": "bbc",
@@ -31,8 +31,8 @@
   },
   {
    "source": "emerald",
-   "count": 1,
-   "via": "feed"
+   "count": 2,
+   "via": "google-news"
   },
   {
    "source": "geekwire",
@@ -86,6 +86,568 @@
   }
  ],
  "articles": [
+  {
+   "id": "f-geekwire-amestudiobuildsanoirdetectiverpginthesky",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "‘Aether & Iron’: Seattle-area indie game studio builds a noir detective RPG in the sky",
+   "author": "Thomas Wilde",
+   "date": "2026-11-26",
+   "url": "https://www.geekwire.com/2026/aether-iron-seattle-area-indie-game-studio-builds-a-noir-detective-rpg-in-the-sky/",
+   "paras": [
+    "Some video games exist at the confluence point between a surprising number of genres, which can make them difficult to explain to people who aren’t hip-deep in the hobby. That’s why several of the most popular categories are currently nicknamed after the most visible games in them, such as the “ Metroidvania ” or “ Soulslike .” Sure, this isn’t anywhere near the biggest problem in the video game industry at the moment, but we’re going to have to figure this out sooner or later.",
+    "Aether & Iron, created by the Issaquah, Wash.-based developer Seismic Squirrel , with co-developer Chaos Theory Games, is at one of those weird genre points. It’s described by its developers as a “narrative RPG,” which works well enough, but that also doesn’t exactly say that much.",
+    "It’s worth saying up front that Aether & Iron is on a slow boil. It’s a 30-hour game that unfolds at a careful pace, building out an elaborate science-fiction setting from first principles. If you’re looking for fast thrills, it’s not the experience for you. Instead, think of it like a long novel with points of potential failure, where every opportunity for interactivity is also a chance for you to take its story in a different direction.",
+    "Aether & Iron is set in an alternate universe where a strange substance called aether was found beneath Manhattan in 1871. Sixty-seven years later, the study and exploitation of aether has become its own branch of science, which led to a great technological leap forward. Much of New York has been transformed into a three-tiered flying city, split between the Lowers, the Uppers and the Heights. The higher a neighborhood flies, the higher its society.",
+    "You enter the story in 1938 in the role of Gia Randazzo, a smuggler from the Lowers who’s hit hard times. She’s so desperate for work that she takes a job she shouldn’t, as a driver and bodyguard for a young scientist from the Heights named Eleanor Reinhardt. It should be a milk run, but Dr. Reinhardt has enemies she doesn’t know about.",
+    "In short order, an assassin tries to kill them both, someone steals Gia’s car, and she and Dr. Reinhardt end up stuck together in the worst parts of the Lowers. With no money, a loaner vehicle and few friends left, Gia has to figure out who wants Dr. Reinhardt dead and why. That puts her on a collision course with a revolutionary movement, several of New York’s power brokers and a conspiracy that could knock the city back out of the sky.",
+    "You could call Aether & Iron something like “airship noir.” Despite its science-fiction trappings, it’s a dark detective novel at heart. Yes, humanity’s built up into the sky, but the street is always the street. Mickey Spillane meets William Gibson.",
+    "During dialogue and investigation sequences, Aether & Iron uses a pair of virtual six-sided dice to determine whether you succeed or fail at a given task. As you get further into the game, you can acquire items that let you reroll those dice on a failed check.",
+    "More importantly, you earn experience points for accomplishments and victories, which grant you skill points that can be spent in one of nine categories. You can customize Gia to follow several distinct character tracks, such as a detective, a back-alley brawler or a fast-talking con woman. That influences the path you take through the game and the options that become available to you.",
+    "No matter how you choose to play Gia, you can’t always avoid a fight. All the combat in Aether & Iron takes place behind the wheel, with Gia and her crew driving customized vehicles. You can acquire a whole fleet of cars and trucks, then kit them out with special weapons, utility devices, armored plates and matching paint jobs.",
+    "Each fight consists of a turn-based tactical battle through the streets in and around New York. In addition to simply shooting up an enemy, you can sideswipe them to force them off the road or into other cars.",
+    "Many of the city’s thoroughfares are falling apart or prone to sudden lane changes, so most fights will have their own set of additional hazards. Fortunately, they’re as dangerous to your enemies as they are to you, so you can exploit the road hazards if you think fast enough.",
+    "If I had to point at one problem I’ve got with Aether & Iron, it might be that the combat has a couple of unlabeled difficulty curves. Specifically, a few fights are built around specific types of damage to such a degree that the only real way past them is to reload an old save and modify all my vehicles for that particular encounter.",
+    "If you like the idea of constantly tweaking your vehicle collection for specific combat purposes, like heat shielding or knockback resistance, you’ll have some fun here. If you’re like me and you tend to rely on set-and-forget general-purpose builds, you’ll run into some roadblocks.",
+    "Other than that, you might know already whether or not you want to check it out. There’s a lot of care and art in Aether & Iron, mixed with a unique science-fiction setting that isn’t quite like anything else in video games at the moment.",
+    "Aether & Iron is currently available for PC and Mac via Steam for $24.99. Seismic Squirrel plans to release the game for PlayStation and Xbox in 2027."
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/20261108114642_1-1260x709.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-geekwire-pacexmillionsatellitesstarminddatacenter",
+   "srcKey": "geekwire",
+   "cat": "tech",
+   "title": "FCC clears SpaceX to put up to a million satellites in orbit for Starmind data center network",
+   "author": "Alan Boyle",
+   "date": "2026-11-26",
+   "url": "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/",
+   "paras": [
+    "The Federal Communications Commission has authorized SpaceX to send up to a million satellites into orbit for its Starmind data-processing network.",
+    "In a news release , the FCC touted today’s decision as “the first authorization in U.S. history for a constellation of data centers in space” and echoed the high-flown language that SpaceX used to describe the network in its application 10 months ago .",
+    "“It promises to bring the human race closer to a Kardashev II civilization — one that can harness the full power of the sun,” the agency said.",
+    "FCC Chairman Brendan Carr said the plan “opens a bold new frontier for the computing infrastructure needed to power America’s leadership and growth.”",
+    "Carr signaled that he was all in on the Trump administration’s support for rapid data center expansion, despite a growing backlash that figured in this month’s midterm elections. He said that “compute campuses or data centers are essential to sustaining America’s leadership” in artificial intelligence.",
+    "“By moving compute capacity beyond Earth, SpaceX and the many competitors working on their own orbital data centers are meeting the moment,” Carr said.",
+    "In a post to X , SpaceX CEO Elon Musk told Carr that his praise was “much appreciated.”",
+    "“This will be a great asset to America and the world,” Musk said.",
+    "Proponents of solar-powered orbital data centers say such constellations will address the top concerns about terrestrial data centers, including land use, power consumption and water requirements for cooling. Critics point to the engineering challenges, including concerns about cooling the satellites, managing space traffic and dealing with orbital debris.",
+    "In approving SpaceX’s application, the FCC rejected opposition from Amazon and Viasat, as well as from the American Astronomical Society, which raised concerns about the constellation’s impact on the night sky. The AAS said in a statement that it was “disheartened and dismayed” by the FCC’s decision.",
+    "The FCC attached several conditions to its authorization , including requirements for communications backups, regular updates and a detailed plan for orbital debris mitigation.",
+    "SpaceX was cleared to operate its satellites at orbits ranging from 500 to 1,002 kilometers (310 to 623 miles) in altitude. The first satellite is to be put into operation no later than 2033, and the FCC calls for the full constellation to be operating by 2040.",
+    "In August, SpaceX announced that it was partnering with Nvidia to design the compute payload for the Starmind AI1 satellite. “Each of the Starmind satellites will include Nvidia Rubin GPUs and Vera CPUs for datacenter-class space compute,” SpaceX said at the time.",
+    "SpaceX’s facility in Redmond, Wash., makes the satellites for the Starlink telecommunications network — but in a filing related to this year’s initial public offering , SpaceX said its operation in Bastrop, Texas, would be put in charge of producing AI compute satellites.",
+    "The FCC said it is continuing to review additional orbital data center proposals and intends to issue decisions on each proposal “according to the agency’s regular procedures.”",
+    "Among other companies planning data-processing satellite constellations are:"
+   ],
+   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/261125-starmind2-1260x709.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stb-nsitblogcom20261126elevatedlinetoballard",
+   "srcKey": "stb",
+   "cat": "transit",
+   "title": "Elevated line to Ballard",
+   "author": "Martin Pagel",
+   "date": "2026-11-26",
+   "url": "https://seattletransitblog.com/2026/11/26/elevated-line-to-ballard/",
+   "paras": [
+    "At the Ballard Town Hall meeting somebody asked whether Sound Transit had considered elevating the line instead of tunneling to reduce cost and build it earlier. Sound Transit’s response was that they cannot imagine any way to build an elevated Link light rail line through downtown and meet current environmental requirements. An elevated line would certainly be cheaper and faster to build and easier for riders to access than the currently planned deep tunnel. Could any of the alternative modes I described make it possible to build an elevated line through downtown?",
+    "As Kubly/Reed recently pointed out, current Link trains needs very long stations. That makes it difficult to find a location for an underground station which does not interfere with existing building foundations, but also to fit an elevated station into the existing street valleys. For more infrequent lines, the station also has to allow sufficient waiting area requiring wider platforms. As Kubly/Reed pointed out, automated light metro systems allow more frequent but shorter trains which reduces the size of the station area. Link also requires a pole for overhead wires, an emergency and maintenance walkway, and potentially noise barriers along its guideway for a total width of about 29 feet . Link’s maximum turn radius (82 feet) and maximum grade (6%) also create challenges to fit the guideway into downtown. Monorail guideways are visually less bulky but still require a separate emergency walkway. When the Monorail Project suggested running the Green Line through downtown as an elevated line, people were also concerned about their privacy as riders may peek into their windows. Link would require an even wider guideway than the monorail.",
+    "Modern guideways such as used by TSB Maglev integrate the emergency walkway into the middle of the track rather than between the two tracks and only require a 20 feet wide guideway. With a center platform, a station requires a width of 50 feet (60′ for Link). To scale Seattle’s hills, grades of up to 10% can be handled. Construction is much faster and less disruptive as the guideway is prefabricated. Once the columns are built, the guideway gets trucked in and placed by crane.",
+    "Various elevated alignments have been considered in the past (or should be):",
+    "Modern maglev guideway technology may also make it feasible to run along 15th Ave W through Interbay and use precast modules for a station above the road. As such technology also allows for grades up to 10%, it may even allow a bridge over the ship canal. Otherwise a ship canal tunnel would still be required unless Sound Transit would consider a Salmon Bay gondola for now and save even more.",
+    "The downtown alignments could also be used to connect with the West Seattle line. The First Hill alignments would create a great alternative if the current downtown tunnel is out of service, with transfers at Westlake and Mt. Baker.",
+    "Elevated guideways also make it much easier to add branches (for example to serve Aurora Ave) or add a station later – practically impossible in case of a drilled tunnel.",
+    "While an elevated line would be far cheaper, it would probably require a new EIS submission. That would add a few years to the timeline, but because of the lower cost, construction could start immediately once federal approval has been obtained. That may still allow an opening date closer to the 2032 target date than waiting until 2060 and we would not have to burden our grandchildren with paying off a much larger debt."
+   ],
+   "img": "https://i0.wp.com/entwicklungsstadt.de/wp-content/uploads/2021/02/EWS-GRAFT-MBG-6.jpg?w=525&ssl=1",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-urbanist-ilisanidealguidetoseattlesolmstedhistory",
+   "srcKey": "urbanist",
+   "cat": "transit",
+   "title": "Op-Ed: Emerald City Trail Is an Ideal Guide to Seattle’s Olmsted History",
+   "author": "Valentina Vaneeva",
+   "date": "2026-11-26",
+   "url": "https://www.theurbanist.org/op-ed-emerald-city-trail-is-an-ideal-guide-to-seattles-olmsted-history/",
+   "paras": [
+    "While our region is famous for its beautiful outdoors, driving for an hour or more or carrying a backpack should not be a prerequisite for taking a nice long walk and enjoying the views. But figuring out where to go in the city is sometimes frustrating if you want to avoid getting stuck in a rut, with every intersection presenting yet another choice. And so it is always a joy when a new guidebook falls into your hands.",
+    "Emerald City Trail: A Walking Guide Through Seattle & Our Olmsted History , written by Peter Hendrickson of Seattle Mountaineers and published this year by Mountaineers Books, is unique in its goal of not just making your life easier by giving you directions but also tying the routes to one particular piece of Seattle history: its connection to Olmsted Brothers , heirs of the Olmsted of New York’s Central Park fame.",
+    "It is not a history book, but it gives enough of an overview of how the brothers played a role in shaping the city, and there is enough to keep your walks interesting. For those who want to learn more, the Resources section at the end of the book will be helpful.",
+    "Emerald City Trail is a 75-mile loop connecting both existing and proposed parks and boulevards that were elements of the plan developed by Olmsted Brothers for the City of Seattle at the start of the 20th century. The whole loop is conveniently split into 12 segments, 5 to 7.5 miles long, with options to shorten or lengthen any one of them, and their start and end points are accessible by transit. The guidebook also recommends detours for those with a stroller if the original route has stairs or difficult terrain.",
+    "Each section's description has a route map with viewpoints and landmarks and lists the usual stats of distance, elevation, and difficulty, but what sets this guidebook apart is that it also mentions the “Three Ts”: public transportation, public toilets and treats, that is, cafes, bakeries, bars or ice cream shops. Having such conveniences at hand lightens the load you need to carry and leaves you free to stray off route at will.",
+    "The book is of a small size and can be used for navigation directly, but you may prefer following its companion interactive map at emeraldcitytrail.com since it shows your actual location and has a built-in transit layer. Depending on your screen size, you may not find the interface very convenient and may prefer to download the GPX file of the whole loop or a segment you're interested in to be used with a navigation app of your choice.",
+    "Despite what the book says, at the time of this writing, you cannot download GPX tracks from its companion website, but they are available from the Mountaineers website ; scroll past the description and click on the “Resources” section.",
+    "This Mountaineers page also lists upcoming walks for sections of the route, so if you are looking for company or want to meet the author, you can sign up for one. Additionally, you can look up recent trip reports, and this too sets the book apart from other urban walking guidebooks because each segment has a Mountaineer steward who walks their section at least quarterly to spot safety or maintenance issues.",
+    "The guidebook also highlights difficulties walking in some parts of Seattle for which geography cannot be blamed . The route of Section 6, Rainier Beach to White Center, is the most challenging part of Emerald City Trail. Since it goes through an industrial area, there is not much shade, few restrooms and food options, but plenty of high-speed traffic and tricky highway crossings. Indeed, the author recommends avoiding the most unsafe crossing altogether and catching a bus instead, which is something you cannot do on a regular hike even if you bring your Orca transit card.",
+    "Compare that to Section 2, Woodland Park Zoo to Husky Stadium, which goes through a park and along tree-lined streets and has plenty of opportunity for treats on the way.",
+    "I am yet to complete the whole 75 miles of the loop, in fact, I have just started, but I like that the route gives you an enjoyable mix of nature, art, historic landmarks and people watching. And, as Hendrickson promised, on our very first walk, when we stopped for a coffee break, we met someone interesting to talk with.",
+    "If this sounds like something you might like, this guidebook is for you. And if not, perhaps fantastic photos by Heidi Walker will inspire you to explore one of the sections. And don't let the Big Dark scare you into staying home. Worst case, you can always take a bus or a train and bail out, just don't forget your Orca card!"
+   ],
+   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/data-src-image-90eef0a9-ab23-4fe4-9275-185a863c6bdd-1-.jpeg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-didyousmellgwaratpikeplacemarketonmonday",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Did You Smell GWAR at Pike Place Market on Monday?",
+   "author": "Audrey Vann",
+   "date": "2026-11-26",
+   "url": "https://www.thestranger.com/music/did-you-smell-gwar-at-pike-place-market-on-monday/",
+   "paras": [
+    "If you were at Pike Place Market on Monday morning and saw two naked men changing into GWAR drag—black eye makeup, rubber monster masks, prosthetic utters, etc.— in front of a huge window by the iconic market sign, then no, you didn’t. GWAR does not wear costumes and, as they will tell you, are not […]",
+    "The post Did You Smell GWAR at Pike Place Market on Monday? appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/ST_261123_GWAR_CamA_00010.mov00_Multicam-Master.00_06_49_03.Still007-2.jpg?fit=1024%2C704&ssl=1",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-stranger-thestrangercomartslegitimacyisirrelevant",
+   "srcKey": "stranger",
+   "cat": "arts",
+   "title": "Legitimacy Is Irrelevant",
+   "author": "Amanda Manitach",
+   "date": "2026-11-26",
+   "url": "https://www.thestranger.com/arts/legitimacy-is-irrelevant/",
+   "paras": [
+    "For the boomers who think Seattle’s art scene is not what it used to be. For the young ones who think this city’s art is too insular or unserious. Hold my coffee, because our corner of the art world just got an upgrade. Yesterday, Base Camp Studios announced that they’ve acquired Frye Art Museum Curatorial […]",
+    "The post Legitimacy Is Irrelevant appeared first on The Stranger ."
+   ],
+   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/ALEXIS0199.jpg?fit=1024%2C682&ssl=1",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-urlastmeal202611yourlastmealxfoodfriends",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Your Last Meal x Food Friends",
+   "author": "Rachel Belle",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/podcasts/your-last-meal/2026/11/your-last-meal-x-food-friends/",
+   "paras": [
+    "In this special episode, host Rachel Belle is a guest on one of her favorite podcasts, Food Friends !",
+    "Food Friends aims to inspire home cooks to get creative in the kitchen. Each episode, chefs & hosts Sonya Sanford and Kari Lauritzen chat about the recipes they cooked that week and share their best bites. But in honor of Your Last Meal's 10th anniversary (!), they welcomed Rachel on to talk about:"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/FOOD_FRIENDS_x_YLM.png",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-wshourextrasbetweentheballoons1795650164",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Photographer gets rare view of Macy's Thanksgiving Parade",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/between-the-balloons-1795650164/",
+   "paras": [
+    "From her apartment, photographer captures unique view of Macy's Thanksgiving Day Parade"
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/ede7bd54-37dc-4090-96c1-5fc35755ede5.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-sorgshownewshourextrasnewswrap1795644123",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "News Wrap: Severe weather threatens holiday travel",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1795644123/",
+   "paras": [
+    "In our news wrap Wednesday, severe weather is threatening Thanksgiving travel for millions of Americans, authorities in Egypt say at least 30 are dead after a crash involving a fuel tanker sparked a massive fire near Cairo and the Treasury Department's financial crimes enforcement network suffered what it calls a \"cybersecurity incident.\""
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/1f1ad86d-da50-4258-8884-0785ec305abc.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-shownewshourextrascranberryjam1795634814",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Cranberry farmers adapt as climate change threatens harvest",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/cranberry-jam-1795634814/",
+   "paras": [
+    "Cranberries are a Thanksgiving fixture, and the United States produces most of the world’s supply. But growing them relies on a narrow window of time with the right conditions. With climate change, those conditions are shifting. For our Tipping Point series, special correspondent Ben Tracy with Climate Central shows us how scientists and growers are working to save the seasonal favorite."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/f088d0c2-aabd-45ed-8f22-543990e42477.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-hownewshourextrastrumpstariffs1795644066",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "How Trump's newest tariffs could impact American economy",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/trump-s-tariffs-1795644066/",
+   "paras": [
+    "The Trump administration announced plans for a new round of tariffs on China, the European Union and 12 other major trading partners. China would face the highest rate with a new 20% tariff on most products. To discuss how this will impact Americans and the economy, Lisa Desjardins spoke with Gavin Bade of The Wall Street Journal."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/a5163824-8870-426b-b876-1677b83ad657.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-cascade-newshourextraswarintheholyland1795644204",
+   "srcKey": "cascade",
+   "cat": "arts",
+   "title": "Ex-Israeli generals defend Palestinians during olive harvest",
+   "author": "Cascade PBS Staff",
+   "date": "2026-11-26",
+   "url": "https://www.cascadepbs.org/show/newshour/extras/war-in-the-holy-land-1795644204/",
+   "paras": [
+    "This week, Palestinians in the occupied West Bank are concluding their annual olive harvest, one that the U.N. says has been the most violent on record. In the first of two stories from Nick Schifrin and his team in the West Bank, he looks at how some Israeli settlers have dramatically increased their attacks on Palestinians, and what that says about a battle within Israel over its own future."
+   ],
+   "img": "https://www.cascadepbs.org/content/images/2026/11/d87bdeaa-3175-407d-b069-91b18ea15800.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-kuow-GZQcjk1MU4yZDJLTFNtdDQxemRHUnJXN2pLZwoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Flood, drought: Western Washington's got it all",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVUxVnMzcHlfN2p5aXNQZjNBMU52dTVyT0FiU0FZdFZLRWU0bkg1TnZQLV9XT1MyOUhMUXRTUHA3SjdMOUFPZC1MaVdLOFB3SC1kT1BlUFlLVlZ4ZmNzY1gxVzY0dmt4ZmhpODc2STUzajlGTVVqUGZQcjk1MU4yZDJLTFNtdDQxemRHUnJXN2pLZw?oc=5",
+   "paras": [
+    "Flood, drought: Western Washington's got it all KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-org20261126gs1155957congoebolaresponders",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+   "author": "The Associated Press",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+   "paras": [
+    "As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5760x3840+0+0/resize/5760x3840!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F5c%2Fce%2F2b1557be47b9bc08a682a6d8f98f%2Fap26329472681866.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-s1155955northkoreakimnuclearweaponstrump",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+   "author": "The Associated Press",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+   "paras": [
+    "Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.",
+    "(Image credit: Korean Central News Agency)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2965x1965+0+0/resize/2965x1965!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F54%2Fca%2Fa076c10a456fae30c7079d94f200%2Fap26330009741123.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-ltrumptariffsiowadetonationfccfreespeech",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+   "author": "Brittney Melton",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+   "paras": [
+    "The East Coast's weather is a major concern this holiday, as it could lead to coastal flooding. And, the judge says the FCC can't punish ABC for satire Trump doesn't like."
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-npr-eblokitchennativeamericanfoodalbuquerque",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "At Albuquerque's Indian Pueblo Kitchen, Native American dishes are the main course",
+   "author": "Anastasia Tsioulcas",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+   "paras": [
+    "At an Albuquerque, N.M., museum, the restaurant is just as much of a draw as the exhibitions, with dishes like green chile stew and sweet biscochitos flavored with anise and cinnamon."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3000+0+0/resize/4500x3000!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Ff8%2F06%2F3c7f4c4640bda21c7b9bb12a5fd4%2F2026-10-route66newmexicofood-39.JPG",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-memoriesofagoodmealcookbookchefalonshaya",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "'Memories of a Good Meal': How food made a difference during WWII",
+   "author": "Debbie Elliott",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+   "paras": [
+    "New Orleans Chef Alon Shaya's new cookbook shares stories of resilience from World War II, centered around food.",
+    "(Image credit: Denny Culbert; June Hersh and Alon Shaya)"
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5376x1923+0+0/resize/5376x1923!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0f%2Fcd%2F73b10cc14db88fb2861214832873%2Fl-r-june-hersh-steven-fenves-alon-shaya-authors-photo.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-npr-aeltwittythanksgivingfoodculinaryhistory",
+   "srcKey": "npr",
+   "cat": "national",
+   "title": "A dish with a story, Thanksgiving with culinary historian Michael Twitty",
+   "author": "Adriana Gallardo",
+   "date": "2026-11-26",
+   "url": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+   "paras": [
+    "NPR's Leila Fadel welcomes culinary historian Michael Twitty into her kitchen for a Thanksgiving cooking session on making Kush, the forerunner to Southern cornbread dressing."
+   ],
+   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5282x3036+0+0/resize/5282x3036!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2F81%2F8cc1d862402f83522b27d6ff9fa2%2Fimg-1176.jpg",
+   "fetched": true,
+   "fullText": true,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-eighttrainsblockingstreetsdisruptinglife",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "Rescuers blocked from a fire. A child killed on the way to school. Miles-long trains are upending US lives",
+   "author": "Stephen Starr in Lockland, Ohio",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/freight-trains-blocking-streets-disrupting-life",
+   "paras": [
+    "Communities say big railroad companies won’t act and that lawmakers are moving too slowly to address a major problem",
+    "The drive from the Lockland fire station to a house fire on Patterson Avenue should have taken no more than 45 seconds .",
+    "But East Wyoming Avenue and Davis Street were both blocked: a Norfolk Southern train was stopped across several streets – the fire engine had to turn around and take a detour via a nearby highway. By the time firefighters snaked through the highway traffic and reached the fire last month, seven minutes after the call came in, 89-year-old Marian Haefner was dead in her own home ."
+   ],
+   "img": "https://i.guim.co.uk/img/media/347086ecbeee443f7c595432a73161a54f1a7615/146_0_1307_1046/master/1307.jpg?width=140&quality=85&auto=format&fit=max&s=e1d29545d1079e0a217cfef241b46315",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-blackfridayhouseholdessentialssalesdeals",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "We found 18 Black Friday deals on the day-to-day essentials everyone uses",
+   "author": "Marissa Miller",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/26/black-friday-household-essentials-sales-deals",
+   "paras": [
+    "Stock up on boring basics this Black Friday – you’ll thank yourself later",
+    "Our favorite bath towel is on sale for Black Friday",
+    "Visit our ultimate guide to Black Friday for more deals on Frame’s Arrow jeans and buy-it-for-life products – all carefully vetted by Filter US editors",
+    "When you think about all the items on your Black Friday wishlist, toilet paper and dish soap probably won’t crack the top 10. But if everything under the sun is on sale Black Friday weekend, it stands to reason that there are some good deals on household essentials , too – including some that we’ve put to the test on our own messes."
+   ],
+   "img": "https://i.guim.co.uk/img/media/125ef222e4db607264c33cffedd000e5effa68c4/0_443_3730_2985/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=774cee3237a8044564028ae777212edf",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-6nov26ahamortenharketparkinsonsdiagnosis",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "a-ha’s Morten Harket: ‘My Parkinson’s diagnosis wasn’t devastating. I have a new appreciation for the human organism’",
+   "author": "As told to Magnus Nome",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/music/2026/nov/26/a-ha-morten-harket-parkinsons-diagnosis",
+   "paras": [
+    "As the Norwegian pop trio’s frontman releases his new album Human Grace, he answers your questions on the devastating effects of fame, living in squalor in London, 80s nostalgia – and a certain bandmate’s denim underwear",
+    "You ’ ve described your new album, Human Grace, as revealing more of yourself than your previous work. Was there anything you found unexpectedly difficult to express through these songs, or anything that surprised you about yourself during the creative process? BarefootJax No. It’s an exploratory process, the activity of making new music. It’s about quieting yourself, being available to hear tiny little differences in vibes, to pick up a seed that will blossom into something – and then it goes from being nothing to becoming a thing, instantaneously. That has never changed for me. With a-ha, there wasn’t much time and peace for songwriting. Being the frontman takes a lot of focus.",
+    "What has changed is my access to the skilled tools – singing and guitar – due to the Parkinson’s medication side-effects. For this album, we found old recordings of my voice, some from over 10 years back. It hasn’t been devastating for me to get this diagnosis – it has been a blunt and impactful instrument to stop everything I was doing. I had to reassemble myself first, to understand what it is. Losing access to parts of myself I’ve taken for granted all my life, but also a new appreciation for the architecture of ourselves as an organism – it’s so impressive. It’s mind-blowing."
+   ],
+   "img": "https://i.guim.co.uk/img/media/4c79e0e6664360cf91b266321cc4709edd4d689d/0_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=5cdf6dd418c9c51ecbd54fd52d7518e7",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-oklynnycbuildingcollapseresponsehomeless",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
+   "author": "Auzzy Byrdsell in New York",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless",
+   "paras": [
+    "Advocacy groups say displaced families were sent to ‘subpar hotels’ until 30 November, with no housing plans in place afterward",
+    "Flatbush community leaders are in an uproar on behalf of those who have been displaced in the aftermath of an apartment building collapse in Brooklyn earlier this month. They say some displaced tenants are in hotels until 30 November, but have no housing plans after that date.",
+    "Advocacy groups said that those who were displaced were sent to “subpar hotels” that were also home to roaches and mice. Stays were only set for up to four days, leaving community leaders to push for longer stays."
+   ],
+   "img": "https://i.guim.co.uk/img/media/fac2895d60d9d55b37ad5ec41937fa274d1e6ece/599_0_6865_5495/master/6865.jpg?width=140&quality=85&auto=format&fit=max&s=618e7b638068b0a6028f6bd58ae14bf2",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-m2026nov26cinemasgreatesteggscenesranked",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "You’re cracking me up: cinema’s greatest egg scenes – ranked!",
+   "author": "Morwenna Ferrier",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/film/2026/nov/26/cinemas-greatest-egg-scenes-ranked",
+   "paras": [
+    "As You Can See Everything’s contention whisking scene beats movie-goers into a frenzy, here’s a taster of the most eggstraordinary moments on film",
+    "It’s breakfast time at the California home of Elizabeth Holmes, the disgraced former CEO of blood-testing company Theranos, and as the camera follows her lightly forking some eggs, boyfriend Billy Evans swoops in, grabs the bowl off her and begins demonstrating how it should be done."
+   ],
+   "img": "https://i.guim.co.uk/img/media/dcb64aed32804f0073cff8bc288dead61aa7b495/1155_0_2957_2367/master/2957.jpg?width=140&quality=85&auto=format&fit=max&s=436192a1723dfe6899da162246eba446",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-guardian-ersasanewlysinglemanhowdoinavigatedating",
+   "srcKey": "guardian",
+   "cat": "national",
+   "title": "I’m not interested in having sex with near strangers. As a newly single man, how do I navigate dating? | Leading questions",
+   "author": "Eleanor Gordon-Smith",
+   "date": "2026-11-26",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/27/im-not-interested-in-having-sex-with-near-strangers-as-a-newly-single-man-how-do-i-navigate-dating",
+   "paras": [
+    "You don’t have to have sex because it’s ‘what’s expected’, advice columnist Eleanor Gordon-Smith writes. But you may want to be explicit about what you do want",
+    "How do I navigate being single when I’m not interested in sex with near strangers? I don’t judge anyone, consenting adults can do whatever they like – but, for me, sex has to come with trust and, frankly, love, or at least the potential of love. I’m recently single after a long and toxic relationship, and I’ve never dated – I got on the dating scene and found that if I don’t try to get in someone’s pants by the third date, no matter how much of a nice time we’re having, they disappear – and in fact I’ve had some women do the old “call yourself a man” at me, in one memorable case, after they specifically said “not tonight” and I said “no problem” (the response was a frustrated “don’t you have needs?!”).",
+    "I’ve tried to go along with it and do what’s expected but I don’t enjoy it, it just feels a bit wrong, and when I’ve done this it kills the vibe we had, probably because I can’t get into it properly. I’ve always been into the person, not just the body, but it takes time to get to know someone enough to feel comfortable being intimate. So how can I keep a nice relationship going, so that I can develop the trust I need for sex, without them losing interest because I’m not doing (what I assume) everyone else on the dating scene is doing?"
+   ],
+   "img": "https://i.guim.co.uk/img/media/fc787683773a13cb148d66ae7a02acdaa1844129/72_696_1562_1248/master/1562.jpg?width=140&quality=85&auto=format&fit=max&s=7ca09a6512627507cce05219b4d2c25e",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesc820q9wgrpyyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesck053j37yr9loatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f30d/live/2c751280-e9ad-11f1-99a1-253766e7ad8b.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesck62p4pzg4qyoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16b/live/d66be2a0-e9d0-11f1-99b6-a35a62fa4264.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lescq36gj12n0l3oatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc65/live/28a10870-e99f-11f1-b880-15b494ba858d.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-lesck053epz2ppmoatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "Drug rape husband says wife 'would have been terrified', court hears",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/articles/ck053epz2ppmo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The husband has told a jury that his wife \"would never agree to do any of this\"."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ae0/live/75260700-e9a8-11f1-9b5c-f3f25f51795d.png",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
+  {
+   "id": "f-bbc-eosc6evr2y40v0joatmediumRSSatcampaignrss",
+   "srcKey": "bbc",
+   "cat": "national",
+   "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+   "author": "",
+   "date": "2026-11-26",
+   "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+   "paras": [
+    "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people."
+   ],
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg",
+   "fetched": true,
+   "fullText": false,
+   "annos": null
+  },
   {
    "id": "f-geekwire-etzionionai18waystouseaithisthanksgiving",
    "srcKey": "geekwire",
@@ -335,46 +897,6 @@
    "annos": null
   },
   {
-   "id": "f-emerald-pprovesplantoreplaceitwithrapidriderline",
-   "srcKey": "emerald",
-   "cat": "community",
-   "title": "RIP Route 7: King County Approves Plan to Replace It With RapidRide R Line",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://southseattleemerald.org/news/2026/11/25/rip-route-7-king-county-approves-plan-to-replace-it-with-rapidride-r-line",
-   "paras": [
-    "It's official: Route 7 is headed toward elimination after the King County Council voted unanimously Nov. 24 to approve the implementation of the RapidRide R Line, despite community pushback.",
-    "Over the past several months, lawmakers reintroduced a proposal that would eliminate the Route 7 bus and replace it with a RapidRide Line. The approval of the ordinance establishes the general route and bus stops of the R Line and will allow King County Metro to move into the next design phase. RapidRide service is currently scheduled to begin in 2032.",
-    "\"It is crucial that we keep this vital transit project moving forward to benefit the residents of Southeast Seattle,\" said Rhonda Lewis, outgoing District 2 councilmember and sponsor of the ordinance. \"The R Line will provide faster and more frequent service on one of Metro's busiest pathways; a historic, well-used one.\"",
-    "This proposal has sparked heated conversation . While Route 7 is the second-busiest bus route in the entire county, with more than 11,000 daily riders, few people showed up to testify before the council vote.",
-    "Some see the RapidRide line as a great investment for South Seattle's transit system. Others have criticized the plan over the elimination of up to 36 stops, which could negatively impact people with disabilities and elders.",
-    "There's been nearly a six-year pause since the project first began. The groundwork started in 2019 before coming to a halt in 2020 due to the pandemic and funding delays.",
-    "King County Metro says the addition of a RideRide line in South Seattle would bring faster and more reliable bus service and upgrade bus stops. Metro would also work with the City of Seattle to improve roads and sidewalks.",
-    "But the biggest concern voiced by riders is that the RapidRide line could skip up to 36 existing Route 7 stops . Of the stops slated to be eliminated, they would be serviced by other routes, such as routes 9, 14, 50, 106, 107, and 547 or be within 0.2 miles of a planned R Line stop. Community members have said that not everyone can walk those longer distances, especially elders, people with disabilities, and those with children.",
-    "Even councilmembers have questioned the trade-offs of bringing this service to South Seattle, given community concerns.",
-    "\"When we hear from members of the surrounding community … that this service will actually be a degradation because of loss of stops, frequent and reliable service is only as good as people's ability to get on it,\" said Claudia Balducci, District 6 council member at a Nov. 17 Transportation, Economy, and Environment committee meeting.",
-    "But ultimately, the full council voted to approve the ordinance to avoid further delay.",
-    "To address those concerns, at the Nov. 24 meeting, Lewis and Teresa Mosqueda, District 8 councilmember, cosponsored an amendment that would require Metro to continue gathering feedback from residents and community organizations on the location of bus stops.",
-    "\"[The amendment] strikes a reasonable balance between keeping the project moving and ensuring that we are lifting up the voices of the impacted communities and factoring those into final station decisions,\" said Steffanie Fain, District 5 councilmember. \"It also gives us an opportunity to hear and understand how that community feedback is incorporated.\"",
-    "November 2026: King County Council approves the general route and station locations for the RapidRide R Line December 2026 and January 2027: Community feedback meetings 2028: Metro expects to finalize the route and stop locations 2030: Construction is scheduled to begin 2032: RapidRide service is scheduled to begin",
-    "The final route and location of the stops could be finalized in 2028. Construction is set to begin in 2030. King County Executive Girmay Zahilay proposed funding in this year's budget to expedite the delivery of the bus.",
-    "Zahilay previously spoke with the Emerald and said he is committed to creating a separate service plan for residents who live near the South Prentice loop to ensure they continue to have access to transit.",
-    "While the RapidRide R Line is anticipated to begin service in 2032, Zahilay has voiced his commitment to speed up the process to deliver the service faster to residents.",
-    "According to council staff at the Nov. 24 meeting, now that the ordinance is approved, Metro will be in charge of deciding the R Line's route and stops. If the council wanted to intervene during the design process, it could put forward a motion or an ordinance.",
-    "Shortly after being sworn in as the new District 2 councilmember, Rebecca Saldaña told the Emerald that she's already met with the executive and Metro and will continue to meet with them regularly to oversee the project.",
-    "Looking ahead, Saldaña expressed how she would like to build a work plan with Metro that's more hands-on and engaging.",
-    "\"I do think moving forward, we know we can do better, but we definitely want to make sure that it's actually owned by the community,\" Saldaña said.",
-    "Metro said that during the upcoming community engagement, the design process will include talking to community members about the proposed station locations and whether additional stations should be added.",
-    "According to Saldaña, she and Metro will host upcoming meetings in December and January to gather more community feedback about the Rapid Ride R Line.",
-    "In the meantime, King County Metro recommends community members sign up for updates on the R Line webpage and email feedback to rapidride@kingcounty.gov .",
-    "Metro is required to brief the Transportation, Economy, and Environment Committee by June 30, 2028, on station decisions, transit safety task force recommendations, and community feedback."
-   ],
-   "img": "https://media.assettype.com/southseattleemerald/import/wp-content/uploads/2018/08/dsc00009.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
    "id": "f-chs-urtfighttoblocki638beforedecemberrollout",
    "srcKey": "chs",
    "cat": "local",
@@ -423,66 +945,6 @@
     "Looking ahead to early 2027, the city will host The Power of Connection , a four-part January event series exploring movement, gathering, time, and nature through art and storytelling. Residents and local groups can spread the word using the partner toolkit and sign up for project alerts at seattle.gov ."
    ],
    "img": "https://i0.wp.com/www.capitolhillseattle.com/wp-content/uploads/2025/08/PlymouthPillarsPicnic2025-9.jpg?resize=584%2C389&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-0071bestseatacairportfoodrestaurantguide",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "The Best Restaurants and Bars at Sea-Tac International Airport (SEA)",
-   "author": "<name>Meg van Huygen</name>",
-   "date": "2026-11-25",
-   "url": "https://seattle.eater.com/23780071/best-sea-tac-airport-food-restaurant-guide",
-   "paras": [
-    "Both locals and frequent flyers know that it’s okay to arrive hungry when you’re traveling to Seattle-Tacoma International Airport (SEA), because across its terminals, travelers can find more than 60 spots to eat and drink, from exquisite (or at least palatable) coffee to sit-down dinners. In 2026, the long-awaited C Concourse expansion finally finished and reopened, introducing 13 new dining options, and there are fresh selections in the other concourses, too. Whether you’re looking for Mexican street food, Hawaiian fare, PNW-French fusion, or Southern barbecue — or just something pleasant-tasting to carry you to the gate — this guide will help you choose based on what you’re craving, where you’re departing from, and how much time you think you have.",
-    "For a more comprehensive list of airport dining options, check out Explore SEA’s official website . This list was last updated in November 2026.",
-    "No matter where you’re traveling, make sure to create an Eater account or download the Eater app for iOS to discover great restaurant recommendations in your area and create your own guides.",
-    "Lucky Louie Fish Shack The house specialty here is sustainable Alaskan pollock and salmon, served classically (that is, battered and deep-fried with chips). The fish tacos are a mélange of Pacific Rim flavors: crispy Baja-style salmon, sesame slaw, pickled red onions, and creamy sriracha sauce. Other solid picks include clam chowder, honey teriyaki salmon, and taiyaki, a fish-shaped waffle stuffed with cheesecake filling.",
-    "BrewTop Social If you’re early for a flight, this is the place to kill time — the main attraction here is the second-story view of the airfield, and the secondary attraction is the range of beer and cocktails. They also serve breakfast, lunch, and dinner.",
-    "Co-owners Elonka and Martin Perez opened their newest location of Taco Street in 2026 after being selected as one of the first recipients of the Port of Seattle’s small-business incubator program from a pool of dozens of hopeful vendors. This family-run taqueria serves Mexican favorites made with slow-cooked meats like carne asada, barbacoa, al pastor, and pollo. Vegetarian fillings like potato, elote, and soyrizo are also available. Quesabirria tacos are available either as singles or a trio, and carne asada fries come dressed with pico de gallo, sour cream, and guac. There’s also burritos — in breakfast and non-breakfast formats — ceviche, mangonadas, and five different agua fresca flavors made fresh daily.",
-    "Salty’s at the SEA If you have time for a sit-down meal, this branch of West Seattle seafood destination Salty’s on Alki has a wide range of breakfast, lunch, and dinner options as well as an oyster bar — plus a display that shows Salty’s waterfront views on sunny days. Beats the (probably) rainy sky.",
-    "Floret At the intersection of Concourses A and B, next to the Delta Lounge, this spin-off of renowned Seattle vegetarian restaurant Cafe Flora serves a totally meat-free menu. Dishes include brioche breakfast sandwiches, seasonal veggie scrambles, and pastries, like Flora’s popular vegan cinnamon rolls. Floret has plenty of lunch and dinner options, too, such as grain bowls, salads, and a black bean burger.",
-    "Mi Casa Cantina This colorful Tex-Mex bar-resto is a solid choice for nachos, tacos, and burritos, and the guac is a crowd fave. It also has an extensive cocktail menu that showcases tequila and mezcal, and there’s even a selection of frozen margs. They make a fine paloma too.",
-    "LouLou Market and Bar Thierry Rautureau, Seattle’s famous “Chef in the Hat,” died in 2023 . After a storied career, his last remaining restaurant is LouLou Market and Bar, featuring dishes like salade Niçoise, a prime rib French dip sandwich, and crepes.",
-    "Nanny’s: A Northwest BBQ Joint (C Gate) Bringing a local take on down-home barbecue to the sometimes shi-shi C Concourse, Nanny’s is doing Southern smoked meats with some Northwestern tweaks thrown in. Plates with slow-smoked brisket, pulled pork, and pork ribs are the mains, served with cornbread, honey butter, coleslaw, and pickles. Sandwich options include pulled pork or shredded tri-tip on a sweet Hawaiian bun, topped with slaw, barbecue sauce, and crispy onions. Wings — er, “wangs” — come in sauce options like spicy barbecue or hot honey, and there are loaded waffle fries and smoked salmon chowder. The menu also includes comfort-food sides like mac and cheese or coleslaw, big salads, and even a classic Seattle dog.",
-    "Just across from Nanny’s BBQ, this pretty little teal-and-gold cocktail bar serves drinks with global flavors. Some crowd faves are the Silk Road Lychee Martini, made with vodka, lychee syrup, and fresh lime, and the Yuzu Kiss, with vodka, raspberry puree, lemon, simple syrup, and yuzu liqueur. For a nonalcoholic option, the Taipei Jasmine Fizz blends pineapple juice, jasmine tea, simple syrup, and soda. Drinks can be chased with snacks like the Bavarian pretzel charcuterie board, stacked with cured meats, artisanal cheeses, fruit, and dipping sauce, or some spinach artichoke Parmesan dip with veggie flatbread. The sausage breakfast croissant presents very luxe, too, while the bar’s Art Deco-ish stylings and white marble bartop give it a swanky feel that seems, well, appropriate in the slightly more upscale C Gates.",
-    "Dish D’Lish TV chef Kathy Casey’s grab-and-go spot is of the best places to eat in the airport for those with dietary restrictions, stocked as it is with plenty of gluten-free options. Salads include wasabi potatoes, Mediterranean quinoa, and Northwest couscous.",
-    "Hachi-ko This restaurant offers wide-ranging Asian cuisine. Diners can find hot dishes like teriyaki and chicken adobo, plus made-to-order poke bowls and heaping breakfasts with sticky rice, scrambled eggs, and Portuguese sausage for (by airport standards) a steal. There’s also a grab-and-go case with sandwiches, salads, and Spam musubis.",
-    "Le Grand Comptoir The upscale option near the C Gates is Le Grand Comptoir, French for “airport wine bar.” There’s an ample wine list that naturally features a lot of Washington wine, plus small plates, charcuterie, and tartines.",
-    "Poke to the Max A modern Seattle icon, Sam Choy’s Poke to the Max serves Hawaiian classics from early morning through late evening. Options include customizable poke bowls, loco moco topped with sunny-side-up eggs, burgers and kalua pork sandwiches on King’s Hawaiian buns, and ice cream flavors like lilikoʻi (a.k.a. passionfruit) and pineapple whip from Seattle’s own Laina’s Handcrafted Ice Cream.",
-    "Ballard Brew Hall This is your spot if you want one more brew before heading out of town. Alongside eight taps pouring craft beers, the Ballard Brew Hall also has a bloody mary menu and a wide selection of breakfast dishes, like cinnamon French toast and biscuits and gravy. (If it’s too late for breakfast, there are also flatbreads.)",
-    "Neighborhood This bubble tea shop features Filipino flavors like leche flan and turon, which is made with jackfruit and banana syrup. But even if you’re not a boba fan, it’s worth a visit for the Fulcrum coffee (Neighborhood uses it in a lovely sesame latte) and a food menu that includes croissant sandwiches and lumpia.",
-    "Seattle Dawg House This hot dog-focused sports bar (locals will get it — dogs like hot dogs and dawgs like Huskies) also serves Belgian liège waffles, replete with pearl sugar, for some reason. Other menu options include a unique take on the Seattle dog, which embellishes the original with barbecue sauce and jalapeños. Sure, why not?",
-    "Greedy Cow Burger Honestly, this area of the airport has very few dining options. For something filling, try this burger place that pairs messy burgers with triple-cooked fries. They also have Impossible burgers for the vegetarian/vegan crowd.",
-    "Moe’s Indian Kitchen The other option around the S gates is this quick-service Indian place that serves familiar dishes like chicken tikka masala.",
-    "Caffe Vita There are quite a few coffee options at SEA, it being the main airport for Seattle and all, but if you’re at all finicky about your espresso, Caffe Vita is what you want. There’s always a line, but it goes fast. The golden milk latte with turmeric, ginger, cardamom, and cinnamon (among other spices) is a luxurious favorite.",
-    "Bambuza Vietnam Kitchen and Bar This family-owned restaurant has a nice selection of Vietnamese dishes, and the portions are generous. Banh mi, pho, massive noodle and rice bowls, and bubble tea smoothies are among the highlights.",
-    "Beecher’s Handmade Cheese In addition to its namesake cheeses, this quintessential Pike Place cheesemaker has a satellite station at SEA, offering Beecher’s famous mac and cheese, hot breakfast items, and grilled sandwiches. It also has a small grab-and-go freezer stocked with Salt and Straw ice cream.",
-    "Lil Woody’s This is a well-loved Seattle burger chain famous for its collabs with notable local chefs. Though it’s best known for its milkshakes and burgs, you should be aware of the breakfast menu at this location, which features a New Mexican-style breakfast sandwich with Hatch chiles and bacon, plus bloody marys and other morning cocktails.",
-    "Skillet is an upscale diner chain that started out as a famous food truck in the 2000s ; more recently, it has closed most of its restaurants . But you can still find its breakfast-centric offerings at SeaTac Airport."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/chorus/uploads/chorus_asset/file/24763412/lucky_louie.png?quality=90&strip=all&crop=0,0,100,100",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-eater-commapsseattlebestnewbarscocktailheatmap",
-   "srcKey": "eater",
-   "cat": "food",
-   "title": "Seattle’s Best New Bars",
-   "author": "<name>Brianna Gunter</name>",
-   "date": "2026-11-25",
-   "url": "https://seattle.eater.com/maps/seattle-best-new-bars-cocktail-heatmap",
-   "paras": [
-    "Welcome to the Eater Seattle bar heatmap, highlighting the hottest new drinking destinations in and around Seattle. We’re using an inclusive definition of “bar” here: We’re talking breweries, taprooms, wine bars, dives, cocktail joints, speakeasies, pretty much any place you can get a stool and a glass.",
-    "This season’s new additions include a medieval luxury-dive bar (!?), a cafe for espresso-based cocktails, and a jazz bar with sake, among others. Create an Eater account to save your favorite restaurants on the site or download the Eater app for iOS to discover even more great restaurant recommendations in your area and create your own guides.",
-    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
-    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
-   ],
-   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/Solette_3_Brianna-Gunter_Eater-Seattle.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -556,131 +1018,97 @@
    "annos": null
   },
   {
-   "id": "f-cascade-portinoutbackhistoryimnotgoingtotryagain",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "The one sport in ‘Out & Back’ history I’m not going to try again",
-   "author": "Alison Mariella Désir",
+   "id": "f-eater-0071bestseatacairportfoodrestaurantguide",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "The Best Restaurants and Bars at Sea-Tac International Airport (SEA)",
+   "author": "<name>Meg van Huygen</name>",
    "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/out-back-alison-mariella-desir/2026/11/the-one-sport-in-out-back-history-im-not-going-to-try-again/",
+   "url": "https://seattle.eater.com/23780071/best-sea-tac-airport-food-restaurant-guide",
    "paras": [
-    "Last week, a member of the Seattle running community was brutally detained at the Seattle airport. You may have already seen the horrific footage circulating on social media this week. Unfortunately, this is one of just thousands of stories of abuse and kidnapping at the hands of ICE across the country. A family member has set up a GoFundMe to cover legal fees .",
-    "After every episode, I typically leave feeling like I can’t wait to try the activity again. Roller derby may be the only exception. Not because I didn’t have an amazing time – in fact, I did. I had SO much fun. My guest for the episode, Bear Witchproject aka Jordan Alam, was truly delightful to be around. She founded her roller derby team, PNW Bats, as a space for BIPOC skaters to come together and enjoy the game. One thing that separates roller derby from many other sports is that it has a long history of being a queer and gender-inclusive space. It was refreshing to be in such a welcoming space where differences are celebrated.",
-    "Bear taught me essential roller skating skills, like stopping without crashing into a wall and turning on roller skates and even how to roller skate side by side in a pack with other people, something that generally makes me very nervous. However, when I got to experience a roller derby bout between the PNW Bats and Cats I realized that I would never be ready or willing to endure the physicality of the sport! The whole purpose of the game is to block one person, the jammer, from making their way around the rink. And who is doing the blocking? Very strong, large humans with arms interlocked, moving back and forth to create a moving wall. So while I will never take up roller derby myself, I do hope to continue to follow and support the PNW Bats.",
-    "Out & Back Season Preview Screening Thursday, Feb. 4, 2027 | 7 p.m. | 316 Broadway Ave., Seattle, WA",
-    "You're invited to a special preview screening of the new season of Out & Back with Alison Mariella Désir. I'll be hosting a behind-the-scenes look at the season, followed by a panel conversation with guests from the new episodes. We’ll talk about how Black, Indigenous and people of color are reclaiming outdoor spaces and finding joy, community and healing in the Pacific Northwest.",
-    "2027 Explore! Family Fair Saturday, March 6, 2027 | 9 a.m. – 3 p.m. | Exhibition Hall, Seattle Center",
-    "Cascade PBS's annual family event, Explore! Family Fair, is back for its fifth year! Our first year at Seattle Center taught us a lot as the event nearly quadrupled in size. Based on your feedback, we've also shortened the event hours, so the day works better for exhibitors, volunteers and families.",
-    "Along with the activities and exhibitors that families have loved in past years, we're excited to bring back a special photo opportunity with PBS Kids' Daniel Tiger, which we expect will draw more than 1,000 guests. Past activities include a parkour park, skateboard building, face painting, a hot cocoa station, flower-planting kits, bird identification, mushroom grow kits, balloon animal-making and a little library.",
-    "These events will both be FREE with an RSVP, and more info will be available before the year end on our website ."
+    "Both locals and frequent flyers know that it’s okay to arrive hungry when you’re traveling to Seattle-Tacoma International Airport (SEA), because across its terminals, travelers can find more than 60 spots to eat and drink, from exquisite (or at least palatable) coffee to sit-down dinners. In 2026, the long-awaited C Concourse expansion finally finished and reopened, introducing 13 new dining options, and there are fresh selections in the other concourses, too. Whether you’re looking for Mexican street food, Hawaiian fare, PNW-French fusion, or Southern barbecue — or just something pleasant-tasting to carry you to the gate — this guide will help you choose based on what you’re craving, where you’re departing from, and how much time you think you have.",
+    "For a more comprehensive list of airport dining options, check out Explore SEA’s official website . This list was last updated in November 2026.",
+    "No matter where you’re traveling, make sure to create an Eater account or download the Eater app for iOS to discover great restaurant recommendations in your area and create your own guides.",
+    "Lucky Louie Fish Shack The house specialty here is sustainable Alaskan pollock and salmon, served classically (that is, battered and deep-fried with chips). The fish tacos are a mélange of Pacific Rim flavors: crispy Baja-style salmon, sesame slaw, pickled red onions, and creamy sriracha sauce. Other solid picks include clam chowder, honey teriyaki salmon, and taiyaki, a fish-shaped waffle stuffed with cheesecake filling.",
+    "BrewTop Social If you’re early for a flight, this is the place to kill time — the main attraction here is the second-story view of the airfield, and the secondary attraction is the range of beer and cocktails. They also serve breakfast, lunch, and dinner.",
+    "Co-owners Elonka and Martin Perez opened their newest location of Taco Street in 2026 after being selected as one of the first recipients of the Port of Seattle’s small-business incubator program from a pool of dozens of hopeful vendors. This family-run taqueria serves Mexican favorites made with slow-cooked meats like carne asada, barbacoa, al pastor, and pollo. Vegetarian fillings like potato, elote, and soyrizo are also available. Quesabirria tacos are available either as singles or a trio, and carne asada fries come dressed with pico de gallo, sour cream, and guac. There’s also burritos — in breakfast and non-breakfast formats — ceviche, mangonadas, and five different agua fresca flavors made fresh daily.",
+    "Salty’s at the SEA If you have time for a sit-down meal, this branch of West Seattle seafood destination Salty’s on Alki has a wide range of breakfast, lunch, and dinner options as well as an oyster bar — plus a display that shows Salty’s waterfront views on sunny days. Beats the (probably) rainy sky.",
+    "Floret At the intersection of Concourses A and B, next to the Delta Lounge, this spin-off of renowned Seattle vegetarian restaurant Cafe Flora serves a totally meat-free menu. Dishes include brioche breakfast sandwiches, seasonal veggie scrambles, and pastries, like Flora’s popular vegan cinnamon rolls. Floret has plenty of lunch and dinner options, too, such as grain bowls, salads, and a black bean burger.",
+    "Mi Casa Cantina This colorful Tex-Mex bar-resto is a solid choice for nachos, tacos, and burritos, and the guac is a crowd fave. It also has an extensive cocktail menu that showcases tequila and mezcal, and there’s even a selection of frozen margs. They make a fine paloma too.",
+    "LouLou Market and Bar Thierry Rautureau, Seattle’s famous “Chef in the Hat,” died in 2023 . After a storied career, his last remaining restaurant is LouLou Market and Bar, featuring dishes like salade Niçoise, a prime rib French dip sandwich, and crepes.",
+    "Nanny’s: A Northwest BBQ Joint (C Gate) Bringing a local take on down-home barbecue to the sometimes shi-shi C Concourse, Nanny’s is doing Southern smoked meats with some Northwestern tweaks thrown in. Plates with slow-smoked brisket, pulled pork, and pork ribs are the mains, served with cornbread, honey butter, coleslaw, and pickles. Sandwich options include pulled pork or shredded tri-tip on a sweet Hawaiian bun, topped with slaw, barbecue sauce, and crispy onions. Wings — er, “wangs” — come in sauce options like spicy barbecue or hot honey, and there are loaded waffle fries and smoked salmon chowder. The menu also includes comfort-food sides like mac and cheese or coleslaw, big salads, and even a classic Seattle dog.",
+    "Just across from Nanny’s BBQ, this pretty little teal-and-gold cocktail bar serves drinks with global flavors. Some crowd faves are the Silk Road Lychee Martini, made with vodka, lychee syrup, and fresh lime, and the Yuzu Kiss, with vodka, raspberry puree, lemon, simple syrup, and yuzu liqueur. For a nonalcoholic option, the Taipei Jasmine Fizz blends pineapple juice, jasmine tea, simple syrup, and soda. Drinks can be chased with snacks like the Bavarian pretzel charcuterie board, stacked with cured meats, artisanal cheeses, fruit, and dipping sauce, or some spinach artichoke Parmesan dip with veggie flatbread. The sausage breakfast croissant presents very luxe, too, while the bar’s Art Deco-ish stylings and white marble bartop give it a swanky feel that seems, well, appropriate in the slightly more upscale C Gates.",
+    "Dish D’Lish TV chef Kathy Casey’s grab-and-go spot is of the best places to eat in the airport for those with dietary restrictions, stocked as it is with plenty of gluten-free options. Salads include wasabi potatoes, Mediterranean quinoa, and Northwest couscous.",
+    "Hachi-ko This restaurant offers wide-ranging Asian cuisine. Diners can find hot dishes like teriyaki and chicken adobo, plus made-to-order poke bowls and heaping breakfasts with sticky rice, scrambled eggs, and Portuguese sausage for (by airport standards) a steal. There’s also a grab-and-go case with sandwiches, salads, and Spam musubis.",
+    "Le Grand Comptoir The upscale option near the C Gates is Le Grand Comptoir, French for “airport wine bar.” There’s an ample wine list that naturally features a lot of Washington wine, plus small plates, charcuterie, and tartines.",
+    "Poke to the Max A modern Seattle icon, Sam Choy’s Poke to the Max serves Hawaiian classics from early morning through late evening. Options include customizable poke bowls, loco moco topped with sunny-side-up eggs, burgers and kalua pork sandwiches on King’s Hawaiian buns, and ice cream flavors like lilikoʻi (a.k.a. passionfruit) and pineapple whip from Seattle’s own Laina’s Handcrafted Ice Cream.",
+    "Ballard Brew Hall This is your spot if you want one more brew before heading out of town. Alongside eight taps pouring craft beers, the Ballard Brew Hall also has a bloody mary menu and a wide selection of breakfast dishes, like cinnamon French toast and biscuits and gravy. (If it’s too late for breakfast, there are also flatbreads.)",
+    "Neighborhood This bubble tea shop features Filipino flavors like leche flan and turon, which is made with jackfruit and banana syrup. But even if you’re not a boba fan, it’s worth a visit for the Fulcrum coffee (Neighborhood uses it in a lovely sesame latte) and a food menu that includes croissant sandwiches and lumpia.",
+    "Seattle Dawg House This hot dog-focused sports bar (locals will get it — dogs like hot dogs and dawgs like Huskies) also serves Belgian liège waffles, replete with pearl sugar, for some reason. Other menu options include a unique take on the Seattle dog, which embellishes the original with barbecue sauce and jalapeños. Sure, why not?",
+    "Greedy Cow Burger Honestly, this area of the airport has very few dining options. For something filling, try this burger place that pairs messy burgers with triple-cooked fries. They also have Impossible burgers for the vegetarian/vegan crowd.",
+    "Moe’s Indian Kitchen The other option around the S gates is this quick-service Indian place that serves familiar dishes like chicken tikka masala.",
+    "Caffe Vita There are quite a few coffee options at SEA, it being the main airport for Seattle and all, but if you’re at all finicky about your espresso, Caffe Vita is what you want. There’s always a line, but it goes fast. The golden milk latte with turmeric, ginger, cardamom, and cinnamon (among other spices) is a luxurious favorite.",
+    "Bambuza Vietnam Kitchen and Bar This family-owned restaurant has a nice selection of Vietnamese dishes, and the portions are generous. Banh mi, pho, massive noodle and rice bowls, and bubble tea smoothies are among the highlights.",
+    "Beecher’s Handmade Cheese In addition to its namesake cheeses, this quintessential Pike Place cheesemaker has a satellite station at SEA, offering Beecher’s famous mac and cheese, hot breakfast items, and grilled sandwiches. It also has a small grab-and-go freezer stocked with Salt and Straw ice cream.",
+    "Lil Woody’s This is a well-loved Seattle burger chain famous for its collabs with notable local chefs. Though it’s best known for its milkshakes and burgs, you should be aware of the breakfast menu at this location, which features a New Mexican-style breakfast sandwich with Hatch chiles and bacon, plus bloody marys and other morning cocktails.",
+    "Skillet is an upscale diner chain that started out as a famous food truck in the 2000s ; more recently, it has closed most of its restaurants . But you can still find its breakfast-centric offerings at SeaTac Airport."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/Out-and-Back-Hero.jpg",
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/chorus/uploads/chorus_asset/file/24763412/lucky_louie.png?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-aimingthanksgivingfromanativeperspective",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "Reclaiming Thanksgiving from a Native perspective",
-   "author": "Jaelynn Grisso",
+   "id": "f-eater-commapsseattlebestnewbarscocktailheatmap",
+   "srcKey": "eater",
+   "cat": "food",
+   "title": "Seattle’s Best New Bars",
+   "author": "<name>Brianna Gunter</name>",
    "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/the-newsfeed-2/2026/11/reclaiming-thanksgiving-from-a-native-perspective/",
+   "url": "https://seattle.eater.com/maps/seattle-best-new-bars-cocktail-heatmap",
    "paras": [
-    "November is Native American Heritage Month. Thanksgiving Day can be complicated for many Native Americans, including Kristina Pearson, Executive Director of Duwamish Tribal Services.",
-    "“Thanksgiving was just something that happened, and you accepted that it happened because this is what people do in America,” she said.",
-    "\"We're Duwamish, Suquamish, Chinook [and] Snoqualmie,” Pearson said as she introduced herself. “My mother is Cindy. My grandmother is Cecile Hansen. Cecile has been chairwoman for the tribe for 51 years now.\"",
-    "When it comes to Thanksgiving, Pearson thinks about the first winter after Denny party settlers came to the Puget Sound in 1851.",
-    "“There were like instances of like folks not being able to feed their babies. And because there weren't necessarily, you know, cows for milk here. And Duwamish people, women,” she paused. “I feel like women don't get enough credit. We talk about Chief Seattle a lot. I have a whole speech where I go into how we're related to Seattle, but then I pivot and I talk about how really, It's about his sister and their mother. So I kind of imagine it to be these the women, right, who would have shown that those colonial women how to use clam juice to feed their babies.”",
-    "These days, she says that particular Thursday has become more focused on gathering and being together. As for being grateful? That’s a regular practice",
-    "“We went out to harvest some devil's club recently, right, and you leave something as a way to say thank you,” she said. “And that's just an everyday thing. Not on, you know, some obscure day in November.”",
-    "A local, grassroots effort allows people living in Seattle, including folks outside of the Native community, to directly support the Duwamish tribe by paying rent.",
-    "Jerome Hagen, volunteer for the Duwamish Solidarity Group, explained Real Rent Duwamish .",
-    "\"It is a way for people to pay a symbolic rent to the tribe,” he said. “Many of us have to pay rent that we have no choice over, but we have the opportunity to pay rent to the first people of this land, the Duwamish tribe, who've been here since time immemorial.”",
-    "The rent is symbolic, but the money is real. The program began almost a decade ago to provide material support to the Duwamish people. The Duwamish Tribe is not recognized by the federal government, so it doesn’t get the same powers, funding and services as tribes with recognition.",
-    "“The actual origin of Real Rent is there was a conversation that members of the solidarity group were having with Cecile Hansen, the chairwoman of the tribe,” Hagen said. “The thing she said was, if everybody in the Seattle area could just give $1 to the Duwamish tribe, the tribe would be in much better shape. And so out of that conversation, Real Rent was created as a way to make that possible and to create a structure for people to do that.”",
-    "For Olivia Johnson from the Duwamish tribe, Real Rent’s impact can’t be understated.",
-    "“They helped us to do so much that we've never been able to do before. It's just like night and day. Like, from just being... operated out of, you know, rented offices and business parks all throughout King County to having our own spot, and keeping the legacy of the Duwamish people alive. [That includes] providing services for our tribal members that we were not able to provide before,\" she said. “We have a lot of tribal members who are very low income, who are struggling, and there are some people in our tribe who really depend on those services to get through the month.”",
-    "As Thanksgiving approaches, Hagen says it’s a chance to build relationships.",
-    "“We all have an opportunity to have to rethink about Thanksgiving in a way that actually builds towards that true partnership between indigenous people and the other people who have arrived here,” he said. “To be able to use Thanksgiving as a way to build a relationship, to form partnerships with indigenous tribes and indigenous people, to be able to purchase from indigenous tribes, to be able to support indigenous tribes, to help them in their fights and struggles that are going on that can hopefully turn Thanksgiving into something that that we can be proud of as a way to live together in partnership.”",
-    "For local documentarian and art gallery owner Matika Wilbur, reimaging Thanksgiving means learning the true history and embracing Indigenous teachings: not just in November, but year-round.",
-    "“Whenever we talk about Thanksgiving, we have to acknowledge that it's rooted in historical fallacy,” she said. “There was never a Thanksgiving meal that involves turkey because Indigenous people, or specifically Wampanoag people were like, ‘Yeah, let's not fight. You’re welcome here, and take our land!’ It didn't work like that. That didn't really happen.”",
-    "“There was King Philip's War,” she said. “There was a peace agreement made. The agreement was that, you know, the fighting would stop and alliances were made. There was a meal shared. And what followed were early colonizers abusing that alliance and the peace treaty stopped. So it's really important that we remember that that's what happened.”",
-    "For Wilbur, owner of Tidelands Native Art Gallery, rethinking Thanksgiving also means building relationships and learning more about Indigenous nations.",
-    "“Reframing the narrative around Thanksgiving involves folks learning how to become true allies to Indigenous nations here in the Pacific Northwest,\" she said. “Learn how to say all of our names. Learn how to speak Lushootseed. Teach your children. Bring them to our lands. Bring them to be in relationship and in kinship with Indigenous peoples.”",
-    "She created Tidelands in downtown Seattle as a place to support learning and community building.",
-    "“We exist to be a space to foster Indigenous scholarship and Indigenous futurity, and part of that work includes doing language restoration work. We host Lushootseed language classes here,” she said, going on to explain other ways they use the space as well. “We host Coast Salish design classes, basket classes, you know, like weaving and beadwork... We have a book club with our podcast. We host incredible native authors.”",
-    "For her, Thanksgiving is beside the point. She says what' s important is relating to the land and its people, throughout the year.",
-    "“We're not saying cancel Thanksgiving, right? Because it's important we should give thanks,” she said. “We should learn how to be people that are grateful for the abundance in our lives, right? To push back against overconsumption and fast fashion and globalized food economies and learn how to be, in relationship with, and stewards of salmon and stewards of camas and stewards of huckleberries and stewards of fresh, clean water. All of that is part of giving thanks and being in right relationship with this territory.”"
+    "Welcome to the Eater Seattle bar heatmap, highlighting the hottest new drinking destinations in and around Seattle. We’re using an inclusive definition of “bar” here: We’re talking breweries, taprooms, wine bars, dives, cocktail joints, speakeasies, pretty much any place you can get a stool and a glass.",
+    "This season’s new additions include a medieval luxury-dive bar (!?), a cafe for espresso-based cocktails, and a jazz bar with sake, among others. Create an Eater account to save your favorite restaurants on the site or download the Eater app for iOS to discover even more great restaurant recommendations in your area and create your own guides.",
+    "Know of a spot that should be on our radar? Send us a tip by emailing seattle@eater.com .",
+    "For all the latest Seattle dining intel, subscribe to Eater Seattle’s newsletter."
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/20261125_Header--1-.png",
+   "img": "https://platform.seattle.eater.com/wp-content/uploads/sites/27/2025/11/Solette_3_Brianna-Gunter_Eater-Seattle.jpg?quality=90&strip=all&crop=0,0,100,100",
    "fetched": true,
    "fullText": true,
    "annos": null
   },
   {
-   "id": "f-cascade-orgshowflicksepisodestdenismedicaladflep",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "St. Denis Medical",
-   "author": "Cascade PBS Staff",
+   "id": "f-kuow-paMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGcoc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "Extreme tides start to land on Washington coast",
+   "author": "",
    "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/show/flicks/episode/st-denis-medical-adflep/",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFRlLTJBczZvTkRsbGtTSVlTV25NUWFialRnUEN0YW5jczM4b2NZZjhNNDg2d2NXbWdMWUxtUFo2QUE2NkwyT1RzdXg5WGVyRVkwa2E4TXlyc3Y3X0taR1VTNVZsZnZiS0MzbDVGd0dtNFN6MHFxbW1jeEpaMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGc?oc=5",
    "paras": [
-    "David Alan Grier talks with Patrick Stoner about the changes in comedy since he started decades ago."
+    "Extreme tides start to land on Washington coast KUOW"
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/9e29275b-ef05-4b2d-8fb1-9be20a47f56b.jpg",
+   "img": "",
    "fetched": true,
    "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
-   "id": "f-cascade-iobecameprovocateursofarchitecturenelqi3",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "How Liz Diller and Ric Scofidio Became “Provocateurs” of Architecture",
-   "author": "Cascade PBS Staff",
+   "id": "f-kuow-NSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13oc5",
+   "srcKey": "kuow",
+   "cat": "local",
+   "title": "How one Seattle food bank navigates challenging times and continues to grow",
+   "author": "",
    "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/extras/how-liz-diller-and-ric-scofidio-became-provocateurs-of-architecture-nelqi3/",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZfS1UzVHFpcWdvb2tzVE51ZE5uZXBzTktBTXhRNmpLUFNuaTRoXzZzNlY5ekw0QlZvbkJlSHJwMElUSWh4bldXdHRvNXduTHc4Vjg0cmRQYTJUUk5HS1hxdjVISjhaU2tSNjJrUTJQNXZock9nY1l6akhsVl9kaU56NVF5MnlSbEFYSGR3eFB3VkswTTdNSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13?oc=5",
    "paras": [
-    "She's an architect who has spent her career challenging convention, blurring the lines between architecture, art and performance. From transforming New York's abandoned railway into the iconic High Line to designing a women's mosque in Doha that uses light to evoke spirituality. Liz Diller joins the show to talk about her provocative vision and a lifetime of pushing boundaries."
+    "How one Seattle food bank navigates challenging times and continues to grow KUOW"
    ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/e70beb6e-c4be-44b3-a421-5eeecb085852.jpg",
+   "img": "",
    "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-howamanpourcoepisodenovember2420265jjvhm",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "November 24, 2026",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/show/amanpour-co/episode/november-24-2026-5jjvhm/",
-   "paras": [
-    "The Atlantic's Charlie Warzel discusses the decision to reinstate Jensen Huang as CEO of Nvidia and the subsequent backlash. Fmr Spanish Foreign Minister Arancha González Laya on her country's upcoming snap elections. Èlia Gasull Balada and Matteo Norzi's new documentary explores the life of artist Sara Flores. Legendary architect Liz Diller looks back at some of her biggest accomplishments."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/2a959abd-dcf1-4a7e-ae34-4c4cadf201ac.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-cascade-sorgshownewshourextrasnewswrap1795559148",
-   "srcKey": "cascade",
-   "cat": "arts",
-   "title": "News Wrap: California king tides could be biggest in decades",
-   "author": "Cascade PBS Staff",
-   "date": "2026-11-25",
-   "url": "https://www.cascadepbs.org/show/newshour/extras/news-wrap-1795559148/",
-   "paras": [
-    "In our news wrap Tuesday, California is bracing for king tides along the Pacific coast that could be the biggest in four decades, President Trump awarded Rudolph Giuliani the Medal of Freedom, FBI Deputy Director Christopher Raia is reportedly retiring in December and a jury in New York found Chinese tech giant Huawei guilty of conspiring to steal U.S. trade secrets and evading sanctions."
-   ],
-   "img": "https://www.cascadepbs.org/content/images/2026/11/92264ffa-5c94-4c06-b40e-9d8792f3ade0.jpg",
-   "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -733,311 +1161,6 @@
    "img": "https://www.propublica.org/wp-content/uploads/2026/11/updated-final-michelle-urra_maxHeight_3000_maxWidth_3000.jpg?w=1149",
    "fetched": true,
    "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ittlefreebakeryaustincommunityconnection",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "At this Little Free Bakery in Austin, neighbors come for the pastries and stay for community connection",
-   "author": "Wynne Davis",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
-   "paras": [
-    "The bakers behind these pop-up pastry drops aren't raking in the profits, but they are building a space for people to come together in polarized times."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3826x2551+0+0/resize/3826x2551!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fce%2F80%2F555a7e1743589aea5059c3896b95%2F20260906-freebakerynorthloop-06.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ocratsfreshmanleadershipschumervanhollen",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Group of Senate Democrats push to add freshman to leadership",
-   "author": "Barbara Sprunt",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-   "paras": [
-    "Several Democratic senators have been signaling this move, saying the party needs to acknowledge the diverse class of incoming freshman that catapulted the party to victory in November.",
-    "(Image credit: Chip Somodevilla/Getty Images)"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/5890x3927+0+0/resize/5890x3927!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F43%2F3b%2F29bab78c4dbabe5ff0b0354fe457%2Fgettyimages-2184408117.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-048614thanksgivingliberiagratitudeprayer",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-   "author": "Ari Daniel",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-   "paras": [
-    "The first settlers of Liberia were African Americans who brought along the holiday of Thanksgiving — which has evolved to reflect the history and identity of this new nation."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1280x960+0+0/resize/1280x960!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F9c%2Fcdbbeb7644308b0cf64b036b7f76%2Fliberian-thanksgiving-10.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-eforeusingaiagentsforblackfridayshopping",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "What to know before using AI agents for Black Friday shopping",
-   "author": "Stephan Bisaha",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-   "paras": [
-    "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation"
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3733x2490+0+0/resize/3733x2490!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F9c%2F3a%2F99324afc42febd0bdf8ef965b3a1%2Fgettyimages-2297767958.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-npr-ationkilmarabregogarcianvidiajensenhuang",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
-   "author": "Brittney Melton",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
-   "paras": [
-    "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide. And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S."
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-npr-reactionrepublicanscongressinvestigation",
-   "srcKey": "npr",
-   "cat": "national",
-   "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-   "author": "Michel Martin",
-   "date": "2026-11-25",
-   "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
-   "paras": [
-    "\"The public is rightly concerned,\" says the Republican lawmaker, who wants to know what the FBI and CIA knew about potential national security threats and whether Jensen Huang was warned."
-   ],
-   "img": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4500x3001+0+0/resize/4500x3001!/quality/85/format/webp/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F80%2Fe4%2F4f6d59a04c01950dd8cc6ac618a1%2Fgettyimages-1243410569.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescm3vgdn037z4oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Poundland collapses putting 11,000 jobs at risk",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The discount chain has fallen into administration after its owners failed to find a buyer."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c5c/live/1c109380-e906-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-eosckregn0gq2ydoatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Why has Poundland collapsed and what happens next?",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The retail chain has collapsed just one year after being bought for £1 by an American firm."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc81/live/3c9523e0-e8f3-11f1-a094-5fdc692f3e33.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc893r9ke5p97oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "US announces new tariff proposals on EU, China, and other trade partners",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The new levies would hit many of America's biggest trading partners, including China and the EU."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91fc/live/6d9c5c50-e908-11f1-99b6-a35a62fa4264.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lesc38x0vd2yyx5oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Wife drugged and raped by husband asked police if she was to blame, mass sexual offence trial hears",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/articles/c38x0vd2yyx5o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The woman told a court suggestions she was 'pretending to be asleep' were 'absolute rubbish'."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fc0/live/25576350-e8fd-11f1-a094-5fdc692f3e33.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescqy7rn30v314oatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-bbc-lescmp3vk6vr44poatmediumRSSatcampaignrss",
-   "srcKey": "bbc",
-   "cat": "national",
-   "title": "Duran Duran guitarist Andy Taylor dies aged 65",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-   "paras": [
-    "The musician, who co-wrote some of the band's biggest hits, had been treated for prostate cancer."
-   ],
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf5e/live/c090fb90-e918-11f1-8383-53f283141713.jpg",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-eeinterviewbiggesthighlightsmikemccarthy",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘I have 100 witnesses’: the 10 wildest moments from Aaron Rodgers’ explosive ESPN interview",
-   "author": "Guardian sport",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
-   "paras": [
-    "From a half-time huddle gone wrong to an ultimatum over play-calling, here’s what the quarterback said Wednesday in a scorched-earth appearance on Pat McAfee’s show",
-    "Barely 12 hours after the Pittsburgh Steelers announced that Aaron Rodgers would be deactivated and Mason Rudolph would start Friday’s game against the Denver Broncos, the four-time NFL Most Valuable Player left no bridge unburned in a surprise call-in to ESPN’s The Pat McAfee Show.",
-    "In a 34-minute appearance on Wednesday afternoon where he spoke uninterrupted for long stretches, Rodgers accused Steelers head coach Mike McCarthy of falling asleep in a quarterback meeting, skipping walkthroughs and falling behind on film study. He also said the 63-year-old McCarthy broke a half-time huddle against Philadelphia with the words “One, two, three, Packers”. According to Rodgers, McCarthy denied falling asleep at the team facility."
-   ],
-   "img": "https://i.guim.co.uk/img/media/a624831cf558890062e850469978564b0ef2f3a7/655_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a7279ca0e55dc0e297880b559d3c0b93",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-anityfairtakedowntaylorswiftexposehotair",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Is Vanity Fair’s takedown of Taylor Swift illuminating – or just a lot of hot air? | Arwa Mahdawi",
-   "author": "Arwa Mahdawi",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/25/vanity-fair-takedown-taylor-swift-expose-hot-air",
-   "paras": [
-    "A war correspondent interviewed 100 sources about the pop star, but what does the 4,500-word story reveal?",
-    "If you are extremely online you will have known for a while that a big takedown was coming. An exposé of a well-known blond billionaire, a powerful figure that people are terrified to criticise, was in the works at a large publication. A former war correspondent had been assigned the story! A hundred sources had been interviewed! The reporting had taken a year! The truth would finally out!",
-    "For everyone else, let me explain in plain English. On Monday Vanity Fair published an eagerly anticipated, 4,500-word piece, about Taylor Swift called The Mastermind. While it was labelled as “commentary”, it was framed as a deeply sourced piece written by May Jeong, a journalism professor at Princeton who has won awards for her reporting from Afghanistan."
-   ],
-   "img": "https://i.guim.co.uk/img/media/e701d74cc676848d71b5b584176b92c3fcce1d98/0_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=dfdfd3a0bf432b5d2f5562ea0180a33c",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-linstagramseriessusanthausondragoldstein",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Is grandma asking rude questions at the dinner table again? This Instagram account can help",
-   "author": "Jaya Saxena",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/wellness/2026/nov/25/life100-viral-instagram-series-susan-thau-sondra-goldstein",
-   "paras": [
-    "Life100 features the wisdom of two women in their 80s and has gone viral by exploring important life lessons",
-    "It is, unfortunately, a familiar scene. At the dinner table, a woman berates her granddaughter with invasive, personal questions – why are you still single? When are you going to have kids? – punctuated by unnerving thrusts of her steak knife. The granddaughter is clearly uncomfortable, but her grandmother pays no attention.",
-    "Anyone who has been in this situation likely knows what comes next. The granddaughter may try to deflect, only to invite further questioning, or call out her grandmother’s rudeness, which risks escalation."
-   ],
-   "img": "https://i.guim.co.uk/img/media/d54809933e2eee65787d13cd9a4d4669e8792c6e/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=c59726fdbe087d7b2b401631aa5f9b08",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-25inagartenchunkycranberryconserverecipe",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "Ina Garten’s secret to better cranberry sauce in 15 minutes? Start with a can",
-   "author": "Ina Garten",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/ina-garten-chunky-cranberry-conserve-recipe",
-   "paras": [
-    "Sweet, tart and ridiculously easy to make, Ina Garten’s chunky cranberry conserve proves storebought can be spectacular",
-    "Download Feast for more Ina Garten recipes including an easy lobster bake and mustard-roasted meatballs , and more than 8,000 global recipes from Guardian chefs like Yotam Ottolenghi and Meera Sodha",
-    "Thanksgiving is just around the corner, and if you’re still staring down a long list of dishes to prepare, Ina Garten has a little shortcut for you. Her secret to a delicious, homemade-tasting cranberry sauce: start with a can.",
-    "In her new cookbook, Simply Ina, the Barefoot Contessa shares her clever trick for turning store-bought sauce into something special in 20 mins. Garten simmers it with a grated granny smith apple, fresh orange juice and orange zest. The fruit adds brightness and a little tartness, while raisins and chopped pecans stirred in at the end lend sweetness and crunch.",
-    "Recipe edited from Simply Ina, by Ina Garten, published by Clarkson Potter, an imprint of the Crown Publishing Group, a division of Penguin Random House LLC. To order a copy, visit guardianbookshop.com ."
-   ],
-   "img": "https://i.guim.co.uk/img/media/6bd50e0f6ec230f7a34439b6f14b19a9d0007fb2/0_808_4320_3452/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=25f1db93dd78b5b0cfe638b57635fca4",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-ov25blackfridaynontoxiccookwarepansdeals",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "The best Black Friday deals on our favorite expert-tested, Pfas-free cookware",
-   "author": "Marissa Miller",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/25/black-friday-non-toxic-cookware-pans-deals",
-   "paras": [
-    "From Our Place, Field Company, Misen and Caraway more, some of the best pieces are now available at a discount",
-    "Best early Black Friday deals, vetted by the Guardian US",
-    "There’s an argument to be made for being more discerning about your cookware, and Black Friday deals on some of our favorite expert-tested, Pfas-free (per- and polyfluoroalkyl substances) options are a great place to start.",
-    "Pfas, also known as forever chemicals, are notoriously persistent in the environment, taking years or even decades to break down. They can travel through waterways, contaminating drinking water and certain Pfas-containing non-stick coatings can release harmful fumes when overheated. Some have been connected to health issues.",
-    "Visit our ultimate guide to Black Friday for more deals on plastic-free favorites and buy-it-for-life products – all carefully vetted by Filter US editors"
-   ],
-   "img": "https://i.guim.co.uk/img/media/9d143643fa2997b618738a616289f5769efe80bf/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=5e54b3af44e914f6ca7a1109f237aaa5",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-guardian-omlifeandstyle2026nov25friendsgivinggenz",
-   "srcKey": "guardian",
-   "cat": "national",
-   "title": "‘Nobody showed up but me’: will Friendsgiving survive gen Z?",
-   "author": "Alaina Demopoulos",
-   "date": "2026-11-25",
-   "url": "https://www.theguardian.com/lifeandstyle/2026/nov/25/friendsgiving-gen-z",
-   "paras": [
-    "A generation known for loneliness is putting their own spin on a millennial-made tradition that requires socializing",
-    "It’s a TikTok scene straight out of a stress dream: two men stand in their freshly cleaned apartment, explaining how all but one of the people they invited to Friendsgiving flaked out at the last minute. There is a can of whipped cream on the table and a 6lb ham in the oven. According to the video, posted by pop-culture podcaster Jackson Strike, those who ditched were either tired, or sick, or had a difficult day at work.",
-    "More than 1.5 million people liked the video and many flooded to the comments section to express their disappointment at what they saw as an epidemic of antisocial behavior. “Everyone wants a village until they have to be a villager,” one user wrote. “Time to get new friends,” quipped another."
-   ],
-   "img": "https://i.guim.co.uk/img/media/0cc0c758dfb88ba1a8c777776c384c80b2bd0b7c/186_0_7652_6123/master/7652.jpg?width=140&quality=85&auto=format&fit=max&s=660dec1972324f76bc926022b4b3f46d",
-   "fetched": true,
-   "fullText": false,
    "annos": null
   },
   {
@@ -1273,40 +1396,6 @@
    "annos": null
   },
   {
-   "id": "f-kuow-paMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGcoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Extreme tides start to land on Washington coast",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFRlLTJBczZvTkRsbGtTSVlTV25NUWFialRnUEN0YW5jczM4b2NZZjhNNDg2d2NXbWdMWUxtUFo2QUE2NkwyT1RzdXg5WGVyRVkwa2E4TXlyc3Y3X0taR1VTNVZsZnZiS0MzbDVGd0dtNFN6MHFxbW1jeEpaMTdqUEJZSVVUaFdpTUJqUFVDa0dGTmNtdGc?oc=5",
-   "paras": [
-    "Extreme tides start to land on Washington coast KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-NSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13oc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "How one Seattle food bank navigates challenging times and continues to grow",
-   "author": "",
-   "date": "2026-11-25",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnZfS1UzVHFpcWdvb2tzVE51ZE5uZXBzTktBTXhRNmpLUFNuaTRoXzZzNlY5ekw0QlZvbkJlSHJwMElUSWh4bldXdHRvNXduTHc4Vjg0cmRQYTJUUk5HS1hxdjVISjhaU2tSNjJrUTJQNXZock9nY1l6akhsVl9kaU56NVF5MnlSbEFYSGR3eFB3VkswTTdNSDR0SWlwRzlnR1hUazZoVWdWR1NQZUtfWk13?oc=5",
-   "paras": [
-    "How one Seattle food bank navigates challenging times and continues to grow KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-geekwire-lboardstrolltechadsandtellpeopletolookup",
    "srcKey": "geekwire",
    "cat": "tech",
@@ -1328,92 +1417,6 @@
     "“We’re hoping to grab attention, spark curiosity, and remind Seattle that there’s a lot happening at SAM worth leaving the house for,” Flaherty said."
    ],
    "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/sam-claude-monet.jpg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-agemachinesliveonatamuseumsouthofseattle",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Living Computers closed, but its spirit and vintage machines live on at a museum south of Seattle",
-   "author": "Kurt Schlosser",
-   "date": "2026-11-24",
-   "url": "https://www.geekwire.com/2026/living-computers-closed-but-its-spirit-and-vintage-machines-live-on-at-a-museum-south-of-seattle/",
-   "paras": [
-    "When Seattle’s Living Computers: Museum + Labs closed for good in 2024, it seemed like the end of the line for anyone who wanted to do more than just look at old computers.",
-    "But in a Tukwila business park 20 minutes south of downtown, a sizable collection of vintage computers is still alive — kept running by a few of the same people who once did the same for Paul Allen.",
-    "The Interim Computer Museum is a nonprofit that opened to the public in 2024 and has quietly grown into a hands-on showcase of dozens of machines, from early Apples and IBM PCs to hulking DEC systems that once filled university labs. At 4,400 square feet of public space, it’s nearly as big as Living Computers was before that museum expanded in 2016.",
-    "ICM is led by Stephen Jones , who calls himself the museum’s “caretaker.” Jones spent two decades helping track down and restore machines for Allen, first at PDP Planet, Allen’s private collection of vintage systems, then at Living Computers, where he was senior engineering manager.",
-    "When the late Microsoft co-founder’s estate wound down Living Computers, the majority of the collection went to the Mimms Museum of Technology and Art in Georgia , where Jones is also a curator. The machines in Tukwila are privately owned, and Jones has helped bankroll ICM with personal funds, with plans to eventually donate the collection to the nonprofit.",
-    "The Mimms museum now holds the Living Computers trademark and has granted ICM “legacy use” of the name, but Jones said he didn’t want to revive it as ICM’s own because “it has a finite past.” Instead, he wants to carry on “the spirit of the engineering focus.”",
-    "“Between Mimms and here, this is the legacy,” Jones said. “We show the name and the connection to the past, but we’re doing new things.”",
-    "ICM occupies space in Seattle Exchange @ Southcenter , a sprawl of low-slung flex buildings off Strander Boulevard near Westfield Southcenter mall. Its neighbors include a car detailer, a pest control company, a welding shop, an embroiderer and an upholsterer.",
-    "More than four decades ago, Seattle Computer Products operated just down Industry Drive. That’s where Tim Paterson wrote 86-DOS, the operating system Microsoft bought and turned into MS-DOS for IBM’s first PC.",
-    "Jones calls that proximity part of the “magic” of the location. The museum has a Gazelle computer that SCP built nearby, using boards that Jones said the company hired high school students to assemble and test. Volunteers recently pulled data off its hard drive, which boots into MS-DOS 2.11 and still holds SCP’s own source code.",
-    "Allen’s fingerprints are everywhere. One display holds a 1971 letter from Hellmut Golde, director of the University of Washington’s Computer Science Laboratory, kicking Allen and his “friends from the Lakeside School” out of the lab. Among the offenses: tying up the teletypes to print “endless listings,” and taking an acoustic coupler from a professor’s office “without leaving at least a note.” Golde asked them to turn in their keys.",
-    "The letter sits beside an Imlac PDS-1, the same type of graphics computer Golde scolded the teens for using without permission. More than five decades later, the letter is headed back to campus: ICM plans to display it, along with the Imlac, at UW’s 60th anniversary celebration for its computer science program in March.",
-    "Jones recalled that Allen insisted visitors to Living Computers get “the 10-minute experience” of loading an Altair 8800 from paper tape, just as he remembered it. The kit computer was the machine for which Allen and Bill Gates wrote Microsoft’s first product, and Allen wanted to reinforce “how far we’ve come and how difficult old computers were.” ICM has an Altair 8800 on display .",
-    "Around the corner is Miss Piggy, a DEC datasystem 570 that Microsoft used in the early 1980s to support the group that built Multiplan, Word and later Excel. It was also the email host for much of the company, including Gates, who once had to print out an important message on its console printer when the system went down before a speaking engagement.",
-    "Recovered email shows Allen pushing to get Piggy networked. “Paul Allen is very keen on doing this,” Henry Burgess wrote in 1982. Retired in 1986, the machine now runs again in Tukwila. It’s one of ICM’s most popular remote systems, and some fans come in just to write programs while sitting next to it.",
-    "Other local ties include a PDP-7 that Boeing used to process flight data in the 1960s, and a Toad-1, a modern take on the PDP-10 built in the 1990s by Redmond’s XKL. Jones first got involved with Allen’s world through a 1997 Usenet post inviting PDP-10 enthusiasts onto a Toad. That machine became the cornerstone of PDP Planet.",
-    "In a 2024 video for Christie’s , Jones said what inspired Allen was “being able to recover old programs, mythical code, and get them running on hardware so that they can be studied.”",
-    "Asked what Allen would make of ICM, Jones didn’t hesitate. “I think he’d be happy,” he said.",
-    "On a monitor beside ICM’s PDP-6, a 1968 artificial intelligence program is having trouble.",
-    "“SORRY, I DON’T KNOW THE WORD ‘STEEPLE,'” it replies.",
-    "The program is SHRDLU, created by Terry Winograd at the MIT AI Lab. It let a user type plain-English commands to move blocks around a virtual world. Only the PDP-6’s front console and display survived, so ICM is rebuilding the machine as a “hybrid,” with the original hardware wired to an emulator.",
-    "Jones sees a lesson in that old error message. “You look at this and you think of how we use ChatGPT now,” he said. “The cool thing about SHRDLU is that it can tell you ‘I don’t know.’ It doesn’t try to fabricate anything.”",
-    "ICM has its own ties to the modern AI world. An Anthropic employee is a member and strong supporter, and in October the museum brought six vintage computing stations to an Anthropic event, where the company’s Claude chatbot wrote programs for machines like the Commodore 64.",
-    "Back in Tukwila, Claude has become one of ICM’s most useful restoration tools. The team feeds it huge stacks of scanned documentation, such as the full set of schematics for a PDP-10. When a machine has a logic fault, they ask where to look, and Claude points them to a page in the maintenance manual or a likely bad module.",
-    "“That’s turned things that would take a couple of weeks to solve into a couple of days,” Jones said.",
-    "AI can point the way, but the repairs remain hands-on work. When Miss Piggy wouldn’t run properly this year, former Living Computers engineer Josh Dersch stepped through the machine’s microcode one instruction at a time using a recreated DEC test board, until he found a single bad chip. A spare board brought it back.",
-    "Asked if it still takes a human to keep these machines running, Jones agreed — at least for now. If a humanoid robot with AI built in ever shows up to do the repairs, he joked, “then I sit at the front desk all day.”",
-    "Nearly everything at ICM is meant to be touched, switched on and played with, and that can be intimidating. On machines with nothing but a text prompt, “you kind of have to know the commands in your head already,” Jones said.",
-    "That’s by design. From the start, the idea was to challenge people “either by confronting them with their past or demonstrating how difficult it was,” Jones said. His example: two friends, one with an Apple IIe and one with an IBM PC, whose computers “could never share” software. ICM continues that legacy, he said, “challenging the visitor to go beyond what they might feel comfortable with.”",
-    "Volunteers have written cheat sheets to help newcomers, and Jones is encouraged when families come in and kids start typing BASIC programs. “That to me was the spirit of what PDP Planet and Living Computers was meant to be,” he said.",
-    "Very little is behind glass. Jones jokes that a Timex Sinclair 1000, which would wipe your painstakingly typed program if you bumped it, is “the only computer that deserves to be behind glass.” The goal, he said, is to avoid “a boneyard that people walk through.”",
-    "Other highlights include Galaxy Game , the first coin-operated video game, installed at Stanford in 1971 and now being restored, and a Thinking Machines CM-2 supercomputer, whose 40th anniversary ICM just celebrated with members of its original design team.",
-    "For younger engineers raised on modern tools, Jones has a go-to move. He asks if they’ve used Linux, then walks them over to the PDP-7, the type of machine Unix was first written on more than 50 years ago. Many of the basic commands they type every day started there.",
-    "The collection totals about 6,000 artifacts. Volunteers are also slowly working through roughly 3,000 magnetic tapes and disk packs from Living Computers’ software preservation program. And ICM keeps 32 historic systems online, where members can log in from anywhere to use vintage operating systems, programming languages and games.",
-    "That remote access helps explain why ICM has about 500 members and sponsors, even though only 81 members have visited in person this year. Memberships start at $36 a year. Along with a King County grant through 4Culture, they help cover rent, with personal funds from Jones filling the gap. The museum hopes to become self-sustaining within five years, and maybe someday buy its own building.",
-    "The museum’s name reflects the urgency. “We’re in this magic window right now, where the hardware can still run, we can still maintain it, you can replace parts,” Jones said. “But slowly we’re getting further and further away.”",
-    "ICM is open Saturdays through Mondays from 10 a.m. to 4 p.m. Admission is $9 for adults and free for those under 18. Last May, the museum revived Vintage Computer Festival Pacific Northwest, which had been canceled in March 2020. The event drew 981 people, and it returns May 1–2 at the Tukwila Community Center.",
-    "Among the machines on the floor is MIT-AI, a DECsystem-2020 that once served as the ARPANET host for MIT’s Artificial Intelligence Lab. As Living Computers shut down in 2024, Christopher Zach, who sold the machine to Allen, told GeekWire he was ready to drive a U-Haul to Seattle to rescue it.",
-    "When a friend of Zach’s stopped by ICM’s booth at WorldCon and asked about “Chris’s computer,” Jones had a simple message to pass along: “Please just tell him it’s safe.”"
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/ICM1.jpeg",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-geekwire-launchespropulsionbusinessbeyondthewater",
-   "srcKey": "geekwire",
-   "cat": "tech",
-   "title": "Electric boat maker Zin Boats raises $5M and launches propulsion business beyond the water",
-   "author": "Kurt Schlosser",
-   "date": "2026-11-24",
-   "url": "https://www.geekwire.com/2026/electric-boat-maker-zin-boats-raises-5m-and-launches-propulsion-business-beyond-the-water/",
-   "paras": [
-    "Zin Boats made a splash with fast, pricey electric boats. But most of its business is now coming from what’s under the floor.",
-    "The Seattle startup has launched Zin Power , a new division that will supply its electric propulsion systems to other boat builders and to industries that rely on diesel engines, such as construction and mining.",
-    "The company also raised $5 million to scale up production and expanded its headquarters in the Interbay neighborhood to 11,000 square feet.",
-    "About 90% of the company’s revenue comes from selling motors and batteries to customers in the marine and drone industries, founder and CEO Piotr Zin told GeekWire. A typical setup includes two motors and about 500 kilowatt-hours of battery storage.",
-    "“We noticed a steady demand for pleasure craft year over year, but at the same time a massive increase in propulsion sales,” Zin said.",
-    "Customers include StanCraft Wooden Boats, which teamed with Zin on the 340 Hammerhead E, an all-electric wooden runabout. StanCraft delivered the first one to a customer this summer.",
-    "GeekWire first checked out the company in early 2024, when it was relaunching after a pandemic shutdown with its Z2R , a 20-foot carbon fiber runabout. Later that year Zin showed off the Z11, a 37-foot electric tender designed to shuttle passengers to and from megayachts at more than 60 mph. The company said boats on the platform would cost $1.75 million to $3.75 million.",
-    "The company also offers the Z7 Convertible , a 22-foot runabout with a removable roof that it pitches for fishing, surfing and cruising. The boat has a top speed of 40 mph and a range of more than 80 miles",
-    "Zin Power grew out of the drivetrains engineered for those boats. Zin sees the marine track record as a selling point for other industries that need high torque, including construction, mining and remotely operated vehicles (ROVs).",
-    "“The ocean is one of the harshest environments there is, so the technology has already proven itself under about the toughest conditions it could face,” Zin said.",
-    "Many of those machines still run on diesel engines, a technology more than a century old. Zin said operators are eager to switch to electric.",
-    "“What’s interesting is that economics is driving the shift, not regulation or image,” he said.",
-    "Electric systems cost up to 70% less to operate, according to Zin. He estimated that replacing a single 250-horsepower industrial diesel engine that runs eight hours a day could save as much as $1.5 million over 10 years.",
-    "The new funding will pay for more manufacturing capacity, a dedicated sales and engineering team to work with boat builders, and support for customers converting from diesel. Zin calls it a seed round, with a larger raise planned down the road. The company has raised $6.5 million to date, including a $1.275 million seed round in early 2024.",
-    "Zin Boats has nine full-time employees and brings on about a dozen contractors as needed.",
-    "For now, each Zin Power system is built to order. The company’s motors range from 100 to 600 kilowatts and deliver up to 2,700 pound-feet of torque, and its systems can run fully electric or as hybrids. A proprietary control unit that Zin Power calls the “Magic Box” manages everything from charging and cooling to software and safety.",
-    "“Our goal is to keep delivering what we’ve built while developing simpler, more advanced plug-and-play systems,” Zin said. “Eventually, we want a customer to be able to pull out a diesel engine and drop in a Zin Power system as a direct one-for-one replacement.”"
-   ],
-   "img": "https://cdn.geekwire.com/wp-content/uploads/2026/11/zinboats1.jpg",
    "fetched": true,
    "fullText": true,
    "annos": null
@@ -1581,40 +1584,6 @@
    "annos": null
   },
   {
-   "id": "f-stranger-mpttoinjectdarkmoneyintoseattleelections",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "‘A Brazen Attempt to Inject Dark Money Into Seattle Elections’",
-   "author": "Nathalie Graham",
-   "date": "2026-11-24",
-   "url": "https://www.thestranger.com/news/a-brazen-attempt-to-inject-dark-money-into-seattle-elections/",
-   "paras": [
-    "Last week, Wayne Barnett, the historically even-keeled executive director of Seattle’s Ethics and Elections Commission, dismissed a complaint related to this year’s elections (in short: the complaint was that former elected officials were attempting to quietly finance moderate city council candidates outside the lines of city and state ethics laws). But in Barnett’s dismissal, he […]",
-    "The post ‘A Brazen Attempt to Inject Dark Money Into Seattle Elections’ appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/sesame_GettyI-mages-1409813045-copy-scaled.jpg?fit=1024%2C704&ssl=1",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
-   "id": "f-stranger-hitandwerelosingtheiranwarharderthanever",
-   "srcKey": "stranger",
-   "cat": "arts",
-   "title": "Slog AM: Local Government Is Mum on Actually Fighting ICE, Our Tech Oligarchs Are Up to Some Shady Shit, and We’re Losing the Iran War Harder Than Ever",
-   "author": "Hunter Pauli",
-   "date": "2026-11-24",
-   "url": "https://www.thestranger.com/slog-am/slog-am-local-government-is-mum-on-actually-fighting-ice-our-tech-oligarchs-are-up-to-some-shady-shit-and-were-losing-the-iran-war-harder-than-ever/",
-   "paras": [
-    "Local government quiet on what to do about ICE snatching people at the airport: Maybe it’s too early to tell, but so far the response from state and county officials to federal immigration police dragging two immigrants out of a Sea-Tac jetway isn’t exactly inspiring, based on a roundup of comments from the Seattle Times. […]",
-    "The post Slog AM: Local Government Is Mum on Actually Fighting ICE, Our Tech Oligarchs Are Up to Some Shady Shit, and We’re Losing the Iran War Harder Than Ever appeared first on The Stranger ."
-   ],
-   "img": "https://i0.wp.com/www.thestranger.com/wp-content/uploads/2026/11/IMG_3941-scaled.jpg?fit=1024%2C768&ssl=1",
-   "fetched": true,
-   "fullText": false,
-   "annos": null
-  },
-  {
    "id": "f-grist-otkitsapcountywashingtonannarbormichigan",
    "srcKey": "grist",
    "cat": "climate",
@@ -1668,40 +1637,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-jU1Q2aWVqUWdxQ3h3YzlhaWxlMFNLdDNHcG9noc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Union has early concerns with WA teacher sex abuse proposal",
-   "author": "",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVo3cHBwSlpBcDVnVmxFOE83NnRkbmFXUlNaOUJHbkNUSEpZV0pVNWJKTGxFX2R4M0k3eFRxYzh0dEV4aEF3c29Pa2VNd3JobFR4eHFkeUFxbjN0T2g3b2V1RzFqWlpCNnJCY01tTkhKTVpGdFBYTUpxQzlQMmJZMm80ajFodW5FaWh4TGprZEhjbV9LaGIwRmZ0RVpEM29OUmhkcVJIUWVFeHF6Unl4NXZLN1kzaWxZampjU1Q2aWVqUWdxQ3h3YzlhaWxlMFNLdDNHcG9n?oc=5",
-   "paras": [
-    "Union has early concerns with WA teacher sex abuse proposal InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-kuow-dsZmlnNzVNVXVDejZLT2V0U3p6ZFNzM3h4MWsoc5",
-   "srcKey": "kuow",
-   "cat": "local",
-   "title": "Submit ‘biological sex’ form to compete, Seattle schools tells girls",
-   "author": "",
-   "date": "2026-11-24",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGVfYUI3R1BXcFpuSDNORkZER0FsUUw4eGIwanV3U0tiY0dSTVQzdzFfVzB1RHFQdWxDS1B0Ty1VVWEtUEQzUkQzMVBoNEh3ZzhwalRwcU9FQkpLSG40STZWWFlYd2VVRG8wdkdnVmhEbndVeXFPb1NIN2dHcDdXVXJkc1F0YldROGhjUnY5WUdsZmlnNzVNVXVDejZLT2V0U3p6ZFNzM3h4MWs?oc=5",
-   "paras": [
-    "Submit ‘biological sex’ form to compete, Seattle schools tells girls KUOW"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-ZhV2tqa1VvRThmYnFFdVdFVVZKWXJnTWkxa0Eoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1711,6 +1646,23 @@
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT3hUNHA1T2EzdEtHV1dNUjM5MlNMd0tvWnFPUVh5TnpmX2lwRW90dDQ3Q1JlNmhIbnFTcU0tc2EzcWZYN2d1aDhhNnNjbVJ4SjRXYVNwVkRYLU0xWWdaV0hFNl8zOE03VlJFRFVYbGRxRDlaU3ZtVlBWamgzVUFEVDZYenhfSFdXenNOYWEtdzdJYnZhV2tqa1VvRThmYnFFdVdFVVZKWXJnTWkxa0E?oc=5",
    "paras": [
     "PNW braces for El Niño-fueled, possibly record-breaking king tides KUOW"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-jU1Q2aWVqUWdxQ3h3YzlhaWxlMFNLdDNHcG9noc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Union has early concerns with WA teacher sex abuse proposal",
+   "author": "",
+   "date": "2026-11-24",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVo3cHBwSlpBcDVnVmxFOE83NnRkbmFXUlNaOUJHbkNUSEpZV0pVNWJKTGxFX2R4M0k3eFRxYzh0dEV4aEF3c29Pa2VNd3JobFR4eHFkeUFxbjN0T2g3b2V1RzFqWlpCNnJCY01tTkhKTVpGdFBYTUpxQzlQMmJZMm80ajFodW5FaWh4TGprZEhjbV9LaGIwRmZ0RVpEM29OUmhkcVJIUWVFeHF6Unl4NXZLN1kzaWxZampjU1Q2aWVqUWdxQ3h3YzlhaWxlMFNLdDNHcG9n?oc=5",
+   "paras": [
+    "Union has early concerns with WA teacher sex abuse proposal InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1756,23 +1708,6 @@
    "annos": null
   },
   {
-   "id": "f-invw-QxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0Eoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "SpaceX fights $6,000 WA fine for toxic exposure",
-   "author": "",
-   "date": "2026-11-23",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEhDR2RXMFlwUUo2X3dHSnUzV3hqRkUxQk13T0FvWlJiLXVBbEpwMjVWOFpzb1BOMzlIM2phRVJCenY0V0I2NXU4MXc2aFFvNzVsSXZNdV9LUU5lNnpkSkVTLTdjbWI2VWZzMDlKSk1UUHJ3LXZ3VERSSTJsREd5LTUyeWtxQ0c1ZEFXUTYzTGIwckpNWnpDVGhJM3owcDBOZ1ZFZEw2b0RTMjQxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0E?oc=5",
-   "paras": [
-    "SpaceX fights $6,000 WA fine for toxic exposure InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
    "id": "f-kuow-FQSWZaTUtqSXpDcFZoMml3TmdUV2hWVDJ1cTgoc5",
    "srcKey": "kuow",
    "cat": "local",
@@ -1807,6 +1742,40 @@
    "annos": null
   },
   {
+   "id": "f-invw-QxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0Eoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "SpaceX fights $6,000 WA fine for toxic exposure",
+   "author": "",
+   "date": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEhDR2RXMFlwUUo2X3dHSnUzV3hqRkUxQk13T0FvWlJiLXVBbEpwMjVWOFpzb1BOMzlIM2phRVJCenY0V0I2NXU4MXc2aFFvNzVsSXZNdV9LUU5lNnpkSkVTLTdjbWI2VWZzMDlKSk1UUHJ3LXZ3VERSSTJsREd5LTUyeWtxQ0c1ZEFXUTYzTGIwckpNWnpDVGhJM3owcDBOZ1ZFZEw2b0RTMjQxV3VBSHVkT05Bam1HRmFDVmNrYm1laVJ2N0E?oc=5",
+   "paras": [
+    "SpaceX fights $6,000 WA fine for toxic exposure InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-invw-doaFliQ2ROM0NuRXUwZ2JIeTBHMHE3U3UxTGMoc5",
+   "srcKey": "invw",
+   "cat": "local",
+   "title": "Celebrate Lisa & Paul by Standing Up for the Truth",
+   "author": "",
+   "date": "2026-11-23",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pLV9BdGdVTHB0dW1mOU56TDhYcEF3SmQ4NHZsUVh6ZjdpTEpLXzVRNGFXejJQMnRjU2FaaklJSTh3MGlhUzNhOU9KSUdoaFliQ2ROM0NuRXUwZ2JIeTBHMHE3U3UxTGM?oc=5",
+   "paras": [
+    "Celebrate Lisa & Paul by Standing Up for the Truth InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
    "id": "f-stb-blogcom20261122sundaymoviebicyclehistory",
    "srcKey": "stb",
    "cat": "transit",
@@ -1824,23 +1793,20 @@
    "annos": null
   },
   {
-   "id": "f-urbanist-stsoutnewhendersonbikelaneinrainierbeach",
-   "srcKey": "urbanist",
-   "cat": "transit",
-   "title": "Best Side Cycling Tests Out New Henderson Bike Lane in Rainier Beach",
-   "author": "Doug Trumm",
+   "id": "f-emerald-FYdnNaZEpNZFM3VnJfUF9PTS1iQTBfMzBrTHcoc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "DOOM LOOP: Winter Personality",
+   "author": "",
    "date": "2026-11-22",
-   "url": "https://www.theurbanist.org/best-side-cycling-tests-out-new-henderson-bike-lane-in-rainier-beach/",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0cxdkdVWDEwOHJlV0dvOTJrQ0d0MGVZU0pIM1lFaURaMmZicWw3SlFtSWNlOERrZHMzRGNQbDFXUmlFZ1h0aGxJQm5BOTNIZlpEMnVOSEkzYTh3UXFqR0l5OGZueHlMa1MwMkowLS1aU3VPVUhkblk4TmJCZHYxaE5WY1DSAZIBQVVfeXFMT25VWjVDMjBXMlNNUmQtTVdwTUwzVzJsZkZ1SVl2N3Ntd2pOTVd0NkpmcFZzdHN6NWNiSnVKdDNhQW1DREYtWVpYYXU4NlVZTDcxRml0d2RWQ3dtbW9MWE0zY2NsVVMtWEp2SGJmWk9nV2VONzZCekFYdnNaZEpNZFM3VnJfUF9PTS1iQTBfMzBrTHc?oc=5",
    "paras": [
-    "Hanoch of the Youtube channel Best Side Cycling visited an important new protected bike facility in Southeast Seattle, which upgraded safety conditions on the crash-prone corridor of S Henderson Street. The new facility safely connects Be'er Sheva Park and Rainier Beach School in the east to the Chief Sealth Trail farther west, linking destinations like South Shore K-8 school and Rainier Beach Pool and Community Center along the way.",
-    "The Seattle Department of Transportation (SDOT) incorporated Toronto-style concrete barriers on much of the facility to make sure the bike lane is truly protected. Road medians and speed cushions also provide traffic calming on the speeding-prone thoroughfare, aiding all people using the street. With trees still in their fall glory, it's a great time to ride the facility. That said, Hanoch gave the sage advice to tread carefully over piles of leaves as they can be very slippery, especially when wet.",
-    "South Seattle has generally trailed North Seattle and the downtown core in getting high-quality protected bike lanes, and that has contributed to it seeing far more fatal crashes and serious traffic injuries than other districts of the city. SDOT reported 71 crashes in the Henderson segment alone from 2021 to 2022, as Best Side Cycling noted, underscoring the need for the project.",
-    "However, bit by bit , SDOT is pushing to make up the gap, with the safe streets community long pressing for a more equitable distribution of safe facilities across the city – flagging that South Seattle was getting left behind. Though delayed, major bike network upgrades are planned in South Beacon Hill (extending the recently completed North Beacon Hill bike lane ) and Georgetown .",
-    "As for the new Henderson facility, Hanoch's review was positive: \"I don't mean to just glaze SDOT, but this one I really do feel they're taking a lot of the best practices they've seen in a lot of different places, and we will use them here, like this daylighting in front of those that parking. It's much bigger than some other places like on Union Street.\""
+    "DOOM LOOP: Winter Personality South Seattle Emerald"
    ],
-   "img": "https://storage.ghost.io/c/19/31/1931222a-d1c5-42ac-8932-2ee3ac1f8927/content/images/2026/11/Best-Side-Cycling-on-Henderson-Street-2026-11-22.jpg",
+   "img": "",
    "fetched": true,
-   "fullText": true,
+   "fullText": false,
+   "gnews": true,
    "annos": null
   },
   {
@@ -1871,47 +1837,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTnBDaVlEWlJvYk9wVV9aakNtam43Z1dtckUzZ25HckxKaWZCQXFMNDZYT0lOd3hzQ1k3RTFUN0NidDlLTmJ6V2JYenEtT0dqSUNCRjUxTVVCc2lpZzBoZHpZZkdyRmxoZ0ZORHhveU5mMjVTVHBlOFIwTDFDYTVjMVlWNE9OMlBaNjFKa0YtczRoS2NjOU5JSFllMVVMOTNlMVp6TC1CZVZmVDlpWEVxQXU1TC1UQTd1M214SThWU0o?oc=5",
    "paras": [
     "Spokesman-Review nonprofit plan dies with editor's departure InvestigateWest"
-   ],
-   "img": "",
-   "fetched": true,
-   "fullText": false,
-   "gnews": true,
-   "annos": null
-  },
-  {
-   "id": "f-stb-om20261119historyofautomatedtraincontrol",
-   "srcKey": "stb",
-   "cat": "transit",
-   "title": "History of automated train control",
-   "author": "Martin Pagel",
-   "date": "2026-11-19",
-   "url": "https://seattletransitblog.com/2026/11/19/history-of-automated-train-control/",
-   "paras": [
-    "As I explained a few years ago , automating new lines and even existing lines would have many advantages. Even Sound Transit has recently considered automating the Ballard extension. Some people still consider automated train control (ATC) as unproven even though many airports (SeaTac, JFK AirTrain…) and subways use this technology such as Vancouver Skytrain and new lines on Hawaii and in Montreal already use the technology. Let’s look at the history .",
-    "Automating trains is much easier than having fully autonomous cars. As long as the trains run on tracks in a separate right of way, no complex video or even lidar systems are required but track sensors and a more powerful signaling and train control system. Platform doors are often added for additional safety.",
-    "Boston already started to experiment with automating trains in 1901. Berlin in 1928. Paris operated a short line from 1952 to 1957 but didn’t have funds for upgrades until the first main line was upgraded in 1966. More lines have been upgraded since. Tokyo started limited operation in 1962, more lines have been added since. Hitachi automated the Disney and Linimo monorail. London started tests in 1968. The Victoria Underground Line finally started fully automated operations in 1967.",
-    "While initially the trains still had a driver, fully driverless operation started in Kobe (Japan) and later in Lille (France), Barcelona and airports such as JFK.",
-    "In Nürnberg (Germany) they even allowed mixed operation between traditional and driverless trains in 2008.",
-    "More modern light metros such as Vancouver’s Skytrain (in 1985), London’s Dockland Light Railway (in 1987) and Copenhagen were designed as automated systems from the beginning allowing for shorter trains without a cab, smaller stations, and higher frequency. Recent new lines in Montreal (REM) and Hawaii also leveraged these advantages. Now many systems around the world are driverless. While Italian Ansaldo/Hitachi Rail STS developed their train systems around ATC, established rail provides ( Alstom Urbalis Fluence and Siemens Trainguard MT ) added ATC support to some of their existing rail offerings. Siemens AutomatedTrain effort is even automating regular heavy rail operation including the video detection of obstacles along the tracks.",
-    "As I explained in my prior post, Sound Transit had evaluated various modes in 2014. This included automated light metro systems such as Skytrain. At that time they decided on light rail technology for the spine to allow for both DSTT as well as at-grade operation. However, for some extensions Sound Transit is now planning, such as Ballard, it might be better to keep them separate rather than interlining them to leverage ATC advantages such as higher frequency and smaller stations.",
-    "As the northern Link line is fully grade separated, Link trains could even run fully automated from Everett to downtown. This would allow more precise acceleration and breaking, reduced headways (as close as 60sec) and faster turnaround at the end of the line, reducing the need for pocket tracks. Alstrom claims it reduces trackside equipment usage by up to 20% and energy consumption by up to 30%.",
-    "I hope Sound Transit would seriously consider automation where feasible."
-   ],
-   "img": "https://i0.wp.com/live.staticflickr.com/4078/4772123297_50b937e400.jpg?resize=500%2C333&ssl=1",
-   "fetched": true,
-   "fullText": true,
-   "annos": null
-  },
-  {
-   "id": "f-invw-ieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nxoc5",
-   "srcKey": "invw",
-   "cat": "local",
-   "title": "Facing cuts, Oregon could limit special Medicaid programs",
-   "author": "",
-   "date": "2026-11-19",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEhRdmR6RnNtZmxuVTRoZkZTSjZfYnR1X2U1akl3eklNOGVjSjFsa0phV2RkdFE4Y2RuRm5MLWdrX0JucXNZd3NLYjNpVVE5Qk9fOVZJRXhPX2ZVU3hod0RXSERtZmdTSU9TT1cwNkdCTk1BSDNhTTFMUGViakJlYlVuMnowcWxqNlJaa2NqcExjTFRMS2llWDlqTGlieUE1WTNzMHlyZi1XS1V0MmJ0eWpvNC1KZ3Nx?oc=5",
-   "paras": [
-    "Facing cuts, Oregon could limit special Medicaid programs InvestigateWest"
    ],
    "img": "",
    "fetched": true,
@@ -1965,6 +1890,23 @@
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjE3dHRHYS1FbzZiRWtUeXNTQm8wY1NyOXZjRVFad0VBaW9nVUROZk9oTUdocFdvODdnNjV6Mk5pdWM2NWRpdDVldWFrYjhzSnNocE04cUVlbzFVV0xZdkZYVDhEY1l1MjJGRFd3UUVPbmFVSzBLWjNHbDVOLU9BZEI1NXhjMlc2WGRLcEdvV3ZEVHhBZ3BQdllwN1ptM1JOUWw2SlFiSGd2T3hmVmN2SXFBRVdib041R2YzcGR5SnVVTTdFTXc?oc=5",
    "paras": [
     "Idaho judge orders release of police employment records to InvestigateWest, Invisible Institute InvestigateWest"
+   ],
+   "img": "",
+   "fetched": true,
+   "fullText": false,
+   "gnews": true,
+   "annos": null
+  },
+  {
+   "id": "f-emerald-4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21Roc5",
+   "srcKey": "emerald",
+   "cat": "community",
+   "title": "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus",
+   "author": "",
+   "date": "2026-10-29",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMElWcHB0d3RoUmR1NnZ5Wm1DTzRWTGNyamRvMG1LRXBjaE5JNGpQRlB0VjFuNnc0dzh1SzBTZFZvLXBjckdCbGxhT0xWNlp0Qk9wODFDLWxPZzBXbHIyWWpka1pwWlYxNU5oVlY4ajV6bzFIb0g4aExPTmNfUTVRanh5NkZaVDV5NmFGVHQ0UHdnTGZ1Nm5yOG9UanZxVEF6RVVEUXZrVlc2bThKUVVtS1Z3ZXZXcW1KU04zUXFjT1N0bVRGNEJKT0R30gHXAUFVX3lxTE1aUjhVX1BpSi1fbEE5NE40bElrcDhhRGV0MmNxRWk2RDlsTk4xa3NTUHRmdDh5UkVHV1FCSmlrN1FPYmxkNWZpVzJkV3RKV1N3b0R5S0VfdFpKb0I0bmlkMWcxOG5kMTlHenhTU3FLc0l0QVVtbmFEbVRVQ3Bxc2JFSTVlZERqc3U5ZTNpS1RuU0hnb29SSmNvREVERm1Pa016RzQwQ3M1cExmcFpNbnZfU0NUU1JPT3lsZTA4M3NneW9rR2tmU0Q1YlJTX3ZudHQ1TFd0Q21R?oc=5",
+   "paras": [
+    "Halloween Restoration in Delridge's Pocket Forest Puts Salmon Habitat in Focus South Seattle Emerald"
    ],
    "img": "",
    "fetched": true,
